@@ -325,3 +325,97 @@ Inherited from es-ni and all still true:
 **Read `scenicprints/fluidez-es-ni/HANDOFF.md` and `NEXT.md`.** Every gate in
 this project is a port of one of theirs, and the reasoning for each is written
 down there in full. Do not rediscover it.
+
+---
+
+## 10. The look, and how it was arrived at
+
+Decided 2026-08-25, on Kevin's call after several rejected passes. Recorded
+because none of it is recoverable from the code.
+
+### Bluemli, the mascot
+
+A **Braunvieh** cow, the breed of central Switzerland, not the black and white
+Holstein people picture from abroad. Named Bluemli, a real traditional Swiss
+cow name, and the `-li` diminutive is the most Swiss German thing in the app.
+Same trick Momo plays by being Nicaragua's national bird.
+
+**Why a cow, when a marmot was drawn first and recommended.** The bell. Momo's
+entire idle is a racket-tipped tail swinging like a pendulum, and a bell on a
+strap is that same motion except a bell is meant to swing, so it inherits the
+best mechanical idea in the app for free. Kevin also caught that "it is a
+cliche" does not survive the precedent: Momo is the postcard animal of
+Nicaragua and that works fine.
+
+**Rejected, with reasons, so they are not re-proposed:**
+
+| | Why not |
+|---|---|
+| **Mungg**, alpine marmot | Genuinely good, still drawn, parked in `creatures.js` as a one-line swap. Its advantages are aesthetic; the cow's are mechanical. |
+| **Alpendohle**, alpine chough | A bird, so every animation ports untouched and it is cheaper. But two courses in a row with a bird makes the app feel like one course in two hats. |
+| **Pilatus dragon** | The most Luzern-specific option, but invented rather than observed. What makes Momo work is that his idle is real motmot behaviour. |
+| **Steinbock** | Majestic rather than warm, and the horns are illegible at forty pixels. |
+
+**Three drawing passes were rejected before the fourth landed.** Written down
+so a redraw does not reintroduce them:
+
+- The head was nearly square. A cow's is **tall**, roughly half skull and half
+  muzzle, narrowing through the cheek before the nose pad flares again.
+- Every form was one flat fill. Momo reads round because each shape carries a
+  lighter cap and a darker trailing edge. Without that it is clip art.
+- The muzzle was a rounded rectangle. It is a flared pad with a philtrum groove
+  and kidney nostrils that open outward.
+- The ears pointed straight out sideways. They sweep out **and down**, and they
+  join the skull rather than floating beside it.
+- The collar was a flat trapezoid with two straight stripes, which read as a
+  flag, and it sat inside the swinging group so the strap rotated with the
+  bell. **The collar is static and only the bell swings.**
+
+### Alpine night
+
+**Swiss red and white on neutral charcoal.** Two earlier attempts failed and
+both failures are instructive:
+
+1. **Cooling the ground only.** The grounds went warm-black to cool charcoal
+   and Kevin correctly said it looked unchanged, because `--oro` was painting
+   every button, tab, ring, glow and chip, and gold-on-dark *is* the Nicaraguan
+   signature. Changing what sits underneath a loud accent changes nothing.
+2. **Glacier blue.** Exactly backwards: **blue and white is Nicaragua's own
+   flag**, so it made the second course look more like the first. Switzerland's
+   colour is red.
+
+**The fix that made it possible** is an improvement to the app regardless of
+palette: `--oro` was doing two jobs, meaning both "growing" in the memory model
+and "this app" as the brand colour, so no second course could be repainted
+without changing what a colour *means*. Chrome now reads `--accent` and
+`--chrome-grad`; the memory ramp keeps `--oro`.
+
+**The rule that constrains any future palette:** the three memory-strength
+colours (jade locked in, gold growing, clay fading) are **identical in every
+course, on purpose**. A locked-in word looks the same whatever you are
+learning. Identity lives in the ground, the text and the chrome. Do not tint
+the memory colours per language.
+
+The chrome is a red/white gradient with white compressed into the first ~40%,
+so a white label always sits on red. Worn by the primary button, level chip,
+active tab pill, streak ring, progress bar, perch glow, the Im Bau title and
+the picker selection. **Not** by ghost buttons, or the primary stops meaning
+anything.
+
+### The interface is German
+
+Heute, Weg, Szenen, Woerter, Wiederholen, Wortstellung, Nachsprechen. Kevin's
+call: a beginner meets about a dozen words on day one and never looks them up
+again. **The phase names went German too** (Ankommen, Einleben, Freunde finden,
+Unterwegs, Nah am Herzen, Schwere Zeiten, Schweizerisch klingen, Dazugehoeren),
+which was my call rather than his. He has not objected and has not confirmed.
+
+The Path tab carries its own icon per course: a volcano for Nicaragua, a
+**gondola** (`ic-gondola`) for Switzerland.
+
+### Im Bau
+
+A cable car climbing over a fogged valley. Every tile of a course with no
+lessons lands there. Governed by `underConstruction()` in `content.js`, which
+is just `content.lessons.length === 0`, so **it disappears on its own the
+moment phase 0 publishes.** Nobody has to remember to remove it.
