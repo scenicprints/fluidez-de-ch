@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+content/plan/stage-report.txt
+content/plan/needs-entry.txt
+.github/scripts/dialect-test-report.txt
+content/dialect-report.txt

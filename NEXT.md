@@ -36,6 +36,7 @@ vocabulary is the thing Fluidez exists to deliver and Duolingo never will.
       each. See `HANDOFF.md` §4.
 - [x] **The cast**, planned with its endings already known. `HANDOFF.md` §5.
 - [x] **The spine.** All 192 stories in `content/plan/spine.json`.
+- [x] **The Swiss gate and the staging script** (2026-08-25), both tested.
 - [x] **The eight culture gaps closed** (2026-08-25). An audit found the course
       had seven Fasnacht stories and no Schwingen at all. Added, each placed
       where the calendar puts it rather than appended: `p3-14` Das Schwingfest,
@@ -46,19 +47,45 @@ vocabulary is the thing Fluidez exists to deliver and Duolingo never will.
 
 ## What is next, in order
 
-**1. The gates.** Nothing should be written before these exist, because the
-whole method of this project is to lean on gates rather than re-check work by
-hand. Port from `scenicprints/fluidez-es-ni/.github/scripts/`:
+**1. The gates — dialect and stage are DONE (2026-08-25).**
 
-| Script | Port difficulty | What changes |
+- **`dialect.py`** — the Swiss gate. No eszett, no Germanism where a Helvetism
+  is standard, one spelling per pinned dialect word. The word list is
+  `helvetisms.json` **with a source on every entry** (`duden-ch`, `admin`,
+  `common`), which is the answer to "nobody can fact-check this": it is a list
+  with citations rather than a list from memory. Anything not attested is a
+  `warn`, never a `fail`.
+- **`dialect_test.py`** — asserts the gate fires on 14 poisoned lines and stays
+  silent on 16 correct ones. **Run it after touching the word list.** It exists
+  because the gate was wrong once: written in ASCII, `fold('Grüezi')` gives
+  `grueezi`, which was listed as a *wrong* variant, so it rejected the correct
+  spelling of the course's most important word. Germanisms are matched folded
+  (Möhre and Moehre are one mistake); **pinned words are matched on exact
+  spelling, because the umlaut IS the difference.** Same split es-ni uses for
+  tú forms versus foreign vocabulary.
+- **`stage.py`** — shape of every story, the Swiss gate over all of them, the
+  dictionary debt to `plan/needs-entry.txt`, and it rewrites `plan/PROGRESS.md`
+  every run so that file cannot go stale.
+
+```bash
+python .github/scripts/stage.py --root .
+python .github/scripts/dialect_test.py
+```
+
+**Still to port, and the order changed on purpose:**
+
+| Script | When | What changes |
 |---|---|---|
-| `schedule.py` | easy | Language-agnostic already. Coverage 88%, density 5, return 6-of-25. Change the exempt part-of-speech list for German. |
-| `stage.py` | easy | Reads the spine, checks story shape, writes `PROGRESS.md`. Rename the `spanish` field to `german`. |
-| `build-pack.py` | easy | Bundles the pack, runs every gate. Mostly a rename job. |
-| `dialect.py` | **rewrite** | Becomes the Swiss gate: no eszett, no Germanism where a Helvetism is standard, pinned spellings for the produced-dialect list. See `HANDOFF.md` §3. |
-| `forms.py` | **hard, and it is the big job** | German morphology. See below. |
-| `reconcile.py` | medium | Rewrites warm-ups from what a story actually hammers. Depends on `forms.py`. |
-| `verbs_build.py` | medium | German verb tables. Six tenses, strong and weak verbs, separable prefixes. |
+| `forms.py` | **after phase 0 is written** | German morphology. It maps forms that ACTUALLY OCCUR, so it wants a real corpus to build against. Writing 16 stories first makes it a smaller, sharper job than guessing which forms matter. |
+| `schedule.py` | after `forms.py` | Coverage 88%, density 5, return 6-of-25. **Blocked on `forms.py`**: without lemma resolution *spricht*, *sprach* and *gesprochen* count as three words and the arithmetic is noise. |
+| `reconcile.py` | after `forms.py` | Rewrites warm-ups from what a story actually hammers. |
+| `build-pack.py` | before publishing | Bundles the pack and runs every gate. Port from es-ni, which now also carries `ui`, `phases`, `mascot` and `icons` through from the manifest. |
+| `verbs_build.py` | when the verb trainer is wanted | German verb tables. Strong-verb ablaut must be STATED, never rule-generated. |
+
+**2. Phase 0, sixteen stories**, plus the dictionary entries they need. Written
+un-schedule-gated, because that gate does not exist yet; re-checked once
+`forms.py` and `schedule.py` land. Sixteen stories is a small enough bet that
+rewriting them is cheap. Doing this to all 192 would not be.
 
 **`forms.py` is the largest single piece of work in this project and it should
 be sized honestly before it is started.** Spanish inflects predictably and
@@ -77,11 +104,6 @@ German has to handle:
 - **Compounds.** `Waschküche` should resolve, and ideally credit both
   `waschen` and `Küche`, because compound decoding is a real German skill and
   a genuine multiplier the Spanish course never had.
-
-**2. The dictionary seed**, written alongside phase 0 rather than up front.
-
-**3. Write phase 0**, sixteen stories, and run the loop in §7 of `HANDOFF.md`
-until nothing prints `PROBLEM:`.
 
 **4. The app changes — DONE, shipped 2026-08-25 in v2.8.23.** All four seams
 are live in `scenicprints/fluidez` and the Spanish course is pixel-identical:

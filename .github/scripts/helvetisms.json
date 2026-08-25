@@ -1,0 +1,442 @@
+{
+  "_": [
+    "The Swiss vocabulary the course is held to. This file is the answer to",
+    "'nobody can fact-check the Swiss German': it is a list with sources rather",
+    "than a list from memory, and dialect.py refuses to ban anything marked",
+    "unverified. Add to it with a citation, never with a hunch.",
+    "",
+    "  say      the Swiss standard word",
+    "  not      the German word it replaces, which the gate rejects",
+    "  level    fail = hard build failure, warn = printed, not fatal",
+    "  source   duden-ch = Duden marks it schweizerisch;",
+    "           admin = federal or cantonal usage; common = widely attested",
+    "  note     why it is warn rather than fail, or what the trap is"
+  ],
+  "words": [
+    {
+      "say": "Velo",
+      "not": [
+        "Fahrrad"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Billett",
+      "not": [
+        "Fahrkarte"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Spital",
+      "not": [
+        "Krankenhaus"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Trottoir",
+      "not": [
+        "Bürgersteig",
+        "Gehsteig",
+        "Gehweg"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Rahm",
+      "not": [
+        "Sahne",
+        "Schlagsahne"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Poulet",
+      "not": [
+        "Hähnchen",
+        "Hähnchen"
+      ],
+      "level": "fail",
+      "source": "duden-ch",
+      "note": "Huhn is the bird and is fine in both. Only the dish is banned."
+    },
+    {
+      "say": "Coiffeur",
+      "not": [
+        "Friseur",
+        "Frisör"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "parkieren",
+      "not": [
+        "parken",
+        "geparkt"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "grillieren",
+      "not": [
+        "grillen"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Weggli",
+      "not": [
+        "Brötchen"
+      ],
+      "level": "fail",
+      "source": "common"
+    },
+    {
+      "say": "Gipfeli",
+      "not": [
+        "Hörnchen"
+      ],
+      "level": "fail",
+      "source": "common",
+      "note": "Croissant is used in Switzerland too and is not banned."
+    },
+    {
+      "say": "Rüebli",
+      "not": [
+        "Möhre",
+        "Mohrrübe"
+      ],
+      "level": "fail",
+      "source": "duden-ch",
+      "note": "Karotte is fine in Switzerland. Only the northern German words are banned."
+    },
+    {
+      "say": "Peperoni",
+      "not": [],
+      "level": "warn",
+      "source": "duden-ch",
+      "note": "Paprika cannot be banned: in Switzerland it is the ground spice, the vegetable is Peperoni. Same word, two referents."
+    },
+    {
+      "say": "Glace",
+      "not": [
+        "Speiseeis"
+      ],
+      "level": "fail",
+      "source": "duden-ch",
+      "note": "Eis cannot be banned outright, it is also frozen water."
+    },
+    {
+      "say": "Perron",
+      "not": [
+        "Bahnsteig"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Kondukteur",
+      "not": [
+        "Schaffner"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Camion",
+      "not": [
+        "Lastwagen",
+        "Laster"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Trottinett",
+      "not": [
+        "Tretroller"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Estrich",
+      "not": [
+        "Dachboden"
+      ],
+      "level": "fail",
+      "source": "duden-ch",
+      "note": "In Germany Estrich is a floor screed. Same word, different thing, so it reads oddly to Germans and correctly to the Swiss."
+    },
+    {
+      "say": "Kehricht",
+      "not": [
+        "Müll"
+      ],
+      "level": "fail",
+      "source": "admin"
+    },
+    {
+      "say": "Sack",
+      "not": [
+        "Tüte"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Nachtessen",
+      "not": [
+        "Abendbrot"
+      ],
+      "level": "fail",
+      "source": "duden-ch",
+      "note": "Abendessen is understood and not banned; Abendbrot is unmistakably German."
+    },
+    {
+      "say": "Znüni",
+      "not": [],
+      "level": "warn",
+      "source": "common"
+    },
+    {
+      "say": "Zvieri",
+      "not": [],
+      "level": "warn",
+      "source": "common"
+    },
+    {
+      "say": "Zmorge",
+      "not": [],
+      "level": "warn",
+      "source": "common",
+      "note": "Fruehstueck is standard and correct in Switzerland. Zmorge is the everyday word, not a replacement the gate can enforce."
+    },
+    {
+      "say": "Matura",
+      "not": [
+        "Abitur"
+      ],
+      "level": "fail",
+      "source": "admin"
+    },
+    {
+      "say": "Lehre",
+      "not": [
+        "Ausbildungsplatz"
+      ],
+      "level": "warn",
+      "source": "admin"
+    },
+    {
+      "say": "Ausweis",
+      "not": [
+        "Führerschein"
+      ],
+      "level": "fail",
+      "source": "admin",
+      "note": "Fuehrerausweis is the Swiss term. Ausweis alone is also an ID card."
+    },
+    {
+      "say": "Vortritt",
+      "not": [
+        "Vorfahrt"
+      ],
+      "level": "fail",
+      "source": "admin"
+    },
+    {
+      "say": "Occasion",
+      "not": [
+        "Gebrauchtwagen"
+      ],
+      "level": "warn",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Sackgeld",
+      "not": [
+        "Taschengeld"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "allfällig",
+      "not": [],
+      "level": "warn",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Unterbruch",
+      "not": [
+        "Unterbrechung"
+      ],
+      "level": "warn",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Tram",
+      "not": [
+        "Strassenbahn"
+      ],
+      "level": "fail",
+      "source": "duden-ch",
+      "note": "Neuter in Switzerland: DAS Tram."
+    },
+    {
+      "say": "Portemonnaie",
+      "not": [
+        "Geldbeutel",
+        "Geldbörse"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "tönen",
+      "not": [],
+      "level": "warn",
+      "source": "duden-ch",
+      "note": "klingen is correct everywhere, so it cannot be banned; toenen is the Swiss preference."
+    },
+    {
+      "say": "fein",
+      "not": [
+        "lecker"
+      ],
+      "level": "fail",
+      "source": "common",
+      "note": "lecker is markedly German and stands out immediately in Switzerland."
+    },
+    {
+      "say": "schlitteln",
+      "not": [
+        "rodeln"
+      ],
+      "level": "fail",
+      "source": "duden-ch"
+    },
+    {
+      "say": "Schwingen",
+      "not": [],
+      "level": "warn",
+      "source": "common"
+    },
+    {
+      "say": "Guetzli",
+      "not": [
+        "Plätzchen",
+        "Keks"
+      ],
+      "level": "warn",
+      "source": "duden-ch"
+    }
+  ],
+  "_pinned": [
+    "The produced-dialect list. No dialect spelling is objectively right, so",
+    "ours becomes the course's orthography and the gate enforces exactly one.",
+    "",
+    "MATCHED ON EXACT SPELLING, not folded: the umlaut IS the difference, and",
+    "folding once made the gate reject Gruezi-with-an-umlaut as a misspelling",
+    "of itself. Single words are matched as words; anything with a space is",
+    "matched as a phrase in the line."
+  ],
+  "pinned": [
+    {
+      "say": "Grüezi",
+      "variants": [
+        "Gruezi",
+        "Grüeäzi",
+        "Grützi",
+        "Gruetzi",
+        "Grüessi"
+      ]
+    },
+    {
+      "say": "Grüezi mitenand",
+      "variants": [
+        "Grüezi mitenang",
+        "Grüezi miteinand",
+        "Gruezi mitenand"
+      ]
+    },
+    {
+      "say": "Hoi",
+      "variants": []
+    },
+    {
+      "say": "Hoi zäme",
+      "variants": [
+        "Hoi zämme",
+        "Hoi zeme",
+        "Hoi zame",
+        "Hoi zaeme"
+      ]
+    },
+    {
+      "say": "Sali",
+      "variants": [
+        "Salli",
+        "Salü",
+        "Saluu",
+        "Sälü"
+      ]
+    },
+    {
+      "say": "Ade",
+      "variants": [
+        "Adee",
+        "Adé"
+      ]
+    },
+    {
+      "say": "Tschüss",
+      "variants": [
+        "Tschuess",
+        "Tschüs",
+        "Tschau"
+      ]
+    },
+    {
+      "say": "Uf Wiederluege",
+      "variants": [
+        "Uf Widerluege",
+        "Ufwiederluege",
+        "Uf Wiederlüege"
+      ]
+    },
+    {
+      "say": "merci",
+      "variants": [
+        "märci"
+      ]
+    },
+    {
+      "say": "merci vielmal",
+      "variants": [
+        "merci villmal",
+        "merci vilmal",
+        "merci vielmals"
+      ]
+    },
+    {
+      "say": "tiptop",
+      "variants": [
+        "tipptopp",
+        "tip top",
+        "tipp topp",
+        "tiptopp"
+      ]
+    }
+  ]
+}
