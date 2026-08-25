@@ -1,0 +1,97 @@
+{
+ "version": "20260824-2200+plan",
+ "language": "de-ch",
+ "features": [
+  "reader",
+  "scenes",
+  "review",
+  "verbs",
+  "order",
+  "words",
+  "patterns",
+  "audio"
+ ],
+ "speech": "de-CH",
+ "mascot": "bluemli",
+ "icons": {
+  "path": "ic-gondola"
+ },
+ "phases": [
+  [
+   "Ankommen",
+   "Grüezi, Zahlen, Preise, satt werden"
+  ],
+  [
+   "Einleben",
+   "Die Wohnung, die Waschküche, die Gemeinde"
+  ],
+  [
+   "Freunde finden",
+   "Small Talk, der Verein, die erste Einladung"
+  ],
+  [
+   "Unterwegs",
+   "Billett, Schiff, Pilatus, Stans"
+  ],
+  [
+   "Nah am Herzen",
+   "Liebe, ihre Familie, Streit, Versöhnung"
+  ],
+  [
+   "Schwere Zeiten",
+   "Krankheit, Abschied, Geld, das Schwierige sagen"
+  ],
+  [
+   "Schweizerisch klingen",
+   "Halt, eben, doch, mal. Fasnacht von innen"
+  ],
+  [
+   "Dazugehören",
+   "Wortspiele, Insiderwitze, dem Nächsten alles erklären"
+  ]
+ ],
+ "ui": {
+  "today": "Heute",
+  "path": "Weg",
+  "scenes": "Szenen",
+  "words": "Wörter",
+  "review": "Wiederholen",
+  "verbs": "Verben",
+  "order": "Wortstellung",
+  "listening": "Hören",
+  "shadowing": "Nachsprechen",
+  "patterns": "Muster",
+  "emergency": "Notfall",
+  "conjugation": "Konjugation",
+  "buildIt": "bauen",
+  "dictation": "Diktat",
+  "sayItBack": "nachsagen",
+  "nothingDue": "nichts fällig",
+  "due": "{n} fällig",
+  "known": "{n} bekannt",
+  "scenesCount": "{a} · {b} gemacht",
+  "patternsCount": "{a} von {b}",
+  "streakDay": "{n} Tag",
+  "streakDays": "{n} Tage",
+  "streakStart": "Mach heute etwas, dann fängt sie an",
+  "streakBest": "Bestwert: {n}",
+  "streakLongest": "So lange wie noch nie",
+  "contResume": "Weiter, wo du aufgehört hast",
+  "contAgain": "Nochmal lesen",
+  "contStart": "Lesen",
+  "contOpen": "Öffnen",
+  "friends": "Wer sonst noch lernt",
+  "friendsNone": "Noch niemand. Schick einem Freund den Link, er wählt seinen eigenen Namen.",
+  "bauTitle": "Im Bau",
+  "bauSub": "under construction",
+  "bauWhy": "Dieser Teil vom Kurs ist noch nicht geschrieben. Er kommt.",
+  "bauBack": "Zurück"
+ },
+ "dictionary": {},
+ "forms": {},
+ "patterns": [],
+ "lessons": [],
+ "scenarios": [],
+ "verbs": null,
+ "momo": []
+}

@@ -1,0 +1,327 @@
+# Handoff — writing the Fluidez German course
+
+> **If you are a fresh agent, read `NEXT.md` first.** It says what to build
+> next, in order, in one page. This file is the reference behind it, and it
+> carries every decision made so far and why, so that nothing here gets
+> relitigated by somebody arriving cold.
+
+Decisions dated 2026-08-24 unless stated.
+
+---
+
+## 1. What this is and who it is for
+
+Fluidez is Kevin Wagner's language app. The first course was Nicaraguan
+Spanish. This is the second: **Swiss Standard German, anchored in Luzern.**
+
+**The Nicaraguan course's framing was a device, not autobiography.** Its
+handoff says the course exists because "his wife is Nicaraguan". Kevin's own
+words on 2026-08-24: *"The whole his wife was nicaraguan was to just teach
+something that other apps didn't."* The immigrant arc was the vehicle that
+made teaching real regional language natural. Same vehicle here. Do not build
+anything on a literal reading of the Spanish course's premise.
+
+**What makes Fluidez different, in Kevin's words:** *"it teaches you deep
+emotional connected words that other apps dont. Yes it teaches you surface
+level words like Duolingo, but the heart is learning culture and connecting
+with people."*
+
+That sentence is the brief. It is why phases 4 and 5 carry sixty stories
+between them, and why an early draft of the phase plan that was all logistics
+and bureaucracy was rejected.
+
+---
+
+## 2. The variety, and the line that was drawn
+
+**We teach Swiss Standard German.** That is a real, documented, written
+standard: what Swiss newspapers, schools, signage and formal speech actually
+use. It is not a compromise invented for this course.
+
+**We do not teach dialect.** Kevin: *"I want it to be Swiss-German, but we
+both know that that is impossible."* He is right. Schweizerdeutsch has no
+standard orthography, varies by canton, and writing it would mean inventing
+spellings.
+
+### The dialect ramp that was proposed and killed
+
+An early design had dialect appear as **comprehension only**, ramping through
+the phases, on the argument that Swiss people speak dialect to each other and
+switch to Standard German for foreigners, so the course could end when people
+stop switching.
+
+**Kevin killed it:** *"I dont think it is a good idea. to switch. You are then
+making people unlearn and relearn. That is too much for a beginner. Pick one
+and stick to it."*
+
+He is right, and it removes the largest accuracy risk in the project at the
+same time. **One variety, story 1 to story 184. No Mundart sentences anywhere,
+comprehension included.**
+
+### What survives
+
+A short **pinned list** of fixed lexical items that everybody in Luzern says
+inside otherwise-standard sentences. These are vocabulary, not a second
+grammar, and the learner produces them from day one:
+
+**Greetings and farewells:** Grüezi, Grüezi mitenand, Hoi, Hoi zäme, Sali,
+Ade, Tschüss, Uf Wiederluege
+**Courtesy:** merci, merci vielmal, bitte
+**Replies:** tiptop
+
+Two of these came from Kevin rather than from me and both were right:
+
+- **Sali.** From French *salut*. Informal, to anyone you would du, strongest in
+  Zurich, Basel, Aargau and the centre, understood everywhere.
+- **Tiptop.** More useful than a greeting because it is an *answer*. *Wie
+  gaht's?* gets *Tiptop* more often than anything from a textbook.
+  **Honest caveat that must not be lost:** tiptop is not exclusively Swiss.
+  German German has *tipptopp*. It is far more everyday in Switzerland and
+  worth teaching, but it does not mark you out the way Velo or Grüezi does.
+  The spelling splits usefully: Duden writes *tipptopp*, Switzerland writes
+  **tiptop**, and we pin tiptop.
+
+### The ending
+
+Not *ya sos nica*. Switzerland does not do that. The last story, `p7-18`
+**Niemand wechselt ins Englische**, is the moment four people in a
+conversation carry on in German and not one of them changes language for you.
+Nobody announces anything. That is the arc's finish line.
+
+---
+
+## 3. The gates — what will reject your work
+
+Ported in spirit from es-ni, where every gate exists because a specific class
+of error already shipped once. **Do not weaken a gate to make content pass.**
+If a gate fires, first ask whether the content is wrong. It usually is.
+
+### The Swiss gate (`dialect.py`, to be rewritten for German)
+
+**1. No eszett. Ever.** Switzerland abolished it. Always ss. Absolute, and
+mechanically checkable. Already enforced in the spine build.
+
+**2. No Germanism where a Helvetism is the Swiss standard.**
+
+| Say | Not |
+|---|---|
+| Velo | Fahrrad |
+| Billett | Fahrkarte |
+| Spital | Krankenhaus |
+| Trottoir | Bürgersteig |
+| Rahm | Sahne |
+| Poulet | Hähnchen |
+| Glace | Eis |
+| Coiffeur | Friseur |
+| parkieren | parken |
+| Weggli | Brötchen |
+| Gipfeli | Croissant |
+| tönen | klingen |
+| Znüni, Zvieri, Zmorge | Frühstück-adjacent German forms |
+
+The list is a seed, not the finished thing. It grows as the course is written.
+
+**3. A story that names the German word in order to teach the contrast is
+exempt by story id, never by word.** `p0-06` says "Weggli not Brötchen" and
+`p5-02` says "Spital not Krankenhaus", and both are correct. Allowing a word
+globally lets a real slip through. This is exactly how es-ni's
+`dialect-allow.json` works and it is the right pattern.
+
+**4. No invented dialect spelling.** The retired `scenicprints/fluidez-gsw-lu`
+repo is this failure sitting on disk: an invented Luzerndütsch orthography,
+"Wohär chunsch?", "Es Kafi", "De Bahnhof". It is a cautionary example, not a
+base to build on, and it should not be mined for content.
+
+**5. One spelling per pinned word, forever.** Since no dialect spelling is
+objectively correct, ours becomes the course's orthography. If Sali appears
+three ways across 184 lessons it reads as sloppy rather than authentic. The
+gate fails any story that spells a pinned word differently.
+
+### The schedule gate (`schedule.py`, ports nearly as-is)
+
+- **Coverage:** at least 88% of a story's dictionary words already introduced,
+  ramping from about 60% at story four.
+- **Density:** every warm-up word appears at least 5 times in its own story.
+- **Return:** every content word reappears in at least 6 of the next 25
+  stories. Function words are exempt.
+
+**These three exist to serve the teaching method in §6 and nothing else.**
+Understand that before touching their numbers.
+
+---
+
+## 4. The eight phases
+
+Named for what you can do, with the grammar that rides underneath. **This
+ladder is German's, not the Spanish course's relabelled.** Kevin's
+instruction: *"The phases should be unique to each language."*
+
+| | Phase | Grammar underneath | Stories |
+|---|---|---|---|
+| 0 | Landing | der/die/das, present tense, numbers | 16 |
+| 1 | Settling In | modal verbs, accusative, verb second | 22 |
+| 2 | Making Friends | perfect tense, dative | 26 |
+| 3 | Getting About | separable verbs, two-way prepositions | 18 |
+| 4 | **Close to the Heart** | the emotional register | **34** |
+| 5 | Hard Things | subordinate clauses, Konjunktiv II | 26 |
+| 6 | Sounding Swiss | Modalpartikeln: halt, eben, doch, mal | 24 |
+| 7 | Belonging | passive, idiom, the long tail | 18 |
+
+**The order is Kevin's**, and it is narrative: you land, you settle into a
+flat, you make friends, and only then do you go out and see the country, with
+them. It replaced an earlier order that had Getting About at position 1.
+
+**Do not reorder it.** Three things depend on it:
+
+- **Two-way prepositions need both cases first.** *In die Stadt* versus *in
+  der Stadt* cannot be taught before accusative (phase 1) and dative (phase 2)
+  are in hand. The original order taught them in phase 1, out of two cases the
+  learner had not met. Kevin's reorder fixed a real bug.
+- **The Hausordnung is modal verbs and nothing else.** *Man darf nach zehn
+  nicht duschen. Du musst die Waschküche eintragen.* Settling In at position 1
+  means the building teaches you the grammar.
+- **Getting About is where you meet Selina.** A light phase between two heavy
+  ones, and the hinge into phase 4.
+
+**Phase names are hardcoded in the app**, in `PHASES` in
+`scenicprints/fluidez/docs/js/engine.js`, and currently read Nicaragua's.
+Moving them into the content pack is an app-repo job. See `NEXT.md` §4.
+
+---
+
+## 5. The cast
+
+**Planned with its endings already known**, because a funeral in phase 5 for
+somebody introduced in phase 5 is a vocabulary exercise, while a funeral for
+the woman across the landing who has been correcting your recycling since
+story 17 is the thing this app exists to do.
+
+| Who | Arrives | What they are |
+|---|---|---|
+| **Frau Amrein** | Phase 1 | Seventies, the flat across the landing. Explains the Hausordnung whether you asked or not, judges your recycling, feeds you anyway. The building's newspaper. **Dies in phase 5**, after roughly 130 stories. |
+| **Ruedi Zemp** | Phase 1 | The Hauswart. Rules are rules. Thaws at about one degree per phase and the learner notices the exact moment. |
+| **Lea** | Phase 0 | Mid twenties, works the café. First person your own age who speaks to you like a person. |
+| **Nuno** | Phase 1 | Portuguese, eighteen years in Luzern, kitchen work. Cheerfully wrong about cases. Your first real friend, because he remembers arriving. A quarter of Switzerland was born somewhere else and pretending otherwise would be a lie. |
+| **Timo** | Phase 2 | Your age, from Stans. Owns Getting About. |
+| **Selina** | Phase 3 | Comes along on one of Timo's trips. Phase 4 is her. |
+| **The Odermatts** | Phase 4 | Her parents, in Kriens. Sunday lunch, and being assessed. |
+| **Beat** | Phase 5 | Guggenmusik and a Verein. Pulls you back out of grief without asking how you are. |
+| **Fatlum** | Phase 5 | Born in Luzern, Kosovar name, Swiss in every way that counts, still gets asked where he is really from. |
+| **Vreni** | Phase 5 | Frau Amrein's sister. Turns up after, and is not a replacement. |
+| **Anna** | Phase 7 | The next arrival. You hand her the notebook. |
+
+**The protagonist has no backstory and needs none.** An early draft asked
+whether they arrive on a work permit, as a student, or following a partner.
+Kevin: *"I dont think this actually matters. You are just there."* Do not
+invent one.
+
+---
+
+## 6. How the app actually teaches, in Kevin's words
+
+This is the most important section in this file, and it was got wrong once
+already by describing the machinery instead of the method.
+
+> *"You learn words because when you are reading you see the same word several
+> times in different contexts. While you are figuring out the word you have to
+> think through the context what that word means and that is how you learn it
+> and figure it out."*
+
+**The inference is the learning.** Not the translation, not the flashcard. The
+word arrives slightly differently each time, the learner triangulates it, and
+by the sixth meeting they own it because they built the meaning themselves.
+
+Everything in the build protects that:
+
+- **Coverage 88%** so there is enough known context around a new word to
+  squeeze meaning out of it.
+- **Density 5** so the word comes back inside the same story from a different
+  angle.
+- **Return 6-of-25** so it keeps coming back afterwards.
+- **The English stays hidden per line** in the reader, because reading the
+  translation is skipping the inference.
+- **Tapping a word counts against you** in the memory model, because tapping
+  is skipping the inference.
+- **Reading alone caps memory strength at 0.79**, just under "Locked in".
+  Green means "I have produced this", not "this went past my eyes".
+
+### What that means for writing German specifically
+
+**Repetition must be varied repetition.** Five sentences using *Zug* the same
+way teach nothing. *Zug* in a ticket queue, *Zug* missed, *Zug* delayed,
+somebody's *Zug* to work, the last *Zug* home. Different grammatical slots so
+the form varies with it: *der Zug*, *den Zug*, *mit dem Zug*, *die Züge*.
+Each meeting is a different problem.
+
+**German gives two levers Spanish did not have:**
+
+- **Compounds are inferable.** Once *waschen* and *Küche* are solid,
+  *Waschküche* cracks itself open. Teach the parts well and the learner
+  decodes words the course never taught them. The early phases should be dense
+  in the pieces that build things.
+- **Separable verbs teach themselves through context.** *Ich steige in Zürich
+  um.* The *um* is stranded at the end and nobody has to explain that. Seeing
+  it happen a dozen times lands the pattern. Explaining it up front would be
+  worse.
+
+---
+
+## 7. The loop for writing content
+
+Same as es-ni's, and it exists so nobody hand-verifies what a gate has already
+proven:
+
+1. **Write** the JSON. Emit a batch from one throwaway Python file rather than
+   one tool call each.
+2. `python .github/scripts/stage.py --root .`
+3. **Add the dictionary entries** it lists in `content/plan/needs-entry.txt`.
+   Lemmas only. Skip proper nouns.
+4. `python .github/scripts/reconcile.py` — rewrites every warm-up from the
+   text, so a warm-up can never claim a word the story does not teach.
+5. Repeat 2 until there are no `PROBLEM:` lines, then commit.
+
+**`git pull --rebase` before pushing.** CI commits the rebuilt pack back to
+main, so a plain push is rejected.
+
+---
+
+## 8. Traps already paid for, on this machine
+
+Inherited from es-ni and all still true:
+
+- **Shell heredocs mangle apostrophes and accents here.** Write Python and
+  JSON with a file-writing tool, never `bash <<'EOF'` with accented content.
+  This matters more in German than in Spanish because of the umlauts.
+- **Console output is cp1252** and accented characters print as `?`. Write
+  results to a file and read the file rather than trusting the terminal.
+- **`/tmp` in Python is not the bash `/tmp`.** Use relative paths.
+- **Never let a conjugated form or a plural be its own dictionary entry** when
+  the lemma exists. In es-ni 62 were, and the commonest verbs in the language
+  each had their memory split in two. German will be worse: every strong verb
+  has four principal parts and every noun has a plural.
+- **Irregulars must be stated, never rule-generated.** es-ni's verb tables
+  turned *estar* into *esto*. German strong verbs will do the same thing with
+  ablaut if a rule is allowed near them.
+- **To check a change in the real app**, seed `localStorage` and reload. The
+  cached pack lives at `fl:c:pack:de-ch` and is stored in `applyPack` shape,
+  not the shape `pack.json` ships: `dictionary` becomes `dict`, lessons get
+  `sentences` from `sn` and `warmup` from `wu`. Seed it raw and nothing is
+  tappable and no story will open. Writes to Firestore are already blocked on
+  localhost.
+
+---
+
+## 9. Where everything lives
+
+| What | Where |
+|---|---|
+| This repo (the German course) | `scenicprints/fluidez-de-ch` (not yet created) |
+| The app | `scenicprints/fluidez` |
+| The Spanish course, and the reference for every script | `scenicprints/fluidez-es-ni` |
+| Language registry | `scenicprints/fluidez-languages` |
+| Retired Swiss dialect attempt, do not mine | `scenicprints/fluidez-gsw-lu` |
+| Live app | https://scenicprints.github.io/fluidez/ |
+
+**Read `scenicprints/fluidez-es-ni/HANDOFF.md` and `NEXT.md`.** Every gate in
+this project is a port of one of theirs, and the reasoning for each is written
+down there in full. Do not rediscover it.

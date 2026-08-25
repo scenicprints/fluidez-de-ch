@@ -1,0 +1,1658 @@
+[
+ {
+  "id": "p0-01",
+  "phase": 0,
+  "title": "Grüezi",
+  "desc": "One word, and everybody uses it",
+  "german": "Grüezi, Grüezi mitenand, merci, danke; sein in the present",
+  "swiss": "You land at Zurich Kloten, not Luzern; Grüezi is said to strangers, and not saying it is noticed",
+  "beat": "You say nothing to anyone for forty minutes and feel it."
+ },
+ {
+  "id": "p0-02",
+  "phase": 0,
+  "title": "Gleis sieben",
+  "desc": "Numbers, and a platform you have to find",
+  "german": "numbers 1-20; wo ist; der/die/das on things you can point at",
+  "swiss": "The train leaves from under the airport; Swiss trains go when they say they go",
+  "beat": "You find the platform with ninety seconds to spare."
+ },
+ {
+  "id": "p0-03",
+  "phase": 0,
+  "title": "Der Zug nach Luzern",
+  "desc": "An hour of a country going past",
+  "german": "der Zug, die Fahrt, das Fenster; fahren, sehen, sein in the present",
+  "swiss": "Zurich to Luzern is about an hour, and nobody talks on the train",
+  "beat": "You watch a lake, a tunnel, another lake, and then it stops."
+ },
+ {
+  "id": "p0-04",
+  "phase": 0,
+  "title": "Angekommen",
+  "desc": "A station with an old gate standing in front of it",
+  "german": "ankommen, aussteigen; hier, dort, da; plain statements",
+  "swiss": "The stone portal outside Luzern station is all that survived the fire of 1971",
+  "beat": "You stand under an arch that leads nowhere and put your bag down."
+ },
+ {
+  "id": "p0-05",
+  "phase": 0,
+  "title": "Ein Kaffee, bitte",
+  "desc": "The first thing you order on purpose",
+  "german": "ich möchte, ich hätte gern, bitte, danke; ein/eine",
+  "swiss": "Coffee is ordered small and drunk sitting down; merci is ordinary German here",
+  "beat": "Lea corrects your order without making it a lesson."
+ },
+ {
+  "id": "p0-06",
+  "phase": 0,
+  "title": "Gipfeli",
+  "desc": "Bread has different names here",
+  "german": "das Brot, das Gipfeli, das Weggli; kaufen, nehmen, kosten",
+  "swiss": "Gipfeli not Croissant, Weggli not Brötchen; a Swiss bakery opens early and sells out",
+  "beat": "You point at something and get something better."
+ },
+ {
+  "id": "p0-07",
+  "phase": 0,
+  "title": "Franken und Rappen",
+  "desc": "Money that is not yours yet",
+  "german": "numbers to 100; kosten, bezahlen; wie viel",
+  "swiss": "The franc, the Rappen, prices ending in .95, and cash that still works everywhere",
+  "beat": "You hand over fifty francs for a coffee and get a look."
+ },
+ {
+  "id": "p0-08",
+  "phase": 0,
+  "title": "Migros oder Coop",
+  "desc": "Two shops, and there are only two",
+  "german": "food nouns and their genders; brauchen, suchen, finden",
+  "swiss": "Migros and Coop are the whole country; Migros has never sold alcohol",
+  "beat": "You go to Migros for wine and come out with chocolate."
+ },
+ {
+  "id": "p0-09",
+  "phase": 0,
+  "title": "Das Wasser ist gratis",
+  "desc": "You can drink from the fountains",
+  "german": "trinken, das Wasser, gratis; kann ich",
+  "swiss": "Luzern's public fountains run drinking water; buying it in a bottle marks you out",
+  "beat": "Somebody watches you buy a bottle and tells you, kindly."
+ },
+ {
+  "id": "p0-10",
+  "phase": 0,
+  "title": "Wo ist die Post?",
+  "desc": "Asking, and understanding half the answer",
+  "german": "wo ist; links, rechts, geradeaus; die Strasse, der Platz",
+  "swiss": "The Swiss will walk you there rather than explain it; the post office is yellow",
+  "beat": "You ask for directions and get an escort."
+ },
+ {
+  "id": "p0-11",
+  "phase": 0,
+  "title": "Der See",
+  "desc": "Water with mountains standing behind it",
+  "german": "der See, der Berg, das Schiff; gross, schön, kalt",
+  "swiss": "The Vierwaldstättersee, and why one lake carries four names",
+  "beat": "You see it for the first time and stop walking."
+ },
+ {
+  "id": "p0-12",
+  "phase": 0,
+  "title": "Die Kapellbrücke",
+  "desc": "A wooden bridge with paintings in the roof",
+  "german": "alt, neu, über; gehen, stehen, schauen",
+  "swiss": "The Kapellbrücke burned in 1993 and was rebuilt; the Wasserturm is older than the bridge",
+  "beat": "You cross it four times because there is nowhere else you need to be."
+ },
+ {
+  "id": "p0-13",
+  "phase": 0,
+  "title": "Punkt acht",
+  "desc": "Time, said exactly",
+  "german": "telling the time; um, halb, viertel; früh, spät",
+  "swiss": "Swiss punctuality is not a stereotype, it is a timetable everybody actually keeps",
+  "beat": "You arrive four minutes late and are the only one who does."
+ },
+ {
+  "id": "p0-14",
+  "phase": 0,
+  "title": "Am Sonntag ist zu",
+  "desc": "The day everything stops",
+  "german": "days of the week; offen, geschlossen, zu; öffnen, schliessen",
+  "swiss": "Sunday closing is close to total, and the station shops are the exception everybody knows",
+  "beat": "You run out of milk on a Saturday night and learn something."
+ },
+ {
+  "id": "p0-15",
+  "phase": 0,
+  "title": "Es regnet",
+  "desc": "Weather you will talk about every day",
+  "german": "es regnet, es schneit; kalt, warm; das Wetter",
+  "swiss": "Luzern rains more than Zurich and everybody says so; the Föhn, and what gets blamed on it",
+  "beat": "Three people tell you about the weather before ten in the morning."
+ },
+ {
+  "id": "p0-16",
+  "phase": 0,
+  "title": "Die erste Nacht",
+  "desc": "A room, a window, and a great deal of quiet",
+  "german": "review of the present tense, der/die/das, numbers; müde, allein",
+  "swiss": "How quiet a Swiss town goes after ten, and how loud that quiet is",
+  "beat": "You lie awake listening to nothing at all."
+ },
+ {
+  "id": "p1-01",
+  "phase": 1,
+  "title": "Die Wohnung",
+  "desc": "Somewhere to put your things",
+  "german": "die Wohnung, das Zimmer, der Schlüssel; accusative on objects",
+  "swiss": "Flats are handed over spotless and taken back spotless; the Wohnungsabgabe is inspected",
+  "beat": "You are given three keys and told what each one is for, twice."
+ },
+ {
+  "id": "p1-02",
+  "phase": 1,
+  "title": "Frau Amrein",
+  "desc": "The door across the landing opens",
+  "german": "introductions; wohnen, heissen, kommen; Sie as the default",
+  "swiss": "Neighbours greet, and a neighbour who does not greet you is making a point",
+  "beat": "She has your name before you have hers."
+ },
+ {
+  "id": "p1-03",
+  "phase": 1,
+  "title": "Die Hausordnung",
+  "desc": "Rules on a laminated sheet",
+  "german": "modal verbs: müssen, dürfen, können; man darf nicht",
+  "swiss": "Every Swiss building has a Hausordnung and it is not decorative",
+  "beat": "You read it twice and understand about half."
+ },
+ {
+  "id": "p1-04",
+  "phase": 1,
+  "title": "Die Waschküche",
+  "desc": "A laundry room with a list on the wall",
+  "german": "waschen, trocknen, eintragen; word order with modals",
+  "swiss": "The Waschküche rota is the most serious document in the building",
+  "beat": "You wash on somebody else's day and hear about it."
+ },
+ {
+  "id": "p1-05",
+  "phase": 1,
+  "title": "Der Hauswart",
+  "desc": "The man who keeps the building",
+  "german": "reporting a problem; kaputt, funktioniert nicht; separable melden",
+  "swiss": "The Hauswart is not a landlord and not a servant, and knowing the difference matters",
+  "beat": "Ruedi Zemp looks at your bicycle for a long moment and says nothing."
+ },
+ {
+  "id": "p1-06",
+  "phase": 1,
+  "title": "PET, Alu, Karton",
+  "desc": "Rubbish, sorted four ways",
+  "german": "das Glas, das Papier, der Karton; wohin kommt; trennen, sammeln",
+  "swiss": "Glass goes by colour, PET to the shop, cardboard bundled and tied on its day",
+  "beat": "You put cardboard out on the wrong morning and it is still there at six."
+ },
+ {
+  "id": "p1-07",
+  "phase": 1,
+  "title": "Der Gebührensack",
+  "desc": "You have to buy the bag",
+  "german": "der Sack, die Gebühr; kaufen, bezahlen, wegwerfen",
+  "swiss": "Rubbish is taxed by the bag; the wrong bag is not collected and gets opened",
+  "beat": "Your bag is left behind with a sticker on it."
+ },
+ {
+  "id": "p1-08",
+  "phase": 1,
+  "title": "Ruhezeiten",
+  "desc": "The hours when you make no noise",
+  "german": "die Ruhe, laut, leise; nach zehn, am Mittag; darf man nicht",
+  "swiss": "Quiet from ten at night, quiet at midday, and no drilling on Sunday",
+  "beat": "You run a washing machine at eleven and the ceiling knocks."
+ },
+ {
+  "id": "p1-09",
+  "phase": 1,
+  "title": "Die Anmeldung",
+  "desc": "Fourteen days to tell them you exist",
+  "german": "das Formular, der Ausweis, ausfüllen, unterschreiben",
+  "swiss": "You register with the Gemeinde within two weeks and everything else follows from it",
+  "beat": "You take a number and wait, and it takes eleven minutes."
+ },
+ {
+  "id": "p1-10",
+  "phase": 1,
+  "title": "Die Krankenkasse",
+  "desc": "Insurance you have to choose",
+  "german": "die Versicherung, die Prämie; vergleichen, wählen, bezahlen",
+  "swiss": "Health insurance is compulsory, private, and yours to pick within three months",
+  "beat": "You compare eleven of them and pick the one Nuno has."
+ },
+ {
+  "id": "p1-11",
+  "phase": 1,
+  "title": "Ein Brief von der Serafe",
+  "desc": "A bill for a television you do not own",
+  "german": "der Brief, die Rechnung; bekommen, öffnen, verstehen",
+  "swiss": "The broadcasting levy is charged per household, television or no television",
+  "beat": "You read it four times looking for the mistake."
+ },
+ {
+  "id": "p1-12",
+  "phase": 1,
+  "title": "Die Post",
+  "desc": "Yellow, and everywhere",
+  "german": "das Paket, die Briefmarke, schicken, abholen",
+  "swiss": "The Post does banking, and the yellow is a national colour",
+  "beat": "You queue behind a man paying his bills in cash."
+ },
+ {
+  "id": "p1-13",
+  "phase": 1,
+  "title": "Das Brockenhaus",
+  "desc": "A whole flat, secondhand",
+  "german": "die Möbel, der Tisch, der Stuhl, billig, teuer",
+  "swiss": "Brockenhäuser are charity warehouses and furnishing from one is normal, not poor",
+  "beat": "You buy a table that is better than anything you would have bought new."
+ },
+ {
+  "id": "p1-14",
+  "phase": 1,
+  "title": "Der Nachbar unten",
+  "desc": "Somebody lives below you",
+  "german": "der Nachbar, der Boden, die Decke; stören, hören",
+  "swiss": "Complaints go to your door before they go to the Hauswart, and that is the polite order",
+  "beat": "He is at your door before you have taken your shoes off."
+ },
+ {
+  "id": "p1-15",
+  "phase": 1,
+  "title": "Nuno",
+  "desc": "The first person who is not being polite at you",
+  "german": "talking about work; arbeiten, seit, schon; simple past questions",
+  "swiss": "A quarter of Switzerland was born somewhere else, and Luzern is no exception",
+  "beat": "He tells you he has been here eighteen years and still says the articles wrong."
+ },
+ {
+  "id": "p1-16",
+  "phase": 1,
+  "title": "In der Apotheke",
+  "desc": "Being ill in a language you do not have",
+  "german": "der Kopf, der Hals, weh tun; ich brauche etwas gegen",
+  "swiss": "Pharmacists here diagnose and advise, and you go to them before a doctor",
+  "beat": "You point at your throat and get exactly the right thing."
+ },
+ {
+  "id": "p1-17",
+  "phase": 1,
+  "title": "Das Konto",
+  "desc": "A bank that wants to know everything",
+  "german": "das Konto, die Karte, die Nummer; eröffnen, brauchen",
+  "swiss": "You need an address to open an account and an account to get an address",
+  "beat": "You bring four documents and are asked for a fifth."
+ },
+ {
+  "id": "p1-18",
+  "phase": 1,
+  "title": "Ein Abo",
+  "desc": "A phone number of your own",
+  "german": "das Handy, die Nummer, der Vertrag; monatlich, kündigen",
+  "swiss": "Everything here is an Abo, and every Abo has a notice period",
+  "beat": "You sign for two years without meaning to."
+ },
+ {
+  "id": "p1-19",
+  "phase": 1,
+  "title": "Die Rechnung",
+  "desc": "A bill with a square on it",
+  "german": "überweisen, einzahlen, der Betrag, das Datum",
+  "swiss": "Bills arrive on paper with a QR code and are paid by transfer, not by card",
+  "beat": "You pay it standing at the counter because you do not trust the app yet."
+ },
+ {
+  "id": "p1-20",
+  "phase": 1,
+  "title": "Fasnacht",
+  "desc": "The city detonates and nobody warned you",
+  "german": "die Musik, die Maske, laut; questions under pressure",
+  "swiss": "Luzerner Fasnacht starts before dawn on Schmutziger Donnerstag and runs to Aschermittwoch",
+  "beat": "You wake at five to brass instruments deliberately playing wrong."
+ },
+ {
+  "id": "p1-21",
+  "phase": 1,
+  "title": "Falsch getrennt",
+  "desc": "Your rubbish is corrected",
+  "german": "das gehört nicht dahin; correction and mild reproach; accusative practice",
+  "swiss": "Being told off about recycling is a form of being taken seriously",
+  "beat": "Frau Amrein shows you what you did and then gives you soup."
+ },
+ {
+  "id": "p1-22",
+  "phase": 1,
+  "title": "Ein Monat",
+  "desc": "The flat stops being a place you are staying",
+  "german": "review of modals and accusative; sich gewöhnen an",
+  "swiss": "How long a Swiss winter evening is, and what people do with it",
+  "beat": "You come home, and the word you use for it is home."
+ },
+ {
+  "id": "p2-01",
+  "phase": 2,
+  "title": "Das Übliche?",
+  "desc": "Somebody knows what you drink",
+  "german": "perfect tense with haben; das Übliche, wie immer",
+  "swiss": "Regulars are recognised but not fussed over; the recognition is the whole event",
+  "beat": "Lea starts your coffee before you reach the counter."
+ },
+ {
+  "id": "p2-02",
+  "phase": 2,
+  "title": "Schönes Wetter heute",
+  "desc": "Small talk that goes somewhere",
+  "german": "perfect tense on ordinary verbs; question tags; findest du nicht",
+  "swiss": "Weather is the opening move, not the conversation, and knowing when to leave it is the skill",
+  "beat": "Four sentences about rain turn into twenty minutes about something else."
+ },
+ {
+  "id": "p2-03",
+  "phase": 2,
+  "title": "Woher kommst du?",
+  "desc": "The question you will answer a thousand times",
+  "german": "woher, wohin, seit wann; countries and nationalities",
+  "swiss": "Asked without edge here, and answered with the town rather than the country",
+  "beat": "You give your country and get asked which part."
+ },
+ {
+  "id": "p2-04",
+  "phase": 2,
+  "title": "Was machst du?",
+  "desc": "Work, and what it is allowed to mean",
+  "german": "jobs and workplaces; dative with helfen, arbeiten bei",
+  "swiss": "Swiss apprenticeships, and why what you trained as matters more than where you studied",
+  "beat": "Nobody asks what you earn and you notice the absence."
+ },
+ {
+  "id": "p2-05",
+  "phase": 2,
+  "title": "Komm essen",
+  "desc": "An invitation with no date attached",
+  "german": "imperatives; kommen, bringen, mitbringen",
+  "swiss": "An invitation that is real comes with a time; one that does not is still worth having",
+  "beat": "Nuno means it, and proves it by naming a Thursday."
+ },
+ {
+  "id": "p2-06",
+  "phase": 2,
+  "title": "In der Küche",
+  "desc": "A kitchen with four languages in it",
+  "german": "dative for people; ihm, ihr, uns; food and cooking",
+  "swiss": "Restaurant kitchens in Luzern are where the country's other half actually talks",
+  "beat": "Everybody speaks German to you and something else to each other."
+ },
+ {
+  "id": "p2-07",
+  "phase": 2,
+  "title": "Timo",
+  "desc": "Somebody your own age from somewhere near",
+  "german": "perfect tense in conversation; wir haben, ich bin gegangen",
+  "swiss": "Nidwalden is fifteen minutes away and considers itself a different country",
+  "beat": "He says he is from Stans as though that explains something, and later it does."
+ },
+ {
+  "id": "p2-08",
+  "phase": 2,
+  "title": "Der Apéro",
+  "desc": "Drinks that are not dinner and not nothing",
+  "german": "offering and accepting; möchtest du, ich nehme",
+  "swiss": "The apéro is its own event with its own rules and its own end time",
+  "beat": "You arrive hungry and learn that was the mistake."
+ },
+ {
+  "id": "p2-09",
+  "phase": 2,
+  "title": "Sie oder du",
+  "desc": "The most important word you have to choose",
+  "german": "Sie and du in practice; duzen, siezen; wollen wir",
+  "swiss": "The switch to du is offered by the older or senior person and it is a small ceremony",
+  "beat": "Frau Amrein offers you du and you get it wrong twice in one sentence."
+ },
+ {
+  "id": "p2-10",
+  "phase": 2,
+  "title": "Wir sollten mal",
+  "desc": "An invitation that may not be one",
+  "german": "mal as a softener; sollten, könnten; vague future",
+  "swiss": "Swiss plans are made in calendars, so a plan with no date is a kindness, not a commitment",
+  "beat": "You wait three weeks for a message that was never coming."
+ },
+ {
+  "id": "p2-11",
+  "phase": 2,
+  "title": "Ja, gern",
+  "desc": "Saying yes properly",
+  "german": "accepting; gern, sehr gern, klar; word order in replies",
+  "swiss": "Enthusiasm is expressed quietly, and gern does most of the work",
+  "beat": "You say yes to something you do not understand and it turns out fine."
+ },
+ {
+  "id": "p2-12",
+  "phase": 2,
+  "title": "Der Verein",
+  "desc": "You have to join something",
+  "german": "das Mitglied, der Beitrag, die Probe; joining verbs",
+  "swiss": "Switzerland runs on Vereine, and belonging to one is how adults make friends here",
+  "beat": "Timo signs you up for something before asking you."
+ },
+ {
+  "id": "p2-13",
+  "phase": 2,
+  "title": "Zieh das an",
+  "desc": "Fasnacht, from inside a costume",
+  "german": "clothing; anziehen, ausziehen; imperatives with separable verbs",
+  "swiss": "You do not watch Fasnacht twice; the second year somebody hands you a costume",
+  "beat": "You are dressed as something you cannot name and it is four in the afternoon."
+ },
+ {
+  "id": "p2-14",
+  "phase": 2,
+  "title": "Raclette",
+  "desc": "The door opens inward",
+  "german": "dative in the home; setz dich, gib mir; food at a table",
+  "swiss": "Being asked into a Swiss home is a real threshold, and raclette is a winter table you sit at for hours",
+  "beat": "Frau Amrein invites you in, and you are there until eleven."
+ },
+ {
+  "id": "p2-15",
+  "phase": 2,
+  "title": "Ihr Mann",
+  "desc": "Photographs on a sideboard",
+  "german": "talking about the past; war, hatte; perfect tense on a life",
+  "swiss": "How the older generation of Luzern talks about the dead, which is plainly and often",
+  "beat": "She tells you about him for an hour and does not cry once."
+ },
+ {
+  "id": "p2-16",
+  "phase": 2,
+  "title": "Früher",
+  "desc": "Your own past, in a new language",
+  "german": "perfect tense in narrative; als Kind, damals, vor zehn Jahren",
+  "swiss": "Being asked about your life and finding you can only tell it simply",
+  "beat": "You describe your childhood in ninety words and it sounds truer than usual."
+ },
+ {
+  "id": "p2-17",
+  "phase": 2,
+  "title": "Herzlichen Glückwunsch",
+  "desc": "A birthday, done the local way",
+  "german": "congratulating; wishes and toasts; dative for the person",
+  "swiss": "You bring your own cake to your own birthday, and you buy the round",
+  "beat": "You turn up empty handed to your own party."
+ },
+ {
+  "id": "p2-18",
+  "phase": 2,
+  "title": "Fünf Minuten zu früh",
+  "desc": "Being on time is being early",
+  "german": "time expressions; pünktlich, rechtzeitig, zu spät",
+  "swiss": "Five minutes early is on time, on time is late, and late needs a message",
+  "beat": "You send a message saying you are four minutes behind and it is the right call."
+ },
+ {
+  "id": "p2-19",
+  "phase": 2,
+  "title": "Das Spiel",
+  "desc": "A match, and a crowd to stand in",
+  "german": "sports vocabulary; gewinnen, verlieren, das Tor",
+  "swiss": "FC Luzern, and how a small city carries a football club",
+  "beat": "You shout the wrong thing at the wrong moment and get forgiven."
+ },
+ {
+  "id": "p2-20",
+  "phase": 2,
+  "title": "Wanderung",
+  "desc": "A walk that is not a walk",
+  "german": "planning; treffen, abmachen; wir gehen am Samstag",
+  "swiss": "Hiking is a national activity with equipment, timings and a printed plan",
+  "beat": "You say yes to a walk and are sent a list of what to bring."
+ },
+ {
+  "id": "p2-21",
+  "phase": 2,
+  "title": "Spazieren",
+  "desc": "Sunday, and the whole town outside",
+  "german": "movement verbs; spazieren, wandern, laufen; along and around",
+  "swiss": "The Sunday walk is what a country does when everything is shut",
+  "beat": "You meet four people you know in an hour and that has never happened before."
+ },
+ {
+  "id": "p2-22",
+  "phase": 2,
+  "title": "Im Brockenhaus",
+  "desc": "Buying somebody else's past",
+  "german": "describing objects; adjectives before nouns, first look",
+  "swiss": "Brockenhaus culture, and the Swiss habit of keeping things until they are worth keeping",
+  "beat": "Lea talks you out of a lamp and into a better one."
+ },
+ {
+  "id": "p2-23",
+  "phase": 2,
+  "title": "Ich habe das falsch verstanden",
+  "desc": "A misunderstanding, and repairing it",
+  "german": "clarifying; ich dachte, ich habe gemeint, entschuldigung",
+  "swiss": "Directness here is not rudeness, and taking it as rudeness is the actual mistake",
+  "beat": "You take something as an insult for two days before asking."
+ },
+ {
+  "id": "p2-24",
+  "phase": 2,
+  "title": "Herr Zemp sagt etwas",
+  "desc": "The Hauswart thaws by one degree",
+  "german": "receiving a compliment; small praise; das haben Sie gut gemacht",
+  "swiss": "Swiss praise is short, rare, and means exactly what it says",
+  "beat": "He tells you your bicycle is parked correctly and it makes your week."
+ },
+ {
+  "id": "p2-25",
+  "phase": 2,
+  "title": "Die Gruppe",
+  "desc": "Your phone starts making noise",
+  "german": "written German; short messages; abbreviations people actually use",
+  "swiss": "How plans really get made, and what a thumbs up commits you to",
+  "beat": "You are added to a group chat and understand roughly a third of it."
+ },
+ {
+  "id": "p2-26",
+  "phase": 2,
+  "title": "Am Samstag?",
+  "desc": "You have people now",
+  "german": "review of perfect tense and dative; making arrangements",
+  "swiss": "The point at which a city stops being somewhere you are and starts being where you live",
+  "beat": "Three separate people ask what you are doing on Saturday."
+ },
+ {
+  "id": "p3-01",
+  "phase": 3,
+  "title": "Das Halbtax",
+  "desc": "The card everybody has",
+  "german": "separable verbs: einsteigen, aussteigen, umsteigen; half price",
+  "swiss": "The Halbtax halves every fare in the country and almost everyone owns one",
+  "beat": "You work out it pays for itself in six weeks."
+ },
+ {
+  "id": "p3-02",
+  "phase": 3,
+  "title": "Die App",
+  "desc": "A timetable that is never wrong",
+  "german": "reading times and platforms; abfahren, ankommen; von, nach, ab",
+  "swiss": "The whole network is timed to connect, and the connections are the point",
+  "beat": "You plan a journey with three changes and every one of them works."
+ },
+ {
+  "id": "p3-03",
+  "phase": 3,
+  "title": "Der Anschluss ist weg",
+  "desc": "The one time it does not work",
+  "german": "complaining mildly; verpassen, warten, der nächste",
+  "swiss": "A missed connection is announced, apologised for, and fixed, which is somehow worse",
+  "beat": "You miss a train by forty seconds and nobody else seems upset."
+ },
+ {
+  "id": "p3-04",
+  "phase": 3,
+  "title": "Das Schiff",
+  "desc": "The lake has a timetable too",
+  "german": "two-way prepositions with movement; auf den See, auf dem See",
+  "swiss": "Lake boats are public transport, not tourism, and the paddle steamers still run",
+  "beat": "You take a boat because it is faster, which you did not expect."
+ },
+ {
+  "id": "p3-05",
+  "phase": 3,
+  "title": "Stansstad",
+  "desc": "A village where the lake ends",
+  "german": "in, an, auf with dative; describing where things are",
+  "swiss": "Nidwalden across the water, and how quickly Luzern stops being Luzern",
+  "beat": "You get off at the wrong stop and it turns out better."
+ },
+ {
+  "id": "p3-06",
+  "phase": 3,
+  "title": "Stans",
+  "desc": "Timo's town, and its dead hero",
+  "german": "talking about places; es gibt; historical past in outline",
+  "swiss": "Winkelried, the Dorfplatz, and a canton of forty thousand people with its own everything",
+  "beat": "He shows you a statue and expects you to have heard of the man."
+ },
+ {
+  "id": "p3-07",
+  "phase": 3,
+  "title": "Das Stanserhorn",
+  "desc": "A cable car with no roof",
+  "german": "hinauf, hinunter, oben, unten; separable verbs of motion",
+  "swiss": "The CabriO is the only double decker cable car with an open top deck",
+  "beat": "You stand on the roof of a moving cable car and cannot speak."
+ },
+ {
+  "id": "p3-08",
+  "phase": 3,
+  "title": "Kriens",
+  "desc": "The suburb at the foot of the mountain",
+  "german": "neighbourhoods; wohnen in, arbeiten bei; two-way prepositions settled",
+  "swiss": "Kriens is where Pilatus starts and where a lot of Luzern actually lives",
+  "beat": "You realise the mountain you have been looking at has a bus stop."
+ },
+ {
+  "id": "p3-09",
+  "phase": 3,
+  "title": "Auf den Pilatus",
+  "desc": "The steepest railway in the world",
+  "german": "steigen, fahren, dauern; how long something takes",
+  "swiss": "The Goldene Rundfahrt: boat to Alpnachstad, cogwheel up, cable car down to Kriens",
+  "beat": "The train goes up at an angle you would not have believed."
+ },
+ {
+  "id": "p3-10",
+  "phase": 3,
+  "title": "Oben",
+  "desc": "Somebody else is on the summit",
+  "german": "introductions again, now easy; wem gehört, wer ist das",
+  "swiss": "Mountain top manners, and the strange formality of greeting strangers on a path",
+  "beat": "Timo introduces you to Selina and the weather is doing something behind her."
+ },
+ {
+  "id": "p3-11",
+  "phase": 3,
+  "title": "Mit der Gondel runter",
+  "desc": "Twenty minutes and no hurry",
+  "german": "conversation in motion; small questions; runter, rüber, rein",
+  "swiss": "Pilatus and its dragons, and which legends the locals actually repeat",
+  "beat": "You are in a cable car with somebody you have just met and neither of you looks out."
+ },
+ {
+  "id": "p3-12",
+  "phase": 3,
+  "title": "Der letzte Zug",
+  "desc": "The country closes at midnight",
+  "german": "times and deadlines; verpassen, erwischen, schaffen",
+  "swiss": "The last train home is a real boundary and everybody knows theirs",
+  "beat": "You run for it, get it, and wish you had not."
+ },
+ {
+  "id": "p3-13",
+  "phase": 3,
+  "title": "Die gelben Schilder",
+  "desc": "Signs that tell you the time, not the distance",
+  "german": "reading signs; die Stunde, die Minute; nach, Richtung",
+  "swiss": "Swiss hiking signs give walking time rather than kilometres, and they are accurate",
+  "beat": "You take fifteen minutes longer than the sign and are quietly annoyed."
+ },
+ {
+  "id": "p3-14",
+  "phase": 3,
+  "title": "Ein Tag in Zürich",
+  "desc": "The big city, an hour away",
+  "german": "comparatives; grösser, teurer, schneller als",
+  "swiss": "What Luzern thinks of Zurich, and how quickly you inherit the opinion",
+  "beat": "You come back the same evening and are glad to."
+ },
+ {
+  "id": "p3-15",
+  "phase": 3,
+  "title": "Die Rigi",
+  "desc": "The other mountain",
+  "german": "choosing between options; lieber, am liebsten",
+  "swiss": "Rigi is the queen of the mountains and the older railway, and people take sides",
+  "beat": "You admit you preferred Pilatus and start an argument."
+ },
+ {
+  "id": "p3-16",
+  "phase": 3,
+  "title": "Das Wetter kippt",
+  "desc": "Weather that changes its mind",
+  "german": "weather in detail; der Nebel, der Wind, plötzlich",
+  "swiss": "Mountain weather, the Nebelmeer, and why the valley can be grey while the top is not",
+  "beat": "You climb out of the fog into sunlight and understand a word you had only read."
+ },
+ {
+  "id": "p3-17",
+  "phase": 3,
+  "title": "Verlaufen",
+  "desc": "Lost, and having to ask",
+  "german": "asking for help; sich verlaufen; können Sie mir sagen",
+  "swiss": "Being lost here is safe, marked, and mildly embarrassing, which is a luxury",
+  "beat": "A woman with two dogs walks you back to the path."
+ },
+ {
+  "id": "p3-18",
+  "phase": 3,
+  "title": "Eine Nachricht",
+  "desc": "Your phone lights up",
+  "german": "written German again; reading tone; hast du am Samstag Zeit",
+  "swiss": "How a Swiss person asks you out, which is to say barely",
+  "beat": "Selina asks what you are doing on Saturday and you read it eleven times."
+ },
+ {
+  "id": "p4-01",
+  "phase": 4,
+  "title": "Nur wir zwei",
+  "desc": "The first time without anybody else",
+  "german": "conversation without a safety net; question forms under nerves",
+  "swiss": "First meetings happen in daylight and involve walking",
+  "beat": "You talk for four hours and cannot remember any of it afterwards."
+ },
+ {
+  "id": "p4-02",
+  "phase": 4,
+  "title": "Der Reuss entlang",
+  "desc": "A river through the middle of a town",
+  "german": "entlang, durch, über; describing a route you walked",
+  "swiss": "The Reuss, the weir, and the wooden bridges that cross it",
+  "beat": "You walk the same half kilometre three times without noticing."
+ },
+ {
+  "id": "p4-03",
+  "phase": 4,
+  "title": "Zu lange geredet",
+  "desc": "Missing something on purpose",
+  "german": "consequences; deshalb, darum; simple cause and effect",
+  "swiss": "What the last train means when you would rather not catch it",
+  "beat": "You both watch it leave and neither of you mentions it."
+ },
+ {
+  "id": "p4-04",
+  "phase": 4,
+  "title": "Ich mag dich",
+  "desc": "Saying a small thing that is not small",
+  "german": "mögen, gern haben, and the distance between them",
+  "swiss": "Understatement in affection, and why the Swiss version sounds cooler than it is",
+  "beat": "You say it badly and it lands anyway."
+ },
+ {
+  "id": "p4-05",
+  "phase": 4,
+  "title": "Was sie macht",
+  "desc": "A whole person you know nothing about",
+  "german": "listening; asking follow up questions; und dann, und danach",
+  "swiss": "Careers here are long and vertical, and people describe them by the training",
+  "beat": "She explains her job twice before you follow it."
+ },
+ {
+  "id": "p4-06",
+  "phase": 4,
+  "title": "Ihre Wohnung",
+  "desc": "Somebody else's rooms",
+  "german": "describing interiors; adjective endings begin properly",
+  "swiss": "What a Swiss flat says about a person, and the plants on every windowsill",
+  "beat": "You notice she owns forty books and all of them have been read."
+ },
+ {
+  "id": "p4-07",
+  "phase": 4,
+  "title": "Der erste Streit",
+  "desc": "Something small, badly handled",
+  "german": "disagreeing; das stimmt nicht, so habe ich das nicht gemeint",
+  "swiss": "How an argument sounds here: quiet, specific, and much more frightening for it",
+  "beat": "Nobody raises their voice and you would honestly prefer it if they did."
+ },
+ {
+  "id": "p4-08",
+  "phase": 4,
+  "title": "Es tut mir leid",
+  "desc": "Apologising when you have the words for it",
+  "german": "apology; es tut mir leid, entschuldige, ich war im Unrecht",
+  "swiss": "Apologies are expected to be specific; a general sorry reads as evasion",
+  "beat": "You apologise for the wrong thing first and have to start again."
+ },
+ {
+  "id": "p4-09",
+  "phase": 4,
+  "title": "Schatz",
+  "desc": "Words you only use on one person",
+  "german": "terms of affection; diminutives; du and only du",
+  "swiss": "Swiss endearments, and how sparingly they are used in public",
+  "beat": "She calls you something and you have to ask what it means."
+ },
+ {
+  "id": "p4-10",
+  "phase": 4,
+  "title": "Nuno weiss es",
+  "desc": "Telling a friend",
+  "german": "reported speech, simply; er hat gesagt, dass",
+  "swiss": "Being teased by a friend as a form of approval",
+  "beat": "He knew a week before you told him."
+ },
+ {
+  "id": "p4-11",
+  "phase": 4,
+  "title": "Frau Amrein hat es gemerkt",
+  "desc": "The neighbour noticed first",
+  "german": "perfect tense, gently interrogative; seit wann",
+  "swiss": "An older neighbour's interest is surveillance and affection at once",
+  "beat": "She asks a question that proves she has been counting."
+ },
+ {
+  "id": "p4-12",
+  "phase": 4,
+  "title": "Sonntagessen in Kriens",
+  "desc": "Lunch with the parents",
+  "german": "formal register again; Sie with people you will know for years",
+  "swiss": "Sunday lunch, the good plates, and an afternoon that lasts until five",
+  "beat": "You are early, which is correct, and nobody is ready."
+ },
+ {
+  "id": "p4-13",
+  "phase": 4,
+  "title": "Ihr Vater sagt wenig",
+  "desc": "A man who does not fill silences",
+  "german": "short answers; understanding by inference; question and pause",
+  "swiss": "Central Swiss reserve, and why a long silence is not disapproval",
+  "beat": "He asks you two questions in three hours and both of them matter."
+ },
+ {
+  "id": "p4-14",
+  "phase": 4,
+  "title": "Ihre Mutter fragt alles",
+  "desc": "A woman who fills all of them",
+  "german": "answering personal questions; deflecting politely",
+  "swiss": "What a Swiss mother is allowed to ask a stranger at a table",
+  "beat": "You are asked about your pension and you are thirty one."
+ },
+ {
+  "id": "p4-15",
+  "phase": 4,
+  "title": "Geprüft",
+  "desc": "Being assessed without being told",
+  "german": "indirect language; hedging; eigentlich, eher, vielleicht",
+  "swiss": "Approval here arrives late, quietly, and to somebody else first",
+  "beat": "You find out three weeks later that it went well."
+ },
+ {
+  "id": "p4-16",
+  "phase": 4,
+  "title": "Ihr Bruder",
+  "desc": "Somebody who has decided about you already",
+  "german": "disagreement between equals; das sehe ich anders",
+  "swiss": "Sibling loyalty, and the test that is not really about you",
+  "beat": "He is rude once, and she does not defend you, and that is correct."
+ },
+ {
+  "id": "p4-17",
+  "phase": 4,
+  "title": "Weihnachten",
+  "desc": "Christmas with somebody else's family",
+  "german": "holiday vocabulary; wishes; giving and receiving",
+  "swiss": "Swiss Christmas is on the twenty fourth, in the evening, and quieter than you expect",
+  "beat": "You buy presents for nine people and get it roughly right."
+ },
+ {
+  "id": "p4-18",
+  "phase": 4,
+  "title": "Silvester",
+  "desc": "The year turns over",
+  "german": "future with the present tense; nächstes Jahr, ab Januar",
+  "swiss": "Fireworks over the lake, and the Swiss habit of making no resolutions out loud",
+  "beat": "Somebody asks what you want from the year and you answer honestly."
+ },
+ {
+  "id": "p4-19",
+  "phase": 4,
+  "title": "Eifersucht",
+  "desc": "A feeling with no good version",
+  "german": "emotional vocabulary; eifersüchtig, verletzt, unsicher",
+  "swiss": "Talking about feelings in a culture that would rather not",
+  "beat": "You say the thing you have been carrying for a fortnight."
+ },
+ {
+  "id": "p4-20",
+  "phase": 4,
+  "title": "Eine schlechte Woche",
+  "desc": "Nothing wrong, everything heavy",
+  "german": "describing mood; es geht so, nicht so gut, mies",
+  "swiss": "How much is contained in a Swiss it is going alright",
+  "beat": "You answer wie gehts honestly for the first time."
+ },
+ {
+  "id": "p4-21",
+  "phase": 4,
+  "title": "Über Geld reden",
+  "desc": "The conversation nobody wants",
+  "german": "money and obligation; teilen, schulden, sich leisten",
+  "swiss": "Money is discussed between couples in detail and almost nowhere else",
+  "beat": "You split something down to the franc and neither of you finds it strange."
+ },
+ {
+  "id": "p4-22",
+  "phase": 4,
+  "title": "Bleibst du?",
+  "desc": "A question with a country in it",
+  "german": "conditional beginnings; wenn, dann; plans that are not plans",
+  "swiss": "What staying actually requires, in permits and in years",
+  "beat": "She asks in the middle of something else, which is how the big ones arrive."
+ },
+ {
+  "id": "p4-23",
+  "phase": 4,
+  "title": "Die Bewilligung",
+  "desc": "Your life on a piece of plastic",
+  "german": "bureaucratic vocabulary; verlängern, beantragen, gültig bis",
+  "swiss": "B and C permits, the years they take, and how a date on a card shapes a decision",
+  "beat": "You look at an expiry date and feel it in your stomach."
+ },
+ {
+  "id": "p4-24",
+  "phase": 4,
+  "title": "Ihre alten Freunde",
+  "desc": "People who knew her before you",
+  "german": "group conversation; keeping up; entering a joke halfway",
+  "swiss": "Swiss friendships formed at fourteen and kept for thirty years",
+  "beat": "Six people talk about a holiday in 2011 and you laugh in the right places."
+ },
+ {
+  "id": "p4-25",
+  "phase": 4,
+  "title": "Mein Deutsch ist heute schlecht",
+  "desc": "A bad language day, in front of everyone",
+  "german": "self correction; ich meine, also, wie sagt man",
+  "swiss": "Being spoken slowly to, and how humiliating kindness can be",
+  "beat": "Somebody switches to English to help and you ask them not to."
+ },
+ {
+  "id": "p4-26",
+  "phase": 4,
+  "title": "Ein guter Tag",
+  "desc": "Nothing happens, at length",
+  "german": "ordinary description; the plain present; comfortable silence",
+  "swiss": "An unremarkable Swiss Saturday, which is most of them",
+  "beat": "You do almost nothing for eleven hours and it is the best day so far."
+ },
+ {
+  "id": "p4-27",
+  "phase": 4,
+  "title": "Ihre Grossmutter",
+  "desc": "Ninety one, and sharper than anyone",
+  "german": "older speech; formal address; listening for meaning",
+  "swiss": "What the oldest generation remembers, and the war that did not happen here",
+  "beat": "She tells you something about the family that Selina has never heard."
+ },
+ {
+  "id": "p4-28",
+  "phase": 4,
+  "title": "Krank",
+  "desc": "Looking after somebody",
+  "german": "illness; das Fieber, die Grippe; sich hinlegen, sich ausruhen",
+  "swiss": "Being ill in Switzerland: the Arztzeugnis, and staying home without apology",
+  "beat": "You cook badly for someone who cannot taste it anyway."
+ },
+ {
+  "id": "p4-29",
+  "phase": 4,
+  "title": "Der Streit, der zählt",
+  "desc": "The argument that is about the real thing",
+  "german": "conflict at length; subordinate clauses under pressure",
+  "swiss": "How far you can go here before something breaks, and where the line sits",
+  "beat": "You both say the true thing at the same time and it is worse."
+ },
+ {
+  "id": "p4-30",
+  "phase": 4,
+  "title": "Zwei Tage nichts",
+  "desc": "Silence, on purpose",
+  "german": "absence of language; what is not said; short cold messages",
+  "swiss": "Swiss cooling off, and the assumption that the other person also needs space",
+  "beat": "You draft nine messages and send none of them."
+ },
+ {
+  "id": "p4-31",
+  "phase": 4,
+  "title": "Wieder gut",
+  "desc": "Repair, which takes longer than the damage",
+  "german": "reconciling; ich habe nachgedacht; können wir nochmal",
+  "swiss": "Making up without ceremony, and the meal that stands in for the apology",
+  "beat": "Neither of you says sorry again and it is over anyway."
+ },
+ {
+  "id": "p4-32",
+  "phase": 4,
+  "title": "Zusammenziehen",
+  "desc": "Two flats, one lease",
+  "german": "decisions; sollten wir, was meinst du; practical future",
+  "swiss": "Getting a flat together in a market where nothing is free",
+  "beat": "You look at eleven flats and get none of them."
+ },
+ {
+  "id": "p4-33",
+  "phase": 4,
+  "title": "Zu Hause anrufen",
+  "desc": "Explaining Switzerland to your own family",
+  "german": "explaining; translating culture; das ist hier normal",
+  "swiss": "Trying to describe the Waschküche to people who think you are joking",
+  "beat": "Your mother asks when you are coming back and you do not answer quickly enough."
+ },
+ {
+  "id": "p4-34",
+  "phase": 4,
+  "title": "Später einmal",
+  "desc": "A future, said out loud",
+  "german": "future forms; werden; irgendwann, in ein paar Jahren",
+  "swiss": "How Swiss couples talk about the long term, which is late and carefully",
+  "beat": "You say a sentence with the word we in it and a year attached."
+ },
+ {
+  "id": "p5-01",
+  "phase": 5,
+  "title": "Ihre Tür ist zu",
+  "desc": "A door that is always open, closed",
+  "german": "noticing absence; seit gestern, schon zwei Tage",
+  "swiss": "How a building notices when somebody stops appearing",
+  "beat": "You knock twice and then go and find Herr Zemp."
+ },
+ {
+  "id": "p5-02",
+  "phase": 5,
+  "title": "Im Spital",
+  "desc": "A hospital, and the words it needs",
+  "german": "medical vocabulary; die Station, der Arzt, die Untersuchung",
+  "swiss": "Spital not Krankenhaus; visiting hours, and the flowers everyone brings",
+  "beat": "You find the ward by asking four people."
+ },
+ {
+  "id": "p5-03",
+  "phase": 5,
+  "title": "Besuch",
+  "desc": "Sitting with somebody",
+  "german": "gentle conversation; wie fühlst du dich; small talk with weight",
+  "swiss": "What you take, what you say, and how long you stay",
+  "beat": "She wants to talk about the weather and you let her."
+ },
+ {
+  "id": "p5-04",
+  "phase": 5,
+  "title": "Was der Arzt sagt",
+  "desc": "Understanding something you do not want to",
+  "german": "formal explanation; passive constructions; leider",
+  "swiss": "Swiss directness in medicine, and being told the truth on the first visit",
+  "beat": "You understand every word and wish you had understood fewer."
+ },
+ {
+  "id": "p5-05",
+  "phase": 5,
+  "title": "Sie redet von ihm",
+  "desc": "Fifty two years, told out of order",
+  "german": "narrative past; als, während, damals",
+  "swiss": "A generation that married once and stayed, and what widowhood looked like",
+  "beat": "She tells you how they met and you have heard it before and say nothing."
+ },
+ {
+  "id": "p5-06",
+  "phase": 5,
+  "title": "Sie bittet dich um etwas",
+  "desc": "A favour, from somebody who does not ask",
+  "german": "requests; könntest du, würdest du; Konjunktiv II arrives",
+  "swiss": "How much it costs a Swiss person of that generation to ask for anything",
+  "beat": "It takes her four minutes to ask for something that takes you ten."
+ },
+ {
+  "id": "p5-07",
+  "phase": 5,
+  "title": "Sie ist gestorben",
+  "desc": "Three words, and then nothing",
+  "german": "the vocabulary of death; sterben, gestorben, tot",
+  "swiss": "How the news travels in a building, and who tells whom",
+  "beat": "You are at work when your phone buzzes."
+ },
+ {
+  "id": "p5-08",
+  "phase": 5,
+  "title": "Herr Zemp klopft",
+  "desc": "The Hauswart at your door",
+  "german": "receiving bad news; short exchanges; ich weiss",
+  "swiss": "Swiss men of sixty and what they do with their hands when they cannot speak",
+  "beat": "He stands in your doorway for a long time and then says one sentence."
+ },
+ {
+  "id": "p5-09",
+  "phase": 5,
+  "title": "Herzliches Beileid",
+  "desc": "The words people actually use",
+  "german": "condolence; herzliches Beileid, mein Beileid; what not to say",
+  "swiss": "Fixed condolence phrases exist so nobody has to invent one",
+  "beat": "You say it eleven times in one afternoon and mean it every time."
+ },
+ {
+  "id": "p5-10",
+  "phase": 5,
+  "title": "Die Abdankung",
+  "desc": "A funeral, in a church you have walked past",
+  "german": "ceremony vocabulary; die Trauerfeier, der Pfarrer, das Grab",
+  "swiss": "The Abdankung, the order of service, and how short a Swiss funeral is",
+  "beat": "Four hundred people come and you know nine of them."
+ },
+ {
+  "id": "p5-11",
+  "phase": 5,
+  "title": "Die Todesanzeige",
+  "desc": "Her name in the newspaper",
+  "german": "reading formal text; formulaic language; in stiller Trauer",
+  "swiss": "Death notices in the local paper, read daily by everybody over sixty",
+  "beat": "You read the list of names underneath and yours is not there, and it should not be."
+ },
+ {
+  "id": "p5-12",
+  "phase": 5,
+  "title": "Die Wohnung wird geräumt",
+  "desc": "Fifty years, into a van",
+  "german": "passive voice; wird geräumt, wurde verkauft",
+  "swiss": "How fast a Swiss flat is emptied and re let, and why it has to be",
+  "beat": "You carry a chair down three flights and have to stop halfway."
+ },
+ {
+  "id": "p5-13",
+  "phase": 5,
+  "title": "Vreni",
+  "desc": "A sister you did not know existed",
+  "german": "meeting under bad circumstances; formal to informal in one hour",
+  "swiss": "Siblings who live twenty minutes apart and saw each other twice a year",
+  "beat": "She has the same voice and it is very hard to look at her."
+ },
+ {
+  "id": "p5-14",
+  "phase": 5,
+  "title": "Sie hat dir etwas hinterlassen",
+  "desc": "Something small, chosen on purpose",
+  "german": "inheritance and intent; hinterlassen, vermachen, für dich",
+  "swiss": "What gets left to a neighbour, and what that means here",
+  "beat": "It is worth nothing and you will keep it for the rest of your life."
+ },
+ {
+  "id": "p5-15",
+  "phase": 5,
+  "title": "Ein ganz normaler Dienstag",
+  "desc": "Grief on a day with nothing in it",
+  "german": "describing states; plötzlich, einfach so, mitten am Tag",
+  "swiss": "How Switzerland expects you to be back at work, and mostly is right",
+  "beat": "You are fine until you see soup in a supermarket."
+ },
+ {
+  "id": "p5-16",
+  "phase": 5,
+  "title": "Anders trauern",
+  "desc": "Two people, two speeds",
+  "german": "talking about feeling; ich brauche, lass mich, ich kann nicht",
+  "swiss": "Grief that is not shared equally, and the resentment that grows in the gap",
+  "beat": "She is ready to talk about it on the day you are not."
+ },
+ {
+  "id": "p5-17",
+  "phase": 5,
+  "title": "Aus Trauer gestritten",
+  "desc": "A fight about something else entirely",
+  "german": "argument with subtext; darum geht es nicht",
+  "swiss": "Anger with nowhere to go, and the nearest available target",
+  "beat": "You shout about the dishwasher for twenty minutes."
+ },
+ {
+  "id": "p5-18",
+  "phase": 5,
+  "title": "Beat holt dich raus",
+  "desc": "Somebody makes you leave the flat",
+  "german": "invitations that are not requests; komm jetzt, du kommst mit",
+  "swiss": "The Verein as a safety net, and how Swiss men look after each other without saying so",
+  "beat": "He does not ask how you are, which is exactly right."
+ },
+ {
+  "id": "p5-19",
+  "phase": 5,
+  "title": "Woher kommst du wirklich?",
+  "desc": "A question asked of somebody born here",
+  "german": "identity and belonging; eigentlich, wirklich, ursprünglich",
+  "swiss": "Second generation Switzerland, the red passport, and the question that never stops",
+  "beat": "Fatlum has answered it four thousand times and answers it again."
+ },
+ {
+  "id": "p5-20",
+  "phase": 5,
+  "title": "Es reicht nicht",
+  "desc": "Money, and running out of it",
+  "german": "finance under strain; die Miete, das Konto, die Schulden",
+  "swiss": "How expensive Switzerland is, and how invisible poverty is here",
+  "beat": "You do arithmetic at a kitchen table at one in the morning."
+ },
+ {
+  "id": "p5-21",
+  "phase": 5,
+  "title": "Probleme bei der Arbeit",
+  "desc": "Something going wrong at work",
+  "german": "workplace conflict; formal complaint; ich möchte etwas ansprechen",
+  "swiss": "Swiss workplace hierarchy, and the meeting you have to ask for",
+  "beat": "You rehearse four sentences and use one of them."
+ },
+ {
+  "id": "p5-22",
+  "phase": 5,
+  "title": "Nein sagen",
+  "desc": "Refusing somebody you love",
+  "german": "refusal; leider nein, das geht nicht, ich kann nicht",
+  "swiss": "Saying no clearly, and why hedging is read as dishonest here",
+  "beat": "You say no without an excuse and the sky does not fall."
+ },
+ {
+  "id": "p5-23",
+  "phase": 5,
+  "title": "Sie trennen sich",
+  "desc": "Friends, coming apart",
+  "german": "talking about other people; sich trennen, die Scheidung",
+  "swiss": "Taking sides, and the Swiss preference for not",
+  "beat": "Both of them tell you their version and you believe both."
+ },
+ {
+  "id": "p5-24",
+  "phase": 5,
+  "title": "Selber krank",
+  "desc": "Your own body, letting you down",
+  "german": "symptoms and appointments; der Termin, die Überweisung",
+  "swiss": "Navigating the system as a foreigner, and what the insurance actually covers",
+  "beat": "You describe a pain in a language you did not learn for this."
+ },
+ {
+  "id": "p5-25",
+  "phase": 5,
+  "title": "Um Hilfe bitten",
+  "desc": "Asking, which you have avoided",
+  "german": "asking properly; Konjunktiv II fully; ich hätte eine Bitte",
+  "swiss": "How readily help is given here once it is actually requested",
+  "beat": "Four people say yes immediately and you feel stupid for waiting."
+ },
+ {
+  "id": "p5-26",
+  "phase": 5,
+  "title": "Es wird leichter",
+  "desc": "Not better, lighter",
+  "german": "reflection; langsam, mit der Zeit, allmählich",
+  "swiss": "A year of Swiss seasons, and what the first warm day does to a town",
+  "beat": "You laugh at something in March and catch yourself doing it."
+ },
+ {
+  "id": "p6-01",
+  "phase": 6,
+  "title": "Halt",
+  "desc": "The word for that is simply how it is",
+  "german": "halt as a particle; resignation, acceptance, closing a topic",
+  "swiss": "The most Swiss word there is, and the shrug built into it",
+  "beat": "You use it correctly by accident and somebody looks at you."
+ },
+ {
+  "id": "p6-02",
+  "phase": 6,
+  "title": "Eben",
+  "desc": "Agreeing with something you already thought",
+  "german": "eben; confirming, concluding, saying I told you so gently",
+  "swiss": "Agreement without enthusiasm, which is the local default",
+  "beat": "An entire conversation is conducted in one syllable."
+ },
+ {
+  "id": "p6-03",
+  "phase": 6,
+  "title": "Doch",
+  "desc": "Contradicting a negative",
+  "german": "doch as an answer and as a particle; insisting politely",
+  "swiss": "A word English has no version of, and how much work it does",
+  "beat": "You finally use doch as an answer and it feels like a door opening."
+ },
+ {
+  "id": "p6-04",
+  "phase": 6,
+  "title": "Mach mal",
+  "desc": "Softening everything",
+  "german": "mal as a softener; imperatives that are not orders",
+  "swiss": "How a direct instruction is made bearable in three letters",
+  "beat": "You notice that everything anybody asks of you has a mal in it."
+ },
+ {
+  "id": "p6-05",
+  "phase": 6,
+  "title": "Nicht schlecht",
+  "desc": "The highest praise available",
+  "german": "understatement; nicht schlecht, ganz gut, geht so",
+  "swiss": "Swiss praise, calibrated downward, and how to hear it correctly",
+  "beat": "Your cooking is called not bad and Selina explains what happened."
+ },
+ {
+  "id": "p6-06",
+  "phase": 6,
+  "title": "Sie nehmen dich auf den Arm",
+  "desc": "Being teased on purpose",
+  "german": "idiom; recognising a joke; the flat delivery that hides one",
+  "swiss": "Teasing as inclusion, and the flat face it is delivered with",
+  "beat": "You believe something ridiculous for four minutes."
+ },
+ {
+  "id": "p6-07",
+  "phase": 6,
+  "title": "Zurückgeben",
+  "desc": "Teasing back",
+  "german": "wit in a second language; timing; short comebacks",
+  "swiss": "Being allowed to give it back is the moment you are actually in",
+  "beat": "You land one, and the table goes quiet and then does not."
+ },
+ {
+  "id": "p6-08",
+  "phase": 6,
+  "title": "Trockener Humor",
+  "desc": "Jokes with no signal on them",
+  "german": "deadpan; irony markers, or the lack of them",
+  "swiss": "Central Swiss humour, which is dry to the point of invisibility",
+  "beat": "Herr Zemp makes a joke and it takes you until evening."
+ },
+ {
+  "id": "p6-09",
+  "phase": 6,
+  "title": "Reklamieren",
+  "desc": "Complaining as a social form",
+  "german": "formal complaint; das kann ja nicht sein; polite outrage",
+  "swiss": "Complaining about trains, prices and Zurich as a shared national pastime",
+  "beat": "You complain about a four minute delay and mean it."
+ },
+ {
+  "id": "p6-10",
+  "phase": 6,
+  "title": "Die Guggenmusik",
+  "desc": "A brass band playing wrong on purpose",
+  "german": "music vocabulary; die Probe, der Marsch, das Instrument",
+  "swiss": "Guggenmusik, and why the dissonance is the entire point",
+  "beat": "Beat hands you an instrument and does not explain it."
+ },
+ {
+  "id": "p6-11",
+  "phase": 6,
+  "title": "Falsch spielen",
+  "desc": "Being bad at something in public",
+  "german": "self deprecation; ich kann das nicht, ich übe noch",
+  "swiss": "How much room there is here for being an enthusiastic amateur",
+  "beat": "You play badly in front of two hundred people and nobody minds."
+ },
+ {
+  "id": "p6-12",
+  "phase": 6,
+  "title": "Die Grinde",
+  "desc": "A mask, and what it lets you do",
+  "german": "costume and disguise; sich verkleiden, die Maske, das Kostüm",
+  "swiss": "The Grinde, the anonymity it gives, and the licence that comes with it",
+  "beat": "Behind a mask your German is suddenly fluent."
+ },
+ {
+  "id": "p6-13",
+  "phase": 6,
+  "title": "Der Urknall",
+  "desc": "Five in the morning on Kapellplatz",
+  "german": "describing chaos; überall, plötzlich, tausend",
+  "swiss": "Schmutziger Donnerstag begins at five with the Urknall, in the dark, in February",
+  "beat": "You are in a crowd in the dark and the whole city goes off at once."
+ },
+ {
+  "id": "p6-14",
+  "phase": 6,
+  "title": "Räppli",
+  "desc": "Confetti in everything for a month",
+  "german": "quantity; voll, überall, immer noch",
+  "swiss": "Räppli not Konfetti, and how long it stays in your coat pockets",
+  "beat": "You find some in a jacket in July."
+ },
+ {
+  "id": "p6-15",
+  "phase": 6,
+  "title": "Drei Tage",
+  "desc": "Sleep is not part of it",
+  "german": "endurance; müde, kaputt, weiter; time running together",
+  "swiss": "What the city does for six days and what it looks like on the seventh",
+  "beat": "You lose track of which day it is and so has everyone else."
+ },
+ {
+  "id": "p6-16",
+  "phase": 6,
+  "title": "Aschermittwoch",
+  "desc": "It stops, completely",
+  "german": "endings; vorbei, fertig, Schluss",
+  "swiss": "How abruptly Fasnacht ends, and the town sweeping up by nine in the morning",
+  "beat": "By breakfast there is no evidence any of it happened."
+ },
+ {
+  "id": "p6-17",
+  "phase": 6,
+  "title": "Ironie, aber freundlich",
+  "desc": "Sarcasm that is not unkind",
+  "german": "tone; the line between teasing and rudeness",
+  "swiss": "Where the line sits here, and how badly a foreigner usually places it",
+  "beat": "You go slightly too far and are told, kindly, where the edge was."
+ },
+ {
+  "id": "p6-18",
+  "phase": 6,
+  "title": "Fluchen, ein bisschen",
+  "desc": "Swearing, at the local strength",
+  "german": "mild expletives; what is acceptable and where",
+  "swiss": "Swiss swearing, which is agricultural, regional, and much milder than German",
+  "beat": "You use a German swear word and the temperature drops."
+ },
+ {
+  "id": "p6-19",
+  "phase": 6,
+  "title": "Die Deutschen",
+  "desc": "The neighbours, discussed",
+  "german": "opinions held lightly; comparison; typisch",
+  "swiss": "How the Swiss talk about Germans, and the accent that gives a German away instantly",
+  "beat": "You are told you sound German and it is not a compliment."
+ },
+ {
+  "id": "p6-20",
+  "phase": 6,
+  "title": "Zürich",
+  "desc": "The other city, discussed",
+  "german": "rivalry; grösser, schneller, kälter; expressing preference",
+  "swiss": "What a Luzerner thinks of Zurich, and the thirty five minutes between them",
+  "beat": "You defend Zurich once and never again."
+ },
+ {
+  "id": "p6-21",
+  "phase": 6,
+  "title": "Der Röstigraben",
+  "desc": "A country with a line down it",
+  "german": "regional vocabulary; the French side; borrowed words",
+  "swiss": "The Röstigraben, the four languages, and how differently the country votes across it",
+  "beat": "You go to Fribourg for a weekend and half the words change."
+ },
+ {
+  "id": "p6-22",
+  "phase": 6,
+  "title": "Abstimmen",
+  "desc": "Voting, four times a year",
+  "german": "political vocabulary; die Initiative, die Abstimmung, dagegen, dafür",
+  "swiss": "Direct democracy, the envelope on the kitchen table, and turnout of about forty five percent",
+  "beat": "You cannot vote, and somebody asks your opinion anyway."
+ },
+ {
+  "id": "p6-23",
+  "phase": 6,
+  "title": "Eine Meinung, locker gehalten",
+  "desc": "Having a view without insisting on it",
+  "german": "hedged opinion; ich finde eigentlich, mir scheint",
+  "swiss": "Consensus culture, and why a strong opinion is stated weakly here",
+  "beat": "You state something flatly and watch the table adjust."
+ },
+ {
+  "id": "p6-24",
+  "phase": 6,
+  "title": "Du tönst schon fast",
+  "desc": "Somebody says you sound like one of them",
+  "german": "receiving praise; abwehren; ach was, übertreib nicht",
+  "swiss": "How rarely this is said, and why it is not said to your face twice",
+  "beat": "Nuno says it, which means more than if a Swiss person had."
+ },
+ {
+  "id": "p7-01",
+  "phase": 7,
+  "title": "Jahre später",
+  "desc": "Time, measured backwards",
+  "german": "long time spans; seit, vor, inzwischen; the pluperfect",
+  "swiss": "What changes in a Swiss town in five years, which is almost nothing and everything",
+  "beat": "You catch yourself giving directions to somebody."
+ },
+ {
+  "id": "p7-02",
+  "phase": 7,
+  "title": "Ohne nachzudenken",
+  "desc": "Words you use without choosing them",
+  "german": "idiom in the wild; fixed expressions; automatic speech",
+  "swiss": "The point at which the language stops being a task",
+  "beat": "You say a whole paragraph and only afterwards notice which language it was in."
+ },
+ {
+  "id": "p7-03",
+  "phase": 7,
+  "title": "Wortspiele",
+  "desc": "Jokes that only work in German",
+  "german": "wordplay; compound humour; puns on separable verbs",
+  "swiss": "Swiss humour that cannot survive translation, and the pleasure of that",
+  "beat": "You make one, deliberately, and it works."
+ },
+ {
+  "id": "p7-04",
+  "phase": 7,
+  "title": "Unser Witz",
+  "desc": "A joke with a history",
+  "german": "shared reference; in jokes; short callbacks",
+  "swiss": "Friendships measured in running jokes rather than in conversations",
+  "beat": "Timo says four words and you both laugh for a long time."
+ },
+ {
+  "id": "p7-05",
+  "phase": 7,
+  "title": "Bei den Odermatts",
+  "desc": "The house where you now take your shoes off",
+  "german": "familiarity in formal settings; du with people who were Sie",
+  "swiss": "How long it takes to become family here, and what it looks like when you have",
+  "beat": "Her father asks your opinion about something that matters to him."
+ },
+ {
+  "id": "p7-06",
+  "phase": 7,
+  "title": "Vreni und du",
+  "desc": "Her sister, every second Sunday",
+  "german": "habitual past; immer, jeden Sonntag, damals",
+  "swiss": "Inherited relationships, and the obligations nobody names",
+  "beat": "You have been going for three years and neither of you has ever mentioned why."
+ },
+ {
+  "id": "p7-07",
+  "phase": 7,
+  "title": "Eine Hochzeit",
+  "desc": "A day with speeches in it",
+  "german": "formal register; toasts; speaking in front of people",
+  "swiss": "A Swiss wedding, the civil ceremony first, and how long the speeches run",
+  "beat": "You are asked to say something and you say it in German."
+ },
+ {
+  "id": "p7-08",
+  "phase": 7,
+  "title": "Anna",
+  "desc": "Somebody newer than you",
+  "german": "simplifying your own speech; explaining without condescending",
+  "swiss": "Recognising the specific look of somebody three weeks into Switzerland",
+  "beat": "She asks you where the rubbish goes and you talk for forty minutes."
+ },
+ {
+  "id": "p7-09",
+  "phase": 7,
+  "title": "Die Waschküche erklären",
+  "desc": "The rota, explained to a foreigner",
+  "german": "instructions; imperatives; du musst, du darfst nicht",
+  "swiss": "Handing on the rules that nearly broke you",
+  "beat": "You hear yourself defending the rota and stop mid sentence."
+ },
+ {
+  "id": "p7-10",
+  "phase": 7,
+  "title": "Wohin kommt der Karton",
+  "desc": "Rubbish, explained again",
+  "german": "repetition as teaching; patience; nochmal, ganz einfach",
+  "swiss": "How obvious it all is once, and how impossible it is at first",
+  "beat": "You draw her a diagram."
+ },
+ {
+  "id": "p7-11",
+  "phase": 7,
+  "title": "Warum Grüezi",
+  "desc": "The first word, explained last",
+  "german": "metalanguage; talking about language; man sagt, das heisst",
+  "swiss": "Why the greeting matters, said by somebody who once did not know",
+  "beat": "You explain it better than anybody ever explained it to you."
+ },
+ {
+  "id": "p7-12",
+  "phase": 7,
+  "title": "Warum lädt mich niemand ein?",
+  "desc": "The question everybody asks eventually",
+  "german": "consolation; das kommt noch, das dauert; encouragement",
+  "swiss": "Swiss friendship on its real timescale, which is years and not weeks",
+  "beat": "You tell her the truth, which is that it takes about two years."
+ },
+ {
+  "id": "p7-13",
+  "phase": 7,
+  "title": "Von Frau Amrein erzählen",
+  "desc": "Telling somebody about the dead",
+  "german": "narrative past at length; character description",
+  "swiss": "Keeping somebody present by describing them accurately",
+  "beat": "You tell Anna about the soup and about the recycling and about the door."
+ },
+ {
+  "id": "p7-14",
+  "phase": 7,
+  "title": "Ins Brockenhaus",
+  "desc": "Furnishing another empty flat",
+  "german": "advice; an dessen Stelle würde ich; Konjunktiv II casually",
+  "swiss": "The same warehouse, the same lamps, a different person deciding",
+  "beat": "You talk her out of a lamp."
+ },
+ {
+  "id": "p7-15",
+  "phase": 7,
+  "title": "Sie lernt alle kennen",
+  "desc": "Introducing somebody to your people",
+  "german": "introductions from the inside; das ist, kennst du schon",
+  "swiss": "Bringing somebody into a circle, and the responsibility of it",
+  "beat": "Nuno takes to her immediately and it is briefly annoying."
+ },
+ {
+  "id": "p7-16",
+  "phase": 7,
+  "title": "Das Heft",
+  "desc": "A notebook, handed over",
+  "german": "handing on knowledge; das brauchst du, das hilft",
+  "swiss": "The notes you took in your first year and never threw away",
+  "beat": "You give her the notebook you kept and half of it is wrong."
+ },
+ {
+  "id": "p7-17",
+  "phase": 7,
+  "title": "Nichts war schwierig",
+  "desc": "A day with no difficulty in it",
+  "german": "fluent ordinary speech; the whole grammar, unremarked",
+  "swiss": "An unremarkable day, which is the entire achievement",
+  "beat": "You get to the evening before realising nothing was hard."
+ },
+ {
+  "id": "p7-18",
+  "phase": 7,
+  "title": "Niemand wechselt ins Englische",
+  "desc": "They stop switching",
+  "german": "the full range, used normally; no scaffolding left",
+  "swiss": "The moment Switzerland stops handling you, which nobody announces",
+  "beat": "You are in a conversation with four people and not one of them changes language for you."
+ }
+]
