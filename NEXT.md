@@ -11,7 +11,7 @@ reasoning behind it. This file is the short version and says what to do next.
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
 | Stories planned | **184** | 8 phases, 0 written |
-| App support | **shipped** | v2.8.24, mascot + palette + German interface + switcher |
+| App support | **shipped** | v2.8.25, mascot + palette + German interface + switcher |
 | Stories on people | **60** | phases 4 and 5, a third of the course |
 
 ---
@@ -106,6 +106,13 @@ the app hides itself when the registry holds one language, deliberately, on the
 grounds that a picker with one destination is a dead end. The consequence while
 German was unlisted was that there was no way to change course at all. If a
 switcher ever seems to have vanished, check the registry before the code.
+
+**And the deadlock that made this bite twice, fixed in v2.8.25:** a returning
+boot read the registry from cache only, and the only path that refetched it
+with network was the picker, behind the hidden switchers. So a registry update
+could never reach an existing install. Boot now refreshes the registry in the
+background after launch, and Settings retries it itself while it only knows
+one language.
 
 Two bugs fixed in v2.8.24 at the same time:
 
