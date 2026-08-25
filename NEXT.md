@@ -11,7 +11,7 @@ reasoning behind it. This file is the short version and says what to do next.
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
 | Stories planned | **184** | 8 phases, 0 written |
-| App support | **shipped** | v2.8.23, mascot + palette + German interface live |
+| App support | **shipped** | v2.8.24, mascot + palette + German interface + switcher |
 | Stories on people | **60** | phases 4 and 5, a third of the course |
 
 ---
@@ -97,9 +97,25 @@ are live in `scenicprints/fluidez` and the Spanish course is pixel-identical:
   lesson publishes.
 - CI gates `docs/js/creatures.test.mjs` as well as the engine test.
 
-**5. The registry.** One line in `scenicprints/fluidez-languages/languages.json`
-and the picker and the language chip come back on their own, because both are
-already written to hide themselves when there is only one language.
+**5. The registry — DONE, 2026-08-25.** `fluidez-languages` lists `de-ch`
+alongside `es-ni`, so the Settings row, the language chip on Today and the
+picker after account creation are all back.
+
+**Worth knowing, because it looked like a missing feature:** every switcher in
+the app hides itself when the registry holds one language, deliberately, on the
+grounds that a picker with one destination is a dead end. The consequence while
+German was unlisted was that there was no way to change course at all. If a
+switcher ever seems to have vanished, check the registry before the code.
+
+Two bugs fixed in v2.8.24 at the same time:
+
+- `launch()` painted the mascot only if there was not one already, so switching
+  course chose the new creature and left the old one on the branch. It rebuilds
+  when the species changes now, and `createMascot()` has a `destroy()` built on
+  an AbortController so the swap does not stack a second set of pointer
+  handlers on the perch.
+- The whole Settings screen was English constants, which is exactly where the
+  switcher lives. Twenty-six strings now go through `t()`.
 
 ---
 
