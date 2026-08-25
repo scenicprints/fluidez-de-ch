@@ -1,7 +1,7 @@
 # START HERE — where the German course stands
 
 **Nothing is written yet. The plan is finished and it is not up for
-relitigating.** `content/plan/spine.json` holds all 184 stories across 8
+relitigating.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
 reasoning behind it. This file is the short version and says what to do next.
@@ -10,9 +10,9 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **184** | 8 phases, 0 written |
+| Stories planned | **192** | 8 phases, 0 written |
 | App support | **shipped** | v2.8.25, mascot + palette + German interface + switcher |
-| Stories on people | **60** | phases 4 and 5, a third of the course |
+| Stories on people | **62** | phases 4 and 5, a third of the course |
 
 ---
 
@@ -35,7 +35,14 @@ vocabulary is the thing Fluidez exists to deliver and Duolingo never will.
 - [x] **The eight phases**, in Kevin's order, with the grammar ladder under
       each. See `HANDOFF.md` §4.
 - [x] **The cast**, planned with its endings already known. `HANDOFF.md` §5.
-- [x] **The spine.** All 184 stories in `content/plan/spine.json`.
+- [x] **The spine.** All 192 stories in `content/plan/spine.json`.
+- [x] **The eight culture gaps closed** (2026-08-25). An audit found the course
+      had seven Fasnacht stories and no Schwingen at all. Added, each placed
+      where the calendar puts it rather than appended: `p3-14` Das Schwingfest,
+      `p3-17` Der Alpabzug, `p3-18` Der erste Schnee, `p4-17` Der WK, `p4-18`
+      Der Samichlaus, `p6-22` Der erste August, `p6-23` Alphorn und Jodel,
+      `p2-22` Räbeliechtli. **Re-run that audit after any spine edit** — the
+      script is trivial and the gap was invisible until somebody looked.
 
 ## What is next, in order
 
@@ -157,7 +164,8 @@ Raised when the spine was delivered, not yet acted on:
   thin on writing, that is where to add.
 - **Fasnacht appears three times**: `p1-20` as spectator, `p2-13` in a
   costume, and `p6-10` to `p6-16` from inside a Guggenmusik. Seven stories is
-  a lot. A candidate for a cut.
+  a lot. Less lopsided now that Schwingen, the Alpabzug and 1. August exist,
+  but still the largest single block in the course.
 
 ---
 

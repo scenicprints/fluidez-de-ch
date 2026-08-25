@@ -533,6 +533,15 @@
  {
   "id": "p2-22",
   "phase": 2,
+  "title": "Räbeliechtli",
+  "desc": "Turnips, candles, and a street full of children",
+  "german": "dative in the dark; leuchten, tragen, singen; a child's vocabulary",
+  "swiss": "Hollowed turnips carved and lit, a procession through a November evening, and the song every child here already knows",
+  "beat": "A neighbour hands you a turnip and a knife and assumes you know what to do."
+ },
+ {
+  "id": "p2-23",
+  "phase": 2,
   "title": "Im Brockenhaus",
   "desc": "Buying somebody else's past",
   "german": "describing objects; adjectives before nouns, first look",
@@ -540,7 +549,7 @@
   "beat": "Lea talks you out of a lamp and into a better one."
  },
  {
-  "id": "p2-23",
+  "id": "p2-24",
   "phase": 2,
   "title": "Ich habe das falsch verstanden",
   "desc": "A misunderstanding, and repairing it",
@@ -549,7 +558,7 @@
   "beat": "You take something as an insult for two days before asking."
  },
  {
-  "id": "p2-24",
+  "id": "p2-25",
   "phase": 2,
   "title": "Herr Zemp sagt etwas",
   "desc": "The Hauswart thaws by one degree",
@@ -558,7 +567,7 @@
   "beat": "He tells you your bicycle is parked correctly and it makes your week."
  },
  {
-  "id": "p2-25",
+  "id": "p2-26",
   "phase": 2,
   "title": "Die Gruppe",
   "desc": "Your phone starts making noise",
@@ -567,7 +576,7 @@
   "beat": "You are added to a group chat and understand roughly a third of it."
  },
  {
-  "id": "p2-26",
+  "id": "p2-27",
   "phase": 2,
   "title": "Am Samstag?",
   "desc": "You have people now",
@@ -695,6 +704,15 @@
  {
   "id": "p3-14",
   "phase": 3,
+  "title": "Das Schwingfest",
+  "desc": "The national sport, in a ring of sawdust",
+  "german": "watching and describing; gewinnen, werfen, der Griff; separable verbs in commentary",
+  "swiss": "Schwingen, the Schwinghosen, the sawdust ring, and the Eidgenössisches every three years where the Schwingerkönig goes home with a live bull",
+  "beat": "Timo explains the rules three times and you still cannot tell who is winning."
+ },
+ {
+  "id": "p3-15",
+  "phase": 3,
   "title": "Ein Tag in Zürich",
   "desc": "The big city, an hour away",
   "german": "comparatives; grösser, teurer, schneller als",
@@ -702,7 +720,7 @@
   "beat": "You come back the same evening and are glad to."
  },
  {
-  "id": "p3-15",
+  "id": "p3-16",
   "phase": 3,
   "title": "Die Rigi",
   "desc": "The other mountain",
@@ -711,7 +729,25 @@
   "beat": "You admit you preferred Pilatus and start an argument."
  },
  {
-  "id": "p3-16",
+  "id": "p3-17",
+  "phase": 3,
+  "title": "Der Alpabzug",
+  "desc": "The cattle come down, wearing flowers",
+  "german": "die Kuh, die Glocke, der Kranz; describing a procession; sie kommen, sie ziehen",
+  "swiss": "The September descent from the alp, flower crowns on the herd, the largest bells on the lead animals, and a village that stops for it",
+  "beat": "You hear them twenty minutes before you see them."
+ },
+ {
+  "id": "p3-18",
+  "phase": 3,
+  "title": "Der erste Schnee",
+  "desc": "Winter, and everyone else already owns the equipment",
+  "german": "winter vocabulary; Ski fahren, schlitteln, frieren; wenn clauses",
+  "swiss": "Skiing as something learnt at school rather than bought as a holiday, the Skilager every child goes on, and how much of the year the mountains decide",
+  "beat": "You are the only adult on the slope who has never done this before."
+ },
+ {
+  "id": "p3-19",
   "phase": 3,
   "title": "Das Wetter kippt",
   "desc": "Weather that changes its mind",
@@ -720,7 +756,7 @@
   "beat": "You climb out of the fog into sunlight and understand a word you had only read."
  },
  {
-  "id": "p3-17",
+  "id": "p3-20",
   "phase": 3,
   "title": "Verlaufen",
   "desc": "Lost, and having to ask",
@@ -729,7 +765,7 @@
   "beat": "A woman with two dogs walks you back to the path."
  },
  {
-  "id": "p3-18",
+  "id": "p3-21",
   "phase": 3,
   "title": "Eine Nachricht",
   "desc": "Your phone lights up",
@@ -884,6 +920,24 @@
  {
   "id": "p4-17",
   "phase": 4,
+  "title": "Der WK",
+  "desc": "He disappears for three weeks, every year",
+  "german": "military vocabulary; einrücken, der Dienst, die Kaserne; the present tense as future",
+  "swiss": "Militärdienst and the annual Wiederholungskurs, and the rifle that lives in a cupboard at home between them",
+  "beat": "Her brother packs a uniform and nobody at the table finds it worth mentioning."
+ },
+ {
+  "id": "p4-18",
+  "phase": 4,
+  "title": "Der Samichlaus",
+  "desc": "The sixth of December, and a man with a book",
+  "german": "recitation; das Gedicht, der Sack, brav; being told what to do by an authority",
+  "swiss": "Samichlaus and Schmutzli on the sixth, the poem every child learns by heart, and the Chlausjagen at Küssnacht with its lit Iffelen",
+  "beat": "You are asked to recite something and you do not have anything."
+ },
+ {
+  "id": "p4-19",
+  "phase": 4,
   "title": "Weihnachten",
   "desc": "Christmas with somebody else's family",
   "german": "holiday vocabulary; wishes; giving and receiving",
@@ -891,7 +945,7 @@
   "beat": "You buy presents for nine people and get it roughly right."
  },
  {
-  "id": "p4-18",
+  "id": "p4-20",
   "phase": 4,
   "title": "Silvester",
   "desc": "The year turns over",
@@ -900,7 +954,7 @@
   "beat": "Somebody asks what you want from the year and you answer honestly."
  },
  {
-  "id": "p4-19",
+  "id": "p4-21",
   "phase": 4,
   "title": "Eifersucht",
   "desc": "A feeling with no good version",
@@ -909,7 +963,7 @@
   "beat": "You say the thing you have been carrying for a fortnight."
  },
  {
-  "id": "p4-20",
+  "id": "p4-22",
   "phase": 4,
   "title": "Eine schlechte Woche",
   "desc": "Nothing wrong, everything heavy",
@@ -918,7 +972,7 @@
   "beat": "You answer wie gehts honestly for the first time."
  },
  {
-  "id": "p4-21",
+  "id": "p4-23",
   "phase": 4,
   "title": "Über Geld reden",
   "desc": "The conversation nobody wants",
@@ -927,7 +981,7 @@
   "beat": "You split something down to the franc and neither of you finds it strange."
  },
  {
-  "id": "p4-22",
+  "id": "p4-24",
   "phase": 4,
   "title": "Bleibst du?",
   "desc": "A question with a country in it",
@@ -936,7 +990,7 @@
   "beat": "She asks in the middle of something else, which is how the big ones arrive."
  },
  {
-  "id": "p4-23",
+  "id": "p4-25",
   "phase": 4,
   "title": "Die Bewilligung",
   "desc": "Your life on a piece of plastic",
@@ -945,7 +999,7 @@
   "beat": "You look at an expiry date and feel it in your stomach."
  },
  {
-  "id": "p4-24",
+  "id": "p4-26",
   "phase": 4,
   "title": "Ihre alten Freunde",
   "desc": "People who knew her before you",
@@ -954,7 +1008,7 @@
   "beat": "Six people talk about a holiday in 2011 and you laugh in the right places."
  },
  {
-  "id": "p4-25",
+  "id": "p4-27",
   "phase": 4,
   "title": "Mein Deutsch ist heute schlecht",
   "desc": "A bad language day, in front of everyone",
@@ -963,7 +1017,7 @@
   "beat": "Somebody switches to English to help and you ask them not to."
  },
  {
-  "id": "p4-26",
+  "id": "p4-28",
   "phase": 4,
   "title": "Ein guter Tag",
   "desc": "Nothing happens, at length",
@@ -972,7 +1026,7 @@
   "beat": "You do almost nothing for eleven hours and it is the best day so far."
  },
  {
-  "id": "p4-27",
+  "id": "p4-29",
   "phase": 4,
   "title": "Ihre Grossmutter",
   "desc": "Ninety one, and sharper than anyone",
@@ -981,7 +1035,7 @@
   "beat": "She tells you something about the family that Selina has never heard."
  },
  {
-  "id": "p4-28",
+  "id": "p4-30",
   "phase": 4,
   "title": "Krank",
   "desc": "Looking after somebody",
@@ -990,7 +1044,7 @@
   "beat": "You cook badly for someone who cannot taste it anyway."
  },
  {
-  "id": "p4-29",
+  "id": "p4-31",
   "phase": 4,
   "title": "Der Streit, der zählt",
   "desc": "The argument that is about the real thing",
@@ -999,7 +1053,7 @@
   "beat": "You both say the true thing at the same time and it is worse."
  },
  {
-  "id": "p4-30",
+  "id": "p4-32",
   "phase": 4,
   "title": "Zwei Tage nichts",
   "desc": "Silence, on purpose",
@@ -1008,7 +1062,7 @@
   "beat": "You draft nine messages and send none of them."
  },
  {
-  "id": "p4-31",
+  "id": "p4-33",
   "phase": 4,
   "title": "Wieder gut",
   "desc": "Repair, which takes longer than the damage",
@@ -1017,7 +1071,7 @@
   "beat": "Neither of you says sorry again and it is over anyway."
  },
  {
-  "id": "p4-32",
+  "id": "p4-34",
   "phase": 4,
   "title": "Zusammenziehen",
   "desc": "Two flats, one lease",
@@ -1026,7 +1080,7 @@
   "beat": "You look at eleven flats and get none of them."
  },
  {
-  "id": "p4-33",
+  "id": "p4-35",
   "phase": 4,
   "title": "Zu Hause anrufen",
   "desc": "Explaining Switzerland to your own family",
@@ -1035,7 +1089,7 @@
   "beat": "Your mother asks when you are coming back and you do not answer quickly enough."
  },
  {
-  "id": "p4-34",
+  "id": "p4-36",
   "phase": 4,
   "title": "Später einmal",
   "desc": "A future, said out loud",
@@ -1469,6 +1523,24 @@
  {
   "id": "p6-22",
   "phase": 6,
+  "title": "Der erste August",
+  "desc": "Bonfires on the hills, and bread with a flag in it",
+  "german": "national vocabulary held lightly; die Rede, das Feuer, feiern",
+  "swiss": "The Bundesfeier: fires on every ridge, paper lanterns, the Weggen with a flag stuck in it, and speeches nobody is really listening to",
+  "beat": "Somebody asks whether you feel Swiss yet, and means it kindly."
+ },
+ {
+  "id": "p6-23",
+  "phase": 6,
+  "title": "Alphorn und Jodel",
+  "desc": "The sound people abroad think is a joke",
+  "german": "describing sound; klingen, tönen, tief, hoch, weit",
+  "swiss": "Alphorn and Jodel as Vereine with weekly rehearsals and committees, not a postcard, and how far the sound genuinely carries",
+  "beat": "It is far louder than you expected and much less funny."
+ },
+ {
+  "id": "p6-24",
+  "phase": 6,
   "title": "Abstimmen",
   "desc": "Voting, four times a year",
   "german": "political vocabulary; die Initiative, die Abstimmung, dagegen, dafür",
@@ -1476,7 +1548,7 @@
   "beat": "You cannot vote, and somebody asks your opinion anyway."
  },
  {
-  "id": "p6-23",
+  "id": "p6-25",
   "phase": 6,
   "title": "Eine Meinung, locker gehalten",
   "desc": "Having a view without insisting on it",
@@ -1485,7 +1557,7 @@
   "beat": "You state something flatly and watch the table adjust."
  },
  {
-  "id": "p6-24",
+  "id": "p6-26",
   "phase": 6,
   "title": "Du tönst schon fast",
   "desc": "Somebody says you sound like one of them",

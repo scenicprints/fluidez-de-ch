@@ -55,7 +55,7 @@ making people unlearn and relearn. That is too much for a beginner. Pick one
 and stick to it."*
 
 He is right, and it removes the largest accuracy risk in the project at the
-same time. **One variety, story 1 to story 184. No Mundart sentences anywhere,
+same time. **One variety, story 1 to story 192. No Mundart sentences anywhere,
 comprehension included.**
 
 ### What survives
@@ -160,11 +160,11 @@ instruction: *"The phases should be unique to each language."*
 |---|---|---|---|
 | 0 | Landing | der/die/das, present tense, numbers | 16 |
 | 1 | Settling In | modal verbs, accusative, verb second | 22 |
-| 2 | Making Friends | perfect tense, dative | 26 |
-| 3 | Getting About | separable verbs, two-way prepositions | 18 |
-| 4 | **Close to the Heart** | the emotional register | **34** |
+| 2 | Making Friends | perfect tense, dative | 27 |
+| 3 | Getting About | separable verbs, two-way prepositions | 21 |
+| 4 | **Close to the Heart** | the emotional register | **36** |
 | 5 | Hard Things | subordinate clauses, Konjunktiv II | 26 |
-| 6 | Sounding Swiss | Modalpartikeln: halt, eben, doch, mal | 24 |
+| 6 | Sounding Swiss | Modalpartikeln: halt, eben, doch, mal | 26 |
 | 7 | Belonging | passive, idiom, the long tail | 18 |
 
 **The order is Kevin's**, and it is narrative: you land, you settle into a
