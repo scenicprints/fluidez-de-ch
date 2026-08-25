@@ -11,6 +11,7 @@ reasoning behind it. This file is the short version and says what to do next.
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
 | Stories planned | **184** | 8 phases, 0 written |
+| App support | **shipped** | v2.8.23, mascot + palette + German interface live |
 | Stories on people | **60** | phases 4 and 5, a third of the course |
 
 ---
@@ -75,18 +76,26 @@ German has to handle:
 **3. Write phase 0**, sixteen stories, and run the loop in §7 of `HANDOFF.md`
 until nothing prints `PROBLEM:`.
 
-**4. The app changes**, in `scenicprints/fluidez` — an independent track that
-does not block content:
+**4. The app changes — DONE, shipped 2026-08-25 in v2.8.23.** All four seams
+are live in `scenicprints/fluidez` and the Spanish course is pixel-identical:
 
-- **The mascot.** It is **not** in the content pack. Only its *lines* are.
-  The bird itself is the SVG in `docs/js/momo.js`, plus `MOMO_MINI`, plus
-  about 130 lines of `docs/css/app.css` whose animation classes are named for
-  motmot anatomy (`.m-tail`, `.m-wingL`, `.m-beak`, `.lid`, `.zzz`). A German
-  mascot means an app change and a Pages deploy. Do it **per-language** so
-  language three costs nothing.
-- **Phase names.** `PHASES` is hardcoded in `docs/js/engine.js` and reads
-  "Markets, taxis, directions, transactions", which is Nicaragua. It has to
-  move into the pack. Same batch, same deploy.
+- **Mascots** live in `docs/js/creatures.js` behind one rig; `mascot.js` drives
+  behaviour and no longer knows the species. **Blüemli**, a Braunvieh with a bell
+  hanging where the motmot's tail hangs, is the Swiss mascot. A marmot named
+  **Mungg** is parked in the same file as a one-line swap.
+- **Phases** come from the pack (`setPhases`), falling back to the old ladder.
+- **Interface strings** come from the pack (`setStrings` / `t()`), falling back
+  to English. The Path tab takes its own icon per course: volcano for es-ni,
+  `ic-gondola` for de-ch.
+- **Chrome** reads `--accent` / `--chrome-grad`, split from `--oro`, which used
+  to mean both "growing" and "this app". `[data-course="de-ch"]` on `<html>`
+  paints alpine night: Swiss red and white on charcoal. **The three memory
+  colours are identical in both courses on purpose.**
+- **`Im Bau`** screen: a course with no lessons shows its tiles but routes every
+  one of them there. Governed by `underConstruction()`, which is just
+  `content.lessons.length === 0`, so it disappears by itself when the first
+  lesson publishes.
+- CI gates `docs/js/creatures.test.mjs` as well as the engine test.
 
 **5. The registry.** One line in `scenicprints/fluidez-languages/languages.json`
 and the picker and the language chip come back on their own, because both are
