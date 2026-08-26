@@ -1,0 +1,109 @@
+{
+ "id": "sc10",
+ "title": "Am Dienstag gewaschen",
+ "desc": "You used the machine on somebody else’s day",
+ "setting": "The laundry room, two hours later, with your washing still in the machine.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Frau Steiner",
+   "es": "Entschuldigung. Der Dienstag ist mein Tag.",
+   "en": "Excuse me. Tuesday is my day.",
+   "options": [
+    {
+     "es": "Entschuldigung. Sie haben recht.",
+     "en": "Sorry. You are right.",
+     "verdict": "good",
+     "feedback": "She is right, and saying so ends it. Nobody here wants an argument, they want the rota kept."
+    },
+    {
+     "es": "Die Maschine ist leer. Ich dachte, es geht.",
+     "en": "The machine was empty. I thought it was fine.",
+     "verdict": "ok",
+     "feedback": "A reason, which she will accept and not agree with. Empty is not the same as free."
+    },
+    {
+     "es": "Aber niemand braucht sie gerade.",
+     "en": "But nobody is using it right now.",
+     "verdict": "bad",
+     "feedback": "That is the argument, and it is the one that makes an enemy in a building you will live in for years."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau Steiner",
+   "es": "Sie müssen sich in den Plan eintragen. Dann gehört der Tag Ihnen.",
+   "en": "You have to sign into the rota. Then the day is yours.",
+   "options": [
+    {
+     "es": "Ich trage mich das nächste Mal ein.",
+     "en": "I will sign myself in next time.",
+     "verdict": "good",
+     "feedback": "Uses her own verb back. eintragen is the word the whole system runs on."
+    },
+    {
+     "es": "Wo steht der Plan?",
+     "en": "Where is the rota?",
+     "verdict": "good",
+     "feedback": "On the wall by the door. Asking is better than guessing again."
+    },
+    {
+     "es": "Muss man das wirklich?",
+     "en": "Does one really have to?",
+     "verdict": "bad",
+     "feedback": "Yes, and it is in the Hausordnung, which she knows and now knows you have not read."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau Steiner",
+   "es": "Nehmen Sie Ihre Wäsche heraus. Ich brauche die Maschine jetzt.",
+   "en": "Take your washing out. I need the machine now.",
+   "options": [
+    {
+     "es": "Ja, sofort. Nochmals Entschuldigung.",
+     "en": "Yes, right away. Sorry again.",
+     "verdict": "good",
+     "feedback": "Immediate and one more apology. That closes it properly."
+    },
+    {
+     "es": "Kann ich sie noch trocknen?",
+     "en": "Can I dry it first?",
+     "verdict": "bad",
+     "feedback": "The Tumbler is Tuesday’s too. You are asking for the second half of the day you already took."
+    },
+    {
+     "es": "Einen Moment, bitte.",
+     "en": "One moment, please.",
+     "verdict": "ok",
+     "feedback": "Reasonable, and she has been waiting two hours already."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau Amrein",
+   "es": "Und? War die Frau Steiner böse?",
+   "en": "Well? Was Frau Steiner cross?",
+   "options": [
+    {
+     "es": "Nein. Aber sie hat recht.",
+     "en": "No. But she is right.",
+     "verdict": "good",
+     "feedback": "The right answer, and she will report it to the building exactly as you said it."
+    },
+    {
+     "es": "Ein bisschen, glaube ich.",
+     "en": "A bit, I think.",
+     "verdict": "ok",
+     "feedback": "Honest. She will tell you Frau Steiner is never cross, which is nearly true."
+    },
+    {
+     "es": "Woher wissen Sie das schon?",
+     "en": "How do you know about it already?",
+     "verdict": "ok",
+     "feedback": "She always knows already. Asking her that is a joke she will enjoy."
+    }
+   ]
+  }
+ ]
+}

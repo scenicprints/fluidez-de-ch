@@ -1,0 +1,398 @@
+{
+ "id": "p1-22",
+ "title": "Ein Monat",
+ "desc": "You come home, and the word you use for it is home",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "gewöhnen",
+  "Abend",
+  "gehen"
+ ],
+ "sn": [
+  {
+   "s": "Ich wohne jetzt einen Monat hier.",
+   "e": "I have been living here a month now."
+  },
+  {
+   "s": "Ein Monat ist nicht lang.",
+   "e": "A month is not long."
+  },
+  {
+   "s": "Aber es ist genug für vieles.",
+   "e": "But it is enough for a lot."
+  },
+  {
+   "s": "Es ist Winter.",
+   "e": "It is winter."
+  },
+  {
+   "s": "Der Winter hier ist dunkel.",
+   "e": "The winter here is dark."
+  },
+  {
+   "s": "Um halb fünf ist es dunkel.",
+   "e": "At half past four it is dark."
+  },
+  {
+   "s": "Um acht Uhr am Morgen ist es noch dunkel.",
+   "e": "At eight in the morning it is still dark."
+  },
+  {
+   "s": "Dazwischen ist es grau.",
+   "e": "In between it is grey."
+  },
+  {
+   "s": "Die Berge sieht man oft nicht.",
+   "e": "You often cannot see the mountains."
+  },
+  {
+   "s": "Sie sind hinter den Wolken.",
+   "e": "They are behind the clouds."
+  },
+  {
+   "s": "Manchmal drei Wochen lang.",
+   "e": "Sometimes for three weeks."
+  },
+  {
+   "s": "Und dann ist plötzlich alles klar.",
+   "e": "And then suddenly everything is clear."
+  },
+  {
+   "s": "Dann sieht man sie wieder.",
+   "e": "Then you can see them again."
+  },
+  {
+   "s": "Und alle reden davon.",
+   "e": "And everybody talks about it."
+  },
+  {
+   "s": "Am Abend gehe ich nach Hause.",
+   "e": "In the evening I go home."
+  },
+  {
+   "s": "Ich gehe den gleichen Weg wie immer.",
+   "e": "I take the same way as always."
+  },
+  {
+   "s": "Über den Platz, an der Post vorbei.",
+   "e": "Across the square, past the post office."
+  },
+  {
+   "s": "Dann links und dann die Strasse hinauf.",
+   "e": "Then left and then up the street."
+  },
+  {
+   "s": "Ich muss nicht mehr denken.",
+   "e": "I do not have to think any more."
+  },
+  {
+   "s": "Ich muss den Weg nicht mehr suchen.",
+   "e": "I do not have to look for the way any more."
+  },
+  {
+   "s": "Das ist eine kleine Sache.",
+   "e": "That is a small thing."
+  },
+  {
+   "s": "Aber im ersten Monat ist es keine kleine Sache.",
+   "e": "But in the first month it is not a small thing."
+  },
+  {
+   "s": "Am Anfang suche ich jeden Weg.",
+   "e": "At the start I look for every route."
+  },
+  {
+   "s": "Jetzt gehe ich einfach.",
+   "e": "Now I just walk."
+  },
+  {
+   "s": "Im Haus mache ich das Licht an.",
+   "e": "In the building I switch on the light."
+  },
+  {
+   "s": "Das Licht im Treppenhaus geht nach zwei Minuten aus.",
+   "e": "The stairwell light goes out after two minutes."
+  },
+  {
+   "s": "Am Anfang bin ich immer im Dunkeln.",
+   "e": "At the start I am always left in the dark."
+  },
+  {
+   "s": "Jetzt gehe ich schneller.",
+   "e": "Now I walk faster."
+  },
+  {
+   "s": "Ich kenne jetzt viele kleine Sachen.",
+   "e": "I know a lot of small things now."
+  },
+  {
+   "s": "Ich kenne die Zeiten vom Laden.",
+   "e": "I know the shop hours."
+  },
+  {
+   "s": "Ich kenne den Fahrplan vom Bus.",
+   "e": "I know the bus timetable."
+  },
+  {
+   "s": "Ich kenne die Farben von den Containern.",
+   "e": "I know the colours of the containers."
+  },
+  {
+   "s": "Ich kenne meinen Tag in der Waschküche.",
+   "e": "I know my day in the laundry room."
+  },
+  {
+   "s": "Das ist kein Deutsch.",
+   "e": "That is not German."
+  },
+  {
+   "s": "Aber ohne das kann man hier nicht wohnen.",
+   "e": "But without it you cannot live here."
+  },
+  {
+   "s": "Mein Deutsch ist auch besser.",
+   "e": "My German is better too."
+  },
+  {
+   "s": "Nicht viel besser. Aber besser.",
+   "e": "Not much better. But better."
+  },
+  {
+   "s": "Ich kann eine Rechnung lesen.",
+   "e": "I can read a bill."
+  },
+  {
+   "s": "Ich kann ein Formular ausfüllen.",
+   "e": "I can fill in a form."
+  },
+  {
+   "s": "Ich kann in der Apotheke auf den Hals zeigen.",
+   "e": "I can point at my throat in the pharmacy."
+  },
+  {
+   "s": "Ich kann mit Frau Amrein reden.",
+   "e": "I can talk to Frau Amrein."
+  },
+  {
+   "s": "Nicht über alles. Aber über den Tag.",
+   "e": "Not about everything. But about the day."
+  },
+  {
+   "s": "Ich mache noch viele Fehler.",
+   "e": "I still make a lot of mistakes."
+  },
+  {
+   "s": "Ich sage oft den falschen Artikel.",
+   "e": "I often say the wrong article."
+  },
+  {
+   "s": "Aber ich rede.",
+   "e": "But I talk."
+  },
+  {
+   "s": "Nuno sagt: Das ist der ganze Trick.",
+   "e": "Nuno says: that is the whole trick."
+  },
+  {
+   "s": "Man muss reden und Fehler machen.",
+   "e": "You have to talk and make mistakes."
+  },
+  {
+   "s": "Sonst dauert es achtzehn Jahre.",
+   "e": "Otherwise it takes eighteen years."
+  },
+  {
+   "s": "Ich gewöhne mich an vieles.",
+   "e": "I am getting used to a lot of things."
+  },
+  {
+   "s": "Sich gewöhnen heisst: es ist nicht mehr komisch.",
+   "e": "Getting used to it means: it is not odd any more."
+  },
+  {
+   "s": "Ich gewöhne mich an die Stille am Abend.",
+   "e": "I am getting used to the quiet in the evening."
+  },
+  {
+   "s": "Ich gewöhne mich an den Sonntag ohne Läden.",
+   "e": "I am getting used to Sunday with no shops."
+  },
+  {
+   "s": "Ich gewöhne mich an die Preise.",
+   "e": "I am getting used to the prices."
+  },
+  {
+   "s": "Das dauert am längsten.",
+   "e": "That takes the longest."
+  },
+  {
+   "s": "Ich gewöhne mich an das Grüezi bei jeder Tür.",
+   "e": "I am getting used to the Grüezi at every door."
+  },
+  {
+   "s": "Am ersten Tag kann ich es nicht sagen.",
+   "e": "On the first day I cannot say it."
+  },
+  {
+   "s": "Jetzt sage ich es ohne denken.",
+   "e": "Now I say it without thinking."
+  },
+  {
+   "s": "Am Abend sitze ich am Tisch.",
+   "e": "In the evening I sit at the table."
+  },
+  {
+   "s": "Der Tisch aus dem Brockenhaus.",
+   "e": "The table from the Brockenhaus."
+  },
+  {
+   "s": "Der Stuhl von Frau Amrein.",
+   "e": "The chair from Frau Amrein."
+  },
+  {
+   "s": "Die hässliche gelbe Lampe.",
+   "e": "The ugly yellow lamp."
+  },
+  {
+   "s": "Der rote Teppich für Herrn Bucher.",
+   "e": "The red rug for Herr Bucher."
+  },
+  {
+   "s": "Jedes Ding hier hat eine Geschichte von einem Monat.",
+   "e": "Every thing here has a month's story behind it."
+  },
+  {
+   "s": "Das Zimmer ist immer noch fast leer.",
+   "e": "The room is still nearly empty."
+  },
+  {
+   "s": "Aber es ist nicht mehr das gleiche leere Zimmer.",
+   "e": "But it is not the same empty room any more."
+  },
+  {
+   "s": "Draussen fängt es an zu schneien.",
+   "e": "Outside it starts to snow."
+  },
+  {
+   "s": "Der erste Schnee unten in der Stadt.",
+   "e": "The first snow down in the town."
+  },
+  {
+   "s": "Er bleibt nicht liegen.",
+   "e": "It does not settle."
+  },
+  {
+   "s": "Aber er fällt.",
+   "e": "But it falls."
+  },
+  {
+   "s": "Ich stehe am Fenster und schaue zu.",
+   "e": "I stand at the window and watch."
+  },
+  {
+   "s": "Im Haus gegenüber gehen die Lichter an.",
+   "e": "In the building opposite the lights come on."
+  },
+  {
+   "s": "In jedem Fenster ein anderes Licht.",
+   "e": "A different light in each window."
+  },
+  {
+   "s": "Um zehn gehen die meisten wieder aus.",
+   "e": "At ten most of them go out again."
+  },
+  {
+   "s": "Dann ist es still.",
+   "e": "Then it is quiet."
+  },
+  {
+   "s": "Ich kenne diese Stille jetzt.",
+   "e": "I know this quiet now."
+  },
+  {
+   "s": "Am ersten Abend ist sie zu gross.",
+   "e": "On the first evening it is too big."
+  },
+  {
+   "s": "Jetzt ist sie einfach der Abend.",
+   "e": "Now it is simply the evening."
+  },
+  {
+   "s": "Ich mache das Licht aus.",
+   "e": "I switch off the light."
+  },
+  {
+   "s": "Ich gehe ins Bett.",
+   "e": "I go to bed."
+  },
+  {
+   "s": "Morgen ist Donnerstag.",
+   "e": "Tomorrow is Thursday."
+  },
+  {
+   "s": "Am Donnerstag darf ich waschen.",
+   "e": "On Thursday I may do laundry."
+  },
+  {
+   "s": "Ich muss mich in den Plan eintragen.",
+   "e": "I have to sign myself into the rota."
+  },
+  {
+   "s": "Und ich brauche zwei Franken für den Tumbler.",
+   "e": "And I need two francs for the Tumbler."
+  },
+  {
+   "s": "Das denke ich im Bett.",
+   "e": "That is what I think in bed."
+  },
+  {
+   "s": "Nicht: Was mache ich hier?",
+   "e": "Not: what am I doing here?"
+  },
+  {
+   "s": "Sondern: zwei Franken für den Tumbler.",
+   "e": "But: two francs for the Tumbler."
+  },
+  {
+   "s": "Am Morgen gehe ich hinunter.",
+   "e": "In the morning I go down."
+  },
+  {
+   "s": "Frau Amrein steht vor ihrer Tür.",
+   "e": "Frau Amrein is standing outside her door."
+  },
+  {
+   "s": "Sie sagt Grüezi.",
+   "e": "She says Grüezi."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Am Abend komme ich zurück.",
+   "e": "In the evening I come back."
+  },
+  {
+   "s": "Ich mache die Tür auf und ziehe die Schuhe aus.",
+   "e": "I open the door and take my shoes off."
+  },
+  {
+   "s": "Ich sage nicht: Ich bin in der Wohnung.",
+   "e": "I do not say: I am in the flat."
+  },
+  {
+   "s": "Ich denke: Ich bin zu Hause.",
+   "e": "I think: I am home."
+  },
+  {
+   "s": "Das Wort kommt von allein.",
+   "e": "The word comes on its own."
+  },
+  {
+   "s": "Ich merke es erst danach.",
+   "e": "I only notice it afterwards."
+  }
+ ]
+}

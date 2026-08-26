@@ -1,0 +1,406 @@
+{
+ "id": "p1-04",
+ "title": "Die Waschküche",
+ "desc": "The rota is the most serious document in the building",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "trocknen",
+  "Wäsche",
+  "Tumbler",
+  "eintragen",
+  "Maschine",
+  "Waschküche",
+  "Plan",
+  "waschen",
+  "Donnerstag",
+  "Name",
+  "Tag"
+ ],
+ "sn": [
+  {
+   "s": "Ich brauche eine Waschmaschine.",
+   "e": "I need a washing machine."
+  },
+  {
+   "s": "In der Wohnung habe ich keine.",
+   "e": "I do not have one in the flat."
+  },
+  {
+   "s": "Die Maschine steht unten im Keller.",
+   "e": "The machine is downstairs in the cellar."
+  },
+  {
+   "s": "Der Raum heisst Waschküche.",
+   "e": "The room is called the Waschküche."
+  },
+  {
+   "s": "In der Waschküche gibt es zwei Maschinen.",
+   "e": "In the laundry room there are two machines."
+  },
+  {
+   "s": "Eine Maschine wäscht.",
+   "e": "One machine washes."
+  },
+  {
+   "s": "Die andere Maschine trocknet.",
+   "e": "The other machine dries."
+  },
+  {
+   "s": "Trocknen kostet extra.",
+   "e": "Drying costs extra."
+  },
+  {
+   "s": "Die zweite heisst Tumbler.",
+   "e": "The second one is called a Tumbler."
+  },
+  {
+   "s": "Tumbler ist das Wort hier.",
+   "e": "Tumbler is the word here."
+  },
+  {
+   "s": "Alle sagen Tumbler.",
+   "e": "Everybody says Tumbler."
+  },
+  {
+   "s": "Es gibt zwölf Wohnungen im Haus.",
+   "e": "There are twelve flats in the building."
+  },
+  {
+   "s": "Und es gibt zwei Maschinen.",
+   "e": "And there are two machines."
+  },
+  {
+   "s": "Darum gibt es einen Plan.",
+   "e": "That is why there is a rota."
+  },
+  {
+   "s": "Der Plan hängt an der Wand.",
+   "e": "The rota hangs on the wall."
+  },
+  {
+   "s": "Auf dem Plan stehen alle Tage.",
+   "e": "All the days are on the rota."
+  },
+  {
+   "s": "Jede Wohnung hat einen Tag.",
+   "e": "Every flat has a day."
+  },
+  {
+   "s": "Mein Tag ist der Donnerstag.",
+   "e": "My day is Thursday."
+  },
+  {
+   "s": "Am Donnerstag darf ich waschen.",
+   "e": "On Thursday I may do laundry."
+  },
+  {
+   "s": "An den anderen Tagen darf ich nicht.",
+   "e": "On the other days I may not."
+  },
+  {
+   "s": "Man muss sich in den Plan eintragen.",
+   "e": "You have to sign yourself into the rota."
+  },
+  {
+   "s": "Eintragen heisst: den Namen hinschreiben.",
+   "e": "To sign up means: write your name in."
+  },
+  {
+   "s": "Ohne eintragen gehört der Tag niemandem.",
+   "e": "Without signing up the day belongs to nobody."
+  },
+  {
+   "s": "Man schreibt den Namen in ein Feld.",
+   "e": "You write your name in a box."
+  },
+  {
+   "s": "Dann gehört der Tag dir.",
+   "e": "Then the day is yours."
+  },
+  {
+   "s": "Ohne eintragen darf man nicht waschen.",
+   "e": "Without signing up you may not wash."
+  },
+  {
+   "s": "Das steht in der Hausordnung.",
+   "e": "That is in the Hausordnung."
+  },
+  {
+   "s": "Am Dienstag habe ich viel Wäsche.",
+   "e": "On Tuesday I have a lot of washing."
+  },
+  {
+   "s": "Die Wäsche liegt schon vier Tage da.",
+   "e": "The washing has been lying there four days."
+  },
+  {
+   "s": "Ich will nicht bis Donnerstag warten.",
+   "e": "I do not want to wait until Thursday."
+  },
+  {
+   "s": "Ich gehe hinunter in die Waschküche.",
+   "e": "I go down to the laundry room."
+  },
+  {
+   "s": "Die Waschküche ist leer.",
+   "e": "The laundry room is empty."
+  },
+  {
+   "s": "Die Maschine ist frei.",
+   "e": "The machine is free."
+  },
+  {
+   "s": "Ich schaue kurz auf den Plan.",
+   "e": "I glance at the rota."
+  },
+  {
+   "s": "Am Dienstag steht ein Name.",
+   "e": "There is a name on Tuesday."
+  },
+  {
+   "s": "Der Name ist nicht meiner.",
+   "e": "The name is not mine."
+  },
+  {
+   "s": "Aber die Maschine ist leer und frei.",
+   "e": "But the machine is empty and free."
+  },
+  {
+   "s": "Ich wasche trotzdem.",
+   "e": "I wash anyway."
+  },
+  {
+   "s": "Das ist ein Fehler.",
+   "e": "That is a mistake."
+  },
+  {
+   "s": "Die Wäsche braucht zwei Stunden.",
+   "e": "The washing takes two hours."
+  },
+  {
+   "s": "Ich gehe wieder hinauf.",
+   "e": "I go back up."
+  },
+  {
+   "s": "Nach zwei Stunden gehe ich hinunter.",
+   "e": "After two hours I go down."
+  },
+  {
+   "s": "In der Waschküche steht eine Frau.",
+   "e": "A woman is standing in the laundry room."
+  },
+  {
+   "s": "Sie hat ihre Wäsche in einem Korb.",
+   "e": "She has her washing in a basket."
+  },
+  {
+   "s": "Sie schaut mich an.",
+   "e": "She looks at me."
+  },
+  {
+   "s": "Sie sagt nichts.",
+   "e": "She says nothing."
+  },
+  {
+   "s": "Dann zeigt sie auf den Plan.",
+   "e": "Then she points at the rota."
+  },
+  {
+   "s": "Am Dienstag steht ihr Name.",
+   "e": "Her name is on Tuesday."
+  },
+  {
+   "s": "Frau Steiner, zweiter Stock.",
+   "e": "Frau Steiner, second floor."
+  },
+  {
+   "s": "Sie sagt: Das ist mein Tag.",
+   "e": "She says: that is my day."
+  },
+  {
+   "s": "Ich sage: Entschuldigung.",
+   "e": "I say: sorry."
+  },
+  {
+   "s": "Ich sage: Die Maschine ist leer.",
+   "e": "I say: the machine was empty."
+  },
+  {
+   "s": "Sie sagt: Das ist trotzdem mein Tag.",
+   "e": "She says: it is my day all the same."
+  },
+  {
+   "s": "Sie hat recht.",
+   "e": "She is right."
+  },
+  {
+   "s": "Sie sagt es ruhig und nicht laut.",
+   "e": "She says it calmly and not loudly."
+  },
+  {
+   "s": "Aber sie sagt es ganz klar.",
+   "e": "But she says it very clearly."
+  },
+  {
+   "s": "Ich nehme meine Wäsche heraus.",
+   "e": "I take my washing out."
+  },
+  {
+   "s": "Die Wäsche ist nass.",
+   "e": "The washing is wet."
+  },
+  {
+   "s": "Ich kann sie nicht trocknen.",
+   "e": "I cannot dry it."
+  },
+  {
+   "s": "Der Tumbler gehört auch zum Dienstag.",
+   "e": "The Tumbler belongs to Tuesday too."
+  },
+  {
+   "s": "Ich trage die nasse Wäsche hinauf.",
+   "e": "I carry the wet washing upstairs."
+  },
+  {
+   "s": "Drei Stockwerke mit nasser Wäsche.",
+   "e": "Three floors with wet washing."
+  },
+  {
+   "s": "In der Wohnung hänge ich sie auf.",
+   "e": "In the flat I hang it up."
+  },
+  {
+   "s": "Sie trocknet zwei Tage.",
+   "e": "It takes two days to dry."
+  },
+  {
+   "s": "Am Donnerstag gehe ich wieder hinunter.",
+   "e": "On Thursday I go down again."
+  },
+  {
+   "s": "Zuerst schaue ich auf den Plan.",
+   "e": "First I look at the rota."
+  },
+  {
+   "s": "Am Donnerstag steht kein Name.",
+   "e": "There is no name on Thursday."
+  },
+  {
+   "s": "Ich schreibe meinen Namen in das Feld.",
+   "e": "I write my name in the box."
+  },
+  {
+   "s": "Jetzt gehört der Tag mir.",
+   "e": "Now the day is mine."
+  },
+  {
+   "s": "Dann wasche ich.",
+   "e": "Then I wash."
+  },
+  {
+   "s": "Dann trockne ich im Tumbler.",
+   "e": "Then I dry it in the Tumbler."
+  },
+  {
+   "s": "Der Tumbler kostet zwei Franken.",
+   "e": "The Tumbler costs two francs."
+  },
+  {
+   "s": "Man muss Münzen dabei haben.",
+   "e": "You have to have coins with you."
+  },
+  {
+   "s": "Das vergesse ich beim ersten Mal.",
+   "e": "I forget that the first time."
+  },
+  {
+   "s": "Ich muss wieder hinaufgehen und Geld holen.",
+   "e": "I have to go back up and fetch money."
+  },
+  {
+   "s": "Man muss die Waschküche auch putzen.",
+   "e": "You have to clean the laundry room too."
+  },
+  {
+   "s": "Nach dem Waschen putzt man die Maschine.",
+   "e": "After washing you clean the machine."
+  },
+  {
+   "s": "Man macht auch den Boden trocken.",
+   "e": "You dry the floor too."
+  },
+  {
+   "s": "Und man macht das Fenster auf.",
+   "e": "And you open the window."
+  },
+  {
+   "s": "Das steht nicht auf einem Papier.",
+   "e": "That is not on any piece of paper."
+  },
+  {
+   "s": "Das machen einfach alle.",
+   "e": "Everybody simply does it."
+  },
+  {
+   "s": "Beim dritten Mal mache ich es auch.",
+   "e": "The third time I do it too."
+  },
+  {
+   "s": "Frau Amrein sieht mich im Treppenhaus.",
+   "e": "Frau Amrein sees me in the stairwell."
+  },
+  {
+   "s": "Sie fragt: Ist die Maschine sauber?",
+   "e": "She asks: is the machine clean?"
+  },
+  {
+   "s": "Ich sage: Ja. Ich putze sie immer.",
+   "e": "I say: yes. I always clean it."
+  },
+  {
+   "s": "Sie nickt.",
+   "e": "She nods."
+  },
+  {
+   "s": "Dann sagt sie: Frau Steiner ist nicht böse.",
+   "e": "Then she says: Frau Steiner is not angry."
+  },
+  {
+   "s": "Sie weiss es also schon.",
+   "e": "So she knows about it already."
+  },
+  {
+   "s": "Natürlich weiss sie es schon.",
+   "e": "Of course she knows about it already."
+  },
+  {
+   "s": "Das ganze Haus weiss es schon.",
+   "e": "The whole building knows about it already."
+  },
+  {
+   "s": "Jetzt kenne ich den Plan.",
+   "e": "Now I know the rota."
+  },
+  {
+   "s": "Ich wasche am Donnerstag.",
+   "e": "I wash on Thursday."
+  },
+  {
+   "s": "Ich trage mich immer ein.",
+   "e": "I always sign myself in."
+  },
+  {
+   "s": "Und ich vergesse die Münzen nie mehr.",
+   "e": "And I never forget the coins again."
+  },
+  {
+   "s": "Eine Waschküche ist keine Waschküche.",
+   "e": "A laundry room is not a laundry room."
+  },
+  {
+   "s": "Sie ist ein Plan mit zwölf Namen darauf.",
+   "e": "It is a rota with twelve names on it."
+  }
+ ]
+}

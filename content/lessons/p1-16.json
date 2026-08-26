@@ -1,0 +1,382 @@
+{
+ "id": "p1-16",
+ "title": "In der Apotheke",
+ "desc": "You point at your throat and get exactly the right thing",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "krank",
+  "Hals",
+  "weh",
+  "Apotheke",
+  "Arzt",
+  "tun",
+  "besser"
+ ],
+ "sn": [
+  {
+   "s": "Am Montag tut mir der Hals weh.",
+   "e": "On Monday my throat hurts."
+  },
+  {
+   "s": "Wehtun heisst: es ist nicht gut, es tut weh.",
+   "e": "Wehtun means: it is not good, it hurts."
+  },
+  {
+   "s": "Am Dienstag tut er mehr weh.",
+   "e": "On Tuesday it hurts more."
+  },
+  {
+   "s": "Der Kopf tut auch weh.",
+   "e": "My head hurts too."
+  },
+  {
+   "s": "Ich bin krank.",
+   "e": "I am ill."
+  },
+  {
+   "s": "Krank sein ist hier teuer.",
+   "e": "Being ill is expensive here."
+  },
+  {
+   "s": "Nicht sehr krank. Aber krank.",
+   "e": "Not very ill. But ill."
+  },
+  {
+   "s": "Zu Hause gehe ich zum Arzt.",
+   "e": "At home I go to the doctor."
+  },
+  {
+   "s": "Hier ist der Arzt teuer.",
+   "e": "Here the doctor is expensive."
+  },
+  {
+   "s": "Und ich habe eine hohe Franchise.",
+   "e": "And I have a high excess."
+  },
+  {
+   "s": "Ich bezahle den Arzt also selber.",
+   "e": "So I pay the doctor myself."
+  },
+  {
+   "s": "Nuno sagt: Geh zuerst in die Apotheke.",
+   "e": "Nuno says: go to the pharmacy first."
+  },
+  {
+   "s": "Er sagt: Die können viel.",
+   "e": "He says: they can do a lot."
+  },
+  {
+   "s": "Die Apotheke ist an der Ecke.",
+   "e": "The pharmacy is on the corner."
+  },
+  {
+   "s": "Ein grünes Kreuz hängt über der Tür.",
+   "e": "A green cross hangs above the door."
+  },
+  {
+   "s": "Das grüne Kreuz heisst Apotheke.",
+   "e": "The green cross means pharmacy."
+  },
+  {
+   "s": "Man sieht es in jeder Stadt.",
+   "e": "You see it in every town."
+  },
+  {
+   "s": "Drinnen ist es hell und ruhig.",
+   "e": "Inside it is bright and quiet."
+  },
+  {
+   "s": "Hinter dem Schalter steht eine Frau.",
+   "e": "There is a woman behind the counter."
+  },
+  {
+   "s": "Sie hat einen weissen Kittel an.",
+   "e": "She is wearing a white coat."
+  },
+  {
+   "s": "Sie sagt Grüezi.",
+   "e": "She says Grüezi."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Dann weiss ich nicht weiter.",
+   "e": "Then I do not know how to go on."
+  },
+  {
+   "s": "Ich kenne das Wort für Hals nicht gut.",
+   "e": "I do not know the word for throat well."
+  },
+  {
+   "s": "Ich zeige auf meinen Hals.",
+   "e": "I point at my throat."
+  },
+  {
+   "s": "Ich sage: Hier tut es weh.",
+   "e": "I say: it hurts here."
+  },
+  {
+   "s": "Mehr kann ich nicht sagen.",
+   "e": "I cannot say more than that."
+  },
+  {
+   "s": "Es reicht.",
+   "e": "It is enough."
+  },
+  {
+   "s": "Sie fragt: Seit wann?",
+   "e": "She asks: since when?"
+  },
+  {
+   "s": "Seit Montag, sage ich.",
+   "e": "Since Monday, I say."
+  },
+  {
+   "s": "Sie fragt: Haben Sie Fieber?",
+   "e": "She asks: do you have a fever?"
+  },
+  {
+   "s": "Ich sage: Ich glaube nicht.",
+   "e": "I say: I do not think so."
+  },
+  {
+   "s": "Sie fragt: Können Sie schlucken?",
+   "e": "She asks: can you swallow?"
+  },
+  {
+   "s": "Ich verstehe das Wort nicht.",
+   "e": "I do not understand the word."
+  },
+  {
+   "s": "Sie macht es mir vor.",
+   "e": "She shows me."
+  },
+  {
+   "s": "Ich verstehe und sage ja.",
+   "e": "I understand and say yes."
+  },
+  {
+   "s": "Sie fragt weiter.",
+   "e": "She asks more."
+  },
+  {
+   "s": "Sie fragt fünf Fragen.",
+   "e": "She asks five questions."
+  },
+  {
+   "s": "Jede Frage ist kurz und klar.",
+   "e": "Every question is short and clear."
+  },
+  {
+   "s": "Sie redet langsam mit mir.",
+   "e": "She talks slowly to me."
+  },
+  {
+   "s": "Sie merkt sofort, ich bin neu.",
+   "e": "She notices at once that I am new."
+  },
+  {
+   "s": "Aber sie redet nicht Englisch mit mir.",
+   "e": "But she does not speak English to me."
+  },
+  {
+   "s": "Sie redet langsames Deutsch.",
+   "e": "She speaks slow German."
+  },
+  {
+   "s": "Das ist besser.",
+   "e": "That is better."
+  },
+  {
+   "s": "Dann geht sie zum Regal.",
+   "e": "Then she goes to the shelf."
+  },
+  {
+   "s": "Sie nimmt zwei Sachen.",
+   "e": "She takes two things."
+  },
+  {
+   "s": "Sie legt sie auf den Schalter.",
+   "e": "She puts them on the counter."
+  },
+  {
+   "s": "Das erste ist gegen die Schmerzen.",
+   "e": "The first is for the pain."
+  },
+  {
+   "s": "Das zweite ist für den Hals.",
+   "e": "The second is for the throat."
+  },
+  {
+   "s": "Gegen heisst: es hilft bei Schmerzen.",
+   "e": "Gegen means: it helps with pain."
+  },
+  {
+   "s": "Sie sagt: Nehmen Sie das dreimal am Tag.",
+   "e": "She says: take that three times a day."
+  },
+  {
+   "s": "Sie sagt: Nach dem Essen.",
+   "e": "She says: after eating."
+  },
+  {
+   "s": "Sie schreibt es auf die Schachtel.",
+   "e": "She writes it on the box."
+  },
+  {
+   "s": "Sie schreibt es gross und klar.",
+   "e": "She writes it big and clear."
+  },
+  {
+   "s": "Dann sagt sie noch etwas.",
+   "e": "Then she says something else."
+  },
+  {
+   "s": "Sie sagt: Kommen Sie am Freitag wieder.",
+   "e": "She says: come back on Friday."
+  },
+  {
+   "s": "Nach drei Tagen muss es besser sein.",
+   "e": "After three days it has to be better."
+  },
+  {
+   "s": "Ist es dann nicht besser, dann zum Arzt.",
+   "e": "Not better by then, then to the doctor."
+  },
+  {
+   "s": "Das ist ein guter Rat.",
+   "e": "That is good advice."
+  },
+  {
+   "s": "Sie sagt mir nicht nur den Namen vom Medikament.",
+   "e": "She does not just tell me the name of the medicine."
+  },
+  {
+   "s": "Sie sagt mir auch die Grenze davon.",
+   "e": "She tells me its limit too."
+  },
+  {
+   "s": "Ich bezahle achtzehn Franken.",
+   "e": "I pay eighteen francs."
+  },
+  {
+   "s": "Achtzehn Franken statt hundertfünfzig beim Arzt.",
+   "e": "Eighteen francs instead of a hundred and fifty at the doctor."
+  },
+  {
+   "s": "Sie sagt: Gute Besserung.",
+   "e": "She says: get well soon."
+  },
+  {
+   "s": "Das ist ein festes Wort hier.",
+   "e": "That is a set phrase here."
+  },
+  {
+   "s": "Man sagt es zu jedem kranken Menschen.",
+   "e": "You say it to anybody who is ill."
+  },
+  {
+   "s": "Gute Besserung.",
+   "e": "Get well soon."
+  },
+  {
+   "s": "Ich muss es aufschreiben.",
+   "e": "I have to write it down."
+  },
+  {
+   "s": "Zu Hause nehme ich das Medikament.",
+   "e": "At home I take the medicine."
+  },
+  {
+   "s": "Am Donnerstag ist der Hals besser.",
+   "e": "On Thursday my throat is better."
+  },
+  {
+   "s": "Am Freitag tut nichts mehr weh.",
+   "e": "On Friday nothing hurts any more."
+  },
+  {
+   "s": "Ich muss nicht mehr in die Apotheke.",
+   "e": "I do not have to go back to the pharmacy."
+  },
+  {
+   "s": "Ich gehe trotzdem hin.",
+   "e": "I go anyway."
+  },
+  {
+   "s": "Ich sage: Es geht mir besser. Merci.",
+   "e": "I say: I am better. Merci."
+  },
+  {
+   "s": "Sie freut sich.",
+   "e": "She is pleased."
+  },
+  {
+   "s": "Sie sagt: Das ist schön.",
+   "e": "She says: that is nice."
+  },
+  {
+   "s": "Fast niemand kommt zurück und sagt das.",
+   "e": "Almost nobody comes back and says that."
+  },
+  {
+   "s": "Jetzt kennt sie mich.",
+   "e": "Now she knows me."
+  },
+  {
+   "s": "Die Apotheke ist der erste Ort bei kleinen Sachen.",
+   "e": "The pharmacy is the first stop for small things."
+  },
+  {
+   "s": "Man geht nicht sofort zum Arzt.",
+   "e": "You do not go straight to the doctor."
+  },
+  {
+   "s": "Die Leute hinter dem Schalter wissen viel.",
+   "e": "The people behind the counter know a lot."
+  },
+  {
+   "s": "Sie dürfen auch fragen und raten.",
+   "e": "They are allowed to ask and advise."
+  },
+  {
+   "s": "Und bei etwas Grossem schicken sie einen zum Arzt.",
+   "e": "And with anything big they send you to the doctor."
+  },
+  {
+   "s": "Nuno hat recht.",
+   "e": "Nuno is right."
+  },
+  {
+   "s": "Frau Amrein hört von meinem Hals.",
+   "e": "Frau Amrein hears about my throat."
+  },
+  {
+   "s": "Natürlich hört sie davon.",
+   "e": "Of course she hears about it."
+  },
+  {
+   "s": "Am Abend steht eine Suppe vor meiner Tür.",
+   "e": "In the evening there is a soup outside my door."
+  },
+  {
+   "s": "Sie ist noch warm.",
+   "e": "It is still warm."
+  },
+  {
+   "s": "Niemand ist da.",
+   "e": "Nobody is there."
+  },
+  {
+   "s": "Ich sage am nächsten Tag merci vielmal.",
+   "e": "The next day I say merci vielmal."
+  },
+  {
+   "s": "Sie sagt: Welche Suppe?",
+   "e": "She says: what soup?"
+  }
+ ]
+}

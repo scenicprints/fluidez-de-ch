@@ -577,7 +577,40 @@
         "Ade"
       ],
       "min": 1
+    },
+    {
+      "id": "w-hoi",
+      "when": "welcome",
+      "state": "cheer",
+      "say": "Hoi!",
+      "en": "Hi!",
+      "trigger": [
+        "Hoi"
+      ],
+      "min": 1
+    },
+    {
+      "id": "w-sali",
+      "when": "welcome",
+      "state": "cheer",
+      "say": "Sali!",
+      "en": "Hi there!",
+      "trigger": [
+        "Sali"
+      ],
+      "min": 1
+    },
+    {
+      "id": "g-tiptop",
+      "when": "great",
+      "state": "cheer",
+      "say": "Tiptop!",
+      "en": "Spot on!",
+      "trigger": [
+        "tiptop"
+      ],
+      "min": 1
     }
   ],
-  "_waiting": "Hoi, Sali, tiptop and fein are pinned Swiss words the course means to teach and phase 0 does not: nobody in Landing knows the protagonist well enough to say Hoi. Their lines were written and pulled by mascot.py, and belong back here the moment a story uses them - phase 1, where Nuno and Ruedi arrive."
+  "_waiting": "fein is the last pinned Swiss word the course does not yet teach. Its line is written and waiting: Fein! for a good answer. Hoi, Sali and tiptop came back in phase 1, where the protagonist finally knows somebody well enough to be greeted that way."
 }

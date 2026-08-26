@@ -1,0 +1,406 @@
+{
+ "id": "p1-06",
+ "title": "PET, Alu, Karton",
+ "desc": "You put the cardboard out on the wrong morning",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Sammelstelle",
+  "binden",
+  "flach",
+  "Schnur",
+  "Karton",
+  "Container",
+  "Mittwoch",
+  "Glas",
+  "Papier",
+  "kommen",
+  "weiss"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe viel Abfall.",
+   "e": "I have a lot of waste."
+  },
+  {
+   "s": "Ich habe Flaschen, Karton und Papier.",
+   "e": "I have bottles, cardboard and paper."
+  },
+  {
+   "s": "Zu Hause kommt alles in einen Sack.",
+   "e": "At home it all goes in one bag."
+  },
+  {
+   "s": "Hier nicht.",
+   "e": "Not here."
+  },
+  {
+   "s": "Hier muss man alles trennen.",
+   "e": "Here you have to separate everything."
+  },
+  {
+   "s": "Trennen heisst: jedes Ding kommt woandershin.",
+   "e": "To separate means: each thing goes somewhere else."
+  },
+  {
+   "s": "Glas kommt zur Sammelstelle.",
+   "e": "Glass goes to the collection point."
+  },
+  {
+   "s": "Jede Sammelstelle hat die gleichen drei Container.",
+   "e": "Every collection point has the same three containers."
+  },
+  {
+   "s": "Die Sammelstelle ist immer offen, fast immer.",
+   "e": "The collection point is always open, almost always."
+  },
+  {
+   "s": "Papier und Karton kommen an die Strasse.",
+   "e": "Paper and cardboard go out on the street."
+  },
+  {
+   "s": "Die PET-Flaschen kommen in den Laden zurück.",
+   "e": "PET bottles go back to the shop."
+  },
+  {
+   "s": "Alu kommt auch in den Laden.",
+   "e": "Aluminium goes back to the shop too."
+  },
+  {
+   "s": "Batterien auch.",
+   "e": "Batteries too."
+  },
+  {
+   "s": "Alles hat einen eigenen Ort.",
+   "e": "Everything has its own place."
+  },
+  {
+   "s": "Ich frage Frau Amrein: Wohin kommt das Glas?",
+   "e": "I ask Frau Amrein: where does the glass go?"
+  },
+  {
+   "s": "Sie sagt: Zur Sammelstelle beim Schulhaus.",
+   "e": "She says: to the collection point by the school."
+  },
+  {
+   "s": "Ich gehe zur Sammelstelle.",
+   "e": "I go to the collection point."
+  },
+  {
+   "s": "Dort stehen drei grosse Container.",
+   "e": "There are three big containers there."
+  },
+  {
+   "s": "Jeder Container hat eine Farbe.",
+   "e": "Each container has a colour."
+  },
+  {
+   "s": "Weiss, braun und grün.",
+   "e": "White, brown and green."
+  },
+  {
+   "s": "Das ist nicht die Farbe vom Container.",
+   "e": "That is not the colour of the container."
+  },
+  {
+   "s": "Das ist die Farbe vom Glas.",
+   "e": "That is the colour of the glass."
+  },
+  {
+   "s": "Weisses Glas kommt in den weissen Container.",
+   "e": "White glass goes in the white container."
+  },
+  {
+   "s": "Grünes Glas in den grünen.",
+   "e": "Green glass in the green one."
+  },
+  {
+   "s": "Braunes Glas in den braunen.",
+   "e": "Brown glass in the brown one."
+  },
+  {
+   "s": "Ich habe eine grüne Flasche und zwei weisse.",
+   "e": "I have one green bottle and two white ones."
+  },
+  {
+   "s": "Ich muss also zweimal gehen.",
+   "e": "So I have to go twice."
+  },
+  {
+   "s": "Eine Frau wirft ihr Glas ein.",
+   "e": "A woman throws in her glass."
+  },
+  {
+   "s": "Sie schaut jede Flasche kurz an.",
+   "e": "She looks at each bottle briefly."
+  },
+  {
+   "s": "Dann wirft sie sie in den richtigen Container.",
+   "e": "Then she throws it in the right container."
+  },
+  {
+   "s": "Sie macht das schnell und ohne denken.",
+   "e": "She does it quickly and without thinking."
+  },
+  {
+   "s": "An der Sammelstelle hängt ein Schild.",
+   "e": "There is a sign at the collection point."
+  },
+  {
+   "s": "Auf dem Schild stehen Zeiten.",
+   "e": "There are times on the sign."
+  },
+  {
+   "s": "Man darf am Sonntag kein Glas einwerfen.",
+   "e": "You may not throw glass in on Sunday."
+  },
+  {
+   "s": "Man darf auch am Abend nicht.",
+   "e": "You may not in the evening either."
+  },
+  {
+   "s": "Glas ist laut.",
+   "e": "Glass is loud."
+  },
+  {
+   "s": "Und Ruhe ist wichtig.",
+   "e": "And quiet is important."
+  },
+  {
+   "s": "Das Papier ist einfacher.",
+   "e": "Paper is easier."
+  },
+  {
+   "s": "Papier und Karton kommen an die Strasse.",
+   "e": "Paper and cardboard go out on the street."
+  },
+  {
+   "s": "Aber nur an bestimmten Tagen.",
+   "e": "But only on certain days."
+  },
+  {
+   "s": "Es gibt einen Plan für das ganze Jahr.",
+   "e": "There is a plan for the whole year."
+  },
+  {
+   "s": "Der Plan kommt von der Gemeinde.",
+   "e": "The plan comes from the commune."
+  },
+  {
+   "s": "Jede Wohnung bekommt ihn im Januar.",
+   "e": "Every flat gets it in January."
+  },
+  {
+   "s": "Auf dem Plan steht jeder Tag.",
+   "e": "Every day is on the plan."
+  },
+  {
+   "s": "Papier am ersten Mittwoch im Monat.",
+   "e": "Paper on the first Wednesday of the month."
+  },
+  {
+   "s": "Karton am dritten Mittwoch.",
+   "e": "Cardboard on the third Wednesday."
+  },
+  {
+   "s": "Und man muss das Papier binden.",
+   "e": "And you have to tie the paper up."
+  },
+  {
+   "s": "Binden heisst: mit einer Schnur zusammen.",
+   "e": "To tie means: together with a string."
+  },
+  {
+   "s": "Ein Stapel Papier mit einer Schnur.",
+   "e": "A stack of paper with a string."
+  },
+  {
+   "s": "Kein Sack. Kein Karton mit Papier darin.",
+   "e": "No bag. No box with paper in it."
+  },
+  {
+   "s": "Ein Stapel, gebunden.",
+   "e": "A stack, tied."
+  },
+  {
+   "s": "Karton muss man auch binden.",
+   "e": "You have to tie cardboard too."
+  },
+  {
+   "s": "Und man muss ihn flach machen.",
+   "e": "And you have to flatten it."
+  },
+  {
+   "s": "Flach heisst wirklich flach.",
+   "e": "Flat really means flat."
+  },
+  {
+   "s": "Flach braucht weniger Platz auf der Strasse.",
+   "e": "Flat takes less room on the street."
+  },
+  {
+   "s": "Ich habe viel Karton.",
+   "e": "I have a lot of cardboard."
+  },
+  {
+   "s": "Die Möbel kommen alle in Karton.",
+   "e": "The furniture all comes in cardboard."
+  },
+  {
+   "s": "Ich mache den Karton flach.",
+   "e": "I flatten the cardboard."
+  },
+  {
+   "s": "Ich binde ihn mit einer Schnur.",
+   "e": "I tie it with string."
+  },
+  {
+   "s": "Die Schnur bekommt man im Laden.",
+   "e": "You get the string in the shop."
+  },
+  {
+   "s": "Ohne Schnur nimmt es niemand mit.",
+   "e": "Without string nobody takes it away."
+  },
+  {
+   "s": "Ich stelle ihn am Dienstagabend an die Strasse.",
+   "e": "I put it out on the street on Tuesday evening."
+  },
+  {
+   "s": "Am Mittwoch ist Karton, denke ich.",
+   "e": "Wednesday is cardboard, I think."
+  },
+  {
+   "s": "Am Mittwochmorgen ist der Karton weg.",
+   "e": "On Wednesday morning the cardboard is gone."
+  },
+  {
+   "s": "Sehr gut, denke ich.",
+   "e": "Very good, I think."
+  },
+  {
+   "s": "Aber am Abend steht er wieder da.",
+   "e": "But in the evening it is back."
+  },
+  {
+   "s": "Jemand stellt ihn zurück vor die Tür.",
+   "e": "Somebody has put it back outside the door."
+  },
+  {
+   "s": "Auf dem Karton liegt ein Zettel.",
+   "e": "There is a note on the cardboard."
+  },
+  {
+   "s": "Auf dem Zettel steht: falscher Tag.",
+   "e": "The note says: wrong day."
+  },
+  {
+   "s": "Der dritte Mittwoch ist erst nächste Woche.",
+   "e": "The third Wednesday is not until next week."
+  },
+  {
+   "s": "Ich zähle die Mittwoche noch einmal.",
+   "e": "I count the Wednesdays again."
+  },
+  {
+   "s": "Ich zähle falsch.",
+   "e": "I count wrong."
+  },
+  {
+   "s": "Der Karton steht eine Woche im Gang.",
+   "e": "The cardboard stands in the hallway for a week."
+  },
+  {
+   "s": "Frau Amrein sagt nichts dazu.",
+   "e": "Frau Amrein says nothing about it."
+  },
+  {
+   "s": "Aber sie schaut jeden Tag kurz hin.",
+   "e": "But she glances at it every day."
+  },
+  {
+   "s": "Am richtigen Mittwoch stelle ich ihn hinaus.",
+   "e": "On the right Wednesday I put it out."
+  },
+  {
+   "s": "Am Morgen ist er weg.",
+   "e": "In the morning it is gone."
+  },
+  {
+   "s": "Diesmal bleibt er weg.",
+   "e": "This time it stays gone."
+  },
+  {
+   "s": "Ich hänge den Plan an meine Wand.",
+   "e": "I hang the plan on my wall."
+  },
+  {
+   "s": "Er hängt neben dem Fenster.",
+   "e": "It hangs next to the window."
+  },
+  {
+   "s": "Jetzt sehe ich ihn jeden Tag.",
+   "e": "Now I see it every day."
+  },
+  {
+   "s": "Trennen ist am Anfang viel Arbeit.",
+   "e": "Separating is a lot of work at the start."
+  },
+  {
+   "s": "Man muss vier Orte kennen.",
+   "e": "You have to know four places."
+  },
+  {
+   "s": "Und man muss den Plan lesen können.",
+   "e": "And you have to be able to read the plan."
+  },
+  {
+   "s": "Nach einem Monat denkt man nicht mehr darüber nach.",
+   "e": "After a month you stop thinking about it."
+  },
+  {
+   "s": "Die Flasche geht in die Hand und man weiss die Farbe.",
+   "e": "The bottle goes in your hand and you know the colour."
+  },
+  {
+   "s": "Der Karton kommt flach und gebunden an die Strasse.",
+   "e": "The cardboard goes out flat and tied."
+  },
+  {
+   "s": "Und das Papier auch.",
+   "e": "And the paper too."
+  },
+  {
+   "s": "Ich sammle jetzt alles getrennt.",
+   "e": "I collect everything separately now."
+  },
+  {
+   "s": "Ich habe vier Säcke in der Küche.",
+   "e": "I have four bags in the kitchen."
+  },
+  {
+   "s": "Einer für Papier, einer für PET.",
+   "e": "One for paper, one for PET."
+  },
+  {
+   "s": "Einer für Alu und einer für Glas.",
+   "e": "One for aluminium and one for glass."
+  },
+  {
+   "s": "Die Küche ist klein und die Säcke sind gross.",
+   "e": "The kitchen is small and the bags are big."
+  },
+  {
+   "s": "Aber es geht.",
+   "e": "But it works."
+  },
+  {
+   "s": "Alle machen das hier so.",
+   "e": "Everybody here does it this way."
+  },
+  {
+   "s": "Und niemand findet es komisch.",
+   "e": "And nobody finds it odd."
+  }
+ ]
+}

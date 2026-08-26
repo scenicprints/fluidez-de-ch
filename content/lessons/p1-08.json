@@ -1,0 +1,386 @@
+{
+ "id": "p1-08",
+ "title": "Ruhezeiten",
+ "desc": "You run a washing machine at eleven and the ceiling knocks",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Decke",
+  "Ruhezeit",
+  "duschen",
+  "Musik",
+  "klopfen",
+  "laut",
+  "hören"
+ ],
+ "sn": [
+  {
+   "s": "Am Freitag komme ich spät nach Hause.",
+   "e": "On Friday I come home late."
+  },
+  {
+   "s": "Es ist fast elf Uhr.",
+   "e": "It is nearly eleven o'clock."
+  },
+  {
+   "s": "Ich habe viel Wäsche.",
+   "e": "I have a lot of washing."
+  },
+  {
+   "s": "Der Freitag ist nicht mein Tag.",
+   "e": "Friday is not my day."
+  },
+  {
+   "s": "Aber ich habe eine kleine Maschine in der Küche.",
+   "e": "But I have a small machine in the kitchen."
+  },
+  {
+   "s": "Ich kaufe sie im Brockenhaus.",
+   "e": "I buy it at the second-hand shop."
+  },
+  {
+   "s": "Sie ist alt und sie ist laut.",
+   "e": "It is old and it is loud."
+  },
+  {
+   "s": "Ich mache sie um elf Uhr an.",
+   "e": "I switch it on at eleven o'clock."
+  },
+  {
+   "s": "Die Maschine läuft.",
+   "e": "The machine runs."
+  },
+  {
+   "s": "Sie ist wirklich laut.",
+   "e": "It really is loud."
+  },
+  {
+   "s": "Nach zehn Minuten klopft es.",
+   "e": "After ten minutes there is a knock."
+  },
+  {
+   "s": "Aber niemand steht vor der Tür.",
+   "e": "But nobody is at the door."
+  },
+  {
+   "s": "Es klopft noch einmal.",
+   "e": "There is another knock."
+  },
+  {
+   "s": "Das Klopfen kommt von unten.",
+   "e": "The knocking comes from below."
+  },
+  {
+   "s": "Jemand klopft an die Decke.",
+   "e": "Somebody is knocking on the ceiling."
+  },
+  {
+   "s": "Die Decke ist dünn in diesem Haus.",
+   "e": "The ceiling is thin in this building."
+  },
+  {
+   "s": "Durch die Decke hört man alles.",
+   "e": "Through the ceiling you hear everything."
+  },
+  {
+   "s": "Meine Decke ist sein Boden.",
+   "e": "My ceiling is his floor."
+  },
+  {
+   "s": "Ich mache die Maschine sofort aus.",
+   "e": "I switch the machine off at once."
+  },
+  {
+   "s": "Dann ist es still.",
+   "e": "Then it is quiet."
+  },
+  {
+   "s": "Sehr still.",
+   "e": "Very quiet."
+  },
+  {
+   "s": "Ich stehe in der Küche und höre nichts.",
+   "e": "I stand in the kitchen and hear nothing."
+  },
+  {
+   "s": "Ich weiss jetzt: nach zweiundzwanzig Uhr ist Ruhezeit.",
+   "e": "Now I know: after ten there are quiet hours."
+  },
+  {
+   "s": "Ruhezeit steht in der Hausordnung.",
+   "e": "Quiet hours are in the Hausordnung."
+  },
+  {
+   "s": "Ich lese sie viermal.",
+   "e": "I read it four times."
+  },
+  {
+   "s": "Und ich vergesse sie am Freitagabend.",
+   "e": "And I forget it on Friday evening."
+  },
+  {
+   "s": "Die Ruhezeit ist von zweiundzwanzig bis sieben Uhr.",
+   "e": "Quiet hours are from ten at night to seven."
+  },
+  {
+   "s": "Es gibt auch eine Ruhezeit am Mittag.",
+   "e": "There are quiet hours at midday too."
+  },
+  {
+   "s": "Von zwölf bis dreizehn Uhr.",
+   "e": "From twelve to one."
+  },
+  {
+   "s": "Am Mittag will man essen und ruhen.",
+   "e": "At midday people want to eat and rest."
+  },
+  {
+   "s": "Am Sonntag ist der ganze Tag Ruhezeit.",
+   "e": "On Sunday the whole day is quiet hours."
+  },
+  {
+   "s": "Am Sonntag darf man nicht bohren.",
+   "e": "On Sunday you may not drill."
+  },
+  {
+   "s": "Man darf nicht hämmern.",
+   "e": "You may not hammer."
+  },
+  {
+   "s": "Man darf nicht waschen.",
+   "e": "You may not do laundry."
+  },
+  {
+   "s": "Man darf auch nicht laut Musik hören.",
+   "e": "You may not play loud music either."
+  },
+  {
+   "s": "Laut ist hier nicht sehr laut.",
+   "e": "Loud here does not mean very loud."
+  },
+  {
+   "s": "Laut ist einfach: man hört es nebenan.",
+   "e": "Loud simply means: they can hear it next door."
+  },
+  {
+   "s": "Das ist ein kleiner Unterschied und ein grosser.",
+   "e": "That is a small difference and a big one."
+  },
+  {
+   "s": "Am nächsten Morgen treffe ich den Nachbarn.",
+   "e": "The next morning I meet the neighbour."
+  },
+  {
+   "s": "Er wohnt unter mir.",
+   "e": "He lives below me."
+  },
+  {
+   "s": "Er ist vielleicht vierzig.",
+   "e": "He is maybe forty."
+  },
+  {
+   "s": "Er sagt Grüezi.",
+   "e": "He says Grüezi."
+  },
+  {
+   "s": "Ich sage Grüezi und Entschuldigung.",
+   "e": "I say Grüezi and sorry."
+  },
+  {
+   "s": "Er sagt: Kein Problem.",
+   "e": "He says: no problem."
+  },
+  {
+   "s": "Dann sagt er: Aber nach zehn geht es nicht.",
+   "e": "Then he says: but after ten it does not work."
+  },
+  {
+   "s": "Ich weiss, sage ich.",
+   "e": "I know, I say."
+  },
+  {
+   "s": "Er nickt und geht.",
+   "e": "He nods and goes."
+  },
+  {
+   "s": "Das ist alles.",
+   "e": "That is all."
+  },
+  {
+   "s": "Er ist nicht böse.",
+   "e": "He is not angry."
+  },
+  {
+   "s": "Er klopft an die Decke und dann ist es fertig.",
+   "e": "He knocks on the ceiling and then it is over."
+  },
+  {
+   "s": "Niemand redet lange darüber.",
+   "e": "Nobody talks about it at length."
+  },
+  {
+   "s": "Man sagt es einmal und dann ist es fertig.",
+   "e": "You say it once and then it is done."
+  },
+  {
+   "s": "Jetzt dusche ich nie nach zehn.",
+   "e": "Now I never shower after ten."
+  },
+  {
+   "s": "Duschen am Abend geht nicht.",
+   "e": "Showering in the evening does not work."
+  },
+  {
+   "s": "Ich dusche jetzt immer vor der Arbeit.",
+   "e": "I always shower before work now."
+  },
+  {
+   "s": "Das ist am Anfang schwer.",
+   "e": "That is hard at the start."
+  },
+  {
+   "s": "Zu Hause dusche ich oft um elf.",
+   "e": "At home I often shower at eleven."
+  },
+  {
+   "s": "Hier geht das nicht.",
+   "e": "Here that does not work."
+  },
+  {
+   "s": "Das Wasser in den Rohren ist laut.",
+   "e": "The water in the pipes is loud."
+  },
+  {
+   "s": "Man hört es im ganzen Haus.",
+   "e": "You can hear it in the whole building."
+  },
+  {
+   "s": "Ich dusche jetzt am Morgen.",
+   "e": "I shower in the morning now."
+  },
+  {
+   "s": "Am Anfang finde ich das komisch.",
+   "e": "At first I find that odd."
+  },
+  {
+   "s": "Nach zwei Wochen finde ich es normal.",
+   "e": "After two weeks I find it normal."
+  },
+  {
+   "s": "Am Abend ist es hier sehr still.",
+   "e": "In the evening it is very quiet here."
+  },
+  {
+   "s": "Ich höre kein Auto und keine Musik.",
+   "e": "I hear no car and no music."
+  },
+  {
+   "s": "Ich höre manchmal einen Zug, weit weg.",
+   "e": "Sometimes I hear a train, far away."
+  },
+  {
+   "s": "Sonst nichts.",
+   "e": "Otherwise nothing."
+  },
+  {
+   "s": "Diese Stille stört mich am Anfang.",
+   "e": "That silence bothers me at first."
+  },
+  {
+   "s": "Sie ist zu gross.",
+   "e": "It is too big."
+  },
+  {
+   "s": "Dann gefällt sie mir.",
+   "e": "Then I like it."
+  },
+  {
+   "s": "Ich schlafe hier besser als zu Hause.",
+   "e": "I sleep better here than at home."
+  },
+  {
+   "s": "Frau Amrein hört auch alles.",
+   "e": "Frau Amrein hears everything too."
+  },
+  {
+   "s": "Sie sagt nie etwas.",
+   "e": "She never says anything."
+  },
+  {
+   "s": "Aber sie hört alles.",
+   "e": "But she hears everything."
+  },
+  {
+   "s": "Einmal frage ich sie: Stört Sie meine Musik?",
+   "e": "Once I ask her: does my music bother you?"
+  },
+  {
+   "s": "Sie sagt: Welche Musik?",
+   "e": "She says: what music?"
+  },
+  {
+   "s": "Das heisst: ja, aber es geht.",
+   "e": "That means: yes, but it is all right."
+  },
+  {
+   "s": "Ich mache die Musik trotzdem leiser.",
+   "e": "I turn the music down anyway."
+  },
+  {
+   "s": "Am Sonntag ist es am stillsten.",
+   "e": "On Sunday it is quietest."
+  },
+  {
+   "s": "Kein Laden ist offen.",
+   "e": "No shop is open."
+  },
+  {
+   "s": "Niemand bohrt und niemand wäscht.",
+   "e": "Nobody drills and nobody washes."
+  },
+  {
+   "s": "Man hört nur die Kirche.",
+   "e": "You only hear the church."
+  },
+  {
+   "s": "Und manchmal ein Kind draussen.",
+   "e": "And sometimes a child outside."
+  },
+  {
+   "s": "Ein ganzer Tag ohne Lärm.",
+   "e": "A whole day without noise."
+  },
+  {
+   "s": "Das ist eine Regel und es ist mehr als eine Regel.",
+   "e": "It is a rule and it is more than a rule."
+  },
+  {
+   "s": "Alle wollen es so.",
+   "e": "Everybody wants it that way."
+  },
+  {
+   "s": "Darum funktioniert es.",
+   "e": "That is why it works."
+  },
+  {
+   "s": "Ich klopfe nie an die Decke.",
+   "e": "I never knock on the ceiling."
+  },
+  {
+   "s": "Aber ich verstehe jetzt, warum man klopft.",
+   "e": "But now I understand why people knock."
+  },
+  {
+   "s": "Es ist nicht böse.",
+   "e": "It is not unkind."
+  },
+  {
+   "s": "Es ist nur: bitte leiser.",
+   "e": "It is only: quieter, please."
+  },
+  {
+   "s": "Und man muss nicht dafür an die Tür kommen.",
+   "e": "And you do not have to come to the door for it."
+  }
+ ]
+}

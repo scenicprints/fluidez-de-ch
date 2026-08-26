@@ -1,0 +1,109 @@
+{
+ "id": "sc14",
+ "title": "Bei Nuno",
+ "desc": "Friday at seven, and he does come at seven",
+ "setting": "A kitchen after service, a bottle of something, and the first person here who talks fast.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Nuno",
+   "es": "Hoi! Komm rein.",
+   "en": "Hi! Come in.",
+   "options": [
+    {
+     "es": "Hoi! Merci.",
+     "en": "Hi! Thanks.",
+     "verdict": "good",
+     "feedback": "Hoi back, not Grüezi. He offered du and the informal greeting in one word, and taking it is the answer."
+    },
+    {
+     "es": "Grüezi, Nuno.",
+     "en": "Grüezi, Nuno.",
+     "verdict": "ok",
+     "feedback": "Not wrong, and it is a step more formal than what he just gave you. He will not mind and he will notice."
+    },
+    {
+     "es": "Sali!",
+     "en": "Hi!",
+     "verdict": "good",
+     "feedback": "The other informal one. Same register, and it is what you would hear around Zurich and the centre."
+    }
+   ]
+  },
+  {
+   "speaker": "Nuno",
+   "es": "Und? Wie ist der erste Monat?",
+   "en": "Well? How is the first month?",
+   "options": [
+    {
+     "es": "Viel Papier.",
+     "en": "A lot of paper.",
+     "verdict": "good",
+     "feedback": "Two words and he will laugh, because it is exactly right and he remembers it."
+    },
+    {
+     "es": "Gut. Ein bisschen schwer.",
+     "en": "Good. A bit hard.",
+     "verdict": "good",
+     "feedback": "Honest, and it opens the conversation he wants to have."
+    },
+    {
+     "es": "Alles ist teuer.",
+     "en": "Everything is expensive.",
+     "verdict": "ok",
+     "feedback": "True, and it is the thing every newcomer says first. He has heard it eighteen years running."
+    }
+   ]
+  },
+  {
+   "speaker": "Nuno",
+   "es": "Lern die Artikel jetzt. Sofort. Nicht später.",
+   "en": "Learn the articles now. Straight away. Not later.",
+   "options": [
+    {
+     "es": "Der Tisch, die Wohnung, das Bad.",
+     "en": "Der Tisch, die Wohnung, das Bad.",
+     "verdict": "good",
+     "feedback": "You did not agree, you demonstrated. That is the only answer he wanted."
+    },
+    {
+     "es": "Warum? Alle verstehen dich doch.",
+     "en": "Why? Everybody understands you.",
+     "verdict": "ok",
+     "feedback": "They do. And everybody hears it, which is what he is trying to tell you."
+    },
+    {
+     "es": "Ja, ja.",
+     "en": "Yeah, yeah.",
+     "verdict": "bad",
+     "feedback": "This is the one piece of advice he gives everybody, because nobody gave it to him."
+    }
+   ]
+  },
+  {
+   "speaker": "Nuno",
+   "es": "Die Fehler sind nicht das Problem. Das Schweigen ist das Problem.",
+   "en": "The mistakes are not the problem. The silence is the problem.",
+   "options": [
+    {
+     "es": "Das verstehe ich.",
+     "en": "I understand that.",
+     "verdict": "good",
+     "feedback": "You do. Forty minutes at an airport without saying a word taught you the same thing."
+    },
+    {
+     "es": "Zwei Jahre still. Das ist lang.",
+     "en": "Two years silent. That is a long time.",
+     "verdict": "good",
+     "feedback": "It is, and he said it about himself. Repeating it back shows you heard which part mattered."
+    },
+    {
+     "es": "Ich habe keine Angst vor Fehlern.",
+     "en": "I am not afraid of mistakes.",
+     "verdict": "ok",
+     "feedback": "Everybody says that in the first month. He will simply keep talking to you and find out."
+    }
+   ]
+  }
+ ]
+}

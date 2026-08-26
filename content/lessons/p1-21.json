@@ -1,0 +1,376 @@
+{
+ "id": "p1-21",
+ "title": "Falsch getrennt",
+ "desc": "She shows you what you did and then gives you soup",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Topf",
+  "Becher",
+  "spülen",
+  "Suppe",
+  "Flasche"
+ ],
+ "sn": [
+  {
+   "s": "Am Dienstag klopft es an meiner Tür.",
+   "e": "On Tuesday there is a knock at my door."
+  },
+  {
+   "s": "Vor der Tür steht Frau Amrein.",
+   "e": "Frau Amrein is outside the door."
+  },
+  {
+   "s": "Sie hat meinen Sack in der Hand.",
+   "e": "She has my bag in her hand."
+  },
+  {
+   "s": "Meinen PET-Sack.",
+   "e": "My PET bag."
+  },
+  {
+   "s": "Sie sagt: Haben Sie eine Minute?",
+   "e": "She says: do you have a minute?"
+  },
+  {
+   "s": "Das ist nie eine Frage.",
+   "e": "That is never a question."
+  },
+  {
+   "s": "Wir gehen zusammen in die Küche.",
+   "e": "We go into the kitchen together."
+  },
+  {
+   "s": "Sie stellt den Sack auf den Tisch.",
+   "e": "She puts the bag on the table."
+  },
+  {
+   "s": "Sie macht ihn auf.",
+   "e": "She opens it."
+  },
+  {
+   "s": "Sie nimmt drei Sachen heraus.",
+   "e": "She takes three things out."
+  },
+  {
+   "s": "Sie legt sie nebeneinander.",
+   "e": "She lays them side by side."
+  },
+  {
+   "s": "Das erste ist eine Milchflasche.",
+   "e": "The first is a milk bottle."
+  },
+  {
+   "s": "Sie sagt: Das ist kein PET.",
+   "e": "She says: that is not PET."
+  },
+  {
+   "s": "Ich sage: Aber es ist eine Flasche.",
+   "e": "I say: but it is a bottle."
+  },
+  {
+   "s": "Sie dreht die Flasche um.",
+   "e": "She turns the bottle over."
+  },
+  {
+   "s": "Unten steht ein kleines Zeichen.",
+   "e": "There is a small symbol on the bottom."
+  },
+  {
+   "s": "Bei PET steht PET, sagt sie.",
+   "e": "On PET it says PET, she says."
+  },
+  {
+   "s": "Bei Milch steht etwas anderes.",
+   "e": "On milk it says something else."
+  },
+  {
+   "s": "Die Milchflasche kommt in den Kehricht.",
+   "e": "The milk bottle goes in the rubbish."
+  },
+  {
+   "s": "Oder in den Laden, in einen anderen Container.",
+   "e": "Or to the shop, in a different container."
+  },
+  {
+   "s": "Das zweite ist ein Deckel.",
+   "e": "The second is a lid."
+  },
+  {
+   "s": "Ein Deckel von einer Flasche.",
+   "e": "A lid from a bottle."
+  },
+  {
+   "s": "Sie sagt: Der Deckel bleibt auf der Flasche.",
+   "e": "She says: the lid stays on the bottle."
+  },
+  {
+   "s": "Ich sage: Ich denke, man muss ihn abmachen.",
+   "e": "I say: I thought you had to take it off."
+  },
+  {
+   "s": "Sie sagt: Früher ja. Heute nicht mehr.",
+   "e": "She says: it used to be, yes. Not any more."
+  },
+  {
+   "s": "Das dritte ist ein Joghurtbecher.",
+   "e": "The third is a yoghurt pot."
+  },
+  {
+   "s": "Ein Becher muss sauber sein.",
+   "e": "A pot has to be clean."
+  },
+  {
+   "s": "Der Becher kommt in den PET-Sack.",
+   "e": "The pot goes in the PET bag."
+  },
+  {
+   "s": "Der Becher ist noch schmutzig.",
+   "e": "The pot is still dirty."
+  },
+  {
+   "s": "Sie sagt nichts.",
+   "e": "She says nothing."
+  },
+  {
+   "s": "Sie hält ihn nur hoch.",
+   "e": "She just holds it up."
+  },
+  {
+   "s": "Ich sage: Ich muss ihn spülen.",
+   "e": "I say: I have to rinse it."
+  },
+  {
+   "s": "Sie sagt: Genau.",
+   "e": "She says: exactly."
+  },
+  {
+   "s": "Dann räumt sie alles wieder ein.",
+   "e": "Then she puts everything back."
+  },
+  {
+   "s": "Sie erklärt mir alles noch einmal.",
+   "e": "She explains it all to me again."
+  },
+  {
+   "s": "Sie erklärt es langsam und ohne Ärger.",
+   "e": "She explains it slowly and without irritation."
+  },
+  {
+   "s": "Sie ärgert sich nicht.",
+   "e": "She is not annoyed."
+  },
+  {
+   "s": "Sie ärgert sich wirklich nicht.",
+   "e": "She really is not annoyed."
+  },
+  {
+   "s": "Aber sie macht sich die Mühe.",
+   "e": "But she takes the trouble."
+  },
+  {
+   "s": "Sie kommt mit meinem Sack an meine Tür.",
+   "e": "She comes to my door with my bag."
+  },
+  {
+   "s": "Sie macht ihn auf und schaut hinein.",
+   "e": "She opens it and looks inside."
+  },
+  {
+   "s": "Und dann erklärt sie mir zwanzig Minuten lang das Trennen.",
+   "e": "And then she explains separating to me for twenty minutes."
+  },
+  {
+   "s": "Zu Hause ist das sehr komisch.",
+   "e": "At home that is very strange."
+  },
+  {
+   "s": "Hier ist es etwas anderes.",
+   "e": "Here it is something else."
+  },
+  {
+   "s": "Ich merke das langsam.",
+   "e": "I am slowly noticing that."
+  },
+  {
+   "s": "Sie sagt mir nicht: Sie machen es falsch.",
+   "e": "She does not say to me: you are doing it wrong."
+  },
+  {
+   "s": "Sie sagt: So geht es richtig.",
+   "e": "She says: this is how it works."
+  },
+  {
+   "s": "Das ist ein kleiner Unterschied und ein grosser.",
+   "e": "That is a small difference and a big one."
+  },
+  {
+   "s": "Sie will nicht schimpfen.",
+   "e": "She does not want to tell me off."
+  },
+  {
+   "s": "Sie will es mir beibringen.",
+   "e": "She wants to teach it to me."
+  },
+  {
+   "s": "Am Ende sagt sie noch etwas.",
+   "e": "At the end she says something else."
+  },
+  {
+   "s": "Sie sagt: Bei uns ist das wichtig.",
+   "e": "She says: with us that is important."
+  },
+  {
+   "s": "Bei uns.",
+   "e": "With us."
+  },
+  {
+   "s": "Sie sagt bei uns und sie meint auch mich.",
+   "e": "She says with us and she means me too."
+  },
+  {
+   "s": "Das höre ich sofort.",
+   "e": "I hear that at once."
+  },
+  {
+   "s": "Sie geht wieder hinaus.",
+   "e": "She goes back out."
+  },
+  {
+   "s": "Ich spüle jeden Becher.",
+   "e": "I rinse every pot."
+  },
+  {
+   "s": "Spülen dauert zehn Sekunden.",
+   "e": "Rinsing takes ten seconds."
+  },
+  {
+   "s": "Ohne spülen riecht der ganze Sack.",
+   "e": "Without rinsing the whole bag smells."
+  },
+  {
+   "s": "Ich schaue bei jeder Flasche unten nach.",
+   "e": "I check the bottom of every bottle."
+  },
+  {
+   "s": "Ich lasse jeden Deckel drauf.",
+   "e": "I leave every lid on."
+  },
+  {
+   "s": "Es dauert zehn Minuten mehr in der Woche.",
+   "e": "It takes ten minutes more a week."
+  },
+  {
+   "s": "Mehr ist es nicht.",
+   "e": "That is all it is."
+  },
+  {
+   "s": "Am Abend klopft es wieder.",
+   "e": "In the evening there is another knock."
+  },
+  {
+   "s": "Vor der Tür steht keine Frau Amrein.",
+   "e": "Frau Amrein is not outside the door."
+  },
+  {
+   "s": "Vor der Tür steht ein Topf.",
+   "e": "There is a pot outside the door."
+  },
+  {
+   "s": "Im Topf ist Suppe.",
+   "e": "There is soup in the pot."
+  },
+  {
+   "s": "Die Suppe ist warm.",
+   "e": "The soup is warm."
+  },
+  {
+   "s": "Sie ist noch ganz warm.",
+   "e": "It is still completely warm."
+  },
+  {
+   "s": "Ich nehme den Topf hinein.",
+   "e": "I take the pot inside."
+  },
+  {
+   "s": "Ich esse die Suppe am Tisch.",
+   "e": "I eat the soup at the table."
+  },
+  {
+   "s": "Sie ist sehr gut.",
+   "e": "It is very good."
+  },
+  {
+   "s": "Es ist Gerstensuppe mit Speck.",
+   "e": "It is barley soup with bacon."
+  },
+  {
+   "s": "Sie schmeckt nach diesem Land.",
+   "e": "It tastes of this country."
+  },
+  {
+   "s": "Am nächsten Tag bringe ich den Topf zurück.",
+   "e": "The next day I bring the pot back."
+  },
+  {
+   "s": "Der Topf ist sauber.",
+   "e": "The pot is clean."
+  },
+  {
+   "s": "Ich spüle ihn zweimal.",
+   "e": "I rinse it twice."
+  },
+  {
+   "s": "Ich sage: Die Suppe ist sehr gut. Merci vielmal.",
+   "e": "I say: the soup was very good. Merci vielmal."
+  },
+  {
+   "s": "Sie nimmt den Topf und schaut hinein.",
+   "e": "She takes the pot and looks inside."
+  },
+  {
+   "s": "Sie sagt nichts über die Suppe.",
+   "e": "She says nothing about the soup."
+  },
+  {
+   "s": "Sie sagt: Der Topf ist sauber.",
+   "e": "She says: the pot is clean."
+  },
+  {
+   "s": "Von ihr ist das ein Kompliment.",
+   "e": "From her that is a compliment."
+  },
+  {
+   "s": "Ich verstehe das jetzt.",
+   "e": "I understand that now."
+  },
+  {
+   "s": "Erst der Sack, dann die Suppe.",
+   "e": "First the bag, then the soup."
+  },
+  {
+   "s": "Zuerst zeigt sie mir den Fehler.",
+   "e": "First she shows me the mistake."
+  },
+  {
+   "s": "Dann stellt sie einen Topf vor die Tür.",
+   "e": "Then she puts a pot outside the door."
+  },
+  {
+   "s": "Beides ist das Gleiche.",
+   "e": "Both are the same thing."
+  },
+  {
+   "s": "Beides heisst: Sie gehören dazu.",
+   "e": "Both mean: you belong here."
+  },
+  {
+   "s": "Man sagt es nur nicht so.",
+   "e": "You just do not say it that way."
+  },
+  {
+   "s": "Man macht den Sack auf und man kocht eine Suppe.",
+   "e": "You open the bag and you cook a soup."
+  }
+ ]
+}

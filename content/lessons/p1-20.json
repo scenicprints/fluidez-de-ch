@@ -1,0 +1,393 @@
+{
+ "id": "p1-20",
+ "title": "Fasnacht",
+ "desc": "You wake at five to brass instruments deliberately playing wrong",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Fasnacht",
+  "Maske",
+  "Trommel",
+  "spielen",
+  "falsch",
+  "Stadt"
+ ],
+ "sn": [
+  {
+   "s": "Im Februar wird die Stadt anders.",
+   "e": "In February the town changes."
+  },
+  {
+   "s": "In den Läden hängen Masken.",
+   "e": "There are masks hanging in the shops."
+  },
+  {
+   "s": "In den Fenstern hängen Bilder.",
+   "e": "There are pictures in the windows."
+  },
+  {
+   "s": "Überall steht ein Wort: Fasnacht.",
+   "e": "Everywhere there is one word: Fasnacht."
+  },
+  {
+   "s": "Ich frage Frau Amrein danach.",
+   "e": "I ask Frau Amrein about it."
+  },
+  {
+   "s": "Sie sagt nur: Schlafen Sie gut am Mittwoch.",
+   "e": "She says only: sleep well on Wednesday."
+  },
+  {
+   "s": "Sie erklärt nichts weiter.",
+   "e": "She explains nothing more."
+  },
+  {
+   "s": "Ich verstehe erst später warum.",
+   "e": "I only understand why later."
+  },
+  {
+   "s": "Am Donnerstag um fünf Uhr wache ich auf.",
+   "e": "On Thursday at five o'clock I wake up."
+  },
+  {
+   "s": "Draussen ist es dunkel.",
+   "e": "Outside it is dark."
+  },
+  {
+   "s": "Draussen ist es sehr laut.",
+   "e": "Outside it is very loud."
+  },
+  {
+   "s": "Ich höre Trommeln.",
+   "e": "I hear drums."
+  },
+  {
+   "s": "Eine Trommel hört man durch alles.",
+   "e": "You hear a drum through everything."
+  },
+  {
+   "s": "Die Trommel gibt den Takt und der Rest folgt.",
+   "e": "The drum sets the beat and the rest follows."
+  },
+  {
+   "s": "Ich höre Musik.",
+   "e": "I hear music."
+  },
+  {
+   "s": "Die Musik ist falsch.",
+   "e": "The music is wrong."
+  },
+  {
+   "s": "Die Töne sind falsch.",
+   "e": "The notes are wrong."
+  },
+  {
+   "s": "Sie sind alle ein bisschen daneben.",
+   "e": "They are all a little off."
+  },
+  {
+   "s": "Ich denke zuerst: die können nicht spielen.",
+   "e": "At first I think: they cannot play."
+  },
+  {
+   "s": "Das ist ein Irrtum.",
+   "e": "That is a mistake."
+  },
+  {
+   "s": "Sie spielen absichtlich falsch.",
+   "e": "They play wrong on purpose."
+  },
+  {
+   "s": "Das ist der ganze Sinn.",
+   "e": "That is the whole point."
+  },
+  {
+   "s": "Ich gehe ans Fenster.",
+   "e": "I go to the window."
+  },
+  {
+   "s": "Auf der Strasse gehen hundert Leute.",
+   "e": "There are a hundred people in the street."
+  },
+  {
+   "s": "Alle sind verkleidet.",
+   "e": "Everybody is in costume."
+  },
+  {
+   "s": "Verkleiden heisst: man zieht etwas anderes an.",
+   "e": "Verkleiden means: you put something else on."
+  },
+  {
+   "s": "Man ist jemand anderes.",
+   "e": "You are somebody else."
+  },
+  {
+   "s": "Sie haben Masken auf dem Gesicht.",
+   "e": "They have masks on their faces."
+  },
+  {
+   "s": "Die Masken sind gross und hässlich und schön.",
+   "e": "The masks are big and ugly and beautiful."
+  },
+  {
+   "s": "Sie haben Instrumente in den Händen.",
+   "e": "They have instruments in their hands."
+  },
+  {
+   "s": "Trommeln, Trompeten, grosse Hörner.",
+   "e": "Drums, trumpets, big horns."
+  },
+  {
+   "s": "Und alle spielen zusammen falsch.",
+   "e": "And they all play wrong together."
+  },
+  {
+   "s": "Es ist fünf Uhr am Morgen.",
+   "e": "It is five in the morning."
+  },
+  {
+   "s": "Ich denke an die Ruhezeit.",
+   "e": "I think about the quiet hours."
+  },
+  {
+   "s": "Ich denke an das Klopfen an der Decke.",
+   "e": "I think about the knocking on the ceiling."
+  },
+  {
+   "s": "Ich denke an die Hausordnung.",
+   "e": "I think about the Hausordnung."
+  },
+  {
+   "s": "Und ich verstehe gar nichts mehr.",
+   "e": "And I understand nothing at all any more."
+  },
+  {
+   "s": "Das ganze Jahr ist es still.",
+   "e": "All year it is quiet."
+  },
+  {
+   "s": "Man darf nicht duschen und nicht waschen.",
+   "e": "You may not shower and not do laundry."
+  },
+  {
+   "s": "Und dann ist es um fünf Uhr so laut.",
+   "e": "And then at five o'clock it is this loud."
+  },
+  {
+   "s": "Ich ziehe mich an und gehe hinunter.",
+   "e": "I get dressed and go down."
+  },
+  {
+   "s": "Auf der Strasse ist die halbe Stadt.",
+   "e": "Half the town is in the street."
+  },
+  {
+   "s": "Alte Leute, Kinder, alle.",
+   "e": "Old people, children, everybody."
+  },
+  {
+   "s": "Um fünf Uhr am Morgen im Februar.",
+   "e": "At five in the morning in February."
+  },
+  {
+   "s": "Es ist kalt und alle sind draussen.",
+   "e": "It is cold and everybody is outside."
+  },
+  {
+   "s": "Ich sehe Herrn Bucher von unten.",
+   "e": "I see Herr Bucher from downstairs."
+  },
+  {
+   "s": "Er hat eine Maske auf.",
+   "e": "He is wearing a mask."
+  },
+  {
+   "s": "Er spielt eine Trommel.",
+   "e": "He is playing a drum."
+  },
+  {
+   "s": "Der Mann mit dem Klopfen an der Decke.",
+   "e": "The man with the knocking on the ceiling."
+  },
+  {
+   "s": "Er sieht mich und lacht.",
+   "e": "He sees me and laughs."
+  },
+  {
+   "s": "Er ruft: Fasnacht!",
+   "e": "He shouts: Fasnacht!"
+  },
+  {
+   "s": "Das erklärt alles und nichts.",
+   "e": "That explains everything and nothing."
+  },
+  {
+   "s": "Die Fasnacht dauert sechs Tage.",
+   "e": "The Fasnacht lasts six days."
+  },
+  {
+   "s": "Die Fasnacht ist im Februar oder im März.",
+   "e": "The Fasnacht is in February or March."
+  },
+  {
+   "s": "Fasnacht macht die halbe Stadt mit.",
+   "e": "Half the town joins in the Fasnacht."
+  },
+  {
+   "s": "Vom Donnerstag bis zum Dienstag.",
+   "e": "From Thursday to Tuesday."
+  },
+  {
+   "s": "Sechs Tage Lärm und Musik.",
+   "e": "Six days of noise and music."
+  },
+  {
+   "s": "Am Mittwoch ist es plötzlich fertig.",
+   "e": "On Wednesday it is suddenly over."
+  },
+  {
+   "s": "Am Mittwoch ist die Stadt wieder still.",
+   "e": "On Wednesday the town is quiet again."
+  },
+  {
+   "s": "Ganz still, wie vorher.",
+   "e": "Completely quiet, like before."
+  },
+  {
+   "s": "Am Donnerstag gehe ich zur Arbeit.",
+   "e": "On Thursday I go to work."
+  },
+  {
+   "s": "Ich bin müde und ich habe keine Idee.",
+   "e": "I am tired and I have no idea."
+  },
+  {
+   "s": "Vielleicht habe ich frei und vielleicht nicht.",
+   "e": "Maybe I have the day off and maybe not."
+  },
+  {
+   "s": "Halb Luzern hat frei und halb nicht.",
+   "e": "Half of Luzern has the day off and half does not."
+  },
+  {
+   "s": "Am Abend gehe ich wieder auf die Strasse.",
+   "e": "In the evening I go out into the street again."
+  },
+  {
+   "s": "Die Gruppen spielen an jeder Ecke.",
+   "e": "The groups play on every corner."
+  },
+  {
+   "s": "Eine Gruppe heisst Guggenmusik.",
+   "e": "A group is called a Guggenmusik."
+  },
+  {
+   "s": "Jede Guggenmusik hat eigene Masken.",
+   "e": "Every Guggenmusik has its own masks."
+  },
+  {
+   "s": "Und ein eigenes Thema jedes Jahr.",
+   "e": "And its own theme every year."
+  },
+  {
+   "s": "Sie üben das ganze Jahr dafür.",
+   "e": "They practise all year for it."
+  },
+  {
+   "s": "Sie üben das falsche Spielen.",
+   "e": "They practise playing wrong."
+  },
+  {
+   "s": "Das muss man erst verstehen.",
+   "e": "That takes some understanding."
+  },
+  {
+   "s": "Ich stehe an einer Ecke und höre zu.",
+   "e": "I stand on a corner and listen."
+  },
+  {
+   "s": "Nach zwei Stunden gefällt es mir.",
+   "e": "After two hours I like it."
+  },
+  {
+   "s": "Es ist laut und es ist zu viel.",
+   "e": "It is loud and it is too much."
+  },
+  {
+   "s": "Aber alle sind da und alle tanzen.",
+   "e": "But everybody is there and everybody dances."
+  },
+  {
+   "s": "Auch die stillsten Leute im Haus.",
+   "e": "Even the quietest people in the building."
+  },
+  {
+   "s": "Ruedi Zemp steht neben mir.",
+   "e": "Ruedi Zemp is standing next to me."
+  },
+  {
+   "s": "Er sagt zum ersten Mal einen ganzen Satz.",
+   "e": "For the first time he says a whole sentence."
+  },
+  {
+   "s": "Er sagt: Sechs Tage im Jahr sind wir anders.",
+   "e": "He says: six days a year we are different."
+  },
+  {
+   "s": "Dann schweigt er wieder.",
+   "e": "Then he is silent again."
+  },
+  {
+   "s": "Das ist der längste Satz von ihm bis jetzt.",
+   "e": "That is the longest sentence from him so far."
+  },
+  {
+   "s": "Am Dienstagabend ist der letzte Abend.",
+   "e": "Tuesday evening is the last evening."
+  },
+  {
+   "s": "Die Musik hört um Mitternacht auf.",
+   "e": "The music stops at midnight."
+  },
+  {
+   "s": "Nicht langsam. Auf einmal.",
+   "e": "Not slowly. All at once."
+  },
+  {
+   "s": "Um Mitternacht ist es still.",
+   "e": "At midnight it is quiet."
+  },
+  {
+   "s": "Die Leute gehen nach Hause.",
+   "e": "The people go home."
+  },
+  {
+   "s": "Am Mittwochmorgen putzen alle die Strasse.",
+   "e": "On Wednesday morning everybody cleans the street."
+  },
+  {
+   "s": "Um sieben Uhr ist die Stadt wieder sauber.",
+   "e": "By seven the town is clean again."
+  },
+  {
+   "s": "Kein Papier mehr auf dem Boden.",
+   "e": "No more paper on the ground."
+  },
+  {
+   "s": "Das überrascht mich am meisten.",
+   "e": "That surprises me most."
+  },
+  {
+   "s": "Sechs Tage Chaos und dann alles wieder in Ordnung.",
+   "e": "Six days of chaos and then everything back in order."
+  },
+  {
+   "s": "Beides gehört zusammen.",
+   "e": "The two things go together."
+  },
+  {
+   "s": "Vielleicht geht das eine nur mit dem anderen.",
+   "e": "Maybe one only works with the other."
+  }
+ ]
+}

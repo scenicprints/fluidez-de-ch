@@ -1,0 +1,405 @@
+{
+ "id": "p1-03",
+ "title": "Die Hausordnung",
+ "desc": "You read it twice and understand about half",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "verboten",
+  "Hausordnung",
+  "leise",
+  "Regel",
+  "Gebührensack",
+  "Treppenhaus",
+  "lesen",
+  "dürfen",
+  "wollen",
+  "hängen"
+ ],
+ "sn": [
+  {
+   "s": "Im Haus hängt ein Papier.",
+   "e": "There is a piece of paper up in the building."
+  },
+  {
+   "s": "Es hängt unten neben der Tür.",
+   "e": "It hangs downstairs next to the door."
+  },
+  {
+   "s": "Oben steht ein Wort: Hausordnung.",
+   "e": "At the top there is one word: Hausordnung."
+  },
+  {
+   "s": "Die Hausordnung ist eine Liste.",
+   "e": "The Hausordnung is a list."
+  },
+  {
+   "s": "Auf der Liste stehen Regeln.",
+   "e": "There are rules on the list."
+  },
+  {
+   "s": "Ich lese die Hausordnung.",
+   "e": "I read the Hausordnung."
+  },
+  {
+   "s": "Ich lese sie langsam.",
+   "e": "I read it slowly."
+  },
+  {
+   "s": "Ich verstehe die Hälfte.",
+   "e": "I understand half of it."
+  },
+  {
+   "s": "Dann lese ich sie noch einmal.",
+   "e": "Then I read it again."
+  },
+  {
+   "s": "Beim zweiten Mal verstehe ich etwas mehr.",
+   "e": "The second time I understand a bit more."
+  },
+  {
+   "s": "Jede Regel hat das gleiche Wort.",
+   "e": "Every rule has the same word."
+  },
+  {
+   "s": "Man darf. Man darf nicht. Man muss.",
+   "e": "You may. You may not. You must."
+  },
+  {
+   "s": "Diese drei Wörter sind die ganze Hausordnung.",
+   "e": "Those three words are the whole Hausordnung."
+  },
+  {
+   "s": "Man darf nach zweiundzwanzig Uhr nicht duschen.",
+   "e": "You may not shower after ten at night."
+  },
+  {
+   "s": "Man darf am Sonntag nicht waschen.",
+   "e": "You may not do laundry on Sunday."
+  },
+  {
+   "s": "Man muss die Waschküche eintragen.",
+   "e": "You must sign up for the laundry room."
+  },
+  {
+   "s": "Man darf im Treppenhaus nichts stehen lassen.",
+   "e": "You may not leave anything in the stairwell."
+  },
+  {
+   "s": "Man muss den Kehricht in den Gebührensack tun.",
+   "e": "You must put the rubbish in the official bag."
+  },
+  {
+   "s": "Ein Gebührensack kostet über zwei Franken.",
+   "e": "An official bag costs over two francs."
+  },
+  {
+   "s": "Ohne Gebührensack holt niemand den Kehricht.",
+   "e": "Without the official bag nobody collects the rubbish."
+  },
+  {
+   "s": "Man darf das Velo nicht im Treppenhaus abstellen.",
+   "e": "You may not leave your bike in the stairwell."
+  },
+  {
+   "s": "Das Velo gehört in den Keller.",
+   "e": "The bike belongs in the cellar."
+  },
+  {
+   "s": "Ein Velo im Treppenhaus ist verboten.",
+   "e": "A bike in the stairwell is forbidden."
+  },
+  {
+   "s": "Verboten ist ein starkes Wort.",
+   "e": "Forbidden is a strong word."
+  },
+  {
+   "s": "Verboten steht auch auf dem Balkon.",
+   "e": "Forbidden is on the balcony too."
+  },
+  {
+   "s": "Es steht viermal auf dem Papier.",
+   "e": "It is on the paper four times."
+  },
+  {
+   "s": "Rauchen im Treppenhaus ist verboten.",
+   "e": "Smoking in the stairwell is forbidden."
+  },
+  {
+   "s": "Grillieren auf dem Balkon ist verboten.",
+   "e": "Barbecuing on the balcony is forbidden."
+  },
+  {
+   "s": "Ich habe keinen Balkon.",
+   "e": "I do not have a balcony."
+  },
+  {
+   "s": "Ich habe auch kein Velo.",
+   "e": "I do not have a bike either."
+  },
+  {
+   "s": "Aber ich muss die Regeln trotzdem kennen.",
+   "e": "But I have to know the rules anyway."
+  },
+  {
+   "s": "Man muss von zwölf bis dreizehn Uhr leise sein.",
+   "e": "You have to be quiet from twelve to one."
+  },
+  {
+   "s": "Am Mittag will man Ruhe haben.",
+   "e": "At midday people want quiet."
+  },
+  {
+   "s": "Am Abend nach zweiundzwanzig Uhr auch.",
+   "e": "In the evening after ten as well."
+  },
+  {
+   "s": "Leise heisst wirklich leise.",
+   "e": "Quiet really means quiet."
+  },
+  {
+   "s": "Leise ist hier eine Regel und keine Bitte.",
+   "e": "Quiet here is a rule and not a request."
+  },
+  {
+   "s": "Am Mittag muss man leise sein.",
+   "e": "At midday you have to be quiet."
+  },
+  {
+   "s": "Man soll auch die Treppe putzen.",
+   "e": "You are also supposed to clean the stairs."
+  },
+  {
+   "s": "Jede Wohnung putzt die Treppe eine Woche.",
+   "e": "Each flat cleans the stairs for a week."
+  },
+  {
+   "s": "Dann kommt die nächste Wohnung.",
+   "e": "Then it is the next flat's turn."
+  },
+  {
+   "s": "Auf der Treppe hängt ein zweites Papier.",
+   "e": "There is a second piece of paper on the stairs."
+  },
+  {
+   "s": "Auf dem zweiten Papier stehen die Namen.",
+   "e": "The names are on the second paper."
+  },
+  {
+   "s": "Mein Name steht auch schon da.",
+   "e": "My name is on it already."
+  },
+  {
+   "s": "Ich wohne seit vier Tagen hier.",
+   "e": "I have been living here four days."
+  },
+  {
+   "s": "Und ich bin schon auf der Liste.",
+   "e": "And I am already on the list."
+  },
+  {
+   "s": "Ich lese die Hausordnung ein drittes Mal.",
+   "e": "I read the Hausordnung a third time."
+  },
+  {
+   "s": "Ich schreibe die Wörter auf, denn ich kenne sie nicht.",
+   "e": "I write the words down, because I do not know them."
+  },
+  {
+   "s": "Kehricht. Gebührensack. Treppenhaus.",
+   "e": "Rubbish. Official bag. Stairwell."
+  },
+  {
+   "s": "Waschküche. Ruhezeit. Hausordnung.",
+   "e": "Laundry room. Quiet hours. House rules."
+  },
+  {
+   "s": "Das sind lange Wörter.",
+   "e": "Those are long words."
+  },
+  {
+   "s": "Aber sie sind zwei kurze Wörter zusammen.",
+   "e": "But they are two short words stuck together."
+  },
+  {
+   "s": "Haus und Ordnung. Wasch und Küche.",
+   "e": "House and order. Wash and kitchen."
+  },
+  {
+   "s": "So kann ich sie lesen.",
+   "e": "That way I can read them."
+  },
+  {
+   "s": "Frau Amrein kommt die Treppe hinauf.",
+   "e": "Frau Amrein comes up the stairs."
+  },
+  {
+   "s": "Sie sieht mich vor der Hausordnung.",
+   "e": "She sees me in front of the Hausordnung."
+  },
+  {
+   "s": "Sie bleibt stehen.",
+   "e": "She stops."
+  },
+  {
+   "s": "Lesen Sie das?, fragt sie.",
+   "e": "Are you reading that?, she asks."
+  },
+  {
+   "s": "Ja, sage ich.",
+   "e": "Yes, I say."
+  },
+  {
+   "s": "Gut, sagt sie. Sehr gut.",
+   "e": "Good, she says. Very good."
+  },
+  {
+   "s": "Die meisten lesen es nie.",
+   "e": "Most people never read it."
+  },
+  {
+   "s": "Dann erklärt sie mir die Hälfte noch einmal.",
+   "e": "Then she explains half of it to me again."
+  },
+  {
+   "s": "Sie erklärt die Waschküche.",
+   "e": "She explains the laundry room."
+  },
+  {
+   "s": "Sie erklärt den Gebührensack.",
+   "e": "She explains the official bag."
+  },
+  {
+   "s": "Sie zeigt auf jede Regel mit dem Finger.",
+   "e": "She points at every rule with her finger."
+  },
+  {
+   "s": "Sie sagt bei jeder Regel: Das ist wichtig.",
+   "e": "At every rule she says: this one is important."
+  },
+  {
+   "s": "Bei jeder.",
+   "e": "At every one."
+  },
+  {
+   "s": "Ich frage: Ist alles wichtig?",
+   "e": "I ask: is everything important?"
+  },
+  {
+   "s": "Sie sagt: Ja.",
+   "e": "She says: yes."
+  },
+  {
+   "s": "Dann geht sie in ihre Wohnung.",
+   "e": "Then she goes into her flat."
+  },
+  {
+   "s": "Ich stehe noch eine Minute da.",
+   "e": "I stand there another minute."
+  },
+  {
+   "s": "Eine Hausordnung ist kein Spass.",
+   "e": "A Hausordnung is not a joke."
+  },
+  {
+   "s": "Sie hängt in jedem Haus in diesem Land.",
+   "e": "It hangs in every building in this country."
+  },
+  {
+   "s": "Und alle halten sie.",
+   "e": "And everybody keeps to it."
+  },
+  {
+   "s": "Das ist das Komische daran.",
+   "e": "That is the odd thing about it."
+  },
+  {
+   "s": "Zu Hause hängt so etwas auch.",
+   "e": "At home there is something like it too."
+  },
+  {
+   "s": "Aber niemand liest es.",
+   "e": "But nobody reads it."
+  },
+  {
+   "s": "Hier lesen alle es und alle machen es.",
+   "e": "Here everybody reads it and everybody does it."
+  },
+  {
+   "s": "Am Abend höre ich niemanden.",
+   "e": "In the evening I hear nobody."
+  },
+  {
+   "s": "Nach zehn ist alles still.",
+   "e": "After ten everything is quiet."
+  },
+  {
+   "s": "Kein Wasser, keine Musik, keine Schritte.",
+   "e": "No water, no music, no footsteps."
+  },
+  {
+   "s": "Das ist keine Regel auf einem Papier.",
+   "e": "That is not a rule on a piece of paper."
+  },
+  {
+   "s": "Das ist einfach so.",
+   "e": "That is just how it is."
+  },
+  {
+   "s": "Ich will keine Probleme.",
+   "e": "I do not want any trouble."
+  },
+  {
+   "s": "Ich will die Regeln kennen.",
+   "e": "I want to know the rules."
+  },
+  {
+   "s": "Ich kann sie noch nicht alle.",
+   "e": "I do not know them all yet."
+  },
+  {
+   "s": "Aber ich kann sie lernen.",
+   "e": "But I can learn them."
+  },
+  {
+   "s": "Ich mache ein Foto von der Hausordnung.",
+   "e": "I take a photo of the Hausordnung."
+  },
+  {
+   "s": "So kann ich sie oben noch einmal lesen.",
+   "e": "That way I can read it again upstairs."
+  },
+  {
+   "s": "Oben lese ich sie ein viertes Mal.",
+   "e": "Upstairs I read it a fourth time."
+  },
+  {
+   "s": "Jetzt verstehe ich fast alles.",
+   "e": "Now I understand nearly everything."
+  },
+  {
+   "s": "Nur ein Wort verstehe ich nicht.",
+   "e": "There is only one word I do not understand."
+  },
+  {
+   "s": "Ich muss Frau Amrein fragen.",
+   "e": "I will have to ask Frau Amrein."
+  },
+  {
+   "s": "Sie will sicher gern antworten.",
+   "e": "She will certainly be glad to answer."
+  },
+  {
+   "s": "Sie will immer gern antworten.",
+   "e": "She is always glad to answer."
+  },
+  {
+   "s": "Das ist auch eine Regel in diesem Haus.",
+   "e": "That is a rule in this building too."
+  },
+  {
+   "s": "Sie steht nur nicht auf dem Papier.",
+   "e": "It is just not on the paper."
+  }
+ ]
+}

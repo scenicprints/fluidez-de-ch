@@ -1,0 +1,109 @@
+{
+ "id": "sc11",
+ "title": "Beim Hauswart",
+ "desc": "Reporting a problem, in the one hour he is there",
+ "setting": "Five o’clock, the ground floor, and a bathroom light that stopped working yesterday.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Ruedi Zemp",
+   "es": "Grüezi.",
+   "en": "Grüezi.",
+   "options": [
+    {
+     "es": "Grüezi. Das Licht im Bad ist kaputt.",
+     "en": "Grüezi. The bathroom light is broken.",
+     "verdict": "good",
+     "feedback": "Greeting and then the problem in one short sentence. He is waiting for exactly that and nothing else."
+    },
+    {
+     "es": "Grüezi. Haben Sie kurz Zeit?",
+     "en": "Grüezi. Do you have a moment?",
+     "verdict": "ok",
+     "feedback": "Polite, and it makes him ask what for. He would rather you just said it."
+    },
+    {
+     "es": "Grüezi. Wie geht es Ihnen?",
+     "en": "Grüezi. How are you?",
+     "verdict": "bad",
+     "feedback": "Not unfriendly, just not what this hour is for. He will wait for the actual reason."
+    }
+   ]
+  },
+  {
+   "speaker": "Ruedi Zemp",
+   "es": "Welche Wohnung?",
+   "en": "Which flat?",
+   "options": [
+    {
+     "es": "Dritter Stock.",
+     "en": "Third floor.",
+     "verdict": "good",
+     "feedback": "Two words. He is already writing it in the book."
+    },
+    {
+     "es": "Die Wohnung neben Frau Amrein.",
+     "en": "The flat next to Frau Amrein.",
+     "verdict": "ok",
+     "feedback": "He knows exactly which one that is. The number is faster."
+    },
+    {
+     "es": "Ich wohne seit einem Monat hier.",
+     "en": "I have been living here a month.",
+     "verdict": "bad",
+     "feedback": "Not the question. He asked which flat."
+    }
+   ]
+  },
+  {
+   "speaker": "Ruedi Zemp",
+   "es": "Morgen um acht.",
+   "en": "Tomorrow at eight.",
+   "options": [
+    {
+     "es": "Gut. Merci vielmal.",
+     "en": "Good. Thanks very much.",
+     "verdict": "good",
+     "feedback": "He will be there at eight. Not five past. Take the time and say thank you."
+    },
+    {
+     "es": "Geht es auch später?",
+     "en": "Could it be later?",
+     "verdict": "ok",
+     "feedback": "It could, and you have just made work out of something that was finished."
+    },
+    {
+     "es": "Können Sie es heute noch machen?",
+     "en": "Could you still do it today?",
+     "verdict": "bad",
+     "feedback": "You report a problem to him. You do not set his schedule."
+    }
+   ]
+  },
+  {
+   "speaker": "Ruedi Zemp",
+   "es": "So. Das Licht geht wieder.",
+   "en": "There. The light works again.",
+   "options": [
+    {
+     "es": "Merci vielmal. Das geht schnell.",
+     "en": "Thanks very much. That was quick.",
+     "verdict": "good",
+     "feedback": "Four minutes. Noticing it out loud is the closest thing to a compliment he will accept."
+    },
+    {
+     "es": "Merci.",
+     "en": "Thanks.",
+     "verdict": "ok",
+     "feedback": "Fine. He will nod and pack up."
+    },
+    {
+     "es": "Was hat gefehlt?",
+     "en": "What was wrong with it?",
+     "verdict": "ok",
+     "feedback": "He will tell you in about six words. It is a fair question."
+    }
+   ]
+  }
+ ]
+}

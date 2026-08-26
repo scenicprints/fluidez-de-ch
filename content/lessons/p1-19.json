@@ -1,0 +1,381 @@
+{
+ "id": "p1-19",
+ "title": "Die Rechnung",
+ "desc": "You pay it at the counter because you do not trust the app yet",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Mahnung",
+  "Datum",
+  "zahlen",
+  "Rechnung",
+  "Weg",
+  "stehen"
+ ],
+ "sn": [
+  {
+   "s": "Rechnungen kommen hier auf Papier.",
+   "e": "Bills come on paper here."
+  },
+  {
+   "s": "Nicht per Mail. Auf Papier.",
+   "e": "Not by email. On paper."
+  },
+  {
+   "s": "Sie kommen in den Briefkasten.",
+   "e": "They come into the letterbox."
+  },
+  {
+   "s": "Ich habe jetzt vier Rechnungen.",
+   "e": "I now have four bills."
+  },
+  {
+   "s": "Die Krankenkasse. Die Serafe.",
+   "e": "The health insurance. The Serafe."
+  },
+  {
+   "s": "Das Handy und der Strom.",
+   "e": "The phone and the electricity."
+  },
+  {
+   "s": "Jede Rechnung hat den gleichen Aufbau.",
+   "e": "Every bill has the same layout."
+  },
+  {
+   "s": "Oben steht, wer sie schickt.",
+   "e": "At the top it says who sends it."
+  },
+  {
+   "s": "In der Mitte steht der Betrag.",
+   "e": "In the middle is the amount."
+  },
+  {
+   "s": "Der Betrag steht gross und fett.",
+   "e": "The amount is big and in bold."
+  },
+  {
+   "s": "Und unten steht ein Datum.",
+   "e": "And at the bottom there is a date."
+  },
+  {
+   "s": "Das Datum steht immer unten rechts.",
+   "e": "The date is always at the bottom right."
+  },
+  {
+   "s": "Ohne Datum ist eine Rechnung keine Rechnung.",
+   "e": "Without a date a bill is not a bill."
+  },
+  {
+   "s": "Das Datum ist die Frist.",
+   "e": "The date is the deadline."
+  },
+  {
+   "s": "Bis zu diesem Datum muss ich zahlen.",
+   "e": "By that date I have to pay."
+  },
+  {
+   "s": "Meistens sind es dreissig Tage.",
+   "e": "Usually it is thirty days."
+  },
+  {
+   "s": "Unten rechts ist ein Feld mit einem QR-Code.",
+   "e": "At the bottom right there is a box with a QR code."
+  },
+  {
+   "s": "Dieses Feld ist das Wichtigste.",
+   "e": "That box is the most important part."
+  },
+  {
+   "s": "Im Feld steht alles.",
+   "e": "Everything is in the box."
+  },
+  {
+   "s": "Das Konto, der Betrag, der Name.",
+   "e": "The account, the amount, the name."
+  },
+  {
+   "s": "Man muss nichts abtippen.",
+   "e": "You do not have to type anything in."
+  },
+  {
+   "s": "Es gibt drei Wege zum Zahlen.",
+   "e": "There are three ways to pay."
+  },
+  {
+   "s": "Der erste Weg ist das Handy.",
+   "e": "The first way is your phone."
+  },
+  {
+   "s": "Man macht die App auf.",
+   "e": "You open the app."
+  },
+  {
+   "s": "Man hält das Handy über den Code.",
+   "e": "You hold the phone over the code."
+  },
+  {
+   "s": "Dann steht alles schon da.",
+   "e": "Then everything is already there."
+  },
+  {
+   "s": "Man drückt einmal und es ist bezahlt.",
+   "e": "You press once and it is paid."
+  },
+  {
+   "s": "Der zweite Weg ist der Automat.",
+   "e": "The second way is the machine."
+  },
+  {
+   "s": "Bei der Post steht ein Automat.",
+   "e": "There is a machine at the post office."
+  },
+  {
+   "s": "Man legt die Rechnung hinein.",
+   "e": "You put the bill in."
+  },
+  {
+   "s": "Der Automat liest den Code.",
+   "e": "The machine reads the code."
+  },
+  {
+   "s": "Dann zahlt man mit der Karte.",
+   "e": "Then you pay with your card."
+  },
+  {
+   "s": "Der dritte Weg ist der Schalter.",
+   "e": "The third way is the counter."
+  },
+  {
+   "s": "Man geht auf die Post und stellt sich an.",
+   "e": "You go to the post office and queue."
+  },
+  {
+   "s": "Man legt die Rechnung auf den Schalter.",
+   "e": "You put the bill on the counter."
+  },
+  {
+   "s": "Man kann mit Bargeld zahlen.",
+   "e": "You can pay in cash."
+  },
+  {
+   "s": "Das ist der teuerste Weg.",
+   "e": "That is the most expensive way."
+  },
+  {
+   "s": "Man bezahlt zwei Franken extra.",
+   "e": "You pay two francs extra."
+  },
+  {
+   "s": "Aber viele Leute machen es trotzdem.",
+   "e": "But a lot of people do it anyway."
+  },
+  {
+   "s": "Ich habe die App auf dem Handy.",
+   "e": "I have the app on my phone."
+  },
+  {
+   "s": "Ich mache sie auf und schaue sie an.",
+   "e": "I open it and look at it."
+  },
+  {
+   "s": "Ich schliesse sie wieder.",
+   "e": "I close it again."
+  },
+  {
+   "s": "Ich traue ihr noch nicht.",
+   "e": "I do not trust it yet."
+  },
+  {
+   "s": "Ich verstehe nicht jedes Wort darin.",
+   "e": "I do not understand every word in it."
+  },
+  {
+   "s": "Und es geht um viel Geld.",
+   "e": "And it is about a lot of money."
+  },
+  {
+   "s": "Also gehe ich auf die Post.",
+   "e": "So I go to the post office."
+  },
+  {
+   "s": "Ich nehme alle vier Rechnungen mit.",
+   "e": "I take all four bills with me."
+  },
+  {
+   "s": "Ich stelle mich in die Reihe.",
+   "e": "I join the queue."
+  },
+  {
+   "s": "Vor mir steht wieder ein alter Mann.",
+   "e": "In front of me there is an old man again."
+  },
+  {
+   "s": "Vielleicht ist es der gleiche.",
+   "e": "Maybe it is the same one."
+  },
+  {
+   "s": "Er zahlt auch seine Rechnungen.",
+   "e": "He is paying his bills too."
+  },
+  {
+   "s": "Jetzt stehe ich neben ihm in der gleichen Reihe.",
+   "e": "Now I am standing next to him in the same queue."
+  },
+  {
+   "s": "Das finde ich komisch und auch gut.",
+   "e": "I find that odd and also good."
+  },
+  {
+   "s": "Ich bin dran.",
+   "e": "It is my turn."
+  },
+  {
+   "s": "Die Frau nimmt die vier Rechnungen.",
+   "e": "The woman takes the four bills."
+  },
+  {
+   "s": "Sie liest jeden Code mit einem Gerät.",
+   "e": "She reads each code with a device."
+  },
+  {
+   "s": "Es macht viermal piep.",
+   "e": "It beeps four times."
+  },
+  {
+   "s": "Sie sagt den Betrag zusammen.",
+   "e": "She says the total."
+  },
+  {
+   "s": "Fünfhundertzwölf Franken.",
+   "e": "Five hundred and twelve francs."
+  },
+  {
+   "s": "Ich zahle mit der Karte.",
+   "e": "I pay with the card."
+  },
+  {
+   "s": "Sie gibt mir vier Quittungen.",
+   "e": "She gives me four receipts."
+  },
+  {
+   "s": "Ich lege sie in die Mappe.",
+   "e": "I put them in the folder."
+  },
+  {
+   "s": "Alles ist bezahlt und ich habe es auf Papier.",
+   "e": "Everything is paid and I have it on paper."
+  },
+  {
+   "s": "Das ist ein gutes Gefühl.",
+   "e": "That is a good feeling."
+  },
+  {
+   "s": "Nuno lacht über mich.",
+   "e": "Nuno laughs at me."
+  },
+  {
+   "s": "Er sagt: Du zahlst am Schalter?",
+   "e": "He says: you pay at the counter?"
+  },
+  {
+   "s": "Er sagt: Das machen nur alte Leute.",
+   "e": "He says: only old people do that."
+  },
+  {
+   "s": "Ich sage: Ich weiss.",
+   "e": "I say: I know."
+  },
+  {
+   "s": "Ich sage: Nächsten Monat mache ich es mit dem Handy.",
+   "e": "I say: next month I will do it with my phone."
+  },
+  {
+   "s": "Er sagt: Sagst du jetzt.",
+   "e": "He says: so you say."
+  },
+  {
+   "s": "Er hat recht.",
+   "e": "He is right."
+  },
+  {
+   "s": "Ich gehe noch zweimal auf die Post.",
+   "e": "I go to the post office twice more."
+  },
+  {
+   "s": "Erst im dritten Monat nehme ich das Handy.",
+   "e": "Only in the third month do I use my phone."
+  },
+  {
+   "s": "Dann geht es in zehn Sekunden.",
+   "e": "Then it takes ten seconds."
+  },
+  {
+   "s": "Und ich frage mich, warum ich so lange warte.",
+   "e": "And I wonder why I waited so long."
+  },
+  {
+   "s": "Eine Rechnung darf man nicht vergessen.",
+   "e": "You must not forget a bill."
+  },
+  {
+   "s": "Nach der Frist kommt eine Mahnung.",
+   "e": "After the deadline a reminder comes."
+  },
+  {
+   "s": "Eine Mahnung will niemand.",
+   "e": "Nobody wants a reminder."
+  },
+  {
+   "s": "Nach der zweiten Mahnung wird es ernst.",
+   "e": "After the second reminder it gets serious."
+  },
+  {
+   "s": "Eine Mahnung kostet zwanzig Franken.",
+   "e": "A reminder costs twenty francs."
+  },
+  {
+   "s": "Die zweite Mahnung kostet mehr.",
+   "e": "The second reminder costs more."
+  },
+  {
+   "s": "Und danach wird es richtig teuer.",
+   "e": "And after that it gets seriously expensive."
+  },
+  {
+   "s": "Frau Amrein sagt: Zahlen Sie immer sofort.",
+   "e": "Frau Amrein says: always pay straight away."
+  },
+  {
+   "s": "Sie sagt: Legen Sie eine Rechnung nie weg.",
+   "e": "She says: never put a bill aside."
+  },
+  {
+   "s": "Sie zahlt alles am gleichen Tag.",
+   "e": "She pays everything the same day."
+  },
+  {
+   "s": "Am gleichen Tag, immer.",
+   "e": "The same day, always."
+  },
+  {
+   "s": "Ich mache es jetzt auch so.",
+   "e": "I do it that way now too."
+  },
+  {
+   "s": "Die Rechnung kommt und ich zahle sie.",
+   "e": "The bill comes and I pay it."
+  },
+  {
+   "s": "Dann liegt sie in der Mappe und ist fertig.",
+   "e": "Then it lies in the folder and it is done."
+  },
+  {
+   "s": "Das ist einfacher als warten.",
+   "e": "That is easier than waiting."
+  },
+  {
+   "s": "Und ich schlafe besser.",
+   "e": "And I sleep better."
+  }
+ ]
+}

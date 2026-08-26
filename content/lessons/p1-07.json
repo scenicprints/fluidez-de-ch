@@ -1,0 +1,377 @@
+{
+ "id": "p1-07",
+ "title": "Der Gebührensack",
+ "desc": "Your bag is left behind with a sticker on it",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Kleber",
+  "Rolle",
+  "Abfall",
+  "Kehricht",
+  "Sack",
+  "kosten"
+ ],
+ "sn": [
+  {
+   "s": "Der Kehricht ist das letzte Problem.",
+   "e": "The rubbish is the last problem."
+  },
+  {
+   "s": "Alles andere ist getrennt.",
+   "e": "Everything else is separated."
+  },
+  {
+   "s": "Papier, Karton, Glas, PET, Alu.",
+   "e": "Paper, cardboard, glass, PET, aluminium."
+  },
+  {
+   "s": "Was bleibt, ist der Kehricht.",
+   "e": "What is left is the rubbish."
+  },
+  {
+   "s": "Kehricht ist das Wort hier.",
+   "e": "Kehricht is the word here."
+  },
+  {
+   "s": "In Deutschland sagt man anders.",
+   "e": "In Germany they say something else."
+  },
+  {
+   "s": "Hier sagt man Kehricht.",
+   "e": "Here they say Kehricht."
+  },
+  {
+   "s": "Ich tue den Abfall in einen normalen Sack.",
+   "e": "I put the waste in an ordinary bag."
+  },
+  {
+   "s": "Abfall hat hier vier oder fünf Namen.",
+   "e": "Waste has four or five names here."
+  },
+  {
+   "s": "Wenig Abfall heisst wenig Geld.",
+   "e": "Little waste means little money."
+  },
+  {
+   "s": "Ich stelle den Sack an die Strasse.",
+   "e": "I put the bag out on the street."
+  },
+  {
+   "s": "Am Abend steht er noch da.",
+   "e": "In the evening it is still there."
+  },
+  {
+   "s": "Am nächsten Tag steht er immer noch da.",
+   "e": "The next day it is still there."
+  },
+  {
+   "s": "Auf dem Sack klebt ein Kleber.",
+   "e": "There is a sticker on the bag."
+  },
+  {
+   "s": "Der Kleber ist rot.",
+   "e": "The sticker is red."
+  },
+  {
+   "s": "Auf dem Kleber steht: falscher Sack.",
+   "e": "The sticker says: wrong bag."
+  },
+  {
+   "s": "Der Sack ist offen.",
+   "e": "The bag is open."
+  },
+  {
+   "s": "Jemand macht ihn auf und schaut hinein.",
+   "e": "Somebody opened it and looked inside."
+  },
+  {
+   "s": "Das ist kein Spass.",
+   "e": "That is not a joke."
+  },
+  {
+   "s": "Im Sack liegt ein Brief mit meinem Namen.",
+   "e": "In the bag there is a letter with my name on it."
+  },
+  {
+   "s": "So findet man den Menschen zum Sack.",
+   "e": "That is how they find the person for the bag."
+  },
+  {
+   "s": "Ich nehme den Sack wieder hinauf.",
+   "e": "I take the bag back upstairs."
+  },
+  {
+   "s": "Frau Amrein sieht mich mit dem Sack.",
+   "e": "Frau Amrein sees me with the bag."
+  },
+  {
+   "s": "Sie sagt: Ah. Der Gebührensack.",
+   "e": "She says: ah. The official bag."
+  },
+  {
+   "s": "Sie erklärt es mir.",
+   "e": "She explains it to me."
+  },
+  {
+   "s": "Man darf nicht jeden Sack nehmen.",
+   "e": "You may not use any old bag."
+  },
+  {
+   "s": "Man muss den Gebührensack nehmen.",
+   "e": "You have to use the official bag."
+  },
+  {
+   "s": "Der Gebührensack kommt von der Gemeinde.",
+   "e": "The official bag comes from the commune."
+  },
+  {
+   "s": "Jede Gemeinde hat ihren eigenen.",
+   "e": "Every commune has its own."
+  },
+  {
+   "s": "Der Sack von Luzern gilt nur in Luzern.",
+   "e": "The Luzern bag is only valid in Luzern."
+  },
+  {
+   "s": "Man kauft ihn im Laden.",
+   "e": "You buy it in the shop."
+  },
+  {
+   "s": "Man kauft eine Rolle mit zehn Säcken.",
+   "e": "You buy a roll with ten bags."
+  },
+  {
+   "s": "Eine Rolle hält bei mir vier Monate.",
+   "e": "A roll lasts me four months."
+  },
+  {
+   "s": "Die Rolle ist blau wie die Säcke.",
+   "e": "The roll is blue like the bags."
+  },
+  {
+   "s": "Eine Rolle kostet über zwanzig Franken.",
+   "e": "A roll costs over twenty francs."
+  },
+  {
+   "s": "Zwanzig Franken für zehn Säcke.",
+   "e": "Twenty francs for ten bags."
+  },
+  {
+   "s": "Zwei Franken für einen Sack.",
+   "e": "Two francs for one bag."
+  },
+  {
+   "s": "Das ist teuer für einen Sack.",
+   "e": "That is expensive for a bag."
+  },
+  {
+   "s": "Aber das ist der Punkt.",
+   "e": "But that is the point."
+  },
+  {
+   "s": "Man bezahlt nicht für den Sack.",
+   "e": "You are not paying for the bag."
+  },
+  {
+   "s": "Man bezahlt für das Abholen.",
+   "e": "You are paying for the collection."
+  },
+  {
+   "s": "Die Gebühr ist im Preis vom Sack.",
+   "e": "The fee is in the price of the bag."
+  },
+  {
+   "s": "Wer viel Abfall hat, bezahlt viel.",
+   "e": "Anybody with a lot of waste pays a lot."
+  },
+  {
+   "s": "Wer wenig hat, bezahlt wenig.",
+   "e": "Anybody with little pays little."
+  },
+  {
+   "s": "Darum trennen hier alle so genau.",
+   "e": "That is why everybody here separates so carefully."
+  },
+  {
+   "s": "Glas kostet nichts. Papier kostet nichts.",
+   "e": "Glass costs nothing. Paper costs nothing."
+  },
+  {
+   "s": "PET kostet nichts.",
+   "e": "PET costs nothing."
+  },
+  {
+   "s": "Nur der Kehricht kostet.",
+   "e": "Only the rubbish costs."
+  },
+  {
+   "s": "Jetzt verstehe ich die vier Säcke in meiner Küche.",
+   "e": "Now I understand the four bags in my kitchen."
+  },
+  {
+   "s": "Es geht nicht nur um die Umwelt.",
+   "e": "It is not only about the environment."
+  },
+  {
+   "s": "Es geht auch um Geld.",
+   "e": "It is about money too."
+  },
+  {
+   "s": "Ich gehe in den Laden.",
+   "e": "I go to the shop."
+  },
+  {
+   "s": "Ich frage nach dem Gebührensack.",
+   "e": "I ask for the official bag."
+  },
+  {
+   "s": "Die Frau an der Kasse holt eine Rolle.",
+   "e": "The woman at the till fetches a roll."
+  },
+  {
+   "s": "Die Säcke stehen hinter der Kasse.",
+   "e": "The bags are kept behind the till."
+  },
+  {
+   "s": "Man kann sie nicht selber nehmen.",
+   "e": "You cannot take them yourself."
+  },
+  {
+   "s": "Sie sind zu teuer dafür.",
+   "e": "They are too expensive for that."
+  },
+  {
+   "s": "Die Rolle kostet fünfundzwanzig Franken.",
+   "e": "The roll costs twenty-five francs."
+  },
+  {
+   "s": "Ich bezahle und nehme sie mit.",
+   "e": "I pay and take it with me."
+  },
+  {
+   "s": "Die Säcke sind blau.",
+   "e": "The bags are blue."
+  },
+  {
+   "s": "Auf jedem Sack steht Luzern.",
+   "e": "Every bag says Luzern."
+  },
+  {
+   "s": "Zu Hause tue ich den Abfall um.",
+   "e": "At home I move the waste over."
+  },
+  {
+   "s": "Vom falschen Sack in den richtigen.",
+   "e": "From the wrong bag into the right one."
+  },
+  {
+   "s": "Das ist keine schöne Arbeit.",
+   "e": "That is not nice work."
+  },
+  {
+   "s": "Am Dienstagabend stelle ich ihn hinaus.",
+   "e": "On Tuesday evening I put it out."
+  },
+  {
+   "s": "Der Kehricht wird am Mittwoch abgeholt.",
+   "e": "The rubbish is collected on Wednesday."
+  },
+  {
+   "s": "Am Mittwochmorgen um sieben ist er weg.",
+   "e": "On Wednesday morning at seven it is gone."
+  },
+  {
+   "s": "Kein Kleber. Kein Sack vor der Tür.",
+   "e": "No sticker. No bag outside the door."
+  },
+  {
+   "s": "Das ist ein gutes Gefühl.",
+   "e": "That is a good feeling."
+  },
+  {
+   "s": "Ein Sack hält bei mir fast zwei Wochen.",
+   "e": "One bag lasts me nearly two weeks."
+  },
+  {
+   "s": "Ich habe wenig Kehricht.",
+   "e": "I have little rubbish."
+  },
+  {
+   "s": "Ich koche selber und ich kaufe wenig.",
+   "e": "I cook for myself and I buy little."
+  },
+  {
+   "s": "Frau Amrein hat noch weniger.",
+   "e": "Frau Amrein has even less."
+  },
+  {
+   "s": "Sie braucht einen Sack im Monat.",
+   "e": "She uses one bag a month."
+  },
+  {
+   "s": "Einen im Monat, sagt sie.",
+   "e": "One a month, she says."
+  },
+  {
+   "s": "Sie sagt es nicht stolz.",
+   "e": "She does not say it proudly."
+  },
+  {
+   "s": "Sie sagt es einfach so.",
+   "e": "She just says it."
+  },
+  {
+   "s": "Aber ich höre den Stolz trotzdem.",
+   "e": "But I hear the pride anyway."
+  },
+  {
+   "s": "Ich zähle meine Säcke jetzt auch.",
+   "e": "I count my bags too now."
+  },
+  {
+   "s": "Das ist ein bisschen komisch.",
+   "e": "That is a little odd."
+  },
+  {
+   "s": "Zu Hause zählt niemand seine Säcke.",
+   "e": "At home nobody counts their bags."
+  },
+  {
+   "s": "Hier zählen alle.",
+   "e": "Here everybody counts."
+  },
+  {
+   "s": "Der rote Kleber hängt noch bei mir.",
+   "e": "The red sticker is still at my place."
+  },
+  {
+   "s": "Ich lege ihn in eine Schublade.",
+   "e": "I put it in a drawer."
+  },
+  {
+   "s": "Ich werfe ihn nicht weg.",
+   "e": "I do not throw it away."
+  },
+  {
+   "s": "Er kostet mich fünfundzwanzig Franken und eine Stunde.",
+   "e": "It cost me twenty-five francs and an hour."
+  },
+  {
+   "s": "So etwas soll man behalten.",
+   "e": "That sort of thing you should keep."
+  },
+  {
+   "s": "Jetzt steht mein Sack immer richtig an der Strasse.",
+   "e": "Now my bag always stands out on the street correctly."
+  },
+  {
+   "s": "Blau, zu, und am richtigen Tag.",
+   "e": "Blue, shut, and on the right day."
+  },
+  {
+   "s": "Niemand macht ihn mehr auf.",
+   "e": "Nobody opens it any more."
+  }
+ ]
+}

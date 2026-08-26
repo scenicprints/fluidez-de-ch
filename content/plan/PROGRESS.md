@@ -2,12 +2,12 @@
 
 Written by `stage.py`. Do not edit by hand.
 
-**16 of 192 stories written.**
+**38 of 192 stories written.**
 
 | Phase | | Written | Total |
 |---|---|---|---|
 | 0 | Landing | 16 | 16 |
-| 1 | Settling In | 0 | 22 |
+| 1 | Settling In | 22 | 22 |
 | 2 | Making Friends | 0 | 27 |
 | 3 | Getting About | 0 | 21 |
 | 4 | Close to the Heart | 0 | 36 |
@@ -17,11 +17,11 @@ Written by `stage.py`. Do not edit by hand.
 
 ## Next to write
 
-- `p1-01` **Die Wohnung** - Somewhere to put your things
-- `p1-02` **Frau Amrein** - The door across the landing opens
-- `p1-03` **Die Hausordnung** - Rules on a laminated sheet
-- `p1-04` **Die Waschküche** - A laundry room with a list on the wall
-- `p1-05` **Der Hauswart** - The man who keeps the building
-- `p1-06` **PET, Alu, Karton** - Rubbish, sorted four ways
-- `p1-07` **Der Gebührensack** - You have to buy the bag
-- `p1-08` **Ruhezeiten** - The hours when you make no noise
+- `p2-01` **Das Übliche?** - Somebody knows what you drink
+- `p2-02` **Schönes Wetter heute** - Small talk that goes somewhere
+- `p2-03` **Woher kommst du?** - The question you will answer a thousand times
+- `p2-04` **Was machst du?** - Work, and what it is allowed to mean
+- `p2-05` **Komm essen** - An invitation with no date attached
+- `p2-06` **In der Küche** - A kitchen with four languages in it
+- `p2-07` **Timo** - Somebody your own age from somewhere near
+- `p2-08` **Der Apéro** - Drinks that are not dinner and not nothing

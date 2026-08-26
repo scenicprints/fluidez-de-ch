@@ -1,0 +1,367 @@
+{
+ "id": "p1-15",
+ "title": "Nuno",
+ "desc": "Eighteen years here, and he still says the articles wrong",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Jahr",
+  "reden",
+  "Wort",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Nuno arbeitet im Restaurant.",
+   "e": "Nuno works at the restaurant."
+  },
+  {
+   "s": "Er arbeitet in der Küche.",
+   "e": "He works in the kitchen."
+  },
+  {
+   "s": "Er arbeitet dort seit elf Jahren.",
+   "e": "He has worked there for eleven years."
+  },
+  {
+   "s": "Und er wohnt seit achtzehn Jahren hier.",
+   "e": "And he has lived here for eighteen years."
+  },
+  {
+   "s": "Seit heisst: von damals bis jetzt.",
+   "e": "Seit means: from back then until now."
+  },
+  {
+   "s": "Ich treffe ihn im Laden.",
+   "e": "I meet him in the shop."
+  },
+  {
+   "s": "Wir stehen beide vor dem Käse.",
+   "e": "We are both standing in front of the cheese."
+  },
+  {
+   "s": "Ich schaue lange und nehme nichts.",
+   "e": "I look for a long time and take nothing."
+  },
+  {
+   "s": "Er sagt: Nimm den da.",
+   "e": "He says: take that one."
+  },
+  {
+   "s": "Er zeigt auf einen Käse.",
+   "e": "He points at a cheese."
+  },
+  {
+   "s": "Ich nehme ihn.",
+   "e": "I take it."
+  },
+  {
+   "s": "Er ist gut.",
+   "e": "It is good."
+  },
+  {
+   "s": "So fängt es an.",
+   "e": "That is how it starts."
+  },
+  {
+   "s": "Nuno kommt aus Portugal.",
+   "e": "Nuno comes from Portugal."
+  },
+  {
+   "s": "Er kommt mit zwanzig hierher.",
+   "e": "He came here at twenty."
+  },
+  {
+   "s": "Jetzt ist er achtunddreissig.",
+   "e": "Now he is thirty-eight."
+  },
+  {
+   "s": "Er redet schnell und viel.",
+   "e": "He talks fast and a lot."
+  },
+  {
+   "s": "Er redet ganz anders als Frau Amrein.",
+   "e": "He talks completely differently from Frau Amrein."
+  },
+  {
+   "s": "Sie redet langsam und wenig.",
+   "e": "She talks slowly and little."
+  },
+  {
+   "s": "Er redet schnell und über alles.",
+   "e": "He talks fast and about everything."
+  },
+  {
+   "s": "Sein Deutsch ist gut.",
+   "e": "His German is good."
+  },
+  {
+   "s": "Er versteht alles und er sagt alles.",
+   "e": "He understands everything and he says everything."
+  },
+  {
+   "s": "Aber er macht immer den gleichen Fehler.",
+   "e": "But he always makes the same mistake."
+  },
+  {
+   "s": "Er sagt der statt die.",
+   "e": "He says der instead of die."
+  },
+  {
+   "s": "Er sagt die statt das.",
+   "e": "He says die instead of das."
+  },
+  {
+   "s": "Er sagt der Küche und die Brot.",
+   "e": "He says der Küche and die Brot."
+  },
+  {
+   "s": "Nach achtzehn Jahren.",
+   "e": "After eighteen years."
+  },
+  {
+   "s": "Ich frage ihn danach.",
+   "e": "I ask him about it."
+  },
+  {
+   "s": "Er lacht.",
+   "e": "He laughs."
+  },
+  {
+   "s": "Er sagt: Ja, ich weiss.",
+   "e": "He says: yes, I know."
+  },
+  {
+   "s": "Er sagt: Alle verstehen mich trotzdem.",
+   "e": "He says: everybody understands me anyway."
+  },
+  {
+   "s": "Das stimmt auch.",
+   "e": "That is true too."
+  },
+  {
+   "s": "Niemand versteht ihn schlechter.",
+   "e": "Nobody understands him less well."
+  },
+  {
+   "s": "Aber alle hören es.",
+   "e": "But everybody hears it."
+  },
+  {
+   "s": "Man hört es sofort.",
+   "e": "You hear it at once."
+  },
+  {
+   "s": "Er sagt: Lern die Artikel jetzt.",
+   "e": "He says: learn the articles now."
+  },
+  {
+   "s": "Er sagt: Lern sie mit dem Wort zusammen.",
+   "e": "He says: learn them together with the word."
+  },
+  {
+   "s": "Nicht Tisch, sondern der Tisch.",
+   "e": "Not Tisch, but der Tisch."
+  },
+  {
+   "s": "Nicht Wohnung, sondern die Wohnung.",
+   "e": "Not Wohnung, but die Wohnung."
+  },
+  {
+   "s": "Er sagt: Ich mache das nicht.",
+   "e": "He says: I did not do that."
+  },
+  {
+   "s": "Und jetzt ist es zu spät.",
+   "e": "And now it is too late."
+  },
+  {
+   "s": "Er sagt es ohne Ärger.",
+   "e": "He says it without bitterness."
+  },
+  {
+   "s": "Aber er sagt es ernst.",
+   "e": "But he says it seriously."
+  },
+  {
+   "s": "Das ist der beste Rat in meinem ersten Monat.",
+   "e": "That is the best advice in my first month."
+  },
+  {
+   "s": "Ich schreibe jedes neue Wort mit dem Artikel auf.",
+   "e": "I write every new word down with its article."
+  },
+  {
+   "s": "Der Schlüssel. Die Waschküche. Das Formular.",
+   "e": "Der Schlüssel. Die Waschküche. Das Formular."
+  },
+  {
+   "s": "Nuno erzählt vom Anfang.",
+   "e": "Nuno talks about the beginning."
+  },
+  {
+   "s": "Am Anfang arbeitet er auf dem Bau.",
+   "e": "At the start he works in construction."
+  },
+  {
+   "s": "Dann in einer Küche.",
+   "e": "Then in a kitchen."
+  },
+  {
+   "s": "Dann in einer besseren Küche.",
+   "e": "Then in a better kitchen."
+  },
+  {
+   "s": "Er sagt: Ich rede zwei Jahre fast nichts.",
+   "e": "He says: for two years I say almost nothing."
+  },
+  {
+   "s": "Er sagt: Ich habe Angst vor Fehlern.",
+   "e": "He says: I am afraid of mistakes."
+  },
+  {
+   "s": "Dann sagt er den wichtigen Satz.",
+   "e": "Then he says the important sentence."
+  },
+  {
+   "s": "Er sagt: Die Fehler sind nicht das Problem.",
+   "e": "He says: the mistakes are not the problem."
+  },
+  {
+   "s": "Das Schweigen ist das Problem.",
+   "e": "The silence is the problem."
+  },
+  {
+   "s": "Zwei Jahre still ist zwei Jahre verloren.",
+   "e": "Two years silent is two years lost."
+  },
+  {
+   "s": "Ich denke an meinen ersten Tag.",
+   "e": "I think about my first day."
+  },
+  {
+   "s": "Vierzig Minuten am Flughafen ohne ein Wort.",
+   "e": "Forty minutes at the airport without a word."
+  },
+  {
+   "s": "Ich verstehe ihn sehr gut.",
+   "e": "I understand him very well."
+  },
+  {
+   "s": "Er fragt mich nach meiner Arbeit.",
+   "e": "He asks me about my work."
+  },
+  {
+   "s": "Ich erzähle ihm davon.",
+   "e": "I tell him about it."
+  },
+  {
+   "s": "Ich mache viele Fehler.",
+   "e": "I make a lot of mistakes."
+  },
+  {
+   "s": "Er korrigiert mich nicht.",
+   "e": "He does not correct me."
+  },
+  {
+   "s": "Er wartet und hört zu.",
+   "e": "He waits and listens."
+  },
+  {
+   "s": "Nur einmal sagt er ein Wort anders.",
+   "e": "Only once does he say a word differently."
+  },
+  {
+   "s": "Er sagt es einfach richtig weiter.",
+   "e": "He simply carries on saying it correctly."
+  },
+  {
+   "s": "Das ist genau wie Lea im Café.",
+   "e": "That is exactly like Lea in the café."
+  },
+  {
+   "s": "So machen es die Leute hier.",
+   "e": "That is how people do it here."
+  },
+  {
+   "s": "Sie sagen nicht: Das ist falsch.",
+   "e": "They do not say: that is wrong."
+  },
+  {
+   "s": "Sie sagen das Wort einfach richtig.",
+   "e": "They just say the word correctly."
+  },
+  {
+   "s": "Und man hört es und behält es.",
+   "e": "And you hear it and keep it."
+  },
+  {
+   "s": "Nuno hat viele Freunde hier.",
+   "e": "Nuno has a lot of friends here."
+  },
+  {
+   "s": "Portugiesen, Schweizer, ein Mann aus Sri Lanka.",
+   "e": "Portuguese, Swiss, a man from Sri Lanka."
+  },
+  {
+   "s": "Er sagt: Ein Viertel von diesem Land kommt von woanders.",
+   "e": "He says: a quarter of this country comes from somewhere else."
+  },
+  {
+   "s": "Das weiss ich nicht.",
+   "e": "I do not know that."
+  },
+  {
+   "s": "Ich denke, ich bin sehr allein hier.",
+   "e": "I think I am very alone here."
+  },
+  {
+   "s": "Ich bin es nicht.",
+   "e": "I am not."
+  },
+  {
+   "s": "Am Ende fragt er: Kochst du?",
+   "e": "At the end he asks: do you cook?"
+  },
+  {
+   "s": "Ein bisschen, sage ich.",
+   "e": "A little, I say."
+  },
+  {
+   "s": "Er sagt: Komm mal vorbei.",
+   "e": "He says: come round some time."
+  },
+  {
+   "s": "Ich frage: Wann?",
+   "e": "I ask: when?"
+  },
+  {
+   "s": "Er lacht wieder.",
+   "e": "He laughs again."
+  },
+  {
+   "s": "Er sagt: Du bist schon fast Schweizer.",
+   "e": "He says: you are almost Swiss already."
+  },
+  {
+   "s": "Ein Schweizer fragt sofort nach dem Datum.",
+   "e": "A Swiss person asks for the date at once."
+  },
+  {
+   "s": "Dann sagt er ein Datum.",
+   "e": "Then he says a date."
+  },
+  {
+   "s": "Freitag um sieben.",
+   "e": "Friday at seven."
+  },
+  {
+   "s": "Und er kommt auch um sieben.",
+   "e": "And he does come at seven."
+  },
+  {
+   "s": "Achtzehn Jahre hier machen auch aus ihm etwas.",
+   "e": "Eighteen years here does something to him too."
+  }
+ ]
+}

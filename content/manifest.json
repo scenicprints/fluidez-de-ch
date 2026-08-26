@@ -169,6 +169,160 @@
    "desc": "A room, a window, and a great deal of quiet",
    "phase": 0,
    "path": "lessons/p0-16.json"
+  },
+  {
+   "id": "p1-01",
+   "title": "Die Wohnung",
+   "desc": "Three keys, and what each one is for",
+   "phase": 1,
+   "path": "lessons/p1-01.json"
+  },
+  {
+   "id": "p1-02",
+   "title": "Frau Amrein",
+   "desc": "She has your name before you have hers",
+   "phase": 1,
+   "path": "lessons/p1-02.json"
+  },
+  {
+   "id": "p1-03",
+   "title": "Die Hausordnung",
+   "desc": "You read it twice and understand about half",
+   "phase": 1,
+   "path": "lessons/p1-03.json"
+  },
+  {
+   "id": "p1-04",
+   "title": "Die Waschküche",
+   "desc": "The rota is the most serious document in the building",
+   "phase": 1,
+   "path": "lessons/p1-04.json"
+  },
+  {
+   "id": "p1-05",
+   "title": "Der Hauswart",
+   "desc": "Ruedi Zemp looks at your bicycle for a long moment and says nothing",
+   "phase": 1,
+   "path": "lessons/p1-05.json"
+  },
+  {
+   "id": "p1-06",
+   "title": "PET, Alu, Karton",
+   "desc": "You put the cardboard out on the wrong morning",
+   "phase": 1,
+   "path": "lessons/p1-06.json"
+  },
+  {
+   "id": "p1-07",
+   "title": "Der Gebührensack",
+   "desc": "Your bag is left behind with a sticker on it",
+   "phase": 1,
+   "path": "lessons/p1-07.json"
+  },
+  {
+   "id": "p1-08",
+   "title": "Ruhezeiten",
+   "desc": "You run a washing machine at eleven and the ceiling knocks",
+   "phase": 1,
+   "path": "lessons/p1-08.json"
+  },
+  {
+   "id": "p1-09",
+   "title": "Die Anmeldung",
+   "desc": "You take a number and wait, and it takes eleven minutes",
+   "phase": 1,
+   "path": "lessons/p1-09.json"
+  },
+  {
+   "id": "p1-10",
+   "title": "Die Krankenkasse",
+   "desc": "You compare eleven of them and pick the one Nuno has",
+   "phase": 1,
+   "path": "lessons/p1-10.json"
+  },
+  {
+   "id": "p1-11",
+   "title": "Ein Brief von der Serafe",
+   "desc": "You read it four times looking for the mistake",
+   "phase": 1,
+   "path": "lessons/p1-11.json"
+  },
+  {
+   "id": "p1-12",
+   "title": "Die Post",
+   "desc": "You queue behind a man paying his bills in cash",
+   "phase": 1,
+   "path": "lessons/p1-12.json"
+  },
+  {
+   "id": "p1-13",
+   "title": "Das Brockenhaus",
+   "desc": "You buy a table better than anything you would have bought new",
+   "phase": 1,
+   "path": "lessons/p1-13.json"
+  },
+  {
+   "id": "p1-14",
+   "title": "Der Nachbar unten",
+   "desc": "He is at your door before you have taken your shoes off",
+   "phase": 1,
+   "path": "lessons/p1-14.json"
+  },
+  {
+   "id": "p1-15",
+   "title": "Nuno",
+   "desc": "Eighteen years here, and he still says the articles wrong",
+   "phase": 1,
+   "path": "lessons/p1-15.json"
+  },
+  {
+   "id": "p1-16",
+   "title": "In der Apotheke",
+   "desc": "You point at your throat and get exactly the right thing",
+   "phase": 1,
+   "path": "lessons/p1-16.json"
+  },
+  {
+   "id": "p1-17",
+   "title": "Das Konto",
+   "desc": "You bring four documents and are asked for a fifth",
+   "phase": 1,
+   "path": "lessons/p1-17.json"
+  },
+  {
+   "id": "p1-18",
+   "title": "Ein Abo",
+   "desc": "You sign for two years without meaning to",
+   "phase": 1,
+   "path": "lessons/p1-18.json"
+  },
+  {
+   "id": "p1-19",
+   "title": "Die Rechnung",
+   "desc": "You pay it at the counter because you do not trust the app yet",
+   "phase": 1,
+   "path": "lessons/p1-19.json"
+  },
+  {
+   "id": "p1-20",
+   "title": "Fasnacht",
+   "desc": "You wake at five to brass instruments deliberately playing wrong",
+   "phase": 1,
+   "path": "lessons/p1-20.json"
+  },
+  {
+   "id": "p1-21",
+   "title": "Falsch getrennt",
+   "desc": "She shows you what you did and then gives you soup",
+   "phase": 1,
+   "path": "lessons/p1-21.json"
+  },
+  {
+   "id": "p1-22",
+   "title": "Ein Monat",
+   "desc": "You come home, and the word you use for it is home",
+   "phase": 1,
+   "path": "lessons/p1-22.json"
   }
  ],
  "scenarios": [
@@ -227,6 +381,48 @@
    "desc": "The shop shut two hours ago",
    "phase": 0,
    "path": "scenarios/sc08.json"
+  },
+  {
+   "id": "sc09",
+   "title": "Die Schlüsselübergabe",
+   "desc": "Three keys and a great deal of information",
+   "phase": 1,
+   "path": "scenarios/sc09.json"
+  },
+  {
+   "id": "sc10",
+   "title": "Am Dienstag gewaschen",
+   "desc": "You used the machine on somebody else’s day",
+   "phase": 1,
+   "path": "scenarios/sc10.json"
+  },
+  {
+   "id": "sc11",
+   "title": "Beim Hauswart",
+   "desc": "Reporting a problem, in the one hour he is there",
+   "phase": 1,
+   "path": "scenarios/sc11.json"
+  },
+  {
+   "id": "sc12",
+   "title": "Bei der Gemeinde",
+   "desc": "Registering, in eleven minutes",
+   "phase": 1,
+   "path": "scenarios/sc12.json"
+  },
+  {
+   "id": "sc13",
+   "title": "Der Nachbar an der Tür",
+   "desc": "He came up two floors in his socks",
+   "phase": 1,
+   "path": "scenarios/sc13.json"
+  },
+  {
+   "id": "sc14",
+   "title": "Bei Nuno",
+   "desc": "Friday at seven, and he does come at seven",
+   "phase": 1,
+   "path": "scenarios/sc14.json"
   }
  ],
  "momo": "bluemli.json"

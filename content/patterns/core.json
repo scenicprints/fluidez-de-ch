@@ -136,5 +136,107 @@
    "Rolltreppe"
   ],
   "text": "German glues nouns end to end and calls the result one word. This looks like the hardest thing about the language and it is one of the easiest.\n\n• Bahn + Hof = **Bahnhof**, the train yard\n• Flug + Hafen = **Flughafen**, the flight harbour\n• Fahr + Plan = **Fahrplan**, the going plan\n• Trink + Wasser = **Trinkwasser**\n\n**The last piece is the word.** A Fahrplan is a plan. A Rolltreppe is a staircase. Everything in front of it is a description.\n\nSo you never have to be taught Vierwaldstättersee. Four, forest places, lake. It is a lake."
+ },
+ {
+  "id": "modalverben",
+  "title": "müssen, dürfen, können — and the verb that gets sent to the end",
+  "min": 4,
+  "trigger": [
+   "müssen",
+   "dürfen",
+   "können",
+   "wollen",
+   "sollen"
+  ],
+  "text": "Five little verbs, and the whole Hausordnung is written out of three of them.\n\n• **müssen** — you have to. *Ich muss die Miete bezahlen.*\n• **dürfen** — you are allowed to. *Man darf nach zehn nicht duschen.*\n• **können** — you are able to. *Ich kann selber putzen.*\n• **wollen** — you want to. *Ich will keine Probleme.*\n• **sollen** — you are supposed to. *Man soll die Treppe putzen.*\n\n**The real verb goes to the END of the clause, and it goes there as an infinitive.** *Ich muss die Wohnung sehr gut **putzen**.* Everything else piles up in the middle and the meaning does not finish until that last word lands.\n\nYou have seen this bracket before: it is the same one a separable verb makes. German opens something at position two and closes it at the end, and once you hear the opening you are waiting for the close.\n\n**darf nicht is a prohibition, muss nicht is not.** *Du darfst nicht* means you may not. *Du musst nicht* means you do not have to."
+ },
+ {
+  "id": "akkusativ",
+  "title": "der becomes den, and nothing else moves",
+  "min": 4,
+  "trigger": [
+   "der",
+   "ein",
+   "kein",
+   "nehmen",
+   "brauchen",
+   "kaufen"
+  ],
+  "text": "A German noun changes with its job in the sentence. The first change worth learning is the accusative — the thing the verb is done TO.\n\n**And it is smaller than it looks. Only the masculine moves.**\n\n• der Tisch → Ich nehme **den** Tisch.\n• ein Stuhl → Ich kaufe **einen** Stuhl.\n• kein Velo → Ich habe **kein** Velo. *(neuter, unchanged)*\n• die Wohnung → Ich putze **die** Wohnung. *(feminine, unchanged)*\n• das Bad → Ich sehe **das** Bad. *(neuter, unchanged)*\n\nThree of the four do nothing at all. Learn **der → den** and **ein → einen** and you have most of it.\n\nThis is why the article has to be learned welded to the noun. If you do not know a Tisch is *der*, you cannot know it becomes *den* — and that is the mistake that never goes away on its own."
+ },
+ {
+  "id": "man",
+  "title": "man — the word every rule is written in",
+  "min": 3,
+  "trigger": [
+   "man",
+   "dürfen",
+   "müssen",
+   "Hausordnung"
+  ],
+  "text": "**man** is not *ein Mann*. It means people-in-general, the way English says \"you\" without meaning you personally.\n\n• *Man darf hier nicht rauchen.* — no smoking here.\n• *Man muss sich eintragen.* — you have to sign up.\n• *Das macht man so.* — that is how it is done.\n\nIt takes the same verb form as *er*: man **darf**, man **muss**, man **macht**.\n\n**Every rule in this country is written with it.** The Hausordnung, the signs at the Sammelstelle, the notice in the Waschküche. Nobody is being told off and nobody is named — the rule simply exists and applies to everybody. That is very Swiss, and once you hear it you hear it everywhere."
+ },
+ {
+  "id": "seit",
+  "title": "seit — where German uses the present and English does not",
+  "min": 3,
+  "trigger": [
+   "seit",
+   "wohnen",
+   "arbeiten",
+   "Jahr"
+  ],
+  "text": "Something that started in the past and is STILL GOING takes the **present tense** in German. English insists on a past form here, and that mismatch is one of the commonest mistakes learners make in both directions.\n\n• *Ich wohne seit einem Monat hier.* — I **have been** living here a month.\n• *Er arbeitet seit elf Jahren dort.* — he **has** worked there eleven years.\n• *Sie wohnt seit vierzig Jahren im gleichen Haus.*\n\nSay *ich habe gewohnt* and a German speaker understands that you have stopped.\n\n**seit takes the dative**, which is why it is *seit einem Monat* and not *seit ein Monat*. That is worth noticing now and not worrying about yet."
+ },
+ {
+  "id": "schuhe",
+  "title": "The shoes come off. Nobody will ask you.",
+  "min": 3,
+  "trigger": [
+   "Schuh",
+   "ausziehen",
+   "Wohnung",
+   "Tür"
+  ],
+  "text": "You take your shoes off at the door. Your own flat, somebody else’s flat, it makes no difference.\n\n**Nobody asks and nobody offers.** The caretaker does it. The men delivering your furniture do it. The neighbour coming up to complain about the noise does it — he climbs two floors in his socks to knock on your door.\n\nThere is no sentence for this. There is a small pile of shoes by every front door and you add yours to it.\n\nKeeping them on is not rude in a loud way. It is the sort of thing nobody mentions and everybody notices, which is the most Swiss category of mistake there is."
+ },
+ {
+  "id": "trennen",
+  "title": "Four bins, and one of them costs money",
+  "min": 3,
+  "trigger": [
+   "trennen",
+   "Kehricht",
+   "Gebührensack",
+   "Sammelstelle",
+   "Karton"
+  ],
+  "text": "Everything gets separated, and it is not only about the environment.\n\n• **Glas** → the Sammelstelle, sorted by colour: white, brown, green\n• **PET** and **Alu** → back to the shop\n• **Papier** and **Karton** → out on the street, flat and tied with string, on their own day\n• **Kehricht** → the Gebührensack, and only that bag\n\n**Here is the part that explains the rest.** Glass, paper and PET cost nothing. The Kehricht costs, because you pay for its collection in the price of the bag — over two francs a bag. Anybody with a lot of rubbish pays a lot.\n\nSo separating carefully is not virtue, it is arithmetic. That is why everybody does it, and why the wrong bag gets opened, looked into, and left on the pavement with a sticker on it."
+ },
+ {
+  "id": "abo",
+  "title": "Everything is an Abo, and every Abo has a Frist",
+  "min": 3,
+  "trigger": [
+   "Abo",
+   "Vertrag",
+   "kündigen",
+   "Frist",
+   "monatlich"
+  ],
+  "text": "The phone, the train, the gym, the newspaper, the insurance. All of it is an **Abo** and all of it renews itself.\n\nTwo words decide everything, and they are the two to find before you sign:\n\n• **die Dauer** — how long it runs. Twenty-four months is normal.\n• **die Frist** — how long before the end you have to give notice. Three months is normal.\n\n**kündigen** is the verb. Not cancelling — giving notice, in writing, in time. Miss the Frist by a day and it runs another year.\n\nA phone for one franc is not a phone for one franc. It is a phone paid for in twenty-four small pieces, and that is in the contract, which is why reading it matters more here than the price does."
+ },
+ {
+  "id": "rechnung",
+  "title": "Bills come on paper, and they have a deadline",
+  "min": 4,
+  "trigger": [
+   "Rechnung",
+   "Betrag",
+   "Frist",
+   "Mahnung",
+   "zahlen"
+  ],
+  "text": "Not by email. On paper, into the letterbox, with a QR code in the bottom right corner.\n\nEverything is in that code — the account, the amount, your name. Hold your phone over it, or put the bill into the machine at the post office, or queue at the counter and pay in cash. All three are normal.\n\n**Three words to read first:**\n• **der Betrag** — the amount\n• **das Datum** — the deadline, usually thirty days\n• **die Mahnung** — what arrives if you miss it, and it costs twenty francs\n\nThe habit everybody here has: the bill comes, you pay it the same day, it goes in the folder. Not because anybody is virtuous, but because a Mahnung is expensive and a second one is worse."
  }
 ]

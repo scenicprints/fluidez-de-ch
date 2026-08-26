@@ -1,0 +1,410 @@
+{
+ "id": "p1-09",
+ "title": "Die Anmeldung",
+ "desc": "You take a number and wait, and it takes eleven minutes",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Anmeldung",
+  "ausfüllen",
+  "Formular",
+  "Gemeinde",
+  "unterschreiben",
+  "geben",
+  "müssen"
+ ],
+ "sn": [
+  {
+   "s": "Ich muss mich anmelden.",
+   "e": "I have to register."
+  },
+  {
+   "s": "Das muss man in zwei Wochen machen.",
+   "e": "You have to do it within two weeks."
+  },
+  {
+   "s": "Zwei Wochen nach dem Umzug.",
+   "e": "Two weeks after moving."
+  },
+  {
+   "s": "Die Anmeldung macht man bei der Gemeinde.",
+   "e": "You register with the commune."
+  },
+  {
+   "s": "Die Gemeinde ist der Anfang von allem.",
+   "e": "The commune is the start of everything."
+  },
+  {
+   "s": "Die Gemeinde ist das Amt von der Stadt.",
+   "e": "The commune is the town's office."
+  },
+  {
+   "s": "Alles fängt bei der Gemeinde an.",
+   "e": "Everything starts with the commune."
+  },
+  {
+   "s": "Ohne Anmeldung gibt es kein Konto.",
+   "e": "Without registering there is no bank account."
+  },
+  {
+   "s": "Ohne Anmeldung gibt es keine Krankenkasse.",
+   "e": "Without registering there is no health insurance."
+  },
+  {
+   "s": "Ohne Anmeldung gibt es fast nichts.",
+   "e": "Without registering there is almost nothing."
+  },
+  {
+   "s": "Frau Amrein sagt: Gehen Sie am Morgen.",
+   "e": "Frau Amrein says: go in the morning."
+  },
+  {
+   "s": "Am Morgen ist es leer, sagt sie.",
+   "e": "In the morning it is empty, she says."
+  },
+  {
+   "s": "Ich gehe um acht Uhr.",
+   "e": "I go at eight o'clock."
+  },
+  {
+   "s": "Das Amt macht um acht auf.",
+   "e": "The office opens at eight."
+  },
+  {
+   "s": "Um acht Uhr null eins ist es offen.",
+   "e": "At one minute past eight it is open."
+  },
+  {
+   "s": "Drinnen ist es hell und still.",
+   "e": "Inside it is bright and quiet."
+  },
+  {
+   "s": "Neben der Tür steht ein Automat.",
+   "e": "There is a machine next to the door."
+  },
+  {
+   "s": "Der Automat gibt Nummern.",
+   "e": "The machine gives out numbers."
+  },
+  {
+   "s": "Ich drücke auf den Automaten.",
+   "e": "I press the machine."
+  },
+  {
+   "s": "Ich bekomme ein Papier mit einer Nummer.",
+   "e": "I get a piece of paper with a number."
+  },
+  {
+   "s": "Meine Nummer ist B zwölf.",
+   "e": "My number is B twelve."
+  },
+  {
+   "s": "An der Wand hängt ein Bildschirm.",
+   "e": "There is a screen on the wall."
+  },
+  {
+   "s": "Auf dem Bildschirm steht eine Nummer.",
+   "e": "There is a number on the screen."
+  },
+  {
+   "s": "B neun.",
+   "e": "B nine."
+  },
+  {
+   "s": "Ich setze mich und warte.",
+   "e": "I sit down and wait."
+  },
+  {
+   "s": "Ich warte drei Minuten.",
+   "e": "I wait three minutes."
+  },
+  {
+   "s": "Dann steht B zehn da.",
+   "e": "Then it says B ten."
+  },
+  {
+   "s": "Dann B elf.",
+   "e": "Then B eleven."
+  },
+  {
+   "s": "Dann B zwölf.",
+   "e": "Then B twelve."
+  },
+  {
+   "s": "Ich gehe zum Schalter vier.",
+   "e": "I go to counter four."
+  },
+  {
+   "s": "Am Schalter sitzt ein junger Mann.",
+   "e": "A young man is sitting at the counter."
+  },
+  {
+   "s": "Er sagt Grüezi.",
+   "e": "He says Grüezi."
+  },
+  {
+   "s": "Ich sage: Grüezi. Ich möchte mich anmelden.",
+   "e": "I say: Grüezi. I would like to register."
+  },
+  {
+   "s": "Er sagt: Sehr gut. Haben Sie einen Ausweis?",
+   "e": "He says: very good. Do you have an ID?"
+  },
+  {
+   "s": "Ich gebe ihm meinen Pass.",
+   "e": "I give him my passport."
+  },
+  {
+   "s": "Er schaut den Ausweis an.",
+   "e": "He looks at the ID."
+  },
+  {
+   "s": "Dann gibt er mir ein Formular.",
+   "e": "Then he gives me a form."
+  },
+  {
+   "s": "Das Formular ist eine Seite.",
+   "e": "The form is one page."
+  },
+  {
+   "s": "Ein Formular mit einer Seite ist gut.",
+   "e": "A one-page form is good."
+  },
+  {
+   "s": "Nur eine Seite.",
+   "e": "Only one page."
+  },
+  {
+   "s": "Ich muss das Formular ausfüllen.",
+   "e": "I have to fill in the form."
+  },
+  {
+   "s": "Ausfüllen dauert vier Minuten.",
+   "e": "Filling it in takes four minutes."
+  },
+  {
+   "s": "Ich fülle jedes Feld aus.",
+   "e": "I fill in every box."
+  },
+  {
+   "s": "Ausfüllen heisst: in jedes Feld etwas schreiben.",
+   "e": "To fill in means: write something in every box."
+  },
+  {
+   "s": "Name. Vorname. Geburtsdatum.",
+   "e": "Surname. First name. Date of birth."
+  },
+  {
+   "s": "Die alte Adresse und die neue Adresse.",
+   "e": "The old address and the new address."
+  },
+  {
+   "s": "Der Beruf.",
+   "e": "Occupation."
+  },
+  {
+   "s": "Die Religion.",
+   "e": "Religion."
+  },
+  {
+   "s": "Bei der Religion halte ich an.",
+   "e": "At religion I stop."
+  },
+  {
+   "s": "Ich frage: Muss ich das ausfüllen?",
+   "e": "I ask: do I have to fill that in?"
+  },
+  {
+   "s": "Er sagt: Nein. Sie können auch nichts schreiben.",
+   "e": "He says: no. You can leave it empty."
+  },
+  {
+   "s": "Die Kirche bekommt hier Steuern, sagt er.",
+   "e": "The church gets tax here, he says."
+  },
+  {
+   "s": "Darum fragt man.",
+   "e": "That is why they ask."
+  },
+  {
+   "s": "Ich schreibe nichts.",
+   "e": "I write nothing."
+  },
+  {
+   "s": "Dann muss ich unterschreiben.",
+   "e": "Then I have to sign."
+  },
+  {
+   "s": "Unterschreiben muss man von Hand.",
+   "e": "You have to sign by hand."
+  },
+  {
+   "s": "Ohne Unterschreiben gilt kein Formular.",
+   "e": "Without signing no form counts."
+  },
+  {
+   "s": "Unterschreiben heisst: den Namen mit der Hand.",
+   "e": "To sign means: your name by hand."
+  },
+  {
+   "s": "Ich unterschreibe unten rechts.",
+   "e": "I sign at the bottom right."
+  },
+  {
+   "s": "Er nimmt das Formular.",
+   "e": "He takes the form."
+  },
+  {
+   "s": "Er schaut es kurz an.",
+   "e": "He looks at it briefly."
+  },
+  {
+   "s": "Er tippt etwas in den Computer.",
+   "e": "He types something into the computer."
+  },
+  {
+   "s": "Ich brauche noch den Mietvertrag, sagt er.",
+   "e": "I also need the rental contract, he says."
+  },
+  {
+   "s": "Ich habe ihn dabei.",
+   "e": "I have it with me."
+  },
+  {
+   "s": "Frau Amrein sagt: Nehmen Sie alles mit.",
+   "e": "Frau Amrein says: take everything with you."
+  },
+  {
+   "s": "Sie hat wieder recht.",
+   "e": "She is right again."
+  },
+  {
+   "s": "Er kopiert den Vertrag.",
+   "e": "He copies the contract."
+  },
+  {
+   "s": "Dann muss ich bezahlen.",
+   "e": "Then I have to pay."
+  },
+  {
+   "s": "Die Anmeldung kostet dreissig Franken.",
+   "e": "Registering costs thirty francs."
+  },
+  {
+   "s": "Ich bezahle mit Münzen.",
+   "e": "I pay with coins."
+  },
+  {
+   "s": "Er gibt mir ein Papier.",
+   "e": "He gives me a piece of paper."
+  },
+  {
+   "s": "Das ist die Bestätigung, sagt er.",
+   "e": "That is the confirmation, he says."
+  },
+  {
+   "s": "Sie brauchen sie für alles andere.",
+   "e": "You need it for everything else."
+  },
+  {
+   "s": "Für die Bank. Für die Krankenkasse.",
+   "e": "For the bank. For health insurance."
+  },
+  {
+   "s": "Verlieren Sie sie nicht, sagt er.",
+   "e": "Do not lose it, he says."
+  },
+  {
+   "s": "Dann sagt er: Willkommen in Luzern.",
+   "e": "Then he says: welcome to Luzern."
+  },
+  {
+   "s": "Er sagt es freundlich und ohne Show.",
+   "e": "He says it warmly and without a fuss."
+  },
+  {
+   "s": "Ich schaue auf die Uhr.",
+   "e": "I look at the clock."
+  },
+  {
+   "s": "Ich bin elf Minuten hier.",
+   "e": "I have been here eleven minutes."
+  },
+  {
+   "s": "Elf Minuten für die ganze Anmeldung.",
+   "e": "Eleven minutes for the whole registration."
+  },
+  {
+   "s": "Zu Hause dauert so etwas einen halben Tag.",
+   "e": "At home something like that takes half a day."
+  },
+  {
+   "s": "Oder man muss zweimal kommen.",
+   "e": "Or you have to come twice."
+  },
+  {
+   "s": "Ich stehe draussen und schaue das Papier an.",
+   "e": "I stand outside and look at the paper."
+  },
+  {
+   "s": "Jetzt bin ich angemeldet.",
+   "e": "Now I am registered."
+  },
+  {
+   "s": "Jetzt stehe ich in einem Computer.",
+   "e": "Now I am in a computer."
+  },
+  {
+   "s": "Die Gemeinde kennt meine Adresse.",
+   "e": "The commune knows my address."
+  },
+  {
+   "s": "Das ist kein schlechtes Gefühl.",
+   "e": "That is not a bad feeling."
+  },
+  {
+   "s": "Es ist eher: jetzt bin ich da.",
+   "e": "It is more: now I am here."
+  },
+  {
+   "s": "Frau Amrein fragt am Abend.",
+   "e": "Frau Amrein asks in the evening."
+  },
+  {
+   "s": "Sie fragt: Und? Angemeldet?",
+   "e": "She asks: well? Registered?"
+  },
+  {
+   "s": "Ja, sage ich. Elf Minuten.",
+   "e": "Yes, I say. Eleven minutes."
+  },
+  {
+   "s": "Sie sagt: Am Morgen ist es leer.",
+   "e": "She says: in the morning it is empty."
+  },
+  {
+   "s": "Sie sagt es wie ihre eigene Idee.",
+   "e": "She says it like her own idea."
+  },
+  {
+   "s": "Es ist auch ihre Idee.",
+   "e": "It was her idea."
+  },
+  {
+   "s": "Ich lege die Bestätigung in eine Mappe.",
+   "e": "I put the confirmation in a folder."
+  },
+  {
+   "s": "Die Mappe ist noch fast leer.",
+   "e": "The folder is still nearly empty."
+  },
+  {
+   "s": "Aber sie wird voll.",
+   "e": "But it fills up."
+  },
+  {
+   "s": "In diesem Land bekommt man viel Papier.",
+   "e": "In this country you get a lot of paper."
+  }
+ ]
+}

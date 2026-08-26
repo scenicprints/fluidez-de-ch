@@ -1,0 +1,388 @@
+{
+ "id": "p1-18",
+ "title": "Ein Abo",
+ "desc": "You sign for two years without meaning to",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Abo",
+  "kündigen",
+  "Vertrag",
+  "Frist",
+  "Handy",
+  "Monat",
+  "zweit",
+  "können",
+  "Franken"
+ ],
+ "sn": [
+  {
+   "s": "Ich brauche eine Nummer für mein Handy.",
+   "e": "I need a number for my phone."
+  },
+  {
+   "s": "Meine alte Nummer funktioniert hier nicht.",
+   "e": "My old number does not work here."
+  },
+  {
+   "s": "Ich gehe in einen Laden.",
+   "e": "I go into a shop."
+  },
+  {
+   "s": "Im Laden gibt es Handys und Verträge.",
+   "e": "In the shop there are phones and contracts."
+  },
+  {
+   "s": "Ein Vertrag heisst hier Abo.",
+   "e": "A contract here is called an Abo."
+  },
+  {
+   "s": "Abo ist ein wichtiges Wort.",
+   "e": "Abo is an important word."
+  },
+  {
+   "s": "Alles hier ist ein Abo.",
+   "e": "Everything here is an Abo."
+  },
+  {
+   "s": "Das Handy ist ein Abo.",
+   "e": "The phone is an Abo."
+  },
+  {
+   "s": "Der Zug ist ein Abo.",
+   "e": "The train is an Abo."
+  },
+  {
+   "s": "Das Fitnesscenter ist ein Abo.",
+   "e": "The gym is an Abo."
+  },
+  {
+   "s": "Die Zeitung ist ein Abo.",
+   "e": "The newspaper is an Abo."
+  },
+  {
+   "s": "Ein Abo bezahlt man monatlich.",
+   "e": "You pay an Abo monthly."
+  },
+  {
+   "s": "Monatlich heisst: jeden Monat.",
+   "e": "Monatlich means: every month."
+  },
+  {
+   "s": "Und jedes Abo hat eine Frist.",
+   "e": "And every Abo has a notice period."
+  },
+  {
+   "s": "Die Frist steht immer im Vertrag.",
+   "e": "The notice period is always in the contract."
+  },
+  {
+   "s": "Ohne Frist kann man jederzeit aufhören.",
+   "e": "With no notice period you can stop any time."
+  },
+  {
+   "s": "Man kann nicht einfach aufhören.",
+   "e": "You cannot simply stop."
+  },
+  {
+   "s": "Man muss kündigen.",
+   "e": "You have to give notice."
+  },
+  {
+   "s": "Und man muss früh genug kündigen.",
+   "e": "And you have to give notice early enough."
+  },
+  {
+   "s": "Das weiss ich alles noch nicht.",
+   "e": "I do not know any of that yet."
+  },
+  {
+   "s": "Im Laden steht ein junger Mann.",
+   "e": "There is a young man in the shop."
+  },
+  {
+   "s": "Er ist freundlich und schnell.",
+   "e": "He is friendly and fast."
+  },
+  {
+   "s": "Er zeigt mir drei Angebote.",
+   "e": "He shows me three offers."
+  },
+  {
+   "s": "Das erste kostet fünfzig Franken im Monat.",
+   "e": "The first costs fifty francs a month."
+  },
+  {
+   "s": "Das zweite kostet dreissig.",
+   "e": "The second costs thirty."
+  },
+  {
+   "s": "Das dritte kostet zwanzig.",
+   "e": "The third costs twenty."
+  },
+  {
+   "s": "Ich will das billigste.",
+   "e": "I want the cheapest."
+  },
+  {
+   "s": "Er sagt: Das dritte ist gut.",
+   "e": "He says: the third is good."
+  },
+  {
+   "s": "Er sagt: Aber schauen Sie das zweite an.",
+   "e": "He says: but look at the second."
+  },
+  {
+   "s": "Das zweite hat mehr Daten.",
+   "e": "The second has more data."
+  },
+  {
+   "s": "Und das Handy kostet dann nur einen Franken.",
+   "e": "And then the phone only costs one franc."
+  },
+  {
+   "s": "Ein Handy für einen Franken.",
+   "e": "A phone for one franc."
+  },
+  {
+   "s": "Das klingt sehr gut.",
+   "e": "That sounds very good."
+  },
+  {
+   "s": "Ich nehme das zweite.",
+   "e": "I take the second."
+  },
+  {
+   "s": "Er tippt in den Computer.",
+   "e": "He types into the computer."
+  },
+  {
+   "s": "Dann kommt ein Vertrag aus dem Drucker.",
+   "e": "Then a contract comes out of the printer."
+  },
+  {
+   "s": "Der Vertrag hat drei Seiten.",
+   "e": "The contract has three pages."
+  },
+  {
+   "s": "Er zeigt mir die Linie für die Unterschrift.",
+   "e": "He shows me the line for the signature."
+  },
+  {
+   "s": "Ich unterschreibe.",
+   "e": "I sign."
+  },
+  {
+   "s": "Ich lese den Vertrag nicht.",
+   "e": "I do not read the contract."
+  },
+  {
+   "s": "Das ist ein Fehler.",
+   "e": "That is a mistake."
+  },
+  {
+   "s": "Zu Hause lese ich ihn.",
+   "e": "At home I read it."
+  },
+  {
+   "s": "Ich lese ihn langsam mit dem Wörterbuch.",
+   "e": "I read it slowly with the dictionary."
+  },
+  {
+   "s": "Auf der zweiten Seite steht eine Zahl.",
+   "e": "On the second page there is a number."
+  },
+  {
+   "s": "Vierundzwanzig Monate.",
+   "e": "Twenty-four months."
+  },
+  {
+   "s": "Der Vertrag läuft zwei Jahre.",
+   "e": "The contract runs for two years."
+  },
+  {
+   "s": "Zwei Jahre.",
+   "e": "Two years."
+  },
+  {
+   "s": "Das Handy für einen Franken ist nicht gratis.",
+   "e": "The phone for one franc is not free."
+  },
+  {
+   "s": "Ich bezahle es zwei Jahre lang.",
+   "e": "I pay for it over two years."
+  },
+  {
+   "s": "Ein bisschen jeden Monat.",
+   "e": "A little every month."
+  },
+  {
+   "s": "Das ist kein Betrug.",
+   "e": "That is not a swindle."
+  },
+  {
+   "s": "Es steht ja im Vertrag.",
+   "e": "It is in the contract after all."
+  },
+  {
+   "s": "Ich lese ihn einfach nicht.",
+   "e": "I simply do not read it."
+  },
+  {
+   "s": "Am nächsten Tag frage ich Nuno.",
+   "e": "The next day I ask Nuno."
+  },
+  {
+   "s": "Er sagt: Zwei Jahre? Ja, das ist normal.",
+   "e": "He says: two years? Yes, that is normal."
+  },
+  {
+   "s": "Er sagt: Aber du brauchst kein Handy vom Laden.",
+   "e": "He says: but you do not need a phone from the shop."
+  },
+  {
+   "s": "Er sagt: Du kannst auch nur eine Karte kaufen.",
+   "e": "He says: you can also just buy a SIM."
+  },
+  {
+   "s": "Ohne Abo. Ohne Vertrag.",
+   "e": "Without an Abo. Without a contract."
+  },
+  {
+   "s": "Man bezahlt jeden Monat und kann jederzeit aufhören.",
+   "e": "You pay each month and can stop any time."
+  },
+  {
+   "s": "Das ist ein bisschen teurer.",
+   "e": "That is a bit more expensive."
+  },
+  {
+   "s": "Aber man ist frei.",
+   "e": "But you are free."
+  },
+  {
+   "s": "Ich frage: Kann ich noch kündigen?",
+   "e": "I ask: can I still cancel?"
+  },
+  {
+   "s": "Er sagt: Vielleicht. In den ersten Tagen.",
+   "e": "He says: maybe. In the first few days."
+  },
+  {
+   "s": "Ich gehe wieder in den Laden.",
+   "e": "I go back to the shop."
+  },
+  {
+   "s": "Der junge Mann ist da.",
+   "e": "The young man is there."
+  },
+  {
+   "s": "Ich sage: Ich möchte den Vertrag kündigen.",
+   "e": "I say: I would like to cancel the contract."
+  },
+  {
+   "s": "Er schaut in den Computer.",
+   "e": "He looks in the computer."
+  },
+  {
+   "s": "Er sagt: Sie haben vierzehn Tage.",
+   "e": "He says: you have fourteen days."
+  },
+  {
+   "s": "Ich bin am fünften Tag.",
+   "e": "I am on the fifth day."
+  },
+  {
+   "s": "Er kündigt den Vertrag.",
+   "e": "He cancels the contract."
+  },
+  {
+   "s": "Er ist nicht böse.",
+   "e": "He is not annoyed."
+  },
+  {
+   "s": "Er sagt: Kein Problem. Das machen viele.",
+   "e": "He says: no problem. A lot of people do."
+  },
+  {
+   "s": "Ich gebe das Handy zurück.",
+   "e": "I give the phone back."
+  },
+  {
+   "s": "Dann kaufe ich nur eine Karte.",
+   "e": "Then I buy just a SIM."
+  },
+  {
+   "s": "Fünfundzwanzig Franken im Monat.",
+   "e": "Twenty-five francs a month."
+  },
+  {
+   "s": "Und ich kann jeden Monat aufhören.",
+   "e": "And I can stop any month."
+  },
+  {
+   "s": "Das ist die bessere Lösung für mich.",
+   "e": "That is the better solution for me."
+  },
+  {
+   "s": "Jetzt lese ich jeden Vertrag.",
+   "e": "Now I read every contract."
+  },
+  {
+   "s": "Ich lese ihn ganz, auch wenn es lange dauert.",
+   "e": "I read all of it, even when it takes a long time."
+  },
+  {
+   "s": "Ich suche zuerst zwei Sachen.",
+   "e": "I look for two things first."
+  },
+  {
+   "s": "Die Dauer und die Frist.",
+   "e": "The duration and the notice period."
+  },
+  {
+   "s": "Wie lange läuft es und wann kann ich kündigen.",
+   "e": "How long does it run and when can I cancel."
+  },
+  {
+   "s": "Alles andere kommt danach.",
+   "e": "Everything else comes after that."
+  },
+  {
+   "s": "Frau Amrein hört von dem Handy.",
+   "e": "Frau Amrein hears about the phone."
+  },
+  {
+   "s": "Sie sagt nur einen Satz.",
+   "e": "She says only one sentence."
+  },
+  {
+   "s": "Sie sagt: Man muss immer alles lesen.",
+   "e": "She says: you always have to read everything."
+  },
+  {
+   "s": "Sie sagt es ohne Schadenfreude.",
+   "e": "She says it without gloating."
+  },
+  {
+   "s": "Sie sagt es wie das Wetter.",
+   "e": "She says it like the weather."
+  },
+  {
+   "s": "Ein Abo ist schnell unterschrieben.",
+   "e": "An Abo is quickly signed."
+  },
+  {
+   "s": "Und dann läuft es zwei Jahre weiter.",
+   "e": "And then it runs on for two years."
+  },
+  {
+   "s": "Das ist das Land der Abos.",
+   "e": "This is the land of the Abo."
+  },
+  {
+   "s": "Und der Fristen.",
+   "e": "And of notice periods."
+  }
+ ]
+}

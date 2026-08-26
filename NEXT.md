@@ -1,6 +1,6 @@
 # START HERE — where the German course stands
 
-**Phase 0 is written. The plan is finished and it is not up for
+**Phases 0 and 1 are written. The plan is finished and it is not up for
 relitigating.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
@@ -10,7 +10,7 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **192** | 8 phases, **16 written** (phase 0 complete) |
+| Stories planned | **192** | 8 phases, **38 written** (phases 0 and 1 complete) |
 | App support | **shipped** | v2.8.25, mascot + palette + English interface + switcher |
 | Stories on people | **62** | phases 4 and 5, a third of the course |
 
@@ -401,6 +401,55 @@ Two smaller ones fixed at the same time:
   scene could push a pattern over its threshold and the pattern would sit
   reading "0 more words to go" and stay locked until a lesson happened to be
   read next. `answerScene` calls `checkPatterns()` now.
+
+## 16. Phase 1 — Settling In, 22 stories, DONE 2026-08-26
+
+Built the same way phase 0 was: stories first, then the dictionary, verbs,
+patterns and scenes written against them, all in one batch.
+
+| | | |
+|---|---|---|
+| Stories | **38** total | 22 new, ~18,300 running words |
+| Dictionary | **950** | +284 |
+| Verbs | **177** | +73, every form stated |
+| Patterns | **18** | +8 |
+| Scenes | **14** | +6 |
+| Tappable | **97.8%** phase 1, 99.2% phase 0 | |
+| Warm-ups | 289 words, median 8 | |
+
+The cast arrives: **Frau Amrein** across the landing, **Ruedi Zemp** the
+Hauswart, **Herr Bucher** below, **Nuno** in the restaurant kitchen. The
+building teaches the grammar — the Hausordnung is modal verbs and nothing
+else, which is exactly why Kevin put Settling In at position 1.
+
+### What the phase taught about writing the next one
+
+- **Phase 1's own grammar is the discipline.** It teaches VERB SECOND, and a
+  subordinate clause is precisely where verb-second stops applying. Writing
+  *Sie fragt, wie ich heisse* while teaching V2 undercuts the lesson, so the
+  sweep replaced 43 of them — mostly by turning indirect questions into direct
+  ones, which is inside the phase AND better writing: *Sie fragt: Wie heissen
+  Sie?* is what she actually says.
+- **schedule.py fired again and was right again.** 86 sentences were added to
+  lift phase 1's central words from three or four uses to five. Warm-ups went
+  from 237 words to 289. Same lesson as phase 0: the story is ABOUT those
+  words and was only mentioning them.
+- **RETURN is finally live.** With 38 stories it judges 94 of 281 declared
+  words, and 54 are exempt as one-scene. It abstained entirely on phase 0.
+- **`forms.py` had a real bug that only 38 stories exposed.** The epenthetic-e
+  rule was the one you find in a grammar — "a consonant plus m or n" — and it
+  is too broad: it turned *wohnen* into *wohnet* and *lernen* into *lernet*.
+  Only a short list of clusters genuinely needs the e (dm, tm, gn, chn, ffn,
+  dn, tn). Tappability went 97.4% → 98.2% on that one fix.
+- **Hoi, Sali and tiptop are taught now**, in `sc14` where Nuno greets you, so
+  the three Blüemli lines mascot.py pulled in phase 0 are back. **fein** is
+  still untaught and its line is still waiting.
+
+### Known and small
+
+`aufpassen` and `aufwachen` accumulate no memory: each appears once, and once
+is not enough for the reader to bind. Not a bug — they are simply barely used.
+If phase 2 does not pick them up, drop them from `verbs.json`.
 
 ## 15. `reconcile.py` — DONE, and it does one thing es-ni's does not
 

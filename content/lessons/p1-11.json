@@ -1,0 +1,383 @@
+{
+ "id": "p1-11",
+ "title": "Ein Brief von der Serafe",
+ "desc": "You read it four times looking for the mistake",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Haushalt",
+  "Fernseher",
+  "Radio",
+  "abstimmen",
+  "Brief",
+  "ja",
+  "Mal",
+  "bezahlen"
+ ],
+ "sn": [
+  {
+   "s": "Im Briefkasten liegt ein Brief.",
+   "e": "There is a letter in the letterbox."
+  },
+  {
+   "s": "Der Brief ist weiss und dünn.",
+   "e": "The letter is white and thin."
+  },
+  {
+   "s": "Oben steht ein Name: Serafe.",
+   "e": "At the top there is a name: Serafe."
+  },
+  {
+   "s": "Ich kenne den Namen nicht.",
+   "e": "I do not know the name."
+  },
+  {
+   "s": "Ich öffne den Brief.",
+   "e": "I open the letter."
+  },
+  {
+   "s": "Im Brief ist eine Rechnung.",
+   "e": "In the letter there is a bill."
+  },
+  {
+   "s": "Auf der Rechnung steht ein Betrag.",
+   "e": "There is an amount on the bill."
+  },
+  {
+   "s": "Der Betrag ist dreihundertfünfunddreissig Franken.",
+   "e": "The amount is three hundred and thirty-five francs."
+  },
+  {
+   "s": "Dreihundertfünfunddreissig Franken im Jahr.",
+   "e": "Three hundred and thirty-five francs a year."
+  },
+  {
+   "s": "Ich lese den Brief noch einmal.",
+   "e": "I read the letter again."
+  },
+  {
+   "s": "Es geht um Radio und Fernsehen.",
+   "e": "It is about radio and television."
+  },
+  {
+   "s": "Ich habe auch kein Radio.",
+   "e": "I do not have a radio either."
+  },
+  {
+   "s": "Radio hört hier fast jeder im Auto.",
+   "e": "Nearly everybody here listens to the radio in the car."
+  },
+  {
+   "s": "Ich habe keinen Fernseher.",
+   "e": "I do not have a television."
+  },
+  {
+   "s": "Ich habe wirklich keinen Fernseher.",
+   "e": "I really do not have a television."
+  },
+  {
+   "s": "Ich habe fast keine Möbel.",
+   "e": "I have almost no furniture."
+  },
+  {
+   "s": "Ich lese den Brief ein drittes Mal.",
+   "e": "I read the letter a third time."
+  },
+  {
+   "s": "Ich suche den Fehler.",
+   "e": "I look for the mistake."
+  },
+  {
+   "s": "Vielleicht ist es der falsche Name.",
+   "e": "Maybe it is the wrong name."
+  },
+  {
+   "s": "Der Name ist richtig.",
+   "e": "The name is right."
+  },
+  {
+   "s": "Vielleicht ist es die falsche Adresse.",
+   "e": "Maybe it is the wrong address."
+  },
+  {
+   "s": "Die Adresse ist auch richtig.",
+   "e": "The address is right too."
+  },
+  {
+   "s": "Ich lese ihn ein viertes Mal.",
+   "e": "I read it a fourth time."
+  },
+  {
+   "s": "Es gibt keinen Fehler.",
+   "e": "There is no mistake."
+  },
+  {
+   "s": "Ich gehe zu Frau Amrein.",
+   "e": "I go to Frau Amrein."
+  },
+  {
+   "s": "Ich zeige ihr die Rechnung.",
+   "e": "I show her the bill."
+  },
+  {
+   "s": "Ich sage: Ich habe keinen Fernseher.",
+   "e": "I say: I do not have a television."
+  },
+  {
+   "s": "Sie schaut die Rechnung an.",
+   "e": "She looks at the bill."
+  },
+  {
+   "s": "Sie gibt sie mir zurück.",
+   "e": "She gives it back to me."
+  },
+  {
+   "s": "Sie sagt: Das spielt keine Rolle.",
+   "e": "She says: that makes no difference."
+  },
+  {
+   "s": "Ich verstehe nicht.",
+   "e": "I do not understand."
+  },
+  {
+   "s": "Sie erklärt es langsam.",
+   "e": "She explains it slowly."
+  },
+  {
+   "s": "Die Gebühr ist pro Haushalt.",
+   "e": "The fee is per household."
+  },
+  {
+   "s": "Ein Haushalt mit vier Leuten bezahlt gleich viel.",
+   "e": "A household of four pays the same."
+  },
+  {
+   "s": "Jeder Haushalt bekommt den gleichen Brief.",
+   "e": "Every household gets the same letter."
+  },
+  {
+   "s": "Ein Haushalt ist eine Wohnung mit Menschen darin.",
+   "e": "A household is a flat with people in it."
+  },
+  {
+   "s": "Jeder Haushalt bezahlt.",
+   "e": "Every household pays."
+  },
+  {
+   "s": "Mit Fernseher oder ohne Fernseher.",
+   "e": "With a television or without one."
+  },
+  {
+   "s": "Mit Radio oder ohne Radio.",
+   "e": "With a radio or without one."
+  },
+  {
+   "s": "Alle bezahlen gleich viel.",
+   "e": "Everybody pays the same."
+  },
+  {
+   "s": "Ich sage: Aber das ist doch komisch.",
+   "e": "I say: but that is odd."
+  },
+  {
+   "s": "Sie sagt: Ja.",
+   "e": "She says: yes."
+  },
+  {
+   "s": "Dann sagt sie nichts mehr dazu.",
+   "e": "Then she says nothing more about it."
+  },
+  {
+   "s": "Das heisst: die Diskussion ist fertig.",
+   "e": "That means: the discussion is over."
+  },
+  {
+   "s": "Am Abend frage ich Nuno.",
+   "e": "In the evening I ask Nuno."
+  },
+  {
+   "s": "Er lacht wieder.",
+   "e": "He laughs again."
+  },
+  {
+   "s": "Er sagt: Die Serafe. Ja.",
+   "e": "He says: the Serafe. Yes."
+  },
+  {
+   "s": "Er sagt: Alle klagen und alle zahlen.",
+   "e": "He says: everybody complains and everybody pays."
+  },
+  {
+   "s": "Er sagt: Das Volk stimmt darüber ab.",
+   "e": "He says: the people vote on it."
+  },
+  {
+   "s": "Das Volk sagt Ja.",
+   "e": "The people said yes."
+  },
+  {
+   "s": "Also ist es so.",
+   "e": "So that is how it is."
+  },
+  {
+   "s": "Das ist hier die Antwort auf viele Fragen.",
+   "e": "That is the answer to a lot of questions here."
+  },
+  {
+   "s": "Warum ist das so?",
+   "e": "Why is it like that?"
+  },
+  {
+   "s": "Denn das Volk sagt Ja.",
+   "e": "Because the people say yes."
+  },
+  {
+   "s": "Man kann über alles abstimmen.",
+   "e": "You can vote on anything."
+  },
+  {
+   "s": "Vier Mal im Jahr stimmt das Volk ab.",
+   "e": "Four times a year the people vote."
+  },
+  {
+   "s": "Über die Gebühr stimmt man auch ab.",
+   "e": "They vote on the fee too."
+  },
+  {
+   "s": "Vier Mal im Jahr kommt ein Kuvert.",
+   "e": "Four times a year an envelope comes."
+  },
+  {
+   "s": "Im Kuvert sind Fragen.",
+   "e": "In the envelope there are questions."
+  },
+  {
+   "s": "Man kreuzt Ja oder Nein an.",
+   "e": "You tick yes or no."
+  },
+  {
+   "s": "Dann wirft man es in den Briefkasten.",
+   "e": "Then you put it in the letterbox."
+  },
+  {
+   "s": "Ich darf noch nicht abstimmen.",
+   "e": "I am not allowed to vote yet."
+  },
+  {
+   "s": "Dafür braucht man den Pass von hier.",
+   "e": "For that you need a passport from here."
+  },
+  {
+   "s": "Und das dauert viele Jahre.",
+   "e": "And that takes many years."
+  },
+  {
+   "s": "Aber ich bezahle die Gebühr trotzdem.",
+   "e": "But I pay the fee anyway."
+  },
+  {
+   "s": "Das finde ich am Anfang unfair.",
+   "e": "At first I find that unfair."
+  },
+  {
+   "s": "Nuno sagt: Ja, das ist es auch.",
+   "e": "Nuno says: yes, it is."
+  },
+  {
+   "s": "Er sagt es ohne Ärger.",
+   "e": "He says it without anger."
+  },
+  {
+   "s": "Nach achtzehn Jahren ärgert er sich nicht mehr.",
+   "e": "After eighteen years he does not get annoyed any more."
+  },
+  {
+   "s": "Ich schaue die Rechnung noch einmal an.",
+   "e": "I look at the bill again."
+  },
+  {
+   "s": "Unten ist ein Feld mit einem QR-Code.",
+   "e": "At the bottom there is a box with a QR code."
+  },
+  {
+   "s": "Fast jede Rechnung hier hat das.",
+   "e": "Nearly every bill here has one."
+  },
+  {
+   "s": "Man kann sie am Automaten bezahlen.",
+   "e": "You can pay it at the machine."
+  },
+  {
+   "s": "Oder mit dem Handy.",
+   "e": "Or with your phone."
+  },
+  {
+   "s": "Oder man geht auf die Post.",
+   "e": "Or you go to the post office."
+  },
+  {
+   "s": "Ich bezahle sie auf der Post.",
+   "e": "I pay it at the post office."
+  },
+  {
+   "s": "Ich zahle den ganzen Betrag auf einmal.",
+   "e": "I pay the whole amount at once."
+  },
+  {
+   "s": "Man kann auch vier Mal im Jahr zahlen.",
+   "e": "You can also pay four times a year."
+  },
+  {
+   "s": "Aber dann kostet es ein bisschen mehr.",
+   "e": "But then it costs a little more."
+  },
+  {
+   "s": "Fast alles hier funktioniert so.",
+   "e": "Almost everything here works like that."
+  },
+  {
+   "s": "Auf einmal ist billiger.",
+   "e": "All at once is cheaper."
+  },
+  {
+   "s": "Ich lege die Rechnung in meine Mappe.",
+   "e": "I put the bill in my folder."
+  },
+  {
+   "s": "Die Mappe ist jetzt nicht mehr leer.",
+   "e": "The folder is not empty any more."
+  },
+  {
+   "s": "Die Anmeldung. Die Krankenkasse. Die Serafe.",
+   "e": "The registration. The insurance. The Serafe."
+  },
+  {
+   "s": "Drei Papiere in drei Wochen.",
+   "e": "Three pieces of paper in three weeks."
+  },
+  {
+   "s": "In einem Monat lerne ich mehr über Briefe als über Deutsch.",
+   "e": "In one month I learn more about letters than about German."
+  },
+  {
+   "s": "Aber das ist auch Deutsch.",
+   "e": "But that is German too."
+  },
+  {
+   "s": "Betrag. Haushalt. Gebühr. Abstimmung.",
+   "e": "Amount. Household. Fee. Vote."
+  },
+  {
+   "s": "Diese Wörter stehen in keinem Buch für Anfänger.",
+   "e": "Those words are in no beginner's book."
+  },
+  {
+   "s": "Aber sie kommen jeden Monat in den Briefkasten.",
+   "e": "But they come into the letterbox every month."
+  },
+  {
+   "s": "Also lerne ich sie zuerst.",
+   "e": "So I learn them first."
+  }
+ ]
+}

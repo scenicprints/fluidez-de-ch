@@ -1,0 +1,109 @@
+{
+ "id": "sc09",
+ "title": "Die Schlüsselübergabe",
+ "desc": "Three keys and a great deal of information",
+ "setting": "Two o’clock, an empty flat, and a landlord who says everything twice.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Herr Kaufmann",
+   "es": "Grüezi. Also, das ist die Wohnung.",
+   "en": "Grüezi. So, this is the flat.",
+   "options": [
+    {
+     "es": "Grüezi, Herr Kaufmann. Sehr schön.",
+     "en": "Grüezi, Herr Kaufmann. Very nice.",
+     "verdict": "good",
+     "feedback": "His name back to him. Nobody here minds being called by it, and using it says you were listening."
+    },
+    {
+     "es": "Grüezi. Danke.",
+     "en": "Grüezi. Thanks.",
+     "verdict": "ok",
+     "feedback": "Fine. Merci is the word you will hear back from him."
+    },
+    {
+     "es": "Ist sie immer so leer?",
+     "en": "Is it always this empty?",
+     "verdict": "bad",
+     "feedback": "It is empty because it was handed over cleaned to the corner, which is what he is about to explain."
+    }
+   ]
+  },
+  {
+   "speaker": "Herr Kaufmann",
+   "es": "Der erste Schlüssel ist für die Wohnung, der zweite für das Haus.",
+   "en": "The first key is for the flat, the second for the building.",
+   "options": [
+    {
+     "es": "Und der dritte?",
+     "en": "And the third?",
+     "verdict": "good",
+     "feedback": "There is always a third and it is always the cellar. Asking is quicker than being told twice."
+    },
+    {
+     "es": "Gut, ich verstehe.",
+     "en": "Good, I understand.",
+     "verdict": "ok",
+     "feedback": "He will say it again anyway. He says everything twice."
+    },
+    {
+     "es": "Brauche ich drei Schlüssel?",
+     "en": "Do I need three keys?",
+     "verdict": "ok",
+     "feedback": "You do. The cellar is where your bike is going to live."
+    }
+   ]
+  },
+  {
+   "speaker": "Herr Kaufmann",
+   "es": "Nach dem Duschen müssen Sie das Fenster aufmachen. Sonst gibt es Schimmel.",
+   "en": "After showering you have to open the window. Otherwise you get mould.",
+   "options": [
+    {
+     "es": "Gut. Das mache ich.",
+     "en": "Right. I will do that.",
+     "verdict": "good",
+     "feedback": "Short and it is a promise. Mould at the handover comes out of your deposit."
+    },
+    {
+     "es": "Auch im Winter?",
+     "en": "In winter too?",
+     "verdict": "good",
+     "feedback": "Especially in winter. Asking shows you took it as a rule and not as small talk."
+    },
+    {
+     "es": "Ich dusche nicht oft.",
+     "en": "I do not shower often.",
+     "verdict": "bad",
+     "feedback": "He will let that pass and he will remember it."
+    }
+   ]
+  },
+  {
+   "speaker": "Herr Kaufmann",
+   "es": "Die Miete müssen Sie bis am dritten bezahlen. Nicht am vierten.",
+   "en": "You have to pay the rent by the third. Not the fourth.",
+   "options": [
+    {
+     "es": "Bis am dritten. Ich schreibe es auf.",
+     "en": "By the third. I will write it down.",
+     "verdict": "good",
+     "feedback": "He said a date and a not-date. Repeating the date back is the whole answer."
+    },
+    {
+     "es": "Kein Problem.",
+     "en": "No problem.",
+     "verdict": "ok",
+     "feedback": "True, and it does not show him you registered which day."
+    },
+    {
+     "es": "Und wenn ich es vergesse?",
+     "en": "And if I forget?",
+     "verdict": "bad",
+     "feedback": "Then a Mahnung comes, it costs twenty francs, and you have just told your landlord you might."
+    }
+   ]
+  }
+ ]
+}

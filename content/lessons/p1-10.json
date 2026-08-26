@@ -1,0 +1,385 @@
+{
+ "id": "p1-10",
+ "title": "Die Krankenkasse",
+ "desc": "You compare eleven of them and pick the one Nuno has",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Prämie",
+  "wählen",
+  "vergleichen",
+  "Franchise",
+  "Krankenkasse",
+  "gleich"
+ ],
+ "sn": [
+  {
+   "s": "Ich bekomme einen Brief von der Gemeinde.",
+   "e": "I get a letter from the commune."
+  },
+  {
+   "s": "Im Brief steht ein Wort: Krankenkasse.",
+   "e": "In the letter there is one word: health insurance."
+  },
+  {
+   "s": "Ich muss eine Krankenkasse wählen.",
+   "e": "I have to choose a health insurance company."
+  },
+  {
+   "s": "Wählen muss man selber.",
+   "e": "You have to choose yourself."
+  },
+  {
+   "s": "Man kann jedes Jahr neu wählen.",
+   "e": "You can choose again every year."
+  },
+  {
+   "s": "Ich muss das in drei Monaten machen.",
+   "e": "I have to do it within three months."
+  },
+  {
+   "s": "Eine Krankenkasse ist Pflicht.",
+   "e": "Health insurance is compulsory."
+  },
+  {
+   "s": "Jeder Mensch hier braucht eine.",
+   "e": "Every person here needs one."
+  },
+  {
+   "s": "Auch Kinder. Auch alte Leute.",
+   "e": "Children too. Old people too."
+  },
+  {
+   "s": "Der Staat bezahlt sie nicht.",
+   "e": "The state does not pay for it."
+  },
+  {
+   "s": "Man bezahlt sie selber, jeden Monat.",
+   "e": "You pay for it yourself, every month."
+  },
+  {
+   "s": "Das ist anders als zu Hause.",
+   "e": "That is different from home."
+  },
+  {
+   "s": "Zu Hause zahlt man mit den Steuern.",
+   "e": "At home you pay through your taxes."
+  },
+  {
+   "s": "Hier zahlt man eine Prämie.",
+   "e": "Here you pay a premium."
+  },
+  {
+   "s": "Die Prämie kommt jeden Monat.",
+   "e": "The premium comes every month."
+  },
+  {
+   "s": "Ich frage Frau Amrein.",
+   "e": "I ask Frau Amrein."
+  },
+  {
+   "s": "Sie sagt: Da müssen Sie vergleichen.",
+   "e": "She says: you have to compare there."
+  },
+  {
+   "s": "Vergleichen heisst: alle anschauen und dann wählen.",
+   "e": "To compare means: look at all of them and then choose."
+  },
+  {
+   "s": "Es gibt viele Krankenkassen.",
+   "e": "There are many health insurers."
+  },
+  {
+   "s": "Es gibt über fünfzig.",
+   "e": "There are over fifty."
+  },
+  {
+   "s": "In meinem Kanton kann ich elf wählen.",
+   "e": "In my canton I can choose from eleven."
+  },
+  {
+   "s": "Ich schaue sie im Internet an.",
+   "e": "I look at them on the internet."
+  },
+  {
+   "s": "Jede hat einen anderen Preis.",
+   "e": "Each one has a different price."
+  },
+  {
+   "s": "Die billigste kostet dreihundert Franken im Monat.",
+   "e": "The cheapest costs three hundred francs a month."
+  },
+  {
+   "s": "Die teuerste kostet fast fünfhundert.",
+   "e": "The most expensive costs nearly five hundred."
+  },
+  {
+   "s": "Das ist ein grosser Unterschied.",
+   "e": "That is a big difference."
+  },
+  {
+   "s": "Ich denke: die teure ist sicher besser.",
+   "e": "I think: the expensive one must be better."
+  },
+  {
+   "s": "Das ist falsch.",
+   "e": "That is wrong."
+  },
+  {
+   "s": "Frau Amrein erklärt es mir.",
+   "e": "Frau Amrein explains it to me."
+  },
+  {
+   "s": "Die Grundversicherung ist überall gleich.",
+   "e": "The basic insurance is the same everywhere."
+  },
+  {
+   "s": "Genau gleich. Das steht im Gesetz.",
+   "e": "Exactly the same. That is in the law."
+  },
+  {
+   "s": "Jede Kasse muss das Gleiche bezahlen.",
+   "e": "Every insurer has to pay for the same things."
+  },
+  {
+   "s": "Nur der Preis ist anders.",
+   "e": "Only the price is different."
+  },
+  {
+   "s": "Also nimmt man die billigste, sage ich.",
+   "e": "So you take the cheapest, I say."
+  },
+  {
+   "s": "Sie sagt: Fast.",
+   "e": "She says: nearly."
+  },
+  {
+   "s": "Dann erklärt sie die Franchise.",
+   "e": "Then she explains the excess."
+  },
+  {
+   "s": "Die Franchise ist das Geld vom Anfang.",
+   "e": "The excess is the money at the start."
+  },
+  {
+   "s": "Ich gehe zum Arzt und der Arzt kostet.",
+   "e": "I go to the doctor and the doctor costs money."
+  },
+  {
+   "s": "Die ersten dreihundert Franken bezahle ich selber.",
+   "e": "The first three hundred francs I pay myself."
+  },
+  {
+   "s": "Oder die ersten zweitausendfünfhundert.",
+   "e": "Or the first two thousand five hundred."
+  },
+  {
+   "s": "Das kann man wählen.",
+   "e": "You can choose that."
+  },
+  {
+   "s": "Eine hohe Franchise heisst eine kleine Prämie.",
+   "e": "A high excess means a small premium."
+  },
+  {
+   "s": "Eine kleine Franchise heisst eine hohe Prämie.",
+   "e": "A small excess means a high premium."
+  },
+  {
+   "s": "Man muss also rechnen.",
+   "e": "So you have to do the maths."
+  },
+  {
+   "s": "Ich bin gesund und ich gehe fast nie zum Arzt.",
+   "e": "I am healthy and I almost never go to the doctor."
+  },
+  {
+   "s": "Ich nehme die hohe Franchise.",
+   "e": "I take the high excess."
+  },
+  {
+   "s": "Dann ist die Prämie kleiner.",
+   "e": "Then the premium is smaller."
+  },
+  {
+   "s": "Ich vergleiche die elf Kassen.",
+   "e": "I compare the eleven insurers."
+  },
+  {
+   "s": "Vergleichen dauert lang.",
+   "e": "Comparing takes a long time."
+  },
+  {
+   "s": "Man muss die Prämie und die Franchise vergleichen.",
+   "e": "You have to compare the premium and the excess."
+  },
+  {
+   "s": "Ich schreibe jede Prämie auf ein Papier.",
+   "e": "I write each premium on a piece of paper."
+  },
+  {
+   "s": "Ich sitze zwei Stunden am Tisch.",
+   "e": "I sit at the table for two hours."
+  },
+  {
+   "s": "Nach zwei Stunden habe ich elf Zahlen.",
+   "e": "After two hours I have eleven numbers."
+  },
+  {
+   "s": "Die Zahlen sind fast gleich.",
+   "e": "The numbers are almost the same."
+  },
+  {
+   "s": "Drei Franken hier, fünf Franken dort.",
+   "e": "Three francs here, five francs there."
+  },
+  {
+   "s": "Ich weiss immer noch nicht genug.",
+   "e": "I still do not know enough."
+  },
+  {
+   "s": "Am Abend treffe ich Nuno.",
+   "e": "In the evening I meet Nuno."
+  },
+  {
+   "s": "Nuno arbeitet in der Küche vom Restaurant.",
+   "e": "Nuno works in the restaurant kitchen."
+  },
+  {
+   "s": "Er wohnt seit achtzehn Jahren hier.",
+   "e": "He has lived here for eighteen years."
+  },
+  {
+   "s": "Ich frage ihn nach der Krankenkasse.",
+   "e": "I ask him about health insurance."
+  },
+  {
+   "s": "Er lacht.",
+   "e": "He laughs."
+  },
+  {
+   "s": "Er sagt: Alle fragen das im ersten Jahr.",
+   "e": "He says: everybody asks that in their first year."
+  },
+  {
+   "s": "Dann sagt er den Namen von seiner Kasse.",
+   "e": "Then he says the name of his insurer."
+  },
+  {
+   "s": "Er sagt: Nimm die.",
+   "e": "He says: take that one."
+  },
+  {
+   "s": "Ich frage: Ist die besser?",
+   "e": "I ask: is it better?"
+  },
+  {
+   "s": "Er sagt: Nein. Alle sind gleich.",
+   "e": "He says: no. They are all the same."
+  },
+  {
+   "s": "Aber diese hat gute Leute am Telefon.",
+   "e": "But this one has good people on the phone."
+  },
+  {
+   "s": "Und man kann alles auf Deutsch machen.",
+   "e": "And you can do everything in German."
+  },
+  {
+   "s": "Manche wollen nur Englisch, sagt er.",
+   "e": "Some of them only want English, he says."
+  },
+  {
+   "s": "Und dann lernt man nie Deutsch.",
+   "e": "And then you never learn German."
+  },
+  {
+   "s": "Das ist ein gutes Argument.",
+   "e": "That is a good argument."
+  },
+  {
+   "s": "Ich nehme die Kasse von Nuno.",
+   "e": "I take Nuno's insurer."
+  },
+  {
+   "s": "Ich fülle das Formular im Internet aus.",
+   "e": "I fill in the form on the internet."
+  },
+  {
+   "s": "Nach drei Tagen kommt ein Brief.",
+   "e": "After three days a letter comes."
+  },
+  {
+   "s": "Im Brief ist eine Karte.",
+   "e": "In the letter there is a card."
+  },
+  {
+   "s": "Die Karte ist blau und klein.",
+   "e": "The card is blue and small."
+  },
+  {
+   "s": "Auf der Karte steht mein Name.",
+   "e": "My name is on the card."
+  },
+  {
+   "s": "Ich habe jetzt eine Versicherung.",
+   "e": "I now have insurance."
+  },
+  {
+   "s": "Die Prämie ist dreihundertzwanzig Franken im Monat.",
+   "e": "The premium is three hundred and twenty francs a month."
+  },
+  {
+   "s": "Das ist viel Geld.",
+   "e": "That is a lot of money."
+  },
+  {
+   "s": "Das ist mehr als ein Viertel von meiner Miete.",
+   "e": "That is more than a quarter of my rent."
+  },
+  {
+   "s": "Alle hier klagen über die Prämie.",
+   "e": "Everybody here complains about the premium."
+  },
+  {
+   "s": "Jedes Jahr wird sie teurer.",
+   "e": "Every year it gets more expensive."
+  },
+  {
+   "s": "Jeden Herbst kommt ein Brief mit der neuen Zahl.",
+   "e": "Every autumn a letter comes with the new figure."
+  },
+  {
+   "s": "Und jeden Herbst reden alle davon.",
+   "e": "And every autumn everybody talks about it."
+  },
+  {
+   "s": "Es ist wie das Wetter.",
+   "e": "It is like the weather."
+  },
+  {
+   "s": "Man kann nichts machen und man redet trotzdem.",
+   "e": "You can do nothing about it and you talk about it anyway."
+  },
+  {
+   "s": "Aber der Arzt ist gut.",
+   "e": "But the doctor is good."
+  },
+  {
+   "s": "Und man wartet nicht lange.",
+   "e": "And you do not wait long."
+  },
+  {
+   "s": "Das sagt Nuno auch.",
+   "e": "Nuno says that too."
+  },
+  {
+   "s": "Er sagt: Teuer, aber es funktioniert.",
+   "e": "He says: expensive, but it works."
+  },
+  {
+   "s": "Das ist der Satz für dieses ganze Land.",
+   "e": "That is the sentence for this whole country."
+  }
+ ]
+}

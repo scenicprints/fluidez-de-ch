@@ -1,0 +1,385 @@
+{
+ "id": "p1-14",
+ "title": "Der Nachbar unten",
+ "desc": "He is at your door before you have taken your shoes off",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Teppich",
+  "Nachbar",
+  "Schuh",
+  "ausziehen",
+  "Tür",
+  "machen"
+ ],
+ "sn": [
+  {
+   "s": "Der Nachbar unten heisst Herr Bucher.",
+   "e": "The neighbour below is called Herr Bucher."
+  },
+  {
+   "s": "Ein guter Nachbar klopft zuerst an die Tür.",
+   "e": "A good neighbour knocks on the door first."
+  },
+  {
+   "s": "Der Nachbar über mir ist ganz still.",
+   "e": "The neighbour above me is completely silent."
+  },
+  {
+   "s": "Er wohnt im zweiten Stock.",
+   "e": "He lives on the second floor."
+  },
+  {
+   "s": "Er arbeitet zu Hause.",
+   "e": "He works at home."
+  },
+  {
+   "s": "Er ist also den ganzen Tag da.",
+   "e": "So he is there all day."
+  },
+  {
+   "s": "Ich weiss das nicht.",
+   "e": "I do not know that."
+  },
+  {
+   "s": "Ich habe jetzt Möbel.",
+   "e": "I have furniture now."
+  },
+  {
+   "s": "Und ich stelle sie um.",
+   "e": "And I move it around."
+  },
+  {
+   "s": "Der Tisch steht zuerst am Fenster.",
+   "e": "The table stands by the window at first."
+  },
+  {
+   "s": "Dann gefällt er mir dort nicht.",
+   "e": "Then I do not like it there."
+  },
+  {
+   "s": "Ich ziehe ihn an die andere Wand.",
+   "e": "I pull it over to the other wall."
+  },
+  {
+   "s": "Der Tisch ist schwer.",
+   "e": "The table is heavy."
+  },
+  {
+   "s": "Ich ziehe ihn über den Boden.",
+   "e": "I drag it across the floor."
+  },
+  {
+   "s": "Der Boden ist aus Holz.",
+   "e": "The floor is wood."
+  },
+  {
+   "s": "Es macht ein lautes Geräusch.",
+   "e": "It makes a loud noise."
+  },
+  {
+   "s": "Ich ziehe ihn zweimal hin und her.",
+   "e": "I drag it back and forth twice."
+  },
+  {
+   "s": "Dann steht er richtig.",
+   "e": "Then it is in the right place."
+  },
+  {
+   "s": "Es ist drei Uhr am Nachmittag.",
+   "e": "It is three in the afternoon."
+  },
+  {
+   "s": "Das ist keine Ruhezeit.",
+   "e": "That is not quiet hours."
+  },
+  {
+   "s": "Ich mache also nichts Falsches.",
+   "e": "So I am doing nothing wrong."
+  },
+  {
+   "s": "Trotzdem klingelt es.",
+   "e": "The bell rings anyway."
+  },
+  {
+   "s": "Ich mache die Tür auf.",
+   "e": "I open the door."
+  },
+  {
+   "s": "Vor der Tür steht ein Mann.",
+   "e": "There is a man outside the door."
+  },
+  {
+   "s": "Er ist vielleicht vierzig.",
+   "e": "He is maybe forty."
+  },
+  {
+   "s": "Er hat keine Schuhe an.",
+   "e": "He has no shoes on."
+  },
+  {
+   "s": "Er kommt in Socken die Treppe hinauf.",
+   "e": "He came up the stairs in his socks."
+  },
+  {
+   "s": "Er sagt Grüezi.",
+   "e": "He says Grüezi."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Er sagt: Ich bin Bucher, von unten.",
+   "e": "He says: I am Bucher, from below."
+  },
+  {
+   "s": "Dann sagt er nichts mehr.",
+   "e": "Then he says nothing more."
+  },
+  {
+   "s": "Ich verstehe sofort.",
+   "e": "I understand at once."
+  },
+  {
+   "s": "Ich sage: Der Tisch. Entschuldigung.",
+   "e": "I say: the table. Sorry."
+  },
+  {
+   "s": "Er nickt.",
+   "e": "He nods."
+  },
+  {
+   "s": "Er sagt: Ich arbeite unten.",
+   "e": "He says: I work downstairs."
+  },
+  {
+   "s": "Er sagt es ohne Ärger.",
+   "e": "He says it without anger."
+  },
+  {
+   "s": "Er ist nicht böse.",
+   "e": "He is not angry."
+  },
+  {
+   "s": "Er will es mir nur sagen.",
+   "e": "He only wants to tell me."
+  },
+  {
+   "s": "Ich sage: Ich stelle nichts mehr um.",
+   "e": "I say: I will not move anything else."
+  },
+  {
+   "s": "Er sagt: Kein Problem.",
+   "e": "He says: no problem."
+  },
+  {
+   "s": "Dann fragt er: Haben Sie einen Teppich?",
+   "e": "Then he asks: do you have a rug?"
+  },
+  {
+   "s": "Nein, sage ich.",
+   "e": "No, I say."
+  },
+  {
+   "s": "Er sagt: Ein Teppich hilft viel.",
+   "e": "He says: a rug helps a lot."
+  },
+  {
+   "s": "Dann geht er wieder hinunter.",
+   "e": "Then he goes back down."
+  },
+  {
+   "s": "In Socken, ganz leise.",
+   "e": "In his socks, very quietly."
+  },
+  {
+   "s": "Ich stehe an der Tür.",
+   "e": "I stand at the door."
+  },
+  {
+   "s": "Ich habe noch meine Schuhe an.",
+   "e": "I still have my shoes on."
+  },
+  {
+   "s": "In der Wohnung, mit Schuhen.",
+   "e": "In the flat, with shoes on."
+  },
+  {
+   "s": "Das ist hier nicht normal.",
+   "e": "That is not normal here."
+  },
+  {
+   "s": "Man zieht die Schuhe an der Tür aus.",
+   "e": "You take your shoes off at the door."
+  },
+  {
+   "s": "Immer und überall.",
+   "e": "Always and everywhere."
+  },
+  {
+   "s": "In der eigenen Wohnung auch.",
+   "e": "In your own flat too."
+  },
+  {
+   "s": "Bei anderen Leuten sowieso.",
+   "e": "At other people's places obviously."
+  },
+  {
+   "s": "Man fragt nicht. Man zieht sie einfach aus.",
+   "e": "You do not ask. You just take them off."
+  },
+  {
+   "s": "Herr Kaufmann macht es.",
+   "e": "Herr Kaufmann does it."
+  },
+  {
+   "s": "Ruedi Zemp macht es.",
+   "e": "Ruedi Zemp does it."
+  },
+  {
+   "s": "Die Männer vom Brockenhaus machen es.",
+   "e": "The men from the Brockenhaus do it."
+  },
+  {
+   "s": "Alle machen es und niemand redet darüber.",
+   "e": "Everybody does it and nobody talks about it."
+  },
+  {
+   "s": "Ich ziehe meine Schuhe aus.",
+   "e": "I take my shoes off."
+  },
+  {
+   "s": "Schuhe ausziehen macht man ohne Frage.",
+   "e": "Taking your shoes off is done without asking."
+  },
+  {
+   "s": "Ich ziehe sie jetzt immer aus.",
+   "e": "I always take them off now."
+  },
+  {
+   "s": "Ich stelle sie neben die Tür.",
+   "e": "I put them next to the door."
+  },
+  {
+   "s": "Der Boden ist kalt.",
+   "e": "The floor is cold."
+  },
+  {
+   "s": "Am Samstag kaufe ich einen Teppich.",
+   "e": "On Saturday I buy a rug."
+  },
+  {
+   "s": "Im Brockenhaus, für zwanzig Franken.",
+   "e": "At the Brockenhaus, for twenty francs."
+  },
+  {
+   "s": "Er ist rot und ein bisschen alt.",
+   "e": "It is red and a bit old."
+  },
+  {
+   "s": "Ich lege ihn unter den Tisch.",
+   "e": "I put it under the table."
+  },
+  {
+   "s": "Ein Teppich kostet wenig und hilft viel.",
+   "e": "A rug costs little and helps a lot."
+  },
+  {
+   "s": "Der Teppich liegt jetzt im ganzen Zimmer.",
+   "e": "The rug now covers the whole room."
+  },
+  {
+   "s": "Jetzt ist der Boden warm.",
+   "e": "Now the floor is warm."
+  },
+  {
+   "s": "Und der Stuhl macht kein Geräusch mehr.",
+   "e": "And the chair makes no noise any more."
+  },
+  {
+   "s": "Herr Bucher sagt nichts dazu.",
+   "e": "Herr Bucher says nothing about it."
+  },
+  {
+   "s": "Aber er grüsst jetzt anders.",
+   "e": "But he greets me differently now."
+  },
+  {
+   "s": "Nicht mehr nur Grüezi.",
+   "e": "Not just Grüezi any more."
+  },
+  {
+   "s": "Er sagt: Grüezi, wie geht es?",
+   "e": "He says: Grüezi, how are you?"
+  },
+  {
+   "s": "Das ist ein kleiner Schritt.",
+   "e": "That is a small step."
+  },
+  {
+   "s": "Aber hier ist das ein grosser Schritt.",
+   "e": "But here that is a big step."
+  },
+  {
+   "s": "Frau Amrein weiss auch von dem Tisch.",
+   "e": "Frau Amrein knows about the table too."
+  },
+  {
+   "s": "Natürlich weiss sie es.",
+   "e": "Of course she knows."
+  },
+  {
+   "s": "Sie sagt: Herr Bucher ist ein guter Nachbar.",
+   "e": "She says: Herr Bucher is a good neighbour."
+  },
+  {
+   "s": "Sie sagt: Er kommt zuerst zu Ihnen.",
+   "e": "She says: he comes to you first."
+  },
+  {
+   "s": "Er geht nicht sofort zum Hauswart.",
+   "e": "He does not go straight to the caretaker."
+  },
+  {
+   "s": "Das ist wichtig, sagt sie.",
+   "e": "That is important, she says."
+  },
+  {
+   "s": "Zuerst an die Tür, dann zum Hauswart.",
+   "e": "First to the door, then to the caretaker."
+  },
+  {
+   "s": "Und erst am Schluss zum Vermieter.",
+   "e": "And only at the very end to the landlord."
+  },
+  {
+   "s": "In dieser Reihe.",
+   "e": "In that order."
+  },
+  {
+   "s": "Wer sofort zum Vermieter geht, ist kein guter Nachbar.",
+   "e": "Anybody who goes straight to the landlord is not a good neighbour."
+  },
+  {
+   "s": "Ich verstehe das.",
+   "e": "I understand that."
+  },
+  {
+   "s": "Es ist eine Regel, aber sie steht nirgends.",
+   "e": "It is a rule, but it is written nowhere."
+  },
+  {
+   "s": "Es gibt viele solche Regeln hier.",
+   "e": "There are a lot of rules like that here."
+  },
+  {
+   "s": "Die Hausordnung hängt an der Wand.",
+   "e": "The Hausordnung hangs on the wall."
+  },
+  {
+   "s": "Die anderen Regeln lernt man an der Tür.",
+   "e": "The other rules you learn at the door."
+  }
+ ]
+}

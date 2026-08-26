@@ -97,17 +97,22 @@ IRREGULAR_PRESENT = {
 }
 
 
-def needs_e(stem):
-    """atmen -> atmet, warten -> wartet, regnen -> regnet.
+# The clusters that force an extra e before the ending. It is a SHORT list,
+# and it has to be: "a consonant plus m or n" is the rule you find in a
+# grammar, and it is too broad — it turns wohnen into "wohnet" and lernen into
+# "lernet". Only these clusters are genuinely unsayable without the e.
+HARD_CLUSTER = (u"dm", u"tm", u"gn", u"chn", u"ffn", u"dn", u"tn")
 
-    A stem ending in t, d, or in a consonant plus m or n, takes an extra e
-    before the ending or it cannot be said.
+
+def needs_e(stem):
+    """atmen -> atmet, regnen -> regnet, oeffnen -> oeffnet, warten -> wartet.
+
+    But wohnen -> wohnt and lernen -> lernt: an h, l, r, m or n in front of the
+    n is perfectly sayable and takes no e.
     """
     if stem.endswith((u"t", u"d")):
         return True
-    if stem.endswith((u"m", u"n")) and len(stem) > 1 and stem[-2] not in u"aeiouäöülmnr":
-        return True
-    return False
+    return stem.endswith(HARD_CLUSTER)
 
 
 def present_forms(inf, v):

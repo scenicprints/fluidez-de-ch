@@ -1,0 +1,384 @@
+{
+ "id": "p1-13",
+ "title": "Das Brockenhaus",
+ "desc": "You buy a table better than anything you would have bought new",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Lampe",
+  "tragen",
+  "Brockenhaus",
+  "Möbel",
+  "Tisch"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe eine Wohnung ohne Möbel.",
+   "e": "I have a flat with no furniture."
+  },
+  {
+   "s": "Ich habe einen Stuhl von Frau Amrein.",
+   "e": "I have a chair from Frau Amrein."
+  },
+  {
+   "s": "Sonst habe ich nichts.",
+   "e": "Otherwise I have nothing."
+  },
+  {
+   "s": "Ich brauche einen Tisch.",
+   "e": "I need a table."
+  },
+  {
+   "s": "Ich brauche ein Bett.",
+   "e": "I need a bed."
+  },
+  {
+   "s": "Ich brauche eine Lampe.",
+   "e": "I need a lamp."
+  },
+  {
+   "s": "Neue Möbel sind sehr teuer.",
+   "e": "New furniture is very expensive."
+  },
+  {
+   "s": "Alte Möbel sind besser gebaut.",
+   "e": "Old furniture is better built."
+  },
+  {
+   "s": "Ein Tisch kostet dreihundert Franken.",
+   "e": "A table costs three hundred francs."
+  },
+  {
+   "s": "Ein Bett kostet mehr.",
+   "e": "A bed costs more."
+  },
+  {
+   "s": "Ich habe nicht so viel Geld.",
+   "e": "I do not have that much money."
+  },
+  {
+   "s": "Nuno sagt: Geh ins Brockenhaus.",
+   "e": "Nuno says: go to the Brockenhaus."
+  },
+  {
+   "s": "Ich kenne das Wort nicht.",
+   "e": "I do not know the word."
+  },
+  {
+   "s": "Er erklärt es.",
+   "e": "He explains it."
+  },
+  {
+   "s": "Ein Brockenhaus ist ein grosses Haus mit alten Sachen.",
+   "e": "A Brockenhaus is a big building with old things."
+  },
+  {
+   "s": "Die Leute bringen ihre alten Möbel hin.",
+   "e": "People bring their old furniture there."
+  },
+  {
+   "s": "Dann kann man sie billig kaufen.",
+   "e": "Then you can buy it cheaply."
+  },
+  {
+   "s": "Das Geld geht an Leute mit wenig Geld.",
+   "e": "The money goes to people with little money."
+  },
+  {
+   "s": "Ich frage: Ist das komisch?",
+   "e": "I ask: is that odd?"
+  },
+  {
+   "s": "Er versteht die Frage nicht.",
+   "e": "He does not understand the question."
+  },
+  {
+   "s": "Ich frage anders.",
+   "e": "I ask differently."
+  },
+  {
+   "s": "Denken die Leute, ich bin arm?",
+   "e": "Do people think I am poor?"
+  },
+  {
+   "s": "Jetzt lacht er.",
+   "e": "Now he laughs."
+  },
+  {
+   "s": "Er sagt: Nein. Überhaupt nicht.",
+   "e": "He says: no. Not at all."
+  },
+  {
+   "s": "Alle kaufen im Brockenhaus.",
+   "e": "Everybody buys at the Brockenhaus."
+  },
+  {
+   "s": "Auch Leute mit Geld.",
+   "e": "People with money too."
+  },
+  {
+   "s": "Man wirft hier nichts Gutes weg.",
+   "e": "You do not throw away anything good here."
+  },
+  {
+   "s": "Am Samstag gehe ich hin.",
+   "e": "On Saturday I go there."
+  },
+  {
+   "s": "Das Brockenhaus ist gross.",
+   "e": "The Brockenhaus is big."
+  },
+  {
+   "s": "Es hat drei Stockwerke.",
+   "e": "It has three floors."
+  },
+  {
+   "s": "Im Erdgeschoss sind Teller und Gläser.",
+   "e": "On the ground floor there are plates and glasses."
+  },
+  {
+   "s": "Im ersten Stock sind Bücher und Lampen.",
+   "e": "On the first floor there are books and lamps."
+  },
+  {
+   "s": "Im zweiten Stock sind die Möbel.",
+   "e": "On the second floor there is the furniture."
+  },
+  {
+   "s": "Ich gehe hinauf.",
+   "e": "I go up."
+  },
+  {
+   "s": "Da stehen dreissig Tische.",
+   "e": "There are thirty tables there."
+  },
+  {
+   "s": "Und hundert Stühle.",
+   "e": "And a hundred chairs."
+  },
+  {
+   "s": "Alles ist alt und alles ist sauber.",
+   "e": "Everything is old and everything is clean."
+  },
+  {
+   "s": "Nichts ist kaputt.",
+   "e": "Nothing is broken."
+  },
+  {
+   "s": "Das ist der Unterschied.",
+   "e": "That is the difference."
+  },
+  {
+   "s": "Ich suche einen Tisch.",
+   "e": "I look for a table."
+  },
+  {
+   "s": "Ich finde einen aus Holz.",
+   "e": "I find one made of wood."
+  },
+  {
+   "s": "Der Tisch ist alt und schwer.",
+   "e": "The table is old and heavy."
+  },
+  {
+   "s": "Er ist besser als ein neuer Tisch.",
+   "e": "It is better than a new table."
+  },
+  {
+   "s": "Er kostet vierzig Franken.",
+   "e": "It costs forty francs."
+  },
+  {
+   "s": "Vierzig Franken für einen guten Tisch.",
+   "e": "Forty francs for a good table."
+  },
+  {
+   "s": "Ich nehme ihn sofort.",
+   "e": "I take it at once."
+  },
+  {
+   "s": "Dann finde ich zwei Stühle.",
+   "e": "Then I find two chairs."
+  },
+  {
+   "s": "Sie sind nicht gleich.",
+   "e": "They are not the same."
+  },
+  {
+   "s": "Einer ist braun und einer ist schwarz.",
+   "e": "One is brown and one is black."
+  },
+  {
+   "s": "Das ist mir egal.",
+   "e": "I do not mind."
+  },
+  {
+   "s": "Zusammen kosten sie zwanzig Franken.",
+   "e": "Together they cost twenty francs."
+  },
+  {
+   "s": "Dann finde ich eine Lampe.",
+   "e": "Then I find a lamp."
+  },
+  {
+   "s": "Die Lampe ist gelb und hässlich.",
+   "e": "The lamp is yellow and ugly."
+  },
+  {
+   "s": "Aber sie funktioniert.",
+   "e": "But it works."
+  },
+  {
+   "s": "Sie kostet fünf Franken.",
+   "e": "It costs five francs."
+  },
+  {
+   "s": "Alles zusammen kostet fünfundsechzig Franken.",
+   "e": "All together it costs sixty-five francs."
+  },
+  {
+   "s": "Ein Tisch, zwei Stühle und eine Lampe.",
+   "e": "A table, two chairs and a lamp."
+  },
+  {
+   "s": "Für fünfundsechzig Franken.",
+   "e": "For sixty-five francs."
+  },
+  {
+   "s": "Dann kommt das Problem.",
+   "e": "Then comes the problem."
+  },
+  {
+   "s": "Ich muss alles nach Hause tragen.",
+   "e": "I have to carry everything home."
+  },
+  {
+   "s": "Einen Tisch trägt man nicht allein.",
+   "e": "You do not carry a table alone."
+  },
+  {
+   "s": "Zwei Männer tragen ihn ohne Mühe.",
+   "e": "Two men carry it without trouble."
+  },
+  {
+   "s": "Ich habe kein Auto.",
+   "e": "I do not have a car."
+  },
+  {
+   "s": "Ich habe nur ein Velo.",
+   "e": "I only have a bike."
+  },
+  {
+   "s": "Ein Tisch geht nicht auf ein Velo.",
+   "e": "A table does not go on a bike."
+  },
+  {
+   "s": "Die Frau im Brockenhaus sieht mein Gesicht.",
+   "e": "The woman at the Brockenhaus sees my face."
+  },
+  {
+   "s": "Sie fragt: Haben Sie ein Auto?",
+   "e": "She asks: do you have a car?"
+  },
+  {
+   "s": "Nein, sage ich.",
+   "e": "No, I say."
+  },
+  {
+   "s": "Sie sagt: Wir bringen es Ihnen.",
+   "e": "She says: we will bring it to you."
+  },
+  {
+   "s": "Das kostet dreissig Franken.",
+   "e": "That costs thirty francs."
+  },
+  {
+   "s": "Am Montag ist alles vor meiner Tür.",
+   "e": "On Monday everything is outside my door."
+  },
+  {
+   "s": "Zwei Männer tragen es hinauf.",
+   "e": "Two men carry it up."
+  },
+  {
+   "s": "Sie tragen es in die Wohnung.",
+   "e": "They carry it into the flat."
+  },
+  {
+   "s": "Sie ziehen die Schuhe aus.",
+   "e": "They take their shoes off."
+  },
+  {
+   "s": "Natürlich ziehen sie die Schuhe aus.",
+   "e": "Of course they take their shoes off."
+  },
+  {
+   "s": "Am Abend habe ich einen Tisch.",
+   "e": "In the evening I have a table."
+  },
+  {
+   "s": "Ich sitze an meinem Tisch.",
+   "e": "I sit at my table."
+  },
+  {
+   "s": "Ich habe eine Lampe und Licht.",
+   "e": "I have a lamp and light."
+  },
+  {
+   "s": "Ich esse Brot und Käse am Tisch.",
+   "e": "I eat bread and cheese at the table."
+  },
+  {
+   "s": "Ich esse nicht mehr auf dem Boden.",
+   "e": "I am not eating on the floor any more."
+  },
+  {
+   "s": "Das ist ein grosser Unterschied.",
+   "e": "That is a big difference."
+  },
+  {
+   "s": "Frau Amrein kommt am nächsten Tag.",
+   "e": "Frau Amrein comes the next day."
+  },
+  {
+   "s": "Sie will den Tisch sehen.",
+   "e": "She wants to see the table."
+  },
+  {
+   "s": "Sie schaut ihn lange an.",
+   "e": "She looks at it for a long time."
+  },
+  {
+   "s": "Sie klopft mit der Hand darauf.",
+   "e": "She knocks on it with her hand."
+  },
+  {
+   "s": "Sie sagt: Das ist ein guter Tisch.",
+   "e": "She says: that is a good table."
+  },
+  {
+   "s": "Sie sagt: So einen kauft man heute nicht mehr neu.",
+   "e": "She says: you cannot buy one like that new any more."
+  },
+  {
+   "s": "Dann fragt sie den Preis.",
+   "e": "Then she asks the price."
+  },
+  {
+   "s": "Ich sage: Vierzig Franken.",
+   "e": "I say: forty francs."
+  },
+  {
+   "s": "Sie nickt langsam.",
+   "e": "She nods slowly."
+  },
+  {
+   "s": "Sie sagt: Sehr gut.",
+   "e": "She says: very good."
+  },
+  {
+   "s": "Von ihr ist das viel.",
+   "e": "From her that is a lot."
+  }
+ ]
+}

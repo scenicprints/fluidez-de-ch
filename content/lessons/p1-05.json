@@ -1,0 +1,415 @@
+{
+ "id": "p1-05",
+ "title": "Der Hauswart",
+ "desc": "Ruedi Zemp looks at your bicycle for a long moment and says nothing",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "melden",
+  "kaputt",
+  "Velo",
+  "Hauswart",
+  "funktionieren",
+  "Licht",
+  "Problem",
+  "anschauen"
+ ],
+ "sn": [
+  {
+   "s": "Im Bad geht das Licht nicht.",
+   "e": "The light in the bathroom does not work."
+  },
+  {
+   "s": "Es geht am Montag noch.",
+   "e": "On Monday it still works."
+  },
+  {
+   "s": "Am Dienstag ist es kaputt.",
+   "e": "On Tuesday it is broken."
+  },
+  {
+   "s": "Kaputt ist kaputt.",
+   "e": "Broken is broken."
+  },
+  {
+   "s": "Etwas ist immer kaputt in einer alten Wohnung.",
+   "e": "Something is always broken in an old flat."
+  },
+  {
+   "s": "Kaputt heisst: es funktioniert nicht mehr.",
+   "e": "Broken means: it does not work any more."
+  },
+  {
+   "s": "Ich drücke den Schalter zehnmal.",
+   "e": "I press the switch ten times."
+  },
+  {
+   "s": "Das Licht funktioniert trotzdem nicht.",
+   "e": "The light still does not work."
+  },
+  {
+   "s": "Nichts funktioniert ohne Strom.",
+   "e": "Nothing works without electricity."
+  },
+  {
+   "s": "Jetzt funktioniert alles wieder.",
+   "e": "Now everything works again."
+  },
+  {
+   "s": "Ich will es selber reparieren.",
+   "e": "I want to repair it myself."
+  },
+  {
+   "s": "Aber ich habe kein Werkzeug.",
+   "e": "But I have no tools."
+  },
+  {
+   "s": "Ich habe gar nichts.",
+   "e": "I have nothing at all."
+  },
+  {
+   "s": "Ich frage Frau Amrein.",
+   "e": "I ask Frau Amrein."
+  },
+  {
+   "s": "Sie sagt nur ein Wort: Hauswart.",
+   "e": "She says only one word: Hauswart."
+  },
+  {
+   "s": "Der Hauswart heisst Ruedi Zemp.",
+   "e": "The caretaker is called Ruedi Zemp."
+  },
+  {
+   "s": "Ein Hauswart hat viele Häuser.",
+   "e": "A caretaker has a lot of buildings."
+  },
+  {
+   "s": "Der Hauswart hat einen Schlüssel für alles.",
+   "e": "The caretaker has a key for everything."
+  },
+  {
+   "s": "Er wohnt im Erdgeschoss.",
+   "e": "He lives on the ground floor."
+  },
+  {
+   "s": "An seiner Tür hängt ein Zettel.",
+   "e": "There is a note on his door."
+  },
+  {
+   "s": "Auf dem Zettel steht eine Zeit.",
+   "e": "There is a time on the note."
+  },
+  {
+   "s": "Montag bis Freitag, siebzehn bis achtzehn Uhr.",
+   "e": "Monday to Friday, five to six."
+  },
+  {
+   "s": "Eine Stunde am Tag.",
+   "e": "One hour a day."
+  },
+  {
+   "s": "Man muss ein Problem melden.",
+   "e": "You have to report a problem."
+  },
+  {
+   "s": "Melden heisst: man sagt es ihm.",
+   "e": "To report means: you tell him."
+  },
+  {
+   "s": "Melden muss man selber.",
+   "e": "You have to report it yourself."
+  },
+  {
+   "s": "Man kann nicht einfach warten.",
+   "e": "You cannot simply wait."
+  },
+  {
+   "s": "Niemand merkt ein Problem von allein.",
+   "e": "Nobody notices a problem by themselves."
+  },
+  {
+   "s": "Um siebzehn Uhr klopfe ich an seiner Tür.",
+   "e": "At five o'clock I knock on his door."
+  },
+  {
+   "s": "Er macht auf.",
+   "e": "He opens up."
+  },
+  {
+   "s": "Ruedi Zemp ist gross und ruhig.",
+   "e": "Ruedi Zemp is big and calm."
+  },
+  {
+   "s": "Er ist vielleicht sechzig.",
+   "e": "He is maybe sixty."
+  },
+  {
+   "s": "Er sagt Grüezi und wartet.",
+   "e": "He says Grüezi and waits."
+  },
+  {
+   "s": "Er sagt nichts weiter.",
+   "e": "He says nothing more."
+  },
+  {
+   "s": "Ich muss also reden.",
+   "e": "So I have to talk."
+  },
+  {
+   "s": "Ich sage: Das Licht im Bad ist kaputt.",
+   "e": "I say: the light in the bathroom is broken."
+  },
+  {
+   "s": "Er sagt: Welche Wohnung?",
+   "e": "He says: which flat?"
+  },
+  {
+   "s": "Dritter Stock, sage ich.",
+   "e": "Third floor, I say."
+  },
+  {
+   "s": "Er nickt.",
+   "e": "He nods."
+  },
+  {
+   "s": "Er schreibt etwas in ein kleines Buch.",
+   "e": "He writes something in a small book."
+  },
+  {
+   "s": "Dann sagt er: Morgen um acht.",
+   "e": "Then he says: tomorrow at eight."
+  },
+  {
+   "s": "Das ist alles.",
+   "e": "That is all."
+  },
+  {
+   "s": "Die Tür geht wieder zu.",
+   "e": "The door closes again."
+  },
+  {
+   "s": "Am nächsten Morgen um acht klopft es.",
+   "e": "The next morning at eight there is a knock."
+  },
+  {
+   "s": "Punkt acht.",
+   "e": "Eight sharp."
+  },
+  {
+   "s": "Er hat einen Kasten mit Werkzeug dabei.",
+   "e": "He has a box of tools with him."
+  },
+  {
+   "s": "Er zieht die Schuhe aus.",
+   "e": "He takes his shoes off."
+  },
+  {
+   "s": "Er fragt nicht. Er zieht sie einfach aus.",
+   "e": "He does not ask. He just takes them off."
+  },
+  {
+   "s": "Das machen hier alle.",
+   "e": "Everybody here does that."
+  },
+  {
+   "s": "Er geht ins Bad.",
+   "e": "He goes into the bathroom."
+  },
+  {
+   "s": "Er schaut das Licht an.",
+   "e": "He looks at the light."
+  },
+  {
+   "s": "Er nimmt das Werkzeug.",
+   "e": "He takes the tools."
+  },
+  {
+   "s": "Nach vier Minuten funktioniert das Licht.",
+   "e": "After four minutes the light works."
+  },
+  {
+   "s": "Vier Minuten.",
+   "e": "Four minutes."
+  },
+  {
+   "s": "Ich sage merci vielmal.",
+   "e": "I say merci vielmal."
+  },
+  {
+   "s": "Er sagt: Kein Problem.",
+   "e": "He says: no problem."
+  },
+  {
+   "s": "Dann packt er das Werkzeug ein.",
+   "e": "Then he packs the tools up."
+  },
+  {
+   "s": "Er will schon gehen.",
+   "e": "He is about to leave."
+  },
+  {
+   "s": "Dann sieht er mein Velo.",
+   "e": "Then he sees my bike."
+  },
+  {
+   "s": "Ich kaufe das Velo am Samstag.",
+   "e": "I buy the bike on Saturday."
+  },
+  {
+   "s": "Es ist eine Occasion und kostet achtzig Franken.",
+   "e": "It is second-hand and costs eighty francs."
+  },
+  {
+   "s": "Das Velo steht im Gang neben der Tür.",
+   "e": "The bike is in the hallway next to the door."
+  },
+  {
+   "s": "Nicht im Treppenhaus. Im Gang.",
+   "e": "Not in the stairwell. In the hallway."
+  },
+  {
+   "s": "In meinem Gang, in meiner Wohnung.",
+   "e": "In my hallway, in my flat."
+  },
+  {
+   "s": "Er schaut das Velo an.",
+   "e": "He looks at the bike."
+  },
+  {
+   "s": "Er schaut es lange an.",
+   "e": "He looks at it for a long time."
+  },
+  {
+   "s": "Er sagt nichts.",
+   "e": "He says nothing."
+  },
+  {
+   "s": "Er schaut mich an.",
+   "e": "He looks at me."
+  },
+  {
+   "s": "Dann schaut er wieder das Velo an.",
+   "e": "Then he looks at the bike again."
+  },
+  {
+   "s": "Immer noch nichts.",
+   "e": "Still nothing."
+  },
+  {
+   "s": "Ich sage: Es steht in der Wohnung.",
+   "e": "I say: it is in the flat."
+  },
+  {
+   "s": "Er sagt: Ja.",
+   "e": "He says: yes."
+  },
+  {
+   "s": "Dann sagt er: Der Keller ist grösser.",
+   "e": "Then he says: the cellar is bigger."
+  },
+  {
+   "s": "Und er geht.",
+   "e": "And he goes."
+  },
+  {
+   "s": "Ich stehe im Gang und denke nach.",
+   "e": "I stand in the hallway and think."
+  },
+  {
+   "s": "Das Velo darf hier stehen.",
+   "e": "The bike is allowed to be here."
+  },
+  {
+   "s": "Er sagt nicht, es darf nicht.",
+   "e": "He does not say it is not allowed."
+  },
+  {
+   "s": "Er sagt nur: Der Keller ist grösser.",
+   "e": "He only says: the cellar is bigger."
+  },
+  {
+   "s": "Am Abend stelle ich das Velo in den Keller.",
+   "e": "In the evening I put the bike in the cellar."
+  },
+  {
+   "s": "Der Hauswart ist kein Vermieter.",
+   "e": "The caretaker is not a landlord."
+  },
+  {
+   "s": "Er ist auch kein Diener.",
+   "e": "He is not a servant either."
+  },
+  {
+   "s": "Er ist etwas dazwischen.",
+   "e": "He is something in between."
+  },
+  {
+   "s": "Man meldet ihm ein Problem und er repariert es.",
+   "e": "You report a problem to him and he repairs it."
+  },
+  {
+   "s": "Man gibt ihm keine Befehle.",
+   "e": "You do not give him orders."
+  },
+  {
+   "s": "Und man bittet ihn nicht um einen Gefallen.",
+   "e": "And you do not ask him for a favour."
+  },
+  {
+   "s": "Das ist der Unterschied.",
+   "e": "That is the difference."
+  },
+  {
+   "s": "Frau Amrein erklärt es mir später.",
+   "e": "Frau Amrein explains it to me later."
+  },
+  {
+   "s": "Sie sagt: Ruedi ist gut.",
+   "e": "She says: Ruedi is good."
+  },
+  {
+   "s": "Aber man muss ihn richtig fragen.",
+   "e": "But you have to ask him the right way."
+  },
+  {
+   "s": "Sie sagt: Er redet nicht viel.",
+   "e": "She says: he does not talk much."
+  },
+  {
+   "s": "Sie sagt: Nach zwei Jahren sagt er vielleicht mehr.",
+   "e": "She says: after two years he might say more."
+  },
+  {
+   "s": "Zwei Jahre, sage ich.",
+   "e": "Two years, I say."
+  },
+  {
+   "s": "Sie lacht kurz.",
+   "e": "She laughs briefly."
+  },
+  {
+   "s": "Jetzt melde ich jedes Problem sofort.",
+   "e": "Now I report every problem straight away."
+  },
+  {
+   "s": "Und ich stelle nichts in das Treppenhaus.",
+   "e": "And I put nothing in the stairwell."
+  },
+  {
+   "s": "Und mein Velo steht im Keller.",
+   "e": "And my bike is in the cellar."
+  },
+  {
+   "s": "Ruedi Zemp sagt immer noch fast nichts.",
+   "e": "Ruedi Zemp still says almost nothing."
+  },
+  {
+   "s": "Aber er nickt jetzt im Treppenhaus.",
+   "e": "But he nods in the stairwell now."
+  },
+  {
+   "s": "Das ist ein Anfang.",
+   "e": "That is a start."
+  }
+ ]
+}

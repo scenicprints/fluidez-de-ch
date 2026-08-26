@@ -6,7 +6,7 @@ create a second copy to go stale.
 
 ---
 
-You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phase 0 written, 16 of 192). You're on the German one.
+You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0 and 1 written, 38 of 192). You're on the German one.
 
 **Read these first, in this order.** They carry every decision and the reasoning, so nothing gets relitigated by somebody arriving cold:
 
@@ -17,9 +17,9 @@ You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses
 
 Local clones, all on GitHub under `scenicprints`: `fluidez` (the app), `fluidez-de-ch` (German course), `fluidez-es-ni` (Spanish course), `fluidez-languages` (registry).
 
-**Where it stands.** **Phase 0 is written and every script is built.** 16 stories, 663 dictionary words, 104 verbs, 10 patterns, 8 scenes, an emergency phrasebook, 99.2% of the page tappable, every gate clean. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
+**Where it stands.** **Phases 0 and 1 are written and every script is built.** 38 stories, 950 dictionary words, 177 verbs, 18 patterns, 14 scenes, an emergency phrasebook, 98% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
 
-**Next job: phase 1, twenty-two stories,** `p1-01` to `p1-22`. Build it the way phase 0 was built — stories first, then the dictionary, verbs, patterns and scenes written against them, all in one batch. `NEXT.md` §14 and §15 say what phase 0 taught that phase 1 should copy. The Return quota starts biting here: it abstained on phase 0 because it needs 25 stories after a word before it can judge it.
+**Next job: phase 2, twenty-seven stories,** `p2-01` to `p2-27`. Build it the way phase 0 was built — stories first, then the dictionary, verbs, patterns and scenes written against them, all in one batch. `NEXT.md` §16 says what phase 1 taught that phase 2 should copy, and §14 and §15 carry the same for phase 0. The Return quota is live now: with 38 stories it judges 94 of 281 declared words. Phase 2 teaches the perfect tense and the dative, which means the phase 0 and 1 rule of main-clauses-only finally relaxes.
 
 **The hard rules:**
 

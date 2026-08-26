@@ -1,0 +1,109 @@
+{
+ "id": "sc13",
+ "title": "Der Nachbar an der Tür",
+ "desc": "He came up two floors in his socks",
+ "setting": "Three in the afternoon. You have just dragged a table across a wooden floor twice.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Herr Bucher",
+   "es": "Grüezi. Ich bin Bucher, von unten.",
+   "en": "Grüezi. I am Bucher, from downstairs.",
+   "options": [
+    {
+     "es": "Grüezi. Der Tisch. Entschuldigung.",
+     "en": "Grüezi. The table. Sorry.",
+     "verdict": "good",
+     "feedback": "You know why he is here and you say so first. That is the whole conversation over in one line."
+    },
+    {
+     "es": "Grüezi. Was kann ich für Sie tun?",
+     "en": "Grüezi. What can I do for you?",
+     "verdict": "ok",
+     "feedback": "Polite, and it makes him say the awkward part out loud."
+    },
+    {
+     "es": "Grüezi. Es ist erst drei Uhr.",
+     "en": "Grüezi. It is only three o’clock.",
+     "verdict": "bad",
+     "feedback": "It is, and he works at home, which he has not told you yet because you did not let him."
+    }
+   ]
+  },
+  {
+   "speaker": "Herr Bucher",
+   "es": "Ich arbeite unten.",
+   "en": "I work downstairs.",
+   "options": [
+    {
+     "es": "Das weiss ich nicht. Entschuldigung.",
+     "en": "I did not know that. Sorry.",
+     "verdict": "good",
+     "feedback": "He is not complaining, he is telling you a fact you needed. Take it that way."
+    },
+    {
+     "es": "Ich stelle nichts mehr um.",
+     "en": "I will not move anything else.",
+     "verdict": "good",
+     "feedback": "Concrete, and it is the thing he actually wants."
+    },
+    {
+     "es": "Den ganzen Tag?",
+     "en": "All day?",
+     "verdict": "ok",
+     "feedback": "Yes. And now you know why the building is silent at eleven in the morning."
+    }
+   ]
+  },
+  {
+   "speaker": "Herr Bucher",
+   "es": "Haben Sie einen Teppich?",
+   "en": "Do you have a rug?",
+   "options": [
+    {
+     "es": "Nein. Aber ich kann einen kaufen.",
+     "en": "No. But I can buy one.",
+     "verdict": "good",
+     "feedback": "That is the answer he came up two floors for, and he did not have to ask for it."
+    },
+    {
+     "es": "Nein. Hilft das?",
+     "en": "No. Does that help?",
+     "verdict": "good",
+     "feedback": "It does, a lot, and asking makes it his suggestion rather than your concession."
+    },
+    {
+     "es": "Brauche ich einen?",
+     "en": "Do I need one?",
+     "verdict": "ok",
+     "feedback": "He would not have mentioned it otherwise."
+    }
+   ]
+  },
+  {
+   "speaker": "Herr Bucher",
+   "es": "Grüezi. Wie geht es?",
+   "en": "Grüezi. How are you?",
+   "options": [
+    {
+     "es": "Grüezi, Herr Bucher. Gut, merci. Und Ihnen?",
+     "en": "Grüezi, Herr Bucher. Good, thanks. And you?",
+     "verdict": "good",
+     "feedback": "Two weeks and a rug later, he is asking. That is not a small thing here — answer it properly and ask back."
+    },
+    {
+     "es": "Gut, merci.",
+     "en": "Good, thanks.",
+     "verdict": "ok",
+     "feedback": "Correct and it leaves his question half answered. The Und Ihnen is the other half."
+    },
+    {
+     "es": "Tiptop.",
+     "en": "Great.",
+     "verdict": "good",
+     "feedback": "The everyday answer, and it lands as easy rather than formal. He will use it back at you."
+    }
+   ]
+  }
+ ]
+}

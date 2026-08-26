@@ -1,0 +1,109 @@
+{
+ "id": "sc12",
+ "title": "Bei der Gemeinde",
+ "desc": "Registering, in eleven minutes",
+ "setting": "Eight in the morning, ticket B twelve, and a folder with four documents in it.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Der Beamte",
+   "es": "Grüezi. Was kann ich für Sie tun?",
+   "en": "Grüezi. What can I do for you?",
+   "options": [
+    {
+     "es": "Grüezi. Ich möchte mich anmelden.",
+     "en": "Grüezi. I would like to register.",
+     "verdict": "good",
+     "feedback": "The exact sentence for the exact counter. He will have the form out before you finish it."
+    },
+    {
+     "es": "Grüezi. Ich bin neu hier.",
+     "en": "Grüezi. I am new here.",
+     "verdict": "ok",
+     "feedback": "True, and he still has to ask what you want. anmelden is the word."
+    },
+    {
+     "es": "Grüezi. Ich brauche ein Konto.",
+     "en": "Grüezi. I need a bank account.",
+     "verdict": "bad",
+     "feedback": "Wrong building. But you do need this first, and the bank will ask for what he is about to give you."
+    }
+   ]
+  },
+  {
+   "speaker": "Der Beamte",
+   "es": "Haben Sie einen Ausweis?",
+   "en": "Do you have ID?",
+   "options": [
+    {
+     "es": "Ja, hier bitte.",
+     "en": "Yes, here you are.",
+     "verdict": "good",
+     "feedback": "bitte handing something over is one of the four jobs that word does."
+    },
+    {
+     "es": "Reicht der Pass?",
+     "en": "Is a passport enough?",
+     "verdict": "ok",
+     "feedback": "It is. Asking costs nothing."
+    },
+    {
+     "es": "Den habe ich zu Hause.",
+     "en": "That is at home.",
+     "verdict": "bad",
+     "feedback": "Then this is a second trip. Bring everything, every time."
+    }
+   ]
+  },
+  {
+   "speaker": "Der Beamte",
+   "es": "Und die Religion? Sie müssen das nicht ausfüllen.",
+   "en": "And religion? You do not have to fill that in.",
+   "options": [
+    {
+     "es": "Warum fragen Sie danach?",
+     "en": "Why do you ask?",
+     "verdict": "good",
+     "feedback": "Because the church is funded by tax here. He will tell you plainly and it is worth knowing."
+    },
+    {
+     "es": "Dann lasse ich es leer.",
+     "en": "Then I will leave it empty.",
+     "verdict": "good",
+     "feedback": "He told you it was optional. Taking him at his word is fine."
+    },
+    {
+     "es": "Muss ich das ausfüllen?",
+     "en": "Do I have to fill that in?",
+     "verdict": "ok",
+     "feedback": "He has just said you do not. Worth listening to the second half of the sentence."
+    }
+   ]
+  },
+  {
+   "speaker": "Der Beamte",
+   "es": "So. Das ist die Bestätigung. Willkommen in Luzern.",
+   "en": "There. That is your confirmation. Welcome to Luzern.",
+   "options": [
+    {
+     "es": "Merci vielmal.",
+     "en": "Thanks very much.",
+     "verdict": "good",
+     "feedback": "He meant the welcome. It is said without ceremony and it is not nothing."
+    },
+    {
+     "es": "Brauche ich die noch?",
+     "en": "Will I need this again?",
+     "verdict": "good",
+     "feedback": "For the bank and for the insurer. Do not lose it, which is what he is about to say."
+    },
+    {
+     "es": "Ist das alles?",
+     "en": "Is that everything?",
+     "verdict": "ok",
+     "feedback": "It is. Eleven minutes, which will keep surprising you."
+    }
+   ]
+  }
+ ]
+}

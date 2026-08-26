@@ -1,0 +1,427 @@
+{
+ "id": "p1-02",
+ "title": "Frau Amrein",
+ "desc": "She has your name before you have hers",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "grüssen",
+  "antworten",
+  "nebenan",
+  "Stuhl",
+  "wohnen",
+  "kennen",
+  "fragen",
+  "Haus"
+ ],
+ "sn": [
+  {
+   "s": "Ich wohne jetzt hier.",
+   "e": "I live here now."
+  },
+  {
+   "s": "Ich wohne im dritten Stock.",
+   "e": "I live on the third floor."
+  },
+  {
+   "s": "Nebenan wohnt eine Frau.",
+   "e": "A woman lives next door."
+  },
+  {
+   "s": "Nebenan ist es immer ganz still.",
+   "e": "Next door it is always completely quiet."
+  },
+  {
+   "s": "Die Frau nebenan kennt das ganze Haus.",
+   "e": "The woman next door knows the whole building."
+  },
+  {
+   "s": "Ihre Tür ist gleich neben meiner.",
+   "e": "Her door is right next to mine."
+  },
+  {
+   "s": "Auf der Tür steht Amrein.",
+   "e": "The door says Amrein."
+  },
+  {
+   "s": "Am ersten Morgen treffe ich sie.",
+   "e": "On the first morning I meet her."
+  },
+  {
+   "s": "Sie steht vor ihrer Tür.",
+   "e": "She is standing in front of her door."
+  },
+  {
+   "s": "Sie grüsst zuerst.",
+   "e": "She greets first."
+  },
+  {
+   "s": "Grüezi, sagt sie.",
+   "e": "Grüezi, she says."
+  },
+  {
+   "s": "Grüezi, sage ich.",
+   "e": "Grüezi, I say."
+  },
+  {
+   "s": "Hier grüsst man immer.",
+   "e": "Here you always greet."
+  },
+  {
+   "s": "Man grüsst im Haus, auf der Treppe, im Lift.",
+   "e": "You greet in the building, on the stairs, in the lift."
+  },
+  {
+   "s": "Wer nicht grüsst, meint etwas damit.",
+   "e": "Somebody who does not greet means something by it."
+  },
+  {
+   "s": "Sie schaut mich an.",
+   "e": "She looks at me."
+  },
+  {
+   "s": "Sie ist vielleicht siebzig.",
+   "e": "She is maybe seventy."
+  },
+  {
+   "s": "Sie ist klein und sehr gerade.",
+   "e": "She is small and very straight."
+  },
+  {
+   "s": "Sie hat einen Sack in der Hand.",
+   "e": "She has a bag in her hand."
+  },
+  {
+   "s": "Sie sagt: Sie sind der Neue.",
+   "e": "She says: you are the new one."
+  },
+  {
+   "s": "Das ist keine Frage.",
+   "e": "That is not a question."
+  },
+  {
+   "s": "Ja, sage ich.",
+   "e": "Yes, I say."
+  },
+  {
+   "s": "Sie fragt: Wie heissen Sie?",
+   "e": "She asks: what is your name?"
+  },
+  {
+   "s": "Ich sage meinen Namen.",
+   "e": "I say my name."
+  },
+  {
+   "s": "Sie sagt den Namen nach.",
+   "e": "She says the name back."
+  },
+  {
+   "s": "Sie sagt ihn richtig.",
+   "e": "She says it correctly."
+  },
+  {
+   "s": "Beim zweiten Mal sagt sie ihn noch besser.",
+   "e": "The second time she says it even better."
+  },
+  {
+   "s": "Dann fragt sie: Woher kommen Sie?",
+   "e": "Then she asks: where are you from?"
+  },
+  {
+   "s": "Ich antworte.",
+   "e": "I answer."
+  },
+  {
+   "s": "Ich antworte kurz und langsam.",
+   "e": "I answer briefly and slowly."
+  },
+  {
+   "s": "Sie nickt und fragt weiter.",
+   "e": "She nods and asks more."
+  },
+  {
+   "s": "Sie fragt: Wie lange bleiben Sie?",
+   "e": "She asks: how long are you staying?"
+  },
+  {
+   "s": "Ich weiss es nicht.",
+   "e": "I do not know."
+  },
+  {
+   "s": "Das ist auch eine Antwort, sagt sie.",
+   "e": "That is an answer too, she says."
+  },
+  {
+   "s": "Sie fragt: Arbeiten Sie hier?",
+   "e": "She asks: do you work here?"
+  },
+  {
+   "s": "Sie fragt: Haben Sie Familie hier?",
+   "e": "She asks: do you have family here?"
+  },
+  {
+   "s": "Sie fragt viel.",
+   "e": "She asks a lot."
+  },
+  {
+   "s": "Ich antworte auf alles.",
+   "e": "I answer everything."
+  },
+  {
+   "s": "Ich will auch etwas fragen.",
+   "e": "I want to ask something too."
+  },
+  {
+   "s": "Aber sie fragt schneller.",
+   "e": "But she asks faster."
+  },
+  {
+   "s": "Nach fünf Minuten weiss sie viel von mir.",
+   "e": "After five minutes she knows a lot about me."
+  },
+  {
+   "s": "Ich weiss nur den Namen von der Tür.",
+   "e": "I only know the name from the door."
+  },
+  {
+   "s": "Dann sagt sie: Ich bin Frau Amrein.",
+   "e": "Then she says: I am Frau Amrein."
+  },
+  {
+   "s": "Nicht Vreni, nicht Frau Vreni.",
+   "e": "Not Vreni, not Frau Vreni."
+  },
+  {
+   "s": "Frau Amrein.",
+   "e": "Frau Amrein."
+  },
+  {
+   "s": "Ich sage: Freut mich.",
+   "e": "I say: pleased to meet you."
+  },
+  {
+   "s": "Sie fragt: Lernen Sie Deutsch?",
+   "e": "She asks: are you learning German?"
+  },
+  {
+   "s": "Ja, sage ich. Ein bisschen.",
+   "e": "Yes, I say. A little."
+  },
+  {
+   "s": "Dann muss ich langsam reden, sagt sie.",
+   "e": "Then I have to speak slowly, she says."
+  },
+  {
+   "s": "Und sie redet langsamer.",
+   "e": "And she speaks more slowly."
+  },
+  {
+   "s": "Aber nicht viel langsamer.",
+   "e": "But not much more slowly."
+  },
+  {
+   "s": "Sie fragt: Kochen Sie?",
+   "e": "She asks: do you cook?"
+  },
+  {
+   "s": "Ein bisschen, sage ich.",
+   "e": "A little, I say."
+  },
+  {
+   "s": "Sie schaut mich an und sagt nichts.",
+   "e": "She looks at me and says nothing."
+  },
+  {
+   "s": "Dann fragt sie: Haben Sie einen Tisch?",
+   "e": "Then she asks: do you have a table?"
+  },
+  {
+   "s": "Nein, sage ich.",
+   "e": "No, I say."
+  },
+  {
+   "s": "Einen Stuhl?",
+   "e": "A chair?"
+  },
+  {
+   "s": "Auch nicht.",
+   "e": "Not that either."
+  },
+  {
+   "s": "Sie sagt: Sie wohnen also auf dem Boden.",
+   "e": "She says: so you are living on the floor."
+  },
+  {
+   "s": "Ja, sage ich.",
+   "e": "Yes, I say."
+  },
+  {
+   "s": "Am Abend klopft es an meiner Tür.",
+   "e": "In the evening there is a knock at my door."
+  },
+  {
+   "s": "Vor der Tür steht ein Stuhl.",
+   "e": "There is a chair outside the door."
+  },
+  {
+   "s": "Der Stuhl ist alt und braun.",
+   "e": "The chair is old and brown."
+  },
+  {
+   "s": "Niemand ist da.",
+   "e": "Nobody is there."
+  },
+  {
+   "s": "Ich nehme den Stuhl.",
+   "e": "I take the chair."
+  },
+  {
+   "s": "Am nächsten Morgen grüsse ich zuerst.",
+   "e": "The next morning I greet first."
+  },
+  {
+   "s": "Grüezi, Frau Amrein.",
+   "e": "Grüezi, Frau Amrein."
+  },
+  {
+   "s": "Sie nickt und sagt nichts vom Stuhl.",
+   "e": "She nods and says nothing about the chair."
+  },
+  {
+   "s": "Ich sage merci vielmal für den Stuhl.",
+   "e": "I say merci vielmal for the chair."
+  },
+  {
+   "s": "Sie sagt: Welcher Stuhl?",
+   "e": "She says: which chair?"
+  },
+  {
+   "s": "Und geht die Treppe hinunter.",
+   "e": "And goes down the stairs."
+  },
+  {
+   "s": "So ist sie.",
+   "e": "That is how she is."
+  },
+  {
+   "s": "Sie wohnt seit vierzig Jahren hier.",
+   "e": "She has lived here for forty years."
+  },
+  {
+   "s": "Vierzig Jahre im gleichen Haus.",
+   "e": "Forty years in the same building."
+  },
+  {
+   "s": "Sie kennt jede Familie.",
+   "e": "She knows every family."
+  },
+  {
+   "s": "Sie kennt jeden im Haus.",
+   "e": "She knows everybody in the building."
+  },
+  {
+   "s": "Sie kennt auch die Leute nebenan.",
+   "e": "She knows the people next door too."
+  },
+  {
+   "s": "Sie kennt den Hauswart seit zwanzig Jahren.",
+   "e": "She has known the caretaker for twenty years."
+  },
+  {
+   "s": "Und den Bäcker an der Ecke.",
+   "e": "And the baker on the corner."
+  },
+  {
+   "s": "Sie weiss, wer wann kommt und geht.",
+   "e": "She knows who comes and goes when."
+  },
+  {
+   "s": "Sie ist die Zeitung von diesem Haus.",
+   "e": "She is this building's newspaper."
+  },
+  {
+   "s": "Ich frage sie einmal etwas.",
+   "e": "I ask her something once."
+  },
+  {
+   "s": "Ich frage nach der Post.",
+   "e": "I ask about the post office."
+  },
+  {
+   "s": "Sie antwortet lang und genau.",
+   "e": "She answers at length and exactly."
+  },
+  {
+   "s": "Sie antwortet auf eine Frage mit vier Antworten.",
+   "e": "She answers one question with four answers."
+  },
+  {
+   "s": "Ich verstehe die Hälfte.",
+   "e": "I understand half."
+  },
+  {
+   "s": "Aber ich finde die Post.",
+   "e": "But I find the post office."
+  },
+  {
+   "s": "Sie fragt: Und? Finden Sie die Post?",
+   "e": "She asks: well? Do you find the post office?"
+  },
+  {
+   "s": "Am nächsten Tag fragt sie danach.",
+   "e": "The next day she asks about it."
+  },
+  {
+   "s": "Sie vergisst nichts.",
+   "e": "She forgets nothing."
+  },
+  {
+   "s": "Nebenan wohnt also Frau Amrein.",
+   "e": "So Frau Amrein lives next door."
+  },
+  {
+   "s": "Sie ist siebzig und sie will alles wissen.",
+   "e": "She is seventy and she wants to know everything."
+  },
+  {
+   "s": "Sie fragt zu viel.",
+   "e": "She asks too much."
+  },
+  {
+   "s": "Und sie stellt einen Stuhl vor die Tür.",
+   "e": "And she puts a chair outside the door."
+  },
+  {
+   "s": "Beides gehört zusammen.",
+   "e": "The two things go together."
+  },
+  {
+   "s": "Ich kenne sie noch nicht.",
+   "e": "I do not know her yet."
+  },
+  {
+   "s": "Aber sie kennt mich schon.",
+   "e": "But she knows me already."
+  },
+  {
+   "s": "Das ist hier normal, glaube ich.",
+   "e": "That is normal here, I think."
+  },
+  {
+   "s": "Am dritten Tag sagt sie meinen Namen.",
+   "e": "On the third day she says my name."
+  },
+  {
+   "s": "Sie sagt ihn richtig.",
+   "e": "She says it correctly."
+  },
+  {
+   "s": "Niemand sonst in dieser Stadt kennt meinen Namen.",
+   "e": "Nobody else in this town knows my name."
+  },
+  {
+   "s": "Sie schon.",
+   "e": "She does."
+  }
+ ]
+}

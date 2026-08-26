@@ -1,0 +1,378 @@
+{
+ "id": "p1-12",
+ "title": "Die Post",
+ "desc": "You queue behind a man paying his bills in cash",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Paket",
+  "Briefmarke",
+  "Ausweis",
+  "abholen",
+  "Post",
+  "Schalter",
+  "gelb"
+ ],
+ "sn": [
+  {
+   "s": "Ich muss ein Paket schicken.",
+   "e": "I have to send a parcel."
+  },
+  {
+   "s": "Das Paket ist klein und schwer.",
+   "e": "The parcel is small and heavy."
+  },
+  {
+   "s": "Ich gehe zur Post.",
+   "e": "I go to the post office."
+  },
+  {
+   "s": "Die Post ist gelb.",
+   "e": "The post office is yellow."
+  },
+  {
+   "s": "Sie ist immer gelb.",
+   "e": "It is always yellow."
+  },
+  {
+   "s": "In der Post ist eine Reihe.",
+   "e": "There is a queue in the post office."
+  },
+  {
+   "s": "Sechs Leute warten vor mir.",
+   "e": "Six people are waiting in front of me."
+  },
+  {
+   "s": "Ich stelle mich hinten an.",
+   "e": "I join the back of the queue."
+  },
+  {
+   "s": "Die Reihe geht langsam.",
+   "e": "The queue moves slowly."
+  },
+  {
+   "s": "Vor mir steht ein alter Mann.",
+   "e": "An old man is standing in front of me."
+  },
+  {
+   "s": "Er hat viele Papiere in der Hand.",
+   "e": "He has a lot of papers in his hand."
+  },
+  {
+   "s": "Er hat auch ein Portemonnaie.",
+   "e": "He also has a wallet."
+  },
+  {
+   "s": "Am Schalter legt er die Papiere hin.",
+   "e": "At the counter he puts the papers down."
+  },
+  {
+   "s": "Es sind Rechnungen.",
+   "e": "They are bills."
+  },
+  {
+   "s": "Er bezahlt seine Rechnungen mit Bargeld.",
+   "e": "He pays his bills in cash."
+  },
+  {
+   "s": "Er nimmt Noten aus dem Portemonnaie.",
+   "e": "He takes notes out of his wallet."
+  },
+  {
+   "s": "Er zählt sie langsam.",
+   "e": "He counts them slowly."
+  },
+  {
+   "s": "Die Frau am Schalter wartet.",
+   "e": "The woman at the counter waits."
+  },
+  {
+   "s": "Sie sagt nichts.",
+   "e": "She says nothing."
+  },
+  {
+   "s": "Niemand in der Reihe sagt etwas.",
+   "e": "Nobody in the queue says anything."
+  },
+  {
+   "s": "Es dauert fünf Minuten.",
+   "e": "It takes five minutes."
+  },
+  {
+   "s": "Fünf Minuten für sieben Rechnungen.",
+   "e": "Five minutes for seven bills."
+  },
+  {
+   "s": "Das ist normal hier.",
+   "e": "That is normal here."
+  },
+  {
+   "s": "Die Post ist auch eine Bank.",
+   "e": "The post office is a bank as well."
+  },
+  {
+   "s": "Man kann hier Geld einzahlen.",
+   "e": "You can pay money in here."
+  },
+  {
+   "s": "Man kann Rechnungen bezahlen.",
+   "e": "You can pay bills."
+  },
+  {
+   "s": "Man kann auch ein Konto haben.",
+   "e": "You can have an account too."
+  },
+  {
+   "s": "Viele alte Leute machen alles auf der Post.",
+   "e": "A lot of old people do everything at the post office."
+  },
+  {
+   "s": "Sie wollen kein Konto im Internet.",
+   "e": "They do not want an account on the internet."
+  },
+  {
+   "s": "Sie kommen lieber selber.",
+   "e": "They would rather come themselves."
+  },
+  {
+   "s": "Dann bin ich dran.",
+   "e": "Then it is my turn."
+  },
+  {
+   "s": "Ich lege das Paket auf den Schalter.",
+   "e": "I put the parcel on the counter."
+  },
+  {
+   "s": "Die Frau wiegt es.",
+   "e": "The woman weighs it."
+  },
+  {
+   "s": "Sie fragt: Wohin?",
+   "e": "She asks: where to?"
+  },
+  {
+   "s": "Ich sage die Stadt.",
+   "e": "I say the town."
+  },
+  {
+   "s": "Sie fragt: A-Post oder B-Post?",
+   "e": "She asks: A-Post or B-Post?"
+  },
+  {
+   "s": "Ich kenne den Unterschied nicht.",
+   "e": "I do not know the difference."
+  },
+  {
+   "s": "Ich frage nach.",
+   "e": "I ask."
+  },
+  {
+   "s": "Sie erklärt es kurz.",
+   "e": "She explains it briefly."
+  },
+  {
+   "s": "A-Post kommt am nächsten Tag an.",
+   "e": "A-Post arrives the next day."
+  },
+  {
+   "s": "B-Post braucht drei Tage.",
+   "e": "B-Post takes three days."
+  },
+  {
+   "s": "A-Post ist teurer.",
+   "e": "A-Post is more expensive."
+  },
+  {
+   "s": "Am nächsten Tag, sagt sie.",
+   "e": "The next day, she says."
+  },
+  {
+   "s": "Nicht vielleicht. Am nächsten Tag.",
+   "e": "Not maybe. The next day."
+  },
+  {
+   "s": "Ich nehme B-Post.",
+   "e": "I take B-Post."
+  },
+  {
+   "s": "Das Paket hat keine Eile.",
+   "e": "The parcel is not in a hurry."
+  },
+  {
+   "s": "Sie klebt eine Briefmarke darauf.",
+   "e": "She sticks a stamp on it."
+  },
+  {
+   "s": "Eine Briefmarke kauft man am Schalter.",
+   "e": "You buy a stamp at the counter."
+  },
+  {
+   "s": "Auf jeder Briefmarke ist ein Bild.",
+   "e": "There is a picture on every stamp."
+  },
+  {
+   "s": "Die Briefmarke ist gross und schön.",
+   "e": "The stamp is big and beautiful."
+  },
+  {
+   "s": "Auf der Briefmarke ist ein Berg.",
+   "e": "There is a mountain on the stamp."
+  },
+  {
+   "s": "Ich bezahle neun Franken.",
+   "e": "I pay nine francs."
+  },
+  {
+   "s": "Neun Franken für ein kleines Paket.",
+   "e": "Nine francs for a small parcel."
+  },
+  {
+   "s": "Alles ist teuer hier.",
+   "e": "Everything is expensive here."
+  },
+  {
+   "s": "Aber das Paket kommt an.",
+   "e": "But the parcel arrives."
+  },
+  {
+   "s": "Es kommt immer an.",
+   "e": "It always arrives."
+  },
+  {
+   "s": "Ich frage sie auch nach einem Paket für mich.",
+   "e": "I also ask her about a parcel for me."
+  },
+  {
+   "s": "Ein Paket kommt und ich bin nicht zu Hause.",
+   "e": "A parcel comes and I am not at home."
+  },
+  {
+   "s": "Dann liegt ein Zettel im Briefkasten.",
+   "e": "Then there is a note in the letterbox."
+  },
+  {
+   "s": "Auf dem Zettel steht: abholen.",
+   "e": "The note says: collect."
+  },
+  {
+   "s": "Man muss das Paket auf der Post abholen.",
+   "e": "You have to collect the parcel at the post office."
+  },
+  {
+   "s": "Abholen kann man ab dem nächsten Tag.",
+   "e": "You can collect it from the next day."
+  },
+  {
+   "s": "Ich hole es am Morgen ab.",
+   "e": "I collect it in the morning."
+  },
+  {
+   "s": "Man muss den Ausweis mitnehmen.",
+   "e": "You have to take your ID with you."
+  },
+  {
+   "s": "Den Ausweis braucht man hier oft.",
+   "e": "You need your ID often here."
+  },
+  {
+   "s": "Ich habe den Ausweis immer dabei.",
+   "e": "I always have my ID with me."
+  },
+  {
+   "s": "Ohne Ausweis bekommt man es nicht.",
+   "e": "Without ID you do not get it."
+  },
+  {
+   "s": "Das Paket wartet eine Woche.",
+   "e": "The parcel waits a week."
+  },
+  {
+   "s": "Dann geht es zurück.",
+   "e": "Then it goes back."
+  },
+  {
+   "s": "Ich habe einen solchen Zettel schon.",
+   "e": "I already have one of those notes."
+  },
+  {
+   "s": "Er liegt seit vier Tagen bei mir.",
+   "e": "It has been at my place for four days."
+  },
+  {
+   "s": "Ich hole das Paket am gleichen Tag ab.",
+   "e": "I collect the parcel the same day."
+  },
+  {
+   "s": "Die Frau am Schalter findet es sofort.",
+   "e": "The woman at the counter finds it at once."
+  },
+  {
+   "s": "Sie schaut den Ausweis an.",
+   "e": "She looks at the ID."
+  },
+  {
+   "s": "Ich unterschreibe auf einem Bildschirm.",
+   "e": "I sign on a screen."
+  },
+  {
+   "s": "Dann gibt sie mir das Paket.",
+   "e": "Then she gives me the parcel."
+  },
+  {
+   "s": "Es geht schnell.",
+   "e": "It goes quickly."
+  },
+  {
+   "s": "Draussen schaue ich die Post noch einmal an.",
+   "e": "Outside I look at the post office again."
+  },
+  {
+   "s": "Das gelbe Haus mit dem gelben Zeichen.",
+   "e": "The yellow building with the yellow sign."
+  },
+  {
+   "s": "Die gelben Autos vor der Tür.",
+   "e": "The yellow vans outside the door."
+  },
+  {
+   "s": "Der gelbe Bus fährt gerade weg.",
+   "e": "The yellow bus is just leaving."
+  },
+  {
+   "s": "Der Bus von der Post fährt in die Berge.",
+   "e": "The post bus goes into the mountains."
+  },
+  {
+   "s": "Er fährt in jedes kleine Dorf.",
+   "e": "It goes to every small village."
+  },
+  {
+   "s": "Er nimmt Briefe mit und auch Leute.",
+   "e": "It takes letters and people too."
+  },
+  {
+   "s": "Der Postbus hat ein eigenes Horn.",
+   "e": "The post bus has its own horn."
+  },
+  {
+   "s": "Drei Töne, immer die gleichen.",
+   "e": "Three notes, always the same ones."
+  },
+  {
+   "s": "Man hört sie in den Bergen von weit weg.",
+   "e": "You hear them in the mountains from far away."
+  },
+  {
+   "s": "Nuno sagt: Das ist die Schweiz in drei Tönen.",
+   "e": "Nuno says: that is Switzerland in three notes."
+  },
+  {
+   "s": "Ich finde das ein bisschen zu viel.",
+   "e": "I find that a bit much."
+  },
+  {
+   "s": "Aber er hat nicht ganz unrecht.",
+   "e": "But he is not entirely wrong."
+  }
+ ]
+}

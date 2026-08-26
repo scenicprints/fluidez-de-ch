@@ -1,0 +1,479 @@
+{
+ "id": "p1-01",
+ "title": "Die Wohnung",
+ "desc": "Three keys, and what each one is for",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Kühlschrank",
+  "Schlüssel",
+  "rauchen",
+  "Miete",
+  "Bad",
+  "Herr",
+  "Keller",
+  "Stock",
+  "putzen",
+  "Wohnung",
+  "Küche",
+  "sauber"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe eine Wohnung.",
+   "e": "I have a flat."
+  },
+  {
+   "s": "Die Wohnung ist klein.",
+   "e": "The flat is small."
+  },
+  {
+   "s": "Sie hat zwei Zimmer, eine Küche und ein Bad.",
+   "e": "It has two rooms, a kitchen and a bathroom."
+  },
+  {
+   "s": "Die Wohnung ist im dritten Stock.",
+   "e": "The flat is on the third floor."
+  },
+  {
+   "s": "Der Stock ist hier nicht das Erdgeschoss.",
+   "e": "The floor here is not the ground floor."
+  },
+  {
+   "s": "Das Erdgeschoss ist null.",
+   "e": "The ground floor is zero."
+  },
+  {
+   "s": "Der erste Stock ist der zweite Stock von unten.",
+   "e": "The first floor is the second one up."
+  },
+  {
+   "s": "Ein Stock mehr ist eine Treppe mehr.",
+   "e": "One floor more is one flight more."
+  },
+  {
+   "s": "Ich muss das jedes Mal neu denken.",
+   "e": "I have to work that out again every time."
+  },
+  {
+   "s": "Der Vermieter heisst Herr Kaufmann.",
+   "e": "The landlord is called Herr Kaufmann."
+  },
+  {
+   "s": "Er kommt um zwei Uhr.",
+   "e": "He comes at two o'clock."
+  },
+  {
+   "s": "Er kommt Punkt zwei Uhr.",
+   "e": "He comes at two o'clock sharp."
+  },
+  {
+   "s": "Er hat drei Schlüssel in der Hand.",
+   "e": "He has three keys in his hand."
+  },
+  {
+   "s": "Er gibt mir die Schlüssel.",
+   "e": "He gives me the keys."
+  },
+  {
+   "s": "Der erste Schlüssel ist für die Wohnung.",
+   "e": "The first key is for the flat."
+  },
+  {
+   "s": "Der zweite Schlüssel ist für das Haus.",
+   "e": "The second key is for the building."
+  },
+  {
+   "s": "Der dritte Schlüssel ist für den Keller.",
+   "e": "The third key is for the cellar."
+  },
+  {
+   "s": "Der Keller ist unten.",
+   "e": "The cellar is downstairs."
+  },
+  {
+   "s": "Im Keller habe ich ein Abteil.",
+   "e": "In the cellar I have a compartment."
+  },
+  {
+   "s": "Das Abteil ist leer.",
+   "e": "The compartment is empty."
+  },
+  {
+   "s": "Ich brauche den Keller noch nicht.",
+   "e": "I do not need the cellar yet."
+  },
+  {
+   "s": "Herr Kaufmann sagt alles noch einmal.",
+   "e": "Herr Kaufmann says everything again."
+  },
+  {
+   "s": "Der erste Schlüssel für die Wohnung.",
+   "e": "The first key for the flat."
+  },
+  {
+   "s": "Der zweite für das Haus.",
+   "e": "The second for the building."
+  },
+  {
+   "s": "Der dritte für den Keller.",
+   "e": "The third for the cellar."
+  },
+  {
+   "s": "Ich verstehe es beim ersten Mal.",
+   "e": "I understand it the first time."
+  },
+  {
+   "s": "Er sagt es trotzdem zweimal.",
+   "e": "He says it twice anyway."
+  },
+  {
+   "s": "Dann zeigt er mir die Küche.",
+   "e": "Then he shows me the kitchen."
+  },
+  {
+   "s": "Die Küche ist klein und sehr sauber.",
+   "e": "The kitchen is small and very clean."
+  },
+  {
+   "s": "In der Küche gibt es einen Herd.",
+   "e": "In the kitchen there is a cooker."
+  },
+  {
+   "s": "Es gibt auch einen Kühlschrank.",
+   "e": "There is a fridge too."
+  },
+  {
+   "s": "Der Kühlschrank ist leer und offen.",
+   "e": "The fridge is empty and open."
+  },
+  {
+   "s": "Der Kühlschrank ist klein und alt.",
+   "e": "The fridge is small and old."
+  },
+  {
+   "s": "Ein Kühlschrank gehört zur Wohnung.",
+   "e": "A fridge belongs to the flat."
+  },
+  {
+   "s": "Er muss offen sein, sagt Herr Kaufmann.",
+   "e": "It has to stay open, says Herr Kaufmann."
+  },
+  {
+   "s": "Sonst riecht er.",
+   "e": "Otherwise it smells."
+  },
+  {
+   "s": "In der Küche darf man nicht rauchen.",
+   "e": "In the kitchen you may not smoke."
+  },
+  {
+   "s": "In der ganzen Wohnung darf man nicht rauchen.",
+   "e": "In the whole flat you may not smoke."
+  },
+  {
+   "s": "Rauchen ist im ganzen Haus verboten.",
+   "e": "Smoking is forbidden in the whole building."
+  },
+  {
+   "s": "Im Treppenhaus darf auch niemand rauchen.",
+   "e": "Nobody may smoke in the stairwell either."
+  },
+  {
+   "s": "Ich rauche nicht.",
+   "e": "I do not smoke."
+  },
+  {
+   "s": "Gut, sagt er.",
+   "e": "Good, he says."
+  },
+  {
+   "s": "Dann zeigt er mir das Bad.",
+   "e": "Then he shows me the bathroom."
+  },
+  {
+   "s": "Das Bad ist sehr klein.",
+   "e": "The bathroom is very small."
+  },
+  {
+   "s": "Im Bad ist ein Fenster.",
+   "e": "There is a window in the bathroom."
+  },
+  {
+   "s": "Das Fenster muss man aufmachen.",
+   "e": "You have to open the window."
+  },
+  {
+   "s": "Nach dem Duschen macht man das Fenster auf.",
+   "e": "After showering you open the window."
+  },
+  {
+   "s": "Sonst gibt es Schimmel.",
+   "e": "Otherwise you get mould."
+  },
+  {
+   "s": "Schimmel ist teuer, sagt er.",
+   "e": "Mould is expensive, he says."
+  },
+  {
+   "s": "Ich schreibe das nicht auf.",
+   "e": "I do not write that down."
+  },
+  {
+   "s": "Aber ich merke es mir.",
+   "e": "But I remember it."
+  },
+  {
+   "s": "Die Wohnung ist ganz weiss.",
+   "e": "The flat is completely white."
+  },
+  {
+   "s": "Die Wände sind weiss und leer.",
+   "e": "The walls are white and empty."
+  },
+  {
+   "s": "Der Boden ist aus Holz.",
+   "e": "The floor is wood."
+  },
+  {
+   "s": "Der Boden ist sehr sauber.",
+   "e": "The floor is very clean."
+  },
+  {
+   "s": "Alles ist sauber.",
+   "e": "Everything is clean."
+  },
+  {
+   "s": "Die Wohnung ist zu sauber.",
+   "e": "The flat is too clean."
+  },
+  {
+   "s": "Meine alte Wohnung ist nie so sauber.",
+   "e": "My old flat is never this clean."
+  },
+  {
+   "s": "Herr Kaufmann sieht mein Gesicht.",
+   "e": "Herr Kaufmann sees my face."
+  },
+  {
+   "s": "Er erklärt es mir.",
+   "e": "He explains it to me."
+  },
+  {
+   "s": "Eine Wohnung bekommt man sauber.",
+   "e": "You get a flat clean."
+  },
+  {
+   "s": "Und man gibt sie sauber zurück.",
+   "e": "And you give it back clean."
+  },
+  {
+   "s": "Am Ende kommt jemand und schaut alles an.",
+   "e": "At the end somebody comes and looks at everything."
+  },
+  {
+   "s": "Das heisst Wohnungsabgabe.",
+   "e": "That is called the handover."
+  },
+  {
+   "s": "Bei der Wohnungsabgabe schaut man in jede Ecke.",
+   "e": "At the handover they look in every corner."
+  },
+  {
+   "s": "Man schaut auch hinter den Herd.",
+   "e": "They look behind the cooker too."
+  },
+  {
+   "s": "Und in den Kühlschrank.",
+   "e": "And in the fridge."
+  },
+  {
+   "s": "Man muss die Wohnung sehr gut putzen.",
+   "e": "You have to clean the flat very well."
+  },
+  {
+   "s": "Viele Leute putzen nicht selber.",
+   "e": "A lot of people do not clean it themselves."
+  },
+  {
+   "s": "Sie bezahlen jemanden.",
+   "e": "They pay somebody."
+  },
+  {
+   "s": "Putzen kostet dann fünfhundert Franken.",
+   "e": "Cleaning then costs five hundred francs."
+  },
+  {
+   "s": "Fünfhundert Franken nur für das Putzen.",
+   "e": "Five hundred francs just for the cleaning."
+  },
+  {
+   "s": "Ich kann selber putzen, sage ich.",
+   "e": "I can clean it myself, I say."
+  },
+  {
+   "s": "Er lacht kurz.",
+   "e": "He laughs briefly."
+  },
+  {
+   "s": "Das sagen alle am Anfang, sagt er.",
+   "e": "Everybody says that at the start, he says."
+  },
+  {
+   "s": "Dann gibt er mir ein Papier.",
+   "e": "Then he gives me a piece of paper."
+  },
+  {
+   "s": "Auf dem Papier steht die Miete.",
+   "e": "The rent is on the paper."
+  },
+  {
+   "s": "Die Miete ist tausendzweihundert Franken.",
+   "e": "The rent is twelve hundred francs."
+  },
+  {
+   "s": "Die Miete muss ich jeden Monat bezahlen.",
+   "e": "I have to pay the rent every month."
+  },
+  {
+   "s": "Die Miete ist mein grösster Betrag.",
+   "e": "The rent is my biggest outgoing."
+  },
+  {
+   "s": "Ich muss sie bis am dritten bezahlen.",
+   "e": "I have to pay it by the third."
+  },
+  {
+   "s": "Nicht am vierten, sagt er.",
+   "e": "Not on the fourth, he says."
+  },
+  {
+   "s": "Die Miete ist viel Geld.",
+   "e": "The rent is a lot of money."
+  },
+  {
+   "s": "Aber die Wohnung ist gut.",
+   "e": "But the flat is good."
+  },
+  {
+   "s": "Und sie ist nah am Bahnhof.",
+   "e": "And it is close to the station."
+  },
+  {
+   "s": "Dann geht Herr Kaufmann.",
+   "e": "Then Herr Kaufmann leaves."
+  },
+  {
+   "s": "Er sagt: Sie können mich immer anrufen.",
+   "e": "He says: you can always ring me."
+  },
+  {
+   "s": "Aber rufen Sie den Hauswart an.",
+   "e": "But ring the caretaker."
+  },
+  {
+   "s": "Der Hauswart macht das meiste.",
+   "e": "The caretaker does most of it."
+  },
+  {
+   "s": "Er sagt Ade und geht die Treppe hinunter.",
+   "e": "He says Ade and goes down the stairs."
+  },
+  {
+   "s": "Ich bin allein in der Wohnung.",
+   "e": "I am alone in the flat."
+  },
+  {
+   "s": "Ich stehe in der Küche.",
+   "e": "I stand in the kitchen."
+  },
+  {
+   "s": "Ich habe drei Schlüssel in der Hand.",
+   "e": "I have three keys in my hand."
+  },
+  {
+   "s": "Ich lege die Schlüssel auf den Tisch.",
+   "e": "I put the keys on the table."
+  },
+  {
+   "s": "Es gibt keinen Tisch.",
+   "e": "There is no table."
+  },
+  {
+   "s": "Ich lege sie auf den Boden.",
+   "e": "I put them on the floor."
+  },
+  {
+   "s": "Ich habe keine Möbel.",
+   "e": "I have no furniture."
+  },
+  {
+   "s": "Ich habe einen Koffer und drei Schlüssel.",
+   "e": "I have one suitcase and three keys."
+  },
+  {
+   "s": "Ich gehe durch die Wohnung.",
+   "e": "I walk through the flat."
+  },
+  {
+   "s": "Zimmer, Zimmer, Küche, Bad.",
+   "e": "Room, room, kitchen, bathroom."
+  },
+  {
+   "s": "Dann noch einmal.",
+   "e": "Then again."
+  },
+  {
+   "s": "Ich mache jedes Fenster auf.",
+   "e": "I open every window."
+  },
+  {
+   "s": "Die Luft ist kalt.",
+   "e": "The air is cold."
+  },
+  {
+   "s": "Aus dem Fenster sehe ich den Berg.",
+   "e": "Out of the window I see the mountain."
+  },
+  {
+   "s": "Ich muss viel kaufen.",
+   "e": "I have to buy a lot."
+  },
+  {
+   "s": "Ein Bett, einen Tisch, einen Stuhl.",
+   "e": "A bed, a table, a chair."
+  },
+  {
+   "s": "Das kann ich morgen machen.",
+   "e": "I can do that tomorrow."
+  },
+  {
+   "s": "Heute mache ich nichts mehr.",
+   "e": "Today I am doing nothing more."
+  },
+  {
+   "s": "Ich setze mich auf den Boden.",
+   "e": "I sit down on the floor."
+  },
+  {
+   "s": "Der Boden ist hart und sauber.",
+   "e": "The floor is hard and clean."
+  },
+  {
+   "s": "Ich schaue die weisse Wand an.",
+   "e": "I look at the white wall."
+  },
+  {
+   "s": "Das ist jetzt meine Wohnung.",
+   "e": "This is my flat now."
+  },
+  {
+   "s": "Drei Schlüssel und ein leeres Zimmer.",
+   "e": "Three keys and an empty room."
+  },
+  {
+   "s": "Es ist ein Anfang.",
+   "e": "It is a start."
+  }
+ ]
+}

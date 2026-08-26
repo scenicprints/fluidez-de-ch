@@ -11,15 +11,54 @@
   "pl": "Abfahrten",
   "pos": "n"
  },
+ "Abfall": {
+  "en": "waste",
+  "g": "der",
+  "pl": "Abfälle",
+  "pos": "n"
+ },
+ "Abo": {
+  "en": "subscription",
+  "g": "das",
+  "note": "Everything here is an Abo, and every Abo has a notice period",
+  "pl": "Abos",
+  "pos": "n"
+ },
+ "Abstimmung": {
+  "en": "vote",
+  "g": "die",
+  "note": "Four times a year an envelope comes and you tick yes or no",
+  "pl": "Abstimmungen",
+  "pos": "n"
+ },
+ "Abteil": {
+  "en": "compartment",
+  "g": "das",
+  "pl": "Abteile",
+  "pos": "n"
+ },
  "Ade": {
   "en": "goodbye",
   "note": "Swiss. Said on leaving",
   "pos": "intj"
  },
+ "Adresse": {
+  "en": "address",
+  "g": "die",
+  "pl": "Adressen",
+  "pos": "n"
+ },
  "Alkohol": {
   "en": "alcohol",
   "g": "der",
   "pl": "Alkohole",
+  "pos": "n"
+ },
+ "Alu": {
+  "en": "aluminium",
+  "g": "das",
+  "note": "Goes back to the shop, like PET",
+  "pl": "Alu",
   "pos": "n"
  },
  "Anfang": {
@@ -28,10 +67,60 @@
   "pl": "Anfänge",
   "pos": "n"
  },
+ "Angebot": {
+  "en": "offer",
+  "g": "das",
+  "pl": "Angebote",
+  "pos": "n"
+ },
+ "Angst": {
+  "en": "fear",
+  "g": "die",
+  "pl": "Ängste",
+  "pos": "n"
+ },
+ "Anmeldung": {
+  "en": "registration",
+  "g": "die",
+  "pl": "Anmeldungen",
+  "pos": "n"
+ },
+ "Antwort": {
+  "en": "answer",
+  "g": "die",
+  "pl": "Antworten",
+  "pos": "n"
+ },
+ "Apotheke": {
+  "en": "pharmacy",
+  "g": "die",
+  "note": "The first stop for small things. They advise, and send you on when it is more",
+  "pl": "Apotheken",
+  "pos": "n"
+ },
+ "App": {
+  "en": "app",
+  "g": "die",
+  "pl": "Apps",
+  "pos": "n"
+ },
  "Arbeit": {
   "en": "work",
   "g": "die",
   "pl": "Arbeiten",
+  "pos": "n"
+ },
+ "Artikel": {
+  "en": "article",
+  "g": "der",
+  "note": "der, die or das. Learn it welded to the noun or you will be Nuno",
+  "pl": "Artikel",
+  "pos": "n"
+ },
+ "Arzt": {
+  "en": "doctor",
+  "g": "der",
+  "pl": "Ärzte",
   "pos": "n"
  },
  "Auge": {
@@ -44,6 +133,13 @@
   "en": "exception",
   "g": "die",
   "pl": "Ausnahmen",
+  "pos": "n"
+ },
+ "Ausweis": {
+  "en": "ID",
+  "g": "der",
+  "note": "Swiss. Also the driving licence, where Germany says Führerschein",
+  "pl": "Ausweise",
   "pos": "n"
  },
  "Auto": {
@@ -59,16 +155,34 @@
   "pl": "Automaten",
   "pos": "n"
  },
+ "Bad": {
+  "en": "bathroom",
+  "g": "das",
+  "pl": "Bäder",
+  "pos": "n"
+ },
  "Bahnhof": {
   "en": "station",
   "g": "der",
   "pl": "Bahnhöfe",
   "pos": "n"
  },
+ "Balkon": {
+  "en": "balcony",
+  "g": "der",
+  "pl": "Balkone",
+  "pos": "n"
+ },
  "Bank": {
-  "en": "bench",
+  "en": "bank",
   "g": "die",
-  "pl": "Bänke",
+  "pl": "Banken",
+  "pos": "n"
+ },
+ "Bau": {
+  "en": "construction",
+  "g": "der",
+  "pl": "Bauten",
   "pos": "n"
  },
  "Baum": {
@@ -77,16 +191,46 @@
   "pl": "Bäume",
   "pos": "n"
  },
+ "Becher": {
+  "en": "pot/cup",
+  "g": "der",
+  "pl": "Becher",
+  "pos": "n"
+ },
  "Bedeutung": {
   "en": "meaning",
   "g": "die",
   "pl": "Bedeutungen",
   "pos": "n"
  },
+ "Befehl": {
+  "en": "order/command",
+  "g": "der",
+  "pl": "Befehle",
+  "pos": "n"
+ },
  "Berg": {
   "en": "mountain",
   "g": "der",
   "pl": "Berge",
+  "pos": "n"
+ },
+ "Beruf": {
+  "en": "occupation",
+  "g": "der",
+  "pl": "Berufe",
+  "pos": "n"
+ },
+ "Bestätigung": {
+  "en": "confirmation",
+  "g": "die",
+  "pl": "Bestätigungen",
+  "pos": "n"
+ },
+ "Betrag": {
+  "en": "amount",
+  "g": "der",
+  "pl": "Beträge",
   "pos": "n"
  },
  "Bett": {
@@ -99,6 +243,12 @@
   "en": "picture",
   "g": "das",
   "pl": "Bilder",
+  "pos": "n"
+ },
+ "Bildschirm": {
+  "en": "screen",
+  "g": "der",
+  "pl": "Bildschirme",
   "pos": "n"
  },
  "Billett": {
@@ -131,6 +281,31 @@
   "en": "boat",
   "g": "das",
   "pl": "Boote",
+  "pos": "n"
+ },
+ "Brief": {
+  "en": "letter",
+  "g": "der",
+  "pl": "Briefe",
+  "pos": "n"
+ },
+ "Briefkasten": {
+  "en": "letterbox",
+  "g": "der",
+  "pl": "Briefkästen",
+  "pos": "n"
+ },
+ "Briefmarke": {
+  "en": "stamp",
+  "g": "die",
+  "pl": "Briefmarken",
+  "pos": "n"
+ },
+ "Brockenhaus": {
+  "en": "second-hand charity shop",
+  "g": "das",
+  "note": "Swiss. Furnishing from one is normal, not poor",
+  "pl": "Brockenhäuser",
   "pos": "n"
  },
  "Brot": {
@@ -176,6 +351,30 @@
   "pl": "Cafés",
   "pos": "n"
  },
+ "Chaos": {
+  "en": "chaos",
+  "g": "das",
+  "pl": "Chaos",
+  "pos": "n"
+ },
+ "Code": {
+  "en": "code",
+  "g": "der",
+  "pl": "Codes",
+  "pos": "n"
+ },
+ "Computer": {
+  "en": "computer",
+  "g": "der",
+  "pl": "Computer",
+  "pos": "n"
+ },
+ "Container": {
+  "en": "container",
+  "g": "der",
+  "pl": "Container",
+  "pos": "n"
+ },
  "Crème": {
   "en": "coffee with cream",
   "g": "der",
@@ -195,10 +394,22 @@
   "pl": "Dank",
   "pos": "n"
  },
+ "Datum": {
+  "en": "date",
+  "g": "das",
+  "pl": "Daten",
+  "pos": "n"
+ },
  "Decke": {
   "en": "ceiling/blanket",
   "g": "die",
   "pl": "Decken",
+  "pos": "n"
+ },
+ "Deckel": {
+  "en": "lid",
+  "g": "der",
+  "pl": "Deckel",
   "pos": "n"
  },
  "Deutsch": {
@@ -208,16 +419,46 @@
   "pl": "Deutsch",
   "pos": "n"
  },
+ "Diener": {
+  "en": "servant",
+  "g": "der",
+  "pl": "Diener",
+  "pos": "n"
+ },
+ "Dienstag": {
+  "en": "Tuesday",
+  "g": "der",
+  "pl": "Dienstage",
+  "pos": "n"
+ },
  "Ding": {
   "en": "thing",
   "g": "das",
   "pl": "Dinge",
   "pos": "n"
  },
+ "Dokument": {
+  "en": "document",
+  "g": "das",
+  "pl": "Dokumente",
+  "pos": "n"
+ },
+ "Donnerstag": {
+  "en": "Thursday",
+  "g": "der",
+  "pl": "Donnerstage",
+  "pos": "n"
+ },
  "Dorf": {
   "en": "village",
   "g": "das",
   "pl": "Dörfer",
+  "pos": "n"
+ },
+ "Drucker": {
+  "en": "printer",
+  "g": "der",
+  "pl": "Drucker",
   "pos": "n"
  },
  "Durst": {
@@ -250,6 +491,12 @@
   "pl": "Entschuldigungen",
   "pos": "n"
  },
+ "Erdgeschoss": {
+  "en": "ground floor",
+  "g": "das",
+  "pl": "Erdgeschosse",
+  "pos": "n"
+ },
  "Fahrplan": {
   "en": "timetable",
   "g": "der",
@@ -268,10 +515,35 @@
   "pl": "Familien",
   "pos": "n"
  },
+ "Farbe": {
+  "en": "colour",
+  "g": "die",
+  "pl": "Farben",
+  "pos": "n"
+ },
+ "Fasnacht": {
+  "en": "carnival",
+  "g": "die",
+  "note": "Luzern starts at five in the morning and runs six days",
+  "pl": "Fasnachten",
+  "pos": "n"
+ },
+ "Februar": {
+  "en": "February",
+  "g": "der",
+  "pl": "Februare",
+  "pos": "n"
+ },
  "Fehler": {
   "en": "mistake",
   "g": "der",
   "pl": "Fehler",
+  "pos": "n"
+ },
+ "Feld": {
+  "en": "box/field",
+  "g": "das",
+  "pl": "Felder",
   "pos": "n"
  },
  "Fenster": {
@@ -280,10 +552,22 @@
   "pl": "Fenster",
   "pos": "n"
  },
+ "Fernseher": {
+  "en": "television",
+  "g": "der",
+  "pl": "Fernseher",
+  "pos": "n"
+ },
  "Feuer": {
   "en": "fire",
   "g": "das",
   "pl": "Feuer",
+  "pos": "n"
+ },
+ "Fieber": {
+  "en": "fever",
+  "g": "das",
+  "pl": "Fieber",
   "pos": "n"
  },
  "Figur": {
@@ -310,10 +594,23 @@
   "pl": "Flugzeuge",
   "pos": "n"
  },
+ "Formular": {
+  "en": "form",
+  "g": "das",
+  "pl": "Formulare",
+  "pos": "n"
+ },
  "Frage": {
   "en": "question",
   "g": "die",
   "pl": "Fragen",
+  "pos": "n"
+ },
+ "Franchise": {
+  "en": "excess",
+  "g": "die",
+  "note": "What you pay yourself before the insurer starts. A high one means a low premium",
+  "pl": "Franchisen",
   "pos": "n"
  },
  "Franken": {
@@ -335,6 +632,18 @@
   "pl": "Freitage",
   "pos": "n"
  },
+ "Freund": {
+  "en": "friend",
+  "g": "der",
+  "pl": "Freunde",
+  "pos": "n"
+ },
+ "Frist": {
+  "en": "deadline/notice period",
+  "g": "die",
+  "pl": "Fristen",
+  "pos": "n"
+ },
  "Föhn": {
   "en": "the Föhn wind",
   "g": "der",
@@ -343,9 +652,28 @@
   "pos": "n"
  },
  "Gang": {
-  "en": "passage",
+  "en": "hallway/corridor",
   "g": "der",
   "pl": "Gänge",
+  "pos": "n"
+ },
+ "Gebühr": {
+  "en": "fee",
+  "g": "die",
+  "pl": "Gebühren",
+  "pos": "n"
+ },
+ "Gebührensack": {
+  "en": "official rubbish bag",
+  "g": "der",
+  "note": "You pay for collection through the price of the bag. The wrong bag is not taken",
+  "pl": "Gebührensäcke",
+  "pos": "n"
+ },
+ "Gefallen": {
+  "en": "favour",
+  "g": "der",
+  "pl": "Gefallen",
   "pos": "n"
  },
  "Gefühl": {
@@ -366,16 +694,41 @@
   "pl": "Geländer",
   "pos": "n"
  },
+ "Gemeinde": {
+  "en": "commune",
+  "g": "die",
+  "note": "The local authority. Everything else follows from registering with it",
+  "pl": "Gemeinden",
+  "pos": "n"
+ },
  "Gerede": {
   "en": "chatter",
   "g": "das",
   "pl": "Gerede",
   "pos": "n"
  },
+ "Gerät": {
+  "en": "device",
+  "g": "das",
+  "pl": "Geräte",
+  "pos": "n"
+ },
  "Geräusch": {
   "en": "noise",
   "g": "das",
   "pl": "Geräusche",
+  "pos": "n"
+ },
+ "Geschichte": {
+  "en": "story",
+  "g": "die",
+  "pl": "Geschichten",
+  "pos": "n"
+ },
+ "Gesetz": {
+  "en": "law",
+  "g": "das",
+  "pl": "Gesetze",
   "pos": "n"
  },
  "Gesicht": {
@@ -416,15 +769,40 @@
   "pl": "Glocken",
   "pos": "n"
  },
+ "Grenze": {
+  "en": "limit/border",
+  "g": "die",
+  "pl": "Grenzen",
+  "pos": "n"
+ },
+ "Gruppe": {
+  "en": "group",
+  "g": "die",
+  "pl": "Gruppen",
+  "pos": "n"
+ },
  "Grüezi": {
   "en": "hello",
   "note": "The Swiss greeting. Said to strangers, and not saying it is noticed",
   "pos": "intj"
  },
+ "Guggenmusik": {
+  "en": "carnival band",
+  "g": "die",
+  "note": "They practise all year in order to play deliberately out of tune",
+  "pl": "Guggenmusiken",
+  "pos": "n"
+ },
  "Halle": {
   "en": "hall",
   "g": "die",
   "pl": "Hallen",
+  "pos": "n"
+ },
+ "Hals": {
+  "en": "throat/neck",
+  "g": "der",
+  "pl": "Hälse",
   "pos": "n"
  },
  "Halt": {
@@ -457,6 +835,45 @@
   "pl": "Häuser",
   "pos": "n"
  },
+ "Haushalt": {
+  "en": "household",
+  "g": "der",
+  "pl": "Haushalte",
+  "pos": "n"
+ },
+ "Hausordnung": {
+  "en": "house rules",
+  "g": "die",
+  "note": "Hangs in every Swiss building and everybody keeps to it",
+  "pl": "Hausordnungen",
+  "pos": "n"
+ },
+ "Hauswart": {
+  "en": "caretaker",
+  "g": "der",
+  "note": "Not a landlord and not a servant. You report a problem to him",
+  "pl": "Hauswarte",
+  "pos": "n"
+ },
+ "Herbst": {
+  "en": "autumn",
+  "g": "der",
+  "pl": "Herbste",
+  "pos": "n"
+ },
+ "Herd": {
+  "en": "cooker",
+  "g": "der",
+  "pl": "Herde",
+  "pos": "n"
+ },
+ "Herr": {
+  "en": "Mr/gentleman",
+  "g": "der",
+  "note": "Herrn in every case but the nominative",
+  "pl": "Herren",
+  "pos": "n"
+ },
  "Himmel": {
   "en": "sky",
   "g": "der",
@@ -472,6 +889,12 @@
   "en": "wood",
   "g": "das",
   "pl": "Hölzer",
+  "pos": "n"
+ },
+ "Horn": {
+  "en": "horn",
+  "g": "das",
+  "pl": "Hörner",
   "pos": "n"
  },
  "Hund": {
@@ -504,16 +927,58 @@
   "pl": "Höhen",
   "pos": "n"
  },
+ "Idee": {
+  "en": "idea",
+  "g": "die",
+  "pl": "Ideen",
+  "pos": "n"
+ },
+ "Instrument": {
+  "en": "instrument",
+  "g": "das",
+  "pl": "Instrumente",
+  "pos": "n"
+ },
+ "Internet": {
+  "en": "internet",
+  "g": "das",
+  "pl": "Internet",
+  "pos": "n"
+ },
+ "Irrtum": {
+  "en": "error",
+  "g": "der",
+  "pl": "Irrtümer",
+  "pos": "n"
+ },
  "Jacke": {
   "en": "jacket",
   "g": "die",
   "pl": "Jacken",
   "pos": "n"
  },
+ "Jahr": {
+  "en": "year",
+  "g": "das",
+  "pl": "Jahre",
+  "pos": "n"
+ },
  "Jahreszeit": {
   "en": "season",
   "g": "die",
   "pl": "Jahreszeiten",
+  "pos": "n"
+ },
+ "Januar": {
+  "en": "January",
+  "g": "der",
+  "pl": "Januare",
+  "pos": "n"
+ },
+ "Joghurt": {
+  "en": "yoghurt",
+  "g": "das",
+  "pl": "Joghurts",
   "pos": "n"
  },
  "Kaffee": {
@@ -535,10 +1000,35 @@
   "pl": "Karten",
   "pos": "n"
  },
+ "Karton": {
+  "en": "cardboard",
+  "g": "der",
+  "pl": "Kartons",
+  "pos": "n"
+ },
  "Kasse": {
   "en": "till",
   "g": "die",
   "pl": "Kassen",
+  "pos": "n"
+ },
+ "Kasten": {
+  "en": "box/case",
+  "g": "der",
+  "pl": "Kästen",
+  "pos": "n"
+ },
+ "Kehricht": {
+  "en": "rubbish",
+  "g": "der",
+  "note": "Swiss. Germany says Müll",
+  "pl": "Kehricht",
+  "pos": "n"
+ },
+ "Keller": {
+  "en": "cellar",
+  "g": "der",
+  "pl": "Keller",
   "pos": "n"
  },
  "Kind": {
@@ -553,6 +1043,18 @@
   "pl": "Kirchen",
   "pos": "n"
  },
+ "Kittel": {
+  "en": "coat",
+  "g": "der",
+  "pl": "Kittel",
+  "pos": "n"
+ },
+ "Kleber": {
+  "en": "sticker",
+  "g": "der",
+  "pl": "Kleber",
+  "pos": "n"
+ },
  "Knick": {
   "en": "bend",
   "g": "der",
@@ -565,10 +1067,47 @@
   "pl": "Koffer",
   "pos": "n"
  },
+ "Kompliment": {
+  "en": "compliment",
+  "g": "das",
+  "pl": "Komplimente",
+  "pos": "n"
+ },
+ "Konto": {
+  "en": "bank account",
+  "g": "das",
+  "pl": "Konten",
+  "pos": "n"
+ },
  "Kopf": {
   "en": "head",
   "g": "der",
   "pl": "Köpfe",
+  "pos": "n"
+ },
+ "Kopie": {
+  "en": "copy",
+  "g": "die",
+  "pl": "Kopien",
+  "pos": "n"
+ },
+ "Korb": {
+  "en": "basket",
+  "g": "der",
+  "pl": "Körbe",
+  "pos": "n"
+ },
+ "Krankenkasse": {
+  "en": "health insurer",
+  "g": "die",
+  "note": "Compulsory, private, and yours to choose within three months",
+  "pl": "Krankenkassen",
+  "pos": "n"
+ },
+ "Kreuz": {
+  "en": "cross",
+  "g": "das",
+  "pl": "Kreuze",
   "pos": "n"
  },
  "Kuh": {
@@ -577,16 +1116,47 @@
   "pl": "Kühe",
   "pos": "n"
  },
+ "Kuvert": {
+  "en": "envelope",
+  "g": "das",
+  "note": "Swiss. Germany says Briefumschlag",
+  "pl": "Kuverts",
+  "pos": "n"
+ },
  "Käse": {
   "en": "cheese",
   "g": "der",
   "pl": "Käse",
   "pos": "n"
  },
+ "Küche": {
+  "en": "kitchen",
+  "g": "die",
+  "pl": "Küchen",
+  "pos": "n"
+ },
+ "Kühlschrank": {
+  "en": "fridge",
+  "g": "der",
+  "pl": "Kühlschränke",
+  "pos": "n"
+ },
  "Laden": {
   "en": "shop",
   "g": "der",
   "pl": "Läden",
+  "pos": "n"
+ },
+ "Lampe": {
+  "en": "lamp",
+  "g": "die",
+  "pl": "Lampen",
+  "pos": "n"
+ },
+ "Land": {
+  "en": "country",
+  "g": "das",
+  "pl": "Länder",
   "pos": "n"
  },
  "Leitung": {
@@ -614,16 +1184,47 @@
   "pl": "Lifte",
   "pos": "n"
  },
+ "Liste": {
+  "en": "list",
+  "g": "die",
+  "pl": "Listen",
+  "pos": "n"
+ },
+ "Lohn": {
+  "en": "pay",
+  "g": "der",
+  "pl": "Löhne",
+  "pos": "n"
+ },
  "Luft": {
   "en": "air",
   "g": "die",
   "pl": "Lüfte",
   "pos": "n"
  },
+ "Lärm": {
+  "en": "noise",
+  "g": "der",
+  "pl": "Lärm",
+  "pos": "n"
+ },
  "Löffel": {
   "en": "spoon",
   "g": "der",
   "pl": "Löffel",
+  "pos": "n"
+ },
+ "Lösung": {
+  "en": "solution",
+  "g": "die",
+  "pl": "Lösungen",
+  "pos": "n"
+ },
+ "Mahnung": {
+  "en": "reminder",
+  "g": "die",
+  "note": "What arrives if you miss the Frist. It costs",
+  "pl": "Mahnungen",
   "pos": "n"
  },
  "Mal": {
@@ -638,10 +1239,46 @@
   "pl": "Männer",
   "pos": "n"
  },
+ "Mappe": {
+  "en": "folder",
+  "g": "die",
+  "pl": "Mappen",
+  "pos": "n"
+ },
  "Maschine": {
   "en": "machine",
   "g": "die",
   "pl": "Maschinen",
+  "pos": "n"
+ },
+ "Maske": {
+  "en": "mask",
+  "g": "die",
+  "pl": "Masken",
+  "pos": "n"
+ },
+ "Medikament": {
+  "en": "medicine",
+  "g": "das",
+  "pl": "Medikamente",
+  "pos": "n"
+ },
+ "Mensch": {
+  "en": "person",
+  "g": "der",
+  "pl": "Menschen",
+  "pos": "n"
+ },
+ "Miete": {
+  "en": "rent",
+  "g": "die",
+  "pl": "Mieten",
+  "pos": "n"
+ },
+ "Mietvertrag": {
+  "en": "rental contract",
+  "g": "der",
+  "pl": "Mietverträge",
   "pos": "n"
  },
  "Milch": {
@@ -656,10 +1293,28 @@
   "pl": "Minuten",
   "pos": "n"
  },
+ "Mittag": {
+  "en": "midday",
+  "g": "der",
+  "pl": "Mittage",
+  "pos": "n"
+ },
  "Mitte": {
   "en": "middle",
   "g": "die",
   "pl": "Mitten",
+  "pos": "n"
+ },
+ "Mitternacht": {
+  "en": "midnight",
+  "g": "die",
+  "pl": "Mitternacht",
+  "pos": "n"
+ },
+ "Mittwoch": {
+  "en": "Wednesday",
+  "g": "der",
+  "pl": "Mittwoche",
   "pos": "n"
  },
  "Moment": {
@@ -698,6 +1353,19 @@
   "pl": "Musik",
   "pos": "n"
  },
+ "Möbel": {
+  "en": "furniture",
+  "g": "das",
+  "note": "Nearly always plural: die Möbel",
+  "pl": "Möbel",
+  "pos": "n"
+ },
+ "Mühe": {
+  "en": "trouble/effort",
+  "g": "die",
+  "pl": "Mühen",
+  "pos": "n"
+ },
  "Münze": {
   "en": "coin",
   "g": "die",
@@ -708,6 +1376,13 @@
   "en": "neighbour",
   "g": "der",
   "pl": "Nachbarn",
+  "pos": "n"
+ },
+ "Nachbarin": {
+  "en": "neighbour",
+  "g": "die",
+  "note": "A female neighbour",
+  "pl": "Nachbarinnen",
   "pos": "n"
  },
  "Nachmittag": {
@@ -740,6 +1415,13 @@
   "pl": "Nummern",
   "pos": "n"
  },
+ "Occasion": {
+  "en": "second-hand item",
+  "g": "die",
+  "note": "Swiss, from the French. A used car or bike is an Occasion",
+  "pl": "Occasionen",
+  "pos": "n"
+ },
  "Oktober": {
   "en": "October",
   "g": "der",
@@ -750,6 +1432,12 @@
   "en": "order",
   "g": "die",
   "pl": "Ordnungen",
+  "pos": "n"
+ },
+ "Paket": {
+  "en": "parcel",
+  "g": "das",
+  "pl": "Pakete",
   "pos": "n"
  },
  "Papier": {
@@ -769,6 +1457,12 @@
   "g": "der",
   "note": "Swiss. Germany says Bahnsteig",
   "pl": "Perrons",
+  "pos": "n"
+ },
+ "Plan": {
+  "en": "plan/rota",
+  "g": "der",
+  "pl": "Pläne",
   "pos": "n"
  },
  "Platz": {
@@ -796,6 +1490,12 @@
   "pl": "Probleme",
   "pos": "n"
  },
+ "Prämie": {
+  "en": "premium",
+  "g": "die",
+  "pl": "Prämien",
+  "pos": "n"
+ },
  "Punkt": {
   "en": "point/dot",
   "g": "der",
@@ -809,11 +1509,42 @@
   "pl": "Päckchen",
   "pos": "n"
  },
+ "Quittung": {
+  "en": "receipt",
+  "g": "die",
+  "pl": "Quittungen",
+  "pos": "n"
+ },
+ "Radio": {
+  "en": "radio",
+  "g": "das",
+  "pl": "Radios",
+  "pos": "n"
+ },
  "Rappen": {
   "en": "rappen",
   "g": "der",
   "note": "One hundredth of a franc. Nothing below five",
   "pl": "Rappen",
+  "pos": "n"
+ },
+ "Rat": {
+  "en": "advice",
+  "g": "der",
+  "pl": "Ratschläge",
+  "pos": "n"
+ },
+ "Rechnung": {
+  "en": "bill",
+  "g": "die",
+  "pl": "Rechnungen",
+  "pos": "n"
+ },
+ "Recht": {
+  "en": "right",
+  "g": "das",
+  "note": "Recht haben is to be right",
+  "pl": "Rechte",
   "pos": "n"
  },
  "Regal": {
@@ -834,10 +1565,40 @@
   "pl": "Regen",
   "pos": "n"
  },
+ "Reihe": {
+  "en": "queue/row",
+  "g": "die",
+  "pl": "Reihen",
+  "pos": "n"
+ },
+ "Religion": {
+  "en": "religion",
+  "g": "die",
+  "pl": "Religionen",
+  "pos": "n"
+ },
  "Rest": {
   "en": "rest/remainder",
   "g": "der",
   "pl": "Reste",
+  "pos": "n"
+ },
+ "Restaurant": {
+  "en": "restaurant",
+  "g": "das",
+  "pl": "Restaurants",
+  "pos": "n"
+ },
+ "Rohr": {
+  "en": "pipe",
+  "g": "das",
+  "pl": "Rohre",
+  "pos": "n"
+ },
+ "Rolle": {
+  "en": "roll",
+  "g": "die",
+  "pl": "Rollen",
   "pos": "n"
  },
  "Rolltreppe": {
@@ -850,6 +1611,13 @@
   "en": "quiet",
   "g": "die",
   "pl": "Ruhe",
+  "pos": "n"
+ },
+ "Ruhezeit": {
+  "en": "quiet hours",
+  "g": "die",
+  "note": "Ten at night to seven, midday to one, and all of Sunday",
+  "pl": "Ruhezeiten",
   "pos": "n"
  },
  "Sache": {
@@ -870,6 +1638,12 @@
   "note": "From the French salut. Informal, and strongest around Zurich, Basel and the centre",
   "pos": "intj"
  },
+ "Sammelstelle": {
+  "en": "collection point",
+  "g": "die",
+  "pl": "Sammelstellen",
+  "pos": "n"
+ },
  "Samstag": {
   "en": "Saturday",
   "g": "der",
@@ -882,6 +1656,12 @@
   "pl": "Sätze",
   "pos": "n"
  },
+ "Schachtel": {
+  "en": "box",
+  "g": "die",
+  "pl": "Schachteln",
+  "pos": "n"
+ },
  "Schale": {
   "en": "coffee with a lot of milk",
   "g": "die",
@@ -890,7 +1670,7 @@
   "pos": "n"
  },
  "Schalter": {
-  "en": "counter",
+  "en": "switch/counter",
   "g": "der",
   "pl": "Schalter",
   "pos": "n"
@@ -908,10 +1688,34 @@
   "pl": "Schilder",
   "pos": "n"
  },
+ "Schimmel": {
+  "en": "mould",
+  "g": "der",
+  "pl": "Schimmel",
+  "pos": "n"
+ },
  "Schirm": {
   "en": "umbrella",
   "g": "der",
   "pl": "Schirme",
+  "pos": "n"
+ },
+ "Schluss": {
+  "en": "end",
+  "g": "der",
+  "pl": "Schlüsse",
+  "pos": "n"
+ },
+ "Schlüssel": {
+  "en": "key",
+  "g": "der",
+  "pl": "Schlüssel",
+  "pos": "n"
+ },
+ "Schmerz": {
+  "en": "pain",
+  "g": "der",
+  "pl": "Schmerzen",
   "pos": "n"
  },
  "Schnee": {
@@ -920,10 +1724,28 @@
   "pl": "Schnee",
   "pos": "n"
  },
+ "Schnur": {
+  "en": "string",
+  "g": "die",
+  "pl": "Schnüre",
+  "pos": "n"
+ },
  "Schokolade": {
   "en": "chocolate",
   "g": "die",
   "pl": "Schokoladen",
+  "pos": "n"
+ },
+ "Schritt": {
+  "en": "step",
+  "g": "der",
+  "pl": "Schritte",
+  "pos": "n"
+ },
+ "Schublade": {
+  "en": "drawer",
+  "g": "die",
+  "pl": "Schubladen",
   "pos": "n"
  },
  "Schuh": {
@@ -959,7 +1781,7 @@
   "pos": "n"
  },
  "Seite": {
-  "en": "side",
+  "en": "page/side",
   "g": "die",
   "pl": "Seiten",
   "pos": "n"
@@ -987,6 +1809,18 @@
   "pl": "Siege",
   "pos": "n"
  },
+ "Sinn": {
+  "en": "sense/point",
+  "g": "der",
+  "pl": "Sinne",
+  "pos": "n"
+ },
+ "Socke": {
+  "en": "sock",
+  "g": "die",
+  "pl": "Socken",
+  "pos": "n"
+ },
  "Sonne": {
   "en": "sun",
   "g": "die",
@@ -1007,6 +1841,12 @@
   "pl": "Sonntagabende",
   "pos": "n"
  },
+ "Speck": {
+  "en": "bacon",
+  "g": "der",
+  "pl": "Speck",
+  "pos": "n"
+ },
  "Spruch": {
   "en": "saying",
   "g": "der",
@@ -1017,6 +1857,12 @@
   "en": "town/city",
   "g": "die",
   "pl": "Städte",
+  "pos": "n"
+ },
+ "Stapel": {
+  "en": "stack",
+  "g": "der",
+  "pl": "Stapel",
   "pos": "n"
  },
  "Stein": {
@@ -1031,6 +1877,12 @@
   "pl": "Stellen",
   "pos": "n"
  },
+ "Steuer": {
+  "en": "tax",
+  "g": "die",
+  "pl": "Steuern",
+  "pos": "n"
+ },
  "Stille": {
   "en": "silence",
   "g": "die",
@@ -1043,11 +1895,36 @@
   "pl": "Stimmen",
   "pos": "n"
  },
+ "Stock": {
+  "en": "floor/storey",
+  "g": "der",
+  "note": "The first Stock is one ABOVE the ground floor, which is the Erdgeschoss",
+  "pl": "Stockwerke",
+  "pos": "n"
+ },
+ "Stockwerk": {
+  "en": "storey",
+  "g": "das",
+  "pl": "Stockwerke",
+  "pos": "n"
+ },
  "Strasse": {
   "en": "street",
   "g": "die",
   "note": "Never with an eszett in Switzerland",
   "pl": "Strassen",
+  "pos": "n"
+ },
+ "Strom": {
+  "en": "electricity",
+  "g": "der",
+  "pl": "Strom",
+  "pos": "n"
+ },
+ "Stuhl": {
+  "en": "chair",
+  "g": "der",
+  "pl": "Stühle",
   "pos": "n"
  },
  "Stunde": {
@@ -1060,6 +1937,12 @@
   "en": "piece",
   "g": "das",
   "pl": "Stücke",
+  "pos": "n"
+ },
+ "Suppe": {
+  "en": "soup",
+  "g": "die",
+  "pl": "Suppen",
   "pos": "n"
  },
  "Süden": {
@@ -1098,6 +1981,18 @@
   "pl": "Teile",
   "pos": "n"
  },
+ "Teller": {
+  "en": "plate",
+  "g": "der",
+  "pl": "Teller",
+  "pos": "n"
+ },
+ "Teppich": {
+  "en": "rug",
+  "g": "der",
+  "pl": "Teppiche",
+  "pos": "n"
+ },
  "Termin": {
   "en": "appointment",
   "g": "der",
@@ -1105,7 +2000,7 @@
   "pos": "n"
  },
  "Thema": {
-  "en": "topic",
+  "en": "theme",
   "g": "das",
   "pl": "Themen",
   "pos": "n"
@@ -1114,6 +2009,18 @@
   "en": "table",
   "g": "der",
   "pl": "Tische",
+  "pos": "n"
+ },
+ "Ton": {
+  "en": "note/sound",
+  "g": "der",
+  "pl": "Töne",
+  "pos": "n"
+ },
+ "Topf": {
+  "en": "pot",
+  "g": "der",
+  "pl": "Töpfe",
   "pos": "n"
  },
  "Tor": {
@@ -1128,16 +2035,47 @@
   "pl": "Treppen",
   "pos": "n"
  },
+ "Treppenhaus": {
+  "en": "stairwell",
+  "g": "das",
+  "pl": "Treppenhäuser",
+  "pos": "n"
+ },
+ "Trick": {
+  "en": "trick",
+  "g": "der",
+  "pl": "Tricks",
+  "pos": "n"
+ },
  "Trinkwasser": {
   "en": "drinking water",
   "g": "das",
   "pl": "Trinkwasser",
   "pos": "n"
  },
+ "Trommel": {
+  "en": "drum",
+  "g": "die",
+  "pl": "Trommeln",
+  "pos": "n"
+ },
+ "Trompete": {
+  "en": "trumpet",
+  "g": "die",
+  "pl": "Trompeten",
+  "pos": "n"
+ },
  "Tschüss": {
   "en": "bye",
   "note": "Heard, mostly from younger people. Ade is the Luzern word",
   "pos": "intj"
+ },
+ "Tumbler": {
+  "en": "tumble dryer",
+  "g": "der",
+  "note": "Swiss. Germany says Trockner",
+  "pl": "Tumbler",
+  "pos": "n"
  },
  "Tunnel": {
   "en": "tunnel",
@@ -1169,6 +2107,24 @@
   "pl": "Uhren",
   "pos": "n"
  },
+ "Umwelt": {
+  "en": "environment",
+  "g": "die",
+  "pl": "Umwelt",
+  "pos": "n"
+ },
+ "Unterschied": {
+  "en": "difference",
+  "g": "der",
+  "pl": "Unterschiede",
+  "pos": "n"
+ },
+ "Unterschrift": {
+  "en": "signature",
+  "g": "die",
+  "pl": "Unterschriften",
+  "pos": "n"
+ },
  "Ursache": {
   "en": "cause",
   "g": "die",
@@ -1176,10 +2132,35 @@
   "pl": "Ursachen",
   "pos": "n"
  },
+ "Velo": {
+  "en": "bicycle",
+  "g": "das",
+  "note": "Swiss. Germany says Fahrrad",
+  "pl": "Velos",
+  "pos": "n"
+ },
+ "Vermieter": {
+  "en": "landlord",
+  "g": "der",
+  "pl": "Vermieter",
+  "pos": "n"
+ },
+ "Versicherung": {
+  "en": "insurance",
+  "g": "die",
+  "pl": "Versicherungen",
+  "pos": "n"
+ },
  "Versprechen": {
   "en": "promise",
   "g": "das",
   "pl": "Versprechen",
+  "pos": "n"
+ },
+ "Vertrag": {
+  "en": "contract",
+  "g": "der",
+  "pl": "Verträge",
   "pos": "n"
  },
  "Viertel": {
@@ -1194,6 +2175,18 @@
   "pl": "Vögel",
   "pos": "n"
  },
+ "Volk": {
+  "en": "the people",
+  "g": "das",
+  "pl": "Völker",
+  "pos": "n"
+ },
+ "Vorname": {
+  "en": "first name",
+  "g": "der",
+  "pl": "Vornamen",
+  "pos": "n"
+ },
  "Wand": {
   "en": "wall",
   "g": "die",
@@ -1204,6 +2197,12 @@
   "en": "warning",
   "g": "die",
   "pl": "Warnungen",
+  "pos": "n"
+ },
+ "Waschküche": {
+  "en": "laundry room",
+  "g": "die",
+  "pl": "Waschküchen",
   "pos": "n"
  },
  "Wasser": {
@@ -1232,6 +2231,12 @@
   "pl": "Weine",
   "pos": "n"
  },
+ "Werkzeug": {
+  "en": "tool",
+  "g": "das",
+  "pl": "Werkzeuge",
+  "pos": "n"
+ },
  "Wetter": {
   "en": "weather",
   "g": "das",
@@ -1251,10 +2256,20 @@
   "pl": "Wiesen",
   "pos": "n"
  },
+ "Willkommen": {
+  "en": "welcome",
+  "pos": "intj"
+ },
  "Wind": {
   "en": "wind",
   "g": "der",
   "pl": "Winde",
+  "pos": "n"
+ },
+ "Winter": {
+  "en": "winter",
+  "g": "der",
+  "pl": "Winter",
   "pos": "n"
  },
  "Woche": {
@@ -1281,6 +2296,18 @@
   "pl": "Wörter",
   "pos": "n"
  },
+ "Wäsche": {
+  "en": "washing",
+  "g": "die",
+  "pl": "Wäsche",
+  "pos": "n"
+ },
+ "Wörterbuch": {
+  "en": "dictionary",
+  "g": "das",
+  "pl": "Wörterbücher",
+  "pos": "n"
+ },
  "Zeichen": {
   "en": "sign",
   "g": "das",
@@ -1303,6 +2330,12 @@
   "en": "newspaper",
   "g": "die",
   "pl": "Zeitungen",
+  "pos": "n"
+ },
+ "Zettel": {
+  "en": "note",
+  "g": "der",
+  "pl": "Zettel",
   "pos": "n"
  },
  "Zimmer": {
@@ -1339,6 +2372,22 @@
  "aber": {
   "en": "but",
   "pos": "conj"
+ },
+ "abholen": {
+  "en": "to collect/to pick up",
+  "pos": "v"
+ },
+ "abmachen": {
+  "en": "to take off",
+  "pos": "v"
+ },
+ "absichtlich": {
+  "en": "on purpose",
+  "pos": "adv"
+ },
+ "abstimmen": {
+  "en": "to vote",
+  "pos": "v"
  },
  "acht": {
   "en": "eight",
@@ -1409,6 +2458,14 @@
   "en": "to arrive",
   "pos": "v"
  },
+ "anmelden": {
+  "en": "to register",
+  "pos": "v"
+ },
+ "anrufen": {
+  "en": "to ring somebody",
+  "pos": "v"
+ },
  "ans": {
   "en": "to the",
   "note": "an + das",
@@ -1418,9 +2475,25 @@
   "en": "to look at",
   "pos": "v"
  },
+ "anstellen": {
+  "en": "to join a queue",
+  "pos": "v"
+ },
+ "antworten": {
+  "en": "to answer",
+  "pos": "v"
+ },
  "anziehen": {
   "en": "to put on",
   "pos": "v"
+ },
+ "arbeiten": {
+  "en": "to work",
+  "pos": "v"
+ },
+ "arm": {
+  "en": "poor",
+  "pos": "adj"
  },
  "atmen": {
   "en": "to breathe",
@@ -1434,6 +2507,10 @@
   "en": "on",
   "pos": "prep"
  },
+ "aufhängen": {
+  "en": "to hang up",
+  "pos": "v"
+ },
  "aufhören": {
   "en": "to stop",
   "pos": "v"
@@ -1442,13 +2519,25 @@
   "en": "to open",
   "pos": "v"
  },
+ "aufpassen": {
+  "en": "to pay attention",
+  "pos": "v"
+ },
  "aufs": {
   "en": "onto the",
   "note": "auf + das",
   "pos": "contr"
  },
+ "aufschreiben": {
+  "en": "to write down",
+  "pos": "v"
+ },
  "aufstehen": {
   "en": "to stand up",
+  "pos": "v"
+ },
+ "aufwachen": {
+  "en": "to wake up",
   "pos": "v"
  },
  "aus": {
@@ -1457,6 +2546,10 @@
  },
  "ausatmen": {
   "en": "to breathe out",
+  "pos": "v"
+ },
+ "ausfüllen": {
+  "en": "to fill in",
   "pos": "v"
  },
  "auslachen": {
@@ -1473,6 +2566,10 @@
  },
  "aussteigen": {
   "en": "to get off",
+  "pos": "v"
+ },
+ "ausziehen": {
+  "en": "to take off/to move out",
   "pos": "v"
  },
  "backen": {
@@ -1494,6 +2591,10 @@
  "bei": {
   "en": "at/near",
   "pos": "prep"
+ },
+ "beibringen": {
+  "en": "to teach somebody something",
+  "pos": "v"
  },
  "beide": {
   "en": "both",
@@ -1532,6 +2633,10 @@
   "en": "cheap",
   "pos": "adj"
  },
+ "binden": {
+  "en": "to tie",
+  "pos": "v"
+ },
  "bis": {
   "en": "until",
   "pos": "prep"
@@ -1558,6 +2663,10 @@
   "en": "to stay",
   "pos": "v"
  },
+ "bohren": {
+  "en": "to drill",
+  "pos": "v"
+ },
  "brauchen": {
   "en": "to need",
   "pos": "v"
@@ -1578,6 +2687,10 @@
   "en": "to bring",
   "pos": "v"
  },
+ "böse": {
+  "en": "angry/cross",
+  "pos": "adj"
+ },
  "da": {
   "en": "there",
   "pos": "adv"
@@ -1585,6 +2698,10 @@
  "dabei": {
   "en": "with one",
   "note": "Ich habe es dabei means I have it on me",
+  "pos": "adv"
+ },
+ "dafür": {
+  "en": "for it",
   "pos": "adv"
  },
  "dahinter": {
@@ -1597,6 +2714,10 @@
  },
  "damit": {
   "en": "with it/so that",
+  "pos": "adv"
+ },
+ "danach": {
+  "en": "after that",
   "pos": "adv"
  },
  "daneben": {
@@ -1612,6 +2733,10 @@
   "en": "then",
   "pos": "adv"
  },
+ "darauf": {
+  "en": "on it",
+  "pos": "adv"
+ },
  "darin": {
   "en": "in it",
   "pos": "adv"
@@ -1622,6 +2747,10 @@
  },
  "darunter": {
   "en": "under it",
+  "pos": "adv"
+ },
+ "darüber": {
+  "en": "about it",
   "pos": "adv"
  },
  "das": {
@@ -1682,6 +2811,10 @@
   "en": "outside",
   "pos": "adv"
  },
+ "drehen": {
+  "en": "to turn",
+  "pos": "v"
+ },
  "drei": {
   "en": "three",
   "pos": "num"
@@ -1689,6 +2822,10 @@
  "dreieckig": {
   "en": "triangular",
   "pos": "adj"
+ },
+ "dreimal": {
+  "en": "three times",
+  "pos": "adv"
  },
  "dreissig": {
   "en": "thirty",
@@ -1725,6 +2862,14 @@
  "durch": {
   "en": "through",
   "pos": "prep"
+ },
+ "duschen": {
+  "en": "to shower",
+  "pos": "v"
+ },
+ "dünn": {
+  "en": "thin",
+  "pos": "adj"
  },
  "dürfen": {
   "en": "to be allowed to",
@@ -1766,6 +2911,10 @@
   "en": "to pack up",
   "pos": "v"
  },
+ "einräumen": {
+  "en": "to put away",
+  "pos": "v"
+ },
  "eins": {
   "en": "one",
   "pos": "num"
@@ -1776,6 +2925,18 @@
  },
  "einsteigen": {
   "en": "to get on",
+  "pos": "v"
+ },
+ "eintragen": {
+  "en": "to sign up/to enter",
+  "pos": "v"
+ },
+ "einwerfen": {
+  "en": "to post/to throw in",
+  "pos": "v"
+ },
+ "einzahlen": {
+  "en": "to pay in",
   "pos": "v"
  },
  "elf": {
@@ -1802,9 +2963,21 @@
   "en": "to explain",
   "pos": "v"
  },
+ "ernst": {
+  "en": "serious",
+  "pos": "adj"
+ },
  "erst": {
   "en": "first",
   "pos": "adj"
+ },
+ "erzählen": {
+  "en": "to tell",
+  "pos": "v"
+ },
+ "eröffnen": {
+  "en": "to open an account",
+  "pos": "v"
  },
  "es": {
   "en": "it",
@@ -1817,6 +2990,10 @@
  "etwas": {
   "en": "something",
   "pos": "pron"
+ },
+ "extra": {
+  "en": "extra",
+  "pos": "adv"
  },
  "fahren": {
   "en": "to go by vehicle",
@@ -1838,9 +3015,17 @@
   "en": "to find",
   "pos": "v"
  },
+ "flach": {
+  "en": "flat",
+  "pos": "adj"
+ },
  "fragen": {
   "en": "to ask",
   "pos": "v"
+ },
+ "frei": {
+  "en": "free/off",
+  "pos": "adj"
  },
  "fremd": {
   "en": "strange/foreign",
@@ -1849,6 +3034,10 @@
  "fressen": {
   "en": "to eat",
   "note": "Used of animals, never of people",
+  "pos": "v"
+ },
+ "freuen": {
+  "en": "to be pleased",
   "pos": "v"
  },
  "freundlich": {
@@ -1863,6 +3052,10 @@
   "en": "early",
   "pos": "adv"
  },
+ "funktionieren": {
+  "en": "to work/to function",
+  "pos": "v"
+ },
  "fühlen": {
   "en": "to feel",
   "pos": "v"
@@ -1873,6 +3066,10 @@
  },
  "fünf": {
   "en": "five",
+  "pos": "num"
+ },
+ "fünft": {
+  "en": "fifth",
   "pos": "num"
  },
  "fünfundneunzig": {
@@ -1962,6 +3159,15 @@
   "en": "yesterday",
   "pos": "adv"
  },
+ "gesund": {
+  "en": "healthy",
+  "pos": "adj"
+ },
+ "gewöhnen": {
+  "en": "to get used to",
+  "note": "Always with sich an: ich gewöhne mich an den Winter",
+  "pos": "v"
+ },
  "giessen": {
   "en": "to water/to pour",
   "pos": "v"
@@ -1994,6 +3200,10 @@
  "grün": {
   "en": "green",
   "pos": "adj"
+ },
+ "grüssen": {
+  "en": "to greet",
+  "pos": "v"
  },
  "gut": {
   "en": "good",
@@ -2035,6 +3245,10 @@
   "en": "out",
   "pos": "adv"
  },
+ "herein": {
+  "en": "in",
+  "pos": "adv"
+ },
  "heute": {
   "en": "today",
   "pos": "adv"
@@ -2053,6 +3267,10 @@
  },
  "hinauf": {
   "en": "up",
+  "pos": "adv"
+ },
+ "hinaus": {
+  "en": "out",
   "pos": "adv"
  },
  "hinein": {
@@ -2095,9 +3313,17 @@
   "en": "hundred",
   "pos": "num"
  },
+ "hämmern": {
+  "en": "to hammer",
+  "pos": "v"
+ },
  "hängen": {
   "en": "to hang",
   "pos": "v"
+ },
+ "hässlich": {
+  "en": "ugly",
+  "pos": "adj"
  },
  "hören": {
   "en": "to hear",
@@ -2149,6 +3375,10 @@
   "en": "each",
   "pos": "pron"
  },
+ "jederzeit": {
+  "en": "at any time",
+  "pos": "adv"
+ },
  "jemand": {
   "en": "somebody",
   "pos": "pron"
@@ -2163,6 +3393,10 @@
  },
  "kalt": {
   "en": "cold",
+  "pos": "adj"
+ },
+ "kaputt": {
+  "en": "broken",
   "pos": "adj"
  },
  "kaufen": {
@@ -2189,9 +3423,25 @@
   "en": "clear",
   "pos": "adj"
  },
+ "kleben": {
+  "en": "to stick",
+  "pos": "v"
+ },
  "klein": {
   "en": "small",
   "pos": "adj"
+ },
+ "klingeln": {
+  "en": "to ring",
+  "pos": "v"
+ },
+ "klopfen": {
+  "en": "to knock",
+  "pos": "v"
+ },
+ "kochen": {
+  "en": "to cook",
+  "pos": "v"
  },
  "komisch": {
   "en": "odd",
@@ -2201,9 +3451,21 @@
   "en": "to come",
   "pos": "v"
  },
+ "kopieren": {
+  "en": "to copy",
+  "pos": "v"
+ },
+ "korrigieren": {
+  "en": "to correct",
+  "pos": "v"
+ },
  "kosten": {
   "en": "to cost",
   "pos": "v"
+ },
+ "krank": {
+  "en": "ill",
+  "pos": "adj"
  },
  "krumm": {
   "en": "curved",
@@ -2221,6 +3483,10 @@
   "en": "cool",
   "pos": "adj"
  },
+ "kündigen": {
+  "en": "to give notice",
+  "pos": "v"
+ },
  "lachen": {
   "en": "to laugh",
   "pos": "v"
@@ -2236,6 +3502,10 @@
  "langsam": {
   "en": "slowly",
   "pos": "adv"
+ },
+ "lassen": {
+  "en": "to let/to leave",
+  "pos": "v"
  },
  "laufen": {
   "en": "to run/to walk",
@@ -2272,6 +3542,10 @@
  "letzt": {
   "en": "last",
   "pos": "adj"
+ },
+ "lieber": {
+  "en": "rather",
+  "pos": "adv"
  },
  "liegen": {
   "en": "to lie/to be lying",
@@ -2314,6 +3588,14 @@
   "en": "my",
   "pos": "pron"
  },
+ "meistens": {
+  "en": "mostly",
+  "pos": "adv"
+ },
+ "melden": {
+  "en": "to report",
+  "pos": "v"
+ },
  "merci": {
   "en": "thank you",
   "note": "Everyday German in Switzerland, not a French word borrowed for the occasion",
@@ -2339,6 +3621,10 @@
  "mitten": {
   "en": "in the middle",
   "pos": "adv"
+ },
+ "monatlich": {
+  "en": "monthly",
+  "pos": "adj"
  },
  "morgen": {
   "en": "tomorrow",
@@ -2367,6 +3653,10 @@
  },
  "nachdenken": {
   "en": "to think it over",
+  "pos": "v"
+ },
+ "nachfragen": {
+  "en": "to ask again",
   "pos": "v"
  },
  "nah": {
@@ -2437,6 +3727,10 @@
   "en": "nobody",
   "pos": "pron"
  },
+ "nirgends": {
+  "en": "nowhere",
+  "pos": "adv"
+ },
  "nirgendwohin": {
   "en": "nowhere",
   "pos": "adv"
@@ -2459,6 +3753,10 @@
  },
  "nächst": {
   "en": "next",
+  "pos": "adj"
+ },
+ "nötig": {
+  "en": "necessary",
   "pos": "adj"
  },
  "oben": {
@@ -2501,9 +3799,25 @@
   "en": "to try",
   "pos": "v"
  },
+ "putzen": {
+  "en": "to clean",
+  "pos": "v"
+ },
  "pünktlich": {
   "en": "on time",
   "pos": "adj"
+ },
+ "raten": {
+  "en": "to advise/to guess",
+  "pos": "v"
+ },
+ "rauchen": {
+  "en": "to smoke",
+  "pos": "v"
+ },
+ "rechnen": {
+  "en": "to calculate",
+  "pos": "v"
  },
  "rechts": {
   "en": "right",
@@ -2517,8 +3831,17 @@
   "en": "to rain",
   "pos": "v"
  },
+ "rein": {
+  "en": "in",
+  "note": "Komm rein is come in",
+  "pos": "adv"
+ },
  "rennen": {
   "en": "to run",
+  "pos": "v"
+ },
+ "reparieren": {
+  "en": "to repair",
   "pos": "v"
  },
  "richtig": {
@@ -2532,6 +3855,10 @@
  "rot": {
   "en": "red",
   "pos": "adj"
+ },
+ "rufen": {
+  "en": "to shout/to call",
+  "pos": "v"
  },
  "ruhen": {
   "en": "to rest",
@@ -2551,6 +3878,10 @@
  },
  "sagen": {
   "en": "to say",
+  "pos": "v"
+ },
+ "sammeln": {
+  "en": "to collect",
   "pos": "v"
  },
  "sauber": {
@@ -2573,6 +3904,14 @@
   "en": "to shine",
   "pos": "v"
  },
+ "schicken": {
+  "en": "to send",
+  "pos": "v"
+ },
+ "schimpfen": {
+  "en": "to tell off",
+  "pos": "v"
+ },
  "schlafen": {
   "en": "to sleep",
   "pos": "v"
@@ -2589,6 +3928,10 @@
   "en": "bad/serious",
   "pos": "adj"
  },
+ "schlucken": {
+  "en": "to swallow",
+  "pos": "v"
+ },
  "schmal": {
   "en": "narrow",
   "pos": "adj"
@@ -2596,6 +3939,10 @@
  "schmecken": {
   "en": "to taste",
   "pos": "v"
+ },
+ "schmutzig": {
+  "en": "dirty",
+  "pos": "adj"
  },
  "schneien": {
   "en": "to snow",
@@ -2609,6 +3956,10 @@
   "en": "already",
   "pos": "adv"
  },
+ "schreiben": {
+  "en": "to write",
+  "pos": "v"
+ },
  "schuld": {
   "en": "to blame",
   "pos": "adj"
@@ -2616,6 +3967,10 @@
  "schwarz": {
   "en": "black",
   "pos": "adj"
+ },
+ "schweigen": {
+  "en": "to be silent",
+  "pos": "v"
  },
  "schwer": {
   "en": "heavy/hard",
@@ -2665,6 +4020,10 @@
   "en": "rarely",
   "pos": "adv"
  },
+ "separat": {
+  "en": "separately",
+  "pos": "adv"
+ },
  "setzen": {
   "en": "to set/to sit down",
   "pos": "v"
@@ -2672,6 +4031,10 @@
  "sich": {
   "en": "oneself",
   "pos": "pron"
+ },
+ "sicher": {
+  "en": "safe/certain",
+  "pos": "adj"
  },
  "sie": {
   "en": "she/they",
@@ -2713,12 +4076,24 @@
   "en": "to be supposed to",
   "pos": "v"
  },
+ "sondern": {
+  "en": "but rather",
+  "pos": "conj"
+ },
  "sonst": {
   "en": "otherwise",
   "pos": "adv"
  },
+ "sowieso": {
+  "en": "anyway",
+  "pos": "adv"
+ },
  "spazieren": {
   "en": "to stroll",
+  "pos": "v"
+ },
+ "spielen": {
+  "en": "to play",
   "pos": "v"
  },
  "springen": {
@@ -2732,6 +4107,10 @@
  "später": {
   "en": "later",
   "pos": "adv"
+ },
+ "spülen": {
+  "en": "to rinse",
+  "pos": "v"
  },
  "stark": {
   "en": "strong",
@@ -2757,6 +4136,19 @@
   "en": "quiet/still",
   "pos": "adj"
  },
+ "stimmen": {
+  "en": "to be right",
+  "note": "Das stimmt means that is true",
+  "pos": "v"
+ },
+ "stolz": {
+  "en": "proud",
+  "pos": "adj"
+ },
+ "stören": {
+  "en": "to disturb",
+  "pos": "v"
+ },
  "suchen": {
   "en": "to look for",
   "pos": "v"
@@ -2764,6 +4156,10 @@
  "süss": {
   "en": "sweet",
   "pos": "adj"
+ },
+ "tanzen": {
+  "en": "to dance",
+  "pos": "v"
  },
  "tauchen": {
   "en": "to dive",
@@ -2790,8 +4186,16 @@
   "note": "The everyday answer to Wie gaht’s. Spelled tiptop here, not tipptopp",
   "pos": "intj"
  },
+ "tragen": {
+  "en": "to carry/to wear",
+  "pos": "v"
+ },
  "treffen": {
   "en": "to meet",
+  "pos": "v"
+ },
+ "trennen": {
+  "en": "to separate",
   "pos": "v"
  },
  "trinken": {
@@ -2801,6 +4205,10 @@
  "trocken": {
   "en": "dry",
   "pos": "adj"
+ },
+ "trocknen": {
+  "en": "to dry",
+  "pos": "v"
  },
  "trotzdem": {
   "en": "all the same",
@@ -2818,9 +4226,17 @@
   "en": "for nothing",
   "pos": "adv"
  },
+ "umstellen": {
+  "en": "to move something around",
+  "pos": "v"
+ },
  "und": {
   "en": "and",
   "pos": "conj"
+ },
+ "unfair": {
+  "en": "unfair",
+  "pos": "adj"
  },
  "unten": {
   "en": "down below",
@@ -2830,12 +4246,32 @@
   "en": "under",
   "pos": "prep"
  },
+ "unterschreiben": {
+  "en": "to sign",
+  "pos": "v"
+ },
+ "verboten": {
+  "en": "forbidden",
+  "pos": "adj"
+ },
  "vergessen": {
   "en": "to forget",
   "pos": "v"
  },
+ "vergleichen": {
+  "en": "to compare",
+  "pos": "v"
+ },
  "verkaufen": {
   "en": "to sell",
+  "pos": "v"
+ },
+ "verkleiden": {
+  "en": "to dress up",
+  "pos": "v"
+ },
+ "verlieren": {
+  "en": "to lose",
   "pos": "v"
  },
  "verstehen": {
@@ -2866,6 +4302,14 @@
  "viermal": {
   "en": "four times",
   "pos": "adv"
+ },
+ "viert": {
+  "en": "fourth",
+  "pos": "num"
+ },
+ "vierundzwanzig": {
+  "en": "twenty-four",
+  "pos": "num"
  },
  "vierzehn": {
   "en": "fourteen",
@@ -2916,6 +4360,10 @@
   "en": "to imagine/to introduce",
   "pos": "v"
  },
+ "wach": {
+  "en": "awake",
+  "pos": "adj"
+ },
  "wann": {
   "en": "when",
   "pos": "conj"
@@ -2936,9 +4384,17 @@
   "en": "what",
   "pos": "pron"
  },
+ "waschen": {
+  "en": "to wash",
+  "pos": "v"
+ },
  "weg": {
   "en": "gone/away",
   "pos": "adv"
+ },
+ "wegwerfen": {
+  "en": "to throw away",
+  "pos": "v"
  },
  "weh": {
   "en": "sore",
@@ -2989,6 +4445,10 @@
   "en": "to become",
   "pos": "v"
  },
+ "werfen": {
+  "en": "to throw",
+  "pos": "v"
+ },
  "wichtig": {
   "en": "important",
   "pos": "adj"
@@ -3000,6 +4460,10 @@
  "wieder": {
   "en": "again",
   "pos": "adv"
+ },
+ "wiegen": {
+  "en": "to weigh",
+  "pos": "v"
  },
  "wieso": {
   "en": "why",
@@ -3025,6 +4489,10 @@
   "en": "where",
   "pos": "conj"
  },
+ "woandershin": {
+  "en": "somewhere else",
+  "pos": "adv"
+ },
  "woher": {
   "en": "where from",
   "pos": "conj"
@@ -3039,6 +4507,10 @@
  },
  "wollen": {
   "en": "to want",
+  "pos": "v"
+ },
+ "wählen": {
+  "en": "to choose/to vote",
   "pos": "v"
  },
  "zahlen": {
@@ -3119,9 +4591,17 @@
   "en": "two",
   "pos": "num"
  },
+ "zweimal": {
+  "en": "twice",
+  "pos": "adv"
+ },
  "zweit": {
   "en": "second",
   "pos": "adj"
+ },
+ "zweiundzwanzig": {
+  "en": "twenty-two",
+  "pos": "num"
  },
  "zwischen": {
   "en": "between",
@@ -3135,8 +4615,22 @@
   "en": "to count",
   "pos": "v"
  },
+ "Ärger": {
+  "en": "annoyance",
+  "g": "der",
+  "pl": "Ärger",
+  "pos": "n"
+ },
+ "ärgern": {
+  "en": "to annoy",
+  "pos": "v"
+ },
  "öffnen": {
   "en": "to open",
+  "pos": "v"
+ },
+ "üben": {
+  "en": "to practise",
   "pos": "v"
  },
  "über": {
@@ -3150,5 +4644,13 @@
  "überhaupt": {
   "en": "at all",
   "pos": "adv"
+ },
+ "überraschen": {
+  "en": "to surprise",
+  "pos": "v"
+ },
+ "überweisen": {
+  "en": "to transfer money",
+  "pos": "v"
  }
 }

@@ -1,0 +1,379 @@
+{
+ "id": "p1-17",
+ "title": "Das Konto",
+ "desc": "You bring four documents and are asked for a fifth",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "Konto",
+  "Bank",
+  "Karte",
+  "brauchen"
+ ],
+ "sn": [
+  {
+   "s": "Ich brauche ein Konto.",
+   "e": "I need a bank account."
+  },
+  {
+   "s": "Ohne Konto geht fast nichts.",
+   "e": "Without an account almost nothing works."
+  },
+  {
+   "s": "Die Miete zahlt man vom Konto.",
+   "e": "You pay the rent from an account."
+  },
+  {
+   "s": "Die Krankenkasse auch.",
+   "e": "The health insurance too."
+  },
+  {
+   "s": "Und der Lohn kommt auf ein Konto.",
+   "e": "And your pay comes into an account."
+  },
+  {
+   "s": "Ich gehe zur Bank.",
+   "e": "I go to the bank."
+  },
+  {
+   "s": "Die Bank ist am Platz.",
+   "e": "The bank is on the square."
+  },
+  {
+   "s": "Eine Bank ohne Termin geht nicht.",
+   "e": "A bank without an appointment does not work."
+  },
+  {
+   "s": "Ich will einfach hineingehen.",
+   "e": "I want to just walk in."
+  },
+  {
+   "s": "Das geht nicht.",
+   "e": "That does not work."
+  },
+  {
+   "s": "Man braucht einen Termin.",
+   "e": "You need an appointment."
+  },
+  {
+   "s": "Für alles braucht man hier einen Termin.",
+   "e": "You need an appointment for everything here."
+  },
+  {
+   "s": "Ich mache einen Termin für Donnerstag.",
+   "e": "I make an appointment for Thursday."
+  },
+  {
+   "s": "Die Frau am Telefon sagt mir die Liste.",
+   "e": "The woman on the phone gives me the list."
+  },
+  {
+   "s": "Sie sagt vier Dinge.",
+   "e": "She says four things."
+  },
+  {
+   "s": "Den Ausweis.",
+   "e": "The ID."
+  },
+  {
+   "s": "Die Bestätigung von der Gemeinde.",
+   "e": "The confirmation from the commune."
+  },
+  {
+   "s": "Den Mietvertrag.",
+   "e": "The rental contract."
+  },
+  {
+   "s": "Und den Arbeitsvertrag.",
+   "e": "And the employment contract."
+  },
+  {
+   "s": "Ich schreibe alles auf.",
+   "e": "I write everything down."
+  },
+  {
+   "s": "Ich lege alles in meine Mappe.",
+   "e": "I put everything in my folder."
+  },
+  {
+   "s": "Die Mappe ist jetzt voll.",
+   "e": "The folder is full now."
+  },
+  {
+   "s": "Am Donnerstag gehe ich zur Bank.",
+   "e": "On Thursday I go to the bank."
+  },
+  {
+   "s": "Ich bin zehn Minuten zu früh.",
+   "e": "I am ten minutes early."
+  },
+  {
+   "s": "Ich warte draussen und gehe um fünf vor hinein.",
+   "e": "I wait outside and go in five minutes before."
+  },
+  {
+   "s": "Das lerne ich schon.",
+   "e": "I have learned that already."
+  },
+  {
+   "s": "Ein Mann holt mich ab.",
+   "e": "A man comes to fetch me."
+  },
+  {
+   "s": "Wir gehen in ein kleines Zimmer.",
+   "e": "We go into a small room."
+  },
+  {
+   "s": "Er sagt: Also, ein Konto eröffnen.",
+   "e": "He says: right, opening an account."
+  },
+  {
+   "s": "Eröffnen heisst: neu anfangen.",
+   "e": "Eröffnen means: to start something new."
+  },
+  {
+   "s": "Ich lege meine vier Dokumente auf den Tisch.",
+   "e": "I put my four documents on the table."
+  },
+  {
+   "s": "Er schaut jedes an.",
+   "e": "He looks at each one."
+  },
+  {
+   "s": "Er macht von jedem eine Kopie.",
+   "e": "He makes a copy of each one."
+  },
+  {
+   "s": "Dann fragt er nach dem fünften.",
+   "e": "Then he asks for the fifth."
+  },
+  {
+   "s": "Er fragt nach einer Rechnung mit meiner Adresse.",
+   "e": "He asks for a bill with my address on it."
+  },
+  {
+   "s": "Ich sage: Ich habe den Mietvertrag.",
+   "e": "I say: I have the rental contract."
+  },
+  {
+   "s": "Er sagt: Ja. Aber wir brauchen auch eine Rechnung.",
+   "e": "He says: yes. But we also need a bill."
+  },
+  {
+   "s": "Ich habe keine Rechnung dabei.",
+   "e": "I do not have a bill with me."
+  },
+  {
+   "s": "Ich habe eine zu Hause.",
+   "e": "I have one at home."
+  },
+  {
+   "s": "Die Rechnung von der Serafe.",
+   "e": "The bill from the Serafe."
+  },
+  {
+   "s": "Zum ersten Mal bin ich froh über diese Rechnung.",
+   "e": "For the first time I am glad about that bill."
+  },
+  {
+   "s": "Ich muss nach Hause und wieder zurück.",
+   "e": "I have to go home and come back."
+  },
+  {
+   "s": "Das dauert vierzig Minuten.",
+   "e": "That takes forty minutes."
+  },
+  {
+   "s": "Er wartet.",
+   "e": "He waits."
+  },
+  {
+   "s": "Er sagt: Kein Problem. Kommen Sie um vier.",
+   "e": "He says: no problem. Come at four."
+  },
+  {
+   "s": "Um vier bin ich wieder da.",
+   "e": "At four I am back."
+  },
+  {
+   "s": "Ich habe die Rechnung dabei.",
+   "e": "I have the bill with me."
+  },
+  {
+   "s": "Jetzt sind es fünf Dokumente.",
+   "e": "Now it is five documents."
+  },
+  {
+   "s": "Er sagt: Sehr gut. Das reicht.",
+   "e": "He says: very good. That is enough."
+  },
+  {
+   "s": "Dann tippt er lange in den Computer.",
+   "e": "Then he types into the computer for a long time."
+  },
+  {
+   "s": "Er fragt mich viel.",
+   "e": "He asks me a lot."
+  },
+  {
+   "s": "Er fragt nach meiner Arbeit.",
+   "e": "He asks about my work."
+  },
+  {
+   "s": "Er fragt nach dem Lohn.",
+   "e": "He asks about my pay."
+  },
+  {
+   "s": "Er fragt: Woher kommt das Geld?",
+   "e": "He asks: where does the money come from?"
+  },
+  {
+   "s": "Das ist normal, sagt er.",
+   "e": "That is normal, he says."
+  },
+  {
+   "s": "Eine Bank muss das fragen.",
+   "e": "A bank has to ask that."
+  },
+  {
+   "s": "Ich unterschreibe vier Papiere.",
+   "e": "I sign four pieces of paper."
+  },
+  {
+   "s": "Ich lese sie nicht ganz.",
+   "e": "I do not read them fully."
+  },
+  {
+   "s": "Sie sind lang und ich verstehe nur die Hälfte.",
+   "e": "They are long and I only understand half."
+  },
+  {
+   "s": "Das ist kein gutes Gefühl.",
+   "e": "That is not a good feeling."
+  },
+  {
+   "s": "Aber ich unterschreibe trotzdem.",
+   "e": "But I sign anyway."
+  },
+  {
+   "s": "Er sagt: Die Karte kommt in einer Woche.",
+   "e": "He says: the card comes in a week."
+  },
+  {
+   "s": "Und der Code kommt separat.",
+   "e": "And the code comes separately."
+  },
+  {
+   "s": "Zwei Briefe an zwei Tagen.",
+   "e": "Two letters on two days."
+  },
+  {
+   "s": "So ist es sicherer.",
+   "e": "That way it is safer."
+  },
+  {
+   "s": "Nach sechs Tagen kommt die Karte.",
+   "e": "After six days the card comes."
+  },
+  {
+   "s": "Nach sieben Tagen kommt der Code.",
+   "e": "After seven days the code comes."
+  },
+  {
+   "s": "Genau wie er sagt.",
+   "e": "Exactly as he says."
+  },
+  {
+   "s": "Die Karte ist weiss und dünn.",
+   "e": "The card is white and thin."
+  },
+  {
+   "s": "Mein Name steht darauf.",
+   "e": "My name is on it."
+  },
+  {
+   "s": "Ich habe jetzt ein Konto in diesem Land.",
+   "e": "I now have an account in this country."
+  },
+  {
+   "s": "Das ist mehr als eine Karte.",
+   "e": "That is more than a card."
+  },
+  {
+   "s": "Vorher bin ich ein Mensch mit einem Koffer.",
+   "e": "Before I am a person with a suitcase."
+  },
+  {
+   "s": "Jetzt bin ich ein Mensch mit einer Adresse und einem Konto.",
+   "e": "Now I am a person with an address and an account."
+  },
+  {
+   "s": "Das ist der Unterschied.",
+   "e": "That is the difference."
+  },
+  {
+   "s": "Nuno sagt: Jetzt bist du drin.",
+   "e": "Nuno says: now you are in."
+  },
+  {
+   "s": "Er sagt: Das Konto ist der schwerste Teil.",
+   "e": "He says: the account is the hardest part."
+  },
+  {
+   "s": "Man braucht eine Adresse für ein Konto.",
+   "e": "You need an address for an account."
+  },
+  {
+   "s": "Und man braucht ein Konto für eine Wohnung.",
+   "e": "And you need an account for a flat."
+  },
+  {
+   "s": "Er sagt: Das ist ein Kreis.",
+   "e": "He says: that is a circle."
+  },
+  {
+   "s": "Man muss ihn einmal aufbrechen.",
+   "e": "You have to break it once."
+  },
+  {
+   "s": "Ich habe Glück mit der Wohnung.",
+   "e": "I am lucky with the flat."
+  },
+  {
+   "s": "Herr Kaufmann fragt nicht nach einem Konto.",
+   "e": "Herr Kaufmann does not ask for an account."
+  },
+  {
+   "s": "Viele Vermieter fragen.",
+   "e": "A lot of landlords do."
+  },
+  {
+   "s": "Dann ist der Kreis zu.",
+   "e": "Then the circle is closed."
+  },
+  {
+   "s": "Ich lege die Karte in mein Portemonnaie.",
+   "e": "I put the card in my wallet."
+  },
+  {
+   "s": "Die Mappe lege ich in eine Schublade.",
+   "e": "I put the folder in a drawer."
+  },
+  {
+   "s": "Sie hat jetzt sechs Papiere.",
+   "e": "It now has six pieces of paper."
+  },
+  {
+   "s": "In einem Monat sechs Papiere.",
+   "e": "Six pieces of paper in one month."
+  },
+  {
+   "s": "Jedes kostet mich eine Stunde.",
+   "e": "Each one costs me an hour."
+  },
+  {
+   "s": "Aber jetzt sind sie da.",
+   "e": "But now they are there."
+  }
+ ]
+}
