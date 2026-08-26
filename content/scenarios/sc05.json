@@ -1,0 +1,109 @@
+{
+ "id": "sc05",
+ "title": "An der Kasse",
+ "desc": "Paying, and getting a look",
+ "setting": "The Migros till on a Friday. Three people behind you and it moves fast.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Die Frau an der Kasse",
+   "es": "Grüezi. Haben Sie eine Cumulus-Karte?",
+   "en": "Grüezi. Do you have a Cumulus card?",
+   "options": [
+    {
+     "es": "Nein, merci.",
+     "en": "No, merci.",
+     "verdict": "good",
+     "feedback": "You have no idea what it is and it does not matter. Nein merci is a complete answer."
+    },
+    {
+     "es": "Was ist das?",
+     "en": "What is that?",
+     "verdict": "ok",
+     "feedback": "A fair question with nobody behind you. On a Friday evening she will answer it fast."
+    },
+    {
+     "es": "Ja.",
+     "en": "Yes.",
+     "verdict": "bad",
+     "feedback": "She will wait for you to produce it, and you do not have one."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau an der Kasse",
+   "es": "Das macht neunundzwanzig Franken fünfundneunzig.",
+   "en": "That comes to twenty-nine ninety-five.",
+   "options": [
+    {
+     "es": "(dreissig Franken geben) Bitte.",
+     "en": "(hand over thirty francs) There you go.",
+     "verdict": "good",
+     "feedback": "Five Rappen back and everybody moves on. This is what the .95 is for."
+    },
+    {
+     "es": "(Münzen zählen) Einen Moment, bitte.",
+     "en": "(counting coins) One moment, please.",
+     "verdict": "ok",
+     "feedback": "Nobody will sigh at you. They will all watch, though."
+    },
+    {
+     "es": "Wie viel?",
+     "en": "How much?",
+     "verdict": "ok",
+     "feedback": "Perfectly normal if you did not catch it. She will say the number again, slower."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau an der Kasse",
+   "es": "Fünf Rappen zurück. Möchten Sie den Bon?",
+   "en": "Five Rappen back. Would you like the receipt?",
+   "options": [
+    {
+     "es": "Nein, merci.",
+     "en": "No, merci.",
+     "verdict": "good",
+     "feedback": "Two words and you are done. She is already scanning the next person."
+    },
+    {
+     "es": "Ja, bitte.",
+     "en": "Yes, please.",
+     "verdict": "ok",
+     "feedback": "Nothing wrong with it at all."
+    },
+    {
+     "es": "Fünf Rappen? Das ist nichts.",
+     "en": "Five Rappen? That is nothing.",
+     "verdict": "bad",
+     "feedback": "It is nothing, and it is also her till balancing at the end of the day."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau an der Kasse",
+   "es": "Merci vielmal. Schönen Abend.",
+   "en": "Thanks very much. Have a good evening.",
+   "options": [
+    {
+     "es": "Merci, gleichfalls. Ade.",
+     "en": "Thanks, you too. Goodbye.",
+     "verdict": "good",
+     "feedback": "Gleichfalls is the one word that gives a good-wish straight back, and it works for every one of them."
+    },
+    {
+     "es": "Merci. Ade.",
+     "en": "Merci. Goodbye.",
+     "verdict": "good",
+     "feedback": "Completely fine and what most people say."
+    },
+    {
+     "es": "(nichts sagen und gehen)",
+     "en": "(say nothing and leave)",
+     "verdict": "bad",
+     "feedback": "She wished you something. Two syllables would have covered it."
+    }
+   ]
+  }
+ ]
+}

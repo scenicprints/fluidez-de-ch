@@ -1,0 +1,49 @@
+{
+ "name": "Swiss German",
+ "speech": "de-CH",
+ "features": ["reader", "scenes", "review", "verbs", "order", "words", "patterns", "audio"],
+ "mascot": "bluemli",
+ "icons": {"path": "ic-gondola"},
+ "phases": [
+  ["Landing", "Greetings, numbers, prices, getting fed"],
+  ["Settling In", "The flat, the laundry room, the commune"],
+  ["Making Friends", "Small talk, the club, the first invitation"],
+  ["Getting About", "Tickets, the boat, Pilatus, Stans"],
+  ["Close to the Heart", "Love, her family, arguments, making up"],
+  ["Hard Things", "Illness, goodbyes, money, saying the difficult thing"],
+  ["Sounding Swiss", "Halt, eben, doch, mal. Fasnacht from the inside"],
+  ["Belonging", "Wordplay, inside jokes, explaining it all to the next arrival"]
+ ],
+ "dictionary": ["dictionary/core.json"],
+ "patterns": ["patterns/core.json"],
+ "verbs": "verbs.json",
+ "emergency": "emergency.json",
+ "lessons": [
+  {"id": "p0-01", "title": "Grüezi", "desc": "One word, and everybody uses it", "phase": 0, "path": "lessons/p0-01.json"},
+  {"id": "p0-02", "title": "Gleis sieben", "desc": "Numbers, and a platform you have to find", "phase": 0, "path": "lessons/p0-02.json"},
+  {"id": "p0-03", "title": "Der Zug nach Luzern", "desc": "An hour of a country going past", "phase": 0, "path": "lessons/p0-03.json"},
+  {"id": "p0-04", "title": "Angekommen", "desc": "A station with an old gate standing in front of it", "phase": 0, "path": "lessons/p0-04.json"},
+  {"id": "p0-05", "title": "Ein Kaffee, bitte", "desc": "The first thing you order on purpose", "phase": 0, "path": "lessons/p0-05.json"},
+  {"id": "p0-06", "title": "Gipfeli", "desc": "Bread has different names here", "phase": 0, "path": "lessons/p0-06.json"},
+  {"id": "p0-07", "title": "Franken und Rappen", "desc": "Money that is not yours yet", "phase": 0, "path": "lessons/p0-07.json"},
+  {"id": "p0-08", "title": "Migros oder Coop", "desc": "Two shops, and there are only two", "phase": 0, "path": "lessons/p0-08.json"},
+  {"id": "p0-09", "title": "Das Wasser ist gratis", "desc": "You can drink from the fountains", "phase": 0, "path": "lessons/p0-09.json"},
+  {"id": "p0-10", "title": "Wo ist die Post?", "desc": "Asking, and understanding half the answer", "phase": 0, "path": "lessons/p0-10.json"},
+  {"id": "p0-11", "title": "Der See", "desc": "Water with mountains standing behind it", "phase": 0, "path": "lessons/p0-11.json"},
+  {"id": "p0-12", "title": "Die Kapellbrücke", "desc": "A wooden bridge with paintings in the roof", "phase": 0, "path": "lessons/p0-12.json"},
+  {"id": "p0-13", "title": "Punkt acht", "desc": "Time, said exactly", "phase": 0, "path": "lessons/p0-13.json"},
+  {"id": "p0-14", "title": "Am Sonntag ist zu", "desc": "The day everything stops", "phase": 0, "path": "lessons/p0-14.json"},
+  {"id": "p0-15", "title": "Es regnet", "desc": "Weather you will talk about every day", "phase": 0, "path": "lessons/p0-15.json"},
+  {"id": "p0-16", "title": "Die erste Nacht", "desc": "A room, a window, and a great deal of quiet", "phase": 0, "path": "lessons/p0-16.json"}
+ ],
+ "scenarios": [
+  {"id": "sc01", "title": "Grüezi", "desc": "Four people, and not one of them can be passed in silence", "phase": 0, "path": "scenarios/sc01.json"},
+  {"id": "sc02", "title": "Am Automaten", "desc": "A ticket, a track and eight minutes", "phase": 0, "path": "scenarios/sc02.json"},
+  {"id": "sc03", "title": "Ein Crème, bitte", "desc": "Ordering the coffee, and the word for it", "phase": 0, "path": "scenarios/sc03.json"},
+  {"id": "sc04", "title": "In der Bäckerei", "desc": "Pointing at things until you have their names", "phase": 0, "path": "scenarios/sc04.json"},
+  {"id": "sc05", "title": "An der Kasse", "desc": "Paying, and getting a look", "phase": 0, "path": "scenarios/sc05.json"},
+  {"id": "sc06", "title": "Wo ist die Post?", "desc": "Asking, and understanding half the answer", "phase": 0, "path": "scenarios/sc06.json"},
+  {"id": "sc07", "title": "Am Brunnen", "desc": "The water is free and somebody will tell you", "phase": 0, "path": "scenarios/sc07.json"},
+  {"id": "sc08", "title": "Am Samstagabend", "desc": "The shop shut two hours ago", "phase": 0, "path": "scenarios/sc08.json"}
+ ]
+}

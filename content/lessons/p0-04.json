@@ -1,0 +1,401 @@
+{
+ "id": "p0-04",
+ "title": "Angekommen",
+ "desc": "A station with an old gate standing in front of it",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Tor",
+  "ankommen",
+  "aussteigen",
+  "Boden",
+  "Feuer",
+  "warten",
+  "Stein",
+  "draussen",
+  "Bahnhof",
+  "nehmen"
+ ],
+ "sn": [
+  {
+   "s": "Der Zug kommt in Luzern an.",
+   "e": "The train arrives in Luzern."
+  },
+  {
+   "s": "Ich komme in Luzern an.",
+   "e": "I arrive in Luzern."
+  },
+  {
+   "s": "Ich komme mit einem Koffer an.",
+   "e": "I arrive with one suitcase."
+  },
+  {
+   "s": "Die Leute steigen aus.",
+   "e": "The people get off."
+  },
+  {
+   "s": "Ich steige auch aus.",
+   "e": "I get off too."
+  },
+  {
+   "s": "Ich steige langsam aus.",
+   "e": "I get off slowly."
+  },
+  {
+   "s": "Der Koffer ist schwer.",
+   "e": "The suitcase is heavy."
+  },
+  {
+   "s": "Ich stelle ihn auf den Boden.",
+   "e": "I put it down on the ground."
+  },
+  {
+   "s": "Der Boden ist nass.",
+   "e": "The ground is wet."
+  },
+  {
+   "s": "Es regnet ein wenig.",
+   "e": "It is raining a little."
+  },
+  {
+   "s": "Ich stehe auf dem Perron.",
+   "e": "I stand on the platform."
+  },
+  {
+   "s": "Hier bin ich also.",
+   "e": "So here I am."
+  },
+  {
+   "s": "Hier bleibe ich jetzt.",
+   "e": "This is where I stay now."
+  },
+  {
+   "s": "Die Leute gehen schnell.",
+   "e": "The people walk fast."
+  },
+  {
+   "s": "Ich warte einen Moment.",
+   "e": "I wait for a moment."
+  },
+  {
+   "s": "Ich warte und schaue.",
+   "e": "I wait and look."
+  },
+  {
+   "s": "Der Bahnhof ist gross.",
+   "e": "The station is big."
+  },
+  {
+   "s": "Das Dach ist aus Glas.",
+   "e": "The roof is made of glass."
+  },
+  {
+   "s": "Der Bahnhof ist neu.",
+   "e": "The station is new."
+  },
+  {
+   "s": "Ich nehme den Koffer wieder.",
+   "e": "I pick the suitcase up again."
+  },
+  {
+   "s": "Ich gehe zur Halle.",
+   "e": "I walk to the hall."
+  },
+  {
+   "s": "In der Halle sind viele Leute.",
+   "e": "There are a lot of people in the hall."
+  },
+  {
+   "s": "Manche warten.",
+   "e": "Some are waiting."
+  },
+  {
+   "s": "Manche rennen.",
+   "e": "Some are running."
+  },
+  {
+   "s": "Eine Frau wartet mit Blumen.",
+   "e": "A woman waits holding flowers."
+  },
+  {
+   "s": "Sie wartet auf jemanden.",
+   "e": "She is waiting for somebody."
+  },
+  {
+   "s": "Niemand wartet auf mich.",
+   "e": "Nobody is waiting for me."
+  },
+  {
+   "s": "Das ist auch in Ordnung.",
+   "e": "That is all right too."
+  },
+  {
+   "s": "Ich gehe nach draussen.",
+   "e": "I go outside."
+  },
+  {
+   "s": "Draussen ist es kühl.",
+   "e": "It is cool outside."
+  },
+  {
+   "s": "Draussen regnet es leicht.",
+   "e": "Outside it is raining lightly."
+  },
+  {
+   "s": "Vor dem Bahnhof ist ein Platz.",
+   "e": "There is a square in front of the station."
+  },
+  {
+   "s": "Auf dem Platz steht ein Tor.",
+   "e": "There is a gate standing on the square."
+  },
+  {
+   "s": "Das Tor ist gross.",
+   "e": "The gate is big."
+  },
+  {
+   "s": "Das Tor ist aus Stein.",
+   "e": "The gate is made of stone."
+  },
+  {
+   "s": "Der Stein ist grau.",
+   "e": "The stone is grey."
+  },
+  {
+   "s": "Der Stein ist alt.",
+   "e": "The stone is old."
+  },
+  {
+   "s": "Das Tor steht allein da.",
+   "e": "The gate stands there on its own."
+  },
+  {
+   "s": "Hinter dem Tor ist nichts.",
+   "e": "There is nothing behind the gate."
+  },
+  {
+   "s": "Es ist ein Tor ohne Haus.",
+   "e": "It is a gate with no building."
+  },
+  {
+   "s": "Ich verstehe das nicht.",
+   "e": "I do not understand it."
+  },
+  {
+   "s": "Ich gehe durch das Tor.",
+   "e": "I walk through the gate."
+  },
+  {
+   "s": "Auf der anderen Seite ist der Platz.",
+   "e": "On the other side is the square."
+  },
+  {
+   "s": "Das Tor führt nirgendwohin.",
+   "e": "The gate leads nowhere."
+  },
+  {
+   "s": "Ein Mann sieht mich.",
+   "e": "A man sees me."
+  },
+  {
+   "s": "Er sagt Grüezi.",
+   "e": "He says Grüezi."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Er zeigt auf das Tor.",
+   "e": "He points at the gate."
+  },
+  {
+   "s": "Hier steht der alte Bahnhof nicht mehr, sagt er.",
+   "e": "The old station does not stand here any more, he says."
+  },
+  {
+   "s": "Neunzehnhunderteinundsiebzig brennt der Bahnhof.",
+   "e": "In nineteen seventy-one the station burns."
+  },
+  {
+   "s": "Das Feuer nimmt den ganzen Bahnhof.",
+   "e": "The fire takes the whole station."
+  },
+  {
+   "s": "Nach dem Feuer bleibt nur das Tor.",
+   "e": "After the fire only the gate is left."
+  },
+  {
+   "s": "Das Feuer nimmt alles ausser dem Stein.",
+   "e": "The fire takes everything except the stone."
+  },
+  {
+   "s": "Ein Feuer nimmt kein Tor aus Stein.",
+   "e": "A fire does not take a gate made of stone."
+  },
+  {
+   "s": "Vom Feuer sieht man heute nichts mehr.",
+   "e": "Today you can see nothing of the fire."
+  },
+  {
+   "s": "Merci, sage ich.",
+   "e": "Merci, I say."
+  },
+  {
+   "s": "Der Mann geht.",
+   "e": "The man goes."
+  },
+  {
+   "s": "Ich schaue das Tor noch einmal an.",
+   "e": "I look at the gate again."
+  },
+  {
+   "s": "Jetzt ist es kein leeres Tor mehr.",
+   "e": "Now it is not an empty gate any more."
+  },
+  {
+   "s": "Der Stein ist der Rest von einem Haus.",
+   "e": "The stone is what is left of a building."
+  },
+  {
+   "s": "Ich stelle es mir vor.",
+   "e": "I picture it."
+  },
+  {
+   "s": "Dort steht der alte Bahnhof.",
+   "e": "There stands the old station."
+  },
+  {
+   "s": "Dort warten Leute und dort kommen Züge an.",
+   "e": "There people wait and there trains arrive."
+  },
+  {
+   "s": "Hier ist jetzt nur der Platz.",
+   "e": "Now there is only the square here."
+  },
+  {
+   "s": "Ich stelle den Koffer auf den Boden.",
+   "e": "I put the suitcase down on the ground."
+  },
+  {
+   "s": "Der Boden ist aus Stein.",
+   "e": "The ground is made of stone."
+  },
+  {
+   "s": "Ich setze mich auf den Koffer.",
+   "e": "I sit down on the suitcase."
+  },
+  {
+   "s": "Ich warte.",
+   "e": "I wait."
+  },
+  {
+   "s": "Ich warte auf nichts.",
+   "e": "I am waiting for nothing."
+  },
+  {
+   "s": "Draussen fahren Busse.",
+   "e": "Outside buses are driving past."
+  },
+  {
+   "s": "Die Busse sind gelb und blau.",
+   "e": "The buses are yellow and blue."
+  },
+  {
+   "s": "Dort ist der See.",
+   "e": "The lake is over there."
+  },
+  {
+   "s": "Dort sehe ich Wasser.",
+   "e": "I can see water over there."
+  },
+  {
+   "s": "Hier riecht es nach Regen.",
+   "e": "Here it smells of rain."
+  },
+  {
+   "s": "Hier ist es laut und ruhig zugleich.",
+   "e": "Here it is loud and calm at the same time."
+  },
+  {
+   "s": "Eine Frau steigt aus einem Bus aus.",
+   "e": "A woman gets off a bus."
+  },
+  {
+   "s": "Ein Kind steigt auch aus.",
+   "e": "A child gets off too."
+  },
+  {
+   "s": "Sie steigen aus und gehen weiter.",
+   "e": "They get off and walk on."
+  },
+  {
+   "s": "Niemand bleibt lang auf dem Platz.",
+   "e": "Nobody stays long on the square."
+  },
+  {
+   "s": "Nur ich bleibe.",
+   "e": "Only I stay."
+  },
+  {
+   "s": "Ich warte noch fünf Minuten.",
+   "e": "I wait another five minutes."
+  },
+  {
+   "s": "Dann warte ich noch fünf.",
+   "e": "Then I wait another five."
+  },
+  {
+   "s": "Der Regen hört auf.",
+   "e": "The rain stops."
+  },
+  {
+   "s": "Draussen wird es hell.",
+   "e": "Outside it gets bright."
+  },
+  {
+   "s": "Ich stehe auf.",
+   "e": "I stand up."
+  },
+  {
+   "s": "Ich nehme den Koffer vom Boden.",
+   "e": "I pick the suitcase up off the ground."
+  },
+  {
+   "s": "Ich gehe durch das Tor zurück.",
+   "e": "I walk back through the gate."
+  },
+  {
+   "s": "Dann gehe ich zum See.",
+   "e": "Then I head over to the lake."
+  },
+  {
+   "s": "Ein Zug kommt an.",
+   "e": "A train arrives."
+  },
+  {
+   "s": "Leute steigen aus.",
+   "e": "People get off."
+  },
+  {
+   "s": "Das geht den ganzen Tag so.",
+   "e": "That goes on all day."
+  },
+  {
+   "s": "Ich komme heute an.",
+   "e": "I arrive today."
+  },
+  {
+   "s": "Morgen kommt jemand anderes an.",
+   "e": "Tomorrow somebody else arrives."
+  },
+  {
+   "s": "Das Tor steht und schaut zu.",
+   "e": "The gate stands there and watches."
+  },
+  {
+   "s": "Der Stein sagt nichts.",
+   "e": "The stone says nothing."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc08",
+ "title": "Am Samstagabend",
+ "desc": "The shop shut two hours ago",
+ "setting": "Half past six on a Saturday, no milk in the flat, and everything dark.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Ein Mann vor dem Laden",
+   "es": "Der ist schon zu. Seit fünf.",
+   "en": "It has been shut since five.",
+   "options": [
+    {
+     "es": "Seit fünf? Am Samstag?",
+     "en": "Since five? On Saturday?",
+     "verdict": "good",
+     "feedback": "Say the thing you cannot believe. He will explain it, because everybody here has had this conversation."
+    },
+    {
+     "es": "Oh. Merci.",
+     "en": "Oh. Thanks.",
+     "verdict": "ok",
+     "feedback": "Fine, and it ends the conversation before he tells you the useful part."
+    },
+    {
+     "es": "Aber es ist erst halb sieben.",
+     "en": "But it is only half past six.",
+     "verdict": "bad",
+     "feedback": "It is, and the shop shut at five regardless. Arguing with the opening hours is a beginner move."
+    }
+   ]
+  },
+  {
+   "speaker": "Der Mann",
+   "es": "Am Samstag schliessen die Läden früh. Und am Sonntag ist alles zu.",
+   "en": "On Saturday the shops close early. And on Sunday everything is shut.",
+   "options": [
+    {
+     "es": "Alles? Der ganze Tag?",
+     "en": "Everything? All day?",
+     "verdict": "good",
+     "feedback": "Yes. This is the single most useful fact anybody will tell you in your first month."
+    },
+    {
+     "es": "Auch die Bäckerei?",
+     "en": "The bakery too?",
+     "verdict": "good",
+     "feedback": "Sometimes it opens for an hour or two in the morning. That is the whole exception, apart from the station."
+    },
+    {
+     "es": "Das ist nicht gut für den Laden.",
+     "en": "That is not good for the shop.",
+     "verdict": "bad",
+     "feedback": "Everybody here has decided otherwise, repeatedly, at the ballot box."
+    }
+   ]
+  },
+  {
+   "speaker": "Der Mann",
+   "es": "Am Bahnhof ist etwas offen. Auch am Sonntag.",
+   "en": "There is something open at the station. On Sunday too.",
+   "options": [
+    {
+     "es": "Am Bahnhof? Merci vielmal!",
+     "en": "At the station? Thanks very much!",
+     "verdict": "good",
+     "feedback": "The station shops are the exception the whole country runs on. Now you know it too."
+    },
+    {
+     "es": "Ist das teuer?",
+     "en": "Is that expensive?",
+     "verdict": "ok",
+     "feedback": "Yes. And it is open, which on a Sunday is the only thing that matters."
+    },
+    {
+     "es": "Der Bahnhof ist zu weit.",
+     "en": "The station is too far.",
+     "verdict": "bad",
+     "feedback": "It is a fifteen minute walk and the alternative is no milk until Monday."
+    }
+   ]
+  },
+  {
+   "speaker": "Der Mann",
+   "es": "Nächstes Mal am Freitag einkaufen. Ade.",
+   "en": "Do your shopping on Friday next time. Goodbye.",
+   "options": [
+    {
+     "es": "Merci. Das mache ich. Ade.",
+     "en": "Thanks. I will do that. Goodbye.",
+     "verdict": "good",
+     "feedback": "You will, and by the third weekend it will not be a decision any more."
+    },
+    {
+     "es": "Merci vielmal. Ade.",
+     "en": "Thanks very much. Goodbye.",
+     "verdict": "good",
+     "feedback": "He gave you the rule and the exception in under a minute. Worth the vielmal."
+    },
+    {
+     "es": "Ja, ja.",
+     "en": "Yeah, yeah.",
+     "verdict": "bad",
+     "feedback": "He stopped in the street to save you a wasted Sunday."
+    }
+   ]
+  }
+ ]
+}

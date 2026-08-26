@@ -5,3 +5,9 @@ content/plan/stage-report.txt
 content/plan/needs-entry.txt
 .github/scripts/dialect-test-report.txt
 content/dialect-report.txt
+.github/scripts/verbs-test-report.txt
+content/verbs-report.txt
+content/build-report.txt
+content/plan/forms-report.txt
+content/plan/schedule-report.txt
+content/plan/reconcile-report.txt

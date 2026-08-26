@@ -1,0 +1,109 @@
+{
+ "id": "sc06",
+ "title": "Wo ist die Post?",
+ "desc": "Asking, and understanding half the answer",
+ "setting": "You have been walking in circles for ten minutes and every street looks the same.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Eine Frau auf dem Platz",
+   "es": "Grüezi.",
+   "en": "Grüezi.",
+   "options": [
+    {
+     "es": "Grüezi. Entschuldigung, wo ist die Post?",
+     "en": "Grüezi. Excuse me, where is the post office?",
+     "verdict": "good",
+     "feedback": "Greeting, apology, question. Three beats and you have not wasted a second of her time."
+    },
+    {
+     "es": "Grüezi. Ich suche die Post.",
+     "en": "Grüezi. I am looking for the post office.",
+     "verdict": "good",
+     "feedback": "A statement rather than a question, and it works just as well."
+    },
+    {
+     "es": "Post?",
+     "en": "Post office?",
+     "verdict": "bad",
+     "feedback": "She will help you anyway. One word thrown at a stranger is not how it is done here."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau",
+   "es": "Da vorne links, dann geradeaus, und dann noch einmal rechts.",
+   "en": "Up ahead on the left, then straight on, and then right again.",
+   "options": [
+    {
+     "es": "Links, geradeaus, rechts. Merci.",
+     "en": "Left, straight on, right. Merci.",
+     "verdict": "good",
+     "feedback": "Repeating it back is how you find out whether you got it, and it takes two seconds."
+    },
+    {
+     "es": "Entschuldigung, noch einmal, bitte?",
+     "en": "Sorry, once more, please?",
+     "verdict": "good",
+     "feedback": "Asking again is not embarrassing. Walking twenty minutes the wrong way is."
+    },
+    {
+     "es": "Ja, ja, merci.",
+     "en": "Yes, yes, thanks.",
+     "verdict": "bad",
+     "feedback": "You did not get it and you have just told her you did. You will be back here in five minutes."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau",
+   "es": "Kommen Sie, ich gehe mit. Es ist nicht weit.",
+   "en": "Come on, I will come with you. It is not far.",
+   "options": [
+    {
+     "es": "Merci vielmal. Das ist sehr freundlich.",
+     "en": "Thanks very much. That is very kind.",
+     "verdict": "good",
+     "feedback": "Accept it. This is the normal answer here and refusing makes it awkward for both of you."
+    },
+    {
+     "es": "Nein, nein, das geht schon.",
+     "en": "No, no, I will manage.",
+     "verdict": "ok",
+     "feedback": "She will let you go. She was not being polite, she genuinely finds it easier than explaining."
+    },
+    {
+     "es": "Nein. Ich finde es selber.",
+     "en": "No. I will find it myself.",
+     "verdict": "bad",
+     "feedback": "Flat, and she was doing you a kindness. Nein, nein, das geht schon does the same job without the edge."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau",
+   "es": "So, das gelbe Haus dort. Das ist die Post.",
+   "en": "There, the yellow building there. That is the post office.",
+   "options": [
+    {
+     "es": "Merci vielmal! Ade.",
+     "en": "Thanks very much! Goodbye.",
+     "verdict": "good",
+     "feedback": "She walked five minutes out of her way. Merci vielmal, not merci."
+    },
+    {
+     "es": "Gelb. Das merke ich mir. Merci.",
+     "en": "Yellow. I will remember that. Merci.",
+     "verdict": "good",
+     "feedback": "And you should. The post office is yellow in every town in the country."
+    },
+    {
+     "es": "Merci.",
+     "en": "Merci.",
+     "verdict": "ok",
+     "feedback": "A little thin for somebody who escorted you there."
+    }
+   ]
+  }
+ ]
+}

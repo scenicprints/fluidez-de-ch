@@ -1,0 +1,401 @@
+{
+ "id": "p0-07",
+ "title": "Franken und Rappen",
+ "desc": "Money that is not yours yet",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Rappen",
+  "Geld",
+  "Note",
+  "Münze",
+  "Franken",
+  "Preis",
+  "zurück",
+  "bezahlen",
+  "teuer",
+  "kosten"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe Geld.",
+   "e": "I have money."
+  },
+  {
+   "s": "Aber das Geld ist mir fremd.",
+   "e": "But the money is strange to me."
+  },
+  {
+   "s": "Hier heisst das Geld Franken.",
+   "e": "Here the money is called francs."
+  },
+  {
+   "s": "Ein Franken hat hundert Rappen.",
+   "e": "One franc has a hundred Rappen."
+  },
+  {
+   "s": "Der Rappen ist der kleine Teil.",
+   "e": "The Rappen is the small part."
+  },
+  {
+   "s": "Hundert Rappen sind ein Franken.",
+   "e": "A hundred Rappen make one franc."
+  },
+  {
+   "s": "Ich habe eine Note in der Hand.",
+   "e": "I have a note in my hand."
+  },
+  {
+   "s": "Die Note ist gelb.",
+   "e": "The note is yellow."
+  },
+  {
+   "s": "Auf der Note steht fünfzig.",
+   "e": "The note says fifty."
+  },
+  {
+   "s": "Fünfzig Franken.",
+   "e": "Fifty francs."
+  },
+  {
+   "s": "Die Note ist schön.",
+   "e": "The note is beautiful."
+  },
+  {
+   "s": "Sie ist kleiner als eine Note von zu Hause.",
+   "e": "It is smaller than a note from home."
+  },
+  {
+   "s": "Ich habe auch Münzen.",
+   "e": "I also have coins."
+  },
+  {
+   "s": "Die Münzen sind schwer.",
+   "e": "The coins are heavy."
+  },
+  {
+   "s": "Eine Münze ist gross und silbern.",
+   "e": "One coin is big and silver."
+  },
+  {
+   "s": "Auf der Münze steht fünf.",
+   "e": "The coin says five."
+  },
+  {
+   "s": "Das sind fünf Franken.",
+   "e": "That is five francs."
+  },
+  {
+   "s": "Eine kleine Münze ist zwanzig Rappen.",
+   "e": "A small coin is twenty Rappen."
+  },
+  {
+   "s": "Die kleinste Münze ist fünf Rappen.",
+   "e": "The smallest coin is five Rappen."
+  },
+  {
+   "s": "Weniger als fünf Rappen gibt es nicht.",
+   "e": "There is nothing smaller than five Rappen."
+  },
+  {
+   "s": "Ich gehe ins Café.",
+   "e": "I go into the café."
+  },
+  {
+   "s": "Lea sagt Grüezi.",
+   "e": "Lea says Grüezi."
+  },
+  {
+   "s": "Ich bestelle einen Crème.",
+   "e": "I order a crème."
+  },
+  {
+   "s": "Ich möchte den Preis wissen.",
+   "e": "I want to know the price."
+  },
+  {
+   "s": "Ich frage: was kostet das?",
+   "e": "I ask: what does that cost?"
+  },
+  {
+   "s": "Lea zeigt auf die Karte.",
+   "e": "Lea points at the menu."
+  },
+  {
+   "s": "Auf der Karte steht der Preis.",
+   "e": "The price is on the menu."
+  },
+  {
+   "s": "Der Preis ist vier Franken fünfzig.",
+   "e": "The price is four francs fifty."
+  },
+  {
+   "s": "Das ist ein normaler Preis.",
+   "e": "That is a normal price."
+  },
+  {
+   "s": "Ein Kaffee kostet hier vier oder fünf Franken.",
+   "e": "A coffee here costs four or five francs."
+  },
+  {
+   "s": "Zu Hause kostet er weniger.",
+   "e": "At home it costs less."
+  },
+  {
+   "s": "Hier ist alles teuer.",
+   "e": "Here everything is expensive."
+  },
+  {
+   "s": "Wirklich alles ist teuer.",
+   "e": "Really everything is expensive."
+  },
+  {
+   "s": "Aber die Leute sagen nichts dazu.",
+   "e": "But people do not say anything about it."
+  },
+  {
+   "s": "Für sie ist es kein teurer Preis.",
+   "e": "For them it is not an expensive price."
+  },
+  {
+   "s": "Ich schaue auf andere Preise.",
+   "e": "I look at other prices."
+  },
+  {
+   "s": "Ein Preis endet oft auf fünfundneunzig.",
+   "e": "A price often ends in ninety-five."
+  },
+  {
+   "s": "Drei Franken fünfundneunzig.",
+   "e": "Three francs ninety-five."
+  },
+  {
+   "s": "Neun Franken fünfundneunzig.",
+   "e": "Nine francs ninety-five."
+  },
+  {
+   "s": "Fünfundneunzig Rappen sind fast ein Franken.",
+   "e": "Ninety-five Rappen is almost a franc."
+  },
+  {
+   "s": "Aber es sieht kleiner aus.",
+   "e": "But it looks smaller."
+  },
+  {
+   "s": "Das machen sie überall so.",
+   "e": "They do that everywhere."
+  },
+  {
+   "s": "Ich muss bezahlen.",
+   "e": "I have to pay."
+  },
+  {
+   "s": "Bezahlen geht hier schnell.",
+   "e": "Paying goes quickly here."
+  },
+  {
+   "s": "Ich gebe Lea die Note.",
+   "e": "I give Lea the note."
+  },
+  {
+   "s": "Fünfzig Franken für einen Kaffee.",
+   "e": "Fifty francs for one coffee."
+  },
+  {
+   "s": "Lea nimmt die Note.",
+   "e": "Lea takes the note."
+  },
+  {
+   "s": "Sie schaut mich an.",
+   "e": "She looks at me."
+  },
+  {
+   "s": "Sie sagt nichts.",
+   "e": "She does not say anything."
+  },
+  {
+   "s": "Aber sie schaut kurz.",
+   "e": "But she looks for a moment."
+  },
+  {
+   "s": "Ich merke es.",
+   "e": "I notice it."
+  },
+  {
+   "s": "Fünfzig Franken sind zu viel für vier Franken fünfzig.",
+   "e": "Fifty francs is too much for four francs fifty."
+  },
+  {
+   "s": "Sie gibt mir viel Geld zurück.",
+   "e": "She gives me a lot of money back."
+  },
+  {
+   "s": "Sie zählt es laut.",
+   "e": "She counts it out loud."
+  },
+  {
+   "s": "Fünf, zehn, zwanzig, fünfundvierzig fünfzig.",
+   "e": "Five, ten, twenty, forty-five fifty."
+  },
+  {
+   "s": "Ich bekomme zwei Noten zurück.",
+   "e": "I get two notes back."
+  },
+  {
+   "s": "Und ich bekomme viele Münzen zurück.",
+   "e": "And I get a lot of coins back."
+  },
+  {
+   "s": "Zurück heisst: der Rest vom Geld.",
+   "e": "Back means: the rest of the money."
+  },
+  {
+   "s": "Ich stecke das Geld zurück in die Tasche.",
+   "e": "I put the money back in my pocket."
+  },
+  {
+   "s": "Meine Tasche ist jetzt schwer.",
+   "e": "My pocket is heavy now."
+  },
+  {
+   "s": "Beim nächsten Mal bezahle ich klein.",
+   "e": "Next time I will pay with something small."
+  },
+  {
+   "s": "Ich bezahle mit Münzen.",
+   "e": "I pay with coins."
+  },
+  {
+   "s": "Ich lege vier Franken fünfzig hin.",
+   "e": "I put down four francs fifty."
+  },
+  {
+   "s": "Zwei Münzen zu zwei Franken und eine halbe.",
+   "e": "Two two-franc coins and a half."
+  },
+  {
+   "s": "Lea sagt merci.",
+   "e": "Lea says merci."
+  },
+  {
+   "s": "Diesmal schaut sie nicht.",
+   "e": "This time she does not look."
+  },
+  {
+   "s": "Sie muss nichts zurückgeben.",
+   "e": "She does not have to give anything back."
+  },
+  {
+   "s": "Ich bekomme nichts zurück und das ist gut so.",
+   "e": "I get nothing back and that is how it should be."
+  },
+  {
+   "s": "Das ist besser.",
+   "e": "That is better."
+  },
+  {
+   "s": "Ich zahle fast immer mit Geld in der Hand.",
+   "e": "I nearly always pay with cash in hand."
+  },
+  {
+   "s": "Man kann hier überall so bezahlen.",
+   "e": "You can pay that way everywhere here."
+  },
+  {
+   "s": "Auch im Laden und im Zug.",
+   "e": "In the shop and on the train too."
+  },
+  {
+   "s": "Niemand schaut komisch.",
+   "e": "Nobody looks at you oddly."
+  },
+  {
+   "s": "Am Abend zähle ich mein Geld.",
+   "e": "In the evening I count my money."
+  },
+  {
+   "s": "Ich lege die Noten auf den Tisch.",
+   "e": "I put the notes on the table."
+  },
+  {
+   "s": "Ich lege die Münzen daneben.",
+   "e": "I put the coins next to them."
+  },
+  {
+   "s": "Ich habe hundert Franken und ein bisschen.",
+   "e": "I have a hundred francs and a bit."
+  },
+  {
+   "s": "Das ist nicht viel hier.",
+   "e": "That is not much here."
+  },
+  {
+   "s": "Eine Woche kostet mehr.",
+   "e": "A week costs more."
+  },
+  {
+   "s": "Das Zimmer kostet am meisten.",
+   "e": "The room costs the most."
+  },
+  {
+   "s": "Essen kostet auch viel.",
+   "e": "Food costs a lot too."
+  },
+  {
+   "s": "Der Kaffee ist teuer, aber er ist gut.",
+   "e": "The coffee is expensive, but it is good."
+  },
+  {
+   "s": "Das Billett ist teuer, aber der Zug ist pünktlich.",
+   "e": "The ticket is expensive, but the train is on time."
+  },
+  {
+   "s": "Vielleicht ist das der Handel.",
+   "e": "Maybe that is the deal."
+  },
+  {
+   "s": "Ich nehme eine Münze in die Hand.",
+   "e": "I take a coin in my hand."
+  },
+  {
+   "s": "Zwanzig Rappen.",
+   "e": "Twenty Rappen."
+  },
+  {
+   "s": "So klein und so schwer.",
+   "e": "So small and so heavy."
+  },
+  {
+   "s": "Ich lerne die Münzen mit den Augen.",
+   "e": "I learn the coins by sight."
+  },
+  {
+   "s": "Gross und silbern ist fünf Franken.",
+   "e": "Big and silver is five francs."
+  },
+  {
+   "s": "Klein und golden ist zehn Rappen.",
+   "e": "Small and golden is ten Rappen."
+  },
+  {
+   "s": "Bald muss ich nicht mehr schauen.",
+   "e": "Soon I will not have to look any more."
+  },
+  {
+   "s": "Bald fühle ich das Geld in der Hand.",
+   "e": "Soon I will feel the money in my hand."
+  },
+  {
+   "s": "Franken und Rappen.",
+   "e": "Francs and Rappen."
+  },
+  {
+   "s": "Das Geld gehört mir noch nicht.",
+   "e": "The money is not mine yet."
+  },
+  {
+   "s": "Aber es kommt.",
+   "e": "But it will be."
+  }
+ ]
+}

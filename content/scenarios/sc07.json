@@ -1,0 +1,109 @@
+{
+ "id": "sc07",
+ "title": "Am Brunnen",
+ "desc": "The water is free and somebody will tell you",
+ "setting": "A hot afternoon on the square, with a two-franc bottle of water in your hand.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Eine alte Frau",
+   "es": "Grüezi. Haben Sie Durst?",
+   "en": "Grüezi. Are you thirsty?",
+   "options": [
+    {
+     "es": "Grüezi. Ja, sehr.",
+     "en": "Grüezi. Yes, very.",
+     "verdict": "good",
+     "feedback": "She is going somewhere with this. Answer and let her get there."
+    },
+    {
+     "es": "Grüezi. Ja, es ist warm heute.",
+     "en": "Grüezi. Yes, it is warm today.",
+     "verdict": "good",
+     "feedback": "The weather, offered back. That is how a conversation starts here."
+    },
+    {
+     "es": "Ja.",
+     "en": "Yes.",
+     "verdict": "ok",
+     "feedback": "She greeted you first. One word back leaves the greeting hanging."
+    }
+   ]
+  },
+  {
+   "speaker": "Die alte Frau",
+   "es": "Sie müssen das Wasser nicht kaufen. Dort ist ein Brunnen.",
+   "en": "You do not have to buy water. There is a fountain over there.",
+   "options": [
+    {
+     "es": "Kann man das trinken?",
+     "en": "Can you drink that?",
+     "verdict": "good",
+     "feedback": "The obvious question, and asking it is how you stop buying water for good."
+    },
+    {
+     "es": "Wirklich? Merci vielmal.",
+     "en": "Really? Thanks very much.",
+     "verdict": "good",
+     "feedback": "She has just saved you two francs a day. Take it."
+    },
+    {
+     "es": "Das Wasser im Brunnen? Nein, merci.",
+     "en": "The water in the fountain? No, thanks.",
+     "verdict": "bad",
+     "feedback": "She is not offering you puddle water. Almost every fountain in the country runs drinking water."
+    }
+   ]
+  },
+  {
+   "speaker": "Die alte Frau",
+   "es": "Natürlich. Fast alle Brunnen sind Trinkwasser.",
+   "en": "Of course. Almost all the fountains are drinking water.",
+   "options": [
+    {
+     "es": "Und wenn nicht?",
+     "en": "And if they are not?",
+     "verdict": "good",
+     "feedback": "Exactly the right follow-up. There is a sign, and it says kein Trinkwasser."
+    },
+    {
+     "es": "Merci. Ich probiere es.",
+     "en": "Thanks. I will try it.",
+     "verdict": "good",
+     "feedback": "Go and fill the bottle you already paid for. That is the whole trick."
+    },
+    {
+     "es": "In der Stadt? Das ist nicht sauber.",
+     "en": "In town? That is not clean.",
+     "verdict": "bad",
+     "feedback": "It comes off the mountain and it is colder and cleaner than the bottle in your hand."
+    }
+   ]
+  },
+  {
+   "speaker": "Die alte Frau",
+   "es": "Das macht jeder am Anfang. Ade.",
+   "en": "Everybody does that at the start. Goodbye.",
+   "options": [
+    {
+     "es": "Merci vielmal. Ade.",
+     "en": "Thanks very much. Goodbye.",
+     "verdict": "good",
+     "feedback": "She told you something useful and did not make you feel stupid. That deserves the full merci vielmal."
+    },
+    {
+     "es": "Ade.",
+     "en": "Goodbye.",
+     "verdict": "ok",
+     "feedback": "Correct, and it skips the thank you she had earned."
+    },
+    {
+     "es": "Ich bin nicht am Anfang.",
+     "en": "I am not at the start.",
+     "verdict": "bad",
+     "feedback": "You are, and she was being kind about it."
+    }
+   ]
+  }
+ ]
+}

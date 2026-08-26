@@ -1,0 +1,109 @@
+{
+ "id": "sc04",
+ "title": "In der Bäckerei",
+ "desc": "Pointing at things until you have their names",
+ "setting": "Half past six in the morning. Everything is out and nothing is labelled.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Die Verkäuferin",
+   "es": "Grüezi. Was möchten Sie?",
+   "en": "Grüezi. What would you like?",
+   "options": [
+    {
+     "es": "Grüezi. (auf etwas zeigen) Was ist das, bitte?",
+     "en": "Grüezi. (point at something) What is that, please?",
+     "verdict": "good",
+     "feedback": "Pointing is not cheating. It is how you get the word, and you only need it once per thing."
+    },
+    {
+     "es": "Grüezi. Zwei Weggli, bitte.",
+     "en": "Grüezi. Two Weggli, please.",
+     "verdict": "good",
+     "feedback": "You know the word already. No article needed with a number."
+    },
+    {
+     "es": "(auf etwas zeigen)",
+     "en": "(point at something)",
+     "verdict": "ok",
+     "feedback": "She will hand it over. A Grüezi in front of it costs one syllable."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Verkäuferin",
+   "es": "Das ist ein Gipfeli. Möchten Sie eines?",
+   "en": "That is a Gipfeli. Would you like one?",
+   "options": [
+    {
+     "es": "Ja, bitte. Ein Gipfeli.",
+     "en": "Yes, please. One Gipfeli.",
+     "verdict": "good",
+     "feedback": "You take the word she just gave you and use it in the same breath. That is how it sticks."
+    },
+    {
+     "es": "Ja, zwei, bitte.",
+     "en": "Yes, two, please.",
+     "verdict": "good",
+     "feedback": "Also right, and now you have one for the walk and one for later."
+    },
+    {
+     "es": "Ein Croissant, bitte.",
+     "en": "A croissant, please.",
+     "verdict": "bad",
+     "feedback": "She will know exactly what you mean. She has just told you what it is called here, and you used the other word anyway."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Verkäuferin",
+   "es": "Sonst noch etwas?",
+   "en": "Anything else?",
+   "options": [
+    {
+     "es": "Ja, ein Brot, bitte.",
+     "en": "Yes, a loaf, please.",
+     "verdict": "good",
+     "feedback": "She asked an open question and you answered it. This is the point where you add the thing you nearly forgot."
+    },
+    {
+     "es": "Nein, merci. Das ist alles.",
+     "en": "No, merci. That is everything.",
+     "verdict": "good",
+     "feedback": "Das ist alles closes the order cleanly."
+    },
+    {
+     "es": "Nein.",
+     "en": "No.",
+     "verdict": "ok",
+     "feedback": "Fine, if a little short. Nein merci is what she said to you."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Verkäuferin",
+   "es": "Möchten Sie einen Sack?",
+   "en": "Would you like a bag?",
+   "options": [
+    {
+     "es": "Ja, bitte.",
+     "en": "Yes, please.",
+     "verdict": "ok",
+     "feedback": "Fine, and it costs a few Rappen. Most people here have one in their pocket already."
+    },
+    {
+     "es": "Nein, merci. Ich habe einen.",
+     "en": "No, merci. I have one.",
+     "verdict": "good",
+     "feedback": "The answer of somebody who has been here more than a week."
+    },
+    {
+     "es": "Eine Tüte, bitte.",
+     "en": "A bag, please.",
+     "verdict": "bad",
+     "feedback": "Tüte is the German German word. In Switzerland it is a Sack, and it is not free."
+    }
+   ]
+  }
+ ]
+}

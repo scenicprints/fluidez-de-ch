@@ -1,0 +1,413 @@
+{
+ "id": "p0-08",
+ "title": "Migros oder Coop",
+ "desc": "Two shops, and there are only two",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Wein",
+  "Kasse",
+  "Käse",
+  "Schokolade",
+  "vergessen",
+  "Regal",
+  "Sack",
+  "einkaufen",
+  "brauchen",
+  "geben"
+ ],
+ "sn": [
+  {
+   "s": "Ich brauche Essen.",
+   "e": "I need food."
+  },
+  {
+   "s": "Ich brauche viele Sachen.",
+   "e": "I need a lot of things."
+  },
+  {
+   "s": "Ich gehe einkaufen.",
+   "e": "I go shopping."
+  },
+  {
+   "s": "Am Samstag kaufen alle ein.",
+   "e": "On Saturday everybody does their shopping."
+  },
+  {
+   "s": "Einkaufen ist hier teuer.",
+   "e": "Shopping is expensive here."
+  },
+  {
+   "s": "Ich kaufe einmal in der Woche ein.",
+   "e": "I do my shopping once a week."
+  },
+  {
+   "s": "Ich suche einen Laden.",
+   "e": "I look for a shop."
+  },
+  {
+   "s": "Ich finde zwei Läden.",
+   "e": "I find two shops."
+  },
+  {
+   "s": "Der eine Laden heisst Migros.",
+   "e": "One shop is called Migros."
+  },
+  {
+   "s": "Der andere Laden heisst Coop.",
+   "e": "The other shop is called Coop."
+  },
+  {
+   "s": "Migros ist orange.",
+   "e": "Migros is orange."
+  },
+  {
+   "s": "Coop ist orange und rot.",
+   "e": "Coop is orange and red."
+  },
+  {
+   "s": "Es gibt fast nur diese zwei.",
+   "e": "There are almost only these two."
+  },
+  {
+   "s": "In jedem Dorf ist ein Migros oder ein Coop.",
+   "e": "In every village there is a Migros or a Coop."
+  },
+  {
+   "s": "Manchmal beide.",
+   "e": "Sometimes both."
+  },
+  {
+   "s": "Ich gehe in den Migros.",
+   "e": "I go into the Migros."
+  },
+  {
+   "s": "Der Laden ist gross und hell.",
+   "e": "The shop is big and bright."
+  },
+  {
+   "s": "Alles steht im Regal.",
+   "e": "Everything is on the shelf."
+  },
+  {
+   "s": "Jedes Regal hat ein Schild.",
+   "e": "Every shelf has a sign."
+  },
+  {
+   "s": "Ich lese die Schilder.",
+   "e": "I read the signs."
+  },
+  {
+   "s": "Ich verstehe die Hälfte.",
+   "e": "I understand half of them."
+  },
+  {
+   "s": "Zuerst brauche ich Brot.",
+   "e": "First I need bread."
+  },
+  {
+   "s": "Dann brauche ich Käse.",
+   "e": "Then I need cheese."
+  },
+  {
+   "s": "Der Käse ist in einem grossen Regal.",
+   "e": "The cheese is on a big shelf."
+  },
+  {
+   "s": "Es gibt sehr viel Käse.",
+   "e": "There is a great deal of cheese."
+  },
+  {
+   "s": "Zu viel Käse.",
+   "e": "Too much cheese."
+  },
+  {
+   "s": "Ich kenne die Namen nicht.",
+   "e": "I do not know the names."
+  },
+  {
+   "s": "Ich nehme einen Käse ohne Namen.",
+   "e": "I take a cheese with no name."
+  },
+  {
+   "s": "Er ist hart und gelb.",
+   "e": "It is hard and yellow."
+  },
+  {
+   "s": "Der Käse ist teuer.",
+   "e": "The cheese is expensive."
+  },
+  {
+   "s": "Aber Käse braucht man.",
+   "e": "But you need cheese."
+  },
+  {
+   "s": "Im nächsten Regal ist Schokolade.",
+   "e": "On the next shelf there is chocolate."
+  },
+  {
+   "s": "Es gibt auch sehr viel Schokolade.",
+   "e": "There is a great deal of chocolate too."
+  },
+  {
+   "s": "Ein ganzes Regal Schokolade.",
+   "e": "A whole shelf of chocolate."
+  },
+  {
+   "s": "Braune, weisse, dunkle Schokolade.",
+   "e": "Brown, white and dark chocolate."
+  },
+  {
+   "s": "Die Schokolade ist nicht teuer.",
+   "e": "The chocolate is not expensive."
+  },
+  {
+   "s": "Sie kostet weniger als der Käse.",
+   "e": "It costs less than the cheese."
+  },
+  {
+   "s": "Ich brauche keine Schokolade.",
+   "e": "I do not need chocolate."
+  },
+  {
+   "s": "Ich nehme trotzdem eine.",
+   "e": "I take one anyway."
+  },
+  {
+   "s": "Dann suche ich Wein.",
+   "e": "Then I look for wine."
+  },
+  {
+   "s": "Ich gehe durch den ganzen Laden.",
+   "e": "I walk through the whole shop."
+  },
+  {
+   "s": "Ich finde keinen Wein.",
+   "e": "I do not find any wine."
+  },
+  {
+   "s": "Kein Regal hat Wein.",
+   "e": "No shelf has wine."
+  },
+  {
+   "s": "Ich suche noch einmal.",
+   "e": "I look again."
+  },
+  {
+   "s": "Immer noch kein Wein.",
+   "e": "Still no wine."
+  },
+  {
+   "s": "Ich frage einen Mann vom Laden.",
+   "e": "I ask a man who works in the shop."
+  },
+  {
+   "s": "Grüezi, wo ist der Wein?",
+   "e": "Grüezi, where is the wine?"
+  },
+  {
+   "s": "Der Mann lacht kurz.",
+   "e": "The man laughs briefly."
+  },
+  {
+   "s": "Er sagt: bei uns gibt es keinen Wein.",
+   "e": "He says: we do not have any wine."
+  },
+  {
+   "s": "Der Migros verkauft keinen Wein.",
+   "e": "Migros does not sell wine."
+  },
+  {
+   "s": "Er verkauft überhaupt keinen Alkohol.",
+   "e": "It does not sell any alcohol at all."
+  },
+  {
+   "s": "Nie, sagt er. Noch nie.",
+   "e": "Never, he says. Not ever."
+  },
+  {
+   "s": "Das ist von Anfang an so.",
+   "e": "It is that way from the start."
+  },
+  {
+   "s": "Der Mann vom Migros will das so.",
+   "e": "The man who started Migros wants it that way."
+  },
+  {
+   "s": "Für Wein muss ich in den Coop.",
+   "e": "For wine I have to go to the Coop."
+  },
+  {
+   "s": "Merci vielmal, sage ich.",
+   "e": "Merci vielmal, I say."
+  },
+  {
+   "s": "Ich gehe zur Kasse.",
+   "e": "I go to the till."
+  },
+  {
+   "s": "An der Kasse steht schon jemand.",
+   "e": "Somebody is already at the till."
+  },
+  {
+   "s": "An der Kasse steht eine Frau.",
+   "e": "There is a woman at the till."
+  },
+  {
+   "s": "Sie sagt Grüezi.",
+   "e": "She says Grüezi."
+  },
+  {
+   "s": "Sie zieht alles über das Glas.",
+   "e": "She pulls everything over the glass."
+  },
+  {
+   "s": "Es geht sehr schnell.",
+   "e": "It goes very fast."
+  },
+  {
+   "s": "An der Kasse geht alles schnell.",
+   "e": "Everything is fast at the till."
+  },
+  {
+   "s": "Ich habe keinen Sack.",
+   "e": "I do not have a bag."
+  },
+  {
+   "s": "Ich frage nach einem Sack.",
+   "e": "I ask for a bag."
+  },
+  {
+   "s": "Der Sack kostet auch etwas.",
+   "e": "The bag costs something too."
+  },
+  {
+   "s": "Ein Sack ist nicht gratis.",
+   "e": "A bag is not free."
+  },
+  {
+   "s": "Die Leute bringen ihren eigenen Sack mit.",
+   "e": "People bring their own bag."
+  },
+  {
+   "s": "Das vergesse ich immer wieder.",
+   "e": "I keep forgetting that."
+  },
+  {
+   "s": "Vergessen ist hier teuer.",
+   "e": "Forgetting is expensive here."
+  },
+  {
+   "s": "Ich bezahle und packe ein.",
+   "e": "I pay and pack up."
+  },
+  {
+   "s": "Am Freitag kaufe ich wieder ein.",
+   "e": "On Friday I do the shopping again."
+  },
+  {
+   "s": "Ich packe selber ein.",
+   "e": "I pack it myself."
+  },
+  {
+   "s": "Niemand hilft mir, und das ist normal.",
+   "e": "Nobody helps me, and that is normal."
+  },
+  {
+   "s": "Draussen schaue ich in den Sack.",
+   "e": "Outside I look in the bag."
+  },
+  {
+   "s": "Brot, Käse, Schokolade.",
+   "e": "Bread, cheese, chocolate."
+  },
+  {
+   "s": "Kein Wein.",
+   "e": "No wine."
+  },
+  {
+   "s": "Ich gehe für Wein in den Laden und komme mit Schokolade heraus.",
+   "e": "I go to the shop for wine and come out with chocolate."
+  },
+  {
+   "s": "Ich vergesse auch die Milch.",
+   "e": "I forget the milk as well."
+  },
+  {
+   "s": "Die Milch vergesse ich jedes Mal.",
+   "e": "I forget the milk every single time."
+  },
+  {
+   "s": "Der Coop ist zwei Strassen weiter.",
+   "e": "The Coop is two streets further on."
+  },
+  {
+   "s": "Ich gehe hin.",
+   "e": "I walk over."
+  },
+  {
+   "s": "Im Coop gibt es Wein.",
+   "e": "In the Coop there is wine."
+  },
+  {
+   "s": "Ein ganzes Regal Wein.",
+   "e": "A whole shelf of wine."
+  },
+  {
+   "s": "Viel Wein aus der Schweiz.",
+   "e": "A lot of wine from Switzerland."
+  },
+  {
+   "s": "Ich kenne keinen davon.",
+   "e": "I do not know any of it."
+  },
+  {
+   "s": "Ich nehme eine Flasche und schaue den Preis an.",
+   "e": "I take a bottle and look at the price."
+  },
+  {
+   "s": "Der Wein ist auch teuer.",
+   "e": "The wine is expensive too."
+  },
+  {
+   "s": "Ich stelle die Flasche zurück.",
+   "e": "I put the bottle back."
+  },
+  {
+   "s": "Ich nehme eine billigere.",
+   "e": "I take a cheaper one."
+  },
+  {
+   "s": "Ich nehme auch Milch.",
+   "e": "I take milk too."
+  },
+  {
+   "s": "Diesmal vergesse ich die Milch nicht.",
+   "e": "This time I do not forget the milk."
+  },
+  {
+   "s": "An der Kasse bezahle ich mit Münzen.",
+   "e": "At the till I pay with coins."
+  },
+  {
+   "s": "Ich habe meinen Sack schon dabei.",
+   "e": "I have my bag with me already."
+  },
+  {
+   "s": "Zwei Läden für einen Einkauf.",
+   "e": "Two shops for one lot of shopping."
+  },
+  {
+   "s": "Migros für alles.",
+   "e": "Migros for everything."
+  },
+  {
+   "s": "Coop für den Wein.",
+   "e": "Coop for the wine."
+  },
+  {
+   "s": "Jetzt weiss ich es.",
+   "e": "Now I know."
+  }
+ ]
+}

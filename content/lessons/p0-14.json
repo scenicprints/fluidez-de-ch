@@ -1,0 +1,414 @@
+{
+ "id": "p0-14",
+ "title": "Am Sonntag ist zu",
+ "desc": "The day everything stops",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "geschlossen",
+  "schliessen",
+  "öffnen",
+  "Sonntag",
+  "Samstag",
+  "offen",
+  "Milch",
+  "Laden",
+  "Abend",
+  "Woche",
+  "Tag"
+ ],
+ "sn": [
+  {
+   "s": "Es ist Samstag.",
+   "e": "It is Saturday."
+  },
+  {
+   "s": "Samstag ist ein guter Tag.",
+   "e": "Saturday is a good day."
+  },
+  {
+   "s": "Der Tag geht schnell vorbei.",
+   "e": "The day goes past quickly."
+  },
+  {
+   "s": "Die Stadt ist voll.",
+   "e": "The town is full."
+  },
+  {
+   "s": "Alle Läden sind offen.",
+   "e": "All the shops are open."
+  },
+  {
+   "s": "Am Samstag kaufen alle ein.",
+   "e": "On Saturday everybody does their shopping."
+  },
+  {
+   "s": "Ich mache nichts.",
+   "e": "I do nothing."
+  },
+  {
+   "s": "Ich gehe an den See.",
+   "e": "I go to the lake."
+  },
+  {
+   "s": "Ich sitze am Ufer.",
+   "e": "I sit on the shore."
+  },
+  {
+   "s": "Der Tag ist schön.",
+   "e": "The day is beautiful."
+  },
+  {
+   "s": "Am Abend gehe ich zurück.",
+   "e": "In the evening I go back."
+  },
+  {
+   "s": "Am Abend ist die Stadt ruhig.",
+   "e": "In the evening the town is quiet."
+  },
+  {
+   "s": "Es ist halb sieben am Abend.",
+   "e": "It is half past six in the evening."
+  },
+  {
+   "s": "Ich brauche Milch.",
+   "e": "I need milk."
+  },
+  {
+   "s": "Ich habe keine Milch mehr.",
+   "e": "I have no milk left."
+  },
+  {
+   "s": "Ich gehe zum Laden.",
+   "e": "I go to the shop."
+  },
+  {
+   "s": "Der Laden ist geschlossen.",
+   "e": "The shop is closed."
+  },
+  {
+   "s": "Geschlossen heisst: nicht offen.",
+   "e": "Geschlossen means: not open."
+  },
+  {
+   "s": "Ich schaue auf das Schild.",
+   "e": "I look at the sign."
+  },
+  {
+   "s": "Samstag bis siebzehn Uhr.",
+   "e": "Saturday until five."
+  },
+  {
+   "s": "Der Laden schliesst am Samstag früh.",
+   "e": "The shop closes early on Saturday."
+  },
+  {
+   "s": "Er schliesst früher als sonst.",
+   "e": "It closes earlier than usual."
+  },
+  {
+   "s": "Er schliesst um fünf.",
+   "e": "It closes at five."
+  },
+  {
+   "s": "Ich bin anderthalb Stunden zu spät.",
+   "e": "I am an hour and a half too late."
+  },
+  {
+   "s": "Ich gehe zum anderen Laden.",
+   "e": "I go to the other shop."
+  },
+  {
+   "s": "Der andere Laden ist auch geschlossen.",
+   "e": "The other shop is closed too."
+  },
+  {
+   "s": "Beide sind zu.",
+   "e": "Both are shut."
+  },
+  {
+   "s": "Zu heisst auch geschlossen.",
+   "e": "Zu also means closed."
+  },
+  {
+   "s": "Man sagt einfach: es ist zu.",
+   "e": "People just say: it is shut."
+  },
+  {
+   "s": "Kein Problem, denke ich.",
+   "e": "No problem, I think."
+  },
+  {
+   "s": "Ich gehe morgen.",
+   "e": "I will go tomorrow."
+  },
+  {
+   "s": "Morgen ist Sonntag.",
+   "e": "Tomorrow is Sunday."
+  },
+  {
+   "s": "Am Sonntag ist alles zu.",
+   "e": "On Sunday everything is shut."
+  },
+  {
+   "s": "Wirklich alles.",
+   "e": "Really everything."
+  },
+  {
+   "s": "Am Sonntag öffnet kein Laden.",
+   "e": "On Sunday no shop opens."
+  },
+  {
+   "s": "Der Migros öffnet nicht.",
+   "e": "The Migros does not open."
+  },
+  {
+   "s": "Der Coop öffnet auch nicht.",
+   "e": "The Coop does not open either."
+  },
+  {
+   "s": "Die Bäckerei öffnet manchmal am Morgen.",
+   "e": "The bakery sometimes opens in the morning."
+  },
+  {
+   "s": "Aber nur kurz.",
+   "e": "But only briefly."
+  },
+  {
+   "s": "Sonst ist der ganze Sonntag zu.",
+   "e": "Otherwise the whole of Sunday is shut."
+  },
+  {
+   "s": "Das weiss ich noch nicht.",
+   "e": "I do not know that yet."
+  },
+  {
+   "s": "Am Sonntag stehe ich auf und gehe zum Laden.",
+   "e": "On Sunday I get up and go to the shop."
+  },
+  {
+   "s": "Der Laden ist geschlossen.",
+   "e": "The shop is closed."
+  },
+  {
+   "s": "Ich gehe zum nächsten.",
+   "e": "I go to the next one."
+  },
+  {
+   "s": "Auch geschlossen.",
+   "e": "Closed too."
+  },
+  {
+   "s": "Ich gehe durch die halbe Stadt.",
+   "e": "I walk through half the town."
+  },
+  {
+   "s": "Alles ist zu.",
+   "e": "Everything is shut."
+  },
+  {
+   "s": "Die Strassen sind leer.",
+   "e": "The streets are empty."
+  },
+  {
+   "s": "Am Sonntag ist die Stadt ruhig.",
+   "e": "On Sunday the town is quiet."
+  },
+  {
+   "s": "Sehr ruhig.",
+   "e": "Very quiet."
+  },
+  {
+   "s": "Leute gehen spazieren.",
+   "e": "People go for walks."
+  },
+  {
+   "s": "Familien gehen an den See.",
+   "e": "Families go to the lake."
+  },
+  {
+   "s": "Ein Mann liest auf einer Bank.",
+   "e": "A man is reading on a bench."
+  },
+  {
+   "s": "Niemand kauft etwas.",
+   "e": "Nobody buys anything."
+  },
+  {
+   "s": "Es gibt nichts zu kaufen.",
+   "e": "There is nothing to buy."
+  },
+  {
+   "s": "Ich habe immer noch keine Milch.",
+   "e": "I still have no milk."
+  },
+  {
+   "s": "Ich frage eine Frau auf der Strasse.",
+   "e": "I ask a woman in the street."
+  },
+  {
+   "s": "Grüezi, ist irgendwo etwas offen?",
+   "e": "Grüezi, is anything open anywhere?"
+  },
+  {
+   "s": "Sie sagt: am Bahnhof.",
+   "e": "She says: at the station."
+  },
+  {
+   "s": "Am Bahnhof sind die Läden offen.",
+   "e": "At the station the shops are open."
+  },
+  {
+   "s": "Auch am Sonntag.",
+   "e": "On Sunday too."
+  },
+  {
+   "s": "Auch am Abend.",
+   "e": "In the evening too."
+  },
+  {
+   "s": "Der Bahnhof ist die Ausnahme.",
+   "e": "The station is the exception."
+  },
+  {
+   "s": "Alle hier wissen das.",
+   "e": "Everybody here knows that."
+  },
+  {
+   "s": "Merci vielmal, sage ich.",
+   "e": "Merci vielmal, I say."
+  },
+  {
+   "s": "Ich gehe zum Bahnhof.",
+   "e": "I go to the station."
+  },
+  {
+   "s": "Im Bahnhof ist ein Laden.",
+   "e": "There is a shop in the station."
+  },
+  {
+   "s": "Der Laden ist offen.",
+   "e": "The shop is open."
+  },
+  {
+   "s": "Er ist klein und teuer.",
+   "e": "It is small and expensive."
+  },
+  {
+   "s": "Aber er ist offen.",
+   "e": "But it is open."
+  },
+  {
+   "s": "Ich kaufe Milch.",
+   "e": "I buy milk."
+  },
+  {
+   "s": "Die Milch kostet mehr als sonst.",
+   "e": "The milk costs more than usual."
+  },
+  {
+   "s": "Das ist mir egal.",
+   "e": "I do not mind."
+  },
+  {
+   "s": "Im Laden sind viele Leute.",
+   "e": "There are a lot of people in the shop."
+  },
+  {
+   "s": "Alle vergessen das Gleiche.",
+   "e": "Everybody forgets the same thing."
+  },
+  {
+   "s": "Milch, Brot, ein bisschen Käse.",
+   "e": "Milk, bread, a bit of cheese."
+  },
+  {
+   "s": "Wir stehen alle am Sonntag am Bahnhof.",
+   "e": "We are all at the station on Sunday."
+  },
+  {
+   "s": "Das ist fast lustig.",
+   "e": "That is almost funny."
+  },
+  {
+   "s": "Am Montag ist wieder alles offen.",
+   "e": "On Monday everything is open again."
+  },
+  {
+   "s": "Die Woche fängt an.",
+   "e": "The week starts."
+  },
+  {
+   "s": "Eine Woche hat sechs Tage zum Einkaufen.",
+   "e": "A week has six days for shopping."
+  },
+  {
+   "s": "Die ganze Woche ist alles offen.",
+   "e": "All week everything is open."
+  },
+  {
+   "s": "Die Woche geht von Montag bis Samstag.",
+   "e": "The week runs from Monday to Saturday."
+  },
+  {
+   "s": "Am Sonntag ruht die Woche.",
+   "e": "On Sunday the week rests."
+  },
+  {
+   "s": "Jetzt kaufe ich am Freitag ein.",
+   "e": "Now I do my shopping on Friday."
+  },
+  {
+   "s": "Oder am Samstag am Morgen.",
+   "e": "Or on Saturday morning."
+  },
+  {
+   "s": "Nie am Samstagabend.",
+   "e": "Never on Saturday evening."
+  },
+  {
+   "s": "Ich schaue jetzt auf die Schilder.",
+   "e": "Now I look at the signs."
+  },
+  {
+   "s": "Auf jedem Laden stehen die Zeiten.",
+   "e": "Every shop has its hours on the door."
+  },
+  {
+   "s": "Wann er öffnet und wann er schliesst.",
+   "e": "When it opens and when it closes."
+  },
+  {
+   "s": "Schliessen tun hier alle pünktlich.",
+   "e": "Everybody here closes on time."
+  },
+  {
+   "s": "Ich lese das vorher.",
+   "e": "I read it beforehand."
+  },
+  {
+   "s": "Der Sonntag ist jetzt kein Problem.",
+   "e": "Sunday is not a problem now."
+  },
+  {
+   "s": "Der Sonntag ist sogar schön.",
+   "e": "Sunday is actually nice."
+  },
+  {
+   "s": "Ein Tag ohne Termine.",
+   "e": "A day with no appointments."
+  },
+  {
+   "s": "Ein Tag ohne Läden.",
+   "e": "A day without shops."
+  },
+  {
+   "s": "Man geht an den See und das ist alles.",
+   "e": "You go to the lake and that is that."
+  },
+  {
+   "s": "Man braucht nur Milch am Samstag.",
+   "e": "You just need milk on Saturday."
+  }
+ ]
+}

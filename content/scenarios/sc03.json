@@ -1,0 +1,109 @@
+{
+ "id": "sc03",
+ "title": "Ein Crème, bitte",
+ "desc": "Ordering the coffee, and the word for it",
+ "setting": "The café on the square. Lea is behind the counter and it is not busy.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Lea",
+   "es": "Grüezi. Was darf es sein?",
+   "en": "Grüezi. What can I get you?",
+   "options": [
+    {
+     "es": "Grüezi. Einen Kaffee, bitte.",
+     "en": "Grüezi. A coffee, please.",
+     "verdict": "good",
+     "feedback": "Exactly what you said on your first day, and it works. She will ask you which kind."
+    },
+    {
+     "es": "Grüezi. Einen Crème, bitte.",
+     "en": "Grüezi. A crème, please.",
+     "verdict": "good",
+     "feedback": "The Swiss standard coffee, ordered by its name. This is what you learn on day two."
+    },
+    {
+     "es": "Kaffee.",
+     "en": "Coffee.",
+     "verdict": "bad",
+     "feedback": "No greeting and no bitte. She will still bring it and she will still notice."
+    }
+   ]
+  },
+  {
+   "speaker": "Lea",
+   "es": "Einen Crème? Oder eine Schale?",
+   "en": "A crème? Or a Schale?",
+   "options": [
+    {
+     "es": "Einen Crème, bitte.",
+     "en": "A crème, please.",
+     "verdict": "good",
+     "feedback": "You did not know the second word and you picked the one you did know. That is the right move every time."
+    },
+    {
+     "es": "Was ist eine Schale?",
+     "en": "What is a Schale?",
+     "verdict": "good",
+     "feedback": "Asking is not a failure. She will tell you, and you will own the word by tomorrow."
+    },
+    {
+     "es": "Ja.",
+     "en": "Yes.",
+     "verdict": "bad",
+     "feedback": "She asked which, not whether. You will get whichever she guesses."
+    }
+   ]
+  },
+  {
+   "speaker": "Lea",
+   "es": "Möchten Sie auch etwas essen?",
+   "en": "Would you like something to eat as well?",
+   "options": [
+    {
+     "es": "Nein, merci. Nur den Kaffee.",
+     "en": "No, merci. Just the coffee.",
+     "verdict": "good",
+     "feedback": "Nein merci is softer than nein on its own, and it is what people actually say."
+    },
+    {
+     "es": "Ja, ein Gipfeli, bitte.",
+     "en": "Yes, a Gipfeli, please.",
+     "verdict": "good",
+     "feedback": "Coffee and a Gipfeli is the whole Swiss breakfast and nobody will find it odd at three in the afternoon either."
+    },
+    {
+     "es": "Nein.",
+     "en": "No.",
+     "verdict": "ok",
+     "feedback": "Understood, and a little flat. Merci does the softening."
+    }
+   ]
+  },
+  {
+   "speaker": "Lea",
+   "es": "Das macht vier Franken fünfzig.",
+   "en": "That is four francs fifty.",
+   "options": [
+    {
+     "es": "(vier Franken fünfzig hinlegen) Bitte.",
+     "en": "(put down four fifty) There you go.",
+     "verdict": "good",
+     "feedback": "The exact money, so she does not have to give you anything back. Bitte covers the handing over."
+    },
+    {
+     "es": "(eine Note zu zwanzig geben) Bitte.",
+     "en": "(hand over a twenty) There you go.",
+     "verdict": "ok",
+     "feedback": "Perfectly normal. She will count your change out loud."
+    },
+    {
+     "es": "(eine Note zu zweihundert geben) Bitte.",
+     "en": "(hand over a two hundred) There you go.",
+     "verdict": "bad",
+     "feedback": "For a four-franc coffee. She will take it, and she will look at you first."
+    }
+   ]
+  }
+ ]
+}

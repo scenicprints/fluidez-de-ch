@@ -1,0 +1,431 @@
+{
+ "id": "p0-02",
+ "title": "Gleis sieben",
+ "desc": "Numbers, and a platform you have to find",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Gleis",
+  "Automat",
+  "Perron",
+  "Billett",
+  "Nummer",
+  "suchen",
+  "finden",
+  "stehen"
+ ],
+ "sn": [
+  {
+   "s": "Der Bahnhof ist unter dem Flughafen.",
+   "e": "The station is under the airport."
+  },
+  {
+   "s": "Ich fahre mit der Rolltreppe nach unten.",
+   "e": "I take the escalator down."
+  },
+  {
+   "s": "Der Bahnhof ist nicht gross.",
+   "e": "The station is not big."
+  },
+  {
+   "s": "Aber der Bahnhof ist voll.",
+   "e": "But the station is full."
+  },
+  {
+   "s": "Ich kenne den Bahnhof nicht.",
+   "e": "I do not know this station."
+  },
+  {
+   "s": "Der Bahnhof ist hell und sauber.",
+   "e": "The station is bright and clean."
+  },
+  {
+   "s": "Ich suche ein Billett.",
+   "e": "I am looking for a ticket."
+  },
+  {
+   "s": "Ich suche einen Automaten.",
+   "e": "I am looking for a machine."
+  },
+  {
+   "s": "Der Automat steht an der Wand.",
+   "e": "The machine stands against the wall."
+  },
+  {
+   "s": "Zwei Leute stehen vor dem Automaten.",
+   "e": "Two people are standing in front of the machine."
+  },
+  {
+   "s": "Ich warte.",
+   "e": "I wait."
+  },
+  {
+   "s": "Dann bin ich dran.",
+   "e": "Then it is my turn."
+  },
+  {
+   "s": "Der Automat ist blau.",
+   "e": "The machine is blue."
+  },
+  {
+   "s": "Ich drücke auf Deutsch.",
+   "e": "I press German."
+  },
+  {
+   "s": "Ich tippe Luzern.",
+   "e": "I type Luzern."
+  },
+  {
+   "s": "Der Automat zeigt einen Preis.",
+   "e": "The machine shows a price."
+  },
+  {
+   "s": "Das Billett kostet dreissig Franken.",
+   "e": "The ticket costs thirty francs."
+  },
+  {
+   "s": "Ich nehme das Billett.",
+   "e": "I take the ticket."
+  },
+  {
+   "s": "Das Billett ist klein.",
+   "e": "The ticket is small."
+  },
+  {
+   "s": "Auf dem Billett steht Luzern.",
+   "e": "The ticket says Luzern."
+  },
+  {
+   "s": "Auf dem Billett steht auch eine Zeit.",
+   "e": "The ticket has a time on it too."
+  },
+  {
+   "s": "Ich lese die Zeit.",
+   "e": "I read the time."
+  },
+  {
+   "s": "Zehn Uhr zwölf.",
+   "e": "Ten twelve."
+  },
+  {
+   "s": "Jetzt ist es zehn Uhr vier.",
+   "e": "It is four past ten now."
+  },
+  {
+   "s": "Ich habe acht Minuten.",
+   "e": "I have eight minutes."
+  },
+  {
+   "s": "Acht Minuten sind nicht viel.",
+   "e": "Eight minutes is not much."
+  },
+  {
+   "s": "Ich suche das Gleis.",
+   "e": "I look for the track."
+  },
+  {
+   "s": "Wo ist das Gleis?",
+   "e": "Where is the track?"
+  },
+  {
+   "s": "Ich sehe eine Tafel.",
+   "e": "I see a board."
+  },
+  {
+   "s": "Auf der Tafel stehen Nummern.",
+   "e": "There are numbers on the board."
+  },
+  {
+   "s": "Gleis eins, Gleis zwei, Gleis drei.",
+   "e": "Track one, track two, track three."
+  },
+  {
+   "s": "Ich suche Luzern.",
+   "e": "I look for Luzern."
+  },
+  {
+   "s": "Ich finde Luzern nicht.",
+   "e": "I do not find Luzern."
+  },
+  {
+   "s": "Ich lese noch einmal.",
+   "e": "I read it again."
+  },
+  {
+   "s": "Da ist es.",
+   "e": "There it is."
+  },
+  {
+   "s": "Luzern, Gleis sieben.",
+   "e": "Luzern, track seven."
+  },
+  {
+   "s": "Ich sage die Nummer laut.",
+   "e": "I say the number out loud."
+  },
+  {
+   "s": "Sieben.",
+   "e": "Seven."
+  },
+  {
+   "s": "Die Nummer sieben steht ganz oben.",
+   "e": "The number seven is right at the top."
+  },
+  {
+   "s": "Ich merke mir die Nummer.",
+   "e": "I make a note of the number."
+  },
+  {
+   "s": "Ich suche also Gleis sieben.",
+   "e": "So I am looking for track seven."
+  },
+  {
+   "s": "Die Nummern gehen von eins bis vier.",
+   "e": "The numbers run from one to four."
+  },
+  {
+   "s": "Gleis fünf und sechs sind weiter hinten.",
+   "e": "Tracks five and six are further back."
+  },
+  {
+   "s": "Gleis sieben finde ich nicht.",
+   "e": "Track seven I cannot find."
+  },
+  {
+   "s": "Ich finde es einfach nicht.",
+   "e": "I simply cannot find it."
+  },
+  {
+   "s": "Ich frage einen Mann.",
+   "e": "I ask a man."
+  },
+  {
+   "s": "Grüezi, wo ist Gleis sieben?",
+   "e": "Grüezi, where is track seven?"
+  },
+  {
+   "s": "Der Mann zeigt nach links.",
+   "e": "The man points left."
+  },
+  {
+   "s": "Dort unten, sagt er.",
+   "e": "Down there, he says."
+  },
+  {
+   "s": "Merci, sage ich.",
+   "e": "Merci, I say."
+  },
+  {
+   "s": "Ich gehe nach links.",
+   "e": "I go left."
+  },
+  {
+   "s": "Ich ziehe meinen Koffer.",
+   "e": "I pull my suitcase."
+  },
+  {
+   "s": "Der Koffer ist schwer.",
+   "e": "The suitcase is heavy."
+  },
+  {
+   "s": "Jetzt ist es zehn Uhr sechs.",
+   "e": "Now it is six past ten."
+  },
+  {
+   "s": "Ich habe sechs Minuten.",
+   "e": "I have six minutes."
+  },
+  {
+   "s": "Ich sehe Gleis fünf.",
+   "e": "I see track five."
+  },
+  {
+   "s": "Ich sehe Gleis sechs.",
+   "e": "I see track six."
+  },
+  {
+   "s": "Dann kommt eine Treppe.",
+   "e": "Then there are stairs."
+  },
+  {
+   "s": "Ich gehe die Treppe hinunter.",
+   "e": "I go down the stairs."
+  },
+  {
+   "s": "Unten ist ein langer Gang.",
+   "e": "Downstairs there is a long passage."
+  },
+  {
+   "s": "Ich finde den Gang nicht sofort.",
+   "e": "I do not find the passage right away."
+  },
+  {
+   "s": "Der Gang ist lang und leer.",
+   "e": "The passage is long and empty."
+  },
+  {
+   "s": "Ich gehe schnell.",
+   "e": "I walk fast."
+  },
+  {
+   "s": "Am Ende ist wieder eine Treppe.",
+   "e": "At the end there are stairs again."
+  },
+  {
+   "s": "Ich gehe die Treppe hinauf.",
+   "e": "I go up the stairs."
+  },
+  {
+   "s": "Oben bin ich auf dem Perron.",
+   "e": "At the top I am on the platform."
+  },
+  {
+   "s": "Auf dem Perron stehen viele Leute.",
+   "e": "There are a lot of people on the platform."
+  },
+  {
+   "s": "Auf dem Perron ist es kalt.",
+   "e": "It is cold on the platform."
+  },
+  {
+   "s": "Über mir hängt eine Tafel.",
+   "e": "A board hangs above me."
+  },
+  {
+   "s": "Auf der Tafel steht sieben.",
+   "e": "The board says seven."
+  },
+  {
+   "s": "Gleis sieben.",
+   "e": "Track seven."
+  },
+  {
+   "s": "Ich bin richtig.",
+   "e": "I am in the right place."
+  },
+  {
+   "s": "Der Perron ist lang.",
+   "e": "The platform is long."
+  },
+  {
+   "s": "Ich stehe auf dem Perron und warte.",
+   "e": "I stand on the platform and wait."
+  },
+  {
+   "s": "Die Leute stehen ruhig.",
+   "e": "The people stand there calmly."
+  },
+  {
+   "s": "Niemand rennt.",
+   "e": "Nobody runs."
+  },
+  {
+   "s": "Nur ich renne.",
+   "e": "Only I run."
+  },
+  {
+   "s": "Ich schaue auf die Uhr.",
+   "e": "I look at the clock."
+  },
+  {
+   "s": "Zehn Uhr zehn.",
+   "e": "Ten past ten."
+  },
+  {
+   "s": "Ich habe zwei Minuten.",
+   "e": "I have two minutes."
+  },
+  {
+   "s": "Zwei Minuten sind genug.",
+   "e": "Two minutes is enough."
+  },
+  {
+   "s": "Eine Frau schaut auf ihr Handy.",
+   "e": "A woman looks at her phone."
+  },
+  {
+   "s": "Ein Mann liest die Zeitung.",
+   "e": "A man reads the newspaper."
+  },
+  {
+   "s": "Der Zug ist noch nicht da.",
+   "e": "The train is not here yet."
+  },
+  {
+   "s": "Dann kommt der Zug.",
+   "e": "Then the train comes."
+  },
+  {
+   "s": "Der Zug ist pünktlich.",
+   "e": "The train is on time."
+  },
+  {
+   "s": "Er kommt um zehn Uhr elf.",
+   "e": "It arrives at eleven past ten."
+  },
+  {
+   "s": "Eine Minute vor der Abfahrt.",
+   "e": "One minute before departure."
+  },
+  {
+   "s": "Die Türen gehen auf.",
+   "e": "The doors open."
+  },
+  {
+   "s": "Die Leute steigen ein.",
+   "e": "The people get on."
+  },
+  {
+   "s": "Ich steige auch ein.",
+   "e": "I get on too."
+  },
+  {
+   "s": "Mein Billett ist in der Hand.",
+   "e": "My ticket is in my hand."
+  },
+  {
+   "s": "Ich finde einen Platz.",
+   "e": "I find a seat."
+  },
+  {
+   "s": "Ich stelle den Koffer neben mich.",
+   "e": "I put the suitcase next to me."
+  },
+  {
+   "s": "Der Zug fährt um zehn Uhr zwölf.",
+   "e": "The train leaves at ten twelve."
+  },
+  {
+   "s": "Nicht um zehn Uhr dreizehn.",
+   "e": "Not at ten thirteen."
+  },
+  {
+   "s": "Genau um zehn Uhr zwölf.",
+   "e": "Exactly at ten twelve."
+  },
+  {
+   "s": "Ich atme aus.",
+   "e": "I breathe out."
+  },
+  {
+   "s": "Neunzig Sekunden sind nicht viel.",
+   "e": "Ninety seconds is not much."
+  },
+  {
+   "s": "Das nächste Mal suche ich früher.",
+   "e": "Next time I will start looking earlier."
+  },
+  {
+   "s": "Der Automat, das Billett, das Gleis.",
+   "e": "The machine, the ticket, the track."
+  },
+  {
+   "s": "Drei Dinge und acht Minuten.",
+   "e": "Three things and eight minutes."
+  },
+  {
+   "s": "Es geht gerade so auf.",
+   "e": "It works out, just barely."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc02",
+ "title": "Am Automaten",
+ "desc": "A ticket, a track and eight minutes",
+ "setting": "Zurich airport, underground, with a suitcase and no idea where track seven is.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Der Automat",
+   "es": "Wohin möchten Sie fahren?",
+   "en": "Where would you like to travel to?",
+   "options": [
+    {
+     "es": "Nach Luzern.",
+     "en": "To Luzern.",
+     "verdict": "good",
+     "feedback": "Nach for a town or a country. Short is right, it is a machine."
+    },
+    {
+     "es": "Luzern.",
+     "en": "Luzern.",
+     "verdict": "ok",
+     "feedback": "It works. Nach Luzern is the whole answer."
+    },
+    {
+     "es": "Zu Luzern.",
+     "en": "To Luzern.",
+     "verdict": "bad",
+     "feedback": "Zu goes to people and to buildings. Towns and countries take nach."
+    }
+   ]
+  },
+  {
+   "speaker": "Ein Mann am Automaten",
+   "es": "Entschuldigung, sind Sie fertig?",
+   "en": "Excuse me, are you finished?",
+   "options": [
+    {
+     "es": "Ja, ich bin fertig. Bitte.",
+     "en": "Yes, I am finished. Go ahead.",
+     "verdict": "good",
+     "feedback": "Bitte on its own is the whole of \"go ahead\". It does a great deal of work in this language."
+    },
+    {
+     "es": "Einen Moment, bitte.",
+     "en": "One moment, please.",
+     "verdict": "ok",
+     "feedback": "Honest and fine if you are not. He will wait."
+    },
+    {
+     "es": "Nein.",
+     "en": "No.",
+     "verdict": "bad",
+     "feedback": "True, possibly, but bare. Einen Moment costs you nothing."
+    }
+   ]
+  },
+  {
+   "speaker": "Eine Frau am Perron",
+   "es": "Grüezi. Suchen Sie etwas?",
+   "en": "Grüezi. Are you looking for something?",
+   "options": [
+    {
+     "es": "Ja, wo ist Gleis sieben, bitte?",
+     "en": "Yes, where is track seven, please?",
+     "verdict": "good",
+     "feedback": "Gleis is the numbered track. She will point, or she will walk you there."
+    },
+    {
+     "es": "Wo ist der Zug nach Luzern?",
+     "en": "Where is the train to Luzern?",
+     "verdict": "ok",
+     "feedback": "She will understand and answer with a track number, which is what you needed anyway."
+    },
+    {
+     "es": "Wo ist der Bahnsteig?",
+     "en": "Where is the platform?",
+     "verdict": "bad",
+     "feedback": "Bahnsteig is the German German word. Here it is the Perron, and the number on the board is the Gleis."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau am Perron",
+   "es": "Dort unten, dann rechts. Sie haben noch vier Minuten.",
+   "en": "Down there, then right. You have four minutes left.",
+   "options": [
+    {
+     "es": "Merci vielmal!",
+     "en": "Thanks very much!",
+     "verdict": "good",
+     "feedback": "She gave you directions and a warning. Merci vielmal is the right size of thank you for both."
+    },
+    {
+     "es": "Merci.",
+     "en": "Merci.",
+     "verdict": "ok",
+     "feedback": "Fine. She did rather more than a plain merci."
+    },
+    {
+     "es": "Vier Minuten? Das ist zu wenig!",
+     "en": "Four minutes? That is not enough!",
+     "verdict": "bad",
+     "feedback": "Here four minutes is four minutes. She has told you it is enough by telling you the number."
+    }
+   ]
+  }
+ ]
+}

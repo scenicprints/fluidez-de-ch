@@ -1,6 +1,6 @@
 # START HERE — where the German course stands
 
-**Nothing is written yet. The plan is finished and it is not up for
+**Phase 0 is written. The plan is finished and it is not up for
 relitigating.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
@@ -10,8 +10,8 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **192** | 8 phases, 0 written |
-| App support | **shipped** | v2.8.25, mascot + palette + German interface + switcher |
+| Stories planned | **192** | 8 phases, **16 written** (phase 0 complete) |
+| App support | **shipped** | v2.8.25, mascot + palette + English interface + switcher |
 | Stories on people | **62** | phases 4 and 5, a third of the course |
 
 ---
@@ -47,6 +47,18 @@ vocabulary is the thing Fluidez exists to deliver and Duolingo never will.
 
 ## What is next, in order
 
+**Every script is now built.** The loop for writing content is:
+
+```bash
+python .github/scripts/stage.py --root .        # shape, Swiss, verbs, forms, schedule
+python .github/scripts/reconcile.py --root .    # rewrite the warm-ups from the text
+python .github/scripts/build-pack.py --root .   # bundle, and refuse to if a gate fires
+```
+
+`reconcile.py` WRITES content, so it is a step in the writing loop and not a
+gate. Run it after the stories change and before the build. `--dry-run` reports
+what it would change and writes nothing.
+
 **1. The gates — dialect and stage are DONE (2026-08-25).**
 
 - **`dialect.py`** — the Swiss gate. No eszett, no Germanism where a Helvetism
@@ -76,16 +88,102 @@ python .github/scripts/dialect_test.py
 
 | Script | When | What changes |
 |---|---|---|
-| `forms.py` | **after phase 0 is written** | German morphology. It maps forms that ACTUALLY OCCUR, so it wants a real corpus to build against. Writing 16 stories first makes it a smaller, sharper job than guessing which forms matter. |
-| `schedule.py` | after `forms.py` | Coverage 88%, density 5, return 6-of-25. **Blocked on `forms.py`**: without lemma resolution *spricht*, *sprach* and *gesprochen* count as three words and the arithmetic is noise. |
-| `reconcile.py` | after `forms.py` | Rewrites warm-ups from what a story actually hammers. |
-| `build-pack.py` | before publishing | Bundles the pack and runs every gate. Port from es-ni, which now also carries `ui`, `phases`, `mascot` and `icons` through from the manifest. |
-| `verbs_build.py` | when the verb trainer is wanted | German verb tables. Strong-verb ablaut must be STATED, never rule-generated. |
+| ~~`forms.py`~~ | **DONE 2026-08-25** | 99.2% tappable. See §3 above. |
+| ~~`schedule.py`~~ | **DONE 2026-08-25** | Clean. See §14. |
+| ~~`reconcile.py`~~ | **DONE 2026-08-25** | Clean and idempotent. See §15. |
+| ~~`build-pack.py`~~ | **DONE 2026-08-25** | Bundles the pack and runs every gate. Port from es-ni, which now also carries `ui`, `phases`, `mascot` and `icons` through from the manifest. It must also load `verbs.json` and `emergency.json` and run `verbs.py`. |
 
-**2. Phase 0, sixteen stories**, plus the dictionary entries they need. Written
-un-schedule-gated, because that gate does not exist yet; re-checked once
+**`verbs.py` and `verbs_test.py` are DONE (2026-08-25)** and replace the
+`verbs_build.py` row that used to sit here. There is no German verb *builder*,
+on purpose: a builder is a rule, and a rule near German ablaut produces
+*er sprecht*. Every form is written by hand and the gate checks that every
+one of them was. See §11 below.
+
+**2. Phase 0 — DONE, 2026-08-25, and built as one batch.** Kevin's
+instruction: *"You will be building all of the stuff together. That means
+Scenes, Review, Verbs, Word Order, Listening, Shadowing, Words, Patterns and
+Path gets all built at the same time. Especially so Scenes and the stories
+match."*
+
+| | | |
+|---|---|---|
+| Stories | **16** | `p0-01`–`p0-16`, about 1,500 sentences |
+| Dictionary | **637** | lemmas only, every noun with its der/die/das and its plural |
+| Verbs | **102** | principal parts, all stated by hand |
+| Patterns | **10** | every trigger checked against the dictionary before writing |
+| Scenes | **8** | written against the stories, not alongside them |
+| Emergency | **5 groups, 40 phrases** | |
+
+**Six of the nine tiles needed no authoring at all** and came alive the moment
+the stories and the dictionary existed: Path, Review, Word Order, Listening,
+Shadowing, Words. That is worth knowing before the next phase is planned — the
+authoring load is stories, dictionary, verbs, patterns, scenes, and nothing
+else.
+
+Written un-schedule-gated, because that gate does not exist yet; re-check once
 `forms.py` and `schedule.py` land. Sixteen stories is a small enough bet that
-rewriting them is cheap. Doing this to all 192 would not be.
+rewriting them is cheap.
+
+### What phase 0 taught, that the next phase should copy
+
+- **Write the stories first, then everything else against them.** Lea says
+  Crème in `sc03` because that is what she says in `p0-05`. es-ni proved the
+  other order costs forty scenes.
+- **Phase 0 is present tense and main clauses**, and it does not stay that way
+  by itself. A sweep over the finished sixteen found 45 lines that had drifted
+  into Präteritum, the Perfekt or a verb-final subordinate clause. `weil` was
+  replaced with **`denn`** throughout, which means the same thing and keeps the
+  verb in second position — weil sends it to the end, which is phase 5.
+- **Let the gates find the gaps.** `verbs.py` caught `schauen` missing from the
+  dictionary; the pattern check caught `nicht` missing. Neither was visible by
+  reading.
+- **`p0-06` teaches Weggli and Gipfeli without ever writing the German German
+  word in German.** The contrast lives in the English gloss and in a scene
+  option, so the story needs no allow-list entry at all. Prefer that.
+
+**3. `forms.py` — DONE, 2026-08-25. 99.2% of the page is tappable**, against
+es-ni's 97.9%, from 313 mapped inflections. **Every word still missing is a
+proper noun**: Lea, Luzern, Migros, Coop, Zürich, Pilatus, Kloten, Deutschland.
+That is the ceiling, and it is the same 1.9% es-ni stops at.
+
+Checked in the real app rather than from the report: *fährt* opens fahren,
+*Häuser* opens Haus, *Bergen* opens Berg, *hält* opens halten, *Münzen* opens
+Münze, *teurer* opens teuer. Scenes are at 97.9%.
+
+`stage.py` prints the number every run, so it cannot quietly rot.
+
+### What it states rather than rules, and why each one is there
+
+- **The suppletive presents.** `IRREGULAR_PRESENT` holds sein, haben, werden,
+  tun and every modal. Ruling them produced *seie* and *seit*, and left **sind
+  and bin** — 68 occurrences in phase 0 alone — resolving to nothing.
+- **Noun plurals**, read out of the dictionary. Haus/Häuser and Stadt/Städte
+  have no rule behind them and a rule that guessed would be wrong more often
+  than right.
+- **The umlauting comparatives**, all fifteen of them, in `COMPARATIVES`.
+  alt/älter, gross/grösser, hoch/höher, gut/besser.
+- **The closed classes**, written out. Every case form of the definite article
+  points at `der` on purpose: all three entries gloss as "the", so the card
+  reads the same either way and the learner's memory of "the" consolidates on
+  one word instead of splitting three ways over a distinction the gloss does
+  not carry.
+
+What IS ruled: the ich/wir/ihr present endings (the stem change lives in du and
+er, and both of those are stated in `verbs.json`), the Präteritum paradigm off
+the stated third person, adjective endings, and the epenthetic e in *wartet*,
+*atmet*, *regnet*.
+
+**Compound heads are a WEAK claim and a real German multiplier.** An unknown
+capitalised word ending in a known noun maps to that noun, so *Samstagabend*
+answers "evening" and *Vierwaldstättersee* answers "lake". Weak, because it is
+a guess about where the seam is, so anything with a real claim takes it.
+
+**`forms-overrides.json` is applied inside `forms.build`**, not by each caller.
+In es-ni the three callers used to disagree and a warm-up card turned on which
+one happened to be right. Two entries so far: `gehört` is pinned to gehören
+(it is also hören's participle, and all three places the course writes it, it
+is gehören — revisit when phase 2 brings the perfect tense in), and `crème` to
+Crème.
 
 **`forms.py` is the largest single piece of work in this project and it should
 be sized honestly before it is started.** Spanish inflects predictably and
@@ -114,13 +212,16 @@ are live in `scenicprints/fluidez` and the Spanish course is pixel-identical:
   **Mungg** is parked in the same file as a one-line swap.
 - **Phases** come from the pack (`setPhases`), falling back to the old ladder.
 - **Interface strings** come from the pack (`setStrings` / `t()`), falling back
-  to English. The Path tab takes its own icon per course: volcano for es-ni,
-  `ic-gondola` for de-ch.
+  to English. **The German course ships no `ui` block on purpose**, so the whole
+  interface and the phase ladder are English. Reversed on Kevin's call
+  2026-08-25; the reasoning is in `HANDOFF.md` §10 and it is not up for
+  re-translating. The Path tab still takes its own icon per course: volcano for
+  es-ni, `ic-gondola` for de-ch.
 - **Chrome** reads `--accent` / `--chrome-grad`, split from `--oro`, which used
   to mean both "growing" and "this app". `[data-course="de-ch"]` on `<html>`
   paints alpine night: Swiss red and white on charcoal. **The three memory
   colours are identical in both courses on purpose.**
-- **`Im Bau`** screen: a course with no lessons shows its tiles but routes every
+- **The under-construction** screen: a course with no lessons shows its tiles but routes every
   one of them there. Governed by `underConstruction()`, which is just
   `content.lessons.length === 0`, so it disappears by itself when the first
   lesson publishes.
@@ -154,6 +255,304 @@ Two bugs fixed in v2.8.24 at the same time:
   switcher lives. Twenty-six strings now go through `t()`.
 
 ---
+
+## The ten screens, gone through with Kevin on 2026-08-25
+
+Every tile the app can show was read out of the source and each one settled.
+**Do not reopen these.**
+
+**Six come free with the 192 stories** and need no separate authoring: Path,
+Review, Word Order, Listening, Shadowing, Words. Review generates its four
+exercise kinds out of the dictionary and the lesson sentences; Word Order
+scrambles 3-to-7-word lines from stories already read; Listening and Shadowing
+read those same lines aloud.
+
+**Two are their own projects and both wait for the stories:** Scenes and
+Patterns. German has none of either. A scene must be written against the lesson
+it pays off, which es-ni proved by binning forty written the other way round,
+and a pattern trigger has to resolve to a lemma, so Patterns additionally waits
+on `forms.py`.
+
+**Emergency stays.** It was proposed for cutting on the grounds that Central
+Switzerland is not Nicaragua, and Kevin rejected that outright: *"We still need
+Emergency. It should have never been cut."* It needs `content/emergency.json`
+in es-ni's shape, a list of groups of `{title, phrases:[{es, en}]}` — the key
+stays `es` even in German because `openPhrases` reads `ph.es` — plus
+`"emergency": "emergency.json"` in the manifest and the two passthrough lines
+in `build-pack.py`.
+
+**Audio stays as it is.** `speech: de-CH`, no platform ships a Swiss voice, and
+`bestVoice()` falls back to the base tag, so it will read Swiss Standard German
+in a German German voice and will say Grüezi and merci wrong. Same trade es-ni
+took with es-MX. Dropping `audio` would cost Listening, Shadowing and the
+reader's read-aloud to fix an accent. Do not reopen it.
+
+## 11. The verb trainer, which is German's own and not Spanish's
+
+**Settled 2026-08-25 after the wrong answer was given first.** The proposal was
+to cut the verb tile from German. Kevin: *"So why dont we not be lazy and
+create it's own to use."* He was right, and that is what exists now.
+
+### Why the Spanish drill cannot be reused
+
+`startVerbs()` draws a subject, an infinitive and four **single-word** buttons.
+Spanish fits that exactly: every cell of its table is one word, and 90
+hand-written endings across three regular tables generate every form of 72 of
+its 123 verbs. The ending carries the person, so the paradigm is the difficulty
+and drilling the paradigm is drilling the language.
+
+German does not fit it, and the reason is structural rather than anything to do
+with how much of the course is written:
+
+- **Perfekt, Futur and Konjunktiv II are not conjugations.** They are an
+  auxiliary plus a participle or an infinitive, and in a real clause the two
+  halves sit apart with everything else in between. They cannot go on a button
+  without lying about word order, which is the thing that matters.
+- **Präteritum fits on a button but Swiss people write it and do not say it.**
+  The Perfekt does nearly all spoken past reference.
+- **That leaves the present**, where the endings arrive free from reading and
+  only the strong-verb stem changes are hard.
+
+### What was built instead
+
+**Principal parts**: sprechen, spricht, sprach, hat gesprochen. Eight modes,
+cycled the way `generateExercises` cycles its kinds — present3, present2, past,
+perfect, aux, infinitive, imperative, separable. Distractors are the **same
+slot pulled from other verbs**, so every option is shaped like a real answer.
+
+Two of those modes are worth calling out. **imperative** drills *sprich*,
+*nimm*, *fahr*, which is still undrillable in es-ni because a one-form tense
+hands `startVerbs()` an `undefined` subject; a principal-parts card has no
+subject at all, so the problem does not exist here. And **separable** asks
+where the prefix goes, of separable *and* inseparable verbs both, because um-
+comes off *umsteigen* and does not come off *umarmen* and no prefix list settles
+it. Running it only on separable verbs would make the answer always the split
+one and the card playable without reading it.
+
+**The app side is live** in `scenicprints/fluidez`: `verbPartItems()` and
+`PART_MODES` in `engine.js`, `startVerbParts()` and `renderVerbParts()` in
+`screens.js`, branched on `verbs.kind === 'principal-parts'` so the published
+Spanish course is untouched. **`conjugate()` is never called on the German
+path**, which kills by construction the silent regular-table fallback that
+taught *cerro* and *perdo* for years.
+
+It scores itself and **does not touch vocabulary memory**, exactly as the
+Spanish drill does. It briefly did feed the memory model, on the argument that
+the gate guarantees every drilled verb is a taught lemma. Kevin: *"Do it how
+Spanish does it."* Both drills pass `null` now.
+
+### The file and its gate
+
+`content/verbs.json` is **empty on purpose**. Its `_` block carries the whole
+schema. Required per verb: `en`, `pres3`, `pres2`, `past3`, `pp`, `aux`.
+Optional: `imp`, `pre`, `sep`, `k2`. A separable verb writes its `pres3`
+separated, `"steigt um"`.
+
+`verbs.py` enforces two rules. **Every required field is present and stated**,
+because a field left out is a form nobody wrote and a field guessed at is worse
+than one missing. And **every drilled verb is a lemma the course teaches**,
+which is the pattern-trigger lesson: es-ni shipped two patterns and sixteen
+mascot lines that could never fire. That second rule is why the verbs wait for
+the stories. With an empty dictionary it warns rather than fails, or no course
+could ever carry a verb file before it carried words.
+
+`verbs_test.py` fires the gate at 13 poisoned files and checks it stays silent
+on 7 good ones. It exists because `dialect.py` was wrong once and nobody knew.
+
+**`dialect.py collect()` now also reads the emergency phrasebook and every
+stated verb form.** Both were outside the Swiss gate. The phrasebook is the
+worst possible place for a hole, since it is read in a hurry by somebody who
+cannot yet check the words, and Spital-not-Krankenhaus would have gone straight
+through it.
+
+## 12. The app fix phase 0 forced: capitalised words
+
+**Found by measuring, not by reading, and it had cost half the course.**
+
+`resolve()` was handed a lower-cased word, which is right for Spanish and wrong
+for German, where **every noun is capitalised**. 217 of the 637 words in the
+dictionary are, so Mann, Frau, Koffer, Bahnhof and Grüezi were all untappable,
+recorded no exposure and counted towards no memory. Tappability measured
+**53.9%**.
+
+Worse than the misses were the two pairs where the capital IS the word:
+**der Morgen** is the morning and **morgen** is tomorrow, **der Weg** is the way
+and **weg** means gone. A lower-cased lookup answered both backwards.
+
+`dictKey()` in `engine.js` now tries the **exact spelling first and the
+lower-cased one second**, and `resolve()` takes the word as written. Sentence-
+initial capitals still fall through, so *Ich* lands on `ich`. **Nothing changes
+for Spanish**: its keys are lower case, the exact try always misses, and every
+lookup ends where it always did. Tappability went to **72.3%** and the rest is
+`forms.py`'s.
+
+The same lower-cased lookup was in `generateExercises`, so **every gap exercise
+in the German course would have been built out of the function words** — no
+German noun could ever be the blank. Fixed with the same helper.
+
+Two smaller ones fixed at the same time:
+
+- **`generateExercises` had a hardcoded Spanish fallback item** for when it
+  could build nothing. In any other course that is the app teaching the wrong
+  language. It returns nothing now and `startReview()` says so.
+- **`renderTyped` said "Write this in Spanish"** in every course. It reads
+  "Write this in Swiss German" now, from the language's own name.
+- **A scene never re-checked pattern unlocks.** Scenes record exposures, so a
+  scene could push a pattern over its threshold and the pattern would sit
+  reading "0 more words to go" and stay locked until a lesson happened to be
+  read next. `answerScene` calls `checkPatterns()` now.
+
+## 15. `reconcile.py` — DONE, and it does one thing es-ni's does not
+
+The warm-up is a CLAIM: these are the words this lesson will hammer. Written by
+hand the claim drifts, so it is not written by hand any more. `reconcile.py`
+derives every warm-up from the text, and the text is the only thing that can be
+wrong.
+
+    warm-ups   16 stories, 164 words, median 10, 0 with none
+
+**Idempotent**: a second run changes nothing, which is the property a
+derivation should have.
+
+Every warm-up now leads with what its story is about:
+
+| | |
+|---|---|
+| `p0-02` | **Gleis, Automat, Perron, Billett**, Nummer, suchen, finden |
+| `p0-06` | **Weggli, frisch, Gipfeli**, essen, Brot, Bäckerei, leer, Morgen |
+| `p0-09` | **laufen, Durst, Brunnen, Flasche, gratis**, voll, trinken, sauber |
+| `p0-13` | **Punkt, Entschuldigung, Viertel, beginnen, Termin**, spät, halb |
+| `p0-15` | **Föhn, Schirm, Wetter, Wind, schneien**, Regen, nass |
+
+### The change: the word goes to the story that OWNS it
+
+**es-ni assigns in reading order, and its own header records the cost:** the
+early stories claim every common word and everything after them starves — 95 of
+185 stories ended with no warm-up at all. Its fix was the GAP, letting a word be
+re-claimed twenty-five stories later.
+
+That is necessary and it is not sufficient, and German showed why inside
+sixteen stories. Assigning in reading order, **"Der See" was refused `See`**,
+because `p0-03` watches a lake go past a train window six times on the way to
+Luzern and got there first. `p0-12` lost gehen, stehen and schauen the same
+way.
+
+So candidates are now ranked by **how much of the word belongs to its story**
+and handed out best-first, with GAP still blocking a second claim inside
+twenty-five stories. The lake story gets the lake. Port this back to es-ni if
+its warm-ups are ever revisited.
+
+### The German trap: BORING is matched on EXACT spelling
+
+`weg` means gone and belongs in BORING. **`der Weg` is the way, and it is what
+"Wo ist die Post?" is about.** Lower-casing the test — which is what es-ni does,
+correctly, for Spanish — killed Weg along with weg, and Morgen along with
+morgen. Every BORING entry is lower case and a German noun is not, so exact
+matching separates them by construction. `p0-06` warms up **Morgen** and no
+story warms up **morgen**, which is the right answer to both.
+
+**BORING is also deliberately shorter than es-ni's.** Theirs is calibrated
+against a finished 185-story course where a card for *hacer* in story 140
+teaches nobody. Phase 0 is where gehen, kommen and sagen are being taught for
+the first time, so only the structural words are banned and the ownership
+ranking sinks the ubiquitous ones on its own.
+
+## 14. `schedule.py` — DONE, and it found 37 real things
+
+The recycling gate, ported with es-ni's numbers intact: **coverage 88%**
+ramping from 60%, **density 5**, **return 6 later stories**.
+
+**It fired on 15 of the 16 stories the first time it ran, and it was right.**
+40 warm-up words were used three or four times where the rule asks for five.
+That is not a gate being fussy — the whole method is that a word arrives
+slightly differently each time until the reader triangulates it, and four is
+not five. **61 sentences were added**, each a different angle on its word
+rather than a restatement. Median encounters went 4 → 5, words reaching ten
+went 168 → 175, and it is clean.
+
+Where it stands on phase 0:
+
+    stories    16
+    running    7,525 words
+    taught     620 words, median 5 encounters, 175 reach ten
+    return     0 of 158 declared words judged
+    schedule   clean
+
+**Return correctly abstains.** A word is judged only once 25 stories exist
+after it, and there are 16 in total. Scaling that down for a short tail is what
+flagged 109 words in story one of es-ni. It will start biting in phase 1.
+
+### Three of those 40 were the gate being wrong, and that mattered more
+
+Before rewriting a single sentence, four words scored **zero** in stories that
+are full of them. That was the gate, not the writing:
+
+- **`ankommen(0x)`, `aussteigen(0x)`, `mitkommen(0x)`** — separable verbs. The
+  gate counted token by token, so "Der Zug kommt in Luzern an" scored *kommen*
+  and never *ankommen*. **`schedule.py` now uses `forms.separable_bindings()`,
+  the Python twin of the reader's own binder**, and counts the two halves as
+  one word exactly as the reader resolves them. Had that not been caught, the
+  gate would have had four perfectly good stories rewritten to fix a fault in
+  itself.
+- **`möchten(0x)`** — *möchte* resolved to **mögen**, because it genuinely is
+  mögen's Konjunktiv II and `forms.py` states it as such. Correct German, wrong
+  answer for a learner: the course teaches möchten as its own word, the polite
+  want. Pinned in `forms-overrides.json`.
+
+**Keep the twin in step.** If `separableBindings()` in the app's engine.js ever
+changes, `separable_bindings()` in `forms.py` has to change with it, or the
+gate starts judging stories on a reading nobody gets.
+
+### What it does NOT measure, and should not be made to
+
+The gate counts **occurrences**; the app records **one exposure per word per
+lesson read**. Those are different on purpose. Density serves the inference —
+five contexts inside one story is what lets the meaning be worked out. Return
+serves the memory model — it is later stories that turn five contexts into
+spaced encounters. Do not "fix" one to match the other.
+
+## 13. The stranded prefix — SETTLED 2026-08-25, and it is built
+
+    Ich steige in Zürich um.
+
+*steige* and *um* are four words apart and can be twelve. Kevin was given the
+choice between accepting that and resolving at sentence level, and chose:
+*"Do whatever teaches you the proper language."* So it is built.
+
+**`separableBindings()` in the app's `engine.js`** joins them, using German's
+own bracket: **a stranded prefix sits at the end of its clause.** Look at the
+last word of each clause; if it is a prefix that would build a real separable
+verb out of an earlier verb in the same clause, the two are one word. Both
+halves resolve to the separable lemma, both take the `.wsep` marker, and both
+count as one exposure.
+
+**The end-of-clause rule is the whole reason it is safe.** The naive version —
+any prefix-looking word anywhere after a verb — gets these wrong, and they are
+not rare:
+
+| | naive | correct |
+|---|---|---|
+| Ich stehe **auf** dem Perron. | aufstehen | nothing, *auf* is a preposition |
+| Ich schaue **auf** den Boden. | anschauen | nothing |
+| Ein Mann kommt **an** mir vorbei. | ankommen | **vorbeikommen** |
+| Eine Frau steigt **aus** einem Bus **aus**. | ambiguous | **aussteigen**, on the second aus |
+
+All four are asserted in `engine.test.mjs`.
+
+**Measured across phase 0: 65 sentences bind, over 17 separable verbs.** Before
+this, every one of the 18 separable verbs in the course had **zero** exposures
+no matter how often it was read, because only the infinitive and the participle
+ever resolved. All 18 accumulate now.
+
+`python .github/scripts/forms.py --root . --separable` is kept, but it is now
+an **audit** of where brackets occur, not a thing to act on — its crude matcher
+flags 80 clauses to the reader's 65, and the difference is exactly the false
+positives above.
+
+**forms.py itself does not guess and must not be made to.** For a separable
+verb it emits the infinitive, the participle, and the bare finite forms mapped
+to the base verb, which is correct in its own right: outside a bracket, *kommt*
+is kommen.
 
 ## Open, and it needs an answer before 148,000 words are written on top of it
 

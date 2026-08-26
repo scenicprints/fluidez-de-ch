@@ -1,0 +1,1046 @@
+{
+ "_": [
+  "The verb trainer's data. EMPTY ON PURPOSE - the verbs go in once there are",
+  "stories, because verbs.py refuses any verb the course does not teach.",
+  "",
+  "kind: principal-parts. NOT the Spanish shape, and the reasoning is written",
+  "out over verbPartItems() in the app's engine.js. The short version: three of",
+  "German's five useful tenses are two words with the rest of the clause",
+  "between them, so a four-button card cannot hold them without lying about",
+  "word order. Principal parts fit on a card and are the thing no rule reaches.",
+  "",
+  "EVERY FIELD IS STATED. Nothing here may be produced by a rule. Ablaut has",
+  "no rule, and a plausible guess - er sprecht, er fahrt, er nehmt - is exactly",
+  "the mistake the learner already makes. Handing it back as the right answer",
+  "is worse than having no trainer at all. es-ni paid for this once: its tables",
+  "turned estar into esto and taught cerro and perdo for years.",
+  "",
+  "One entry, in full:",
+  "",
+  "  \"sprechen\": {",
+  "    \"en\":    \"to speak\",      gloss, first sense only",
+  "    \"pres3\": \"spricht\",       er/sie/es, present",
+  "    \"pres2\": \"sprichst\",      du, present",
+  "    \"past3\": \"sprach\",        er/sie/es, Praeteritum",
+  "    \"pp\":    \"gesprochen\",    participle",
+  "    \"aux\":   \"hat\",           hat or ist, nothing else",
+  "    \"imp\":   \"sprich\",        du imperative        (optional)",
+  "    \"pre\":   null,            the prefix, if it has one   (optional)",
+  "    \"sep\":   false,           does that prefix come off?  (optional)",
+  "    \"k2\":    \"spraeche\"       Konjunktiv II, only where it lives (optional)",
+  "  }",
+  "",
+  "pre and sep travel together and both are needed for the prefix question.",
+  "umsteigen is pre um / sep true and its pres3 is written SEPARATED,",
+  "\"steigt um\". umarmen is pre um / sep false and its pres3 is \"umarmt\".",
+  "Asking the question of both is the point: if it only ran on separable verbs",
+  "the answer would always be the split one and the card could be played",
+  "without reading it.",
+  "",
+  "drill: which verbs the trainer draws from. Leave it empty and it draws from",
+  "every entry. Use it to hold a verb back rather than deleting it.",
+  "",
+  "Checked by .github/scripts/verbs.py, which stage.py runs every time."
+ ],
+ "kind": "principal-parts",
+ "verbs": {
+  "anfangen": {
+   "en": "to start",
+   "pres3": "fängt an",
+   "pres2": "fängst an",
+   "past3": "fing an",
+   "pp": "angefangen",
+   "aux": "hat",
+   "imp": "fang an",
+   "pre": "an",
+   "sep": true
+  },
+  "ankommen": {
+   "en": "to arrive",
+   "pres3": "kommt an",
+   "pres2": "kommst an",
+   "past3": "kam an",
+   "pp": "angekommen",
+   "aux": "ist",
+   "imp": "komm an",
+   "pre": "an",
+   "sep": true
+  },
+  "anschauen": {
+   "en": "to look at",
+   "pres3": "schaut an",
+   "pres2": "schaust an",
+   "past3": "schaute an",
+   "pp": "angeschaut",
+   "aux": "hat",
+   "imp": "schau an",
+   "pre": "an",
+   "sep": true
+  },
+  "atmen": {
+   "en": "to breathe",
+   "pres3": "atmet",
+   "pres2": "atmest",
+   "past3": "atmete",
+   "pp": "geatmet",
+   "aux": "hat",
+   "imp": "atme"
+  },
+  "aufhören": {
+   "en": "to stop",
+   "pres3": "hört auf",
+   "pres2": "hörst auf",
+   "past3": "hörte auf",
+   "pp": "aufgehört",
+   "aux": "hat",
+   "imp": "hör auf",
+   "pre": "auf",
+   "sep": true
+  },
+  "aufmachen": {
+   "en": "to open",
+   "pres3": "macht auf",
+   "pres2": "machst auf",
+   "past3": "machte auf",
+   "pp": "aufgemacht",
+   "aux": "hat",
+   "imp": "mach auf",
+   "pre": "auf",
+   "sep": true
+  },
+  "aufstehen": {
+   "en": "to stand up",
+   "pres3": "steht auf",
+   "pres2": "stehst auf",
+   "past3": "stand auf",
+   "pp": "aufgestanden",
+   "aux": "ist",
+   "imp": "steh auf",
+   "pre": "auf",
+   "sep": true
+  },
+  "aussteigen": {
+   "en": "to get off",
+   "pres3": "steigt aus",
+   "pres2": "steigst aus",
+   "past3": "stieg aus",
+   "pp": "ausgestiegen",
+   "aux": "ist",
+   "imp": "steig aus",
+   "pre": "aus",
+   "sep": true
+  },
+  "backen": {
+   "en": "to bake",
+   "pres3": "backt",
+   "pres2": "backst",
+   "past3": "backte",
+   "pp": "gebacken",
+   "aux": "hat",
+   "imp": "back"
+  },
+  "beginnen": {
+   "en": "to begin",
+   "pres3": "beginnt",
+   "pres2": "beginnst",
+   "past3": "begann",
+   "pp": "begonnen",
+   "aux": "hat",
+   "imp": "beginn",
+   "pre": "be",
+   "sep": false
+  },
+  "behalten": {
+   "en": "to keep",
+   "pres3": "behält",
+   "pres2": "behältst",
+   "past3": "behielt",
+   "pp": "behalten",
+   "aux": "hat",
+   "imp": "behalt",
+   "pre": "be",
+   "sep": false
+  },
+  "bekommen": {
+   "en": "to get",
+   "pres3": "bekommt",
+   "pres2": "bekommst",
+   "past3": "bekam",
+   "pp": "bekommen",
+   "aux": "hat",
+   "imp": "bekomm",
+   "pre": "be",
+   "sep": false
+  },
+  "bestellen": {
+   "en": "to order",
+   "pres3": "bestellt",
+   "pres2": "bestellst",
+   "past3": "bestellte",
+   "pp": "bestellt",
+   "aux": "hat",
+   "imp": "bestell",
+   "pre": "be",
+   "sep": false
+  },
+  "bezahlen": {
+   "en": "to pay",
+   "pres3": "bezahlt",
+   "pres2": "bezahlst",
+   "past3": "bezahlte",
+   "pp": "bezahlt",
+   "aux": "hat",
+   "imp": "bezahl",
+   "pre": "be",
+   "sep": false
+  },
+  "bleiben": {
+   "en": "to stay",
+   "pres3": "bleibt",
+   "pres2": "bleibst",
+   "past3": "blieb",
+   "pp": "geblieben",
+   "aux": "ist",
+   "imp": "bleib",
+   "k2": "bliebe"
+  },
+  "brauchen": {
+   "en": "to need",
+   "pres3": "braucht",
+   "pres2": "brauchst",
+   "past3": "brauchte",
+   "pp": "gebraucht",
+   "aux": "hat",
+   "imp": "brauch"
+  },
+  "brennen": {
+   "en": "to burn",
+   "pres3": "brennt",
+   "pres2": "brennst",
+   "past3": "brannte",
+   "pp": "gebrannt",
+   "aux": "hat",
+   "imp": "brenn"
+  },
+  "bringen": {
+   "en": "to bring",
+   "pres3": "bringt",
+   "pres2": "bringst",
+   "past3": "brachte",
+   "pp": "gebracht",
+   "aux": "hat",
+   "imp": "bring"
+  },
+  "dauern": {
+   "en": "to last",
+   "pres3": "dauert",
+   "pres2": "dauerst",
+   "past3": "dauerte",
+   "pp": "gedauert",
+   "aux": "hat"
+  },
+  "denken": {
+   "en": "to think",
+   "pres3": "denkt",
+   "pres2": "denkst",
+   "past3": "dachte",
+   "pp": "gedacht",
+   "aux": "hat",
+   "imp": "denk"
+  },
+  "drücken": {
+   "en": "to press",
+   "pres3": "drückt",
+   "pres2": "drückst",
+   "past3": "drückte",
+   "pp": "gedrückt",
+   "aux": "hat",
+   "imp": "drück"
+  },
+  "dürfen": {
+   "en": "to be allowed to",
+   "pres3": "darf",
+   "pres2": "darfst",
+   "past3": "durfte",
+   "pp": "gedurft",
+   "aux": "hat",
+   "k2": "dürfte"
+  },
+  "einkaufen": {
+   "en": "to do the shopping",
+   "pres3": "kauft ein",
+   "pres2": "kaufst ein",
+   "past3": "kaufte ein",
+   "pp": "eingekauft",
+   "aux": "hat",
+   "imp": "kauf ein",
+   "pre": "ein",
+   "sep": true
+  },
+  "einschlafen": {
+   "en": "to fall asleep",
+   "pres3": "schläft ein",
+   "pres2": "schläfst ein",
+   "past3": "schlief ein",
+   "pp": "eingeschlafen",
+   "aux": "ist",
+   "imp": "schlaf ein",
+   "pre": "ein",
+   "sep": true
+  },
+  "einsteigen": {
+   "en": "to get on",
+   "pres3": "steigt ein",
+   "pres2": "steigst ein",
+   "past3": "stieg ein",
+   "pp": "eingestiegen",
+   "aux": "ist",
+   "imp": "steig ein",
+   "pre": "ein",
+   "sep": true
+  },
+  "erklären": {
+   "en": "to explain",
+   "pres3": "erklärt",
+   "pres2": "erklärst",
+   "past3": "erklärte",
+   "pp": "erklärt",
+   "aux": "hat",
+   "imp": "erklär",
+   "pre": "er",
+   "sep": false
+  },
+  "essen": {
+   "en": "to eat",
+   "pres3": "isst",
+   "pres2": "isst",
+   "past3": "ass",
+   "pp": "gegessen",
+   "aux": "hat",
+   "imp": "iss"
+  },
+  "fahren": {
+   "en": "to go by vehicle",
+   "pres3": "fährt",
+   "pres2": "fährst",
+   "past3": "fuhr",
+   "pp": "gefahren",
+   "aux": "ist",
+   "imp": "fahr"
+  },
+  "finden": {
+   "en": "to find",
+   "pres3": "findet",
+   "pres2": "findest",
+   "past3": "fand",
+   "pp": "gefunden",
+   "aux": "hat",
+   "imp": "find",
+   "k2": "fände"
+  },
+  "fragen": {
+   "en": "to ask",
+   "pres3": "fragt",
+   "pres2": "fragst",
+   "past3": "fragte",
+   "pp": "gefragt",
+   "aux": "hat",
+   "imp": "frag"
+  },
+  "fressen": {
+   "en": "to eat (of animals)",
+   "pres3": "frisst",
+   "pres2": "frisst",
+   "past3": "frass",
+   "pp": "gefressen",
+   "aux": "hat",
+   "imp": "friss"
+  },
+  "geben": {
+   "en": "to give",
+   "pres3": "gibt",
+   "pres2": "gibst",
+   "past3": "gab",
+   "pp": "gegeben",
+   "aux": "hat",
+   "imp": "gib",
+   "k2": "gäbe"
+  },
+  "gefallen": {
+   "en": "to please",
+   "pres3": "gefällt",
+   "pres2": "gefällst",
+   "past3": "gefiel",
+   "pp": "gefallen",
+   "aux": "hat",
+   "pre": "ge",
+   "sep": false
+  },
+  "gehen": {
+   "en": "to go",
+   "pres3": "geht",
+   "pres2": "gehst",
+   "past3": "ging",
+   "pp": "gegangen",
+   "aux": "ist",
+   "imp": "geh",
+   "k2": "ginge"
+  },
+  "gehören": {
+   "en": "to belong",
+   "pres3": "gehört",
+   "pres2": "gehörst",
+   "past3": "gehörte",
+   "pp": "gehört",
+   "aux": "hat",
+   "pre": "ge",
+   "sep": false
+  },
+  "giessen": {
+   "en": "to water/to pour",
+   "pres3": "giesst",
+   "pres2": "giesst",
+   "past3": "goss",
+   "pp": "gegossen",
+   "aux": "hat",
+   "imp": "giess"
+  },
+  "haben": {
+   "en": "to have",
+   "pres3": "hat",
+   "pres2": "hast",
+   "past3": "hatte",
+   "pp": "gehabt",
+   "aux": "hat",
+   "imp": "hab",
+   "k2": "hätte"
+  },
+  "halten": {
+   "en": "to stop/to hold",
+   "pres3": "hält",
+   "pres2": "hältst",
+   "past3": "hielt",
+   "pp": "gehalten",
+   "aux": "hat",
+   "imp": "halt"
+  },
+  "heissen": {
+   "en": "to be called",
+   "pres3": "heisst",
+   "pres2": "heisst",
+   "past3": "hiess",
+   "pp": "geheissen",
+   "aux": "hat",
+   "imp": "heiss"
+  },
+  "helfen": {
+   "en": "to help",
+   "pres3": "hilft",
+   "pres2": "hilfst",
+   "past3": "half",
+   "pp": "geholfen",
+   "aux": "hat",
+   "imp": "hilf"
+  },
+  "hängen": {
+   "en": "to hang",
+   "pres3": "hängt",
+   "pres2": "hängst",
+   "past3": "hing",
+   "pp": "gehangen",
+   "aux": "hat",
+   "imp": "häng"
+  },
+  "hören": {
+   "en": "to hear",
+   "pres3": "hört",
+   "pres2": "hörst",
+   "past3": "hörte",
+   "pp": "gehört",
+   "aux": "hat",
+   "imp": "hör"
+  },
+  "kaufen": {
+   "en": "to buy",
+   "pres3": "kauft",
+   "pres2": "kaufst",
+   "past3": "kaufte",
+   "pp": "gekauft",
+   "aux": "hat",
+   "imp": "kauf"
+  },
+  "kennen": {
+   "en": "to know a person or place",
+   "pres3": "kennt",
+   "pres2": "kennst",
+   "past3": "kannte",
+   "pp": "gekannt",
+   "aux": "hat",
+   "imp": "kenn"
+  },
+  "klagen": {
+   "en": "to complain",
+   "pres3": "klagt",
+   "pres2": "klagst",
+   "past3": "klagte",
+   "pp": "geklagt",
+   "aux": "hat",
+   "imp": "klag"
+  },
+  "kommen": {
+   "en": "to come",
+   "pres3": "kommt",
+   "pres2": "kommst",
+   "past3": "kam",
+   "pp": "gekommen",
+   "aux": "ist",
+   "imp": "komm",
+   "k2": "käme"
+  },
+  "kosten": {
+   "en": "to cost",
+   "pres3": "kostet",
+   "pres2": "kostest",
+   "past3": "kostete",
+   "pp": "gekostet",
+   "aux": "hat"
+  },
+  "können": {
+   "en": "to be able to",
+   "pres3": "kann",
+   "pres2": "kannst",
+   "past3": "konnte",
+   "pp": "gekonnt",
+   "aux": "hat",
+   "k2": "könnte"
+  },
+  "lachen": {
+   "en": "to laugh",
+   "pres3": "lacht",
+   "pres2": "lachst",
+   "past3": "lachte",
+   "pp": "gelacht",
+   "aux": "hat",
+   "imp": "lach"
+  },
+  "landen": {
+   "en": "to land",
+   "pres3": "landet",
+   "pres2": "landest",
+   "past3": "landete",
+   "pp": "gelandet",
+   "aux": "ist",
+   "imp": "lande"
+  },
+  "laufen": {
+   "en": "to run/to flow",
+   "pres3": "läuft",
+   "pres2": "läufst",
+   "past3": "lief",
+   "pp": "gelaufen",
+   "aux": "ist",
+   "imp": "lauf"
+  },
+  "legen": {
+   "en": "to lay/to put",
+   "pres3": "legt",
+   "pres2": "legst",
+   "past3": "legte",
+   "pp": "gelegt",
+   "aux": "hat",
+   "imp": "leg"
+  },
+  "lernen": {
+   "en": "to learn",
+   "pres3": "lernt",
+   "pres2": "lernst",
+   "past3": "lernte",
+   "pp": "gelernt",
+   "aux": "hat",
+   "imp": "lern"
+  },
+  "lesen": {
+   "en": "to read",
+   "pres3": "liest",
+   "pres2": "liest",
+   "past3": "las",
+   "pp": "gelesen",
+   "aux": "hat",
+   "imp": "lies"
+  },
+  "liegen": {
+   "en": "to lie",
+   "pres3": "liegt",
+   "pres2": "liegst",
+   "past3": "lag",
+   "pp": "gelegen",
+   "aux": "ist",
+   "imp": "lieg"
+  },
+  "machen": {
+   "en": "to do/to make",
+   "pres3": "macht",
+   "pres2": "machst",
+   "past3": "machte",
+   "pp": "gemacht",
+   "aux": "hat",
+   "imp": "mach"
+  },
+  "merken": {
+   "en": "to notice",
+   "pres3": "merkt",
+   "pres2": "merkst",
+   "past3": "merkte",
+   "pp": "gemerkt",
+   "aux": "hat",
+   "imp": "merk"
+  },
+  "mitkommen": {
+   "en": "to come along",
+   "pres3": "kommt mit",
+   "pres2": "kommst mit",
+   "past3": "kam mit",
+   "pp": "mitgekommen",
+   "aux": "ist",
+   "imp": "komm mit",
+   "pre": "mit",
+   "sep": true
+  },
+  "mögen": {
+   "en": "to like",
+   "pres3": "mag",
+   "pres2": "magst",
+   "past3": "mochte",
+   "pp": "gemocht",
+   "aux": "hat",
+   "k2": "möchte"
+  },
+  "müssen": {
+   "en": "to have to",
+   "pres3": "muss",
+   "pres2": "musst",
+   "past3": "musste",
+   "pp": "gemusst",
+   "aux": "hat",
+   "k2": "müsste"
+  },
+  "nehmen": {
+   "en": "to take",
+   "pres3": "nimmt",
+   "pres2": "nimmst",
+   "past3": "nahm",
+   "pp": "genommen",
+   "aux": "hat",
+   "imp": "nimm"
+  },
+  "nicken": {
+   "en": "to nod",
+   "pres3": "nickt",
+   "pres2": "nickst",
+   "past3": "nickte",
+   "pp": "genickt",
+   "aux": "hat",
+   "imp": "nick"
+  },
+  "packen": {
+   "en": "to pack",
+   "pres3": "packt",
+   "pres2": "packst",
+   "past3": "packte",
+   "pp": "gepackt",
+   "aux": "hat",
+   "imp": "pack"
+  },
+  "reden": {
+   "en": "to talk",
+   "pres3": "redet",
+   "pres2": "redest",
+   "past3": "redete",
+   "pp": "geredet",
+   "aux": "hat",
+   "imp": "rede"
+  },
+  "rennen": {
+   "en": "to run",
+   "pres3": "rennt",
+   "pres2": "rennst",
+   "past3": "rannte",
+   "pp": "gerannt",
+   "aux": "ist",
+   "imp": "renn"
+  },
+  "riechen": {
+   "en": "to smell",
+   "pres3": "riecht",
+   "pres2": "riechst",
+   "past3": "roch",
+   "pp": "gerochen",
+   "aux": "hat",
+   "imp": "riech"
+  },
+  "sagen": {
+   "en": "to say",
+   "pres3": "sagt",
+   "pres2": "sagst",
+   "past3": "sagte",
+   "pp": "gesagt",
+   "aux": "hat",
+   "imp": "sag"
+  },
+  "schauen": {
+   "en": "to look",
+   "pres3": "schaut",
+   "pres2": "schaust",
+   "past3": "schaute",
+   "pp": "geschaut",
+   "aux": "hat",
+   "imp": "schau"
+  },
+  "scheinen": {
+   "en": "to shine",
+   "pres3": "scheint",
+   "pres2": "scheinst",
+   "past3": "schien",
+   "pp": "geschienen",
+   "aux": "hat",
+   "imp": "schein"
+  },
+  "schlafen": {
+   "en": "to sleep",
+   "pres3": "schläft",
+   "pres2": "schläfst",
+   "past3": "schlief",
+   "pp": "geschlafen",
+   "aux": "hat",
+   "imp": "schlaf"
+  },
+  "schliessen": {
+   "en": "to close",
+   "pres3": "schliesst",
+   "pres2": "schliesst",
+   "past3": "schloss",
+   "pp": "geschlossen",
+   "aux": "hat",
+   "imp": "schliess"
+  },
+  "schmecken": {
+   "en": "to taste",
+   "pres3": "schmeckt",
+   "pres2": "schmeckst",
+   "past3": "schmeckte",
+   "pp": "geschmeckt",
+   "aux": "hat"
+  },
+  "schwimmen": {
+   "en": "to swim",
+   "pres3": "schwimmt",
+   "pres2": "schwimmst",
+   "past3": "schwamm",
+   "pp": "geschwommen",
+   "aux": "ist",
+   "imp": "schwimm"
+  },
+  "sehen": {
+   "en": "to see",
+   "pres3": "sieht",
+   "pres2": "siehst",
+   "past3": "sah",
+   "pp": "gesehen",
+   "aux": "hat",
+   "imp": "sieh"
+  },
+  "sein": {
+   "en": "to be",
+   "pres3": "ist",
+   "pres2": "bist",
+   "past3": "war",
+   "pp": "gewesen",
+   "aux": "ist",
+   "imp": "sei",
+   "k2": "wäre"
+  },
+  "setzen": {
+   "en": "to sit down/to set",
+   "pres3": "setzt",
+   "pres2": "setzt",
+   "past3": "setzte",
+   "pp": "gesetzt",
+   "aux": "hat",
+   "imp": "setz"
+  },
+  "sitzen": {
+   "en": "to sit",
+   "pres3": "sitzt",
+   "pres2": "sitzt",
+   "past3": "sass",
+   "pp": "gesessen",
+   "aux": "ist",
+   "imp": "sitz"
+  },
+  "sollen": {
+   "en": "to be supposed to",
+   "pres3": "soll",
+   "pres2": "sollst",
+   "past3": "sollte",
+   "pp": "gesollt",
+   "aux": "hat"
+  },
+  "springen": {
+   "en": "to jump",
+   "pres3": "springt",
+   "pres2": "springst",
+   "past3": "sprang",
+   "pp": "gesprungen",
+   "aux": "ist",
+   "imp": "spring"
+  },
+  "stehen": {
+   "en": "to stand",
+   "pres3": "steht",
+   "pres2": "stehst",
+   "past3": "stand",
+   "pp": "gestanden",
+   "aux": "ist",
+   "imp": "steh"
+  },
+  "steigen": {
+   "en": "to climb",
+   "pres3": "steigt",
+   "pres2": "steigst",
+   "past3": "stieg",
+   "pp": "gestiegen",
+   "aux": "ist",
+   "imp": "steig"
+  },
+  "stellen": {
+   "en": "to put upright",
+   "pres3": "stellt",
+   "pres2": "stellst",
+   "past3": "stellte",
+   "pp": "gestellt",
+   "aux": "hat",
+   "imp": "stell"
+  },
+  "suchen": {
+   "en": "to look for",
+   "pres3": "sucht",
+   "pres2": "suchst",
+   "past3": "suchte",
+   "pp": "gesucht",
+   "aux": "hat",
+   "imp": "such"
+  },
+  "treffen": {
+   "en": "to meet",
+   "pres3": "trifft",
+   "pres2": "triffst",
+   "past3": "traf",
+   "pp": "getroffen",
+   "aux": "hat",
+   "imp": "triff"
+  },
+  "trinken": {
+   "en": "to drink",
+   "pres3": "trinkt",
+   "pres2": "trinkst",
+   "past3": "trank",
+   "pp": "getrunken",
+   "aux": "hat",
+   "imp": "trink"
+  },
+  "tun": {
+   "en": "to do",
+   "pres3": "tut",
+   "pres2": "tust",
+   "past3": "tat",
+   "pp": "getan",
+   "aux": "hat",
+   "imp": "tu",
+   "k2": "täte"
+  },
+  "vergessen": {
+   "en": "to forget",
+   "pres3": "vergisst",
+   "pres2": "vergisst",
+   "past3": "vergass",
+   "pp": "vergessen",
+   "aux": "hat",
+   "imp": "vergiss",
+   "pre": "ver",
+   "sep": false
+  },
+  "verkaufen": {
+   "en": "to sell",
+   "pres3": "verkauft",
+   "pres2": "verkaufst",
+   "past3": "verkaufte",
+   "pp": "verkauft",
+   "aux": "hat",
+   "imp": "verkauf",
+   "pre": "ver",
+   "sep": false
+  },
+  "verstehen": {
+   "en": "to understand",
+   "pres3": "versteht",
+   "pres2": "verstehst",
+   "past3": "verstand",
+   "pp": "verstanden",
+   "aux": "hat",
+   "imp": "versteh",
+   "pre": "ver",
+   "sep": false
+  },
+  "vorbeigehen": {
+   "en": "to walk past",
+   "pres3": "geht vorbei",
+   "pres2": "gehst vorbei",
+   "past3": "ging vorbei",
+   "pp": "vorbeigegangen",
+   "aux": "ist",
+   "imp": "geh vorbei",
+   "pre": "vorbei",
+   "sep": true
+  },
+  "vorbeikommen": {
+   "en": "to come past",
+   "pres3": "kommt vorbei",
+   "pres2": "kommst vorbei",
+   "past3": "kam vorbei",
+   "pp": "vorbeigekommen",
+   "aux": "ist",
+   "imp": "komm vorbei",
+   "pre": "vorbei",
+   "sep": true
+  },
+  "vorstellen": {
+   "en": "to imagine/to introduce",
+   "pres3": "stellt vor",
+   "pres2": "stellst vor",
+   "past3": "stellte vor",
+   "pp": "vorgestellt",
+   "aux": "hat",
+   "imp": "stell vor",
+   "pre": "vor",
+   "sep": true
+  },
+  "warten": {
+   "en": "to wait",
+   "pres3": "wartet",
+   "pres2": "wartest",
+   "past3": "wartete",
+   "pp": "gewartet",
+   "aux": "hat",
+   "imp": "warte"
+  },
+  "weitergehen": {
+   "en": "to walk on",
+   "pres3": "geht weiter",
+   "pres2": "gehst weiter",
+   "past3": "ging weiter",
+   "pp": "weitergegangen",
+   "aux": "ist",
+   "imp": "geh weiter",
+   "pre": "weiter",
+   "sep": true
+  },
+  "werden": {
+   "en": "to become",
+   "pres3": "wird",
+   "pres2": "wirst",
+   "past3": "wurde",
+   "pp": "geworden",
+   "aux": "ist",
+   "imp": "werde",
+   "k2": "würde"
+  },
+  "wissen": {
+   "en": "to know a fact",
+   "pres3": "weiss",
+   "pres2": "weisst",
+   "past3": "wusste",
+   "pp": "gewusst",
+   "aux": "hat",
+   "imp": "wisse",
+   "k2": "wüsste"
+  },
+  "wollen": {
+   "en": "to want",
+   "pres3": "will",
+   "pres2": "willst",
+   "past3": "wollte",
+   "pp": "gewollt",
+   "aux": "hat"
+  },
+  "zeigen": {
+   "en": "to point/to show",
+   "pres3": "zeigt",
+   "pres2": "zeigst",
+   "past3": "zeigte",
+   "pp": "gezeigt",
+   "aux": "hat",
+   "imp": "zeig"
+  },
+  "ziehen": {
+   "en": "to pull",
+   "pres3": "zieht",
+   "pres2": "ziehst",
+   "past3": "zog",
+   "pp": "gezogen",
+   "aux": "hat",
+   "imp": "zieh"
+  },
+  "zuhören": {
+   "en": "to listen",
+   "pres3": "hört zu",
+   "pres2": "hörst zu",
+   "past3": "hörte zu",
+   "pp": "zugehört",
+   "aux": "hat",
+   "imp": "hör zu",
+   "pre": "zu",
+   "sep": true
+  },
+  "zurückgeben": {
+   "en": "to give back",
+   "pres3": "gibt zurück",
+   "pres2": "gibst zurück",
+   "past3": "gab zurück",
+   "pp": "zurückgegeben",
+   "aux": "hat",
+   "imp": "gib zurück",
+   "pre": "zurück",
+   "sep": true
+  },
+  "zurückgehen": {
+   "en": "to go back",
+   "pres3": "geht zurück",
+   "pres2": "gehst zurück",
+   "past3": "ging zurück",
+   "pp": "zurückgegangen",
+   "aux": "ist",
+   "imp": "geh zurück",
+   "pre": "zurück",
+   "sep": true
+  },
+  "zählen": {
+   "en": "to count",
+   "pres3": "zählt",
+   "pres2": "zählst",
+   "past3": "zählte",
+   "pp": "gezählt",
+   "aux": "hat",
+   "imp": "zähl"
+  },
+  "öffnen": {
+   "en": "to open",
+   "pres3": "öffnet",
+   "pres2": "öffnest",
+   "past3": "öffnete",
+   "pp": "geöffnet",
+   "aux": "hat",
+   "imp": "öffne"
+  }
+ },
+ "drill": []
+}

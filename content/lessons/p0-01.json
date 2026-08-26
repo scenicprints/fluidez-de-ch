@@ -1,0 +1,429 @@
+{
+ "id": "p0-01",
+ "title": "Grüezi",
+ "desc": "One word, and everybody uses it",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "danke",
+  "Flughafen",
+  "Koffer",
+  "Wort",
+  "merci",
+  "Grüezi",
+  "Frau",
+  "Mann",
+  "sagen",
+  "Leute"
+ ],
+ "sn": [
+  {
+   "s": "Ich bin in der Schweiz.",
+   "e": "I am in Switzerland."
+  },
+  {
+   "s": "Das Flugzeug landet in Zürich.",
+   "e": "The plane lands in Zurich."
+  },
+  {
+   "s": "Der Flughafen heisst Kloten.",
+   "e": "The airport is called Kloten."
+  },
+  {
+   "s": "Der Flughafen ist gross.",
+   "e": "The airport is big."
+  },
+  {
+   "s": "Im Flughafen ist es hell.",
+   "e": "Inside the airport it is bright."
+  },
+  {
+   "s": "Ich habe einen Koffer.",
+   "e": "I have a suitcase."
+  },
+  {
+   "s": "Der Koffer ist schwer.",
+   "e": "The suitcase is heavy."
+  },
+  {
+   "s": "Ich ziehe meinen Koffer.",
+   "e": "I pull my suitcase."
+  },
+  {
+   "s": "Im Flughafen sind viele Leute.",
+   "e": "There are a lot of people in the airport."
+  },
+  {
+   "s": "Die Leute gehen schnell.",
+   "e": "The people walk fast."
+  },
+  {
+   "s": "Niemand sagt etwas.",
+   "e": "Nobody says anything."
+  },
+  {
+   "s": "Ich sage auch nichts.",
+   "e": "I do not say anything either."
+  },
+  {
+   "s": "Ein Mann steht bei der Tür.",
+   "e": "A man is standing by the door."
+  },
+  {
+   "s": "Der Mann sagt Grüezi.",
+   "e": "The man says Grüezi."
+  },
+  {
+   "s": "Er sagt es zu allen.",
+   "e": "He says it to everyone."
+  },
+  {
+   "s": "Grüezi ist das erste Wort.",
+   "e": "Grüezi is the first word."
+  },
+  {
+   "s": "Es ist das erste Wort hier.",
+   "e": "It is the first word here."
+  },
+  {
+   "s": "Ich sage das Wort nicht.",
+   "e": "I do not say the word."
+  },
+  {
+   "s": "Ich gehe einfach weiter.",
+   "e": "I just keep walking."
+  },
+  {
+   "s": "Am Zoll steht eine Frau.",
+   "e": "A woman is standing at customs."
+  },
+  {
+   "s": "Die Frau schaut meinen Pass an.",
+   "e": "The woman looks at my passport."
+  },
+  {
+   "s": "Sie sagt Grüezi.",
+   "e": "She says Grüezi."
+  },
+  {
+   "s": "Ich sage nichts.",
+   "e": "I say nothing."
+  },
+  {
+   "s": "Die Frau gibt mir den Pass zurück.",
+   "e": "The woman gives me my passport back."
+  },
+  {
+   "s": "Sie sagt merci.",
+   "e": "She says merci."
+  },
+  {
+   "s": "Merci ist hier auch Deutsch.",
+   "e": "Merci is German here too."
+  },
+  {
+   "s": "In der Schweiz sagt man merci.",
+   "e": "In Switzerland people say merci."
+  },
+  {
+   "s": "Man sagt nicht immer danke.",
+   "e": "People do not always say danke."
+  },
+  {
+   "s": "Danke ist nicht falsch.",
+   "e": "Danke is not wrong."
+  },
+  {
+   "s": "Aber merci hört man öfter.",
+   "e": "But you hear merci more often."
+  },
+  {
+   "s": "Ich sage nichts.",
+   "e": "I say nothing."
+  },
+  {
+   "s": "Kein danke, kein merci.",
+   "e": "No danke, no merci."
+  },
+  {
+   "s": "Ich nehme meinen Koffer.",
+   "e": "I take my suitcase."
+  },
+  {
+   "s": "Ich gehe zum Lift.",
+   "e": "I go to the lift."
+  },
+  {
+   "s": "Im Lift sind zwei Leute.",
+   "e": "There are two people in the lift."
+  },
+  {
+   "s": "Ein Mann und eine Frau.",
+   "e": "A man and a woman."
+  },
+  {
+   "s": "Der Mann sagt Grüezi mitenand.",
+   "e": "The man says Grüezi mitenand."
+  },
+  {
+   "s": "Das sagt man zu zwei Leuten.",
+   "e": "That is what you say to two people."
+  },
+  {
+   "s": "Die Frau sagt Grüezi.",
+   "e": "The woman says Grüezi."
+  },
+  {
+   "s": "Beide schauen mich an.",
+   "e": "Both of them look at me."
+  },
+  {
+   "s": "Ich schaue auf den Boden.",
+   "e": "I look at the floor."
+  },
+  {
+   "s": "Ich sage nichts.",
+   "e": "I say nothing."
+  },
+  {
+   "s": "Der Lift ist sehr still.",
+   "e": "The lift is very quiet."
+  },
+  {
+   "s": "Die Tür geht auf.",
+   "e": "The door opens."
+  },
+  {
+   "s": "Die zwei Leute gehen.",
+   "e": "The two people leave."
+  },
+  {
+   "s": "Der Mann sagt Ade.",
+   "e": "The man says Ade."
+  },
+  {
+   "s": "Ade heisst auf Wiedersehen.",
+   "e": "Ade means goodbye."
+  },
+  {
+   "s": "Ich sage wieder nichts.",
+   "e": "Again I say nothing."
+  },
+  {
+   "s": "Unten ist ein Bahnhof.",
+   "e": "Downstairs there is a station."
+  },
+  {
+   "s": "Der Bahnhof ist im Flughafen.",
+   "e": "The station is inside the airport."
+  },
+  {
+   "s": "Das finde ich gut.",
+   "e": "I think that is good."
+  },
+  {
+   "s": "Ich stehe da mit meinem Koffer.",
+   "e": "I stand there with my suitcase."
+  },
+  {
+   "s": "Vierzig Minuten bin ich jetzt hier.",
+   "e": "I have been here forty minutes now."
+  },
+  {
+   "s": "Vierzig Minuten und kein Wort.",
+   "e": "Forty minutes and not one word."
+  },
+  {
+   "s": "Kein Wort zu niemandem.",
+   "e": "Not a word to anybody."
+  },
+  {
+   "s": "Das ist nicht normal.",
+   "e": "That is not normal."
+  },
+  {
+   "s": "Zu Hause rede ich viel.",
+   "e": "At home I talk a lot."
+  },
+  {
+   "s": "Hier sage ich nichts.",
+   "e": "Here I say nothing."
+  },
+  {
+   "s": "Eine Frau setzt sich neben mich.",
+   "e": "A woman sits down next to me."
+  },
+  {
+   "s": "Sie hat auch einen Koffer.",
+   "e": "She has a suitcase too."
+  },
+  {
+   "s": "Ihr Koffer ist klein.",
+   "e": "Her suitcase is small."
+  },
+  {
+   "s": "Mein Koffer ist gross.",
+   "e": "My suitcase is big."
+  },
+  {
+   "s": "Die Frau sagt Grüezi.",
+   "e": "The woman says Grüezi."
+  },
+  {
+   "s": "Ich sage nichts.",
+   "e": "I say nothing."
+  },
+  {
+   "s": "Sie schaut mich kurz an.",
+   "e": "She looks at me for a moment."
+  },
+  {
+   "s": "Dann schaut sie weg.",
+   "e": "Then she looks away."
+  },
+  {
+   "s": "Ich merke etwas.",
+   "e": "I notice something."
+  },
+  {
+   "s": "Hier sagt man Grüezi.",
+   "e": "Here people say Grüezi."
+  },
+  {
+   "s": "Man sagt es immer.",
+   "e": "People always say it."
+  },
+  {
+   "s": "Man sagt es auch zu fremden Leuten.",
+   "e": "People say it to strangers too."
+  },
+  {
+   "s": "Im Laden, im Lift, im Zug.",
+   "e": "In the shop, in the lift, on the train."
+  },
+  {
+   "s": "Die Leute merken es sofort.",
+   "e": "People notice it right away."
+  },
+  {
+   "s": "Sie sagen nichts dazu.",
+   "e": "They do not say anything about it."
+  },
+  {
+   "s": "Aber sie merken es.",
+   "e": "But they notice."
+  },
+  {
+   "s": "Ich stehe auf.",
+   "e": "I stand up."
+  },
+  {
+   "s": "Ich nehme meinen Koffer.",
+   "e": "I take my suitcase."
+  },
+  {
+   "s": "Ein Mann kommt an mir vorbei.",
+   "e": "A man comes past me."
+  },
+  {
+   "s": "Er sagt Grüezi.",
+   "e": "He says Grüezi."
+  },
+  {
+   "s": "Ich hole Luft.",
+   "e": "I take a breath."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Es ist mein erstes Wort in der Schweiz.",
+   "e": "It is my first word in Switzerland."
+  },
+  {
+   "s": "Der Mann nickt.",
+   "e": "The man nods."
+  },
+  {
+   "s": "Er geht weiter.",
+   "e": "He walks on."
+  },
+  {
+   "s": "Mehr ist es nicht.",
+   "e": "That is all it is."
+  },
+  {
+   "s": "Ein Wort.",
+   "e": "One word."
+  },
+  {
+   "s": "Aber es ist ein Anfang.",
+   "e": "But it is a start."
+  },
+  {
+   "s": "Ich sage es noch einmal, leise.",
+   "e": "I say it once more, quietly."
+  },
+  {
+   "s": "Grüezi.",
+   "e": "Grüezi."
+  },
+  {
+   "s": "Am Automaten steht eine Frau.",
+   "e": "A woman is standing at the machine."
+  },
+  {
+   "s": "Sie hilft einem Mann.",
+   "e": "She is helping a man."
+  },
+  {
+   "s": "Der Mann sagt merci vielmal.",
+   "e": "The man says merci vielmal."
+  },
+  {
+   "s": "Merci vielmal heisst vielen Dank.",
+   "e": "Merci vielmal means many thanks."
+  },
+  {
+   "s": "Der Mann sagt auch danke.",
+   "e": "The man says danke as well."
+  },
+  {
+   "s": "Danke höre ich hier weniger.",
+   "e": "I hear danke less often here."
+  },
+  {
+   "s": "Aber danke ist auch ein gutes Wort.",
+   "e": "But danke is a good word too."
+  },
+  {
+   "s": "Die Frau sagt bitte.",
+   "e": "The woman says bitte."
+  },
+  {
+   "s": "Jetzt bin ich dran.",
+   "e": "Now it is my turn."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Ich sage danke und merci.",
+   "e": "I say danke and merci."
+  },
+  {
+   "s": "Die Frau sagt auch merci.",
+   "e": "The woman says merci too."
+  },
+  {
+   "s": "Zwei Wörter in vierzig Minuten.",
+   "e": "Two words in forty minutes."
+  },
+  {
+   "s": "Morgen sind es mehr.",
+   "e": "Tomorrow it will be more."
+  }
+ ]
+}

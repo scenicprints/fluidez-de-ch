@@ -63,16 +63,40 @@ def collect(pack):
     most - every screen, every day, for months.
     """
     out = []
+    # Every line carries its own position, so the allow-list can exempt ONE
+    # line rather than a whole story. It used to be "lesson p0-06" for all
+    # ninety-odd sentences in p0-06, which meant exempting the one line that
+    # teaches Weggli-not-Broetchen also stopped checking the other ninety.
+    # An entry with no position still exempts the whole thing, so the coarse
+    # form keeps working where it is genuinely wanted.
     for l in pack.get("lessons") or []:
-        for sn in l.get("sn") or l.get("sentences") or []:
-            out.append((u"lesson %s" % l.get("id"), sn.get("s") or sn.get("es") or u""))
+        for i, sn in enumerate(l.get("sn") or l.get("sentences") or [], 1):
+            out.append((u"lesson %s #%d" % (l.get("id"), i),
+                        sn.get("s") or sn.get("es") or u""))
     for s in pack.get("scenarios") or []:
-        for st in s.get("steps") or []:
-            out.append((u"scene %s" % s.get("id"), st.get("es") or u""))
-            for o in st.get("options") or []:
-                out.append((u"scene %s reply" % s.get("id"), o.get("es") or u""))
+        for si, st in enumerate(s.get("steps") or [], 1):
+            out.append((u"scene %s step %d" % (s.get("id"), si), st.get("es") or u""))
+            for oi, o in enumerate(st.get("options") or [], 1):
+                out.append((u"scene %s option %d.%d" % (s.get("id"), si, oi),
+                            o.get("es") or u""))
     for m in pack.get("momo") or []:
         out.append((u"momo %s" % m.get("id"), m.get("say") or u""))
+    # The emergency phrasebook. It was outside the gate at first, which is the
+    # worst possible place for a hole: it is the one screen read in a hurry by
+    # somebody who cannot yet check the words, and Spital-not-Krankenhaus would
+    # have sailed straight through it.
+    for i, group in enumerate(pack.get("emergency") or pack.get("emergencyData") or []):
+        for ph in group.get("phrases") or []:
+            out.append((u"emergency %s" % (group.get("title") or i), ph.get("es") or u""))
+    # And every stated verb form. verbs.py checks that they are all written
+    # down; this checks that what is written down is Swiss.
+    verbs = pack.get("verbs") or {}
+    for name, v in sorted((verbs.get("verbs") or {}).items()):
+        if name.startswith(u"_") or not isinstance(v, dict):
+            continue
+        for field in ("pres3", "pres2", "past3", "pp", "imp", "k2"):
+            if isinstance(v.get(field), str):
+                out.append((u"verb %s" % name, v[field]))
     for key, value in sorted((pack.get("ui") or {}).items()):
         if isinstance(value, str):
             out.append((u"ui %s" % key, value))
@@ -115,9 +139,21 @@ def check(pack, allow=None, rules_path=None):
     skip_words = set(fold(w) for w in (allow.get("words") or []))
     banned, pinned_word, pinned_phrase, swiss = load_rules(rules_path)
 
+    def exempt(where):
+        """An allow entry matches its own line, or every line beneath it.
+
+        "lesson p0-06 #41" exempts one sentence. "lesson p0-06" still exempts
+        the whole story, which is what the coarse form is for and what
+        dialect_test.py asserts.
+        """
+        for entry in skip_ids:
+            if where == entry or where.startswith(entry + u" "):
+                return True
+        return False
+
     problems, warnings, hits = [], [], 0
     for where, text in collect(pack):
-        if where in skip_ids:
+        if exempt(where):
             continue
 
         # 1. The eszett rule, on the raw text, before any folding.

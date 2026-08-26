@@ -28,6 +28,9 @@ import argparse, io, json, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import dialect  # noqa: E402
+import verbs as verbs_gate  # noqa: E402
+import forms as morphology  # noqa: E402
+import schedule as sched    # noqa: E402
 
 NEWLINE = chr(10)
 WORD = re.compile(u"[^\\W\\d_]+", re.UNICODE)
@@ -98,20 +101,34 @@ def main():
         if len(rows) > 1:
             problems.append(u"%s is written %d times" % (sid, len(rows)))
 
-    # Is it Swiss? The whole thing goes through the same gate the build uses,
-    # so nothing can be true here and false at publish time.
-    allow_path = os.path.join(content, "dialect-allow.json")
-    allow = read(allow_path) if os.path.exists(allow_path) else {}
-    dialect_problems, dialect_warnings, swiss_hits = dialect.check(
-        {"lessons": written}, allow)
-    for where, word, why, text in dialect_problems:
-        problems.append(u"%s says %r - %s" % (where, word, why))
-
     # What the stories use that the dictionary does not define yet.
     dict_path = os.path.join(content, "dictionary", "core.json")
     known = set()
     if os.path.exists(dict_path):
         known = set(k.lower() for k in read(dict_path).keys())
+
+    # Every stated verb form, checked for holes and for words the course does
+    # not teach. Read before the Swiss gate runs so its forms go through that
+    # gate too, in the same pass as the stories.
+    verbs_path = os.path.join(content, "verbs.json")
+    verbs_doc, verbs_count = None, 0
+    if os.path.exists(verbs_path):
+        try:
+            verbs_doc = read(verbs_path)
+        except ValueError as e:
+            problems.append(u"verbs.json is not valid JSON (%s)" % e)
+        if verbs_doc is not None:
+            vp, vw, verbs_count = verbs_gate.check(verbs_doc, known)
+            problems.extend(vp)
+
+    # Is it Swiss? The whole thing goes through the same gate the build uses,
+    # so nothing can be true here and false at publish time.
+    allow_path = os.path.join(content, "dialect-allow.json")
+    allow = read(allow_path) if os.path.exists(allow_path) else {}
+    dialect_problems, dialect_warnings, swiss_hits = dialect.check(
+        {"lessons": written, "verbs": verbs_doc}, allow)
+    for where, word, why, text in dialect_problems:
+        problems.append(u"%s says %r - %s" % (where, word, why))
     used, needs = set(), {}
     for b in written:
         for s in (b.get("sn") or []):
@@ -143,6 +160,28 @@ def main():
     io.open(os.path.join(plan_dir, "PROGRESS.md"), "w", encoding="utf-8").write(
         NEWLINE.join(lines) + NEWLINE)
 
+    # How much of the page a reader can actually tap. This is the number
+    # forms.py exists to move, and it belongs in the same report as the rest.
+    corpus = [s.get("s") or u"" for b in written for s in (b.get("sn") or [])]
+    ov_path = os.path.join(content, "dictionary", "forms-overrides.json")
+    overrides = read(ov_path) if os.path.exists(ov_path) else {}
+    word_forms, ambiguous, _seen = morphology.build(
+        dict((k, v) for k, v in
+             (read(dict_path).items() if os.path.exists(dict_path) else [])),
+        corpus, verbs_doc or {}, overrides)
+    corpus_words = [w for t in corpus for w in morphology.tokens(t)]
+    tappable = sum(1 for w in corpus_words
+                   if w in word_forms or w.lower() in word_forms
+                   or w.lower() in known)
+
+    # The recycling quota, run against a pack assembled in memory from what is
+    # written so far - so it says the same thing here as it will at publish.
+    sched_problems, sched_stats = sched.check(
+        {"dictionary": read(dict_path) if os.path.exists(dict_path) else {},
+         "forms": word_forms, "lessons": written, "verbs": verbs_doc or {}},
+        spine_ids)
+    problems.extend(sched_problems)
+
     report = [
         u"planned    %d stories across 8 phases" % len(spine),
         u"written    %d" % len(done),
@@ -150,6 +189,12 @@ def main():
         % (len(known), len(needs)),
         u"swiss      %d Helvetisms in use, %d warning(s)"
         % (swiss_hits, len(dialect_warnings)),
+        u"verbs      %d stated" % verbs_count,
+        u"forms      %d mapped, %d ambiguous, %.1f%% of the page tappable"
+        % (len(word_forms), len(ambiguous),
+           100.0 * tappable / max(1, len(corpus_words))),
+        u"schedule   median %d encounters, %d words reach ten"
+        % (sched_stats.get("median_encounters", 0), sched_stats.get("reach_ten", 0)),
     ]
     for p in problems[:25]:
         report.append(u"PROBLEM: %s" % p)

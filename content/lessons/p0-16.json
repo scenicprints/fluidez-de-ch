@@ -1,0 +1,431 @@
+{
+ "id": "p0-16",
+ "title": "Die erste Nacht",
+ "desc": "A room, a window, and a great deal of quiet",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Bett",
+  "müde",
+  "Zimmer",
+  "denken",
+  "schlafen",
+  "Nacht",
+  "allein",
+  "hören",
+  "still",
+  "erst",
+  "lang",
+  "liegen"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe ein Zimmer.",
+   "e": "I have a room."
+  },
+  {
+   "s": "Das Zimmer ist klein.",
+   "e": "The room is small."
+  },
+  {
+   "s": "Es ist klein und sauber.",
+   "e": "It is small and clean."
+  },
+  {
+   "s": "Im Zimmer steht ein Bett.",
+   "e": "There is a bed in the room."
+  },
+  {
+   "s": "Das Bett steht an der Wand.",
+   "e": "The bed stands against the wall."
+  },
+  {
+   "s": "Neben dem Bett steht ein Tisch.",
+   "e": "There is a table next to the bed."
+  },
+  {
+   "s": "Auf dem Tisch liegt mein Geld.",
+   "e": "My money is lying on the table."
+  },
+  {
+   "s": "Noten und Münzen.",
+   "e": "Notes and coins."
+  },
+  {
+   "s": "Daneben liegt mein Billett.",
+   "e": "Next to it lies my ticket."
+  },
+  {
+   "s": "Das Billett von Zürich nach Luzern.",
+   "e": "The ticket from Zurich to Luzern."
+  },
+  {
+   "s": "Ich behalte es.",
+   "e": "I am keeping it."
+  },
+  {
+   "s": "Im Zimmer ist ein Fenster.",
+   "e": "There is a window in the room."
+  },
+  {
+   "s": "Das Fenster ist gross.",
+   "e": "The window is big."
+  },
+  {
+   "s": "Aus dem Fenster sehe ich ein Dach.",
+   "e": "Out of the window I see a roof."
+  },
+  {
+   "s": "Über dem Dach sehe ich den Berg.",
+   "e": "Above the roof I see the mountain."
+  },
+  {
+   "s": "Der Berg ist dunkel.",
+   "e": "The mountain is dark."
+  },
+  {
+   "s": "Der Koffer steht noch am Boden.",
+   "e": "The suitcase is still on the floor."
+  },
+  {
+   "s": "Er ist noch nicht ganz leer.",
+   "e": "It is not completely empty yet."
+  },
+  {
+   "s": "Ich bin müde.",
+   "e": "I am tired."
+  },
+  {
+   "s": "Ich bin sehr müde.",
+   "e": "I am very tired."
+  },
+  {
+   "s": "Der Tag ist lang.",
+   "e": "The day is long."
+  },
+  {
+   "s": "Ich lege mich ins Bett.",
+   "e": "I lie down in the bed."
+  },
+  {
+   "s": "Das Bett ist gut.",
+   "e": "The bed is good."
+  },
+  {
+   "s": "Ich liege und schaue an die Decke.",
+   "e": "I lie there and look at the ceiling."
+  },
+  {
+   "s": "Ich bin müde und ich schlafe nicht.",
+   "e": "I am tired and I am not sleeping."
+  },
+  {
+   "s": "Ich kann nicht schlafen.",
+   "e": "I cannot sleep."
+  },
+  {
+   "s": "Schlafen geht heute einfach nicht.",
+   "e": "Sleeping simply does not work today."
+  },
+  {
+   "s": "Es ist zehn Uhr.",
+   "e": "It is ten o'clock."
+  },
+  {
+   "s": "Zehn Uhr ist hier spät.",
+   "e": "Ten o’clock is late here."
+  },
+  {
+   "s": "Um zehn wird es still.",
+   "e": "At ten it goes quiet."
+  },
+  {
+   "s": "Um zehn hört man nichts mehr.",
+   "e": "At ten you hear nothing more."
+  },
+  {
+   "s": "Die Stadt wird plötzlich still.",
+   "e": "The town goes suddenly quiet."
+  },
+  {
+   "s": "Vorher höre ich Leute.",
+   "e": "Before that I hear people."
+  },
+  {
+   "s": "Nach zehn höre ich nichts.",
+   "e": "After ten I hear nothing."
+  },
+  {
+   "s": "Ich höre wirklich nichts.",
+   "e": "I really do hear nothing."
+  },
+  {
+   "s": "Keine Autos.",
+   "e": "No cars."
+  },
+  {
+   "s": "Keine Leute auf der Strasse.",
+   "e": "No people in the street."
+  },
+  {
+   "s": "Keine Musik.",
+   "e": "No music."
+  },
+  {
+   "s": "Nach zehn ist Ruhe.",
+   "e": "After ten there is quiet."
+  },
+  {
+   "s": "In der Nacht fährt kein Bus mehr.",
+   "e": "At night no bus runs any more."
+  },
+  {
+   "s": "Das ist hier eine Regel.",
+   "e": "That is a rule here."
+  },
+  {
+   "s": "Alle halten sie.",
+   "e": "Everybody keeps to it."
+  },
+  {
+   "s": "Ich liege und höre der Stille zu.",
+   "e": "I lie there and listen to the silence."
+  },
+  {
+   "s": "Die Stille ist laut.",
+   "e": "The silence is loud."
+  },
+  {
+   "s": "Keine Nacht zu Hause ist so laut.",
+   "e": "No night at home is this loud."
+  },
+  {
+   "s": "Ich höre die Uhr an der Wand.",
+   "e": "I hear the clock on the wall."
+  },
+  {
+   "s": "Ich höre das Wasser in der Leitung.",
+   "e": "I hear the water in the pipe."
+  },
+  {
+   "s": "Einmal höre ich einen Zug.",
+   "e": "Once I hear a train."
+  },
+  {
+   "s": "Der Zug ist weit weg.",
+   "e": "The train is far away."
+  },
+  {
+   "s": "Dann ist es wieder still.",
+   "e": "Then it is quiet again."
+  },
+  {
+   "s": "Ich bin allein.",
+   "e": "I am alone."
+  },
+  {
+   "s": "Allein im Zimmer ist es sehr still.",
+   "e": "Alone in the room it is very quiet."
+  },
+  {
+   "s": "Ich bin ganz allein hier.",
+   "e": "I am completely alone here."
+  },
+  {
+   "s": "Ich kenne niemanden.",
+   "e": "I do not know anybody."
+  },
+  {
+   "s": "Ich kenne Lea vom Café ein bisschen.",
+   "e": "I know Lea from the café a little."
+  },
+  {
+   "s": "Und die Frau von der Bäckerei.",
+   "e": "And the woman from the bakery."
+  },
+  {
+   "s": "Das ist alles.",
+   "e": "That is all."
+  },
+  {
+   "s": "Zwei Leute in zwei Wochen.",
+   "e": "Two people in two weeks."
+  },
+  {
+   "s": "Allein sein ist nicht immer schlimm.",
+   "e": "Being alone is not always bad."
+  },
+  {
+   "s": "Heute bin ich lieber nicht allein.",
+   "e": "Today I would rather not be alone."
+  },
+  {
+   "s": "Heute ist es ein bisschen schlimm.",
+   "e": "Today it is a little bad."
+  },
+  {
+   "s": "Ich denke an den ersten Tag.",
+   "e": "I think about the first day."
+  },
+  {
+   "s": "Der Flughafen und die vierzig Minuten.",
+   "e": "The airport and the forty minutes."
+  },
+  {
+   "s": "Das erste Wort.",
+   "e": "The first word."
+  },
+  {
+   "s": "Das erste Mal ist immer das schwerste.",
+   "e": "The first time is always the hardest."
+  },
+  {
+   "s": "Grüezi.",
+   "e": "Grüezi."
+  },
+  {
+   "s": "Damals ist es schwer.",
+   "e": "Back then it is hard."
+  },
+  {
+   "s": "Heute sage ich es einfach so.",
+   "e": "Today I just say it."
+  },
+  {
+   "s": "Ich sage es zehnmal am Tag.",
+   "e": "I say it ten times a day."
+  },
+  {
+   "s": "Ich denke an das Gleis sieben.",
+   "e": "I think about track seven."
+  },
+  {
+   "s": "Und an die neunzig Sekunden.",
+   "e": "And the ninety seconds."
+  },
+  {
+   "s": "Ich denke an den Brunnen und das Wasser.",
+   "e": "I think about the fountain and the water."
+  },
+  {
+   "s": "Ich denke an die fünfzig Franken für einen Kaffee.",
+   "e": "I think about the fifty francs for one coffee."
+  },
+  {
+   "s": "Ich denke an den Mann von der Post.",
+   "e": "I think about the man from the post office."
+  },
+  {
+   "s": "Er geht den ganzen Weg wieder zurück.",
+   "e": "He walks the whole way back again."
+  },
+  {
+   "s": "Ich denke an die Brücke aus Holz.",
+   "e": "I think about the wooden bridge."
+  },
+  {
+   "s": "Und an den See und die Berge dahinter.",
+   "e": "And the lake and the mountains behind it."
+  },
+  {
+   "s": "Zwei Wochen sind nicht lang.",
+   "e": "Two weeks is not long."
+  },
+  {
+   "s": "Aber es ist etwas.",
+   "e": "But it is something."
+  },
+  {
+   "s": "Ich kann einen Kaffee bestellen.",
+   "e": "I can order a coffee."
+  },
+  {
+   "s": "Ich kann ein Gipfeli kaufen.",
+   "e": "I can buy a Gipfeli."
+  },
+  {
+   "s": "Ich kann nach dem Weg fragen.",
+   "e": "I can ask the way."
+  },
+  {
+   "s": "Ich kann die Uhr lesen.",
+   "e": "I can read the clock."
+  },
+  {
+   "s": "Ich weiss die Zeiten von den Läden.",
+   "e": "I know the shop hours."
+  },
+  {
+   "s": "Am Sonntag ist alles zu, und ich weiss es.",
+   "e": "On Sunday everything is shut, and I know it."
+  },
+  {
+   "s": "Das ist nicht viel Deutsch.",
+   "e": "That is not much German."
+  },
+  {
+   "s": "Aber es ist genug für einen Tag.",
+   "e": "But it is enough for one day."
+  },
+  {
+   "s": "Morgen ist wieder ein Tag.",
+   "e": "Tomorrow is another day."
+  },
+  {
+   "s": "Morgen suche ich eine Wohnung.",
+   "e": "Tomorrow I will look for a flat."
+  },
+  {
+   "s": "Ein Zimmer ist kein Zuhause.",
+   "e": "A room is not a home."
+  },
+  {
+   "s": "Eine Wohnung vielleicht schon.",
+   "e": "A flat maybe is."
+  },
+  {
+   "s": "Ich liege im Bett und bin müde.",
+   "e": "I lie in bed and I am tired."
+  },
+  {
+   "s": "Müde bin ich schon lange.",
+   "e": "I have been tired for a long time."
+  },
+  {
+   "s": "Nebenan schläft schon jemand.",
+   "e": "Next door somebody is already asleep."
+  },
+  {
+   "s": "Draussen ist es still.",
+   "e": "Outside it is quiet."
+  },
+  {
+   "s": "Der Berg steht am Fenster.",
+   "e": "The mountain stands at the window."
+  },
+  {
+   "s": "Ich schlafe irgendwann ein.",
+   "e": "At some point I fall asleep."
+  },
+  {
+   "s": "Ich schlafe schlecht und ich schlafe doch.",
+   "e": "I sleep badly and I sleep all the same."
+  },
+  {
+   "s": "Die erste Nacht ist die längste.",
+   "e": "The first night is the longest."
+  },
+  {
+   "s": "Die Nacht ist lang und still.",
+   "e": "The night is long and quiet."
+  },
+  {
+   "s": "Es ist meine erste Nacht in dieser Wohnung.",
+   "e": "It is my first night in this flat."
+  },
+  {
+   "s": "Die zweite ist kürzer.",
+   "e": "The second is shorter."
+  }
+ ]
+}

@@ -1,0 +1,396 @@
+{
+ "id": "p0-11",
+ "title": "Der See",
+ "desc": "Water with mountains standing behind it",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Schiff",
+  "Vogel",
+  "Ufer",
+  "Wolke",
+  "weit",
+  "schön",
+  "Berg",
+  "See",
+  "gross"
+ ],
+ "sn": [
+  {
+   "s": "Ich gehe eine Strasse hinunter.",
+   "e": "I walk down a street."
+  },
+  {
+   "s": "Am Ende der Strasse ist Licht.",
+   "e": "At the end of the street there is light."
+  },
+  {
+   "s": "Dann kommt der See.",
+   "e": "Then the lake comes."
+  },
+  {
+   "s": "Der See ist plötzlich da.",
+   "e": "The lake is suddenly there."
+  },
+  {
+   "s": "Ich bleibe stehen.",
+   "e": "I stop walking."
+  },
+  {
+   "s": "Ich stehe einfach da.",
+   "e": "I just stand there."
+  },
+  {
+   "s": "Der See ist gross.",
+   "e": "The lake is big."
+  },
+  {
+   "s": "Er ist sehr gross.",
+   "e": "It is very big."
+  },
+  {
+   "s": "Ich sehe das andere Ufer kaum.",
+   "e": "I can hardly see the other shore."
+  },
+  {
+   "s": "Das Wasser ist grün und blau.",
+   "e": "The water is green and blue."
+  },
+  {
+   "s": "Es ist ganz ruhig.",
+   "e": "It is completely calm."
+  },
+  {
+   "s": "Hinter dem See stehen Berge.",
+   "e": "There are mountains behind the lake."
+  },
+  {
+   "s": "Die Berge sind gross.",
+   "e": "The mountains are big."
+  },
+  {
+   "s": "Ein Berg ist ganz nah.",
+   "e": "One mountain is very close."
+  },
+  {
+   "s": "Der Berg heisst Pilatus.",
+   "e": "The mountain is called Pilatus."
+  },
+  {
+   "s": "Er ist grau und steil.",
+   "e": "It is grey and steep."
+  },
+  {
+   "s": "Ein anderer Berg ist weiter weg.",
+   "e": "Another mountain is further away."
+  },
+  {
+   "s": "Er ist weit weg und trotzdem gross.",
+   "e": "It is far away and big all the same."
+  },
+  {
+   "s": "Weit weg sieht alles klein aus, nur die Berge nicht.",
+   "e": "Far away everything looks small, except the mountains."
+  },
+  {
+   "s": "Oben auf dem Berg liegt Schnee.",
+   "e": "There is snow on top of the mountain."
+  },
+  {
+   "s": "Über den Bergen hängt eine Wolke.",
+   "e": "There is a cloud hanging over the mountains."
+  },
+  {
+   "s": "Die Wolke bewegt sich kaum.",
+   "e": "The cloud hardly moves."
+  },
+  {
+   "s": "Die Wolke ist weiss.",
+   "e": "The cloud is white."
+  },
+  {
+   "s": "Sie hängt auf halber Höhe.",
+   "e": "It hangs halfway up."
+  },
+  {
+   "s": "Der Berg geht durch die Wolke.",
+   "e": "The mountain goes through the cloud."
+  },
+  {
+   "s": "Oben ist der Berg wieder da.",
+   "e": "Above it the mountain is there again."
+  },
+  {
+   "s": "Das ist schön.",
+   "e": "That is beautiful."
+  },
+  {
+   "s": "Es ist wirklich schön.",
+   "e": "It really is beautiful."
+  },
+  {
+   "s": "Schön ist ein kleines Wort dafür.",
+   "e": "Beautiful is a small word for it."
+  },
+  {
+   "s": "Ich gehe ans Ufer.",
+   "e": "I go to the shore."
+  },
+  {
+   "s": "Das Ufer ist aus Stein.",
+   "e": "The shore is made of stone."
+  },
+  {
+   "s": "Am Ufer stehen Bänke.",
+   "e": "There are benches along the shore."
+  },
+  {
+   "s": "Auf den Bänken sitzen Leute.",
+   "e": "People are sitting on the benches."
+  },
+  {
+   "s": "Sie sitzen und schauen.",
+   "e": "They sit and look."
+  },
+  {
+   "s": "Sie schauen alle auf den See.",
+   "e": "They are all looking at the lake."
+  },
+  {
+   "s": "Ich setze mich auch hin.",
+   "e": "I sit down too."
+  },
+  {
+   "s": "Ich halte die Hand ins Wasser.",
+   "e": "I put my hand in the water."
+  },
+  {
+   "s": "Das Wasser ist kalt.",
+   "e": "The water is cold."
+  },
+  {
+   "s": "Es ist sehr kalt.",
+   "e": "It is very cold."
+  },
+  {
+   "s": "Der See ist im September noch kalt.",
+   "e": "The lake is still cold in September."
+  },
+  {
+   "s": "Das Wasser kommt von den Bergen.",
+   "e": "The water comes from the mountains."
+  },
+  {
+   "s": "Darum ist es kalt.",
+   "e": "That is why it is cold."
+  },
+  {
+   "s": "Trotzdem schwimmen Leute.",
+   "e": "People swim anyway."
+  },
+  {
+   "s": "Ein Mann schwimmt weit draussen.",
+   "e": "A man is swimming far out."
+  },
+  {
+   "s": "Er schwimmt sehr weit.",
+   "e": "He swims very far out."
+  },
+  {
+   "s": "So weit möchte ich nicht schwimmen.",
+   "e": "I would not want to swim that far."
+  },
+  {
+   "s": "Vögel sitzen auf dem Wasser.",
+   "e": "Birds are sitting on the water."
+  },
+  {
+   "s": "Ein Vogel ist weiss und gross.",
+   "e": "One bird is white and big."
+  },
+  {
+   "s": "Ein anderer Vogel ist schwarz und klein.",
+   "e": "Another bird is black and small."
+  },
+  {
+   "s": "Der Vogel taucht und kommt wieder hoch.",
+   "e": "The bird dives and comes back up."
+  },
+  {
+   "s": "Ein Vogel kommt zu mir.",
+   "e": "A bird comes over to me."
+  },
+  {
+   "s": "Er will Brot.",
+   "e": "It wants bread."
+  },
+  {
+   "s": "Ich habe kein Brot.",
+   "e": "I do not have any bread."
+  },
+  {
+   "s": "Der Vogel geht wieder.",
+   "e": "The bird goes away again."
+  },
+  {
+   "s": "Dann kommt ein Schiff.",
+   "e": "Then a boat comes."
+  },
+  {
+   "s": "Das Schiff ist weiss.",
+   "e": "The boat is white."
+  },
+  {
+   "s": "Es ist gross und alt.",
+   "e": "It is big and old."
+  },
+  {
+   "s": "Das Schiff fährt langsam.",
+   "e": "The boat goes slowly."
+  },
+  {
+   "s": "Es fährt zum Ufer.",
+   "e": "It comes to the shore."
+  },
+  {
+   "s": "Leute steigen aus dem Schiff.",
+   "e": "People get off the boat."
+  },
+  {
+   "s": "Andere Leute steigen ein.",
+   "e": "Other people get on."
+  },
+  {
+   "s": "Dann fährt das Schiff wieder weg.",
+   "e": "Then the boat leaves again."
+  },
+  {
+   "s": "Ein Schiff fährt hier wie ein Bus.",
+   "e": "A boat here runs like a bus."
+  },
+  {
+   "s": "Es hält in jedem Dorf am See.",
+   "e": "It stops in every village on the lake."
+  },
+  {
+   "s": "Man kann mit dem Schiff zur Arbeit fahren.",
+   "e": "You can go to work by boat."
+  },
+  {
+   "s": "Das gefällt mir sehr.",
+   "e": "I like that a lot."
+  },
+  {
+   "s": "Neben mir sitzt ein alter Mann.",
+   "e": "An old man is sitting next to me."
+  },
+  {
+   "s": "Er sagt Grüezi.",
+   "e": "He says Grüezi."
+  },
+  {
+   "s": "Ich frage: wie heisst der See?",
+   "e": "I ask: what is the lake called?"
+  },
+  {
+   "s": "Er sagt: Vierwaldstättersee.",
+   "e": "He says: Vierwaldstättersee."
+  },
+  {
+   "s": "Das ist ein langes Wort.",
+   "e": "That is a long word."
+  },
+  {
+   "s": "Ich sage es langsam nach.",
+   "e": "I say it back slowly."
+  },
+  {
+   "s": "Vier Waldstätte, sagt er.",
+   "e": "Four forest places, he says."
+  },
+  {
+   "s": "Vier heisst vier.",
+   "e": "Vier means four."
+  },
+  {
+   "s": "Der See gehört vier Kantonen.",
+   "e": "The lake belongs to four cantons."
+  },
+  {
+   "s": "Vier Kantone liegen am Wasser.",
+   "e": "Four cantons lie on the water."
+  },
+  {
+   "s": "Luzern ist einer davon.",
+   "e": "Luzern is one of them."
+  },
+  {
+   "s": "Darum heisst der See so.",
+   "e": "That is why the lake is called that."
+  },
+  {
+   "s": "Ein See und vier Namen daneben.",
+   "e": "One lake with four names beside it."
+  },
+  {
+   "s": "Merci, sage ich.",
+   "e": "Merci, I say."
+  },
+  {
+   "s": "Er schaut wieder auf das Wasser.",
+   "e": "He looks back at the water."
+  },
+  {
+   "s": "Wir sitzen und sagen nichts mehr.",
+   "e": "We sit and say nothing more."
+  },
+  {
+   "s": "Das ist auch schön.",
+   "e": "That is nice too."
+  },
+  {
+   "s": "Am Abend ist es noch schöner.",
+   "e": "In the evening it is more beautiful still."
+  },
+  {
+   "s": "Die Sonne geht unter.",
+   "e": "The sun goes down."
+  },
+  {
+   "s": "Der Berg wird rot.",
+   "e": "The mountain turns red."
+  },
+  {
+   "s": "Der See wird dunkel.",
+   "e": "The lake goes dark."
+  },
+  {
+   "s": "Die Wolke wird auch rot.",
+   "e": "The cloud turns red too."
+  },
+  {
+   "s": "Dann wird alles grau.",
+   "e": "Then everything goes grey."
+  },
+  {
+   "s": "Es wird kalt.",
+   "e": "It gets cold."
+  },
+  {
+   "s": "Die Leute gehen nach Hause.",
+   "e": "The people go home."
+  },
+  {
+   "s": "Ich bleibe noch ein bisschen.",
+   "e": "I stay a little longer."
+  },
+  {
+   "s": "Der See ist gross und ich bin klein.",
+   "e": "The lake is big and I am small."
+  },
+  {
+   "s": "Das ist heute kein schlechtes Gefühl.",
+   "e": "Today that is not a bad feeling."
+  }
+ ]
+}

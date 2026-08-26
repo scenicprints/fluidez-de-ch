@@ -1,0 +1,401 @@
+{
+ "id": "p0-06",
+ "title": "Gipfeli",
+ "desc": "Bread has different names here",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Weggli",
+  "frisch",
+  "Gipfeli",
+  "essen",
+  "Brot",
+  "Bäckerei",
+  "leer",
+  "Morgen",
+  "kaufen",
+  "zeigen"
+ ],
+ "sn": [
+  {
+   "s": "Am Morgen habe ich Hunger.",
+   "e": "In the morning I am hungry."
+  },
+  {
+   "s": "Ich suche eine Bäckerei.",
+   "e": "I look for a bakery."
+  },
+  {
+   "s": "Die Bäckerei ist gleich um die Ecke.",
+   "e": "The bakery is just around the corner."
+  },
+  {
+   "s": "Die Bäckerei ist schon offen.",
+   "e": "The bakery is open already."
+  },
+  {
+   "s": "Es ist erst halb sieben.",
+   "e": "It is only half past six."
+  },
+  {
+   "s": "Eine Bäckerei macht hier früh auf.",
+   "e": "A bakery opens early here."
+  },
+  {
+   "s": "Ich gehe hinein.",
+   "e": "I go in."
+  },
+  {
+   "s": "Es riecht nach Brot.",
+   "e": "It smells of bread."
+  },
+  {
+   "s": "Das Brot liegt im Regal.",
+   "e": "The bread lies on the shelf."
+  },
+  {
+   "s": "Es gibt viel Brot.",
+   "e": "There is a lot of bread."
+  },
+  {
+   "s": "Grosses Brot und kleines Brot.",
+   "e": "Big bread and small bread."
+  },
+  {
+   "s": "Das Brot ist frisch.",
+   "e": "The bread is fresh."
+  },
+  {
+   "s": "Alles ist frisch.",
+   "e": "Everything is fresh."
+  },
+  {
+   "s": "Frisch heisst: von heute Morgen.",
+   "e": "Fresh means: from this morning."
+  },
+  {
+   "s": "Hinter dem Glas liegen kleine Sachen.",
+   "e": "Behind the glass lie small things."
+  },
+  {
+   "s": "Ich kenne die Namen nicht.",
+   "e": "I do not know the names."
+  },
+  {
+   "s": "Eine Frau fragt: was möchten Sie?",
+   "e": "A woman asks: what would you like?"
+  },
+  {
+   "s": "Ich zeige auf etwas Rundes.",
+   "e": "I point at something round."
+  },
+  {
+   "s": "Ich zeige, denn ich habe das Wort nicht.",
+   "e": "I point, because I do not have the word."
+  },
+  {
+   "s": "Zeigen geht immer.",
+   "e": "Pointing always works."
+  },
+  {
+   "s": "Die Frau sagt: ein Weggli?",
+   "e": "The woman says: a Weggli?"
+  },
+  {
+   "s": "Ein Weggli, sage ich.",
+   "e": "A Weggli, I say."
+  },
+  {
+   "s": "Ein Weggli ist ein kleines weiches Brot.",
+   "e": "A Weggli is a small soft roll."
+  },
+  {
+   "s": "Es ist weiss und rund.",
+   "e": "It is white and round."
+  },
+  {
+   "s": "In Deutschland heisst es anders.",
+   "e": "In Germany it is called something else."
+  },
+  {
+   "s": "Hier heisst es Weggli.",
+   "e": "Here it is called a Weggli."
+  },
+  {
+   "s": "Ich sage das Wort noch einmal.",
+   "e": "I say the word again."
+  },
+  {
+   "s": "Weggli.",
+   "e": "Weggli."
+  },
+  {
+   "s": "Dann zeige ich auf etwas anderes.",
+   "e": "Then I point at something else."
+  },
+  {
+   "s": "Es ist braun und krumm.",
+   "e": "It is brown and curved."
+  },
+  {
+   "s": "Die Frau sagt: ein Gipfeli.",
+   "e": "The woman says: a Gipfeli."
+  },
+  {
+   "s": "Ein Gipfeli, sage ich.",
+   "e": "A Gipfeli, I say."
+  },
+  {
+   "s": "Das Gipfeli ist krumm wie ein Mond.",
+   "e": "The Gipfeli is curved like a moon."
+  },
+  {
+   "s": "Es ist aussen hart und innen weich.",
+   "e": "It is hard outside and soft inside."
+  },
+  {
+   "s": "Ein Gipfeli ist nicht sehr gross.",
+   "e": "A Gipfeli is not very big."
+  },
+  {
+   "s": "Ich nehme ein Gipfeli.",
+   "e": "I take a Gipfeli."
+  },
+  {
+   "s": "Ich nehme auch ein Weggli.",
+   "e": "I take a Weggli too."
+  },
+  {
+   "s": "Und ich nehme ein Brot.",
+   "e": "And I take a loaf of bread."
+  },
+  {
+   "s": "Das Brot ist für später.",
+   "e": "The bread is for later."
+  },
+  {
+   "s": "Die Frau fragt: sonst noch etwas?",
+   "e": "The woman asks: anything else?"
+  },
+  {
+   "s": "Nein, merci, sage ich.",
+   "e": "No, merci, I say."
+  },
+  {
+   "s": "Ich kaufe drei Sachen.",
+   "e": "I buy three things."
+  },
+  {
+   "s": "Ich kaufe hier jeden Morgen etwas.",
+   "e": "I buy something here every morning."
+  },
+  {
+   "s": "Ich kaufe nicht viel.",
+   "e": "I do not buy much."
+  },
+  {
+   "s": "Kaufen geht schnell hier.",
+   "e": "Buying goes quickly here."
+  },
+  {
+   "s": "Sie legt alles in einen Sack.",
+   "e": "She puts everything in a bag."
+  },
+  {
+   "s": "Der Sack ist aus Papier.",
+   "e": "The bag is made of paper."
+  },
+  {
+   "s": "Ich bezahle und sage merci.",
+   "e": "I pay and say merci."
+  },
+  {
+   "s": "Sie sagt: merci vielmal, Ade.",
+   "e": "She says: merci vielmal, Ade."
+  },
+  {
+   "s": "Draussen setze ich mich auf eine Bank.",
+   "e": "Outside I sit down on a bench."
+  },
+  {
+   "s": "Ich esse das Gipfeli zuerst.",
+   "e": "I eat the Gipfeli first."
+  },
+  {
+   "s": "Es ist noch warm.",
+   "e": "It is still warm."
+  },
+  {
+   "s": "Ich esse langsam.",
+   "e": "I eat slowly."
+  },
+  {
+   "s": "Das Gipfeli ist besser als das Weggli.",
+   "e": "The Gipfeli is better than the Weggli."
+  },
+  {
+   "s": "Ich zeige auf etwas und bekomme etwas Besseres.",
+   "e": "I point at something and get something better."
+  },
+  {
+   "s": "Dann esse ich das Weggli.",
+   "e": "Then I eat the Weggli."
+  },
+  {
+   "s": "Das Weggli ist weich.",
+   "e": "The Weggli is soft."
+  },
+  {
+   "s": "Ein Weggli isst man einfach so.",
+   "e": "You just eat a Weggli as it is."
+  },
+  {
+   "s": "Man braucht nichts dazu.",
+   "e": "You do not need anything with it."
+  },
+  {
+   "s": "Das Brot esse ich nicht.",
+   "e": "I do not eat the bread."
+  },
+  {
+   "s": "Das Brot bleibt im Sack.",
+   "e": "The bread stays in the bag."
+  },
+  {
+   "s": "Um acht gehe ich noch einmal vorbei.",
+   "e": "At eight I walk past again."
+  },
+  {
+   "s": "Ich schaue durch das Fenster.",
+   "e": "I look through the window."
+  },
+  {
+   "s": "Das Regal ist fast leer.",
+   "e": "The shelf is almost empty."
+  },
+  {
+   "s": "Die Gipfeli sind leer.",
+   "e": "The Gipfeli are gone."
+  },
+  {
+   "s": "Kein Gipfeli mehr.",
+   "e": "No more Gipfeli."
+  },
+  {
+   "s": "Auch die Weggli sind weg.",
+   "e": "The Weggli are gone too."
+  },
+  {
+   "s": "Nur ein Brot liegt noch da.",
+   "e": "Only one loaf is still lying there."
+  },
+  {
+   "s": "Am Nachmittag ist alles leer.",
+   "e": "In the afternoon everything is gone."
+  },
+  {
+   "s": "Eine Bäckerei backt am Morgen.",
+   "e": "A bakery bakes in the morning."
+  },
+  {
+   "s": "Leer ist leer.",
+   "e": "Gone is gone."
+  },
+  {
+   "s": "Man geht früh oder man geht umsonst.",
+   "e": "You go early or you go for nothing."
+  },
+  {
+   "s": "Das lerne ich am ersten Tag.",
+   "e": "I learn that on the first day."
+  },
+  {
+   "s": "Am zweiten Morgen bin ich um sieben da.",
+   "e": "On the second morning I am there at seven."
+  },
+  {
+   "s": "Ich muss nicht mehr zeigen.",
+   "e": "I do not have to point any more."
+  },
+  {
+   "s": "Ich sage: ein Gipfeli und zwei Weggli, bitte.",
+   "e": "I say: one Gipfeli and two Weggli, please."
+  },
+  {
+   "s": "Die Frau nickt.",
+   "e": "The woman nods."
+  },
+  {
+   "s": "Sie fragt nichts.",
+   "e": "She does not ask anything."
+  },
+  {
+   "s": "Sie nimmt ein Gipfeli und zwei Weggli.",
+   "e": "She takes one Gipfeli and two Weggli."
+  },
+  {
+   "s": "Alles ist frisch.",
+   "e": "Everything is fresh."
+  },
+  {
+   "s": "Ich kaufe wieder ein Brot dazu.",
+   "e": "I buy a loaf again as well."
+  },
+  {
+   "s": "Das Brot ist gross und dunkel.",
+   "e": "The bread is big and dark."
+  },
+  {
+   "s": "Es kostet nicht viel.",
+   "e": "It does not cost much."
+  },
+  {
+   "s": "Ich esse ein Weggli auf dem Weg.",
+   "e": "I eat one Weggli on the way."
+  },
+  {
+   "s": "Das zweite Weggli esse ich später.",
+   "e": "The second Weggli I eat later."
+  },
+  {
+   "s": "Am dritten Morgen sagt die Frau Grüezi zu mir.",
+   "e": "On the third morning the woman says Grüezi to me."
+  },
+  {
+   "s": "Sie sagt es anders als am ersten Tag.",
+   "e": "She says it differently from the first day."
+  },
+  {
+   "s": "Sie kennt mich jetzt ein bisschen.",
+   "e": "She knows me a little now."
+  },
+  {
+   "s": "Das Gipfeli, sagt sie, und lacht.",
+   "e": "The Gipfeli, she says, and laughs."
+  },
+  {
+   "s": "Ja, sage ich. Das Gipfeli.",
+   "e": "Yes, I say. The Gipfeli."
+  },
+  {
+   "s": "Ich nehme es und ich bezahle.",
+   "e": "I take it and I pay."
+  },
+  {
+   "s": "Ich esse es draussen.",
+   "e": "I eat it outside."
+  },
+  {
+   "s": "Es ist frisch und es ist warm.",
+   "e": "It is fresh and it is warm."
+  },
+  {
+   "s": "Drei Morgen, drei Gipfeli.",
+   "e": "Three mornings, three Gipfeli."
+  },
+  {
+   "s": "Ein Wort mehr an jedem Tag.",
+   "e": "One more word every day."
+  }
+ ]
+}

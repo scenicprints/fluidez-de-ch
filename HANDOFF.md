@@ -121,11 +121,30 @@ mechanically checkable. Already enforced in the spine build.
 
 The list is a seed, not the finished thing. It grows as the course is written.
 
-**3. A story that names the German word in order to teach the contrast is
-exempt by story id, never by word.** `p0-06` says "Weggli not Brötchen" and
-`p5-02` says "Spital not Krankenhaus", and both are correct. Allowing a word
-globally lets a real slip through. This is exactly how es-ni's
-`dialect-allow.json` works and it is the right pattern.
+**3. A line that names the German word in order to teach the contrast is
+exempt BY LINE, never by word.** Allowing a word globally lets a real slip
+through everywhere else.
+
+**Every line carries its own position now** (2026-08-25), so an entry names one
+line rather than a whole story:
+
+    lesson p0-06 #41       one sentence
+    lesson p0-06           the whole story, if that is really what you want
+    scene sc02 option 3.3  one reply on the third step
+
+It used to be `lesson p0-06` for all ninety-odd sentences in p0-06, so
+exempting the one line that teaches the contrast stopped checking the other
+ninety. The coarse form still works, and `dialect_test.py` asserts it.
+
+**Better still, do not need it.** `p0-06` teaches Weggli and Gipfeli without
+ever writing the German German word in German — the contrast lives in the
+English gloss and in a scene option that is marked wrong. Only two lines in the
+whole of phase 0 are exempt, both of them deliberately-wrong scene answers.
+
+`dialect.py collect()` reads lessons, scenes, mascot lines, the interface, the
+phase ladder, **the emergency phrasebook and every stated verb form.** The last
+two were outside the gate at first, and the phrasebook is the worst possible
+place for a hole.
 
 **4. No invented dialect spelling.** The retired `scenicprints/fluidez-gsw-lu`
 repo is this failure sitting on disk: an invented Luzerndütsch orthography,
@@ -137,16 +156,54 @@ objectively correct, ours becomes the course's orthography. If Sali appears
 three ways across 184 lessons it reads as sloppy rather than authentic. The
 gate fails any story that spells a pinned word differently.
 
-### The schedule gate (`schedule.py`, ports nearly as-is)
+### The verb gate (`verbs.py`, and it has no es-ni original)
+
+There is no gate on `verbs.json` in either course today, and that is how es-ni's
+Verb Trainer taught *cerro* and *perdo* for years: the app's `conjugate()`
+falls back to the regular table whenever an irregular is missing a tense, so a
+hole in the data does not throw, it teaches the wrong thing quietly.
+
+German's drill never calls `conjugate()`, so that failure is gone. The one that
+replaces it is a form nobody wrote, or worse, a form somebody guessed.
+
+1. **Every required field is present and stated.** `en`, `pres3`, `pres2`,
+   `past3`, `pp`, `aux` on every verb, `aux` being `hat` or `ist` and nothing
+   else. A prefix comes with a `sep`, and a separable verb writes its `pres3`
+   separated.
+2. **Every drilled verb is a lemma the course teaches.** A drill on a verb no
+   story contains is a flashcard. With an empty dictionary this warns rather
+   than fails, which is the only thing here that depends on content existing.
+
+`verbs_test.py` fires it at 13 poisoned files and 7 good ones. The full account
+of why German's drill is principal parts rather than a conjugation table is in
+`NEXT.md` §11.
+
+### The schedule gate (`schedule.py`, built 2026-08-25)
 
 - **Coverage:** at least 88% of a story's dictionary words already introduced,
-  ramping from about 60% at story four.
+  ramping from 60% over the first 50 stories — phases 0 and 1 are 38 stories
+  between them and are where the base vocabulary is built.
 - **Density:** every warm-up word appears at least 5 times in its own story.
-- **Return:** every content word reappears in at least 6 of the next 25
-  stories. Function words are exempt.
+- **Return:** every declared content word reappears in at least 6 LATER
+  stories, judged only once 25 stories exist after it. Function words
+  (`prep art conj contr pron num`) are exempt, and so is a one-scene word.
 
 **These three exist to serve the teaching method in §6 and nothing else.**
 Understand that before touching their numbers.
+
+**Two things German changes, and both are load-bearing:**
+
+1. **Every lookup goes through `lemma_of`, exact spelling first.** es-ni
+   lower-cases each token, which here would find no noun at all and the gate
+   would silently measure the function words only.
+2. **Separable verbs count as one word across their two halves**, via
+   `forms.separable_bindings()`, the twin of the reader's binder. Counting
+   token by token scored ankommen at zero in the story that is full of it, and
+   would have had four good stories rewritten to fix a fault in the gate.
+
+It fired on 15 of 16 stories the first time and it was right about 37 of the
+40: the writing was landing at three or four uses where the rule asks for five.
+61 sentences were added rather than the number being moved.
 
 ---
 
@@ -263,6 +320,11 @@ Each meeting is a different problem.
   um.* The *um* is stranded at the end and nobody has to explain that. Seeing
   it happen a dozen times lands the pattern. Explaining it up front would be
   worse.
+  **And the reader now shows it happening.** `separableBindings()` marks both
+  halves and opens the same card from either, so the stray little word at the
+  end is visibly the front of the verb. Sixty-five sentences in phase 0 do it.
+  See `NEXT.md` §13 — it was very nearly shipped as a known limitation, and
+  Kevin's call was *"do whatever teaches you the proper language."*
 
 ---
 
@@ -276,8 +338,12 @@ proven:
 2. `python .github/scripts/stage.py --root .`
 3. **Add the dictionary entries** it lists in `content/plan/needs-entry.txt`.
    Lemmas only. Skip proper nouns.
-4. `python .github/scripts/reconcile.py` — rewrites every warm-up from the
-   text, so a warm-up can never claim a word the story does not teach.
+4. `python .github/scripts/reconcile.py --root .` — rewrites every warm-up
+   from the text, so a warm-up can never claim a word the story does not teach.
+   It is idempotent, and `--dry-run` shows what it would change. **It gives each
+   word to the story that owns it most**, not to the first one that qualifies,
+   which is what stops "Der See" losing `See` to a lake glimpsed from a train
+   eight stories earlier. See `NEXT.md` §15.
 5. Repeat 2 until there are no `PROBLEM:` lines, then commit.
 
 **`git pull --rebase` before pushing.** CI commits the rebuilt pack back to
@@ -295,6 +361,11 @@ Inherited from es-ni and all still true:
 - **Console output is cp1252** and accented characters print as `?`. Write
   results to a file and read the file rather than trusting the terminal.
 - **`/tmp` in Python is not the bash `/tmp`.** Use relative paths.
+- **Every form `forms.py` produces is either STATED or genuinely regular.**
+  The suppletive presents (sein, haben, werden, tun, the modals), noun plurals
+  and the umlauting comparatives are written out; only the endings that never
+  vary are ruled. `IRREGULAR_PRESENT` exists because ruling *sein* produced
+  *seie* and *seit* and lost **sind** and **bin** entirely.
 - **Never let a conjugated form or a plural be its own dictionary entry** when
   the lemma exists. In es-ni 62 were, and the commonest verbs in the language
   each had their memory split in two. German will be worse: every strong verb
@@ -398,24 +469,39 @@ the memory colours per language.
 
 The chrome is a red/white gradient with white compressed into the first ~40%,
 so a white label always sits on red. Worn by the primary button, level chip,
-active tab pill, streak ring, progress bar, perch glow, the Im Bau title and
+active tab pill, streak ring, progress bar, perch glow, the under-construction title and
 the picker selection. **Not** by ghost buttons, or the primary stops meaning
 anything.
 
-### The interface is German
+### The interface is ENGLISH
 
-Heute, Weg, Szenen, Woerter, Wiederholen, Wortstellung, Nachsprechen. Kevin's
-call: a beginner meets about a dozen words on day one and never looks them up
-again. **The phase names went German too** (Ankommen, Einleben, Freunde finden,
-Unterwegs, Nah am Herzen, Schwere Zeiten, Schweizerisch klingen, Dazugehoeren),
-which was my call rather than his. He has not objected and has not confirmed.
+**Reversed 2026-08-25 on Kevin's own call, looking at it:** *"All of the tiles
+are in german. Why is the UI in German? It should be English."*
+
+It shipped German first (Heute, Weg, Szenen, Woerter, Wiederholen, Wortstellung,
+Nachsprechen, plus German phase names) on the reasoning that a beginner meets a
+dozen interface words on day one and never looks them up again. That is wrong
+here, and the Spanish precedent is what hid it: es-ni's interface is in Spanish
+and it reads fine **because he already reads Spanish.** He is learning German
+from zero, so a German interface is not a dozen free words, it is the whole
+frame of the app being unreadable while he is trying to read a story.
+
+**The German course ships no `ui` block at all.** `t()` falls back to the `EN`
+table in the app's `js/ui.js`, so there is nothing here to keep in step with
+the app's own strings. The phase ladder is English too: Landing, Settling In,
+Making Friends, Getting About, Close to the Heart, Hard Things, Sounding Swiss,
+Belonging. Do not re-translate any of it.
+
+The one thing that stays German is **the content**: story titles, the lesson
+text, the scenes. That is the course.
 
 The Path tab carries its own icon per course: a volcano for Nicaragua, a
 **gondola** (`ic-gondola`) for Switzerland.
 
-### Im Bau
+### Under construction
 
 A cable car climbing over a fogged valley. Every tile of a course with no
-lessons lands there. Governed by `underConstruction()` in `content.js`, which
+lessons lands there. The screen said **Im Bau** while the interface was German;
+it reads "Under construction" now, along with the rest of it. Governed by `underConstruction()` in `content.js`, which
 is just `content.lessons.length === 0`, so **it disappears on its own the
 moment phase 0 publishes.** Nobody has to remember to remove it.

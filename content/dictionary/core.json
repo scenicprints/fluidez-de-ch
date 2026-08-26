@@ -1,0 +1,3154 @@
+{
+ "Abend": {
+  "en": "evening",
+  "g": "der",
+  "pl": "Abende",
+  "pos": "n"
+ },
+ "Abfahrt": {
+  "en": "departure",
+  "g": "die",
+  "pl": "Abfahrten",
+  "pos": "n"
+ },
+ "Ade": {
+  "en": "goodbye",
+  "note": "Swiss. Said on leaving",
+  "pos": "intj"
+ },
+ "Alkohol": {
+  "en": "alcohol",
+  "g": "der",
+  "pl": "Alkohole",
+  "pos": "n"
+ },
+ "Anfang": {
+  "en": "beginning",
+  "g": "der",
+  "pl": "Anfänge",
+  "pos": "n"
+ },
+ "Arbeit": {
+  "en": "work",
+  "g": "die",
+  "pl": "Arbeiten",
+  "pos": "n"
+ },
+ "Auge": {
+  "en": "eye",
+  "g": "das",
+  "pl": "Augen",
+  "pos": "n"
+ },
+ "Ausnahme": {
+  "en": "exception",
+  "g": "die",
+  "pl": "Ausnahmen",
+  "pos": "n"
+ },
+ "Auto": {
+  "en": "car",
+  "g": "das",
+  "pl": "Autos",
+  "pos": "n"
+ },
+ "Automat": {
+  "en": "machine",
+  "g": "der",
+  "note": "Weak noun: den Automaten, dem Automaten",
+  "pl": "Automaten",
+  "pos": "n"
+ },
+ "Bahnhof": {
+  "en": "station",
+  "g": "der",
+  "pl": "Bahnhöfe",
+  "pos": "n"
+ },
+ "Bank": {
+  "en": "bench",
+  "g": "die",
+  "pl": "Bänke",
+  "pos": "n"
+ },
+ "Baum": {
+  "en": "tree",
+  "g": "der",
+  "pl": "Bäume",
+  "pos": "n"
+ },
+ "Bedeutung": {
+  "en": "meaning",
+  "g": "die",
+  "pl": "Bedeutungen",
+  "pos": "n"
+ },
+ "Berg": {
+  "en": "mountain",
+  "g": "der",
+  "pl": "Berge",
+  "pos": "n"
+ },
+ "Bett": {
+  "en": "bed",
+  "g": "das",
+  "pl": "Betten",
+  "pos": "n"
+ },
+ "Bild": {
+  "en": "picture",
+  "g": "das",
+  "pl": "Bilder",
+  "pos": "n"
+ },
+ "Billett": {
+  "en": "ticket",
+  "g": "das",
+  "note": "Swiss. Germany says Fahrkarte",
+  "pl": "Billette",
+  "pos": "n"
+ },
+ "Blume": {
+  "en": "flower",
+  "g": "die",
+  "pl": "Blumen",
+  "pos": "n"
+ },
+ "Boden": {
+  "en": "ground/floor",
+  "g": "der",
+  "pl": "Böden",
+  "pos": "n"
+ },
+ "Bon": {
+  "en": "receipt",
+  "g": "der",
+  "note": "Swiss, from the French. Germany says Kassenbon or Quittung",
+  "pl": "Bons",
+  "pos": "n"
+ },
+ "Boot": {
+  "en": "boat",
+  "g": "das",
+  "pl": "Boote",
+  "pos": "n"
+ },
+ "Brot": {
+  "en": "bread",
+  "g": "das",
+  "pl": "Brote",
+  "pos": "n"
+ },
+ "Brunnen": {
+  "en": "fountain",
+  "g": "der",
+  "note": "Public ones run drinking water unless a sign says otherwise",
+  "pl": "Brunnen",
+  "pos": "n"
+ },
+ "Brücke": {
+  "en": "bridge",
+  "g": "die",
+  "pl": "Brücken",
+  "pos": "n"
+ },
+ "Buch": {
+  "en": "book",
+  "g": "das",
+  "pl": "Bücher",
+  "pos": "n"
+ },
+ "Bus": {
+  "en": "bus",
+  "g": "der",
+  "pl": "Busse",
+  "pos": "n"
+ },
+ "Bäckerei": {
+  "en": "bakery",
+  "g": "die",
+  "pl": "Bäckereien",
+  "pos": "n"
+ },
+ "Café": {
+  "en": "café",
+  "g": "das",
+  "pl": "Cafés",
+  "pos": "n"
+ },
+ "Crème": {
+  "en": "coffee with cream",
+  "g": "der",
+  "note": "Short for Kaffee crème, the standard Swiss coffee. You order einen Crème",
+  "pl": "Crème",
+  "pos": "n"
+ },
+ "Dach": {
+  "en": "roof",
+  "g": "das",
+  "pl": "Dächer",
+  "pos": "n"
+ },
+ "Dank": {
+  "en": "thanks",
+  "g": "der",
+  "pl": "Dank",
+  "pos": "n"
+ },
+ "Decke": {
+  "en": "ceiling/blanket",
+  "g": "die",
+  "pl": "Decken",
+  "pos": "n"
+ },
+ "Deutsch": {
+  "en": "German",
+  "g": "das",
+  "note": "The language",
+  "pl": "Deutsch",
+  "pos": "n"
+ },
+ "Ding": {
+  "en": "thing",
+  "g": "das",
+  "pl": "Dinge",
+  "pos": "n"
+ },
+ "Dorf": {
+  "en": "village",
+  "g": "das",
+  "pl": "Dörfer",
+  "pos": "n"
+ },
+ "Durst": {
+  "en": "thirst",
+  "g": "der",
+  "pl": "Durst",
+  "pos": "n"
+ },
+ "Ecke": {
+  "en": "corner",
+  "g": "die",
+  "pl": "Ecken",
+  "pos": "n"
+ },
+ "Einkauf": {
+  "en": "shopping",
+  "g": "der",
+  "pl": "Einkäufe",
+  "pos": "n"
+ },
+ "Ende": {
+  "en": "end",
+  "g": "das",
+  "pl": "Enden",
+  "pos": "n"
+ },
+ "Entschuldigung": {
+  "en": "sorry/apology",
+  "g": "die",
+  "pl": "Entschuldigungen",
+  "pos": "n"
+ },
+ "Fahrplan": {
+  "en": "timetable",
+  "g": "der",
+  "pl": "Fahrpläne",
+  "pos": "n"
+ },
+ "Fahrt": {
+  "en": "journey",
+  "g": "die",
+  "pl": "Fahrten",
+  "pos": "n"
+ },
+ "Familie": {
+  "en": "family",
+  "g": "die",
+  "pl": "Familien",
+  "pos": "n"
+ },
+ "Fehler": {
+  "en": "mistake",
+  "g": "der",
+  "pl": "Fehler",
+  "pos": "n"
+ },
+ "Fenster": {
+  "en": "window",
+  "g": "das",
+  "pl": "Fenster",
+  "pos": "n"
+ },
+ "Feuer": {
+  "en": "fire",
+  "g": "das",
+  "pl": "Feuer",
+  "pos": "n"
+ },
+ "Figur": {
+  "en": "figure",
+  "g": "die",
+  "pl": "Figuren",
+  "pos": "n"
+ },
+ "Flasche": {
+  "en": "bottle",
+  "g": "die",
+  "pl": "Flaschen",
+  "pos": "n"
+ },
+ "Flughafen": {
+  "en": "airport",
+  "g": "der",
+  "pl": "Flughäfen",
+  "pos": "n"
+ },
+ "Flugzeug": {
+  "en": "aeroplane",
+  "g": "das",
+  "pl": "Flugzeuge",
+  "pos": "n"
+ },
+ "Frage": {
+  "en": "question",
+  "g": "die",
+  "pl": "Fragen",
+  "pos": "n"
+ },
+ "Franken": {
+  "en": "franc",
+  "g": "der",
+  "note": "100 Rappen. Written CHF",
+  "pl": "Franken",
+  "pos": "n"
+ },
+ "Frau": {
+  "en": "woman",
+  "g": "die",
+  "pl": "Frauen",
+  "pos": "n"
+ },
+ "Freitag": {
+  "en": "Friday",
+  "g": "der",
+  "pl": "Freitage",
+  "pos": "n"
+ },
+ "Föhn": {
+  "en": "the Föhn wind",
+  "g": "der",
+  "note": "Warm dry wind off the Alps. Blamed for headaches and bad moods",
+  "pl": "Föhne",
+  "pos": "n"
+ },
+ "Gang": {
+  "en": "passage",
+  "g": "der",
+  "pl": "Gänge",
+  "pos": "n"
+ },
+ "Gefühl": {
+  "en": "feeling",
+  "g": "das",
+  "pl": "Gefühle",
+  "pos": "n"
+ },
+ "Geld": {
+  "en": "money",
+  "g": "das",
+  "pl": "Gelder",
+  "pos": "n"
+ },
+ "Geländer": {
+  "en": "railing",
+  "g": "das",
+  "pl": "Geländer",
+  "pos": "n"
+ },
+ "Gerede": {
+  "en": "chatter",
+  "g": "das",
+  "pl": "Gerede",
+  "pos": "n"
+ },
+ "Geräusch": {
+  "en": "noise",
+  "g": "das",
+  "pl": "Geräusche",
+  "pos": "n"
+ },
+ "Gesicht": {
+  "en": "face",
+  "g": "das",
+  "pl": "Gesichter",
+  "pos": "n"
+ },
+ "Gespräch": {
+  "en": "conversation",
+  "g": "das",
+  "pl": "Gespräche",
+  "pos": "n"
+ },
+ "Gipfeli": {
+  "en": "croissant",
+  "g": "das",
+  "note": "Swiss. Germany says Hörnchen",
+  "pl": "Gipfeli",
+  "pos": "n"
+ },
+ "Glas": {
+  "en": "glass",
+  "g": "das",
+  "pl": "Gläser",
+  "pos": "n"
+ },
+ "Gleis": {
+  "en": "track",
+  "g": "das",
+  "note": "The numbered track a train leaves from",
+  "pl": "Gleise",
+  "pos": "n"
+ },
+ "Glocke": {
+  "en": "bell",
+  "g": "die",
+  "pl": "Glocken",
+  "pos": "n"
+ },
+ "Grüezi": {
+  "en": "hello",
+  "note": "The Swiss greeting. Said to strangers, and not saying it is noticed",
+  "pos": "intj"
+ },
+ "Halle": {
+  "en": "hall",
+  "g": "die",
+  "pl": "Hallen",
+  "pos": "n"
+ },
+ "Halt": {
+  "en": "stop",
+  "g": "der",
+  "pl": "Halte",
+  "pos": "n"
+ },
+ "Hand": {
+  "en": "hand",
+  "g": "die",
+  "pl": "Hände",
+  "pos": "n"
+ },
+ "Handel": {
+  "en": "deal/trade",
+  "g": "der",
+  "pl": "Handel",
+  "pos": "n"
+ },
+ "Handy": {
+  "en": "mobile phone",
+  "g": "das",
+  "pl": "Handys",
+  "pos": "n"
+ },
+ "Haus": {
+  "en": "house",
+  "g": "das",
+  "pl": "Häuser",
+  "pos": "n"
+ },
+ "Himmel": {
+  "en": "sky",
+  "g": "der",
+  "pl": "Himmel",
+  "pos": "n"
+ },
+ "Hoi": {
+  "en": "hi",
+  "note": "Only to somebody you would du. Hoi zäme to more than one",
+  "pos": "intj"
+ },
+ "Holz": {
+  "en": "wood",
+  "g": "das",
+  "pl": "Hölzer",
+  "pos": "n"
+ },
+ "Hund": {
+  "en": "dog",
+  "g": "der",
+  "pl": "Hunde",
+  "pos": "n"
+ },
+ "Hunger": {
+  "en": "hunger",
+  "g": "der",
+  "pl": "Hunger",
+  "pos": "n"
+ },
+ "Hut": {
+  "en": "hat",
+  "g": "der",
+  "pl": "Hüte",
+  "pos": "n"
+ },
+ "Hälfte": {
+  "en": "half",
+  "g": "die",
+  "pl": "Hälften",
+  "pos": "n"
+ },
+ "Höhe": {
+  "en": "height",
+  "g": "die",
+  "pl": "Höhen",
+  "pos": "n"
+ },
+ "Jacke": {
+  "en": "jacket",
+  "g": "die",
+  "pl": "Jacken",
+  "pos": "n"
+ },
+ "Jahreszeit": {
+  "en": "season",
+  "g": "die",
+  "pl": "Jahreszeiten",
+  "pos": "n"
+ },
+ "Kaffee": {
+  "en": "coffee",
+  "g": "der",
+  "pl": "Kaffees",
+  "pos": "n"
+ },
+ "Kanton": {
+  "en": "canton",
+  "g": "der",
+  "note": "Switzerland has twenty-six",
+  "pl": "Kantone",
+  "pos": "n"
+ },
+ "Karte": {
+  "en": "menu/card",
+  "g": "die",
+  "pl": "Karten",
+  "pos": "n"
+ },
+ "Kasse": {
+  "en": "till",
+  "g": "die",
+  "pl": "Kassen",
+  "pos": "n"
+ },
+ "Kind": {
+  "en": "child",
+  "g": "das",
+  "pl": "Kinder",
+  "pos": "n"
+ },
+ "Kirche": {
+  "en": "church",
+  "g": "die",
+  "pl": "Kirchen",
+  "pos": "n"
+ },
+ "Knick": {
+  "en": "bend",
+  "g": "der",
+  "pl": "Knicke",
+  "pos": "n"
+ },
+ "Koffer": {
+  "en": "suitcase",
+  "g": "der",
+  "pl": "Koffer",
+  "pos": "n"
+ },
+ "Kopf": {
+  "en": "head",
+  "g": "der",
+  "pl": "Köpfe",
+  "pos": "n"
+ },
+ "Kuh": {
+  "en": "cow",
+  "g": "die",
+  "pl": "Kühe",
+  "pos": "n"
+ },
+ "Käse": {
+  "en": "cheese",
+  "g": "der",
+  "pl": "Käse",
+  "pos": "n"
+ },
+ "Laden": {
+  "en": "shop",
+  "g": "der",
+  "pl": "Läden",
+  "pos": "n"
+ },
+ "Leitung": {
+  "en": "pipe",
+  "g": "die",
+  "pl": "Leitungen",
+  "pos": "n"
+ },
+ "Leute": {
+  "en": "people",
+  "g": "die",
+  "note": "Plural only. There is no singular",
+  "pl": "Leute",
+  "pos": "n"
+ },
+ "Licht": {
+  "en": "light",
+  "g": "das",
+  "pl": "Lichter",
+  "pos": "n"
+ },
+ "Lift": {
+  "en": "lift",
+  "g": "der",
+  "pl": "Lifte",
+  "pos": "n"
+ },
+ "Luft": {
+  "en": "air",
+  "g": "die",
+  "pl": "Lüfte",
+  "pos": "n"
+ },
+ "Löffel": {
+  "en": "spoon",
+  "g": "der",
+  "pl": "Löffel",
+  "pos": "n"
+ },
+ "Mal": {
+  "en": "time/occasion",
+  "g": "das",
+  "pl": "Male",
+  "pos": "n"
+ },
+ "Mann": {
+  "en": "man",
+  "g": "der",
+  "pl": "Männer",
+  "pos": "n"
+ },
+ "Maschine": {
+  "en": "machine",
+  "g": "die",
+  "pl": "Maschinen",
+  "pos": "n"
+ },
+ "Milch": {
+  "en": "milk",
+  "g": "die",
+  "pl": "Milch",
+  "pos": "n"
+ },
+ "Minute": {
+  "en": "minute",
+  "g": "die",
+  "pl": "Minuten",
+  "pos": "n"
+ },
+ "Mitte": {
+  "en": "middle",
+  "g": "die",
+  "pl": "Mitten",
+  "pos": "n"
+ },
+ "Moment": {
+  "en": "moment",
+  "g": "der",
+  "pl": "Momente",
+  "pos": "n"
+ },
+ "Monat": {
+  "en": "month",
+  "g": "der",
+  "pl": "Monate",
+  "pos": "n"
+ },
+ "Mond": {
+  "en": "moon",
+  "g": "der",
+  "pl": "Monde",
+  "pos": "n"
+ },
+ "Montag": {
+  "en": "Monday",
+  "g": "der",
+  "pl": "Montage",
+  "pos": "n"
+ },
+ "Morgen": {
+  "en": "morning",
+  "g": "der",
+  "pl": "Morgen",
+  "pos": "n"
+ },
+ "Musik": {
+  "en": "music",
+  "g": "die",
+  "pl": "Musik",
+  "pos": "n"
+ },
+ "Münze": {
+  "en": "coin",
+  "g": "die",
+  "pl": "Münzen",
+  "pos": "n"
+ },
+ "Nachbar": {
+  "en": "neighbour",
+  "g": "der",
+  "pl": "Nachbarn",
+  "pos": "n"
+ },
+ "Nachmittag": {
+  "en": "afternoon",
+  "g": "der",
+  "pl": "Nachmittage",
+  "pos": "n"
+ },
+ "Nacht": {
+  "en": "night",
+  "g": "die",
+  "pl": "Nächte",
+  "pos": "n"
+ },
+ "Name": {
+  "en": "name",
+  "g": "der",
+  "pl": "Namen",
+  "pos": "n"
+ },
+ "Note": {
+  "en": "banknote",
+  "g": "die",
+  "pl": "Noten",
+  "pos": "n"
+ },
+ "Nummer": {
+  "en": "number",
+  "g": "die",
+  "pl": "Nummern",
+  "pos": "n"
+ },
+ "Oktober": {
+  "en": "October",
+  "g": "der",
+  "pl": "Oktober",
+  "pos": "n"
+ },
+ "Ordnung": {
+  "en": "order",
+  "g": "die",
+  "pl": "Ordnungen",
+  "pos": "n"
+ },
+ "Papier": {
+  "en": "paper",
+  "g": "das",
+  "pl": "Papiere",
+  "pos": "n"
+ },
+ "Pass": {
+  "en": "passport",
+  "g": "der",
+  "pl": "Pässe",
+  "pos": "n"
+ },
+ "Perron": {
+  "en": "platform",
+  "g": "der",
+  "note": "Swiss. Germany says Bahnsteig",
+  "pl": "Perrons",
+  "pos": "n"
+ },
+ "Platz": {
+  "en": "square/seat",
+  "g": "der",
+  "pl": "Plätze",
+  "pos": "n"
+ },
+ "Post": {
+  "en": "post office",
+  "g": "die",
+  "note": "Always yellow, as are its vans and buses",
+  "pl": "Posten",
+  "pos": "n"
+ },
+ "Preis": {
+  "en": "price",
+  "g": "der",
+  "pl": "Preise",
+  "pos": "n"
+ },
+ "Problem": {
+  "en": "problem",
+  "g": "das",
+  "pl": "Probleme",
+  "pos": "n"
+ },
+ "Punkt": {
+  "en": "point/dot",
+  "g": "der",
+  "note": "Punkt acht means eight o’clock sharp",
+  "pl": "Punkte",
+  "pos": "n"
+ },
+ "Päckchen": {
+  "en": "packet",
+  "g": "das",
+  "pl": "Päckchen",
+  "pos": "n"
+ },
+ "Rappen": {
+  "en": "rappen",
+  "g": "der",
+  "note": "One hundredth of a franc. Nothing below five",
+  "pl": "Rappen",
+  "pos": "n"
+ },
+ "Regal": {
+  "en": "shelf",
+  "g": "das",
+  "pl": "Regale",
+  "pos": "n"
+ },
+ "Regel": {
+  "en": "rule",
+  "g": "die",
+  "pl": "Regeln",
+  "pos": "n"
+ },
+ "Regen": {
+  "en": "rain",
+  "g": "der",
+  "pl": "Regen",
+  "pos": "n"
+ },
+ "Rest": {
+  "en": "rest/remainder",
+  "g": "der",
+  "pl": "Reste",
+  "pos": "n"
+ },
+ "Rolltreppe": {
+  "en": "escalator",
+  "g": "die",
+  "pl": "Rolltreppen",
+  "pos": "n"
+ },
+ "Ruhe": {
+  "en": "quiet",
+  "g": "die",
+  "pl": "Ruhe",
+  "pos": "n"
+ },
+ "Sache": {
+  "en": "thing",
+  "g": "die",
+  "pl": "Sachen",
+  "pos": "n"
+ },
+ "Sack": {
+  "en": "bag",
+  "g": "der",
+  "note": "Swiss. Germany says Tüte",
+  "pl": "Säcke",
+  "pos": "n"
+ },
+ "Sali": {
+  "en": "hi",
+  "note": "From the French salut. Informal, and strongest around Zurich, Basel and the centre",
+  "pos": "intj"
+ },
+ "Samstag": {
+  "en": "Saturday",
+  "g": "der",
+  "pl": "Samstage",
+  "pos": "n"
+ },
+ "Satz": {
+  "en": "sentence",
+  "g": "der",
+  "pl": "Sätze",
+  "pos": "n"
+ },
+ "Schale": {
+  "en": "coffee with a lot of milk",
+  "g": "die",
+  "note": "Swiss. A Crème is the ordinary one, a Schale is the milky one",
+  "pl": "Schalen",
+  "pos": "n"
+ },
+ "Schalter": {
+  "en": "counter",
+  "g": "der",
+  "pl": "Schalter",
+  "pos": "n"
+ },
+ "Schiff": {
+  "en": "boat/ship",
+  "g": "das",
+  "note": "On the lakes it runs to a timetable, like a bus",
+  "pl": "Schiffe",
+  "pos": "n"
+ },
+ "Schild": {
+  "en": "sign",
+  "g": "das",
+  "pl": "Schilder",
+  "pos": "n"
+ },
+ "Schirm": {
+  "en": "umbrella",
+  "g": "der",
+  "pl": "Schirme",
+  "pos": "n"
+ },
+ "Schnee": {
+  "en": "snow",
+  "g": "der",
+  "pl": "Schnee",
+  "pos": "n"
+ },
+ "Schokolade": {
+  "en": "chocolate",
+  "g": "die",
+  "pl": "Schokoladen",
+  "pos": "n"
+ },
+ "Schuh": {
+  "en": "shoe",
+  "g": "der",
+  "pl": "Schuhe",
+  "pos": "n"
+ },
+ "Schweiz": {
+  "en": "Switzerland",
+  "g": "die",
+  "note": "Always with the article: die Schweiz",
+  "pl": "Schweiz",
+  "pos": "n"
+ },
+ "Schwert": {
+  "en": "sword",
+  "g": "das",
+  "pl": "Schwerter",
+  "pos": "n"
+ },
+ "Schürze": {
+  "en": "apron",
+  "g": "die",
+  "pl": "Schürzen",
+  "pos": "n"
+ },
+ "See": {
+  "en": "lake",
+  "g": "der",
+  "note": "Der See is a lake. Die See is the sea",
+  "pl": "Seen",
+  "pos": "n"
+ },
+ "Seite": {
+  "en": "side",
+  "g": "die",
+  "pl": "Seiten",
+  "pos": "n"
+ },
+ "Sekunde": {
+  "en": "second",
+  "g": "die",
+  "pl": "Sekunden",
+  "pos": "n"
+ },
+ "September": {
+  "en": "September",
+  "g": "der",
+  "pl": "September",
+  "pos": "n"
+ },
+ "Sie": {
+  "en": "you (formal)",
+  "note": "Always capitalised. You start here with everybody and wait to be offered du",
+  "pos": "pron"
+ },
+ "Sieg": {
+  "en": "victory",
+  "g": "der",
+  "pl": "Siege",
+  "pos": "n"
+ },
+ "Sonne": {
+  "en": "sun",
+  "g": "die",
+  "pl": "Sonnen",
+  "pos": "n"
+ },
+ "Sonntag": {
+  "en": "Sunday",
+  "g": "der",
+  "note": "Shops shut. The station is the exception",
+  "pl": "Sonntage",
+  "pos": "n"
+ },
+ "Sonntagabend": {
+  "en": "Sunday evening",
+  "g": "der",
+  "note": "Sonntag + Abend. German glues words together and you can read them apart",
+  "pl": "Sonntagabende",
+  "pos": "n"
+ },
+ "Spruch": {
+  "en": "saying",
+  "g": "der",
+  "pl": "Sprüche",
+  "pos": "n"
+ },
+ "Stadt": {
+  "en": "town/city",
+  "g": "die",
+  "pl": "Städte",
+  "pos": "n"
+ },
+ "Stein": {
+  "en": "stone",
+  "g": "der",
+  "pl": "Steine",
+  "pos": "n"
+ },
+ "Stelle": {
+  "en": "place/spot",
+  "g": "die",
+  "pl": "Stellen",
+  "pos": "n"
+ },
+ "Stille": {
+  "en": "silence",
+  "g": "die",
+  "pl": "Stille",
+  "pos": "n"
+ },
+ "Stimme": {
+  "en": "voice",
+  "g": "die",
+  "pl": "Stimmen",
+  "pos": "n"
+ },
+ "Strasse": {
+  "en": "street",
+  "g": "die",
+  "note": "Never with an eszett in Switzerland",
+  "pl": "Strassen",
+  "pos": "n"
+ },
+ "Stunde": {
+  "en": "hour",
+  "g": "die",
+  "pl": "Stunden",
+  "pos": "n"
+ },
+ "Stück": {
+  "en": "piece",
+  "g": "das",
+  "pl": "Stücke",
+  "pos": "n"
+ },
+ "Süden": {
+  "en": "south",
+  "g": "der",
+  "pl": "Süden",
+  "pos": "n"
+ },
+ "Tafel": {
+  "en": "board",
+  "g": "die",
+  "pl": "Tafeln",
+  "pos": "n"
+ },
+ "Tag": {
+  "en": "day",
+  "g": "der",
+  "pl": "Tage",
+  "pos": "n"
+ },
+ "Tasche": {
+  "en": "bag/pocket",
+  "g": "die",
+  "pl": "Taschen",
+  "pos": "n"
+ },
+ "Tasse": {
+  "en": "cup",
+  "g": "die",
+  "pl": "Tassen",
+  "pos": "n"
+ },
+ "Teil": {
+  "en": "part",
+  "g": "der",
+  "pl": "Teile",
+  "pos": "n"
+ },
+ "Termin": {
+  "en": "appointment",
+  "g": "der",
+  "pl": "Termine",
+  "pos": "n"
+ },
+ "Thema": {
+  "en": "topic",
+  "g": "das",
+  "pl": "Themen",
+  "pos": "n"
+ },
+ "Tisch": {
+  "en": "table",
+  "g": "der",
+  "pl": "Tische",
+  "pos": "n"
+ },
+ "Tor": {
+  "en": "gate",
+  "g": "das",
+  "pl": "Tore",
+  "pos": "n"
+ },
+ "Treppe": {
+  "en": "stairs",
+  "g": "die",
+  "pl": "Treppen",
+  "pos": "n"
+ },
+ "Trinkwasser": {
+  "en": "drinking water",
+  "g": "das",
+  "pl": "Trinkwasser",
+  "pos": "n"
+ },
+ "Tschüss": {
+  "en": "bye",
+  "note": "Heard, mostly from younger people. Ade is the Luzern word",
+  "pos": "intj"
+ },
+ "Tunnel": {
+  "en": "tunnel",
+  "g": "der",
+  "pl": "Tunnel",
+  "pos": "n"
+ },
+ "Turm": {
+  "en": "tower",
+  "g": "der",
+  "pl": "Türme",
+  "pos": "n"
+ },
+ "Tür": {
+  "en": "door",
+  "g": "die",
+  "pl": "Türen",
+  "pos": "n"
+ },
+ "Ufer": {
+  "en": "shore",
+  "g": "das",
+  "pl": "Ufer",
+  "pos": "n"
+ },
+ "Uhr": {
+  "en": "clock/o’clock",
+  "g": "die",
+  "pl": "Uhren",
+  "pos": "n"
+ },
+ "Ursache": {
+  "en": "cause",
+  "g": "die",
+  "note": "Keine Ursache means: no trouble at all",
+  "pl": "Ursachen",
+  "pos": "n"
+ },
+ "Versprechen": {
+  "en": "promise",
+  "g": "das",
+  "pl": "Versprechen",
+  "pos": "n"
+ },
+ "Viertel": {
+  "en": "quarter",
+  "g": "das",
+  "pl": "Viertel",
+  "pos": "n"
+ },
+ "Vogel": {
+  "en": "bird",
+  "g": "der",
+  "pl": "Vögel",
+  "pos": "n"
+ },
+ "Wand": {
+  "en": "wall",
+  "g": "die",
+  "pl": "Wände",
+  "pos": "n"
+ },
+ "Warnung": {
+  "en": "warning",
+  "g": "die",
+  "pl": "Warnungen",
+  "pos": "n"
+ },
+ "Wasser": {
+  "en": "water",
+  "g": "das",
+  "pl": "Wasser",
+  "pos": "n"
+ },
+ "Weg": {
+  "en": "way",
+  "g": "der",
+  "pl": "Wege",
+  "pos": "n"
+ },
+ "Weggli": {
+  "en": "bread roll",
+  "g": "das",
+  "note": "Swiss. Germany says Brötchen",
+  "pl": "Weggli",
+  "pos": "n"
+ },
+ "Wein": {
+  "en": "wine",
+  "g": "der",
+  "note": "Migros has never sold it. Coop does",
+  "pl": "Weine",
+  "pos": "n"
+ },
+ "Wetter": {
+  "en": "weather",
+  "g": "das",
+  "pl": "Wetter",
+  "pos": "n"
+ },
+ "Wiedersehen": {
+  "en": "seeing again",
+  "g": "das",
+  "note": "Only really used in auf Wiedersehen. Here people say Ade",
+  "pl": "Wiedersehen",
+  "pos": "n"
+ },
+ "Wiese": {
+  "en": "meadow",
+  "g": "die",
+  "pl": "Wiesen",
+  "pos": "n"
+ },
+ "Wind": {
+  "en": "wind",
+  "g": "der",
+  "pl": "Winde",
+  "pos": "n"
+ },
+ "Woche": {
+  "en": "week",
+  "g": "die",
+  "pl": "Wochen",
+  "pos": "n"
+ },
+ "Wohnung": {
+  "en": "flat",
+  "g": "die",
+  "pl": "Wohnungen",
+  "pos": "n"
+ },
+ "Wolke": {
+  "en": "cloud",
+  "g": "die",
+  "pl": "Wolken",
+  "pos": "n"
+ },
+ "Wort": {
+  "en": "word",
+  "g": "das",
+  "pl": "Wörter",
+  "pos": "n"
+ },
+ "Zeichen": {
+  "en": "sign",
+  "g": "das",
+  "pl": "Zeichen",
+  "pos": "n"
+ },
+ "Zeiger": {
+  "en": "hand of a clock",
+  "g": "der",
+  "pl": "Zeiger",
+  "pos": "n"
+ },
+ "Zeit": {
+  "en": "time",
+  "g": "die",
+  "pl": "Zeiten",
+  "pos": "n"
+ },
+ "Zeitung": {
+  "en": "newspaper",
+  "g": "die",
+  "pl": "Zeitungen",
+  "pos": "n"
+ },
+ "Zimmer": {
+  "en": "room",
+  "g": "das",
+  "pl": "Zimmer",
+  "pos": "n"
+ },
+ "Zoll": {
+  "en": "customs",
+  "g": "der",
+  "pl": "Zölle",
+  "pos": "n"
+ },
+ "Zucker": {
+  "en": "sugar",
+  "g": "der",
+  "pl": "Zucker",
+  "pos": "n"
+ },
+ "Zug": {
+  "en": "train",
+  "g": "der",
+  "note": "Also a town, and the train stops there",
+  "pl": "Züge",
+  "pos": "n"
+ },
+ "Zuhause": {
+  "en": "home",
+  "g": "das",
+  "pl": "Zuhause",
+  "pos": "n"
+ },
+ "aber": {
+  "en": "but",
+  "pos": "conj"
+ },
+ "acht": {
+  "en": "eight",
+  "pos": "num"
+ },
+ "achteckig": {
+  "en": "eight-sided",
+  "pos": "adj"
+ },
+ "achtzehn": {
+  "en": "eighteen",
+  "pos": "num"
+ },
+ "achtzig": {
+  "en": "eighty",
+  "pos": "num"
+ },
+ "alle": {
+  "en": "everybody",
+  "pos": "pron"
+ },
+ "allein": {
+  "en": "alone",
+  "pos": "adj"
+ },
+ "alles": {
+  "en": "everything",
+  "pos": "pron"
+ },
+ "als": {
+  "en": "than",
+  "pos": "conj"
+ },
+ "also": {
+  "en": "so/therefore",
+  "pos": "adv"
+ },
+ "alt": {
+  "en": "old",
+  "pos": "adj"
+ },
+ "am": {
+  "en": "at the/on the",
+  "note": "an + dem",
+  "pos": "contr"
+ },
+ "an": {
+  "en": "at/on",
+  "pos": "prep"
+ },
+ "ander": {
+  "en": "other",
+  "pos": "adj"
+ },
+ "anders": {
+  "en": "differently",
+  "pos": "adv"
+ },
+ "anderthalb": {
+  "en": "one and a half",
+  "pos": "num"
+ },
+ "anfangen": {
+  "en": "to start",
+  "pos": "v"
+ },
+ "ankommen": {
+  "en": "to arrive",
+  "pos": "v"
+ },
+ "ans": {
+  "en": "to the",
+  "note": "an + das",
+  "pos": "contr"
+ },
+ "anschauen": {
+  "en": "to look at",
+  "pos": "v"
+ },
+ "anziehen": {
+  "en": "to put on",
+  "pos": "v"
+ },
+ "atmen": {
+  "en": "to breathe",
+  "pos": "v"
+ },
+ "auch": {
+  "en": "too/also",
+  "pos": "adv"
+ },
+ "auf": {
+  "en": "on",
+  "pos": "prep"
+ },
+ "aufhören": {
+  "en": "to stop",
+  "pos": "v"
+ },
+ "aufmachen": {
+  "en": "to open",
+  "pos": "v"
+ },
+ "aufs": {
+  "en": "onto the",
+  "note": "auf + das",
+  "pos": "contr"
+ },
+ "aufstehen": {
+  "en": "to stand up",
+  "pos": "v"
+ },
+ "aus": {
+  "en": "out of/made of",
+  "pos": "prep"
+ },
+ "ausatmen": {
+  "en": "to breathe out",
+  "pos": "v"
+ },
+ "auslachen": {
+  "en": "to laugh at",
+  "pos": "v"
+ },
+ "aussen": {
+  "en": "outside",
+  "pos": "adv"
+ },
+ "ausser": {
+  "en": "except",
+  "pos": "prep"
+ },
+ "aussteigen": {
+  "en": "to get off",
+  "pos": "v"
+ },
+ "backen": {
+  "en": "to bake",
+  "pos": "v"
+ },
+ "bald": {
+  "en": "soon",
+  "pos": "adv"
+ },
+ "beginnen": {
+  "en": "to begin",
+  "pos": "v"
+ },
+ "behalten": {
+  "en": "to keep",
+  "pos": "v"
+ },
+ "bei": {
+  "en": "at/near",
+  "pos": "prep"
+ },
+ "beide": {
+  "en": "both",
+  "pos": "pron"
+ },
+ "beides": {
+  "en": "both of them",
+  "pos": "pron"
+ },
+ "beim": {
+  "en": "at the",
+  "note": "bei + dem",
+  "pos": "contr"
+ },
+ "bekommen": {
+  "en": "to get",
+  "pos": "v"
+ },
+ "besser": {
+  "en": "better",
+  "pos": "adv"
+ },
+ "best": {
+  "en": "best",
+  "pos": "adj"
+ },
+ "bestellen": {
+  "en": "to order",
+  "pos": "v"
+ },
+ "bezahlen": {
+  "en": "to pay",
+  "pos": "v"
+ },
+ "billig": {
+  "en": "cheap",
+  "pos": "adj"
+ },
+ "bis": {
+  "en": "until",
+  "pos": "prep"
+ },
+ "bisschen": {
+  "en": "a bit",
+  "note": "Always ein bisschen",
+  "pos": "adv"
+ },
+ "bitte": {
+  "en": "please/you are welcome",
+  "note": "Both halves of the exchange",
+  "pos": "intj"
+ },
+ "bitter": {
+  "en": "bitter",
+  "pos": "adj"
+ },
+ "blau": {
+  "en": "blue",
+  "pos": "adj"
+ },
+ "bleiben": {
+  "en": "to stay",
+  "pos": "v"
+ },
+ "brauchen": {
+  "en": "to need",
+  "pos": "v"
+ },
+ "braun": {
+  "en": "brown",
+  "pos": "adj"
+ },
+ "breit": {
+  "en": "wide",
+  "pos": "adj"
+ },
+ "brennen": {
+  "en": "to burn",
+  "pos": "v"
+ },
+ "bringen": {
+  "en": "to bring",
+  "pos": "v"
+ },
+ "da": {
+  "en": "there",
+  "pos": "adv"
+ },
+ "dabei": {
+  "en": "with one",
+  "note": "Ich habe es dabei means I have it on me",
+  "pos": "adv"
+ },
+ "dahinter": {
+  "en": "behind it",
+  "pos": "adv"
+ },
+ "damals": {
+  "en": "back then",
+  "pos": "adv"
+ },
+ "damit": {
+  "en": "with it/so that",
+  "pos": "adv"
+ },
+ "daneben": {
+  "en": "next to it",
+  "pos": "adv"
+ },
+ "danke": {
+  "en": "thank you",
+  "note": "Correct, but merci is heard more often here",
+  "pos": "intj"
+ },
+ "dann": {
+  "en": "then",
+  "pos": "adv"
+ },
+ "darin": {
+  "en": "in it",
+  "pos": "adv"
+ },
+ "darum": {
+  "en": "that is why",
+  "pos": "adv"
+ },
+ "darunter": {
+  "en": "under it",
+  "pos": "adv"
+ },
+ "das": {
+  "en": "the",
+  "pos": "art"
+ },
+ "dauern": {
+  "en": "to last/to take time",
+  "pos": "v"
+ },
+ "davon": {
+  "en": "of it/of them",
+  "pos": "adv"
+ },
+ "dazu": {
+  "en": "about it/with it",
+  "pos": "adv"
+ },
+ "denken": {
+  "en": "to think",
+  "pos": "v"
+ },
+ "denn": {
+  "en": "because",
+  "pos": "conj"
+ },
+ "der": {
+  "en": "the",
+  "pos": "art"
+ },
+ "die": {
+  "en": "the",
+  "pos": "art"
+ },
+ "dieser": {
+  "en": "this",
+  "pos": "pron"
+ },
+ "diesmal": {
+  "en": "this time",
+  "pos": "adv"
+ },
+ "doch": {
+  "en": "after all/but yes",
+  "note": "A particle. It contradicts, softens or insists depending on the sentence",
+  "pos": "adv"
+ },
+ "dort": {
+  "en": "over there",
+  "pos": "adv"
+ },
+ "dran": {
+  "en": "up/one’s turn",
+  "note": "Ich bin dran means it is my turn",
+  "pos": "adv"
+ },
+ "draussen": {
+  "en": "outside",
+  "pos": "adv"
+ },
+ "drei": {
+  "en": "three",
+  "pos": "num"
+ },
+ "dreieckig": {
+  "en": "triangular",
+  "pos": "adj"
+ },
+ "dreissig": {
+  "en": "thirty",
+  "pos": "num"
+ },
+ "dreizehn": {
+  "en": "thirteen",
+  "pos": "num"
+ },
+ "drinnen": {
+  "en": "inside",
+  "pos": "adv"
+ },
+ "dritt": {
+  "en": "third",
+  "pos": "adj"
+ },
+ "drüben": {
+  "en": "over there",
+  "pos": "adv"
+ },
+ "drücken": {
+  "en": "to press",
+  "pos": "v"
+ },
+ "du": {
+  "en": "you",
+  "pos": "pron"
+ },
+ "dunkel": {
+  "en": "dark",
+  "pos": "adj"
+ },
+ "durch": {
+  "en": "through",
+  "pos": "prep"
+ },
+ "dürfen": {
+  "en": "to be allowed to",
+  "pos": "v"
+ },
+ "egal": {
+  "en": "all the same",
+  "pos": "adj"
+ },
+ "eigen": {
+  "en": "own",
+  "pos": "adj"
+ },
+ "eilig": {
+  "en": "in a hurry",
+  "pos": "adj"
+ },
+ "ein": {
+  "en": "a",
+  "pos": "art"
+ },
+ "eine": {
+  "en": "a",
+  "pos": "art"
+ },
+ "einfach": {
+  "en": "simply",
+  "pos": "adv"
+ },
+ "einkaufen": {
+  "en": "to do the shopping",
+  "pos": "v"
+ },
+ "einmal": {
+  "en": "once",
+  "pos": "adv"
+ },
+ "einpacken": {
+  "en": "to pack up",
+  "pos": "v"
+ },
+ "eins": {
+  "en": "one",
+  "pos": "num"
+ },
+ "einschlafen": {
+  "en": "to fall asleep",
+  "pos": "v"
+ },
+ "einsteigen": {
+  "en": "to get on",
+  "pos": "v"
+ },
+ "elf": {
+  "en": "eleven",
+  "pos": "num"
+ },
+ "enden": {
+  "en": "to end",
+  "pos": "v"
+ },
+ "endlich": {
+  "en": "at last",
+  "pos": "adv"
+ },
+ "eng": {
+  "en": "narrow",
+  "pos": "adj"
+ },
+ "er": {
+  "en": "he",
+  "pos": "pron"
+ },
+ "erklären": {
+  "en": "to explain",
+  "pos": "v"
+ },
+ "erst": {
+  "en": "first",
+  "pos": "adj"
+ },
+ "es": {
+  "en": "it",
+  "pos": "pron"
+ },
+ "essen": {
+  "en": "to eat",
+  "pos": "v"
+ },
+ "etwas": {
+  "en": "something",
+  "pos": "pron"
+ },
+ "fahren": {
+  "en": "to go by vehicle",
+  "pos": "v"
+ },
+ "falsch": {
+  "en": "wrong",
+  "pos": "adj"
+ },
+ "fast": {
+  "en": "almost",
+  "pos": "adv"
+ },
+ "fertig": {
+  "en": "finished",
+  "pos": "adj"
+ },
+ "finden": {
+  "en": "to find",
+  "pos": "v"
+ },
+ "fragen": {
+  "en": "to ask",
+  "pos": "v"
+ },
+ "fremd": {
+  "en": "strange/foreign",
+  "pos": "adj"
+ },
+ "fressen": {
+  "en": "to eat",
+  "note": "Used of animals, never of people",
+  "pos": "v"
+ },
+ "freundlich": {
+  "en": "friendly",
+  "pos": "adj"
+ },
+ "frisch": {
+  "en": "fresh",
+  "pos": "adj"
+ },
+ "früh": {
+  "en": "early",
+  "pos": "adv"
+ },
+ "fühlen": {
+  "en": "to feel",
+  "pos": "v"
+ },
+ "führen": {
+  "en": "to lead",
+  "pos": "v"
+ },
+ "fünf": {
+  "en": "five",
+  "pos": "num"
+ },
+ "fünfundneunzig": {
+  "en": "ninety-five",
+  "pos": "num"
+ },
+ "fünfundvierzig": {
+  "en": "forty-five",
+  "pos": "num"
+ },
+ "fünfzehn": {
+  "en": "fifteen",
+  "pos": "num"
+ },
+ "fünfzig": {
+  "en": "fifty",
+  "pos": "num"
+ },
+ "für": {
+  "en": "for",
+  "pos": "prep"
+ },
+ "ganz": {
+  "en": "whole",
+  "pos": "adj"
+ },
+ "gar": {
+  "en": "at all",
+  "note": "Almost always with nicht: gar nicht means not at all",
+  "pos": "adv"
+ },
+ "geben": {
+  "en": "to give",
+  "pos": "v"
+ },
+ "gefallen": {
+  "en": "to please",
+  "note": "Das gefällt mir is how you say I like it",
+  "pos": "v"
+ },
+ "gegen": {
+  "en": "against",
+  "pos": "prep"
+ },
+ "gehen": {
+  "en": "to go",
+  "pos": "v"
+ },
+ "gehören": {
+  "en": "to belong",
+  "pos": "v"
+ },
+ "gelb": {
+  "en": "yellow",
+  "pos": "adj"
+ },
+ "genau": {
+  "en": "exact",
+  "pos": "adj"
+ },
+ "genug": {
+  "en": "enough",
+  "pos": "adj"
+ },
+ "gerade": {
+  "en": "just/straight",
+  "pos": "adv"
+ },
+ "geradeaus": {
+  "en": "straight on",
+  "pos": "adv"
+ },
+ "gern": {
+  "en": "gladly",
+  "pos": "adv"
+ },
+ "geschehen": {
+  "en": "to happen",
+  "note": "Gern geschehen is you are welcome",
+  "pos": "v"
+ },
+ "geschlossen": {
+  "en": "closed",
+  "pos": "adj"
+ },
+ "gestern": {
+  "en": "yesterday",
+  "pos": "adv"
+ },
+ "giessen": {
+  "en": "to water/to pour",
+  "pos": "v"
+ },
+ "gleich": {
+  "en": "same",
+  "pos": "adj"
+ },
+ "gleichfalls": {
+  "en": "likewise",
+  "note": "Hands any good wish straight back. Schönen Abend — merci, gleichfalls",
+  "pos": "adv"
+ },
+ "golden": {
+  "en": "golden",
+  "pos": "adj"
+ },
+ "gratis": {
+  "en": "free of charge",
+  "pos": "adj"
+ },
+ "grau": {
+  "en": "grey",
+  "pos": "adj"
+ },
+ "gross": {
+  "en": "big",
+  "pos": "adj"
+ },
+ "grün": {
+  "en": "green",
+  "pos": "adj"
+ },
+ "gut": {
+  "en": "good",
+  "pos": "adj"
+ },
+ "haben": {
+  "en": "to have",
+  "pos": "v"
+ },
+ "halb": {
+  "en": "half",
+  "pos": "adj"
+ },
+ "halten": {
+  "en": "to stop/to hold",
+  "pos": "v"
+ },
+ "hart": {
+  "en": "hard",
+  "pos": "adj"
+ },
+ "heiss": {
+  "en": "hot",
+  "pos": "adj"
+ },
+ "heissen": {
+  "en": "to be called",
+  "pos": "v"
+ },
+ "helfen": {
+  "en": "to help",
+  "pos": "v"
+ },
+ "hell": {
+  "en": "bright",
+  "pos": "adj"
+ },
+ "heraus": {
+  "en": "out",
+  "pos": "adv"
+ },
+ "heute": {
+  "en": "today",
+  "pos": "adv"
+ },
+ "hier": {
+  "en": "here",
+  "pos": "adv"
+ },
+ "hierher": {
+  "en": "over here",
+  "pos": "adv"
+ },
+ "hin": {
+  "en": "there/towards",
+  "pos": "adv"
+ },
+ "hinauf": {
+  "en": "up",
+  "pos": "adv"
+ },
+ "hinein": {
+  "en": "in",
+  "pos": "adv"
+ },
+ "hinlegen": {
+  "en": "to put down",
+  "pos": "v"
+ },
+ "hinsetzen": {
+  "en": "to sit down",
+  "pos": "v"
+ },
+ "hinstellen": {
+  "en": "to put down",
+  "pos": "v"
+ },
+ "hinten": {
+  "en": "at the back",
+  "pos": "adv"
+ },
+ "hinter": {
+  "en": "behind",
+  "pos": "prep"
+ },
+ "hinunter": {
+  "en": "down",
+  "pos": "adv"
+ },
+ "hoch": {
+  "en": "high",
+  "pos": "adj"
+ },
+ "holen": {
+  "en": "to fetch",
+  "pos": "v"
+ },
+ "hundert": {
+  "en": "hundred",
+  "pos": "num"
+ },
+ "hängen": {
+  "en": "to hang",
+  "pos": "v"
+ },
+ "hören": {
+  "en": "to hear",
+  "pos": "v"
+ },
+ "ich": {
+  "en": "I",
+  "pos": "pron"
+ },
+ "ihr": {
+  "en": "her/their",
+  "pos": "pron"
+ },
+ "im": {
+  "en": "in the",
+  "note": "in + dem",
+  "pos": "contr"
+ },
+ "immer": {
+  "en": "always",
+  "pos": "adv"
+ },
+ "in": {
+  "en": "in",
+  "pos": "prep"
+ },
+ "innen": {
+  "en": "inside",
+  "pos": "adv"
+ },
+ "ins": {
+  "en": "into the",
+  "note": "in + das",
+  "pos": "contr"
+ },
+ "irgendwann": {
+  "en": "at some point",
+  "pos": "adv"
+ },
+ "irgendwo": {
+  "en": "somewhere",
+  "pos": "adv"
+ },
+ "ja": {
+  "en": "yes",
+  "pos": "intj"
+ },
+ "jeder": {
+  "en": "each",
+  "pos": "pron"
+ },
+ "jemand": {
+  "en": "somebody",
+  "pos": "pron"
+ },
+ "jetzt": {
+  "en": "now",
+  "pos": "adv"
+ },
+ "jung": {
+  "en": "young",
+  "pos": "adj"
+ },
+ "kalt": {
+  "en": "cold",
+  "pos": "adj"
+ },
+ "kaufen": {
+  "en": "to buy",
+  "pos": "v"
+ },
+ "kaum": {
+  "en": "hardly",
+  "pos": "adv"
+ },
+ "kein": {
+  "en": "no/not a",
+  "pos": "art"
+ },
+ "kennen": {
+  "en": "to know a person or place",
+  "pos": "v"
+ },
+ "klagen": {
+  "en": "to complain",
+  "pos": "v"
+ },
+ "klar": {
+  "en": "clear",
+  "pos": "adj"
+ },
+ "klein": {
+  "en": "small",
+  "pos": "adj"
+ },
+ "komisch": {
+  "en": "odd",
+  "pos": "adj"
+ },
+ "kommen": {
+  "en": "to come",
+  "pos": "v"
+ },
+ "kosten": {
+  "en": "to cost",
+  "pos": "v"
+ },
+ "krumm": {
+  "en": "curved",
+  "pos": "adj"
+ },
+ "kurz": {
+  "en": "short",
+  "pos": "adj"
+ },
+ "können": {
+  "en": "to be able to",
+  "pos": "v"
+ },
+ "kühl": {
+  "en": "cool",
+  "pos": "adj"
+ },
+ "lachen": {
+  "en": "to laugh",
+  "pos": "v"
+ },
+ "landen": {
+  "en": "to land",
+  "pos": "v"
+ },
+ "lang": {
+  "en": "long",
+  "pos": "adj"
+ },
+ "langsam": {
+  "en": "slowly",
+  "pos": "adv"
+ },
+ "laufen": {
+  "en": "to run/to walk",
+  "pos": "v"
+ },
+ "laut": {
+  "en": "loud",
+  "pos": "adj"
+ },
+ "leer": {
+  "en": "empty",
+  "pos": "adj"
+ },
+ "legen": {
+  "en": "to lay/to put",
+  "pos": "v"
+ },
+ "leicht": {
+  "en": "light/easy",
+  "pos": "adj"
+ },
+ "leise": {
+  "en": "quiet",
+  "pos": "adj"
+ },
+ "lernen": {
+  "en": "to learn",
+  "pos": "v"
+ },
+ "lesen": {
+  "en": "to read",
+  "pos": "v"
+ },
+ "letzt": {
+  "en": "last",
+  "pos": "adj"
+ },
+ "liegen": {
+  "en": "to lie/to be lying",
+  "pos": "v"
+ },
+ "links": {
+  "en": "left",
+  "pos": "adv"
+ },
+ "los": {
+  "en": "off/underway",
+  "note": "Ich gehe los means I set off",
+  "pos": "adv"
+ },
+ "lustig": {
+  "en": "funny",
+  "pos": "adj"
+ },
+ "machen": {
+  "en": "to do/to make",
+  "pos": "v"
+ },
+ "man": {
+  "en": "one/you",
+  "pos": "pron"
+ },
+ "manche": {
+  "en": "some",
+  "pos": "pron"
+ },
+ "manchmal": {
+  "en": "sometimes",
+  "pos": "adv"
+ },
+ "mehr": {
+  "en": "more",
+  "pos": "adv"
+ },
+ "mein": {
+  "en": "my",
+  "pos": "pron"
+ },
+ "merci": {
+  "en": "thank you",
+  "note": "Everyday German in Switzerland, not a French word borrowed for the occasion",
+  "pos": "intj"
+ },
+ "merken": {
+  "en": "to notice",
+  "pos": "v"
+ },
+ "mit": {
+  "en": "with",
+  "pos": "prep"
+ },
+ "mitenand": {
+  "en": "all of you",
+  "note": "Grüezi mitenand is what you say to two or more people",
+  "pos": "intj"
+ },
+ "mitkommen": {
+  "en": "to come along",
+  "pos": "v"
+ },
+ "mitten": {
+  "en": "in the middle",
+  "pos": "adv"
+ },
+ "morgen": {
+  "en": "tomorrow",
+  "pos": "adv"
+ },
+ "möchten": {
+  "en": "would like",
+  "note": "The polite want. Ich möchte einen Kaffee",
+  "pos": "v"
+ },
+ "mögen": {
+  "en": "to like",
+  "pos": "v"
+ },
+ "müde": {
+  "en": "tired",
+  "pos": "adj"
+ },
+ "müssen": {
+  "en": "to have to",
+  "pos": "v"
+ },
+ "nach": {
+  "en": "after/to",
+  "pos": "prep"
+ },
+ "nachdenken": {
+  "en": "to think it over",
+  "pos": "v"
+ },
+ "nah": {
+  "en": "close",
+  "pos": "adj"
+ },
+ "nass": {
+  "en": "wet",
+  "pos": "adj"
+ },
+ "natürlich": {
+  "en": "of course",
+  "pos": "adv"
+ },
+ "neben": {
+  "en": "next to",
+  "pos": "prep"
+ },
+ "nebenan": {
+  "en": "next door",
+  "pos": "adv"
+ },
+ "nebeneinander": {
+  "en": "side by side",
+  "pos": "adv"
+ },
+ "nehmen": {
+  "en": "to take",
+  "pos": "v"
+ },
+ "nein": {
+  "en": "no",
+  "pos": "intj"
+ },
+ "neu": {
+  "en": "new",
+  "pos": "adj"
+ },
+ "neun": {
+  "en": "nine",
+  "pos": "num"
+ },
+ "neunzehn": {
+  "en": "nineteen",
+  "pos": "num"
+ },
+ "neunzig": {
+  "en": "ninety",
+  "pos": "num"
+ },
+ "nicht": {
+  "en": "not",
+  "pos": "adv"
+ },
+ "nichts": {
+  "en": "nothing",
+  "pos": "pron"
+ },
+ "nicken": {
+  "en": "to nod",
+  "pos": "v"
+ },
+ "nie": {
+  "en": "never",
+  "pos": "adv"
+ },
+ "niemand": {
+  "en": "nobody",
+  "pos": "pron"
+ },
+ "nirgendwohin": {
+  "en": "nowhere",
+  "pos": "adv"
+ },
+ "noch": {
+  "en": "still/yet",
+  "pos": "adv"
+ },
+ "normal": {
+  "en": "normal",
+  "pos": "adj"
+ },
+ "null": {
+  "en": "zero",
+  "pos": "num"
+ },
+ "nur": {
+  "en": "only",
+  "pos": "adv"
+ },
+ "nächst": {
+  "en": "next",
+  "pos": "adj"
+ },
+ "oben": {
+  "en": "up above",
+  "pos": "adv"
+ },
+ "oder": {
+  "en": "or",
+  "pos": "conj"
+ },
+ "offen": {
+  "en": "open",
+  "pos": "adj"
+ },
+ "oft": {
+  "en": "often",
+  "pos": "adv"
+ },
+ "ohne": {
+  "en": "without",
+  "pos": "prep"
+ },
+ "orange": {
+  "en": "orange",
+  "pos": "adj"
+ },
+ "packen": {
+  "en": "to pack",
+  "pos": "v"
+ },
+ "passen": {
+  "en": "to fit",
+  "pos": "v"
+ },
+ "plötzlich": {
+  "en": "suddenly",
+  "pos": "adv"
+ },
+ "probieren": {
+  "en": "to try",
+  "pos": "v"
+ },
+ "pünktlich": {
+  "en": "on time",
+  "pos": "adj"
+ },
+ "rechts": {
+  "en": "right",
+  "pos": "adv"
+ },
+ "reden": {
+  "en": "to talk",
+  "pos": "v"
+ },
+ "regnen": {
+  "en": "to rain",
+  "pos": "v"
+ },
+ "rennen": {
+  "en": "to run",
+  "pos": "v"
+ },
+ "richtig": {
+  "en": "right",
+  "pos": "adj"
+ },
+ "riechen": {
+  "en": "to smell",
+  "pos": "v"
+ },
+ "rot": {
+  "en": "red",
+  "pos": "adj"
+ },
+ "ruhen": {
+  "en": "to rest",
+  "pos": "v"
+ },
+ "ruhig": {
+  "en": "calm",
+  "pos": "adj"
+ },
+ "rund": {
+  "en": "round",
+  "pos": "adj"
+ },
+ "rühren": {
+  "en": "to stir",
+  "pos": "v"
+ },
+ "sagen": {
+  "en": "to say",
+  "pos": "v"
+ },
+ "sauber": {
+  "en": "clean",
+  "pos": "adj"
+ },
+ "schade": {
+  "en": "a shame",
+  "pos": "adj"
+ },
+ "scharf": {
+  "en": "sharp",
+  "pos": "adj"
+ },
+ "schauen": {
+  "en": "to look",
+  "pos": "v"
+ },
+ "scheinen": {
+  "en": "to shine",
+  "pos": "v"
+ },
+ "schlafen": {
+  "en": "to sleep",
+  "pos": "v"
+ },
+ "schlecht": {
+  "en": "bad",
+  "pos": "adj"
+ },
+ "schliessen": {
+  "en": "to close",
+  "pos": "v"
+ },
+ "schlimm": {
+  "en": "bad/serious",
+  "pos": "adj"
+ },
+ "schmal": {
+  "en": "narrow",
+  "pos": "adj"
+ },
+ "schmecken": {
+  "en": "to taste",
+  "pos": "v"
+ },
+ "schneien": {
+  "en": "to snow",
+  "pos": "v"
+ },
+ "schnell": {
+  "en": "fast",
+  "pos": "adv"
+ },
+ "schon": {
+  "en": "already",
+  "pos": "adv"
+ },
+ "schuld": {
+  "en": "to blame",
+  "pos": "adj"
+ },
+ "schwarz": {
+  "en": "black",
+  "pos": "adj"
+ },
+ "schwer": {
+  "en": "heavy/hard",
+  "pos": "adj"
+ },
+ "schwimmen": {
+  "en": "to swim",
+  "pos": "v"
+ },
+ "schön": {
+  "en": "beautiful",
+  "pos": "adj"
+ },
+ "sechs": {
+  "en": "six",
+  "pos": "num"
+ },
+ "sechzehn": {
+  "en": "sixteen",
+  "pos": "num"
+ },
+ "sechzig": {
+  "en": "sixty",
+  "pos": "num"
+ },
+ "sehen": {
+  "en": "to see",
+  "pos": "v"
+ },
+ "sehr": {
+  "en": "very",
+  "pos": "adv"
+ },
+ "sein": {
+  "en": "to be",
+  "pos": "v"
+ },
+ "seit": {
+  "en": "since",
+  "pos": "prep"
+ },
+ "selber": {
+  "en": "oneself",
+  "pos": "pron"
+ },
+ "selten": {
+  "en": "rarely",
+  "pos": "adv"
+ },
+ "setzen": {
+  "en": "to set/to sit down",
+  "pos": "v"
+ },
+ "sich": {
+  "en": "oneself",
+  "pos": "pron"
+ },
+ "sie": {
+  "en": "she/they",
+  "pos": "pron"
+ },
+ "sieben": {
+  "en": "seven",
+  "pos": "num"
+ },
+ "siebzehn": {
+  "en": "seventeen",
+  "pos": "num"
+ },
+ "siebzig": {
+  "en": "seventy",
+  "pos": "num"
+ },
+ "silbern": {
+  "en": "silver",
+  "pos": "adj"
+ },
+ "sitzen": {
+  "en": "to sit",
+  "pos": "v"
+ },
+ "so": {
+  "en": "so/like that",
+  "pos": "adv"
+ },
+ "sofort": {
+  "en": "at once",
+  "pos": "adv"
+ },
+ "sogar": {
+  "en": "even",
+  "pos": "adv"
+ },
+ "sollen": {
+  "en": "to be supposed to",
+  "pos": "v"
+ },
+ "sonst": {
+  "en": "otherwise",
+  "pos": "adv"
+ },
+ "spazieren": {
+  "en": "to stroll",
+  "pos": "v"
+ },
+ "springen": {
+  "en": "to jump",
+  "pos": "v"
+ },
+ "spät": {
+  "en": "late",
+  "pos": "adv"
+ },
+ "später": {
+  "en": "later",
+  "pos": "adv"
+ },
+ "stark": {
+  "en": "strong",
+  "pos": "adj"
+ },
+ "stehen": {
+  "en": "to stand",
+  "pos": "v"
+ },
+ "steigen": {
+  "en": "to climb",
+  "pos": "v"
+ },
+ "steil": {
+  "en": "steep",
+  "pos": "adj"
+ },
+ "stellen": {
+  "en": "to put upright",
+  "pos": "v"
+ },
+ "still": {
+  "en": "quiet/still",
+  "pos": "adj"
+ },
+ "suchen": {
+  "en": "to look for",
+  "pos": "v"
+ },
+ "süss": {
+  "en": "sweet",
+  "pos": "adj"
+ },
+ "tauchen": {
+  "en": "to dive",
+  "pos": "v"
+ },
+ "tausend": {
+  "en": "thousand",
+  "pos": "num"
+ },
+ "teuer": {
+  "en": "expensive",
+  "pos": "adj"
+ },
+ "tief": {
+  "en": "deep/low",
+  "pos": "adj"
+ },
+ "tippen": {
+  "en": "to type",
+  "pos": "v"
+ },
+ "tiptop": {
+  "en": "great",
+  "note": "The everyday answer to Wie gaht’s. Spelled tiptop here, not tipptopp",
+  "pos": "intj"
+ },
+ "treffen": {
+  "en": "to meet",
+  "pos": "v"
+ },
+ "trinken": {
+  "en": "to drink",
+  "pos": "v"
+ },
+ "trocken": {
+  "en": "dry",
+  "pos": "adj"
+ },
+ "trotzdem": {
+  "en": "all the same",
+  "pos": "adv"
+ },
+ "tun": {
+  "en": "to do",
+  "pos": "v"
+ },
+ "um": {
+  "en": "at/around",
+  "pos": "prep"
+ },
+ "umsonst": {
+  "en": "for nothing",
+  "pos": "adv"
+ },
+ "und": {
+  "en": "and",
+  "pos": "conj"
+ },
+ "unten": {
+  "en": "down below",
+  "pos": "adv"
+ },
+ "unter": {
+  "en": "under",
+  "pos": "prep"
+ },
+ "vergessen": {
+  "en": "to forget",
+  "pos": "v"
+ },
+ "verkaufen": {
+  "en": "to sell",
+  "pos": "v"
+ },
+ "verstehen": {
+  "en": "to understand",
+  "pos": "v"
+ },
+ "viel": {
+  "en": "much",
+  "pos": "pron"
+ },
+ "viele": {
+  "en": "many",
+  "pos": "pron"
+ },
+ "vielleicht": {
+  "en": "perhaps",
+  "pos": "adv"
+ },
+ "vielmal": {
+  "en": "very much",
+  "note": "Only in merci vielmal, which is the everyday thank you here",
+  "pos": "adv"
+ },
+ "vier": {
+  "en": "four",
+  "pos": "num"
+ },
+ "viermal": {
+  "en": "four times",
+  "pos": "adv"
+ },
+ "vierzehn": {
+  "en": "fourteen",
+  "pos": "num"
+ },
+ "vierzig": {
+  "en": "forty",
+  "pos": "num"
+ },
+ "voll": {
+  "en": "full",
+  "pos": "adj"
+ },
+ "vom": {
+  "en": "from the",
+  "note": "von + dem",
+  "pos": "contr"
+ },
+ "von": {
+  "en": "from/of",
+  "pos": "prep"
+ },
+ "vor": {
+  "en": "in front of/before",
+  "pos": "prep"
+ },
+ "vorbei": {
+  "en": "past/over",
+  "pos": "adv"
+ },
+ "vorbeigehen": {
+  "en": "to walk past",
+  "pos": "v"
+ },
+ "vorbeikommen": {
+  "en": "to come past",
+  "pos": "v"
+ },
+ "vorher": {
+  "en": "beforehand",
+  "pos": "adv"
+ },
+ "vorne": {
+  "en": "at the front",
+  "pos": "adv"
+ },
+ "vorstellen": {
+  "en": "to imagine/to introduce",
+  "pos": "v"
+ },
+ "wann": {
+  "en": "when",
+  "pos": "conj"
+ },
+ "warm": {
+  "en": "warm",
+  "pos": "adj"
+ },
+ "warten": {
+  "en": "to wait",
+  "pos": "v"
+ },
+ "warum": {
+  "en": "why",
+  "pos": "conj"
+ },
+ "was": {
+  "en": "what",
+  "pos": "pron"
+ },
+ "weg": {
+  "en": "gone/away",
+  "pos": "adv"
+ },
+ "weh": {
+  "en": "sore",
+  "note": "Only really in weh tun, to hurt",
+  "pos": "adj"
+ },
+ "wehtun": {
+  "en": "to hurt",
+  "pos": "v"
+ },
+ "weich": {
+  "en": "soft",
+  "pos": "adj"
+ },
+ "weiss": {
+  "en": "white",
+  "pos": "adj"
+ },
+ "weit": {
+  "en": "far",
+  "pos": "adj"
+ },
+ "weiter": {
+  "en": "further/on",
+  "pos": "adv"
+ },
+ "weitergehen": {
+  "en": "to walk on",
+  "pos": "v"
+ },
+ "wenig": {
+  "en": "little",
+  "pos": "pron"
+ },
+ "weniger": {
+  "en": "less",
+  "pos": "adv"
+ },
+ "wenn": {
+  "en": "if/when",
+  "pos": "conj"
+ },
+ "wer": {
+  "en": "who",
+  "pos": "pron"
+ },
+ "werden": {
+  "en": "to become",
+  "pos": "v"
+ },
+ "wichtig": {
+  "en": "important",
+  "pos": "adj"
+ },
+ "wie": {
+  "en": "how/like",
+  "pos": "conj"
+ },
+ "wieder": {
+  "en": "again",
+  "pos": "adv"
+ },
+ "wieso": {
+  "en": "why",
+  "pos": "adv"
+ },
+ "wild": {
+  "en": "wild",
+  "pos": "adj"
+ },
+ "wir": {
+  "en": "we",
+  "pos": "pron"
+ },
+ "wirklich": {
+  "en": "really",
+  "pos": "adv"
+ },
+ "wissen": {
+  "en": "to know a fact",
+  "pos": "v"
+ },
+ "wo": {
+  "en": "where",
+  "pos": "conj"
+ },
+ "woher": {
+  "en": "where from",
+  "pos": "conj"
+ },
+ "wohin": {
+  "en": "where to",
+  "pos": "conj"
+ },
+ "wohnen": {
+  "en": "to live",
+  "pos": "v"
+ },
+ "wollen": {
+  "en": "to want",
+  "pos": "v"
+ },
+ "zahlen": {
+  "en": "to pay",
+  "pos": "v"
+ },
+ "zehn": {
+  "en": "ten",
+  "pos": "num"
+ },
+ "zehnmal": {
+  "en": "ten times",
+  "pos": "adv"
+ },
+ "zeigen": {
+  "en": "to point/to show",
+  "pos": "v"
+ },
+ "ziehen": {
+  "en": "to pull",
+  "pos": "v"
+ },
+ "ziemlich": {
+  "en": "fairly",
+  "pos": "adv"
+ },
+ "zu": {
+  "en": "to/shut",
+  "pos": "prep"
+ },
+ "zuerst": {
+  "en": "first of all",
+  "pos": "adv"
+ },
+ "zugleich": {
+  "en": "at the same time",
+  "pos": "adv"
+ },
+ "zuhören": {
+  "en": "to listen",
+  "pos": "v"
+ },
+ "zum": {
+  "en": "to the",
+  "note": "zu + dem",
+  "pos": "contr"
+ },
+ "zur": {
+  "en": "to the",
+  "note": "zu + der",
+  "pos": "contr"
+ },
+ "zurück": {
+  "en": "back",
+  "pos": "adv"
+ },
+ "zurückgeben": {
+  "en": "to give back",
+  "pos": "v"
+ },
+ "zurückgehen": {
+  "en": "to go back",
+  "pos": "v"
+ },
+ "zurückstellen": {
+  "en": "to put back",
+  "pos": "v"
+ },
+ "zusammen": {
+  "en": "together",
+  "pos": "adv"
+ },
+ "zwanzig": {
+  "en": "twenty",
+  "pos": "num"
+ },
+ "zwei": {
+  "en": "two",
+  "pos": "num"
+ },
+ "zweit": {
+  "en": "second",
+  "pos": "adj"
+ },
+ "zwischen": {
+  "en": "between",
+  "pos": "prep"
+ },
+ "zwölf": {
+  "en": "twelve",
+  "pos": "num"
+ },
+ "zählen": {
+  "en": "to count",
+  "pos": "v"
+ },
+ "öffnen": {
+  "en": "to open",
+  "pos": "v"
+ },
+ "über": {
+  "en": "over/above",
+  "pos": "prep"
+ },
+ "überall": {
+  "en": "everywhere",
+  "pos": "adv"
+ },
+ "überhaupt": {
+  "en": "at all",
+  "pos": "adv"
+ }
+}

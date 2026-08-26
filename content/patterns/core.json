@@ -1,0 +1,140 @@
+[
+ {
+  "id": "gruezi",
+  "title": "Grüezi — the word you cannot skip",
+  "min": 3,
+  "trigger": [
+   "Grüezi",
+   "merci",
+   "danke",
+   "bitte",
+   "Ade",
+   "sagen"
+  ],
+  "text": "You greet BEFORE anything else. Walking into a shop and saying what you want, with no Grüezi in front of it, is what badly brought up people do.\n\n• **Grüezi** to one person you do not know\n• **Grüezi mitenand** to two or more\n• **Hoi** or **Sali** to a friend, never to a stranger\n• **Ade** on the way out\n\nAnd you greet people you will never speak to again. The lift, the waiting room, a narrow pavement. Not saying it is noticed, and nobody will ever mention it.\n\n**merci** is ordinary German here, not a French word borrowed for the occasion. Danke is correct and you will hear it far less."
+ },
+ {
+  "id": "der_die_das",
+  "title": "Der, die, das — three words for \"the\"",
+  "min": 4,
+  "trigger": [
+   "der",
+   "die",
+   "das",
+   "Mann",
+   "Frau",
+   "Haus",
+   "Wasser",
+   "Zug"
+  ],
+  "text": "Every German noun carries a gender, and it is not about the thing.\n\n• **der** Mann, **der** Zug, **der** See, **der** Berg\n• **die** Frau, **die** Strasse, **die** Uhr, **die** Nacht\n• **das** Haus, **das** Wasser, **das** Brot, **das** Kind\n\nDas Mädchen is neuter. There is no logic to find, so do not look for one.\n\n**Learn the article welded to the word.** Not \"Zug, masculine\" but \"der Zug\", one lump, the way you learned your own first words. Every entry in this course states it, and it costs nothing now and everything later."
+ },
+ {
+  "id": "verb_zweit",
+  "title": "The verb comes second. Always second.",
+  "min": 4,
+  "trigger": [
+   "gehen",
+   "kommen",
+   "sagen",
+   "jetzt",
+   "dann",
+   "heute",
+   "hier"
+  ],
+  "text": "German will move almost anything to the front of a sentence, and the verb stays in second place regardless. Whatever got moved, the subject goes behind the verb to make room.\n\n• Ich **gehe** heute in die Stadt.\n• Heute **gehe** ich in die Stadt.\n• In die Stadt **gehe** ich heute.\n\nAll three are correct and they emphasise different things. What is never correct is *Heute ich gehe*, which is the one an English speaker reaches for first.\n\nSecond **position**, not second word. \"Der alte Mann\" is one position."
+ },
+ {
+  "id": "trennbar",
+  "title": "Verbs that come apart",
+  "min": 3,
+  "trigger": [
+   "ankommen",
+   "aussteigen",
+   "einsteigen",
+   "aufstehen",
+   "anschauen",
+   "mitkommen"
+  ],
+  "text": "Some verbs have a front half that detaches and goes to the end of the sentence. You have been reading it happen for sixteen stories.\n\n• ankommen → Der Zug **kommt** in Luzern **an**.\n• aussteigen → Ich **steige** langsam **aus**.\n• mitkommen → **Kommen** Sie **mit**.\n\nThe longer the sentence, the further apart they get, and the meaning is not finished until that last word lands. This is why Germans seem to be waiting for the end of your sentence. They are.\n\nYou do not have to learn a list. You have to notice the stray little word at the end and put it back on the front."
+ },
+ {
+  "id": "kein_nicht",
+  "title": "kein or nicht",
+  "min": 3,
+  "trigger": [
+   "kein",
+   "nicht",
+   "nichts",
+   "haben",
+   "sein"
+  ],
+  "text": "Two ways to say no, and they are not interchangeable.\n\n**kein** cancels a noun. It replaces ein.\n• Ich habe **keinen** Schirm.\n• Es gibt **kein** Brot mehr.\n\n**nicht** cancels everything else — a verb, an adjective, a whole sentence.\n• Ich verstehe **nicht**.\n• Der Laden ist **nicht** offen.\n\nThe test: if the thing you are cancelling could have had *ein* in front of it, use kein."
+ },
+ {
+  "id": "sie_und_du",
+  "title": "Sie and du",
+  "min": 3,
+  "trigger": [
+   "du",
+   "fragen",
+   "sagen",
+   "kommen"
+  ],
+  "text": "Two ways of saying \"you\", and picking wrong is louder than a grammar mistake.\n\n**Sie** — a stranger, anybody older, a shopkeeper, an official. Capital S, always. *Kommen Sie mit. Wo wohnen Sie?*\n\n**du** — friends, people your own age once you know them, children, family. *Kommst du mit? Wo wohnst du?*\n\nYou start with Sie and you wait. The other person offers du when they are ready, and in Switzerland that can take a while — being offered it is a small event, not a formality.\n\nBeing too formal costs nothing. Being too familiar with somebody who is seventy costs a surprising amount."
+ },
+ {
+  "id": "preise",
+  "title": "Franken, Rappen and the .95",
+  "min": 4,
+  "trigger": [
+   "Franken",
+   "Rappen",
+   "kosten",
+   "Preis",
+   "bezahlen",
+   "Geld"
+  ],
+  "text": "One franc is a hundred Rappen, and nothing smaller than five Rappen exists any more.\n\n• **4.50** is said *vier Franken fünfzig*, or just *vier fünfzig*\n• **3.95** is *drei Franken fünfundneunzig*\n\nPrices ending .95 are everywhere and they are doing the same job as .99 anywhere else.\n\nCash still works everywhere and nobody thinks twice about it. What does get noticed is handing over a fifty for a four-franc coffee. Break your notes when you get the chance."
+ },
+ {
+  "id": "uhrzeit",
+  "title": "halb acht is half past SEVEN",
+  "min": 4,
+  "trigger": [
+   "Uhr",
+   "halb",
+   "Viertel",
+   "Zeit",
+   "früh",
+   "spät"
+  ],
+  "text": "The one that catches every English speaker, and it catches them at a station.\n\nGerman counts **towards** the coming hour, not away from the one just gone.\n\n• **halb acht** = 7:30, half way to eight\n• **Viertel vor acht** = 7:45\n• **Viertel nach acht** = 8:15\n\nA timetable will say *acht Uhr dreissig* and be perfectly clear. A person will say *halb acht* and mean the same moment.\n\n**Punkt acht** means eight exactly, and here that is not a figure of speech."
+ },
+ {
+  "id": "helvetismen",
+  "title": "The Swiss word, not the German one",
+  "min": 3,
+  "trigger": [
+   "Billett",
+   "Perron",
+   "Gipfeli",
+   "Weggli",
+   "Sack"
+  ],
+  "text": "Some everyday things simply have a different name here, and using the German German one marks you out faster than an accent does.\n\n• **Billett**, not Fahrkarte\n• **Perron**, not Bahnsteig\n• **Gipfeli**, not Hörnchen\n• **Weggli**, not Brötchen\n• **Sack**, not Tüte\n• **Spital**, not Krankenhaus\n• **Velo**, not Fahrrad\n\nA lot of them came in through French, which is why so many look like it. They are not slang and they are not dialect. They are what the newspaper prints.\n\nAnd there is no **ß** in Switzerland at all. Strasse, gross, heisst. Ever."
+ },
+ {
+  "id": "komposita",
+  "title": "Long words are short words stuck together",
+  "min": 3,
+  "trigger": [
+   "Bahnhof",
+   "Flughafen",
+   "Fahrplan",
+   "Trinkwasser",
+   "Rolltreppe"
+  ],
+  "text": "German glues nouns end to end and calls the result one word. This looks like the hardest thing about the language and it is one of the easiest.\n\n• Bahn + Hof = **Bahnhof**, the train yard\n• Flug + Hafen = **Flughafen**, the flight harbour\n• Fahr + Plan = **Fahrplan**, the going plan\n• Trink + Wasser = **Trinkwasser**\n\n**The last piece is the word.** A Fahrplan is a plan. A Rolltreppe is a staircase. Everything in front of it is a description.\n\nSo you never have to be taught Vierwaldstättersee. Four, forest places, lake. It is a lake."
+ }
+]

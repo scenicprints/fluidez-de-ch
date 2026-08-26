@@ -1,0 +1,415 @@
+{
+ "id": "p0-13",
+ "title": "Punkt acht",
+ "desc": "Time, said exactly",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Punkt",
+  "Entschuldigung",
+  "Viertel",
+  "beginnen",
+  "Termin",
+  "spät",
+  "halb",
+  "Zeit",
+  "früh",
+  "genau",
+  "Uhr",
+  "Minute"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe einen Termin.",
+   "e": "I have an appointment."
+  },
+  {
+   "s": "Der Termin ist um acht Uhr.",
+   "e": "The appointment is at eight o'clock."
+  },
+  {
+   "s": "Ein Termin ist hier ein Versprechen.",
+   "e": "An appointment here is a promise."
+  },
+  {
+   "s": "Punkt acht Uhr.",
+   "e": "Eight o'clock sharp."
+  },
+  {
+   "s": "Punkt heisst: genau dann.",
+   "e": "Sharp means: exactly then."
+  },
+  {
+   "s": "Nicht früher und nicht später.",
+   "e": "Not earlier and not later."
+  },
+  {
+   "s": "Ich schaue auf die Uhr.",
+   "e": "I look at the clock."
+  },
+  {
+   "s": "Es ist halb acht.",
+   "e": "It is half past seven."
+  },
+  {
+   "s": "Halb acht heisst: dreissig Minuten vor acht.",
+   "e": "Halb acht means: thirty minutes before eight."
+  },
+  {
+   "s": "Das ist am Anfang schwer.",
+   "e": "That is hard at the start."
+  },
+  {
+   "s": "Halb acht ist nicht acht Uhr dreissig.",
+   "e": "Halb acht is not eight thirty."
+  },
+  {
+   "s": "Halb acht ist sieben Uhr dreissig.",
+   "e": "Halb acht is seven thirty."
+  },
+  {
+   "s": "Man zählt zur nächsten Stunde hin.",
+   "e": "You count towards the next hour."
+  },
+  {
+   "s": "Viertel vor acht ist sieben Uhr fünfundvierzig.",
+   "e": "Quarter to eight is seven forty-five."
+  },
+  {
+   "s": "Viertel nach acht ist acht Uhr fünfzehn.",
+   "e": "Quarter past eight is eight fifteen."
+  },
+  {
+   "s": "Ein Viertel ist fünfzehn Minuten.",
+   "e": "A quarter is fifteen minutes."
+  },
+  {
+   "s": "Eine halbe Stunde ist dreissig Minuten.",
+   "e": "Half an hour is thirty minutes."
+  },
+  {
+   "s": "Ich habe noch Zeit.",
+   "e": "I still have time."
+  },
+  {
+   "s": "Ich habe eine halbe Stunde Zeit.",
+   "e": "I have half an hour."
+  },
+  {
+   "s": "Das ist genug Zeit.",
+   "e": "That is enough time."
+  },
+  {
+   "s": "Ich trinke noch einen Kaffee.",
+   "e": "I have another coffee."
+  },
+  {
+   "s": "Der Kaffee ist heiss und ich trinke langsam.",
+   "e": "The coffee is hot and I drink slowly."
+  },
+  {
+   "s": "Ich schaue nicht auf die Uhr.",
+   "e": "I do not look at the clock."
+  },
+  {
+   "s": "Das ist ein Fehler.",
+   "e": "That is a mistake."
+  },
+  {
+   "s": "Dann schaue ich doch.",
+   "e": "Then I do look."
+  },
+  {
+   "s": "Es ist Viertel vor acht.",
+   "e": "It is quarter to eight."
+  },
+  {
+   "s": "Ich bin noch nicht spät.",
+   "e": "I am not late yet."
+  },
+  {
+   "s": "Spät ist hier wirklich spät.",
+   "e": "Late here really means late."
+  },
+  {
+   "s": "Aber ich bin auch nicht früh.",
+   "e": "But I am not early either."
+  },
+  {
+   "s": "Ich stehe auf und gehe.",
+   "e": "I stand up and go."
+  },
+  {
+   "s": "Der Weg dauert zehn Minuten.",
+   "e": "The walk takes ten minutes."
+  },
+  {
+   "s": "Ich brauche zwölf.",
+   "e": "I need twelve."
+  },
+  {
+   "s": "Ich finde die Strasse nicht sofort.",
+   "e": "I do not find the street right away."
+  },
+  {
+   "s": "Dann finde ich sie doch.",
+   "e": "Then I do find it."
+  },
+  {
+   "s": "Ich komme um vier nach acht an.",
+   "e": "I arrive at four past eight."
+  },
+  {
+   "s": "Vier Minuten zu spät.",
+   "e": "Four minutes late."
+  },
+  {
+   "s": "Nur vier Minuten.",
+   "e": "Only four minutes."
+  },
+  {
+   "s": "Zu Hause ist das nichts.",
+   "e": "At home that is nothing."
+  },
+  {
+   "s": "Hier ist es etwas.",
+   "e": "Here it is something."
+  },
+  {
+   "s": "Alle anderen sind schon da.",
+   "e": "Everybody else is already there."
+  },
+  {
+   "s": "Alle kommen vor acht.",
+   "e": "They all come before eight."
+  },
+  {
+   "s": "Sie sitzen und warten.",
+   "e": "They are sitting and waiting."
+  },
+  {
+   "s": "Es beginnt Punkt acht.",
+   "e": "It starts at eight sharp."
+  },
+  {
+   "s": "Es beginnt nicht um fünf nach acht.",
+   "e": "It does not begin at five past eight."
+  },
+  {
+   "s": "Es beginnt wirklich Punkt acht.",
+   "e": "It really does start at eight sharp."
+  },
+  {
+   "s": "Nur ich komme zu spät.",
+   "e": "Only I am late."
+  },
+  {
+   "s": "Ich sage Entschuldigung.",
+   "e": "I say sorry."
+  },
+  {
+   "s": "Entschuldigung, sage ich noch einmal.",
+   "e": "Sorry, I say again."
+  },
+  {
+   "s": "Eine Entschuldigung kostet nichts.",
+   "e": "An apology costs nothing."
+  },
+  {
+   "s": "Entschuldigung ist ein wichtiges Wort.",
+   "e": "Entschuldigung is an important word."
+  },
+  {
+   "s": "Entschuldigung höre ich hier oft.",
+   "e": "I hear Entschuldigung a lot here."
+  },
+  {
+   "s": "Ein Mann nickt.",
+   "e": "A man nods."
+  },
+  {
+   "s": "Niemand sagt etwas dazu.",
+   "e": "Nobody says anything about it."
+  },
+  {
+   "s": "Aber alle merken es.",
+   "e": "But everybody notices."
+  },
+  {
+   "s": "Und ich merke das auch.",
+   "e": "And I notice it too."
+  },
+  {
+   "s": "Vier Minuten sind hier vier Minuten.",
+   "e": "Four minutes here are four minutes."
+  },
+  {
+   "s": "Die Zeit ist genau.",
+   "e": "Time is exact."
+  },
+  {
+   "s": "Sie ist überall genau.",
+   "e": "It is exact everywhere."
+  },
+  {
+   "s": "Der Zug fährt um zehn Uhr zwölf.",
+   "e": "The train leaves at ten twelve."
+  },
+  {
+   "s": "Nicht um zehn Uhr dreizehn.",
+   "e": "Not at ten thirteen."
+  },
+  {
+   "s": "Der Bus kommt um sieben Uhr vier.",
+   "e": "The bus comes at four past seven."
+  },
+  {
+   "s": "Und er kommt um sieben Uhr vier.",
+   "e": "And it comes at four past seven."
+  },
+  {
+   "s": "Der Laden macht um halb sieben auf.",
+   "e": "The shop opens at half past six."
+  },
+  {
+   "s": "Genau um halb sieben.",
+   "e": "Exactly at half past six."
+  },
+  {
+   "s": "Das ist kein Spruch über die Schweiz.",
+   "e": "That is not a saying about Switzerland."
+  },
+  {
+   "s": "Das ist einfach der Fahrplan.",
+   "e": "That is simply the timetable."
+  },
+  {
+   "s": "Alle halten ihn.",
+   "e": "Everybody keeps to it."
+  },
+  {
+   "s": "Darum ist der Fahrplan ein Versprechen.",
+   "e": "That is why the timetable is a promise."
+  },
+  {
+   "s": "Am nächsten Tag habe ich wieder einen Termin.",
+   "e": "The next day I have an appointment again."
+  },
+  {
+   "s": "Der Termin ist um zwei Uhr.",
+   "e": "The appointment is at two o'clock."
+  },
+  {
+   "s": "Diesmal gehe ich früh los.",
+   "e": "This time I set off early."
+  },
+  {
+   "s": "Ich bin um Viertel vor zwei da.",
+   "e": "I am there at quarter to two."
+  },
+  {
+   "s": "Fünfzehn Minuten zu früh.",
+   "e": "Fifteen minutes early."
+  },
+  {
+   "s": "Zu früh ist auch komisch.",
+   "e": "Too early is odd as well."
+  },
+  {
+   "s": "Ich warte draussen.",
+   "e": "I wait outside."
+  },
+  {
+   "s": "Ich gehe um die Ecke und wieder zurück.",
+   "e": "I walk round the corner and back again."
+  },
+  {
+   "s": "Um fünf vor zwei gehe ich hinein.",
+   "e": "At five to two I go in."
+  },
+  {
+   "s": "Fünf Minuten früher ist genau richtig.",
+   "e": "Five minutes early is exactly right."
+  },
+  {
+   "s": "Nicht zwanzig und nicht null.",
+   "e": "Not twenty and not zero."
+  },
+  {
+   "s": "Es beginnt Punkt zwei.",
+   "e": "It starts at two sharp."
+  },
+  {
+   "s": "Alles beginnt genau dann, wenn es das sagt.",
+   "e": "Everything begins exactly when it says it will."
+  },
+  {
+   "s": "Diesmal bin ich kein Thema.",
+   "e": "This time I am not a topic."
+  },
+  {
+   "s": "Niemand schaut mich an.",
+   "e": "Nobody looks at me."
+  },
+  {
+   "s": "Das ist ein gutes Gefühl.",
+   "e": "That is a good feeling."
+  },
+  {
+   "s": "Am Abend stelle ich meine Uhr genau.",
+   "e": "In the evening I set my watch exactly."
+  },
+  {
+   "s": "Ich stelle sie nach dem Bahnhof.",
+   "e": "I set it by the station clock."
+  },
+  {
+   "s": "Die Uhr am Bahnhof ist gross und weiss.",
+   "e": "The clock at the station is big and white."
+  },
+  {
+   "s": "Sie hat einen roten Zeiger.",
+   "e": "It has a red hand."
+  },
+  {
+   "s": "Der rote Zeiger geht rund und hält kurz an.",
+   "e": "The red hand goes round and pauses briefly."
+  },
+  {
+   "s": "Dann springt die Minute.",
+   "e": "Then the minute jumps."
+  },
+  {
+   "s": "Diese Uhr hängt in jedem Bahnhof.",
+   "e": "That clock hangs in every station."
+  },
+  {
+   "s": "Überall die gleiche Uhr.",
+   "e": "The same clock everywhere."
+  },
+  {
+   "s": "Überall die gleiche Zeit.",
+   "e": "The same time everywhere."
+  },
+  {
+   "s": "Ich schaue oft auf die Uhr.",
+   "e": "I look at the clock a lot."
+  },
+  {
+   "s": "Bald schaue ich weniger.",
+   "e": "Soon I will look less."
+  },
+  {
+   "s": "Bald weiss ich, wie spät es ist.",
+   "e": "Soon I will know what time it is."
+  },
+  {
+   "s": "Und ich bin einfach da.",
+   "e": "And I will simply be there."
+  },
+  {
+   "s": "Punkt acht.",
+   "e": "Eight o'clock sharp."
+  }
+ ]
+}

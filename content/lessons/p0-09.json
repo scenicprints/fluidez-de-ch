@@ -1,0 +1,407 @@
+{
+ "id": "p0-09",
+ "title": "Das Wasser ist gratis",
+ "desc": "You can drink from the fountains",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "laufen",
+  "Durst",
+  "Brunnen",
+  "Flasche",
+  "gratis",
+  "voll",
+  "trinken",
+  "sauber",
+  "Wasser",
+  "Hand",
+  "können",
+  "kalt"
+ ],
+ "sn": [
+  {
+   "s": "Es ist warm und ich habe Durst.",
+   "e": "It is warm and I am thirsty."
+  },
+  {
+   "s": "Ich habe grossen Durst.",
+   "e": "I am very thirsty."
+  },
+  {
+   "s": "Ich möchte Wasser.",
+   "e": "I would like water."
+  },
+  {
+   "s": "Ich gehe in einen Laden.",
+   "e": "I go into a shop."
+  },
+  {
+   "s": "Ich kaufe eine Flasche Wasser.",
+   "e": "I buy a bottle of water."
+  },
+  {
+   "s": "Die Flasche kostet zwei Franken.",
+   "e": "The bottle costs two francs."
+  },
+  {
+   "s": "Zwei Franken für Wasser.",
+   "e": "Two francs for water."
+  },
+  {
+   "s": "Ich trinke die halbe Flasche sofort.",
+   "e": "I drink half the bottle straight away."
+  },
+  {
+   "s": "Draussen setze ich mich hin.",
+   "e": "Outside I sit down."
+  },
+  {
+   "s": "Neben mir sitzt eine alte Frau.",
+   "e": "An old woman is sitting next to me."
+  },
+  {
+   "s": "Sie sagt Grüezi.",
+   "e": "She says Grüezi."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Sie schaut auf meine Flasche.",
+   "e": "She looks at my bottle."
+  },
+  {
+   "s": "Sie fragt: kaufen Sie das Wasser?",
+   "e": "She asks: do you buy your water?"
+  },
+  {
+   "s": "Ja, sage ich.",
+   "e": "Yes, I say."
+  },
+  {
+   "s": "Sie zeigt auf den Platz.",
+   "e": "She points at the square."
+  },
+  {
+   "s": "Dort steht ein Brunnen.",
+   "e": "There is a fountain over there."
+  },
+  {
+   "s": "Der Brunnen ist aus Stein.",
+   "e": "The fountain is made of stone."
+  },
+  {
+   "s": "Aus dem Brunnen läuft Wasser.",
+   "e": "Water runs out of the fountain."
+  },
+  {
+   "s": "Das Wasser läuft immer.",
+   "e": "The water runs all the time."
+  },
+  {
+   "s": "Tag und Nacht läuft es.",
+   "e": "It runs day and night."
+  },
+  {
+   "s": "Das Wasser ist gratis, sagt sie.",
+   "e": "The water is free, she says."
+  },
+  {
+   "s": "Gratis ist hier nicht viel.",
+   "e": "Not much is free here."
+  },
+  {
+   "s": "Gratis heisst: es kostet nichts.",
+   "e": "Free means: it costs nothing."
+  },
+  {
+   "s": "Sie sagt es freundlich.",
+   "e": "She says it kindly."
+  },
+  {
+   "s": "Sie lacht mich nicht aus.",
+   "e": "She is not laughing at me."
+  },
+  {
+   "s": "Sie sagt es, denn ich weiss es nicht.",
+   "e": "She says it, because I do not know."
+  },
+  {
+   "s": "Kann man das trinken?, frage ich.",
+   "e": "Can you drink that?, I ask."
+  },
+  {
+   "s": "Sie sagt: ja, natürlich.",
+   "e": "She says: yes, of course."
+  },
+  {
+   "s": "Man kann fast überall trinken.",
+   "e": "You can drink almost anywhere."
+  },
+  {
+   "s": "Fast jeder Brunnen ist Trinkwasser.",
+   "e": "Almost every fountain is drinking water."
+  },
+  {
+   "s": "Wenn nicht, dann steht es dran.",
+   "e": "If not, there is a sign on it."
+  },
+  {
+   "s": "Dann steht da: kein Trinkwasser.",
+   "e": "Then it says: not drinking water."
+  },
+  {
+   "s": "Sonst kann man trinken.",
+   "e": "Otherwise you can drink."
+  },
+  {
+   "s": "Ich stehe auf und gehe zum Brunnen.",
+   "e": "I stand up and go to the fountain."
+  },
+  {
+   "s": "Der Brunnen ist alt.",
+   "e": "The fountain is old."
+  },
+  {
+   "s": "Das Wasser ist kalt.",
+   "e": "The water is cold."
+  },
+  {
+   "s": "Es ist sehr kalt.",
+   "e": "It is very cold."
+  },
+  {
+   "s": "Ich halte die Hand darunter.",
+   "e": "I hold my hand under it."
+  },
+  {
+   "s": "Das Wasser läuft mir über die Hand.",
+   "e": "The water runs over my hand."
+  },
+  {
+   "s": "Meine Hand wird sofort kalt.",
+   "e": "My hand goes cold at once."
+  },
+  {
+   "s": "Ich trinke aus der Hand.",
+   "e": "I drink out of my hand."
+  },
+  {
+   "s": "Aus der Hand schmeckt es am besten.",
+   "e": "Out of your hand it tastes best."
+  },
+  {
+   "s": "Das Wasser ist sauber.",
+   "e": "The water is clean."
+  },
+  {
+   "s": "Es ist sehr sauber.",
+   "e": "It is very clean."
+  },
+  {
+   "s": "Es schmeckt sauber.",
+   "e": "It tastes clean."
+  },
+  {
+   "s": "Es schmeckt nach nichts.",
+   "e": "It tastes of nothing."
+  },
+  {
+   "s": "So soll Wasser schmecken.",
+   "e": "That is how water should taste."
+  },
+  {
+   "s": "Ich trinke noch einmal.",
+   "e": "I drink again."
+  },
+  {
+   "s": "Ich trinke viel.",
+   "e": "I drink a lot."
+  },
+  {
+   "s": "Mein Durst ist weg.",
+   "e": "My thirst is gone."
+  },
+  {
+   "s": "Ich mache meine Flasche voll.",
+   "e": "I fill my bottle up."
+  },
+  {
+   "s": "Die Flasche ist schnell voll.",
+   "e": "The bottle is full quickly."
+  },
+  {
+   "s": "Jetzt ist sie ganz voll.",
+   "e": "Now it is completely full."
+  },
+  {
+   "s": "Die Flasche kostet zwei Franken.",
+   "e": "The bottle costs two francs."
+  },
+  {
+   "s": "Das Wasser darin ist gratis.",
+   "e": "The water in it is free."
+  },
+  {
+   "s": "Ich gehe zurück zur Frau.",
+   "e": "I go back to the woman."
+  },
+  {
+   "s": "Merci vielmal, sage ich.",
+   "e": "Merci vielmal, I say."
+  },
+  {
+   "s": "Sie sagt: das macht jeder am Anfang.",
+   "e": "She says: everybody does that at the start."
+  },
+  {
+   "s": "Dann sagt sie Ade und geht.",
+   "e": "Then she says Ade and leaves."
+  },
+  {
+   "s": "In der Stadt sind viele Brunnen.",
+   "e": "There are a lot of fountains in the town."
+  },
+  {
+   "s": "Jetzt sehe ich sie überall.",
+   "e": "Now I see them everywhere."
+  },
+  {
+   "s": "Am ersten Tag sehe ich sie nicht.",
+   "e": "On the first day I do not see them."
+  },
+  {
+   "s": "Ein Brunnen an der Ecke.",
+   "e": "A fountain on the corner."
+  },
+  {
+   "s": "Ein Brunnen vor der Kirche.",
+   "e": "A fountain in front of the church."
+  },
+  {
+   "s": "Ein Brunnen mitten auf dem Platz.",
+   "e": "A fountain in the middle of the square."
+  },
+  {
+   "s": "Manche Brunnen sind sehr alt.",
+   "e": "Some fountains are very old."
+  },
+  {
+   "s": "Auf manchen steht eine Figur.",
+   "e": "Some have a figure standing on them."
+  },
+  {
+   "s": "Aus allen läuft Wasser.",
+   "e": "Water runs out of all of them."
+  },
+  {
+   "s": "Kinder trinken im Vorbeigehen.",
+   "e": "Children drink as they walk past."
+  },
+  {
+   "s": "Ein Mann macht seine Flasche voll.",
+   "e": "A man fills his bottle up."
+  },
+  {
+   "s": "Ein Hund trinkt unten aus dem Stein.",
+   "e": "A dog drinks from the stone at the bottom."
+  },
+  {
+   "s": "Niemand kauft Wasser.",
+   "e": "Nobody buys water."
+  },
+  {
+   "s": "Nur neue Leute kaufen Wasser.",
+   "e": "Only new people buy water."
+  },
+  {
+   "s": "Ich bin auch neu hier.",
+   "e": "I am new here too."
+  },
+  {
+   "s": "Jetzt trinke ich am Brunnen.",
+   "e": "Now I drink at the fountain."
+  },
+  {
+   "s": "Ich trinke jeden Tag am Brunnen.",
+   "e": "I drink at the fountain every day."
+  },
+  {
+   "s": "Ich habe die Flasche immer dabei.",
+   "e": "I always have the bottle with me."
+  },
+  {
+   "s": "Sie ist immer voll.",
+   "e": "It is always full."
+  },
+  {
+   "s": "Ich mache sie voll und gehe weiter.",
+   "e": "I fill it up and walk on."
+  },
+  {
+   "s": "Das kostet nichts.",
+   "e": "It costs nothing."
+  },
+  {
+   "s": "Hier ist alles teuer.",
+   "e": "Everything here is expensive."
+  },
+  {
+   "s": "Nur das Wasser ist gratis.",
+   "e": "Only the water is free."
+  },
+  {
+   "s": "Und es ist besser als das aus der Flasche.",
+   "e": "And it is better than the stuff from the bottle."
+  },
+  {
+   "s": "Es ist kalt und sauber und es kostet nichts.",
+   "e": "It is cold and clean and it costs nothing."
+  },
+  {
+   "s": "Es ist kälter und es ist sauberer.",
+   "e": "It is colder and it is cleaner."
+  },
+  {
+   "s": "Ich kann überall trinken.",
+   "e": "I can drink anywhere."
+  },
+  {
+   "s": "Ich kann immer trinken.",
+   "e": "I can always drink."
+  },
+  {
+   "s": "Der Durst ist kein Problem mehr.",
+   "e": "Thirst is not a problem any more."
+  },
+  {
+   "s": "Am Abend gehe ich am Brunnen vorbei.",
+   "e": "In the evening I walk past the fountain."
+  },
+  {
+   "s": "Ich habe keinen Durst.",
+   "e": "I am not thirsty."
+  },
+  {
+   "s": "Ich trinke trotzdem.",
+   "e": "I drink anyway."
+  },
+  {
+   "s": "Das Wasser läuft weiter.",
+   "e": "The water keeps running."
+  },
+  {
+   "s": "Es läuft die ganze Nacht.",
+   "e": "It runs all night."
+  },
+  {
+   "s": "Für niemanden.",
+   "e": "For nobody."
+  },
+  {
+   "s": "Oder für alle.",
+   "e": "Or for everybody."
+  }
+ ]
+}

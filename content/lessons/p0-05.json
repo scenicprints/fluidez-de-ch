@@ -1,0 +1,426 @@
+{
+ "id": "p0-05",
+ "title": "Ein Kaffee, bitte",
+ "desc": "The first thing you order on purpose",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Tasse",
+  "Zucker",
+  "Crème",
+  "heiss",
+  "bitte",
+  "bestellen",
+  "gern",
+  "Kaffee",
+  "möchten",
+  "sitzen",
+  "fragen"
+ ],
+ "sn": [
+  {
+   "s": "Am Platz ist ein Café.",
+   "e": "There is a café on the square."
+  },
+  {
+   "s": "Ich gehe hinein.",
+   "e": "I go in."
+  },
+  {
+   "s": "Das Café ist klein.",
+   "e": "The café is small."
+  },
+  {
+   "s": "Es ist klein und warm.",
+   "e": "It is small and warm."
+  },
+  {
+   "s": "Drinnen sitzen vier Leute.",
+   "e": "Four people are sitting inside."
+  },
+  {
+   "s": "Alle sitzen.",
+   "e": "They are all sitting."
+  },
+  {
+   "s": "Niemand steht und trinkt.",
+   "e": "Nobody is standing and drinking."
+  },
+  {
+   "s": "Hier trinkt man den Kaffee im Sitzen.",
+   "e": "Here you drink your coffee sitting down."
+  },
+  {
+   "s": "Ich stelle den Koffer neben einen Tisch.",
+   "e": "I put the suitcase down next to a table."
+  },
+  {
+   "s": "Ich setze mich.",
+   "e": "I sit down."
+  },
+  {
+   "s": "Eine Frau kommt.",
+   "e": "A woman comes over."
+  },
+  {
+   "s": "Sie ist jung.",
+   "e": "She is young."
+  },
+  {
+   "s": "Sie sagt Grüezi.",
+   "e": "She says Grüezi."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Sie heisst Lea.",
+   "e": "Her name is Lea."
+  },
+  {
+   "s": "Ihr Name steht auf ihrer Schürze.",
+   "e": "Her name is on her apron."
+  },
+  {
+   "s": "Lea fragt etwas.",
+   "e": "Lea asks something."
+  },
+  {
+   "s": "Ich verstehe die Frage nicht ganz.",
+   "e": "I do not quite understand the question."
+  },
+  {
+   "s": "Ich möchte einen Kaffee.",
+   "e": "I would like a coffee."
+  },
+  {
+   "s": "Ich sage: einen Kaffee, bitte.",
+   "e": "I say: a coffee, please."
+  },
+  {
+   "s": "Bitte ist ein gutes Wort.",
+   "e": "Bitte is a good word."
+  },
+  {
+   "s": "Lea fragt: einen Crème?",
+   "e": "Lea asks: a crème?"
+  },
+  {
+   "s": "Ich verstehe das Wort nicht.",
+   "e": "I do not know the word."
+  },
+  {
+   "s": "Sie fragt noch einmal, langsam.",
+   "e": "She asks again, slowly."
+  },
+  {
+   "s": "Einen Kaffee crème?",
+   "e": "A Kaffee crème?"
+  },
+  {
+   "s": "Ich sage ja.",
+   "e": "I say yes."
+  },
+  {
+   "s": "Sie sagt gern.",
+   "e": "She says gladly."
+  },
+  {
+   "s": "Gern heisst: das mache ich gern.",
+   "e": "Gern means: I am happy to."
+  },
+  {
+   "s": "Lea geht zur Maschine.",
+   "e": "Lea goes to the machine."
+  },
+  {
+   "s": "Ich höre die Maschine.",
+   "e": "I hear the machine."
+  },
+  {
+   "s": "Es riecht gut.",
+   "e": "It smells good."
+  },
+  {
+   "s": "Sie kommt mit einer Tasse.",
+   "e": "She comes back with a cup."
+  },
+  {
+   "s": "Die Tasse ist klein.",
+   "e": "The cup is small."
+  },
+  {
+   "s": "Die Tasse ist sehr klein.",
+   "e": "The cup is very small."
+  },
+  {
+   "s": "Zu Hause ist eine Tasse gross.",
+   "e": "At home a cup is big."
+  },
+  {
+   "s": "Hier ist die Tasse klein.",
+   "e": "Here the cup is small."
+  },
+  {
+   "s": "Auf der Tasse liegt ein Löffel.",
+   "e": "There is a spoon on the cup."
+  },
+  {
+   "s": "Daneben liegt ein Stück Schokolade.",
+   "e": "Next to it lies a piece of chocolate."
+  },
+  {
+   "s": "Der Kaffee ist heiss.",
+   "e": "The coffee is hot."
+  },
+  {
+   "s": "Er ist sehr heiss.",
+   "e": "It is very hot."
+  },
+  {
+   "s": "Ich warte einen Moment.",
+   "e": "I wait a moment."
+  },
+  {
+   "s": "Der Kaffee bleibt lange heiss.",
+   "e": "The coffee stays hot for a long time."
+  },
+  {
+   "s": "Lea bringt auch ein Glas Wasser.",
+   "e": "Lea also brings a glass of water."
+  },
+  {
+   "s": "Das Wasser bestellt man nicht.",
+   "e": "You do not order the water."
+  },
+  {
+   "s": "Es kommt einfach mit.",
+   "e": "It simply comes with it."
+  },
+  {
+   "s": "Merci, sage ich.",
+   "e": "Merci, I say."
+  },
+  {
+   "s": "Lea sagt bitte.",
+   "e": "Lea says bitte."
+  },
+  {
+   "s": "Bitte heisst hier: gern geschehen.",
+   "e": "Here bitte means: you are welcome."
+  },
+  {
+   "s": "Bitte hat zwei Bedeutungen.",
+   "e": "Bitte has two meanings."
+  },
+  {
+   "s": "Man sagt bitte und man bekommt bitte.",
+   "e": "You say bitte and you get bitte back."
+  },
+  {
+   "s": "Auf dem Tisch steht Zucker.",
+   "e": "There is sugar on the table."
+  },
+  {
+   "s": "Der Zucker ist in kleinen Päckchen.",
+   "e": "The sugar is in little packets."
+  },
+  {
+   "s": "Ich nehme ein Päckchen Zucker.",
+   "e": "I take one packet of sugar."
+  },
+  {
+   "s": "Ich möchte nicht viel Zucker.",
+   "e": "I do not want much sugar."
+  },
+  {
+   "s": "Ein bisschen Zucker ist genug.",
+   "e": "A little sugar is enough."
+  },
+  {
+   "s": "Ich rühre den Zucker in den Kaffee.",
+   "e": "I stir the sugar into the coffee."
+  },
+  {
+   "s": "Der Kaffee ist gut.",
+   "e": "The coffee is good."
+  },
+  {
+   "s": "Der Kaffee ist wirklich gut.",
+   "e": "The coffee is really good."
+  },
+  {
+   "s": "Er ist stark und nicht bitter.",
+   "e": "It is strong and not bitter."
+  },
+  {
+   "s": "Ich trinke langsam.",
+   "e": "I drink slowly."
+  },
+  {
+   "s": "Niemand hat es eilig.",
+   "e": "Nobody is in a hurry."
+  },
+  {
+   "s": "Am Tisch daneben sitzt ein alter Mann.",
+   "e": "An old man is sitting at the next table."
+  },
+  {
+   "s": "Er liest die Zeitung.",
+   "e": "He is reading the newspaper."
+  },
+  {
+   "s": "Vor ihm steht eine kleine Tasse.",
+   "e": "There is a small cup in front of him."
+  },
+  {
+   "s": "Die Tasse ist schon leer.",
+   "e": "The cup is already empty."
+  },
+  {
+   "s": "Er sitzt trotzdem noch da.",
+   "e": "He is still sitting there anyway."
+  },
+  {
+   "s": "Lea kommt wieder.",
+   "e": "Lea comes back."
+  },
+  {
+   "s": "Sie fragt: noch etwas?",
+   "e": "She asks: anything else?"
+  },
+  {
+   "s": "Ich möchte gern noch einen Kaffee.",
+   "e": "I would like another coffee."
+  },
+  {
+   "s": "Aber ich sage nichts.",
+   "e": "But I say nothing."
+  },
+  {
+   "s": "Dann bestelle ich doch einen.",
+   "e": "Then I order one after all."
+  },
+  {
+   "s": "Noch einen Kaffee, bitte.",
+   "e": "Another coffee, please."
+  },
+  {
+   "s": "Lea lacht ein bisschen.",
+   "e": "Lea laughs a little."
+  },
+  {
+   "s": "Noch einen Crème, sagt sie.",
+   "e": "Another crème, she says."
+  },
+  {
+   "s": "Sie sagt es freundlich.",
+   "e": "She says it kindly."
+  },
+  {
+   "s": "Sie sagt nicht: das heisst Crème.",
+   "e": "She does not say: it is called crème."
+  },
+  {
+   "s": "Sie sagt einfach das Wort.",
+   "e": "She just says the word."
+  },
+  {
+   "s": "Ich höre es und ich behalte es.",
+   "e": "I hear it and I keep it."
+  },
+  {
+   "s": "Beim zweiten Mal bestelle ich richtig.",
+   "e": "The second time I order it right."
+  },
+  {
+   "s": "Ich bestelle einen Crème.",
+   "e": "I order a crème."
+  },
+  {
+   "s": "So bestellt man das hier.",
+   "e": "That is how you order it here."
+  },
+  {
+   "s": "Die zweite Tasse ist auch klein.",
+   "e": "The second cup is small too."
+  },
+  {
+   "s": "Sie ist auch heiss.",
+   "e": "It is hot too."
+  },
+  {
+   "s": "So heiss trinke ich ihn gern.",
+   "e": "That is how hot I like to drink it."
+  },
+  {
+   "s": "Ich nehme keinen Zucker mehr.",
+   "e": "I do not take any more sugar."
+  },
+  {
+   "s": "Ohne Zucker ist er auch gut.",
+   "e": "It is good without sugar too."
+  },
+  {
+   "s": "Ich sitze und trinke und schaue.",
+   "e": "I sit and drink and look."
+  },
+  {
+   "s": "Draussen gehen Leute vorbei.",
+   "e": "Outside people walk past."
+  },
+  {
+   "s": "Drinnen ist es warm.",
+   "e": "Inside it is warm."
+  },
+  {
+   "s": "Ich möchte hier noch bleiben.",
+   "e": "I would like to stay here a bit longer."
+  },
+  {
+   "s": "Ich möchte nicht schon weiter.",
+   "e": "I do not want to move on yet."
+  },
+  {
+   "s": "Lea fragt: woher kommen Sie?",
+   "e": "Lea asks: where are you from?"
+  },
+  {
+   "s": "Ich sage es ihr.",
+   "e": "I tell her."
+  },
+  {
+   "s": "Sie fragt nicht weiter.",
+   "e": "She does not ask anything else."
+  },
+  {
+   "s": "Das gefällt mir gut.",
+   "e": "I like that."
+  },
+  {
+   "s": "Ich sage: merci vielmal.",
+   "e": "I say: merci vielmal."
+  },
+  {
+   "s": "Lea sagt: gern, Ade.",
+   "e": "Lea says: gladly, Ade."
+  },
+  {
+   "s": "Ade, sage ich.",
+   "e": "Ade, I say."
+  },
+  {
+   "s": "Ein Kaffee, eine Tasse, ein Wort.",
+   "e": "A coffee, a cup, one word."
+  },
+  {
+   "s": "Crème.",
+   "e": "Crème."
+  },
+  {
+   "s": "Das behalte ich.",
+   "e": "I am keeping that one."
+  }
+ ]
+}

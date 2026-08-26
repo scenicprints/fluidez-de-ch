@@ -1,0 +1,109 @@
+{
+ "id": "sc01",
+ "title": "Grüezi",
+ "desc": "Four people, and not one of them can be passed in silence",
+ "setting": "Your first morning. The lift, the pavement and the bakery, all before eight.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Ein Mann im Lift",
+   "es": "Grüezi mitenand.",
+   "en": "Grüezi, all of you.",
+   "options": [
+    {
+     "es": "Grüezi mitenand.",
+     "en": "Grüezi, all of you.",
+     "verdict": "good",
+     "feedback": "He said mitenand because there are three of you in the lift. You give it straight back, and that is the whole exchange."
+    },
+    {
+     "es": "Grüezi.",
+     "en": "Grüezi.",
+     "verdict": "ok",
+     "feedback": "Correct and nobody minds. Mitenand would have matched him exactly."
+    },
+    {
+     "es": "(nichts sagen)",
+     "en": "(say nothing)",
+     "verdict": "bad",
+     "feedback": "Eight floors of somebody knowing you did not answer. Nobody will mention it."
+    }
+   ]
+  },
+  {
+   "speaker": "Eine Frau auf der Strasse",
+   "es": "Grüezi.",
+   "en": "Grüezi.",
+   "options": [
+    {
+     "es": "Grüezi.",
+     "en": "Grüezi.",
+     "verdict": "good",
+     "feedback": "One word each and you both walk on. That is exactly what it is for."
+    },
+    {
+     "es": "Grüezi, wie geht es Ihnen?",
+     "en": "Grüezi, how are you?",
+     "verdict": "ok",
+     "feedback": "Warm, and more than a stranger on a pavement was asking for. She will answer you."
+    },
+    {
+     "es": "Hoi.",
+     "en": "Hi.",
+     "verdict": "bad",
+     "feedback": "Hoi is for people you know. To a stranger it lands as too familiar rather than friendly."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau in der Bäckerei",
+   "es": "Grüezi. Was möchten Sie?",
+   "en": "Grüezi. What would you like?",
+   "options": [
+    {
+     "es": "Grüezi. Ein Gipfeli, bitte.",
+     "en": "Grüezi. A Gipfeli, please.",
+     "verdict": "good",
+     "feedback": "Greeting first, then what you want. That order is not optional here."
+    },
+    {
+     "es": "Ein Gipfeli, bitte.",
+     "en": "A Gipfeli, please.",
+     "verdict": "ok",
+     "feedback": "She greeted you and you went straight to the order. It is not rude, it is just a bit bare."
+    },
+    {
+     "es": "Ich möchte ein Brot und ein Gipfeli und zwei Weggli und Käse.",
+     "en": "I would like a loaf and a Gipfeli and two Weggli and cheese.",
+     "verdict": "bad",
+     "feedback": "No Grüezi at all, and all of it at once. Greet, then order, then add."
+    }
+   ]
+  },
+  {
+   "speaker": "Die Frau in der Bäckerei",
+   "es": "Merci vielmal. Ade.",
+   "en": "Thanks very much. Goodbye.",
+   "options": [
+    {
+     "es": "Merci. Ade.",
+     "en": "Merci. Goodbye.",
+     "verdict": "good",
+     "feedback": "You take the leaving word she offered and hand it back. Two syllables and you are out of the door correctly."
+    },
+    {
+     "es": "Danke. Auf Wiedersehen.",
+     "en": "Thanks. Goodbye.",
+     "verdict": "ok",
+     "feedback": "Both correct German and both a little German German. Merci and Ade are what you hear in Luzern."
+    },
+    {
+     "es": "Tschüss!",
+     "en": "Bye!",
+     "verdict": "bad",
+     "feedback": "You will hear it, mostly from younger people, and to a woman behind a counter in Luzern it is the wrong register."
+    }
+   ]
+  }
+ ]
+}

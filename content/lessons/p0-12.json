@@ -1,0 +1,360 @@
+{
+ "id": "p0-12",
+ "title": "Die Kapellbrücke",
+ "desc": "A wooden bridge with paintings in the roof",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Bild",
+  "Turm",
+  "Brücke",
+  "Holz",
+  "Blume",
+  "neu",
+  "alt",
+  "oben",
+  "schauen"
+ ],
+ "sn": [
+  {
+   "s": "Am See steht eine Brücke.",
+   "e": "There is a bridge on the lake."
+  },
+  {
+   "s": "Die Brücke ist aus Holz.",
+   "e": "The bridge is made of wood."
+  },
+  {
+   "s": "Sie geht über das Wasser.",
+   "e": "It goes over the water."
+  },
+  {
+   "s": "Sie geht nicht gerade.",
+   "e": "It does not go straight."
+  },
+  {
+   "s": "Die Brücke macht einen Knick.",
+   "e": "The bridge makes a bend."
+  },
+  {
+   "s": "Sie heisst Kapellbrücke.",
+   "e": "It is called the Kapellbrücke."
+  },
+  {
+   "s": "Die Brücke hat ein Dach.",
+   "e": "The bridge has a roof."
+  },
+  {
+   "s": "Das Dach ist auch aus Holz.",
+   "e": "The roof is made of wood too."
+  },
+  {
+   "s": "Man geht im Trockenen über das Wasser.",
+   "e": "You cross the water in the dry."
+  },
+  {
+   "s": "Auch wenn es regnet.",
+   "e": "Even when it is raining."
+  },
+  {
+   "s": "Ich gehe auf die Brücke.",
+   "e": "I walk onto the bridge."
+  },
+  {
+   "s": "Das Holz macht Geräusche.",
+   "e": "The wood makes noises."
+  },
+  {
+   "s": "Es ist dunkles Holz.",
+   "e": "It is dark wood."
+  },
+  {
+   "s": "Es riecht nach altem Holz.",
+   "e": "It smells of old wood."
+  },
+  {
+   "s": "Ich gehe langsam.",
+   "e": "I walk slowly."
+  },
+  {
+   "s": "Oben im Dach hängen Bilder.",
+   "e": "There are pictures up in the roof."
+  },
+  {
+   "s": "Die Bilder sind dreieckig.",
+   "e": "The pictures are triangular."
+  },
+  {
+   "s": "Sie passen genau ins Dach.",
+   "e": "They fit exactly into the roof."
+  },
+  {
+   "s": "Ich schaue nach oben.",
+   "e": "I look up."
+  },
+  {
+   "s": "Ich schaue lange nach oben.",
+   "e": "I look up for a long time."
+  },
+  {
+   "s": "Ein Bild zeigt einen Mann mit einem Schwert.",
+   "e": "One picture shows a man with a sword."
+  },
+  {
+   "s": "Ein Bild zeigt ein Schiff.",
+   "e": "One picture shows a boat."
+  },
+  {
+   "s": "Ein Bild zeigt die Stadt.",
+   "e": "One picture shows the town."
+  },
+  {
+   "s": "Die Bilder sind alt.",
+   "e": "The pictures are old."
+  },
+  {
+   "s": "Sie sind sehr alt.",
+   "e": "They are very old."
+  },
+  {
+   "s": "Manche Bilder sind dunkel.",
+   "e": "Some of the pictures are dark."
+  },
+  {
+   "s": "Man sieht fast nichts mehr.",
+   "e": "You can hardly see anything on them."
+  },
+  {
+   "s": "An manchen Stellen hängt kein Bild.",
+   "e": "In some places there is no picture."
+  },
+  {
+   "s": "Da ist nur Holz.",
+   "e": "There is only wood there."
+  },
+  {
+   "s": "Das leere Holz ist neu.",
+   "e": "The empty wood is new."
+  },
+  {
+   "s": "Es ist heller als das andere.",
+   "e": "It is lighter than the rest."
+  },
+  {
+   "s": "Ich verstehe zuerst nicht warum.",
+   "e": "At first I do not understand why."
+  },
+  {
+   "s": "Eine Frau steht neben mir.",
+   "e": "A woman is standing next to me."
+  },
+  {
+   "s": "Sie schaut auch nach oben.",
+   "e": "She is looking up too."
+  },
+  {
+   "s": "Sie sagt: neunzehnhundertdreiundneunzig brennt die Brücke.",
+   "e": "She says: in nineteen ninety-three the bridge burns."
+  },
+  {
+   "s": "Ein Feuer in der Nacht.",
+   "e": "A fire in the night."
+  },
+  {
+   "s": "Fast die ganze Brücke brennt.",
+   "e": "Almost the whole bridge burns."
+  },
+  {
+   "s": "Viele Bilder sind weg.",
+   "e": "Many of the pictures are gone."
+  },
+  {
+   "s": "Die Brücke ist heute zum Teil neu.",
+   "e": "Today the bridge is partly new."
+  },
+  {
+   "s": "Das helle Holz ist das neue Holz.",
+   "e": "The light wood is the new wood."
+  },
+  {
+   "s": "Das dunkle Holz ist alt.",
+   "e": "The dark wood is old."
+  },
+  {
+   "s": "Oben sieht man es genau.",
+   "e": "Looking up you can see it clearly."
+  },
+  {
+   "s": "Alt und neu nebeneinander.",
+   "e": "Old and new side by side."
+  },
+  {
+   "s": "Merci, sage ich.",
+   "e": "Merci, I say."
+  },
+  {
+   "s": "In der Mitte der Brücke steht ein Turm.",
+   "e": "There is a tower in the middle of the bridge."
+  },
+  {
+   "s": "Der Turm steht im Wasser.",
+   "e": "The tower stands in the water."
+  },
+  {
+   "s": "Er ist aus Stein.",
+   "e": "It is made of stone."
+  },
+  {
+   "s": "Der Turm ist achteckig.",
+   "e": "The tower is eight-sided."
+  },
+  {
+   "s": "Er heisst Wasserturm.",
+   "e": "It is called the Wasserturm."
+  },
+  {
+   "s": "Der Turm ist älter als die Brücke.",
+   "e": "The tower is older than the bridge."
+  },
+  {
+   "s": "Der Turm steht schon da, dann kommt die Brücke.",
+   "e": "The tower is standing there first, then the bridge comes."
+  },
+  {
+   "s": "Das Feuer nimmt den Turm nicht.",
+   "e": "The fire does not take the tower."
+  },
+  {
+   "s": "Ein Turm aus Stein brennt nicht.",
+   "e": "A tower made of stone does not burn."
+  },
+  {
+   "s": "Genau wie das Tor am Bahnhof.",
+   "e": "Exactly like the gate at the station."
+  },
+  {
+   "s": "Stein bleibt, Holz brennt.",
+   "e": "Stone stays, wood burns."
+  },
+  {
+   "s": "Am Geländer stehen Blumen.",
+   "e": "There are flowers along the railing."
+  },
+  {
+   "s": "Die Blumen sind rot.",
+   "e": "The flowers are red."
+  },
+  {
+   "s": "Sie sind rot und weiss.",
+   "e": "They are red and white."
+  },
+  {
+   "s": "Die ganze Brücke hat Blumen.",
+   "e": "The whole bridge has flowers."
+  },
+  {
+   "s": "Jemand giesst die Blumen jeden Tag.",
+   "e": "Somebody waters the flowers every day."
+  },
+  {
+   "s": "Die Blumen hängen über dem Wasser.",
+   "e": "The flowers hang over the water."
+  },
+  {
+   "s": "Von unten sieht das gut aus.",
+   "e": "From below it looks good."
+  },
+  {
+   "s": "Ich gehe bis ans andere Ende.",
+   "e": "I walk to the other end."
+  },
+  {
+   "s": "Dann gehe ich wieder zurück.",
+   "e": "Then I walk back again."
+  },
+  {
+   "s": "Ich gehe viermal über die Brücke.",
+   "e": "I cross the bridge four times."
+  },
+  {
+   "s": "Ich muss nirgendwohin.",
+   "e": "I do not have to be anywhere."
+  },
+  {
+   "s": "Ich stehe in der Mitte und schaue.",
+   "e": "I stand in the middle and look."
+  },
+  {
+   "s": "Links ist die Stadt.",
+   "e": "To the left is the town."
+  },
+  {
+   "s": "Rechts ist der See.",
+   "e": "To the right is the lake."
+  },
+  {
+   "s": "Vorne stehen die Berge.",
+   "e": "Up ahead stand the mountains."
+  },
+  {
+   "s": "Unter mir schwimmen Vögel.",
+   "e": "Below me birds are swimming."
+  },
+  {
+   "s": "Neben mir gehen Leute vorbei.",
+   "e": "People walk past next to me."
+  },
+  {
+   "s": "Manche schauen nach oben.",
+   "e": "Some of them look up."
+  },
+  {
+   "s": "Manche schauen gar nicht.",
+   "e": "Some do not look at all."
+  },
+  {
+   "s": "Für sie ist die Brücke nur der Weg.",
+   "e": "For them the bridge is just the way across."
+  },
+  {
+   "s": "Sie gehen hier jeden Tag.",
+   "e": "They walk here every day."
+  },
+  {
+   "s": "Am Abend gehe ich noch einmal hin.",
+   "e": "In the evening I go there again."
+  },
+  {
+   "s": "Die Brücke hat Licht.",
+   "e": "The bridge has lights."
+  },
+  {
+   "s": "Das Holz sieht warm aus.",
+   "e": "The wood looks warm."
+  },
+  {
+   "s": "Das Wasser ist schwarz.",
+   "e": "The water is black."
+  },
+  {
+   "s": "Der Turm steht dunkel im See.",
+   "e": "The tower stands dark in the lake."
+  },
+  {
+   "s": "Ich schaue noch einmal nach oben.",
+   "e": "I look up once more."
+  },
+  {
+   "s": "Im Licht sehe ich die Bilder besser.",
+   "e": "In the light I can see the pictures better."
+  },
+  {
+   "s": "Alte Bilder und neues Holz.",
+   "e": "Old pictures and new wood."
+  },
+  {
+   "s": "Beides gehört jetzt dazu.",
+   "e": "Both belong to it now."
+  }
+ ]
+}

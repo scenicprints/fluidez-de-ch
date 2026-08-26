@@ -1,0 +1,67 @@
+[
+ {
+  "title": "Getting help",
+  "phrases": [
+   {"es": "Ich brauche Hilfe, bitte.", "en": "I need help, please."},
+   {"es": "Es ist ein Notfall.", "en": "This is an emergency."},
+   {"es": "Rufen Sie einen Krankenwagen.", "en": "Call an ambulance."},
+   {"es": "Rufen Sie die Polizei.", "en": "Call the police."},
+   {"es": "Wo ist das nächste Spital?", "en": "Where is the nearest hospital?"},
+   {"es": "Ich spreche nur wenig Deutsch.", "en": "I only speak a little German."},
+   {"es": "Spricht hier jemand Englisch?", "en": "Does anybody here speak English?"},
+   {"es": "Bitte langsam. Ich verstehe nicht alles.", "en": "Slowly, please. I do not understand everything."},
+   {"es": "Können Sie das aufschreiben?", "en": "Could you write that down?"}
+  ]
+ },
+ {
+  "title": "The numbers",
+  "phrases": [
+   {"es": "144 ist der Krankenwagen.", "en": "144 is the ambulance."},
+   {"es": "117 ist die Polizei.", "en": "117 is the police."},
+   {"es": "118 ist die Feuerwehr.", "en": "118 is the fire brigade."},
+   {"es": "1414 ist die Rega, die Rettung aus der Luft.", "en": "1414 is the Rega, the air rescue."},
+   {"es": "112 geht auch, von jedem Telefon.", "en": "112 works too, from any phone."},
+   {"es": "145 ist bei Gift.", "en": "145 is for poisoning."}
+  ]
+ },
+ {
+  "title": "If you are hurt or ill",
+  "phrases": [
+   {"es": "Mir ist schlecht.", "en": "I feel ill."},
+   {"es": "Es tut hier weh.", "en": "It hurts here."},
+   {"es": "Ich kann nicht gut atmen.", "en": "I cannot breathe properly."},
+   {"es": "Ich habe Fieber.", "en": "I have a fever."},
+   {"es": "Ich bin allergisch auf Penizillin.", "en": "I am allergic to penicillin."},
+   {"es": "Ich brauche einen Arzt.", "en": "I need a doctor."},
+   {"es": "Ich brauche eine Apotheke.", "en": "I need a pharmacy."},
+   {"es": "Ich nehme diese Medikamente.", "en": "I take these medicines."},
+   {"es": "Ich bin schwanger.", "en": "I am pregnant."},
+   {"es": "Er ist bewusstlos.", "en": "He is unconscious."}
+  ]
+ },
+ {
+  "title": "Lost, robbed or stuck",
+  "phrases": [
+   {"es": "Ich habe mich verlaufen.", "en": "I am lost."},
+   {"es": "Man hat mir das Portemonnaie gestohlen.", "en": "My wallet has been stolen."},
+   {"es": "Ich habe meinen Pass verloren.", "en": "I have lost my passport."},
+   {"es": "Mein Handy ist weg.", "en": "My phone is gone."},
+   {"es": "Ich habe kein Geld mehr.", "en": "I have no money left."},
+   {"es": "Ich habe den letzten Zug verpasst.", "en": "I have missed the last train."},
+   {"es": "Können Sie mir helfen?", "en": "Could you help me?"},
+   {"es": "Wo ist der Bahnhof, bitte?", "en": "Where is the station, please?"},
+   {"es": "Ich weiss nicht, wo ich bin.", "en": "I do not know where I am."}
+  ]
+ },
+ {
+  "title": "In the mountains",
+  "phrases": [
+   {"es": "Wir sind auf dem Berg und kommen nicht weiter.", "en": "We are on the mountain and cannot go on."},
+   {"es": "Jemand ist gestürzt.", "en": "Somebody has fallen."},
+   {"es": "Wir brauchen die Rega.", "en": "We need the Rega."},
+   {"es": "Es wird dunkel und wir haben kein Licht.", "en": "It is getting dark and we have no light."},
+   {"es": "Ich schicke Ihnen meinen Standort.", "en": "I am sending you my location."},
+   {"es": "Wir bleiben hier und warten.", "en": "We will stay here and wait."}
+  ]
+ }
+]

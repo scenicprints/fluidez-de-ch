@@ -1,0 +1,415 @@
+{
+ "id": "p0-03",
+ "title": "Der Zug nach Luzern",
+ "desc": "An hour of a country going past",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Wiese",
+  "Tunnel",
+  "Fahrt",
+  "Stunde",
+  "Fenster",
+  "Zug",
+  "fahren",
+  "sehen"
+ ],
+ "sn": [
+  {
+   "s": "Ich sitze im Zug.",
+   "e": "I am sitting on the train."
+  },
+  {
+   "s": "Der Zug fährt nach Luzern.",
+   "e": "The train goes to Luzern."
+  },
+  {
+   "s": "Ich sitze am Fenster.",
+   "e": "I am sitting by the window."
+  },
+  {
+   "s": "Der Platz am Fenster ist der beste.",
+   "e": "The seat by the window is the best one."
+  },
+  {
+   "s": "Mein Koffer steht neben mir.",
+   "e": "My suitcase is standing next to me."
+  },
+  {
+   "s": "Die Fahrt dauert eine Stunde.",
+   "e": "The journey takes an hour."
+  },
+  {
+   "s": "Eine Stunde und fünf Minuten.",
+   "e": "One hour and five minutes."
+  },
+  {
+   "s": "Der Zug fährt um zehn Uhr zwölf.",
+   "e": "The train leaves at ten twelve."
+  },
+  {
+   "s": "Er fährt genau um zehn Uhr zwölf.",
+   "e": "It leaves at exactly ten twelve."
+  },
+  {
+   "s": "Im Zug ist es still.",
+   "e": "It is quiet on the train."
+  },
+  {
+   "s": "Es ist sehr still.",
+   "e": "It is very quiet."
+  },
+  {
+   "s": "Niemand redet.",
+   "e": "Nobody is talking."
+  },
+  {
+   "s": "Eine Frau liest ein Buch.",
+   "e": "A woman is reading a book."
+  },
+  {
+   "s": "Ein Mann schläft.",
+   "e": "A man is asleep."
+  },
+  {
+   "s": "Zwei Leute schauen aus dem Fenster.",
+   "e": "Two people are looking out of the window."
+  },
+  {
+   "s": "Ich schaue auch aus dem Fenster.",
+   "e": "I look out of the window too."
+  },
+  {
+   "s": "Zuerst sehe ich Häuser.",
+   "e": "First I see houses."
+  },
+  {
+   "s": "Die Häuser sind klein und sauber.",
+   "e": "The houses are small and clean."
+  },
+  {
+   "s": "Dann sehe ich eine Wiese.",
+   "e": "Then I see a meadow."
+  },
+  {
+   "s": "Die Wiese ist sehr grün.",
+   "e": "The meadow is very green."
+  },
+  {
+   "s": "Auf der Wiese stehen Kühe.",
+   "e": "There are cows standing in the meadow."
+  },
+  {
+   "s": "Die Kühe sind braun.",
+   "e": "The cows are brown."
+  },
+  {
+   "s": "Sie stehen still und fressen.",
+   "e": "They stand still and eat."
+  },
+  {
+   "s": "Eine Kuh hat eine Glocke.",
+   "e": "One cow has a bell."
+  },
+  {
+   "s": "Ich höre die Glocke nicht.",
+   "e": "I cannot hear the bell."
+  },
+  {
+   "s": "Das Fenster ist zu.",
+   "e": "The window is shut."
+  },
+  {
+   "s": "Der Zug hält in Zürich.",
+   "e": "The train stops in Zurich."
+  },
+  {
+   "s": "Viele Leute steigen ein.",
+   "e": "A lot of people get on."
+  },
+  {
+   "s": "Viele Leute steigen aus.",
+   "e": "A lot of people get off."
+  },
+  {
+   "s": "Ein Mann setzt sich neben mich.",
+   "e": "A man sits down next to me."
+  },
+  {
+   "s": "Er sagt Grüezi.",
+   "e": "He says Grüezi."
+  },
+  {
+   "s": "Ich sage Grüezi.",
+   "e": "I say Grüezi."
+  },
+  {
+   "s": "Dann sagt er nichts mehr.",
+   "e": "Then he says nothing more."
+  },
+  {
+   "s": "Das ist normal hier.",
+   "e": "That is normal here."
+  },
+  {
+   "s": "Man sagt Grüezi und dann ist Ruhe.",
+   "e": "You say Grüezi and then there is quiet."
+  },
+  {
+   "s": "Der Zug fährt weiter.",
+   "e": "The train goes on."
+  },
+  {
+   "s": "Die Fahrt geht nach Süden.",
+   "e": "The journey goes south."
+  },
+  {
+   "s": "Ich sehe wieder eine Wiese.",
+   "e": "I see another meadow."
+  },
+  {
+   "s": "Ich sehe viele Wiesen.",
+   "e": "I see a lot of meadows."
+  },
+  {
+   "s": "Zwischen den Wiesen stehen Bäume.",
+   "e": "There are trees between the meadows."
+  },
+  {
+   "s": "Dann kommt Wasser.",
+   "e": "Then there is water."
+  },
+  {
+   "s": "Ich sehe einen See.",
+   "e": "I see a lake."
+  },
+  {
+   "s": "Der See ist lang und schmal.",
+   "e": "The lake is long and narrow."
+  },
+  {
+   "s": "Auf dem See ist ein Boot.",
+   "e": "There is a boat on the lake."
+  },
+  {
+   "s": "Das Boot fährt langsam.",
+   "e": "The boat is moving slowly."
+  },
+  {
+   "s": "Der Zug fährt schnell.",
+   "e": "The train is moving fast."
+  },
+  {
+   "s": "Der Zug hält in Zug.",
+   "e": "The train stops in Zug."
+  },
+  {
+   "s": "Die Stadt heisst Zug.",
+   "e": "The town is called Zug."
+  },
+  {
+   "s": "Zug ist auch das Wort für den Zug.",
+   "e": "Zug is also the word for a train."
+  },
+  {
+   "s": "Ein Zug hält in Zug.",
+   "e": "A train stops in Zug."
+  },
+  {
+   "s": "Das gefällt mir.",
+   "e": "I like that."
+  },
+  {
+   "s": "Der Mann neben mir steht auf.",
+   "e": "The man next to me stands up."
+  },
+  {
+   "s": "Er sagt Ade und geht.",
+   "e": "He says Ade and leaves."
+  },
+  {
+   "s": "Jetzt sitze ich allein.",
+   "e": "Now I am sitting on my own."
+  },
+  {
+   "s": "Ich sitze und schaue.",
+   "e": "I sit and look."
+  },
+  {
+   "s": "Die Fahrt ist ruhig.",
+   "e": "The journey is calm."
+  },
+  {
+   "s": "Eine Fahrt am Morgen ist immer ruhig.",
+   "e": "A morning journey is always calm."
+  },
+  {
+   "s": "Plötzlich ist es dunkel.",
+   "e": "Suddenly it is dark."
+  },
+  {
+   "s": "Der Zug fährt durch einen Tunnel.",
+   "e": "The train goes through a tunnel."
+  },
+  {
+   "s": "Im Tunnel sehe ich nichts.",
+   "e": "In the tunnel I see nothing."
+  },
+  {
+   "s": "Im Fenster sehe ich nur mich.",
+   "e": "In the window I only see myself."
+  },
+  {
+   "s": "Der Tunnel dauert lang.",
+   "e": "The tunnel goes on for a long time."
+  },
+  {
+   "s": "Dann ist der Tunnel zu Ende.",
+   "e": "Then the tunnel ends."
+  },
+  {
+   "s": "Nach dem Tunnel ist alles hell.",
+   "e": "After the tunnel everything is bright."
+  },
+  {
+   "s": "Ich sehe wieder Wiesen.",
+   "e": "I see meadows again."
+  },
+  {
+   "s": "Und dann sehe ich wieder Wasser.",
+   "e": "And then I see water again."
+  },
+  {
+   "s": "Es ist ein anderer See.",
+   "e": "It is a different lake."
+  },
+  {
+   "s": "Dieser See ist breit.",
+   "e": "This lake is wide."
+  },
+  {
+   "s": "Hinter dem See stehen Berge.",
+   "e": "There are mountains behind the lake."
+  },
+  {
+   "s": "Die Berge sind hoch.",
+   "e": "The mountains are high."
+  },
+  {
+   "s": "Oben auf den Bergen liegt Schnee.",
+   "e": "There is snow on top of the mountains."
+  },
+  {
+   "s": "Es ist September und da liegt Schnee.",
+   "e": "It is September and there is snow up there."
+  },
+  {
+   "s": "Ich schaue aus dem Fenster und sage nichts.",
+   "e": "I look out of the window and say nothing."
+  },
+  {
+   "s": "Ich bin still wie alle anderen.",
+   "e": "I am as quiet as everyone else."
+  },
+  {
+   "s": "Eine Stunde geht schnell.",
+   "e": "An hour goes quickly."
+  },
+  {
+   "s": "Die Stunde ist fast vorbei.",
+   "e": "The hour is almost over."
+  },
+  {
+   "s": "Eine Stimme sagt etwas.",
+   "e": "A voice says something."
+  },
+  {
+   "s": "Nächster Halt Luzern.",
+   "e": "Next stop Luzern."
+  },
+  {
+   "s": "Ich verstehe die zwei Wörter.",
+   "e": "I understand those two words."
+  },
+  {
+   "s": "Die Leute stehen auf.",
+   "e": "The people stand up."
+  },
+  {
+   "s": "Sie nehmen ihre Taschen.",
+   "e": "They take their bags."
+  },
+  {
+   "s": "Ich nehme meinen Koffer.",
+   "e": "I take my suitcase."
+  },
+  {
+   "s": "Der Zug fährt langsam.",
+   "e": "The train slows down."
+  },
+  {
+   "s": "Vor dem Fenster kommt der See wieder.",
+   "e": "The lake comes back in front of the window."
+  },
+  {
+   "s": "Der Zug fährt fast im Wasser.",
+   "e": "The train runs almost in the water."
+  },
+  {
+   "s": "Dann sehe ich Häuser.",
+   "e": "Then I see houses."
+  },
+  {
+   "s": "Dann sehe ich ein Dach.",
+   "e": "Then I see a roof."
+  },
+  {
+   "s": "Dann steht der Zug.",
+   "e": "Then the train stops."
+  },
+  {
+   "s": "Die Fahrt ist zu Ende.",
+   "e": "The journey is over."
+  },
+  {
+   "s": "Eine Stunde und fünf Minuten.",
+   "e": "One hour and five minutes."
+  },
+  {
+   "s": "Genau eine Stunde und fünf Minuten.",
+   "e": "Exactly one hour and five minutes."
+  },
+  {
+   "s": "Ich sitze noch einen Moment.",
+   "e": "I sit for another moment."
+  },
+  {
+   "s": "Dann stehe ich auf.",
+   "e": "Then I stand up."
+  },
+  {
+   "s": "Ich gehe zur Tür.",
+   "e": "I go to the door."
+  },
+  {
+   "s": "Niemand redet.",
+   "e": "Nobody talks."
+  },
+  {
+   "s": "Es ist immer noch still.",
+   "e": "It is still quiet."
+  },
+  {
+   "s": "Ich schaue ein letztes Mal aus dem Fenster.",
+   "e": "I look out of the window one last time."
+  },
+  {
+   "s": "Wiesen, ein Tunnel, zwei Seen.",
+   "e": "Meadows, a tunnel, two lakes."
+  },
+  {
+   "s": "Eine Stunde Schweiz.",
+   "e": "An hour of Switzerland."
+  }
+ ]
+}

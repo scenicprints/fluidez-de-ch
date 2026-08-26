@@ -1,15 +1,35 @@
 {
   "_": [
     "Lines that break the Swiss rule ON PURPOSE, because they exist to teach",
-    "the contrast: p0-06 says 'Weggli, not Broetchen' and is right to.",
+    "the contrast: a scene offers Bahnsteig as a wrong answer so the learner",
+    "meets it and finds out it is wrong.",
     "",
     "EXEMPT BY LINE ID, NEVER BY WORD. Allowing a word globally lets a real",
     "slip through everywhere else in the course, which is the lesson es-ni",
     "already paid for.",
     "",
-    "  lines  e.g. 'lesson p0-06' - the exact 'where' dialect.py reports",
+    "Every line carries its own position now, so an entry names ONE line:",
+    "",
+    "  lesson p0-06 #41       one sentence",
+    "  lesson p0-06           the whole story, if that is really what you want",
+    "  scene sc02 step 3      one thing somebody says",
+    "  scene sc02 option 3.3  one reply on the third step",
+    "",
+    "The exact string is what dialect.py prints when it fires, so run it and",
+    "copy the id rather than counting by hand.",
+    "",
     "  words  last resort only, and each one needs a comment saying why"
   ],
-  "lines": [],
+  "lines": [
+    "scene sc02 option 3.3",
+    "scene sc04 option 4.3"
+  ],
+  "_lines": [
+    "sc02 option 3.3 is 'Wo ist der Bahnsteig?', offered as the wrong answer so",
+    "the learner meets the German German word once, gets it marked bad, and is",
+    "told in the feedback that it is Perron here.",
+    "",
+    "sc04 option 4.3 is 'Eine Tüte, bitte.', same job for Sack."
+  ],
   "words": []
 }

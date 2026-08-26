@@ -1,0 +1,390 @@
+{
+ "id": "p0-15",
+ "title": "Es regnet",
+ "desc": "Weather you will talk about every day",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "Föhn",
+  "Schirm",
+  "Wetter",
+  "Wind",
+  "schneien",
+  "Regen",
+  "nass",
+  "regnen",
+  "Schnee",
+  "warm",
+  "kommen"
+ ],
+ "sn": [
+  {
+   "s": "Es regnet.",
+   "e": "It is raining."
+  },
+  {
+   "s": "Es regnet seit dem Morgen.",
+   "e": "It has been raining since morning."
+  },
+  {
+   "s": "Es regnet leise.",
+   "e": "It is raining quietly."
+  },
+  {
+   "s": "Der Regen ist nicht stark.",
+   "e": "The rain is not heavy."
+  },
+  {
+   "s": "Aber der Regen hört nicht auf.",
+   "e": "But the rain does not stop."
+  },
+  {
+   "s": "Ich gehe zur Bäckerei.",
+   "e": "I go to the bakery."
+  },
+  {
+   "s": "Ich habe keinen Schirm.",
+   "e": "I do not have an umbrella."
+  },
+  {
+   "s": "Ich werde nass.",
+   "e": "I get wet."
+  },
+  {
+   "s": "Meine Jacke ist nass.",
+   "e": "My jacket is wet."
+  },
+  {
+   "s": "Meine Schuhe sind auch nass.",
+   "e": "My shoes are wet too."
+  },
+  {
+   "s": "Nass ist kein gutes Gefühl.",
+   "e": "Wet is not a good feeling."
+  },
+  {
+   "s": "In der Bäckerei sagt die Frau Grüezi.",
+   "e": "In the bakery the woman says Grüezi."
+  },
+  {
+   "s": "Dann sagt sie: heute regnet es.",
+   "e": "Then she says: it is raining today."
+  },
+  {
+   "s": "Ja, sage ich. Es regnet.",
+   "e": "Yes, I say. It is raining."
+  },
+  {
+   "s": "Das ist mein erstes Gespräch über das Wetter.",
+   "e": "That is my first conversation about the weather."
+  },
+  {
+   "s": "Es ist nicht das letzte.",
+   "e": "It is not the last."
+  },
+  {
+   "s": "Draussen treffe ich einen Nachbarn.",
+   "e": "Outside I meet a neighbour."
+  },
+  {
+   "s": "Er sagt: schon wieder Regen.",
+   "e": "He says: rain again."
+  },
+  {
+   "s": "Ja, sage ich.",
+   "e": "Yes, I say."
+  },
+  {
+   "s": "Im Laden sagt ein Mann: was für ein Wetter.",
+   "e": "In the shop a man says: what weather."
+  },
+  {
+   "s": "Drei Leute reden vor zehn Uhr über das Wetter.",
+   "e": "Three people talk about the weather before ten."
+  },
+  {
+   "s": "Das Wetter ist immer ein Thema.",
+   "e": "The weather is always a topic."
+  },
+  {
+   "s": "Man fängt damit an.",
+   "e": "You start with it."
+  },
+  {
+   "s": "Es ist kein leeres Gerede.",
+   "e": "It is not empty chatter."
+  },
+  {
+   "s": "Es ist einfach der Anfang.",
+   "e": "It is simply the opening."
+  },
+  {
+   "s": "In Luzern regnet es viel.",
+   "e": "It rains a lot in Luzern."
+  },
+  {
+   "s": "Es regnet mehr als in Zürich.",
+   "e": "It rains more than in Zurich."
+  },
+  {
+   "s": "Das sagen hier alle.",
+   "e": "Everybody here says so."
+  },
+  {
+   "s": "Sie sagen es fast gern.",
+   "e": "They almost say it with pleasure."
+  },
+  {
+   "s": "Der Berg holt den Regen, sagt jemand.",
+   "e": "The mountain pulls in the rain, somebody says."
+  },
+  {
+   "s": "Der Pilatus steht im Weg.",
+   "e": "Pilatus stands in the way."
+  },
+  {
+   "s": "Der Pilatus hat einen Hut, dann kommt Regen.",
+   "e": "Pilatus has a hat on, then rain comes."
+  },
+  {
+   "s": "Ein Hut ist eine Wolke oben auf dem Berg.",
+   "e": "A hat is a cloud on top of the mountain."
+  },
+  {
+   "s": "Ich schaue jetzt immer zum Berg.",
+   "e": "Now I always look at the mountain."
+  },
+  {
+   "s": "Ich kaufe einen Schirm.",
+   "e": "I buy an umbrella."
+  },
+  {
+   "s": "Der Schirm ist klein und schwarz.",
+   "e": "The umbrella is small and black."
+  },
+  {
+   "s": "Der Schirm ist im Sack, immer.",
+   "e": "The umbrella is in my bag, always."
+  },
+  {
+   "s": "Man hat hier einen Schirm dabei.",
+   "e": "Here you carry an umbrella."
+  },
+  {
+   "s": "Auch bei Sonne.",
+   "e": "Even in sunshine."
+  },
+  {
+   "s": "Dann kommt ein Tag ohne Regen.",
+   "e": "Then a day comes with no rain."
+  },
+  {
+   "s": "Es ist warm.",
+   "e": "It is warm."
+  },
+  {
+   "s": "Warm und trocken im Oktober.",
+   "e": "Warm and dry in October."
+  },
+  {
+   "s": "Es ist sehr warm für die Jahreszeit.",
+   "e": "It is very warm for the time of year."
+  },
+  {
+   "s": "Die Luft ist warm und trocken.",
+   "e": "The air is warm and dry."
+  },
+  {
+   "s": "Der Himmel ist sehr klar.",
+   "e": "The sky is very clear."
+  },
+  {
+   "s": "Die Berge sehen nah aus.",
+   "e": "The mountains look close."
+  },
+  {
+   "s": "Sie sehen viel näher aus als sonst.",
+   "e": "They look much closer than usual."
+  },
+  {
+   "s": "Man sieht jeden Stein.",
+   "e": "You can see every stone."
+  },
+  {
+   "s": "Das ist der Föhn, sagt die Frau in der Bäckerei.",
+   "e": "That is the Föhn, the woman in the bakery says."
+  },
+  {
+   "s": "Der Föhn ist ein Wind.",
+   "e": "The Föhn is a wind."
+  },
+  {
+   "s": "Der Wind kommt plötzlich.",
+   "e": "The wind comes suddenly."
+  },
+  {
+   "s": "Der Wind kommt über die Berge.",
+   "e": "The wind comes over the mountains."
+  },
+  {
+   "s": "Er kommt von Süden.",
+   "e": "It comes from the south."
+  },
+  {
+   "s": "Der Wind ist warm und trocken.",
+   "e": "The wind is warm and dry."
+  },
+  {
+   "s": "Ein warmer Wind im Oktober ist komisch.",
+   "e": "A warm wind in October is odd."
+  },
+  {
+   "s": "Beim Föhn ist die Luft anders.",
+   "e": "During the Föhn the air is different."
+  },
+  {
+   "s": "Alles ist scharf und nah.",
+   "e": "Everything is sharp and close."
+  },
+  {
+   "s": "Der Föhn ist schön und alle klagen.",
+   "e": "The Föhn is beautiful and everybody complains."
+  },
+  {
+   "s": "Der Kopf tut weh, sagen sie.",
+   "e": "My head hurts, they say."
+  },
+  {
+   "s": "Ich kann nicht schlafen, sagen sie.",
+   "e": "I cannot sleep, they say."
+  },
+  {
+   "s": "Die Kinder sind wild, sagen sie.",
+   "e": "The children are wild, they say."
+  },
+  {
+   "s": "Alles ist der Föhn.",
+   "e": "Everything is the Föhn."
+  },
+  {
+   "s": "Der Föhn ist an allem schuld.",
+   "e": "The Föhn is to blame for everything."
+  },
+  {
+   "s": "Nach dem Föhn kommt oft Regen.",
+   "e": "After the Föhn rain often comes."
+  },
+  {
+   "s": "Und der Regen kommt auch.",
+   "e": "And the rain does come."
+  },
+  {
+   "s": "Am nächsten Tag regnet es wieder.",
+   "e": "The next day it rains again."
+  },
+  {
+   "s": "Diesmal habe ich den Schirm dabei.",
+   "e": "This time I have the umbrella with me."
+  },
+  {
+   "s": "Ich werde nicht nass.",
+   "e": "I do not get wet."
+  },
+  {
+   "s": "Das ist ein kleiner Sieg.",
+   "e": "That is a small victory."
+  },
+  {
+   "s": "Im Oktober wird es kalt.",
+   "e": "In October it gets cold."
+  },
+  {
+   "s": "Der Regen wird kalt.",
+   "e": "The rain gets cold."
+  },
+  {
+   "s": "Kalter Regen ist schlimmer als viel Regen.",
+   "e": "Cold rain is worse than a lot of rain."
+  },
+  {
+   "s": "Oben auf den Bergen liegt Schnee.",
+   "e": "There is snow on the mountains."
+  },
+  {
+   "s": "Der Schnee bleibt oben liegen.",
+   "e": "The snow stays up there."
+  },
+  {
+   "s": "Der Schnee kommt tiefer.",
+   "e": "The snow comes lower down."
+  },
+  {
+   "s": "Jede Woche kommt der Schnee tiefer.",
+   "e": "Every week the snow comes lower."
+  },
+  {
+   "s": "Unten schneit es noch nicht.",
+   "e": "Down here it is not snowing yet."
+  },
+  {
+   "s": "Wenig später schneit es doch.",
+   "e": "A little later it does snow."
+  },
+  {
+   "s": "In der Stadt schneit es selten.",
+   "e": "In town it rarely snows."
+  },
+  {
+   "s": "Am See bleibt der Schnee nicht liegen.",
+   "e": "By the lake the snow does not settle."
+  },
+  {
+   "s": "Oben schneit es die ganze Woche.",
+   "e": "Up there it snows all week."
+  },
+  {
+   "s": "Ein Mann sagt: bald schneit es auch hier.",
+   "e": "A man says: soon it will snow down here too."
+  },
+  {
+   "s": "Er sagt es wie eine Warnung.",
+   "e": "He says it like a warning."
+  },
+  {
+   "s": "Und wie etwas Schönes.",
+   "e": "And like something good."
+  },
+  {
+   "s": "Ich schaue jeden Morgen aus dem Fenster.",
+   "e": "I look out of the window every morning."
+  },
+  {
+   "s": "Regen oder kein Regen.",
+   "e": "Rain or no rain."
+  },
+  {
+   "s": "Wolke auf dem Berg oder nicht.",
+   "e": "Cloud on the mountain or not."
+  },
+  {
+   "s": "Dann weiss ich das Wetter.",
+   "e": "Then I know the weather."
+  },
+  {
+   "s": "Und ich habe einen Satz für die Bäckerei.",
+   "e": "And I have a sentence for the bakery."
+  },
+  {
+   "s": "Grüezi. Heute regnet es wieder.",
+   "e": "Grüezi. It is raining again today."
+  },
+  {
+   "s": "Das ist nicht viel.",
+   "e": "That is not much."
+  },
+  {
+   "s": "Aber es ist etwas.",
+   "e": "But it is something."
+  }
+ ]
+}

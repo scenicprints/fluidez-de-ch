@@ -1,0 +1,382 @@
+{
+ "id": "p0-10",
+ "title": "Wo ist die Post?",
+ "desc": "Asking, and understanding half the answer",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "geradeaus",
+  "Post",
+  "rechts",
+  "mitkommen",
+  "gelb",
+  "links",
+  "verstehen",
+  "Weg",
+  "Strasse",
+  "Platz",
+  "gehen"
+ ],
+ "sn": [
+  {
+   "s": "Ich muss zur Post.",
+   "e": "I have to go to the post office."
+  },
+  {
+   "s": "Ich weiss den Weg zur Post nicht.",
+   "e": "I do not know the way to the post office."
+  },
+  {
+   "s": "Ich gehe durch die Stadt.",
+   "e": "I walk through the town."
+  },
+  {
+   "s": "Die Strassen sind eng.",
+   "e": "The streets are narrow."
+  },
+  {
+   "s": "Jede Strasse sieht gleich aus.",
+   "e": "Every street looks the same."
+  },
+  {
+   "s": "Ich gehe eine Strasse hinauf.",
+   "e": "I walk up a street."
+  },
+  {
+   "s": "Dann gehe ich die Strasse wieder hinunter.",
+   "e": "Then I walk back down the street."
+  },
+  {
+   "s": "Ich finde die Post nicht.",
+   "e": "I do not find the post office."
+  },
+  {
+   "s": "Auf einem Platz stehen Leute.",
+   "e": "There are people standing on a square."
+  },
+  {
+   "s": "Der Platz ist klein.",
+   "e": "The square is small."
+  },
+  {
+   "s": "Auf dem Platz ist ein Brunnen.",
+   "e": "There is a fountain on the square."
+  },
+  {
+   "s": "Ich frage eine Frau.",
+   "e": "I ask a woman."
+  },
+  {
+   "s": "Grüezi, wo ist die Post?",
+   "e": "Grüezi, where is the post office?"
+  },
+  {
+   "s": "Die Frau denkt kurz nach.",
+   "e": "The woman thinks for a moment."
+  },
+  {
+   "s": "Dann redet sie.",
+   "e": "Then she talks."
+  },
+  {
+   "s": "Sie redet schnell.",
+   "e": "She talks fast."
+  },
+  {
+   "s": "Sie sagt: da vorne links.",
+   "e": "She says: up ahead on the left."
+  },
+  {
+   "s": "Links verstehe ich.",
+   "e": "Left I understand."
+  },
+  {
+   "s": "Dann sagt sie etwas mit rechts.",
+   "e": "Then she says something with right in it."
+  },
+  {
+   "s": "Rechts verstehe ich auch.",
+   "e": "Right I understand too."
+  },
+  {
+   "s": "Dann sagt sie geradeaus.",
+   "e": "Then she says straight on."
+  },
+  {
+   "s": "Geradeaus verstehe ich auch.",
+   "e": "Straight on I understand too."
+  },
+  {
+   "s": "Aber alles zusammen verstehe ich nicht.",
+   "e": "But all of it together I do not understand."
+  },
+  {
+   "s": "Links, rechts, geradeaus, und dann noch etwas.",
+   "e": "Left, right, straight on, and then something else."
+  },
+  {
+   "s": "Ich verstehe die Hälfte.",
+   "e": "I understand half of it."
+  },
+  {
+   "s": "Ich sage merci.",
+   "e": "I say merci."
+  },
+  {
+   "s": "Ich gehe los.",
+   "e": "I set off."
+  },
+  {
+   "s": "Ich gehe geradeaus.",
+   "e": "I go straight on."
+  },
+  {
+   "s": "Dann gehe ich links.",
+   "e": "Then I go left."
+  },
+  {
+   "s": "Dann stehe ich wieder auf einem Platz.",
+   "e": "Then I am standing on a square again."
+  },
+  {
+   "s": "Es ist ein anderer Platz.",
+   "e": "It is a different square."
+  },
+  {
+   "s": "Oder ist es der gleiche?",
+   "e": "Or is it the same one?"
+  },
+  {
+   "s": "Ich weiss es nicht.",
+   "e": "I do not know."
+  },
+  {
+   "s": "Ich frage einen Mann.",
+   "e": "I ask a man."
+  },
+  {
+   "s": "Er ist vielleicht sechzig.",
+   "e": "He is maybe sixty."
+  },
+  {
+   "s": "Grüezi, wo ist die Post, bitte?",
+   "e": "Grüezi, where is the post office, please?"
+  },
+  {
+   "s": "Der Mann fängt an zu erklären.",
+   "e": "The man starts explaining."
+  },
+  {
+   "s": "Er zeigt nach rechts.",
+   "e": "He points right."
+  },
+  {
+   "s": "Dann zeigt er nach links.",
+   "e": "Then he points left."
+  },
+  {
+   "s": "Dann hört er auf.",
+   "e": "Then he stops."
+  },
+  {
+   "s": "Er schaut mich an.",
+   "e": "He looks at me."
+  },
+  {
+   "s": "Ich verstehe nichts, und er sieht das.",
+   "e": "I do not understand, and he sees it."
+  },
+  {
+   "s": "Er sagt: kommen Sie mit.",
+   "e": "He says: come with me."
+  },
+  {
+   "s": "Ich komme mit.",
+   "e": "I come along."
+  },
+  {
+   "s": "Wir gehen zusammen und er kommt einfach mit.",
+   "e": "We walk together and he simply comes along."
+  },
+  {
+   "s": "Ich komme mit.",
+   "e": "I come along."
+  },
+  {
+   "s": "Wir gehen zusammen.",
+   "e": "We walk together."
+  },
+  {
+   "s": "Er geht nicht schnell.",
+   "e": "He does not walk fast."
+  },
+  {
+   "s": "Der Weg ist nicht weit.",
+   "e": "The way is not far."
+  },
+  {
+   "s": "Wir gehen eine Strasse hinunter.",
+   "e": "We walk down a street."
+  },
+  {
+   "s": "Dann gehen wir rechts.",
+   "e": "Then we go right."
+  },
+  {
+   "s": "Dann noch einmal rechts.",
+   "e": "Then right again."
+  },
+  {
+   "s": "Dann geradeaus über einen Platz.",
+   "e": "Then straight on across a square."
+  },
+  {
+   "s": "So finde ich den Weg nie allein.",
+   "e": "I would never find the way on my own like that."
+  },
+  {
+   "s": "Er fragt: woher kommen Sie?",
+   "e": "He asks: where are you from?"
+  },
+  {
+   "s": "Ich sage es.",
+   "e": "I tell him."
+  },
+  {
+   "s": "Er nickt und sagt nichts weiter.",
+   "e": "He nods and says nothing more."
+  },
+  {
+   "s": "Wir gehen weiter.",
+   "e": "We walk on."
+  },
+  {
+   "s": "Dann bleibt er stehen.",
+   "e": "Then he stops."
+  },
+  {
+   "s": "Er zeigt auf ein Haus.",
+   "e": "He points at a building."
+  },
+  {
+   "s": "Das Haus ist gelb.",
+   "e": "The building is yellow."
+  },
+  {
+   "s": "Es ist ganz gelb.",
+   "e": "It is completely yellow."
+  },
+  {
+   "s": "Die Post ist gelb.",
+   "e": "The post office is yellow."
+  },
+  {
+   "s": "Das Zeichen ist gelb und schwarz.",
+   "e": "The sign is yellow and black."
+  },
+  {
+   "s": "Die Post ist immer gelb, sagt er.",
+   "e": "The post office is always yellow, he says."
+  },
+  {
+   "s": "Die Autos von der Post sind auch gelb.",
+   "e": "The post office vans are yellow too."
+  },
+  {
+   "s": "Der Bus von der Post ist auch gelb.",
+   "e": "The post bus is yellow as well."
+  },
+  {
+   "s": "Gelb sucht man, sagt er.",
+   "e": "Look for yellow, he says."
+  },
+  {
+   "s": "Ich sage merci vielmal.",
+   "e": "I say merci vielmal."
+  },
+  {
+   "s": "Er sagt: keine Ursache.",
+   "e": "He says: no trouble at all."
+  },
+  {
+   "s": "Dann sagt er Ade und geht zurück.",
+   "e": "Then he says Ade and walks back."
+  },
+  {
+   "s": "Er geht den ganzen Weg zurück.",
+   "e": "He walks the whole way back."
+  },
+  {
+   "s": "Er muss gar nicht hierher.",
+   "e": "He does not need to come this way at all."
+  },
+  {
+   "s": "Ich frage, und er kommt einfach mit.",
+   "e": "I ask, and he just comes along."
+  },
+  {
+   "s": "Das machen die Leute hier so.",
+   "e": "That is what people do here."
+  },
+  {
+   "s": "Sie erklären nicht gern lang.",
+   "e": "They do not like explaining at length."
+  },
+  {
+   "s": "Sie gehen lieber mit.",
+   "e": "They would rather come with you."
+  },
+  {
+   "s": "Kommen Sie mit ist hier eine ganze Erklärung.",
+   "e": "Come with me is a whole explanation here."
+  },
+  {
+   "s": "In der Post ist es ruhig.",
+   "e": "Inside the post office it is quiet."
+  },
+  {
+   "s": "Ich ziehe eine Nummer.",
+   "e": "I take a number."
+  },
+  {
+   "s": "Ich warte auf meine Nummer.",
+   "e": "I wait for my number."
+  },
+  {
+   "s": "Am Schalter sage ich Grüezi.",
+   "e": "At the counter I say Grüezi."
+  },
+  {
+   "s": "Ich verstehe die Frau am Schalter gut.",
+   "e": "I understand the woman at the counter well."
+  },
+  {
+   "s": "Sie redet langsam mit mir.",
+   "e": "She talks slowly to me."
+  },
+  {
+   "s": "Draussen schaue ich noch einmal auf die Strasse.",
+   "e": "Outside I look at the street once more."
+  },
+  {
+   "s": "Ich merke mir den Weg.",
+   "e": "I make a note of the way."
+  },
+  {
+   "s": "Rechts, rechts, geradeaus, dann das gelbe Haus.",
+   "e": "Right, right, straight on, then the yellow building."
+  },
+  {
+   "s": "Beim nächsten Mal finde ich den Weg.",
+   "e": "Next time I will find the way."
+  },
+  {
+   "s": "Beim nächsten Mal frage ich niemanden.",
+   "e": "Next time I will not ask anybody."
+  },
+  {
+   "s": "Vielleicht ist das schade.",
+   "e": "Maybe that is a shame."
+  }
+ ]
+}
