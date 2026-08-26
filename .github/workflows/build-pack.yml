@@ -1,0 +1,74 @@
+name: Build content pack
+
+# Edit a lesson, commit, done. This validates every file, runs every gate and
+# rebuilds the bundled pack the app downloads, so publishing content never
+# needs an app release — and a stray comma fails loudly here instead of
+# quietly on everybody's phone.
+#
+# Ported from fluidez-es-ni. The German repo had an empty workflows/ directory,
+# which meant NEXT.md's "CI commits the rebuilt pack back to main" was simply
+# untrue here: a pushed lesson would never have reached the app.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - '!content/pack.json'
+      - '!content/version.json'
+      - '.github/workflows/build-pack.yml'
+      - '.github/scripts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content-pack
+  cancel-in-progress: true
+
+jobs:
+  pack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate every JSON file
+        run: |
+          set -e
+          fail=0
+          for f in $(find content -name '*.json'); do
+            python -c "import json,sys; json.load(open(sys.argv[1], encoding='utf-8'))" "$f" \
+              || { echo "::error file=$f::not valid JSON"; fail=1; }
+          done
+          exit $fail
+
+      # The gates that have their own tests run here too. A gate nobody has
+      # watched fail has not been tested, and dialect.py was wrong once in a
+      # way that rejected the correct spelling of Grüezi.
+      - name: Test the gates
+        run: |
+          set -e
+          python .github/scripts/dialect_test.py
+          python .github/scripts/verbs_test.py
+
+      - name: Build the pack
+        run: |
+          VERSION="$(date -u +%Y%m%d-%H%M)+$(git rev-parse --short HEAD)"
+          # fluidez-de-ch -> de-ch
+          CODE="${{ github.event.repository.name }}"
+          CODE="${CODE#fluidez-}"
+          echo "Building $CODE $VERSION"
+          python .github/scripts/build-pack.py --root . --language "$CODE" --version "$VERSION"
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- content/pack.json content/version.json; then
+            echo "Pack unchanged."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/pack.json content/version.json
+          git commit -m "Rebuild content pack [skip ci]"
+          git push

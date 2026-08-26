@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Bundles content/pack.json from the manifest, and runs every gate first.
 
-    python .github/scripts/build-pack.py --root . --version 20260825-1900+phase0
+    python .github/scripts/build-pack.py --root . --language de-ch --version 20260825-1900+phase0
 
 Two rules, both inherited from es-ni:
 
@@ -39,6 +39,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", default=".")
     ap.add_argument("--version", default=None)
+    # CI derives the code from the repo name, so a new course needs no edit here.
+    ap.add_argument("--language", default=None, help="course code, e.g. de-ch")
     args = ap.parse_args()
     content = os.path.join(os.path.abspath(args.root), "content")
 
@@ -100,7 +102,7 @@ def main():
 
     pack = {
         "version": None,
-        "language": "de-ch",
+        "language": args.language or "de-ch",
         "features": m.get("features"),
         "speech": m.get("speech"),
         "mascot": m.get("mascot"),
