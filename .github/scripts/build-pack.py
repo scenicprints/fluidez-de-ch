@@ -26,6 +26,7 @@ import dialect          # noqa: E402
 import verbs as vgate   # noqa: E402
 import forms as morphology  # noqa: E402
 import schedule as sched    # noqa: E402
+import mascot as masc      # noqa: E402
 
 NEWLINE = chr(10)
 
@@ -63,6 +64,7 @@ def main():
     if verbs_doc:
         verbs_doc.pop("_", None)          # the schema notes stay in the repo
     emergency = rd(m["emergency"]) if m.get("emergency") else None
+    mascot_doc = rd(m["momo"]) if m.get("momo") else None
 
     # Every inflected form that ACTUALLY OCCURS, mapped back to its entry.
     # Without this the reader is at 53% of the words on the page tappable and
@@ -115,7 +117,7 @@ def main():
         "scenarios": scenarios,
         "verbs": verbs_doc,
         "emergency": emergency,
-        "momo": [],
+        "momo": (mascot_doc or {}).get("lines") or [],
     }
 
     allow_path = os.path.join(content, "dialect-allow.json")
@@ -142,6 +144,25 @@ def main():
             order = None
     sched_problems, sched_stats = sched.check(pack, order)
 
+    # What the mascot is allowed to say, and whether she can ever say it. A
+    # line gated on a word the course does not teach is silence, and es-ni
+    # shipped sixteen of those without anything noticing.
+    mascot_problems, mascot_warnings, mascot_lines = [], [], []
+    if mascot_doc is not None:
+        used = set()
+        for l in lessons:
+            for w in sched.story_words(l, dictionary, word_forms, verbs_doc or {}):
+                used.add(w)
+        for sc in scenarios:
+            for st in sc.get("steps") or []:
+                for t in [st.get("es") or u""] + [o.get("es") or u"" for o in st.get("options") or []]:
+                    for w in sched.TOKEN.findall(t):
+                        lem = sched.lemma_of(w, dictionary, word_forms)
+                        if lem:
+                            used.add(lem)
+        mascot_problems, mascot_warnings, mascot_lines = masc.check(
+            mascot_doc, dictionary, used)
+
     lines = []
     for w in warnings:
         lines.append(u"WARNING: %s says %r - %s" % (w[0], w[1], w[2]))
@@ -149,10 +170,13 @@ def main():
         lines.append(u"WARNING: %s" % w)
     for p in problems:
         lines.append(u"PROBLEM: %s says %r - %s" % (p[0], p[1], p[2]))
-    for p in vp + dead + sched_problems:
+    for w in mascot_warnings:
+        lines.append(u"WARNING: %s" % w)
+    for p in vp + dead + sched_problems + mascot_problems:
         lines.append(u"PROBLEM: %s" % p)
 
-    fatal = len(problems) + len(vp) + len(dead) + len(sched_problems)
+    fatal = (len(problems) + len(vp) + len(dead) + len(sched_problems)
+             + len(mascot_problems))
     lines += [
         u"lessons    %d" % len(lessons),
         u"scenes     %d" % len(scenarios),
@@ -165,6 +189,7 @@ def main():
         u"forms      %d inflections mapped, %d dropped as ambiguous"
         % (len(word_forms), len(ambiguous)),
         u"tappable   %.1f%% of the words on the page" % tappable_pct,
+        u"mascot     %d lines, every one earnable" % len(mascot_lines),
         u"swiss      %d Helvetisms in use" % hits,
         u"schedule   median %d encounters, %d words reach ten"
         % (sched_stats.get("median_encounters", 0), sched_stats.get("reach_ten", 0)),
