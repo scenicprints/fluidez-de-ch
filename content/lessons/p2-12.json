@@ -1,0 +1,381 @@
+{
+ "id": "p2-12",
+ "title": "Der Verein",
+ "desc": "You have to join something",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Beitrag",
+  "Verein"
+ ],
+ "sn": [
+  {
+   "s": "Timo hat mich angemeldet.",
+   "e": "Timo signed me up."
+  },
+  {
+   "s": "Er hat mich zuerst nicht gefragt.",
+   "e": "He did not ask me first."
+  },
+  {
+   "s": "Er hat gesagt: Du bist jetzt im Verein.",
+   "e": "He said: you are in the club now."
+  },
+  {
+   "s": "Ein Verein ist hier alles.",
+   "e": "A club is everything here."
+  },
+  {
+   "s": "Es gibt einen Verein für alles.",
+   "e": "There is a club for everything."
+  },
+  {
+   "s": "Turnverein, Musikverein, Schützenverein.",
+   "e": "Gymnastics club, music club, shooting club."
+  },
+  {
+   "s": "Es gibt einen Verein für Katzen.",
+   "e": "There is a club for cats."
+  },
+  {
+   "s": "Es gibt einen Verein für alte Traktoren.",
+   "e": "There is a club for old tractors."
+  },
+  {
+   "s": "In diesem Land gibt es hunderttausend Vereine.",
+   "e": "There are a hundred thousand clubs in this country."
+  },
+  {
+   "s": "Fast jeder ist in einem Verein.",
+   "e": "Almost everybody is in a club."
+  },
+  {
+   "s": "Viele sind in dreien.",
+   "e": "Many are in three."
+  },
+  {
+   "s": "Der Verein ist der Ort für Freunde.",
+   "e": "The club is the place for friends."
+  },
+  {
+   "s": "Ein Erwachsener macht hier so Freunde.",
+   "e": "That is how an adult makes friends here."
+  },
+  {
+   "s": "Nicht in der Beiz. Nicht auf der Strasse.",
+   "e": "Not in the pub. Not in the street."
+  },
+  {
+   "s": "Im Verein, jede Woche, am gleichen Abend.",
+   "e": "In the club, every week, on the same evening."
+  },
+  {
+   "s": "Timos Verein ist ein Turnverein.",
+   "e": "Timo's club is a gymnastics club."
+  },
+  {
+   "s": "Sie turnen am Mittwoch um halb acht.",
+   "e": "They do gymnastics on Wednesday at half past seven."
+  },
+  {
+   "s": "Sie turnen in der Turnhalle von der Schule.",
+   "e": "They do it in the school gym."
+  },
+  {
+   "s": "Turnen heisst: springen, laufen, Ball spielen.",
+   "e": "Turnen means: jumping, running, playing ball."
+  },
+  {
+   "s": "Es ist kein Sport für junge Leute allein.",
+   "e": "It is not a sport for young people only."
+  },
+  {
+   "s": "Der älteste Mann ist einundsiebzig.",
+   "e": "The oldest man is seventy-one."
+  },
+  {
+   "s": "Er turnt seit fünfzig Jahren im gleichen Verein.",
+   "e": "He has been in the same club for fifty years."
+  },
+  {
+   "s": "Am ersten Mittwoch bin ich hingegangen.",
+   "e": "On the first Wednesday I went."
+  },
+  {
+   "s": "Ich hatte Angst vor dem Abend.",
+   "e": "I was afraid of the evening."
+  },
+  {
+   "s": "Achtzehn Leute und ich verstehe die Hälfte.",
+   "e": "Eighteen people and I understand half of it."
+  },
+  {
+   "s": "Sie reden alle Dialekt miteinander.",
+   "e": "They all speak dialect with each other."
+  },
+  {
+   "s": "Beim Sport reden sie schnell und kurz.",
+   "e": "In sport they talk fast and short."
+  },
+  {
+   "s": "Aber im Sport braucht man wenig Wörter.",
+   "e": "But in sport you need few words."
+  },
+  {
+   "s": "Ball. Hier. Los. Gut.",
+   "e": "Ball. Here. Go. Good."
+  },
+  {
+   "s": "Das habe ich alles verstanden.",
+   "e": "I understood all of that."
+  },
+  {
+   "s": "Alle sagen du. Sofort.",
+   "e": "Everybody says du. At once."
+  },
+  {
+   "s": "Der Mann von einundsiebzig hat du gesagt.",
+   "e": "The man of seventy-one said du."
+  },
+  {
+   "s": "Er hat gesagt: Ich bin der Sepp.",
+   "e": "He said: I am Sepp."
+  },
+  {
+   "s": "Im Verein gibt es keinen Herrn und keine Frau.",
+   "e": "In a club there is no Herr and no Frau."
+  },
+  {
+   "s": "Es gibt nur Vornamen.",
+   "e": "There are only first names."
+  },
+  {
+   "s": "Nach dem Turnen sitzen alle noch eine Stunde.",
+   "e": "After the gymnastics everybody sits for another hour."
+  },
+  {
+   "s": "Das ist der wichtigere Teil.",
+   "e": "That is the more important part."
+  },
+  {
+   "s": "Timo hat gesagt: Das Turnen ist der Grund.",
+   "e": "Timo said: the gymnastics is the reason."
+  },
+  {
+   "s": "Er hat gesagt: Das Sitzen danach ist der Sinn.",
+   "e": "He said: the sitting afterwards is the point."
+  },
+  {
+   "s": "Ein Verein hat einen Vorstand.",
+   "e": "A club has a committee."
+  },
+  {
+   "s": "Der Vorstand hat einen Präsidenten und einen Kassier.",
+   "e": "The committee has a president and a treasurer."
+  },
+  {
+   "s": "Sie machen alles gratis, neben ihrer Arbeit.",
+   "e": "They do it all for free, alongside their work."
+  },
+  {
+   "s": "Jeder Verein hat einen Beitrag.",
+   "e": "Every club has a subscription."
+  },
+  {
+   "s": "Der Beitrag ist achtzig Franken im Jahr.",
+   "e": "The subscription is eighty francs a year."
+  },
+  {
+   "s": "Man zahlt den Beitrag einmal im Jahr.",
+   "e": "You pay the subscription once a year."
+  },
+  {
+   "s": "Der Beitrag kommt mit einem Brief.",
+   "e": "The subscription comes with a letter."
+  },
+  {
+   "s": "Für den Beitrag kommt eine Rechnung.",
+   "e": "A bill comes for the subscription."
+  },
+  {
+   "s": "Ich zahle sie am Schalter auf der Post.",
+   "e": "I pay it at the counter in the post office."
+  },
+  {
+   "s": "Für den Verein muss man ein Formular unterschreiben.",
+   "e": "To join the club you have to sign a form."
+  },
+  {
+   "s": "Timo hat es ausgefüllt und ich habe unterschrieben.",
+   "e": "Timo filled it in and I signed."
+  },
+  {
+   "s": "Der Musikverein spielt am Donnerstag in der Turnhalle.",
+   "e": "The music club plays in the gym on Thursday."
+  },
+  {
+   "s": "Die Musik hört man bis auf die Strasse.",
+   "e": "You can hear the music out in the street."
+  },
+  {
+   "s": "Der Hauswart von der Turnhalle macht um zehn zu.",
+   "e": "The caretaker of the gym locks up at ten."
+  },
+  {
+   "s": "Er wohnt daneben und zahlt keine Miete dafür.",
+   "e": "He lives next door and pays no rent for it."
+  },
+  {
+   "s": "Man zahlt und dann ist man ein Mitglied.",
+   "e": "You pay and then you are a member."
+  },
+  {
+   "s": "Ein Mitglied hat Rechte und Pflichten.",
+   "e": "A member has rights and duties."
+  },
+  {
+   "s": "Ein Mitglied darf abstimmen.",
+   "e": "A member may vote."
+  },
+  {
+   "s": "Ein Mitglied muss an die Versammlung.",
+   "e": "A member has to go to the meeting."
+  },
+  {
+   "s": "Die Versammlung ist einmal im Jahr.",
+   "e": "The meeting is once a year."
+  },
+  {
+   "s": "Sie dauert drei Stunden.",
+   "e": "It lasts three hours."
+  },
+  {
+   "s": "Alle kommen. Wirklich alle.",
+   "e": "Everybody comes. Really everybody."
+  },
+  {
+   "s": "Man stimmt über den Beitrag ab.",
+   "e": "They vote on the subscription."
+  },
+  {
+   "s": "Man stimmt über die Farbe von den neuen Leibchen ab.",
+   "e": "They vote on the colour of the new shirts."
+  },
+  {
+   "s": "Das dauert vierzig Minuten.",
+   "e": "That takes forty minutes."
+  },
+  {
+   "s": "Es ist ernst und es ist auch lustig.",
+   "e": "It is serious and it is also funny."
+  },
+  {
+   "s": "Timo sagt: So funktioniert das ganze Land.",
+   "e": "Timo says: that is how the whole country works."
+  },
+  {
+   "s": "Er sagt: Zuerst der Verein, dann die Gemeinde, dann der Kanton.",
+   "e": "He says: first the club, then the commune, then the canton."
+  },
+  {
+   "s": "Er sagt: Es ist überall die gleiche Versammlung.",
+   "e": "He says: it is the same meeting everywhere."
+  },
+  {
+   "s": "Ein Verein hat auch Feste.",
+   "e": "A club has festivals too."
+  },
+  {
+   "s": "Im Sommer gibt es ein Fest mit Wurst und Bier.",
+   "e": "In summer there is a party with sausage and beer."
+  },
+  {
+   "s": "Im Winter gibt es ein Essen.",
+   "e": "In winter there is a dinner."
+  },
+  {
+   "s": "Der Verein hilft auch bei anderen Festen.",
+   "e": "The club also helps at other festivals."
+  },
+  {
+   "s": "Sie stehen dann am Stand und verkaufen Kaffee.",
+   "e": "They stand at the stall and sell coffee."
+  },
+  {
+   "s": "Niemand bekommt Geld dafür.",
+   "e": "Nobody gets money for it."
+  },
+  {
+   "s": "Alle machen es und alle finden es normal.",
+   "e": "Everybody does it and everybody finds it normal."
+  },
+  {
+   "s": "Nach vier Wochen kennen mich achtzehn Leute.",
+   "e": "After four weeks eighteen people know me."
+  },
+  {
+   "s": "Nach vier Wochen grüssen sie mich in der Stadt.",
+   "e": "After four weeks they greet me in town."
+  },
+  {
+   "s": "Das ist in einem Monat nie passiert.",
+   "e": "That never happened in a month."
+  },
+  {
+   "s": "Im Verein passiert es in vier Wochen.",
+   "e": "In a club it happens in four weeks."
+  },
+  {
+   "s": "Sepp hat mir am dritten Abend die Hand gegeben.",
+   "e": "Sepp shook my hand on the third evening."
+  },
+  {
+   "s": "Er hat gesagt: Du bist wieder da.",
+   "e": "He said: you came back."
+  },
+  {
+   "s": "Er hat gesagt: Die meisten kommen einmal.",
+   "e": "He said: most people come once."
+  },
+  {
+   "s": "Das war das ganze Kompliment.",
+   "e": "That was the whole compliment."
+  },
+  {
+   "s": "Es hat mir für eine Woche gereicht.",
+   "e": "It kept me going for a week."
+  },
+  {
+   "s": "Timo hat mir später etwas gesagt.",
+   "e": "Timo told me something later."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe dich angemeldet und nicht gefragt.",
+   "e": "He said: I signed you up and did not ask."
+  },
+  {
+   "s": "Er hat gesagt: Sonst sagst du Nein.",
+   "e": "He said: otherwise you say no."
+  },
+  {
+   "s": "Er hat recht gehabt.",
+   "e": "He was right."
+  },
+  {
+   "s": "Ich sage bei so etwas immer Nein.",
+   "e": "I always say no to something like that."
+  },
+  {
+   "s": "Ich sage: Vielleicht im Frühling.",
+   "e": "I say: maybe in the spring."
+  },
+  {
+   "s": "Und dann passiert nie etwas.",
+   "e": "And then nothing ever happens."
+  },
+  {
+   "s": "Manchmal braucht man jemanden mit einem Formular.",
+   "e": "Sometimes you need somebody with a form."
+  }
+ ]
+}

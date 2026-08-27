@@ -238,5 +238,127 @@
    "zahlen"
   ],
   "text": "Not by email. On paper, into the letterbox, with a QR code in the bottom right corner.\n\nEverything is in that code — the account, the amount, your name. Hold your phone over it, or put the bill into the machine at the post office, or queue at the counter and pay in cash. All three are normal.\n\n**Three words to read first:**\n• **der Betrag** — the amount\n• **das Datum** — the deadline, usually thirty days\n• **die Mahnung** — what arrives if you miss it, and it costs twenty francs\n\nThe habit everybody here has: the bill comes, you pay it the same day, it goes in the folder. Not because anybody is virtuous, but because a Mahnung is expensive and a second one is worse."
+ },
+ {
+  "id": "perfekt_haben",
+  "title": "The past everybody actually speaks",
+  "min": 4,
+  "trigger": [
+   "haben",
+   "machen",
+   "sagen",
+   "trinken",
+   "gestern",
+   "kaufen"
+  ],
+  "text": "German has a written past and a spoken past, and outside a book you will hear the spoken one almost every time.\n\nIt is two pieces. **haben** in second position, and the verb itself, changed, parked at the end.\n\n• Ich **habe** einen Kaffee **getrunken**.\n• Sie **hat** nichts **gesagt**.\n• Wir **haben** zwei Stunden **geredet**.\n\nThe piece at the end is the participle. Regular verbs build it with **ge...t**: sagen becomes gesagt, machen gemacht, kaufen gekauft. Strong verbs use **ge...en** and often change the vowel: trinken becomes getrunken, sprechen gesprochen, nehmen genommen. There is no rule for the vowel, so the course states it on every verb card.\n\nThe bracket is the same one the modals taught you. Ich **muss** den Sack **spülen**, ich **habe** den Sack **gespült**. Something is in second place, something is at the end, and everything else lives in between."
+ },
+ {
+  "id": "perfekt_sein",
+  "title": "Some verbs take bin, not habe",
+  "min": 4,
+  "trigger": [
+   "sein",
+   "gehen",
+   "kommen",
+   "fahren",
+   "bleiben",
+   "stehen"
+  ],
+  "text": "A short list of verbs builds the same past with **sein** instead of haben.\n\n• Ich **bin** nach Hause **gegangen**.\n• Er **ist** um sieben **gekommen**.\n• Wir **sind** zwei Stunden **gefahren**.\n\nThey are the verbs of going somewhere and of becoming something else: gehen, kommen, fahren, laufen, steigen, fallen, and also bleiben, sein and werden, which do not move at all and take sein anyway.\n\n**Here is the Swiss part.** Standing, sitting and lying take **sein** in Switzerland and in the south generally, and **haben** in the north.\n\n• Ich **bin** am Fenster **gestanden**.\n• Wir **sind** am Tisch **gesessen**.\n\nIn Hamburg that would be ich habe gestanden. Both are correct German. This course says bin, because this course is in Luzern."
+ },
+ {
+  "id": "dativ",
+  "title": "The third case, and who gets it",
+  "min": 4,
+  "trigger": [
+   "geben",
+   "zeigen",
+   "schicken",
+   "mit",
+   "nach",
+   "bei"
+  ],
+  "text": "When something is handed over, two things are in the sentence: the thing, and the person who gets it. The person goes in the **dative**.\n\n• Er gibt **mir** das Messer.\n• Ich gebe **ihm** das Brett zurück.\n• Sie gibt **uns** zwei Teller.\n\nThe whole list, and it is short: **mir, dir, ihm, ihr, uns, euch, ihnen**, and **Ihnen** for the polite Sie.\n\nThe articles change too: der becomes **dem**, das becomes **dem**, die becomes **der**, and in the plural die becomes **den** with an **n** added to the noun.\n\n• mit **dem** Zug, in **der** Küche, bei **den** Nachbarn\n\n**mit, nach, bei, seit, von, zu, aus** always take it, with no thinking required. Seit **einem** Monat. Nach **dem** Essen. Bei **der** Post."
+ },
+ {
+  "id": "dativ_verben",
+  "title": "Verbs that hand you the dative",
+  "min": 4,
+  "trigger": [
+   "helfen",
+   "gehören",
+   "gefallen",
+   "schmecken",
+   "danke",
+   "passen"
+  ],
+  "text": "A handful of very common verbs put their person in the dative even though English feels like it should be an object.\n\n• Er hilft **mir**. Not: er hilft mich.\n• Das gehört **ihr**.\n• Die Stadt gefällt **mir**.\n• Der Käse schmeckt **ihm**.\n\nThe ones you will meet first: **helfen, gehören, gefallen, schmecken, passen, danken, begegnen, gratulieren**.\n\n**gefallen** is worth a second look, because it turns the sentence round. Not I like the town, but the town pleases me. The thing is the subject and does the work, and you sit in the dative and receive it.\n\n• Die Stadt **gefällt mir**.\n• Die Preise **gefallen mir** nicht.\n\nAnd **es tut mir leid** is the same shape. The sorrow does the acting, and it does it to you."
+ },
+ {
+  "id": "duzen_siezen",
+  "title": "Wollen wir du sagen?",
+  "min": 3,
+  "trigger": [
+   "duzen",
+   "siezen",
+   "Vorname",
+   "anbieten",
+   "Verein"
+  ],
+  "text": "Phase 0 said: start with Sie and wait. This is what the waiting ends with.\n\n**You never switch on your own.** The older or more senior person offers it, and the offer is a small ceremony: their first name, your hand, your first name.\n\n• **Wollen wir du sagen?**\n\nThat is the sentence. Yes is very nearly the only answer, and it is permanent. A du never goes back to Sie, which is exactly why people think about it for weeks before they offer one.\n\nTwo verbs cover the act itself. **duzen** is to say du, **siezen** is to say Sie.\n\n• Wir **duzen** uns.\n• Er **siezt** mich immer noch.\n\n**Where du is automatic:** in a club, in sport, and on a mountain path. A man of seventy says du to a child on a hiking trail and Sie to the same child in town, and nobody finds that strange.\n\nExpect to get it wrong for about three weeks. The mouth keeps saying Sie after the agreement, and everybody who has done this knows it."
+ },
+ {
+  "id": "mal",
+  "title": "mal, and the invitation that is not one",
+  "min": 3,
+  "trigger": [
+   "mal",
+   "Datum",
+   "Woche",
+   "kommen",
+   "essen"
+  ],
+  "text": "**mal** is a tiny word that softens whatever it lands on. Schau **mal**. Komm **mal** vorbei. Wir sollten **mal** essen gehen.\n\nIt is friendly, and it is not a plan.\n\n• **Wir sollten mal einen Kaffee trinken.** Nothing will happen.\n• **Hast du am Dienstag Zeit?** Something will happen.\n\nThe difference is a date. Plans here are made in calendars, three weeks ahead, and once a day and a time exist the thing is fixed. Nobody cancels the week of. Nobody forgets.\n\nSo waiting for a message after a sentence with mal in it is waiting for a train that is not on the timetable. This is not a lie, and the person meant the friendly thing they said. If you want the meal, **you** name the day. That takes more nerve and it works."
+ },
+ {
+  "id": "gern",
+  "title": "Saying yes at the local volume",
+  "min": 3,
+  "trigger": [
+   "gern",
+   "ja",
+   "danke",
+   "leider",
+   "Lust"
+  ],
+  "text": "Enthusiasm is expressed quietly here, and **gern** does most of the work.\n\n• **Ja, gern.** A full yes.\n• **Sehr gern.** More than a full yes.\n• **Klar.** An easy yes.\n• **Ja, wieso nicht.** Half a yes, and still a yes.\n\nA gern is worth as much as a grossartig somewhere else. You only have to convert the size. Answering an ordinary invitation with oh, das ist wunderbar, sehr sehr gern lands about three sizes too big, and the room quietly puts it back down.\n\nFor no, the word is **leider**.\n\n• **Das geht leider nicht.**\n• **Ich habe leider schon etwas abgemacht.**\n\nGive a short reason or none at all. Nobody asks what. And **keine Lust** is a real answer that nobody takes badly, which is better than yes now and a cancellation later."
+ },
+ {
+  "id": "adjektiv",
+  "title": "Adjectives in front of the noun",
+  "min": 4,
+  "trigger": [
+   "alt",
+   "gross",
+   "klein",
+   "der",
+   "ein",
+   "schön"
+  ],
+  "text": "After the verb an adjective never changes. **Der Stuhl ist alt.** Nothing added, nothing to learn.\n\nIn front of the noun it always changes.\n\n• **der alte** Stuhl, **ein alter** Stuhl\n• **die alte** Lampe, **eine alte** Lampe\n• **das alte** Buch, **ein altes** Buch\n\nThe ending depends on what stands in front. When the article already shows the gender, the adjective coasts on **e** or **en**. When it does not, the adjective has to carry it instead, which is why ein **alter** Stuhl and das **alte** Buch look so different.\n\n**Nobody learns this from the table.** You hear it a few hundred times and the wrong one starts to sound wrong, which is the only way anybody has ever learned it, native speakers included. The table is for checking afterwards, not for building sentences from."
+ },
+ {
+  "id": "imperativ",
+  "title": "Komm. Geh. Zieh das an.",
+  "min": 3,
+  "trigger": [
+   "kommen",
+   "gehen",
+   "bringen",
+   "setzen",
+   "anziehen"
+  ],
+  "text": "To tell somebody to do something, take the du form and drop the du and the **st**.\n\n• du kommst, **komm**\n• du gehst, **geh**\n• du bringst, **bring**\n\nIt sounds short and it is not unfriendly. **Komm essen** is two words and a whole invitation.\n\nFor Sie, keep the verb and add Sie: **Kommen Sie. Setzen Sie sich.**\n\nA verb with a front piece leaves it at the end, in an order too.\n\n• **Zieh** die Jacke **an**.\n• **Zieh** die Schuhe **aus**.\n• **Mach** das Licht **an**.\n\nAnd the reflexive ones keep their little word: **Setz dich.** **Setzen Sie sich.** The person doing the sitting is also the person being sat, and German makes you say so."
  }
 ]

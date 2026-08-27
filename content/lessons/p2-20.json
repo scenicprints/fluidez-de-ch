@@ -1,0 +1,405 @@
+{
+ "id": "p2-20",
+ "title": "Wanderung",
+ "desc": "A walk that is not a walk",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "oben",
+  "Stunde"
+ ],
+ "sn": [
+  {
+   "s": "Timo hat gesagt: Am Samstag machen wir eine Wanderung.",
+   "e": "Timo said: on Saturday we will do a hike."
+  },
+  {
+   "s": "Ich habe gesagt: Gern. Ein Spaziergang ist schön.",
+   "e": "I said: gladly. A walk is nice."
+  },
+  {
+   "s": "Das war der Fehler.",
+   "e": "That was the mistake."
+  },
+  {
+   "s": "Eine Wanderung ist kein Spaziergang.",
+   "e": "A hike is not a walk."
+  },
+  {
+   "s": "Ein Spaziergang ist eine Stunde am See.",
+   "e": "A walk is an hour by the lake."
+  },
+  {
+   "s": "Eine Wanderung ist sechs Stunden am Berg.",
+   "e": "A hike is six hours on a mountain."
+  },
+  {
+   "s": "Am Abend ist eine Nachricht gekommen.",
+   "e": "In the evening a message came."
+  },
+  {
+   "s": "In der Nachricht war eine Liste.",
+   "e": "In the message there was a list."
+  },
+  {
+   "s": "Eine richtige Liste mit acht Punkten.",
+   "e": "A real list with eight items."
+  },
+  {
+   "s": "Gute Schuhe. Nicht Turnschuhe.",
+   "e": "Good shoes. Not trainers."
+  },
+  {
+   "s": "Eine Jacke gegen Regen.",
+   "e": "A jacket against rain."
+  },
+  {
+   "s": "Etwas Warmes für oben.",
+   "e": "Something warm for up there."
+  },
+  {
+   "s": "Zwei Liter Wasser.",
+   "e": "Two litres of water."
+  },
+  {
+   "s": "Brot und Käse und Schokolade.",
+   "e": "Bread and cheese and chocolate."
+  },
+  {
+   "s": "Ein Rucksack für alles.",
+   "e": "A rucksack for all of it."
+  },
+  {
+   "s": "Sonnencreme. Auch im Nebel.",
+   "e": "Sun cream. Even in fog."
+  },
+  {
+   "s": "Abfahrt Bahnhof, sieben Uhr zwölf.",
+   "e": "Departure station, seven twelve."
+  },
+  {
+   "s": "Ich habe gedacht: Das ist zu viel.",
+   "e": "I thought: that is too much."
+  },
+  {
+   "s": "Ich habe die Hälfte mitgenommen.",
+   "e": "I took half of it."
+  },
+  {
+   "s": "Timo hat einen Plan auf Papier dabei.",
+   "e": "Timo has a plan on paper with him."
+  },
+  {
+   "s": "Er hat auch eine Karte vom Berg.",
+   "e": "He also has a map of the mountain."
+  },
+  {
+   "s": "Die Karte ist alt und sie stimmt trotzdem.",
+   "e": "The map is old and it is still right."
+  },
+  {
+   "s": "Er schaut am Abend vorher das Wetter an.",
+   "e": "He checks the weather the evening before."
+  },
+  {
+   "s": "Er sagt: Bei schlechtem Wetter gehen wir nicht.",
+   "e": "He says: in bad weather we do not go."
+  },
+  {
+   "s": "Ich habe am Abend davor gut geschlafen.",
+   "e": "I slept well the evening before."
+  },
+  {
+   "s": "Das war der zweite Fehler.",
+   "e": "That was the second mistake."
+  },
+  {
+   "s": "Um sieben Uhr zwölf steht Timo am Gleis.",
+   "e": "At seven twelve Timo is at the platform."
+  },
+  {
+   "s": "Er steht seit sieben Uhr fünf dort.",
+   "e": "He has been there since seven oh five."
+  },
+  {
+   "s": "Er hat einen grossen Rucksack.",
+   "e": "He has a big rucksack."
+  },
+  {
+   "s": "Er schaut auf meine Schuhe.",
+   "e": "He looks at my shoes."
+  },
+  {
+   "s": "Er sagt nichts.",
+   "e": "He says nothing."
+  },
+  {
+   "s": "Er sagt nichts, genau wie Ruedi Zemp.",
+   "e": "He says nothing, exactly like Ruedi Zemp."
+  },
+  {
+   "s": "Wir fahren mit dem Zug und dann mit einem Bus.",
+   "e": "We go by train and then by bus."
+  },
+  {
+   "s": "Der Bus fährt eine schmale Strasse hinauf.",
+   "e": "The bus goes up a narrow road."
+  },
+  {
+   "s": "Die Strasse hat elf Kurven.",
+   "e": "The road has eleven bends."
+  },
+  {
+   "s": "Der Bus ist gelb und er ist immer pünktlich.",
+   "e": "The bus is yellow and it is always on time."
+  },
+  {
+   "s": "Oben steigen wir aus.",
+   "e": "At the top we get off."
+  },
+  {
+   "s": "Es ist kalt und die Luft riecht anders.",
+   "e": "It is cold and the air smells different."
+  },
+  {
+   "s": "Am Anfang vom Weg steht ein gelbes Schild.",
+   "e": "At the start of the path there is a yellow sign."
+  },
+  {
+   "s": "Auf dem Schild steht eine Zeit: zwei Stunden vierzig.",
+   "e": "On the sign there is a time: two hours forty."
+  },
+  {
+   "s": "Nicht Kilometer. Stunden und Minuten.",
+   "e": "Not kilometres. Hours and minutes."
+  },
+  {
+   "s": "Das ganze Land misst die Wege in Zeit.",
+   "e": "The whole country measures paths in time."
+  },
+  {
+   "s": "Die Zeit auf dem Schild stimmt.",
+   "e": "The time on the sign is right."
+  },
+  {
+   "s": "Sie stimmt fast auf die Minute.",
+   "e": "It is right almost to the minute."
+  },
+  {
+   "s": "Timo sagt: Zwei Stunden vierzig heisst zwei Stunden vierzig.",
+   "e": "Timo says: two hours forty means two hours forty."
+  },
+  {
+   "s": "Wir gehen los.",
+   "e": "We set off."
+  },
+  {
+   "s": "Nach zehn Minuten ist mir zu warm.",
+   "e": "After ten minutes I am too warm."
+  },
+  {
+   "s": "Ich ziehe die Jacke aus.",
+   "e": "I take my jacket off."
+  },
+  {
+   "s": "Nach dreissig Minuten ist mir wieder kalt.",
+   "e": "After thirty minutes I am cold again."
+  },
+  {
+   "s": "Ich ziehe die Jacke an.",
+   "e": "I put my jacket on."
+  },
+  {
+   "s": "Timo macht das nicht.",
+   "e": "Timo does not do that."
+  },
+  {
+   "s": "Er geht gleich schnell den ganzen Weg.",
+   "e": "He walks at the same speed the whole way."
+  },
+  {
+   "s": "Er geht nicht schnell.",
+   "e": "He does not walk fast."
+  },
+  {
+   "s": "Er geht immer gleich.",
+   "e": "He always walks the same."
+  },
+  {
+   "s": "Ich gehe schnell und dann stehe ich.",
+   "e": "I walk fast and then I stop."
+  },
+  {
+   "s": "Er kommt jedes Mal an mir vorbei.",
+   "e": "He passes me every time."
+  },
+  {
+   "s": "Auf dem Weg kommen uns Leute entgegen.",
+   "e": "On the path people come towards us."
+  },
+  {
+   "s": "Alle sagen Grüezi.",
+   "e": "Everybody says Grüezi."
+  },
+  {
+   "s": "Wirklich alle. Jeder Einzelne.",
+   "e": "Really everybody. Every single one."
+  },
+  {
+   "s": "Unten in der Stadt sagt niemand etwas.",
+   "e": "Down in the town nobody says anything."
+  },
+  {
+   "s": "Hier oben grüssen alle.",
+   "e": "Up here everybody greets."
+  },
+  {
+   "s": "Und alle sagen du.",
+   "e": "And everybody says du."
+  },
+  {
+   "s": "Ein Mann von siebzig sagt du zu mir.",
+   "e": "A man of seventy says du to me."
+  },
+  {
+   "s": "Auf dem Berg gibt es kein Sie.",
+   "e": "On the mountain there is no Sie."
+  },
+  {
+   "s": "Nach zwei Stunden tut mir alles weh.",
+   "e": "After two hours everything hurts."
+  },
+  {
+   "s": "Ich habe zu wenig Wasser mitgenommen.",
+   "e": "I brought too little water."
+  },
+  {
+   "s": "Timo gibt mir von seinem.",
+   "e": "Timo gives me some of his."
+  },
+  {
+   "s": "Er sagt nichts dazu.",
+   "e": "He says nothing about it."
+  },
+  {
+   "s": "Er hat zwei Liter zu viel dabei.",
+   "e": "He has two litres too many with him."
+  },
+  {
+   "s": "Er hat sie für mich mitgenommen.",
+   "e": "He brought them for me."
+  },
+  {
+   "s": "Das habe ich erst später verstanden.",
+   "e": "I only understood that later."
+  },
+  {
+   "s": "Oben ist ein kleines Haus.",
+   "e": "At the top there is a small house."
+  },
+  {
+   "s": "Auf dem letzten Stück liegt noch Schnee.",
+   "e": "There is still snow on the last stretch."
+  },
+  {
+   "s": "Im Schnee sieht man die Schritte von den anderen.",
+   "e": "You can see other people's steps in the snow."
+  },
+  {
+   "s": "Ich bin am Abend um neun im Bett.",
+   "e": "I am in bed at nine that evening."
+  },
+  {
+   "s": "Man kann dort essen und trinken.",
+   "e": "You can eat and drink there."
+  },
+  {
+   "s": "Alle essen ihr eigenes Brot draussen.",
+   "e": "Everybody eats their own bread outside."
+  },
+  {
+   "s": "Und alle kaufen drinnen einen Kaffee.",
+   "e": "And everybody buys a coffee inside."
+  },
+  {
+   "s": "Das ist die Abmachung und alle kennen sie.",
+   "e": "That is the arrangement and everybody knows it."
+  },
+  {
+   "s": "Oben sieht man vier Seen.",
+   "e": "At the top you see four lakes."
+  },
+  {
+   "s": "Man sieht die Stadt ganz klein.",
+   "e": "You see the town very small."
+  },
+  {
+   "s": "Man sieht das Haus nicht mehr.",
+   "e": "You cannot see the building any more."
+  },
+  {
+   "s": "Timo zeigt mir sein Tal.",
+   "e": "Timo shows me his valley."
+  },
+  {
+   "s": "Er zeigt mir das Haus von seinem Vater.",
+   "e": "He shows me his father's house."
+  },
+  {
+   "s": "Man sieht es nicht wirklich.",
+   "e": "You cannot really see it."
+  },
+  {
+   "s": "Er zeigt trotzdem genau hin.",
+   "e": "He points at it exactly anyway."
+  },
+  {
+   "s": "Wir sitzen dort eine Stunde.",
+   "e": "We sit there for an hour."
+  },
+  {
+   "s": "Wir reden fast nichts.",
+   "e": "We hardly talk."
+  },
+  {
+   "s": "Der Weg hinunter ist schlimmer als hinauf.",
+   "e": "The way down is worse than the way up."
+  },
+  {
+   "s": "Das hat mir niemand gesagt.",
+   "e": "Nobody told me that."
+  },
+  {
+   "s": "Am Abend sind meine Beine kaputt.",
+   "e": "In the evening my legs are wrecked."
+  },
+  {
+   "s": "Im Bad stehen die Schuhe voll Dreck.",
+   "e": "The shoes are in the bathroom, covered in mud."
+  },
+  {
+   "s": "Am nächsten Morgen komme ich fast nicht die Treppe hinunter.",
+   "e": "The next morning I can barely get down the stairs."
+  },
+  {
+   "s": "Rosmarie sieht mich im Treppenhaus.",
+   "e": "Rosmarie sees me in the stairwell."
+  },
+  {
+   "s": "Sie sagt: Sie waren wandern.",
+   "e": "She says: you have been hiking."
+  },
+  {
+   "s": "Sie sagt du, aber diesmal sagt sie es lustig.",
+   "e": "She says du, but this time she says it as a joke."
+  },
+  {
+   "s": "Sie sagt: Nächstes Mal nimmst du mehr Wasser mit.",
+   "e": "She says: next time you take more water."
+  },
+  {
+   "s": "Alle wissen alles in diesem Haus.",
+   "e": "Everybody knows everything in this building."
+  }
+ ]
+}

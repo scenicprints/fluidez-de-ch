@@ -1,0 +1,387 @@
+{
+ "id": "p2-23",
+ "title": "Im Brockenhaus",
+ "desc": "Buying somebody else's past",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "orange",
+  "Lampe",
+  "Stuhl",
+  "alt"
+ ],
+ "sn": [
+  {
+   "s": "Lea geht am Samstag ins Brockenhaus.",
+   "e": "Lea goes to the Brockenhaus on Saturday."
+  },
+  {
+   "s": "Sie geht jeden Samstag.",
+   "e": "She goes every Saturday."
+  },
+  {
+   "s": "Sie hat gesagt: Komm mit. Du brauchst eine Lampe.",
+   "e": "She said: come along. You need a lamp."
+  },
+  {
+   "s": "Ich habe eine Lampe.",
+   "e": "I have a lamp."
+  },
+  {
+   "s": "Sie hat gesagt: Du hast eine hässliche Lampe.",
+   "e": "She said: you have an ugly lamp."
+  },
+  {
+   "s": "Sie hat recht gehabt.",
+   "e": "She was right."
+  },
+  {
+   "s": "Im Brockenhaus verkauft man alte Sachen.",
+   "e": "In the Brockenhaus they sell old things."
+  },
+  {
+   "s": "Die Leute bringen ihre Möbel dorthin.",
+   "e": "People bring their furniture there."
+  },
+  {
+   "s": "Meistens nach einem Umzug.",
+   "e": "Usually after a move."
+  },
+  {
+   "s": "Oder nach einem Tod in der Familie.",
+   "e": "Or after a death in the family."
+  },
+  {
+   "s": "Alles hier war schon einmal bei jemandem.",
+   "e": "Everything here has been at somebody's home before."
+  },
+  {
+   "s": "Das erste Stockwerk hat Möbel.",
+   "e": "The first floor has furniture."
+  },
+  {
+   "s": "Die Möbel im ersten Stock kosten am meisten.",
+   "e": "The furniture on the first floor costs the most."
+  },
+  {
+   "s": "Und am meisten heisst hier sechzig Franken.",
+   "e": "And most here means sixty francs."
+  },
+  {
+   "s": "Am Schalter zahlt man mit Münzen oder mit der Karte.",
+   "e": "At the counter you pay with coins or by card."
+  },
+  {
+   "s": "Bei teuren Sachen muss man am Schalter unterschreiben.",
+   "e": "For expensive things you have to sign at the counter."
+  },
+  {
+   "s": "Vor dem Haus steht eine Bank für die Leute mit Zeit.",
+   "e": "Outside there is a bench for people with time."
+  },
+  {
+   "s": "Das Haus zahlt keine Miete, denn es gehört der Stadt.",
+   "e": "The building pays no rent, because it belongs to the town."
+  },
+  {
+   "s": "Das zweite hat Teller und Gläser.",
+   "e": "The second has plates and glasses."
+  },
+  {
+   "s": "Das dritte hat Kleider und Bücher.",
+   "e": "The third has clothes and books."
+  },
+  {
+   "s": "Es riecht nach Staub und nach Holz.",
+   "e": "It smells of dust and wood."
+  },
+  {
+   "s": "Der Staub ist überall.",
+   "e": "The dust is everywhere."
+  },
+  {
+   "s": "Man wischt den Staub hier nicht weg.",
+   "e": "They do not wipe the dust away here."
+  },
+  {
+   "s": "Der Staub gehört dazu.",
+   "e": "The dust is part of it."
+  },
+  {
+   "s": "Lea sucht nichts Bestimmtes.",
+   "e": "Lea is not looking for anything particular."
+  },
+  {
+   "s": "Sie geht durch alle drei Stockwerke.",
+   "e": "She walks through all three floors."
+  },
+  {
+   "s": "Sie schaut alles an und kauft fast nie etwas.",
+   "e": "She looks at everything and almost never buys anything."
+  },
+  {
+   "s": "Sie sagt: Das Schauen ist das Beste.",
+   "e": "She says: the looking is the best part."
+  },
+  {
+   "s": "Ich sehe eine Lampe und will sie sofort.",
+   "e": "I see a lamp and want it at once."
+  },
+  {
+   "s": "Es ist eine grosse orange Lampe.",
+   "e": "It is a big orange lamp."
+  },
+  {
+   "s": "Sie ist aus Metall und sehr laut in der Farbe.",
+   "e": "It is made of metal and very loud in colour."
+  },
+  {
+   "s": "Ich sage: Die nehme ich.",
+   "e": "I say: I will take that one."
+  },
+  {
+   "s": "Lea sagt: Warte.",
+   "e": "Lea says: wait."
+  },
+  {
+   "s": "Sie sagt: Schau sie in zehn Minuten noch einmal an.",
+   "e": "She says: look at it again in ten minutes."
+  },
+  {
+   "s": "Das ist ihre Regel.",
+   "e": "That is her rule."
+  },
+  {
+   "s": "Sie sagt: Im Brockenhaus will man alles.",
+   "e": "She says: in the Brockenhaus you want everything."
+  },
+  {
+   "s": "Sie sagt: Zu Hause will man dann nichts mehr.",
+   "e": "She says: at home you want none of it any more."
+  },
+  {
+   "s": "Wir gehen weiter.",
+   "e": "We walk on."
+  },
+  {
+   "s": "Sie zeigt mir einen alten Stuhl.",
+   "e": "She shows me an old chair."
+  },
+  {
+   "s": "Der Stuhl ist aus dunklem Holz.",
+   "e": "The chair is made of dark wood."
+  },
+  {
+   "s": "Der Stuhl hat einen roten Stoff.",
+   "e": "The chair has a red fabric."
+  },
+  {
+   "s": "Der Stoff ist an einer Ecke kaputt.",
+   "e": "The fabric is torn at one corner."
+  },
+  {
+   "s": "Sie sagt: Schau das Holz an. Nicht den Stoff.",
+   "e": "She says: look at the wood. Not the fabric."
+  },
+  {
+   "s": "Stoff kann man neu machen.",
+   "e": "Fabric can be redone."
+  },
+  {
+   "s": "Holz nicht.",
+   "e": "Wood cannot."
+  },
+  {
+   "s": "Das ist ein guter Satz für vieles.",
+   "e": "That is a good sentence for a lot of things."
+  },
+  {
+   "s": "Hier lernt man Adjektive.",
+   "e": "Here you learn adjectives."
+  },
+  {
+   "s": "Ein Adjektiv steht vor dem Nomen.",
+   "e": "An adjective stands in front of the noun."
+  },
+  {
+   "s": "Der alte Stuhl. Ein alter Stuhl.",
+   "e": "The old chair. An old chair."
+  },
+  {
+   "s": "Die alte Lampe. Eine alte Lampe.",
+   "e": "The old lamp. An old lamp."
+  },
+  {
+   "s": "Das alte Buch. Ein altes Buch.",
+   "e": "The old book. An old book."
+  },
+  {
+   "s": "Das Ende vom Adjektiv ändert sich.",
+   "e": "The end of the adjective changes."
+  },
+  {
+   "s": "Es ändert sich mit dem Artikel davor.",
+   "e": "It changes with the article in front of it."
+  },
+  {
+   "s": "Niemand lernt das aus einer Tabelle.",
+   "e": "Nobody learns that from a table."
+  },
+  {
+   "s": "Man hört es hundertmal und dann tönt es richtig.",
+   "e": "You hear it a hundred times and then it sounds right."
+  },
+  {
+   "s": "Lea redet den ganzen Nachmittag in Adjektiven.",
+   "e": "Lea talks in adjectives the whole afternoon."
+  },
+  {
+   "s": "Ein schwerer Tisch. Eine schöne Schale.",
+   "e": "A heavy table. A nice bowl."
+  },
+  {
+   "s": "Ein dünnes Glas. Ein hässlicher Teppich.",
+   "e": "A thin glass. An ugly rug."
+  },
+  {
+   "s": "Nach einer Stunde gehen wir zur orangen Lampe zurück.",
+   "e": "After an hour we go back to the orange lamp."
+  },
+  {
+   "s": "Sie ist immer noch da.",
+   "e": "It is still there."
+  },
+  {
+   "s": "Sie ist immer noch orange.",
+   "e": "It is still orange."
+  },
+  {
+   "s": "Und ich will sie nicht mehr.",
+   "e": "And I do not want it any more."
+  },
+  {
+   "s": "Lea sagt nichts dazu.",
+   "e": "Lea says nothing about it."
+  },
+  {
+   "s": "Sie zeigt auf eine andere Lampe.",
+   "e": "She points at a different lamp."
+  },
+  {
+   "s": "Die andere Lampe ist klein und grün und ruhig.",
+   "e": "The other lamp is small and green and quiet."
+  },
+  {
+   "s": "Ich habe sie eine Stunde lang nicht gesehen.",
+   "e": "I did not see it for a whole hour."
+  },
+  {
+   "s": "Sie kostet fünfzehn Franken.",
+   "e": "It costs fifteen francs."
+  },
+  {
+   "s": "Die orange hat sechzig gekostet.",
+   "e": "The orange one cost sixty."
+  },
+  {
+   "s": "Lea sagt: Die grüne siehst du in zehn Jahren noch gern.",
+   "e": "Lea says: you will still like the green one in ten years."
+  },
+  {
+   "s": "Sie sagt: Die orange in drei Wochen nicht mehr.",
+   "e": "She says: the orange one not in three weeks."
+  },
+  {
+   "s": "An der Kasse steht eine Frau von achtzig.",
+   "e": "At the till there is a woman of eighty."
+  },
+  {
+   "s": "Sie arbeitet hier gratis.",
+   "e": "She works here for free."
+  },
+  {
+   "s": "Fast alle hier arbeiten gratis.",
+   "e": "Almost everybody here works for free."
+  },
+  {
+   "s": "Das Geld geht an Leute ohne Wohnung.",
+   "e": "The money goes to people with no home."
+  },
+  {
+   "s": "Darum bringen die Leute ihre Sachen hierher.",
+   "e": "That is why people bring their things here."
+  },
+  {
+   "s": "Sie wickelt die Lampe in Zeitung.",
+   "e": "She wraps the lamp in newspaper."
+  },
+  {
+   "s": "Sie macht es sehr langsam und sehr genau.",
+   "e": "She does it very slowly and very precisely."
+  },
+  {
+   "s": "Sie sagt: Die ist von 1965.",
+   "e": "She says: that one is from 1965."
+  },
+  {
+   "s": "Sie sagt: Die hat schon zwei Wohnungen gesehen.",
+   "e": "She says: that one has seen two flats already."
+  },
+  {
+   "s": "Sie kennt die Lampe.",
+   "e": "She knows the lamp."
+  },
+  {
+   "s": "Zu Hause stelle ich die grüne Lampe auf den Tisch.",
+   "e": "At home I put the green lamp on the table."
+  },
+  {
+   "s": "Ich stelle die hässliche gelbe daneben.",
+   "e": "I put the ugly yellow one next to it."
+  },
+  {
+   "s": "Die gelbe war meine erste Lampe hier.",
+   "e": "The yellow one was my first lamp here."
+  },
+  {
+   "s": "Ich habe sie im ersten Monat gekauft.",
+   "e": "I bought it in the first month."
+  },
+  {
+   "s": "Ich habe sie gekauft, denn sie war die billigste.",
+   "e": "I bought it because it was the cheapest."
+  },
+  {
+   "s": "Ich werfe sie nicht weg.",
+   "e": "I do not throw it away."
+  },
+  {
+   "s": "Ich stelle sie in den Keller.",
+   "e": "I put it in the cellar."
+  },
+  {
+   "s": "Lea hat am Schluss doch etwas gekauft.",
+   "e": "Lea did buy something at the end after all."
+  },
+  {
+   "s": "Einen Löffel. Einen einzigen alten Löffel.",
+   "e": "A spoon. One single old spoon."
+  },
+  {
+   "s": "Sie hat vier Franken bezahlt.",
+   "e": "She paid four francs."
+  },
+  {
+   "s": "Sie sagt: Ich sammle sie.",
+   "e": "She says: I collect them."
+  },
+  {
+   "s": "Sie hat einundvierzig davon.",
+   "e": "She has forty-one of them."
+  },
+  {
+   "s": "Alle sind von hier.",
+   "e": "They are all from here."
+  }
+ ]
+}

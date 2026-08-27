@@ -323,6 +323,195 @@
    "desc": "You come home, and the word you use for it is home",
    "phase": 1,
    "path": "lessons/p1-22.json"
+  },
+  {
+   "id": "p2-01",
+   "title": "Das Übliche?",
+   "desc": "Somebody knows what you drink",
+   "phase": 2,
+   "path": "lessons/p2-01.json"
+  },
+  {
+   "id": "p2-02",
+   "title": "Schönes Wetter heute",
+   "desc": "Small talk that goes somewhere",
+   "phase": 2,
+   "path": "lessons/p2-02.json"
+  },
+  {
+   "id": "p2-03",
+   "title": "Woher kommst du?",
+   "desc": "The question you will answer a thousand times",
+   "phase": 2,
+   "path": "lessons/p2-03.json"
+  },
+  {
+   "id": "p2-04",
+   "title": "Was machst du?",
+   "desc": "Work, and what it is allowed to mean",
+   "phase": 2,
+   "path": "lessons/p2-04.json"
+  },
+  {
+   "id": "p2-05",
+   "title": "Komm essen",
+   "desc": "An invitation with no date attached",
+   "phase": 2,
+   "path": "lessons/p2-05.json"
+  },
+  {
+   "id": "p2-06",
+   "title": "In der Küche",
+   "desc": "A kitchen with four languages in it",
+   "phase": 2,
+   "path": "lessons/p2-06.json"
+  },
+  {
+   "id": "p2-07",
+   "title": "Timo",
+   "desc": "Somebody your own age from somewhere near",
+   "phase": 2,
+   "path": "lessons/p2-07.json"
+  },
+  {
+   "id": "p2-08",
+   "title": "Der Apéro",
+   "desc": "Drinks that are not dinner and not nothing",
+   "phase": 2,
+   "path": "lessons/p2-08.json"
+  },
+  {
+   "id": "p2-09",
+   "title": "Sie oder du",
+   "desc": "The most important word you have to choose",
+   "phase": 2,
+   "path": "lessons/p2-09.json"
+  },
+  {
+   "id": "p2-10",
+   "title": "Wir sollten mal",
+   "desc": "An invitation that may not be one",
+   "phase": 2,
+   "path": "lessons/p2-10.json"
+  },
+  {
+   "id": "p2-11",
+   "title": "Ja, gern",
+   "desc": "Saying yes properly",
+   "phase": 2,
+   "path": "lessons/p2-11.json"
+  },
+  {
+   "id": "p2-12",
+   "title": "Der Verein",
+   "desc": "You have to join something",
+   "phase": 2,
+   "path": "lessons/p2-12.json"
+  },
+  {
+   "id": "p2-13",
+   "title": "Zieh das an",
+   "desc": "Fasnacht, from inside a costume",
+   "phase": 2,
+   "path": "lessons/p2-13.json"
+  },
+  {
+   "id": "p2-14",
+   "title": "Raclette",
+   "desc": "The door opens inward",
+   "phase": 2,
+   "path": "lessons/p2-14.json"
+  },
+  {
+   "id": "p2-15",
+   "title": "Ihr Mann",
+   "desc": "Photographs on a sideboard",
+   "phase": 2,
+   "path": "lessons/p2-15.json"
+  },
+  {
+   "id": "p2-16",
+   "title": "Früher",
+   "desc": "Your own past, in a new language",
+   "phase": 2,
+   "path": "lessons/p2-16.json"
+  },
+  {
+   "id": "p2-17",
+   "title": "Herzlichen Glückwunsch",
+   "desc": "A birthday, done the local way",
+   "phase": 2,
+   "path": "lessons/p2-17.json"
+  },
+  {
+   "id": "p2-18",
+   "title": "Fünf Minuten zu früh",
+   "desc": "Being on time is being early",
+   "phase": 2,
+   "path": "lessons/p2-18.json"
+  },
+  {
+   "id": "p2-19",
+   "title": "Das Spiel",
+   "desc": "A match, and a crowd to stand in",
+   "phase": 2,
+   "path": "lessons/p2-19.json"
+  },
+  {
+   "id": "p2-20",
+   "title": "Wanderung",
+   "desc": "A walk that is not a walk",
+   "phase": 2,
+   "path": "lessons/p2-20.json"
+  },
+  {
+   "id": "p2-21",
+   "title": "Spazieren",
+   "desc": "Sunday, and the whole town outside",
+   "phase": 2,
+   "path": "lessons/p2-21.json"
+  },
+  {
+   "id": "p2-22",
+   "title": "Räbeliechtli",
+   "desc": "Turnips, candles, and a street full of children",
+   "phase": 2,
+   "path": "lessons/p2-22.json"
+  },
+  {
+   "id": "p2-23",
+   "title": "Im Brockenhaus",
+   "desc": "Buying somebody else's past",
+   "phase": 2,
+   "path": "lessons/p2-23.json"
+  },
+  {
+   "id": "p2-24",
+   "title": "Ich habe das falsch verstanden",
+   "desc": "A misunderstanding, and repairing it",
+   "phase": 2,
+   "path": "lessons/p2-24.json"
+  },
+  {
+   "id": "p2-25",
+   "title": "Herr Zemp sagt etwas",
+   "desc": "The Hauswart thaws by one degree",
+   "phase": 2,
+   "path": "lessons/p2-25.json"
+  },
+  {
+   "id": "p2-26",
+   "title": "Die Gruppe",
+   "desc": "Your phone starts making noise",
+   "phase": 2,
+   "path": "lessons/p2-26.json"
+  },
+  {
+   "id": "p2-27",
+   "title": "Am Samstag?",
+   "desc": "You have people now",
+   "phase": 2,
+   "path": "lessons/p2-27.json"
   }
  ],
  "scenarios": [
@@ -423,6 +612,62 @@
    "desc": "Friday at seven, and he does come at seven",
    "phase": 1,
    "path": "scenarios/sc14.json"
+  },
+  {
+   "id": "sc15",
+   "title": "Das Übliche?",
+   "desc": "Somebody starts your coffee before you get there",
+   "phase": 2,
+   "path": "scenarios/sc15.json"
+  },
+  {
+   "id": "sc16",
+   "title": "Vier Minuten",
+   "desc": "The bus is late and somebody looks at the sky",
+   "phase": 2,
+   "path": "scenarios/sc16.json"
+  },
+  {
+   "id": "sc17",
+   "title": "Woher kommst du?",
+   "desc": "The question you will answer a thousand times",
+   "phase": 2,
+   "path": "scenarios/sc17.json"
+  },
+  {
+   "id": "sc18",
+   "title": "Zum Wohl",
+   "desc": "Eight people, eight glasses, and one rule",
+   "phase": 2,
+   "path": "scenarios/sc18.json"
+  },
+  {
+   "id": "sc19",
+   "title": "Wollen wir du sagen?",
+   "desc": "A cake, a first name, and a small ceremony",
+   "phase": 2,
+   "path": "scenarios/sc19.json"
+  },
+  {
+   "id": "sc20",
+   "title": "Am Tisch",
+   "desc": "Three hours, one small pan, and no hurry at all",
+   "phase": 2,
+   "path": "scenarios/sc20.json"
+  },
+  {
+   "id": "sc21",
+   "title": "Am Samstag?",
+   "desc": "An invitation with a date in it, and one without",
+   "phase": 2,
+   "path": "scenarios/sc21.json"
+  },
+  {
+   "id": "sc22",
+   "title": "In der Gruppe",
+   "desc": "Fourteen people, eighty messages, and one thumb",
+   "phase": 2,
+   "path": "scenarios/sc22.json"
   }
  ],
  "momo": "bluemli.json"

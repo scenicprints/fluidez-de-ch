@@ -1,0 +1,393 @@
+{
+ "id": "p2-01",
+ "title": "Das Übliche?",
+ "desc": "Somebody knows what you drink",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "üblich",
+  "Gast",
+  "Stammgast",
+  "erkennen",
+  "Kaffee",
+  "sehen"
+ ],
+ "sn": [
+  {
+   "s": "Ich bin jetzt einen Monat hier.",
+   "e": "I have been here a month now."
+  },
+  {
+   "s": "Ich gehe jeden Morgen ins Café.",
+   "e": "I go to the café every morning."
+  },
+  {
+   "s": "Immer ins gleiche Café.",
+   "e": "Always to the same café."
+  },
+  {
+   "s": "Immer um Viertel nach sieben.",
+   "e": "Always at quarter past seven."
+  },
+  {
+   "s": "Lea arbeitet am Morgen.",
+   "e": "Lea works in the morning."
+  },
+  {
+   "s": "Am Anfang habe ich nichts gesagt.",
+   "e": "At the start I said nothing."
+  },
+  {
+   "s": "Ich habe nur gezeigt.",
+   "e": "I only pointed."
+  },
+  {
+   "s": "Ich habe auf die Karte gezeigt.",
+   "e": "I pointed at the menu."
+  },
+  {
+   "s": "Dann habe ich zwei Wörter gesagt.",
+   "e": "Then I said two words."
+  },
+  {
+   "s": "Ein Kaffee, bitte.",
+   "e": "A coffee, please."
+  },
+  {
+   "s": "Das habe ich vierzig Mal gesagt.",
+   "e": "I have said that forty times."
+  },
+  {
+   "s": "Vierzig Mal die gleichen zwei Wörter.",
+   "e": "Forty times the same two words."
+  },
+  {
+   "s": "Ein Gast kommt einmal und geht wieder.",
+   "e": "A guest comes once and goes again."
+  },
+  {
+   "s": "Ein Gast bestellt und zahlt und ist fertig.",
+   "e": "A guest orders and pays and is done."
+  },
+  {
+   "s": "Ein Stammgast kommt jeden Tag.",
+   "e": "A regular comes every day."
+  },
+  {
+   "s": "Ein Stammgast bestellt immer das Gleiche.",
+   "e": "A regular always orders the same thing."
+  },
+  {
+   "s": "Ich bin ein Stammgast und ich habe es nicht gemerkt.",
+   "e": "I am a regular and I did not notice."
+  },
+  {
+   "s": "Heute komme ich um Viertel nach sieben.",
+   "e": "Today I come at quarter past seven."
+  },
+  {
+   "s": "Lea steht hinter der Maschine.",
+   "e": "Lea is standing behind the machine."
+  },
+  {
+   "s": "Sie sieht mich an der Tür.",
+   "e": "She sees me at the door."
+  },
+  {
+   "s": "Sie sagt nichts.",
+   "e": "She says nothing."
+  },
+  {
+   "s": "Sie drückt einen Knopf.",
+   "e": "She presses a button."
+  },
+  {
+   "s": "Die Maschine läuft schon.",
+   "e": "The machine is already running."
+  },
+  {
+   "s": "Ich bin noch nicht am Schalter.",
+   "e": "I am not at the counter yet."
+  },
+  {
+   "s": "Mein Kaffee ist schon fertig.",
+   "e": "My coffee is already done."
+  },
+  {
+   "s": "Sie sagt nur: Das Übliche?",
+   "e": "She only says: the usual?"
+  },
+  {
+   "s": "Das Übliche.",
+   "e": "The usual."
+  },
+  {
+   "s": "Ich verstehe das Wort zuerst nicht.",
+   "e": "At first I do not understand the word."
+  },
+  {
+   "s": "Üblich heisst: es ist immer so.",
+   "e": "Üblich means: it is always like this."
+  },
+  {
+   "s": "Das Übliche ist: was Sie immer nehmen.",
+   "e": "The usual is: what you always take."
+  },
+  {
+   "s": "Sie hat mein Übliches im Kopf.",
+   "e": "She has my usual in her head."
+  },
+  {
+   "s": "Ich habe nie gesagt: Das ist mein Übliches.",
+   "e": "I never said: that is my usual."
+  },
+  {
+   "s": "Sie hat es einfach gesehen.",
+   "e": "She simply saw it."
+  },
+  {
+   "s": "Sie hat vierzig Morgen gesehen.",
+   "e": "She has seen forty mornings."
+  },
+  {
+   "s": "Ich sage: Ja. Das Übliche.",
+   "e": "I say: yes. The usual."
+  },
+  {
+   "s": "Ich sage es und es ist wahr.",
+   "e": "I say it and it is true."
+  },
+  {
+   "s": "Ich habe ein Übliches in dieser Stadt.",
+   "e": "I have a usual in this town."
+  },
+  {
+   "s": "Das ist eine kleine Sache.",
+   "e": "That is a small thing."
+  },
+  {
+   "s": "Aber sie erkennt mich.",
+   "e": "But she recognises me."
+  },
+  {
+   "s": "Erkennen heisst: man sieht jemanden und weiss sofort: das ist der.",
+   "e": "Erkennen means: you see somebody and know at once: that is the one."
+  },
+  {
+   "s": "Sie erkennt mich an der Tür.",
+   "e": "She recognises me at the door."
+  },
+  {
+   "s": "Sie erkennt mich an der Jacke.",
+   "e": "She recognises me by my jacket."
+  },
+  {
+   "s": "Sie hat mich vor dem ersten Wort erkannt.",
+   "e": "She recognised me before the first word."
+  },
+  {
+   "s": "In einem Monat hat mich niemand erkannt.",
+   "e": "In a month nobody had recognised me."
+  },
+  {
+   "s": "Heute erkennt mich jemand.",
+   "e": "Today somebody recognises me."
+  },
+  {
+   "s": "Ich nehme den Kaffee und setze mich ans Fenster.",
+   "e": "I take the coffee and sit down by the window."
+  },
+  {
+   "s": "Am Fenster sitzt schon ein Mann.",
+   "e": "A man is already sitting by the window."
+  },
+  {
+   "s": "Er sitzt jeden Morgen dort.",
+   "e": "He sits there every morning."
+  },
+  {
+   "s": "Er hat die Zeitung und einen Kaffee.",
+   "e": "He has the paper and a coffee."
+  },
+  {
+   "s": "Er ist auch ein Stammgast.",
+   "e": "He is a regular too."
+  },
+  {
+   "s": "Er nickt mir zu.",
+   "e": "He nods to me."
+  },
+  {
+   "s": "Ich nicke zurück.",
+   "e": "I nod back."
+  },
+  {
+   "s": "Mehr passiert nicht.",
+   "e": "Nothing more happens."
+  },
+  {
+   "s": "Aber gestern hat er nicht genickt.",
+   "e": "But yesterday he did not nod."
+  },
+  {
+   "s": "Gestern war ich noch niemand.",
+   "e": "Yesterday I was still nobody."
+  },
+  {
+   "s": "Lea kommt an den Tisch.",
+   "e": "Lea comes to the table."
+  },
+  {
+   "s": "Sie fragt: Wie war der Monat?",
+   "e": "She asks: how was the month?"
+  },
+  {
+   "s": "Ich habe die Frage nicht erwartet.",
+   "e": "I did not expect the question."
+  },
+  {
+   "s": "Ich sage: Lang. Und schnell.",
+   "e": "I say: long. And fast."
+  },
+  {
+   "s": "Sie lacht.",
+   "e": "She laughs."
+  },
+  {
+   "s": "Sie sagt: Das sagen alle.",
+   "e": "She says: everybody says that."
+  },
+  {
+   "s": "Sie hat viele Leute kommen sehen.",
+   "e": "She has seen a lot of people arrive."
+  },
+  {
+   "s": "Sie arbeitet seit drei Jahren hier.",
+   "e": "She has been working here for three years."
+  },
+  {
+   "s": "Sie hat drei Jahre lang Gäste gesehen.",
+   "e": "She has seen guests for three years."
+  },
+  {
+   "s": "Sie kennt die Gäste besser als die Gäste sich selber.",
+   "e": "She knows the guests better than the guests know themselves."
+  },
+  {
+   "s": "Sie sagt: Sie sind jetzt der mit dem Kaffee um Viertel nach sieben.",
+   "e": "She says: you are now the one with the coffee at quarter past seven."
+  },
+  {
+   "s": "Das ist eine Beschreibung von mir.",
+   "e": "That is a description of me."
+  },
+  {
+   "s": "Es ist die erste in diesem Land.",
+   "e": "It is the first one in this country."
+  },
+  {
+   "s": "Ich frage: Und der Mann am Fenster?",
+   "e": "I ask: and the man at the window?"
+  },
+  {
+   "s": "Sie sagt: Der ist der mit der Zeitung.",
+   "e": "She says: he is the one with the newspaper."
+  },
+  {
+   "s": "Jeder Stammgast ist der mit etwas.",
+   "e": "Every regular is the one with something."
+  },
+  {
+   "s": "Ich trinke meinen Kaffee.",
+   "e": "I drink my coffee."
+  },
+  {
+   "s": "Ich habe ihn zu schnell getrunken.",
+   "e": "I drank it too fast."
+  },
+  {
+   "s": "Das mache ich immer.",
+   "e": "I always do that."
+  },
+  {
+   "s": "Lea hat es auch schon gesehen.",
+   "e": "Lea has already seen that too."
+  },
+  {
+   "s": "Sie sagt: Sie trinken zu schnell.",
+   "e": "She says: you drink too fast."
+  },
+  {
+   "s": "Ich sage: Ich weiss.",
+   "e": "I say: I know."
+  },
+  {
+   "s": "Sie sagt: Setzen Sie sich zehn Minuten hin.",
+   "e": "She says: sit down for ten minutes."
+  },
+  {
+   "s": "Der Kaffee kostet gleich viel.",
+   "e": "The coffee costs the same."
+  },
+  {
+   "s": "Ich bleibe zehn Minuten sitzen.",
+   "e": "I stay sitting for ten minutes."
+  },
+  {
+   "s": "Ich schaue aus dem Fenster.",
+   "e": "I look out of the window."
+  },
+  {
+   "s": "Draussen gehen Leute zur Arbeit.",
+   "e": "Outside people are going to work."
+  },
+  {
+   "s": "Ich erkenne zwei davon.",
+   "e": "I recognise two of them."
+  },
+  {
+   "s": "Die Frau mit dem Hund geht immer um halb acht.",
+   "e": "The woman with the dog always goes at half past seven."
+  },
+  {
+   "s": "Der Mann mit dem Velo hat es immer eilig.",
+   "e": "The man with the bicycle is always in a hurry."
+  },
+  {
+   "s": "Ich habe ihre Namen nicht.",
+   "e": "I do not have their names."
+  },
+  {
+   "s": "Aber ich habe ihre Zeiten.",
+   "e": "But I have their times."
+  },
+  {
+   "s": "Am Schluss stehe ich auf und zahle.",
+   "e": "At the end I stand up and pay."
+  },
+  {
+   "s": "Lea sagt: Bis morgen.",
+   "e": "Lea says: see you tomorrow."
+  },
+  {
+   "s": "Nicht Ade. Bis morgen.",
+   "e": "Not Ade. See you tomorrow."
+  },
+  {
+   "s": "Ade sagt man zu einem Gast.",
+   "e": "You say Ade to a guest."
+  },
+  {
+   "s": "Bis morgen sagt man zu einem Stammgast.",
+   "e": "You say see you tomorrow to a regular."
+  },
+  {
+   "s": "Ich sage: Bis morgen.",
+   "e": "I say: see you tomorrow."
+  },
+  {
+   "s": "Draussen ist es kalt und ich merke es nicht.",
+   "e": "Outside it is cold and I do not notice."
+  }
+ ]
+}

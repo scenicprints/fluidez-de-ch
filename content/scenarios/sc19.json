@@ -1,0 +1,109 @@
+{
+ "id": "sc19",
+ "title": "Wollen wir du sagen?",
+ "desc": "A cake, a first name, and a small ceremony",
+ "setting": "Sunday afternoon, your own doorway, and the woman who has said Sie for five weeks.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Frau Amrein",
+   "es": "Ich bin die Rosmarie.",
+   "en": "I am Rosmarie.",
+   "options": [
+    {
+     "es": "Freut mich sehr.",
+     "en": "Very pleased to meet you.",
+     "verdict": "good",
+     "feedback": "And then your own first name back. That is the whole ceremony: two first names and a handshake."
+    },
+    {
+     "es": "Grüezi, Frau Amrein.",
+     "en": "Hello, Frau Amrein.",
+     "verdict": "ok",
+     "feedback": "You missed it. She gave you her first name after five weeks of not giving it."
+    },
+    {
+     "es": "Das weiss ich.",
+     "en": "I know that.",
+     "verdict": "bad",
+     "feedback": "You knew the name. She was not telling you the name, she was offering you the du."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Wollen wir du sagen?",
+   "en": "Shall we say du?",
+   "options": [
+    {
+     "es": "Ja, sehr gern.",
+     "en": "Yes, very gladly.",
+     "verdict": "good",
+     "feedback": "The offer comes from the older person and it comes once. Yes is very nearly the only answer."
+    },
+    {
+     "es": "Wenn Sie möchten.",
+     "en": "If you would like.",
+     "verdict": "ok",
+     "feedback": "Still on Sie in the sentence that agrees to leave it. She will laugh, and she will not mind."
+    },
+    {
+     "es": "Lieber nicht.",
+     "en": "I would rather not.",
+     "verdict": "bad",
+     "feedback": "Possible, and it is a real refusal of something she thought about for five weeks first."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Und? Wie geht es dir?",
+   "en": "And? How are you?",
+   "options": [
+    {
+     "es": "Gut, danke. Und dir?",
+     "en": "Good, thank you. And you?",
+     "verdict": "good",
+     "feedback": "Dir, not Ihnen. The mouth takes about three weeks to catch up and she has already said so."
+    },
+    {
+     "es": "Gut, danke. Und Ihnen?",
+     "en": "Good, thank you. And you?",
+     "verdict": "ok",
+     "feedback": "The slip everybody makes. She will just say her first name again and wait."
+    },
+    {
+     "es": "Danke, es geht.",
+     "en": "Thanks, not bad.",
+     "verdict": "good",
+     "feedback": "Honest and small, which is the register. Es geht is a real answer here and not a complaint."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Möchtest du einen Kaffee?",
+   "en": "Would you like a coffee?",
+   "options": [
+    {
+     "es": "Ja, gern, Rosmarie.",
+     "en": "Yes, gladly, Rosmarie.",
+     "verdict": "good",
+     "feedback": "Du and the first name in one sentence. That is the pairing, and it is the part that takes practice."
+    },
+    {
+     "es": "Ja, gern, Frau Amrein.",
+     "en": "Yes, gladly, Frau Amrein.",
+     "verdict": "bad",
+     "feedback": "Du and Frau Amrein do not go together. Pick one register and this one is already picked."
+    },
+    {
+     "es": "Nein, danke. Ich mache uns einen.",
+     "en": "No, thank you. I will make us one.",
+     "verdict": "good",
+     "feedback": "Better than accepting. She came across the landing with a cake and you can cross it back."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,344 @@
+{
+ "id": "p2-24",
+ "title": "Ich habe das falsch verstanden",
+ "desc": "A misunderstanding, and repairing it",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "leid",
+  "tun",
+  "Arbeit",
+  "Sache",
+  "Tag"
+ ],
+ "sn": [
+  {
+   "s": "Marco hat am Dienstag etwas zu meiner Arbeit gesagt.",
+   "e": "On Tuesday Marco said something about my work."
+  },
+  {
+   "s": "Er hat gesagt: Das ist nicht gut so.",
+   "e": "He said: that is not good like that."
+  },
+  {
+   "s": "Fünf Wörter. Ohne alles davor.",
+   "e": "Five words. With nothing in front of them."
+  },
+  {
+   "s": "Zu Hause kommt zuerst etwas Nettes.",
+   "e": "At home something nice comes first."
+  },
+  {
+   "s": "Zuerst kommt: Das ist eine gute Arbeit, aber.",
+   "e": "First comes: that is good work, but."
+  },
+  {
+   "s": "Hier kommt kein aber und kein davor.",
+   "e": "Here there is no but and nothing in front."
+  },
+  {
+   "s": "Hier kommt: Das ist nicht gut so.",
+   "e": "Here it comes: that is not good like that."
+  },
+  {
+   "s": "Ich war zwei Tage lang beleidigt.",
+   "e": "I was offended for two days."
+  },
+  {
+   "s": "Beleidigt heisst: man ist innen verletzt.",
+   "e": "Beleidigt means: you are hurt inside."
+  },
+  {
+   "s": "Ich habe wenig geredet.",
+   "e": "I said little."
+  },
+  {
+   "s": "Ich habe zwei Tage auf das Handy geschaut.",
+   "e": "I looked at my phone for two days."
+  },
+  {
+   "s": "Ich habe auf eine Nachricht gewartet.",
+   "e": "I was waiting for a message."
+  },
+  {
+   "s": "Es ist keine gekommen und es war auch keine nötig.",
+   "e": "None came and none was needed."
+  },
+  {
+   "s": "Ich habe kurz geantwortet.",
+   "e": "I answered briefly."
+  },
+  {
+   "s": "Marco hat nichts gemerkt.",
+   "e": "Marco noticed nothing."
+  },
+  {
+   "s": "Er hat wirklich gar nichts gemerkt.",
+   "e": "He really noticed nothing at all."
+  },
+  {
+   "s": "Für ihn war die Sache am Dienstag fertig.",
+   "e": "For him the matter was finished on Tuesday."
+  },
+  {
+   "s": "Am Donnerstag habe ich Nuno gefragt.",
+   "e": "On Thursday I asked Nuno."
+  },
+  {
+   "s": "Ich habe gesagt: Er hat mich vor allen kritisiert.",
+   "e": "I said: he criticised me in front of everybody."
+  },
+  {
+   "s": "Nuno hat gefragt: Was hat er genau gesagt?",
+   "e": "Nuno asked: what exactly did he say?"
+  },
+  {
+   "s": "Ich habe die fünf Wörter gesagt.",
+   "e": "I said the five words."
+  },
+  {
+   "s": "Nuno hat gelacht.",
+   "e": "Nuno laughed."
+  },
+  {
+   "s": "Er hat nicht über mich gelacht.",
+   "e": "He was not laughing at me."
+  },
+  {
+   "s": "Er hat gesagt: Ich kenne diese zwei Tage.",
+   "e": "He said: I know those two days."
+  },
+  {
+   "s": "Er hat gesagt: Ich hatte sie auch.",
+   "e": "He said: I had them too."
+  },
+  {
+   "s": "Er hat gesagt: Das ist keine Kritik an dir.",
+   "e": "He said: that is not criticism of you."
+  },
+  {
+   "s": "Er hat gesagt: Das ist ein Satz über die Arbeit.",
+   "e": "He said: that is a sentence about the work."
+  },
+  {
+   "s": "Er hat gesagt: Bei ihm sind das zwei Dinge.",
+   "e": "He said: for him those are two things."
+  },
+  {
+   "s": "Direkt ist hier nicht unhöflich.",
+   "e": "Direct is not rude here."
+  },
+  {
+   "s": "Direkt heisst: ich sage dir die Sache.",
+   "e": "Direkt means: I am telling you the thing."
+  },
+  {
+   "s": "Ich rede nicht um die Sache herum.",
+   "e": "I am not talking around the thing."
+  },
+  {
+   "s": "Um die Sache herumreden ist hier das Unhöfliche.",
+   "e": "Talking around the thing is the rude one here."
+  },
+  {
+   "s": "Das ist genau umgekehrt zu meinem Land.",
+   "e": "That is exactly the other way round from my country."
+  },
+  {
+   "s": "Nuno hat gesagt: Frag ihn einfach.",
+   "e": "Nuno said: just ask him."
+  },
+  {
+   "s": "Ich habe gesagt: Das kann ich nicht.",
+   "e": "I said: I cannot do that."
+  },
+  {
+   "s": "Er hat gesagt: Doch. Genau das machst du.",
+   "e": "He said: yes you can. That is exactly what you do."
+  },
+  {
+   "s": "Am Freitag habe ich ihn gefragt.",
+   "e": "On Friday I asked him."
+  },
+  {
+   "s": "Ich habe gesagt: Marco, hast du zwei Minuten?",
+   "e": "I said: Marco, do you have two minutes?"
+  },
+  {
+   "s": "Ich habe gesagt: Am Dienstag habe ich etwas nicht verstanden.",
+   "e": "I said: on Tuesday I did not understand something."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe gemeint, du bist böse auf mich.",
+   "e": "I said: I thought you were annoyed with me."
+  },
+  {
+   "s": "Ich habe gemeint heisst: ich habe gedacht.",
+   "e": "Ich habe gemeint means: I thought."
+  },
+  {
+   "s": "Man sagt es oft für einen Irrtum.",
+   "e": "You often say it for a mistake."
+  },
+  {
+   "s": "Ich habe gemeint, du kommst am Montag.",
+   "e": "I thought you were coming on Monday."
+  },
+  {
+   "s": "Ich habe gemeint, das ist gratis.",
+   "e": "I thought that was free."
+  },
+  {
+   "s": "Marco hat mich angeschaut.",
+   "e": "Marco looked at me."
+  },
+  {
+   "s": "Er war wirklich überrascht.",
+   "e": "He was genuinely surprised."
+  },
+  {
+   "s": "Er hat gesagt: Böse? Auf dich?",
+   "e": "He said: annoyed? With you?"
+  },
+  {
+   "s": "Er hat gesagt: Die Arbeit war nicht gut.",
+   "e": "He said: the work was not good."
+  },
+  {
+   "s": "Er hat gesagt: Du bist gut.",
+   "e": "He said: you are good."
+  },
+  {
+   "s": "Er hat gesagt: Das sind zwei Sachen.",
+   "e": "He said: those are two things."
+  },
+  {
+   "s": "Genau die Wörter von Nuno.",
+   "e": "Exactly Nuno's words."
+  },
+  {
+   "s": "Dann hat er etwas Wichtiges gesagt.",
+   "e": "Then he said something important."
+  },
+  {
+   "s": "Er hat gesagt: Bei uns sagt man nur bei einem Problem etwas.",
+   "e": "He said: with us people only say something when there is a problem."
+  },
+  {
+   "s": "Er hat gesagt: Kein Wort heisst: alles ist gut.",
+   "e": "He said: no word means: everything is fine."
+  },
+  {
+   "s": "Das ist die ganze Erklärung für sechs Monate.",
+   "e": "That is the whole explanation for six months."
+  },
+  {
+   "s": "Sechs Monate ohne ein Lob.",
+   "e": "Six months with no praise."
+  },
+  {
+   "s": "Ich habe gedacht: Sie finden mich schlecht.",
+   "e": "I thought: they think I am bad."
+  },
+  {
+   "s": "Es war umgekehrt.",
+   "e": "It was the other way round."
+  },
+  {
+   "s": "Ein Missverständnis ist ein Verstehen daneben.",
+   "e": "A misunderstanding is an understanding beside the point."
+  },
+  {
+   "s": "Beide reden richtig und beide hören falsch.",
+   "e": "Both speak correctly and both hear wrongly."
+  },
+  {
+   "s": "Ich habe zwei Tage verloren.",
+   "e": "I lost two days."
+  },
+  {
+   "s": "Zwei Tage für eine Frage von zwei Minuten.",
+   "e": "Two days for a question of two minutes."
+  },
+  {
+   "s": "Nuno sagt: Das ist der teuerste Fehler von allen.",
+   "e": "Nuno says: that is the most expensive mistake of all."
+  },
+  {
+   "s": "Er sagt: Frag am gleichen Tag.",
+   "e": "He says: ask on the same day."
+  },
+  {
+   "s": "Er sagt: Nach drei Tagen ist es eine grosse Sache.",
+   "e": "He says: after three days it is a big thing."
+  },
+  {
+   "s": "Er sagt: Am gleichen Tag ist es nichts.",
+   "e": "He says: on the same day it is nothing."
+  },
+  {
+   "s": "Für eine Entschuldigung gibt es zwei Wörter.",
+   "e": "There are two words for an apology."
+  },
+  {
+   "s": "Entschuldigung sagt man für alles Kleine.",
+   "e": "Entschuldigung is what you say for anything small."
+  },
+  {
+   "s": "Es tut mir leid ist grösser.",
+   "e": "Es tut mir leid is bigger."
+  },
+  {
+   "s": "Es tut mir leid ist für einen echten Fehler.",
+   "e": "Es tut mir leid is for a real mistake."
+  },
+  {
+   "s": "Es tut mir leid hat auch einen Dativ drin.",
+   "e": "Es tut mir leid has a dative in it too."
+  },
+  {
+   "s": "Es tut mir leid. Es tut ihm leid. Es tut uns leid.",
+   "e": "I am sorry. He is sorry. We are sorry."
+  },
+  {
+   "s": "Ich habe gesagt: Es tut mir leid für die zwei Tage.",
+   "e": "I said: I am sorry about the two days."
+  },
+  {
+   "s": "Marco hat gesagt: Nichts passiert.",
+   "e": "Marco said: nothing happened."
+  },
+  {
+   "s": "Er hat gesagt: Sag es mir das nächste Mal sofort.",
+   "e": "He said: tell me at once next time."
+  },
+  {
+   "s": "Am Montag hat er etwas Neues gemacht.",
+   "e": "On Monday he did something new."
+  },
+  {
+   "s": "Er hat gesagt: Die Arbeit von letzter Woche ist gut geworden.",
+   "e": "He said: last week's work turned out well."
+  },
+  {
+   "s": "Er hat es extra gesagt.",
+   "e": "He said it on purpose."
+  },
+  {
+   "s": "Er hat es für mich gesagt.",
+   "e": "He said it for me."
+  },
+  {
+   "s": "Das war nicht seine Art.",
+   "e": "That was not his way."
+  },
+  {
+   "s": "Er hat es trotzdem gemacht.",
+   "e": "He did it anyway."
+  },
+  {
+   "s": "Das ist mehr wert als jedes Lob am ersten Tag.",
+   "e": "That is worth more than any praise on the first day."
+  }
+ ]
+}

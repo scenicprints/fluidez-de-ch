@@ -1,0 +1,392 @@
+{
+ "id": "p2-06",
+ "title": "In der Küche",
+ "desc": "A kitchen with four languages in it",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Pfanne",
+  "Rezept",
+  "schneiden",
+  "reden",
+  "geben"
+ ],
+ "sn": [
+  {
+   "s": "Nuno hat mich in die Küche mitgenommen.",
+   "e": "Nuno took me into the kitchen with him."
+  },
+  {
+   "s": "Nach dem Service, um halb elf.",
+   "e": "After service, at half past ten."
+  },
+  {
+   "s": "Die Küche ist heiss und laut.",
+   "e": "The kitchen is hot and loud."
+  },
+  {
+   "s": "Sieben Leute arbeiten hier.",
+   "e": "Seven people work here."
+  },
+  {
+   "s": "Der Koch heisst Marek.",
+   "e": "The chef is called Marek."
+  },
+  {
+   "s": "Marek kommt aus Polen.",
+   "e": "Marek comes from Poland."
+  },
+  {
+   "s": "Der zweite Koch kommt aus Sri Lanka.",
+   "e": "The second chef comes from Sri Lanka."
+  },
+  {
+   "s": "Zwei Leute kommen aus Portugal.",
+   "e": "Two people come from Portugal."
+  },
+  {
+   "s": "Eine Frau kommt aus Eritrea.",
+   "e": "A woman comes from Eritrea."
+  },
+  {
+   "s": "Einer ist aus Luzern.",
+   "e": "One is from Luzern."
+  },
+  {
+   "s": "Er ist zwanzig und er ist in der Lehre.",
+   "e": "He is twenty and he is doing his apprenticeship."
+  },
+  {
+   "s": "Sie reden alle Deutsch mit mir.",
+   "e": "They all speak German with me."
+  },
+  {
+   "s": "Sie reden etwas anderes miteinander.",
+   "e": "They speak something else with each other."
+  },
+  {
+   "s": "Marek redet Polnisch mit dem Mann am Herd.",
+   "e": "Marek speaks Polish with the man at the stove."
+  },
+  {
+   "s": "Nuno redet Portugiesisch mit den zwei anderen.",
+   "e": "Nuno speaks Portuguese with the other two."
+  },
+  {
+   "s": "Alle reden Deutsch mit dem Lehrling.",
+   "e": "Everybody speaks German with the apprentice."
+  },
+  {
+   "s": "Vier Sprachen in einem Raum.",
+   "e": "Four languages in one room."
+  },
+  {
+   "s": "Die Sprache in der Mitte ist Deutsch.",
+   "e": "The language in the middle is German."
+  },
+  {
+   "s": "Nicht das schönste Deutsch.",
+   "e": "Not the finest German."
+  },
+  {
+   "s": "Aber alle verstehen es.",
+   "e": "But everybody understands it."
+  },
+  {
+   "s": "Nuno sagt: Hier lernst du mehr als in der Schule.",
+   "e": "Nuno says: you learn more here than in a school."
+  },
+  {
+   "s": "Marek gibt mir ein Messer.",
+   "e": "Marek gives me a knife."
+  },
+  {
+   "s": "Er gibt mir auch ein Brett.",
+   "e": "He gives me a board as well."
+  },
+  {
+   "s": "Geben braucht den Dativ für die Person.",
+   "e": "Geben needs the dative for the person."
+  },
+  {
+   "s": "Er gibt mir das Messer.",
+   "e": "He gives me the knife."
+  },
+  {
+   "s": "Ich gebe ihm das Brett zurück.",
+   "e": "I give him the board back."
+  },
+  {
+   "s": "Sie gibt uns zwei Teller.",
+   "e": "She gives us two plates."
+  },
+  {
+   "s": "Wir geben ihr das Glas.",
+   "e": "We give her the glass."
+  },
+  {
+   "s": "Die Person steht im Dativ und die Sache im Akkusativ.",
+   "e": "The person is in the dative and the thing in the accusative."
+  },
+  {
+   "s": "Mir, dir, ihm, ihr, uns, ihnen.",
+   "e": "To me, to you, to him, to her, to us, to them."
+  },
+  {
+   "s": "Das ist die ganze Liste.",
+   "e": "That is the whole list."
+  },
+  {
+   "s": "Marek sagt: Schneide die Zwiebeln.",
+   "e": "Marek says: cut the onions."
+  },
+  {
+   "s": "Schneiden ist ein Verb mit einem Messer drin.",
+   "e": "Schneiden is a verb with a knife inside it."
+  },
+  {
+   "s": "Ich schneide zu langsam.",
+   "e": "I cut too slowly."
+  },
+  {
+   "s": "Er schneidet dreimal so schnell.",
+   "e": "He cuts three times as fast."
+  },
+  {
+   "s": "Er hat zwanzig Jahre lang geschnitten.",
+   "e": "He has been cutting for twenty years."
+  },
+  {
+   "s": "Er sagt: Die Finger nach hinten.",
+   "e": "He says: fingers back."
+  },
+  {
+   "s": "Er zeigt es mir zweimal.",
+   "e": "He shows it to me twice."
+  },
+  {
+   "s": "Zeigen ist auch ein Wort mit dem Dativ.",
+   "e": "Zeigen is a dative word too."
+  },
+  {
+   "s": "Er zeigt mir die Hand.",
+   "e": "He shows me the hand."
+  },
+  {
+   "s": "Ich schneide besser mit der Hand so.",
+   "e": "I cut better with my hand like that."
+  },
+  {
+   "s": "Die Zwiebeln machen mir die Augen nass.",
+   "e": "The onions make my eyes wet."
+  },
+  {
+   "s": "Alle lachen.",
+   "e": "Everybody laughs."
+  },
+  {
+   "s": "Der Lehrling lacht am lautesten.",
+   "e": "The apprentice laughs loudest."
+  },
+  {
+   "s": "Marek gibt mir ein Stück Brot.",
+   "e": "Marek gives me a piece of bread."
+  },
+  {
+   "s": "Er sagt: Brot im Mund. Dann geht es besser.",
+   "e": "He says: bread in your mouth. Then it goes better."
+  },
+  {
+   "s": "Ich glaube nicht daran und es funktioniert trotzdem.",
+   "e": "I do not believe in it and it works anyway."
+  },
+  {
+   "s": "In der Pfanne ist Öl.",
+   "e": "There is oil in the pan."
+  },
+  {
+   "s": "Die Pfanne ist schwer und schwarz.",
+   "e": "The pan is heavy and black."
+  },
+  {
+   "s": "Marek stellt die Pfanne auf den Herd.",
+   "e": "Marek puts the pan on the stove."
+  },
+  {
+   "s": "Die Pfanne ist heiss in zehn Sekunden.",
+   "e": "The pan is hot in ten seconds."
+  },
+  {
+   "s": "Er tut die Zwiebeln in die Pfanne.",
+   "e": "He puts the onions in the pan."
+  },
+  {
+   "s": "Er rührt einmal und lässt sie liegen.",
+   "e": "He stirs once and leaves them."
+  },
+  {
+   "s": "Er sagt: Nicht immer rühren. Das ist der Fehler von allen.",
+   "e": "He says: do not keep stirring. That is everybody's mistake."
+  },
+  {
+   "s": "Es gibt kein Rezept an der Wand.",
+   "e": "There is no recipe on the wall."
+  },
+  {
+   "s": "Ich frage nach dem Rezept.",
+   "e": "I ask about the recipe."
+  },
+  {
+   "s": "Marek zeigt auf seinen Kopf.",
+   "e": "Marek points at his head."
+  },
+  {
+   "s": "Das Rezept ist im Kopf.",
+   "e": "The recipe is in his head."
+  },
+  {
+   "s": "Er hat es nie aufgeschrieben.",
+   "e": "He has never written it down."
+  },
+  {
+   "s": "Sein Rezept kommt von seiner Mutter.",
+   "e": "His recipe comes from his mother."
+  },
+  {
+   "s": "Und ihres ist von ihrer Mutter.",
+   "e": "And hers is from her mother."
+  },
+  {
+   "s": "Er sagt: Ein Rezept auf Papier ist schon halb tot.",
+   "e": "He says: a recipe on paper is already half dead."
+  },
+  {
+   "s": "Um elf sitzen alle am kleinen Tisch.",
+   "e": "At eleven everybody sits at the small table."
+  },
+  {
+   "s": "Sie essen zusammen nach der Arbeit.",
+   "e": "They eat together after work."
+  },
+  {
+   "s": "Das Essen ist nicht von der Karte.",
+   "e": "The food is not from the menu."
+  },
+  {
+   "s": "Es ist der Rest von heute.",
+   "e": "It is what is left from today."
+  },
+  {
+   "s": "Marek sagt: Das ist das beste Essen im Haus.",
+   "e": "Marek says: that is the best food in the building."
+  },
+  {
+   "s": "Er hat recht.",
+   "e": "He is right."
+  },
+  {
+   "s": "Die Frau aus Eritrea hat Brot mitgebracht.",
+   "e": "The woman from Eritrea has brought bread."
+  },
+  {
+   "s": "Es ist ganz anderes Brot.",
+   "e": "It is completely different bread."
+  },
+  {
+   "s": "Sie gibt mir ein Stück.",
+   "e": "She gives me a piece."
+  },
+  {
+   "s": "Ich sage: Merci vielmal.",
+   "e": "I say: thank you very much."
+  },
+  {
+   "s": "Sie sagt zwei Wörter in ihrer Sprache.",
+   "e": "She says two words in her language."
+  },
+  {
+   "s": "Nuno sagt: Das heisst danke.",
+   "e": "Nuno says: that means thank you."
+  },
+  {
+   "s": "Ich sage die zwei Wörter nach.",
+   "e": "I repeat the two words."
+  },
+  {
+   "s": "Ich sage sie falsch.",
+   "e": "I say them wrong."
+  },
+  {
+   "s": "Sie lacht und sagt sie noch einmal.",
+   "e": "She laughs and says them again."
+  },
+  {
+   "s": "Am Tisch redet niemand über die Arbeit.",
+   "e": "Nobody at the table talks about the work."
+  },
+  {
+   "s": "Sie reden über Kinder und über Miete.",
+   "e": "They talk about children and about rent."
+  },
+  {
+   "s": "Sie reden über die Preise.",
+   "e": "They talk about the prices."
+  },
+  {
+   "s": "Marek hat drei Kinder in Polen.",
+   "e": "Marek has three children in Poland."
+  },
+  {
+   "s": "Er sieht sie viermal im Jahr.",
+   "e": "He sees them four times a year."
+  },
+  {
+   "s": "Er sagt es ganz ruhig.",
+   "e": "He says it quite calmly."
+  },
+  {
+   "s": "Er schickt ihnen jeden Monat Geld.",
+   "e": "He sends them money every month."
+  },
+  {
+   "s": "Schicken ist auch ein Wort mit dem Dativ.",
+   "e": "Schicken is a dative word too."
+  },
+  {
+   "s": "Ich schicke ihm eine Nachricht.",
+   "e": "I send him a message."
+  },
+  {
+   "s": "Er schickt ihnen das Geld.",
+   "e": "He sends them the money."
+  },
+  {
+   "s": "Um Mitternacht gehen alle nach Hause.",
+   "e": "At midnight everybody goes home."
+  },
+  {
+   "s": "Der letzte nimmt den Sack mit hinaus.",
+   "e": "The last one takes the bag out with him."
+  },
+  {
+   "s": "Marek fährt mit dem Velo vierzig Minuten.",
+   "e": "Marek rides his bicycle for forty minutes."
+  },
+  {
+   "s": "Er wohnt weit draussen, denn dort ist die Miete tiefer.",
+   "e": "He lives far out, because the rent is lower there."
+  },
+  {
+   "s": "Nuno sagt mir auf der Strasse etwas.",
+   "e": "Nuno says something to me in the street."
+  },
+  {
+   "s": "Er sagt: Das ist auch die Schweiz.",
+   "e": "He says: that is Switzerland too."
+  },
+  {
+   "s": "Er sagt: Die Hälfte von diesem Land kocht in einer anderen Sprache.",
+   "e": "He says: half this country cooks in another language."
+  }
+ ]
+}

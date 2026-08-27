@@ -1,0 +1,330 @@
+{
+ "id": "p2-16",
+ "title": "Früher",
+ "desc": "Your own past, in a new language",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "erzählen",
+  "früh",
+  "fragen"
+ ],
+ "sn": [
+  {
+   "s": "Rosmarie hat mir eine Stunde von Walter erzählt.",
+   "e": "Rosmarie told me about Walter for an hour."
+  },
+  {
+   "s": "Dann hat sie gefragt: Und du?",
+   "e": "Then she asked: and you?"
+  },
+  {
+   "s": "Sie hat gefragt: Wie war es bei dir früher?",
+   "e": "She asked: what was it like for you before?"
+  },
+  {
+   "s": "Früher heisst: vor langer Zeit.",
+   "e": "Früher means: a long time ago."
+  },
+  {
+   "s": "Früher war ich ein Kind.",
+   "e": "Früher I was a child."
+  },
+  {
+   "s": "Früher haben wir dort gewohnt.",
+   "e": "Früher we lived there."
+  },
+  {
+   "s": "Früher hat es hier keine Häuser gegeben.",
+   "e": "Früher there were no houses here."
+  },
+  {
+   "s": "Damals heisst fast das Gleiche.",
+   "e": "Damals means almost the same."
+  },
+  {
+   "s": "Damals war ich zehn.",
+   "e": "Damals I was ten."
+  },
+  {
+   "s": "Man sagt auch: vor zehn Jahren.",
+   "e": "You also say: ten years ago."
+  },
+  {
+   "s": "Vor zehn Jahren. Vor drei Wochen. Vor einem Monat.",
+   "e": "Ten years ago. Three weeks ago. A month ago."
+  },
+  {
+   "s": "Vor braucht hier den Dativ.",
+   "e": "Vor takes the dative here."
+  },
+  {
+   "s": "Ich habe angefangen zu erzählen.",
+   "e": "I started to tell her."
+  },
+  {
+   "s": "Ich habe von meiner Strasse erzählt.",
+   "e": "I told her about my street."
+  },
+  {
+   "s": "Als Kind habe ich in einem kleinen Haus gewohnt.",
+   "e": "As a child I lived in a small house."
+  },
+  {
+   "s": "Als Kind bin ich zu Fuss zur Schule gegangen.",
+   "e": "As a child I walked to school."
+  },
+  {
+   "s": "Als Kind heisst: in der Zeit als Kind.",
+   "e": "Als Kind means: in the time as a child."
+  },
+  {
+   "s": "Es ist die kürzeste Form für früher.",
+   "e": "It is the shortest form for the past."
+  },
+  {
+   "s": "Ich habe einen Bruder.",
+   "e": "I have a brother."
+  },
+  {
+   "s": "Mein Bruder ist vier Jahre älter.",
+   "e": "My brother is four years older."
+  },
+  {
+   "s": "Wir haben zusammen in einem Zimmer geschlafen.",
+   "e": "We slept in one room together."
+  },
+  {
+   "s": "Wir haben viel gestritten.",
+   "e": "We argued a lot."
+  },
+  {
+   "s": "Jetzt reden wir zweimal im Monat.",
+   "e": "Now we talk twice a month."
+  },
+  {
+   "s": "Meine Grossmutter hat neben uns gewohnt.",
+   "e": "My grandmother lived next to us."
+  },
+  {
+   "s": "Sie hat jeden Tag gekocht.",
+   "e": "She cooked every day."
+  },
+  {
+   "s": "Sie hat immer zu viel gekocht.",
+   "e": "She always cooked too much."
+  },
+  {
+   "s": "Sie ist vor sechs Jahren gestorben.",
+   "e": "She died six years ago."
+  },
+  {
+   "s": "Das habe ich auf Deutsch gesagt.",
+   "e": "I said that in German."
+  },
+  {
+   "s": "Es war ein sehr kurzer Satz.",
+   "e": "It was a very short sentence."
+  },
+  {
+   "s": "Zu Hause brauche ich dafür zehn Sätze.",
+   "e": "At home I need ten sentences for that."
+  },
+  {
+   "s": "Hier habe ich fünf Wörter.",
+   "e": "Here I have five words."
+  },
+  {
+   "s": "Und die fünf Wörter tönen wahrer.",
+   "e": "And the five words sound truer."
+  },
+  {
+   "s": "Das ist etwas Komisches an einer neuen Sprache.",
+   "e": "That is an odd thing about a new language."
+  },
+  {
+   "s": "Man kann nicht schön reden.",
+   "e": "You cannot talk beautifully."
+  },
+  {
+   "s": "Man kann nur einfach reden.",
+   "e": "You can only talk simply."
+  },
+  {
+   "s": "Und einfach ist oft näher.",
+   "e": "And simple is often closer."
+  },
+  {
+   "s": "Rosmarie hat zugehört und zweimal gefragt.",
+   "e": "Rosmarie listened and asked twice."
+  },
+  {
+   "s": "Sie hat gefragt: Und die Grossmutter, wie hat sie geheissen?",
+   "e": "She asked: and the grandmother, what was she called?"
+  },
+  {
+   "s": "Ich habe den Namen gesagt.",
+   "e": "I said the name."
+  },
+  {
+   "s": "Sie hat den Namen wiederholt.",
+   "e": "She repeated the name."
+  },
+  {
+   "s": "Das ist eine kleine Sache und es ist nicht nichts.",
+   "e": "That is a small thing and it is not nothing."
+  },
+  {
+   "s": "Sie hat gefragt: Warum bist du hierher gekommen?",
+   "e": "She asked: why did you come here?"
+  },
+  {
+   "s": "Das ist die schwerste Frage.",
+   "e": "That is the hardest question."
+  },
+  {
+   "s": "Ich habe keine gute Antwort.",
+   "e": "I do not have a good answer."
+  },
+  {
+   "s": "Es war Arbeit und es war auch nicht nur Arbeit.",
+   "e": "It was work and it was also not only work."
+  },
+  {
+   "s": "Ich habe gesagt: Es war Zeit für etwas anderes.",
+   "e": "I said: it was time for something else."
+  },
+  {
+   "s": "Sie hat genickt.",
+   "e": "She nodded."
+  },
+  {
+   "s": "Sie hat nicht weitergefragt.",
+   "e": "She did not ask further."
+  },
+  {
+   "s": "Ich habe auch von der ersten Woche erzählt.",
+   "e": "I also told her about the first week."
+  },
+  {
+   "s": "Vom Flughafen und von den vierzig Minuten.",
+   "e": "About the airport and the forty minutes."
+  },
+  {
+   "s": "Vierzig Minuten ohne ein Wort.",
+   "e": "Forty minutes without a word."
+  },
+  {
+   "s": "Sie hat gesagt: Das war im Oktober.",
+   "e": "She said: that was in October."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe dich am zweiten Tag gesehen.",
+   "e": "She said: I saw you on the second day."
+  },
+  {
+   "s": "Sie hat gesagt: Du bist mit einem Koffer die Treppe hinauf.",
+   "e": "She said: you went up the stairs with a suitcase."
+  },
+  {
+   "s": "Sie hat gesagt: Du hast nichts gesagt.",
+   "e": "She said: you did not say anything."
+  },
+  {
+   "s": "Sie hat mich gesehen und ich habe sie nicht gesehen.",
+   "e": "She saw me and I did not see her."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe gedacht: Der bleibt drei Monate.",
+   "e": "She said: I thought: that one will stay three months."
+  },
+  {
+   "s": "Ich habe gefragt: Und jetzt?",
+   "e": "I asked: and now?"
+  },
+  {
+   "s": "Sie hat gesagt: Jetzt weiss ich es nicht mehr.",
+   "e": "She said: now I do not know any more."
+  },
+  {
+   "s": "Das ist von ihr fast ein Lob.",
+   "e": "From her that is almost praise."
+  },
+  {
+   "s": "Am Schluss hat sie etwas Wichtiges gesagt.",
+   "e": "At the end she said something important."
+  },
+  {
+   "s": "Sie hat gesagt: Erzähl das öfter.",
+   "e": "She said: tell that more often."
+  },
+  {
+   "s": "Sie hat gesagt: Die Leute hier fragen nicht.",
+   "e": "She said: people here do not ask."
+  },
+  {
+   "s": "Sie hat gesagt: Nicht aus Kälte. Aus Höflichkeit.",
+   "e": "She said: not out of coldness. Out of politeness."
+  },
+  {
+   "s": "Sie hat gesagt: Sie warten auf dich.",
+   "e": "She said: they are waiting for you."
+  },
+  {
+   "s": "Das habe ich vorher nicht gewusst.",
+   "e": "I did not know that before."
+  },
+  {
+   "s": "Ich habe gedacht: Sie fragen nicht, also wollen sie nicht.",
+   "e": "I thought: they do not ask, so they do not want to know."
+  },
+  {
+   "s": "Es ist umgekehrt.",
+   "e": "It is the other way round."
+  },
+  {
+   "s": "Sie fragen nicht und sie warten.",
+   "e": "They do not ask and they wait."
+  },
+  {
+   "s": "Man muss selber anfangen.",
+   "e": "You have to start yourself."
+  },
+  {
+   "s": "Am nächsten Tag habe ich es bei Marco probiert.",
+   "e": "The next day I tried it with Marco."
+  },
+  {
+   "s": "Ich habe von meinem Bruder erzählt.",
+   "e": "I told him about my brother."
+  },
+  {
+   "s": "Nur drei Sätze, in der Pause.",
+   "e": "Only three sentences, in the break."
+  },
+  {
+   "s": "Er hat sofort von seiner Schwester erzählt.",
+   "e": "He immediately told me about his sister."
+  },
+  {
+   "s": "Sie wohnt in Genf und er sieht sie zweimal im Jahr.",
+   "e": "She lives in Geneva and he sees her twice a year."
+  },
+  {
+   "s": "Fünf Monate im gleichen Büro und ich habe das nicht gewusst.",
+   "e": "Five months in the same office and I did not know that."
+  },
+  {
+   "s": "Er hat gewartet.",
+   "e": "He was waiting."
+  },
+  {
+   "s": "Alle warten.",
+   "e": "Everybody is waiting."
+  },
+  {
+   "s": "Man muss nur einmal anfangen.",
+   "e": "You just have to start once."
+  }
+ ]
+}

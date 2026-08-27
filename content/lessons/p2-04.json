@@ -1,0 +1,361 @@
+{
+ "id": "p2-04",
+ "title": "Was machst du?",
+ "desc": "Work, and what it is allowed to mean",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Lehre",
+  "Chef",
+  "helfen",
+  "Büro",
+  "arbeiten",
+  "machen"
+ ],
+ "sn": [
+  {
+   "s": "Die zweite Frage nach woher ist immer: Was machen Sie?",
+   "e": "The second question after where from is always: what do you do?"
+  },
+  {
+   "s": "Man fragt nach dem Beruf.",
+   "e": "They ask about your job."
+  },
+  {
+   "s": "Man fragt nicht nach dem Lohn.",
+   "e": "They do not ask about your pay."
+  },
+  {
+   "s": "Das habe ich sofort gemerkt.",
+   "e": "I noticed that at once."
+  },
+  {
+   "s": "Zu Hause kommt der Lohn schnell ins Gespräch.",
+   "e": "At home pay comes into the conversation quickly."
+  },
+  {
+   "s": "Hier fragt niemand danach.",
+   "e": "Here nobody asks about it."
+  },
+  {
+   "s": "Nie. Auch nicht später.",
+   "e": "Never. Not later either."
+  },
+  {
+   "s": "Man fragt: Was haben Sie gelernt?",
+   "e": "They ask: what did you train as?"
+  },
+  {
+   "s": "Das ist eine andere Frage als: Was studieren Sie?",
+   "e": "That is a different question from: what did you study?"
+  },
+  {
+   "s": "Gelernt heisst hier: eine Lehre gemacht.",
+   "e": "Gelernt here means: did an apprenticeship."
+  },
+  {
+   "s": "Eine Lehre dauert drei oder vier Jahre.",
+   "e": "An apprenticeship takes three or four years."
+  },
+  {
+   "s": "Man arbeitet vier Tage und geht einen Tag in die Schule.",
+   "e": "You work four days and go to school one day."
+  },
+  {
+   "s": "Man ist fünfzehn oder sechzehn am Anfang.",
+   "e": "You are fifteen or sixteen at the start."
+  },
+  {
+   "s": "Zwei von drei jungen Leuten machen eine Lehre.",
+   "e": "Two out of three young people do an apprenticeship."
+  },
+  {
+   "s": "Eine Lehre ist hier kein zweiter Weg.",
+   "e": "An apprenticeship is not a second-best route here."
+  },
+  {
+   "s": "Das habe ich falsch verstanden.",
+   "e": "I got that wrong."
+  },
+  {
+   "s": "Ich habe gefragt: Und dann später an die Universität?",
+   "e": "I asked: and then later to university?"
+  },
+  {
+   "s": "Timo hat mich angeschaut.",
+   "e": "Timo looked at me."
+  },
+  {
+   "s": "Er hat gesagt: Warum später?",
+   "e": "He said: why later?"
+  },
+  {
+   "s": "Er hat eine Lehre als Schreiner gemacht.",
+   "e": "He did an apprenticeship as a carpenter."
+  },
+  {
+   "s": "Er arbeitet seit sechs Jahren in dem Beruf.",
+   "e": "He has been working in that trade for six years."
+  },
+  {
+   "s": "Er verdient gut.",
+   "e": "He earns well."
+  },
+  {
+   "s": "Verdienen heisst: man bekommt Geld für Arbeit.",
+   "e": "Verdienen means: you get money for work."
+  },
+  {
+   "s": "Er sagt den Betrag nicht.",
+   "e": "He does not say the amount."
+  },
+  {
+   "s": "Ich frage auch nicht.",
+   "e": "I do not ask either."
+  },
+  {
+   "s": "Sein Chef hat auch eine Lehre gemacht.",
+   "e": "His boss did an apprenticeship too."
+  },
+  {
+   "s": "Und der Chef vom Chef auch.",
+   "e": "And the boss's boss as well."
+  },
+  {
+   "s": "Die Firma hat vierzehn Leute.",
+   "e": "The firm has fourteen people."
+  },
+  {
+   "s": "Eine Firma mit vierzehn Leuten ist hier normal.",
+   "e": "A firm with fourteen people is normal here."
+  },
+  {
+   "s": "Es gibt wenige grosse Firmen und sehr viele kleine.",
+   "e": "There are few big firms and a great many small ones."
+  },
+  {
+   "s": "Ich arbeite in einem Büro.",
+   "e": "I work in an office."
+  },
+  {
+   "s": "Das Büro ist klein.",
+   "e": "The office is small."
+  },
+  {
+   "s": "Im Büro sitzen sechs Leute.",
+   "e": "Six people sit in the office."
+  },
+  {
+   "s": "Meine Kollegen sind freundlich und leise.",
+   "e": "My colleagues are friendly and quiet."
+  },
+  {
+   "s": "Ein Kollege heisst Marco.",
+   "e": "One colleague is called Marco."
+  },
+  {
+   "s": "Marco hilft mir mit den Formularen.",
+   "e": "Marco helps me with the forms."
+  },
+  {
+   "s": "Helfen ist ein Wort mit dem Dativ.",
+   "e": "Helfen is a word with the dative."
+  },
+  {
+   "s": "Er hilft mir. Ich helfe ihm.",
+   "e": "He helps me. I help him."
+  },
+  {
+   "s": "Nicht: Er hilft mich.",
+   "e": "Not: er hilft mich."
+  },
+  {
+   "s": "Er hilft mir jeden Tag ein bisschen.",
+   "e": "He helps me a bit every day."
+  },
+  {
+   "s": "Ich habe ihm gestern mit dem Drucker geholfen.",
+   "e": "I helped him with the printer yesterday."
+  },
+  {
+   "s": "Der Drucker ist älter als wir beide.",
+   "e": "The printer is older than both of us."
+  },
+  {
+   "s": "Im Büro reden alle Hochdeutsch mit mir.",
+   "e": "In the office everybody speaks standard German with me."
+  },
+  {
+   "s": "Sie reden Dialekt miteinander.",
+   "e": "They speak dialect with each other."
+  },
+  {
+   "s": "Ich komme dazu und sie schalten sofort um.",
+   "e": "I join and they switch at once."
+  },
+  {
+   "s": "Sie machen es sofort und ohne ein Wort.",
+   "e": "They do it at once and without a word."
+  },
+  {
+   "s": "Das ist freundlich und es ist auch ein Zeichen.",
+   "e": "That is friendly and it is also a sign."
+  },
+  {
+   "s": "Das Zeichen heisst: Sie sind noch nicht drin.",
+   "e": "The sign means: you are not in yet."
+  },
+  {
+   "s": "Marco hat gesagt: Das hört einmal auf.",
+   "e": "Marco said: that stops one day."
+  },
+  {
+   "s": "Er hat gesagt: Dann vergessen wir es einfach.",
+   "e": "He said: then we simply forget about it."
+  },
+  {
+   "s": "Um zwölf gehen alle essen.",
+   "e": "At twelve everybody goes to eat."
+  },
+  {
+   "s": "Alle. Gleichzeitig. Um Punkt zwölf.",
+   "e": "Everybody. At the same time. At twelve sharp."
+  },
+  {
+   "s": "Am ersten Tag habe ich weitergearbeitet.",
+   "e": "On the first day I kept working."
+  },
+  {
+   "s": "Marco ist zurückgekommen und hat gefragt: Sind Sie krank?",
+   "e": "Marco came back and asked: are you ill?"
+  },
+  {
+   "s": "Man arbeitet hier nicht durch.",
+   "e": "You do not work through here."
+  },
+  {
+   "s": "Man geht essen und man geht pünktlich wieder zurück.",
+   "e": "You go and eat and you come back on time."
+  },
+  {
+   "s": "Um fünf Uhr ist das Büro leer.",
+   "e": "At five the office is empty."
+  },
+  {
+   "s": "Um zehn nach fünf ist niemand mehr da.",
+   "e": "At ten past five nobody is there any more."
+  },
+  {
+   "s": "Um sieben sitzt niemand mehr da.",
+   "e": "At seven nobody is sitting there any more."
+  },
+  {
+   "s": "Lange bleiben ist kein Fleiss. Es ist ein Problem.",
+   "e": "Staying late is not diligence. It is a problem."
+  },
+  {
+   "s": "Das ist die Regel und alle kennen sie.",
+   "e": "That is the rule and everybody knows it."
+  },
+  {
+   "s": "Timo fragt mich am Abend: Und? Was machst du genau?",
+   "e": "Timo asks me in the evening: and? What exactly do you do?"
+  },
+  {
+   "s": "Ich erkläre meinen Beruf auf Deutsch.",
+   "e": "I explain my job in German."
+  },
+  {
+   "s": "Ich erkläre es dreimal.",
+   "e": "I explain it three times."
+  },
+  {
+   "s": "Am Schluss verstehe ich meinen eigenen Beruf besser.",
+   "e": "At the end I understand my own job better."
+  },
+  {
+   "s": "In einer neuen Sprache muss man einfach reden.",
+   "e": "In a new language you simply have to talk."
+  },
+  {
+   "s": "Einfach reden heisst: das Wichtige zuerst.",
+   "e": "Talking simply means: the important thing first."
+  },
+  {
+   "s": "Timo sagt: Also machst du Zahlen und Briefe.",
+   "e": "Timo says: so you do numbers and letters."
+  },
+  {
+   "s": "Ich sage: Ja. Ungefähr.",
+   "e": "I say: yes. Roughly."
+  },
+  {
+   "s": "Er sagt: Das ist nichts Schlechtes.",
+   "e": "He says: that is nothing bad."
+  },
+  {
+   "s": "Er sagt: Jemand muss die Briefe machen.",
+   "e": "He says: somebody has to do the letters."
+  },
+  {
+   "s": "Er sagt es ganz ernst.",
+   "e": "He says it completely seriously."
+  },
+  {
+   "s": "Er baut Treppen und ich mache Briefe.",
+   "e": "He builds stairs and I do letters."
+  },
+  {
+   "s": "Beides ist Arbeit und beides ist in Ordnung.",
+   "e": "Both are work and both are fine."
+  },
+  {
+   "s": "Das ist hier so.",
+   "e": "That is how it is here."
+  },
+  {
+   "s": "Der Mann putzt die Strasse und grüsst den Chef.",
+   "e": "The man cleans the street and greets the boss."
+  },
+  {
+   "s": "Und der Chef grüsst zurück.",
+   "e": "And the boss greets back."
+  },
+  {
+   "s": "Sie grüssen gleich laut.",
+   "e": "They greet just as loudly."
+  },
+  {
+   "s": "Das habe ich in der ersten Woche gesehen.",
+   "e": "I saw that in the first week."
+  },
+  {
+   "s": "Ich habe es zuerst nicht geglaubt.",
+   "e": "At first I did not believe it."
+  },
+  {
+   "s": "Nuno sagt: Hier fragt man, was du kannst.",
+   "e": "Nuno says: here they ask what you can do."
+  },
+  {
+   "s": "Er sagt: Nicht, wo dein Vater gearbeitet hat.",
+   "e": "He says: not where your father worked."
+  },
+  {
+   "s": "Er sagt: Das ist der beste Teil von diesem Land.",
+   "e": "He says: that is the best part of this country."
+  },
+  {
+   "s": "Er hat mit dem Abwasch angefangen.",
+   "e": "He started on the washing up."
+  },
+  {
+   "s": "Jetzt macht er die Bestellungen für die ganze Küche.",
+   "e": "Now he does the ordering for the whole kitchen."
+  },
+  {
+   "s": "Er sagt: Achtzehn Jahre. Aber es ist gegangen.",
+   "e": "He says: eighteen years. But it worked."
+  }
+ ]
+}

@@ -1,0 +1,389 @@
+{
+ "id": "p2-02",
+ "title": "Schönes Wetter heute",
+ "desc": "Small talk that goes somewhere",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Wetter",
+  "Satz"
+ ],
+ "sn": [
+  {
+   "s": "An der Bushaltestelle steht eine Frau.",
+   "e": "A woman is standing at the bus stop."
+  },
+  {
+   "s": "Wir warten beide auf den Bus.",
+   "e": "We are both waiting for the bus."
+  },
+  {
+   "s": "Der Bus kommt in vier Minuten.",
+   "e": "The bus comes in four minutes."
+  },
+  {
+   "s": "Vier Minuten sind lang.",
+   "e": "Four minutes are long."
+  },
+  {
+   "s": "Sie schaut zum Himmel.",
+   "e": "She looks at the sky."
+  },
+  {
+   "s": "Sie sagt: Schönes Wetter heute.",
+   "e": "She says: nice weather today."
+  },
+  {
+   "s": "Das ist der Anfang.",
+   "e": "That is the opening."
+  },
+  {
+   "s": "Es ist immer der Anfang.",
+   "e": "It is always the opening."
+  },
+  {
+   "s": "Das Wetter ist nicht das Thema.",
+   "e": "The weather is not the topic."
+  },
+  {
+   "s": "Das Wetter ist die Tür zum Thema.",
+   "e": "The weather is the door to the topic."
+  },
+  {
+   "s": "Ich habe das lange nicht verstanden.",
+   "e": "I did not understand that for a long time."
+  },
+  {
+   "s": "Ich habe gedacht: Die reden gern über Regen.",
+   "e": "I thought: they like talking about rain."
+  },
+  {
+   "s": "Das ist ein Irrtum.",
+   "e": "That is a mistake."
+  },
+  {
+   "s": "Sie reden nicht über Regen.",
+   "e": "They are not talking about rain."
+  },
+  {
+   "s": "Sie fragen: Wollen Sie reden?",
+   "e": "They are asking: do you want to talk?"
+  },
+  {
+   "s": "Man kann Ja sagen oder Nein.",
+   "e": "You can say yes or no."
+  },
+  {
+   "s": "Beides ist höflich.",
+   "e": "Both are polite."
+  },
+  {
+   "s": "Höflich heisst: man macht es dem anderen leicht.",
+   "e": "Höflich means: you make it easy for the other person."
+  },
+  {
+   "s": "Nein ist auch höflich.",
+   "e": "No is polite too."
+  },
+  {
+   "s": "Man sagt Nein mit einem kurzen Satz.",
+   "e": "You say no with a short sentence."
+  },
+  {
+   "s": "Man sagt: Ja, sehr schön. Und dann nichts mehr.",
+   "e": "You say: yes, very nice. And then nothing more."
+  },
+  {
+   "s": "Das ist kein Streit.",
+   "e": "That is not a quarrel."
+  },
+  {
+   "s": "Der andere macht dann auch nichts mehr.",
+   "e": "The other person then does nothing more either."
+  },
+  {
+   "s": "Heute sage ich Ja.",
+   "e": "Today I say yes."
+  },
+  {
+   "s": "Ich sage: Ja. Gestern hat es den ganzen Tag geregnet.",
+   "e": "I say: yes. Yesterday it rained all day."
+  },
+  {
+   "s": "Das ist ein Satz mehr.",
+   "e": "That is one sentence more."
+  },
+  {
+   "s": "Ein Satz mehr ist die ganze Antwort.",
+   "e": "One sentence more is the whole answer."
+  },
+  {
+   "s": "Sie sagt: Und wie.",
+   "e": "She says: and how."
+  },
+  {
+   "s": "Sie sagt: Ich bin nass nach Hause gekommen.",
+   "e": "She says: I came home wet."
+  },
+  {
+   "s": "Ich sage: Ich auch.",
+   "e": "I say: me too."
+  },
+  {
+   "s": "Sie fragt: Haben Sie einen Schirm?",
+   "e": "She asks: do you have an umbrella?"
+  },
+  {
+   "s": "Ich sage: Ich habe ihn gestern vergessen.",
+   "e": "I say: I forgot it yesterday."
+  },
+  {
+   "s": "Sie lacht.",
+   "e": "She laughs."
+  },
+  {
+   "s": "Sie sagt: Ich habe meinen im Bus vergessen.",
+   "e": "She says: I forgot mine on the bus."
+  },
+  {
+   "s": "Jetzt sind wir zwei Leute mit dem gleichen Fehler.",
+   "e": "Now we are two people with the same mistake."
+  },
+  {
+   "s": "Das ist der Moment.",
+   "e": "That is the moment."
+  },
+  {
+   "s": "Nach dem Wetter kommt etwas anderes.",
+   "e": "After the weather something else comes."
+  },
+  {
+   "s": "Sie fragt: Sind Sie neu hier?",
+   "e": "She asks: are you new here?"
+  },
+  {
+   "s": "Ich sage: Seit einem Monat.",
+   "e": "I say: for a month."
+  },
+  {
+   "s": "Sie fragt: Und? Gefällt es Ihnen?",
+   "e": "She asks: and? Do you like it?"
+  },
+  {
+   "s": "Gefallen ist ein komisches Wort.",
+   "e": "Gefallen is an odd word."
+  },
+  {
+   "s": "Es gefällt mir.",
+   "e": "I like it."
+  },
+  {
+   "s": "Nicht: Ich mag es. Sondern: Es gefällt mir.",
+   "e": "Not: I like it. Rather: it pleases me."
+  },
+  {
+   "s": "Das Ding macht die Arbeit, nicht ich.",
+   "e": "The thing does the work, not me."
+  },
+  {
+   "s": "Die Stadt gefällt mir.",
+   "e": "I like the town."
+  },
+  {
+   "s": "Der See gefällt mir.",
+   "e": "I like the lake."
+  },
+  {
+   "s": "Die Preise gefallen mir nicht.",
+   "e": "I do not like the prices."
+  },
+  {
+   "s": "Ich sage: Die Stadt gefällt mir sehr.",
+   "e": "I say: I like the town a lot."
+  },
+  {
+   "s": "Sie sagt: Und der Winter?",
+   "e": "She says: and the winter?"
+  },
+  {
+   "s": "Ich sage: Der Winter ist dunkel.",
+   "e": "I say: the winter is dark."
+  },
+  {
+   "s": "Sie sagt: Der Winter ist lang.",
+   "e": "She says: the winter is long."
+  },
+  {
+   "s": "Sie sagt: Aber im März kommt die Sonne zurück.",
+   "e": "She says: but in March the sun comes back."
+  },
+  {
+   "s": "Sie sagt: Dann sitzen alle draussen.",
+   "e": "She says: then everybody sits outside."
+  },
+  {
+   "s": "Sie erzählt mir von einem Platz am Wasser.",
+   "e": "She tells me about a spot by the water."
+  },
+  {
+   "s": "Dort sitzt sie im Frühling jeden Sonntag.",
+   "e": "She sits there every Sunday in spring."
+  },
+  {
+   "s": "Sie erzählt mir von ihrem Hund.",
+   "e": "She tells me about her dog."
+  },
+  {
+   "s": "Der Hund ist alt und mag den Regen auch nicht.",
+   "e": "The dog is old and does not like the rain either."
+  },
+  {
+   "s": "Sie erzählt mir von ihrer Tochter in Bern.",
+   "e": "She tells me about her daughter in Bern."
+  },
+  {
+   "s": "Das ist viel mehr als das Wetter.",
+   "e": "That is a lot more than the weather."
+  },
+  {
+   "s": "Der Bus kommt.",
+   "e": "The bus comes."
+  },
+  {
+   "s": "Wir steigen beide ein.",
+   "e": "We both get on."
+  },
+  {
+   "s": "Wir sitzen nicht zusammen.",
+   "e": "We do not sit together."
+  },
+  {
+   "s": "Das gehört dazu.",
+   "e": "That is part of it."
+  },
+  {
+   "s": "Das Gespräch war an der Haltestelle.",
+   "e": "The conversation was at the stop."
+  },
+  {
+   "s": "Im Bus ist es wieder still.",
+   "e": "On the bus it is quiet again."
+  },
+  {
+   "s": "Sie steigt vor mir aus.",
+   "e": "She gets off before me."
+  },
+  {
+   "s": "Sie sagt: Ade. Schönen Tag.",
+   "e": "She says: Ade. Have a nice day."
+  },
+  {
+   "s": "Ich sage: Danke, gleichfalls.",
+   "e": "I say: thank you, same to you."
+  },
+  {
+   "s": "Zu Hause denke ich über die vier Minuten nach.",
+   "e": "At home I think about the four minutes."
+  },
+  {
+   "s": "Vier Minuten und ich weiss von einem Hund und einer Tochter.",
+   "e": "Four minutes and I know about a dog and a daughter."
+  },
+  {
+   "s": "Ich weiss ihren Namen nicht.",
+   "e": "I do not know her name."
+  },
+  {
+   "s": "Namen kommen spät hier.",
+   "e": "Names come late here."
+  },
+  {
+   "s": "Zuerst kommt das Wetter.",
+   "e": "First comes the weather."
+  },
+  {
+   "s": "Dann kommt der Hund.",
+   "e": "Then comes the dog."
+  },
+  {
+   "s": "Dann kommt vielleicht ein Name.",
+   "e": "Then maybe a name comes."
+  },
+  {
+   "s": "Nuno hat mir das schon gesagt.",
+   "e": "Nuno already told me that."
+  },
+  {
+   "s": "Er hat gesagt: Antworte immer mit einem Satz mehr.",
+   "e": "He said: always answer with one sentence more."
+  },
+  {
+   "s": "Nur Ja ist eine geschlossene Tür.",
+   "e": "Just yes is a closed door."
+  },
+  {
+   "s": "Ja und ein Satz ist eine offene.",
+   "e": "Yes and one sentence is an open one."
+  },
+  {
+   "s": "Ich habe das jetzt einmal gemacht.",
+   "e": "I have done that once now."
+  },
+  {
+   "s": "Es hat funktioniert.",
+   "e": "It worked."
+  },
+  {
+   "s": "Am nächsten Tag stehe ich wieder an der Haltestelle.",
+   "e": "The next day I am at the stop again."
+  },
+  {
+   "s": "Ein Mann steht neben mir.",
+   "e": "A man is standing next to me."
+  },
+  {
+   "s": "Er sagt nichts.",
+   "e": "He says nothing."
+  },
+  {
+   "s": "Ich sage: Kalt heute.",
+   "e": "I say: cold today."
+  },
+  {
+   "s": "Er sagt: Sehr kalt.",
+   "e": "He says: very cold."
+  },
+  {
+   "s": "Und dann nichts mehr.",
+   "e": "And then nothing more."
+  },
+  {
+   "s": "Das ist auch eine Antwort.",
+   "e": "That is an answer too."
+  },
+  {
+   "s": "Er will nicht reden und das ist in Ordnung.",
+   "e": "He does not want to talk and that is fine."
+  },
+  {
+   "s": "Ich bin nicht mehr böse.",
+   "e": "I am not annoyed any more."
+  },
+  {
+   "s": "Im ersten Monat war ich böse.",
+   "e": "In the first month I was annoyed."
+  },
+  {
+   "s": "Jetzt weiss ich: die Tür war offen.",
+   "e": "Now I know: the door was open."
+  },
+  {
+   "s": "Er ist einfach nicht durchgegangen.",
+   "e": "He simply did not walk through."
+  },
+  {
+   "s": "Morgen frage ich wieder jemanden.",
+   "e": "Tomorrow I will ask somebody again."
+  }
+ ]
+}

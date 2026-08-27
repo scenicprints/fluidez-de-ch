@@ -1,0 +1,386 @@
+{
+ "id": "p2-03",
+ "title": "Woher kommst du?",
+ "desc": "The question you will answer a thousand times",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Ort",
+  "Land",
+  "Frage"
+ ],
+ "sn": [
+  {
+   "s": "Die Frage kommt immer.",
+   "e": "The question always comes."
+  },
+  {
+   "s": "Sie kommt in der ersten Minute.",
+   "e": "It comes in the first minute."
+  },
+  {
+   "s": "Woher kommen Sie?",
+   "e": "Where are you from?"
+  },
+  {
+   "s": "Ich habe sie schon hundert Mal gehört.",
+   "e": "I have already heard it a hundred times."
+  },
+  {
+   "s": "Am Anfang hat sie mich gestört.",
+   "e": "At the start it bothered me."
+  },
+  {
+   "s": "Ich habe gedacht: Sie sehen sofort, ich bin fremd.",
+   "e": "I thought: they can see at once, I am foreign."
+  },
+  {
+   "s": "Das stimmt und es ist nicht böse gemeint.",
+   "e": "That is true and it is not meant badly."
+  },
+  {
+   "s": "Hier fragt man das jeden.",
+   "e": "Here they ask everybody that."
+  },
+  {
+   "s": "Man fragt es auch Schweizern.",
+   "e": "They ask Swiss people too."
+  },
+  {
+   "s": "Ein Mann aus Bern wird in Luzern auch gefragt.",
+   "e": "A man from Bern gets asked in Luzern too."
+  },
+  {
+   "s": "Man hört das an der Sprache.",
+   "e": "You hear it in the way they speak."
+  },
+  {
+   "s": "Jedes Tal tönt anders.",
+   "e": "Every valley sounds different."
+  },
+  {
+   "s": "Woher kommen Sie ist keine Grenze.",
+   "e": "Where are you from is not a border."
+  },
+  {
+   "s": "Es ist eine Frage nach dem Ort.",
+   "e": "It is a question about the place."
+  },
+  {
+   "s": "Ich sage mein Land.",
+   "e": "I say my country."
+  },
+  {
+   "s": "Dann kommt die zweite Frage.",
+   "e": "Then the second question comes."
+  },
+  {
+   "s": "Aus welchem Teil?",
+   "e": "From which part?"
+  },
+  {
+   "s": "Das habe ich nicht erwartet.",
+   "e": "I did not expect that."
+  },
+  {
+   "s": "Zu Hause fragt niemand nach dem Teil.",
+   "e": "At home nobody asks about the part."
+  },
+  {
+   "s": "Hier ist der Teil wichtiger als das Land.",
+   "e": "Here the part matters more than the country."
+  },
+  {
+   "s": "Die Schweiz ist klein und hat sechsundzwanzig Kantone.",
+   "e": "Switzerland is small and has twenty-six cantons."
+  },
+  {
+   "s": "Jeder Kanton ist ein bisschen ein eigenes Land.",
+   "e": "Every canton is a bit of a country of its own."
+  },
+  {
+   "s": "Man sagt nicht: Ich bin Schweizer.",
+   "e": "They do not say: I am Swiss."
+  },
+  {
+   "s": "Man sagt: Ich bin von Stans.",
+   "e": "They say: I am from Stans."
+  },
+  {
+   "s": "Oder von Kriens. Oder von Emmen.",
+   "e": "Or from Kriens. Or from Emmen."
+  },
+  {
+   "s": "Das sind Orte mit zehntausend Leuten.",
+   "e": "Those are places with ten thousand people."
+  },
+  {
+   "s": "Und es ist eine ganze Antwort.",
+   "e": "And it is a whole answer."
+  },
+  {
+   "s": "Ich sage jetzt meine Stadt.",
+   "e": "Now I say my town."
+  },
+  {
+   "s": "Ich sage die Stadt und dann das Land.",
+   "e": "I say the town and then the country."
+  },
+  {
+   "s": "Die Leute nicken dann.",
+   "e": "People nod then."
+  },
+  {
+   "s": "Die dritte Frage ist immer die gleiche.",
+   "e": "The third question is always the same."
+  },
+  {
+   "s": "Seit wann sind Sie hier?",
+   "e": "Since when have you been here?"
+  },
+  {
+   "s": "Seit einem Monat.",
+   "e": "For a month."
+  },
+  {
+   "s": "Seit ist ein Wort mit dem Dativ.",
+   "e": "Seit is a word with the dative."
+  },
+  {
+   "s": "Seit einem Monat. Seit einer Woche. Seit einem Jahr.",
+   "e": "For a month. For a week. For a year."
+  },
+  {
+   "s": "Nuno sagt: Seit achtzehn Jahren.",
+   "e": "Nuno says: for eighteen years."
+  },
+  {
+   "s": "Er wird immer noch gefragt.",
+   "e": "He still gets asked."
+  },
+  {
+   "s": "Er sagt: Nach zwanzig Jahren fragen sie immer noch.",
+   "e": "He says: after twenty years they still ask."
+  },
+  {
+   "s": "Er sagt es ohne Ärger.",
+   "e": "He says it without irritation."
+  },
+  {
+   "s": "Er sagt: Ich frage auch.",
+   "e": "He says: I ask too."
+  },
+  {
+   "s": "Ich bin ein Ausländer.",
+   "e": "I am a foreigner."
+  },
+  {
+   "s": "Das Wort ist hier kein Schimpfwort.",
+   "e": "The word is not an insult here."
+  },
+  {
+   "s": "Es steht auf Formularen.",
+   "e": "It is on forms."
+  },
+  {
+   "s": "Ein Viertel von diesem Land ist Ausländer.",
+   "e": "A quarter of this country are foreigners."
+  },
+  {
+   "s": "In Luzern hört man fünf Sprachen auf einer Strasse.",
+   "e": "In Luzern you hear five languages on one street."
+  },
+  {
+   "s": "Ein Ausländer ist nichts Besonderes.",
+   "e": "A foreigner is nothing special."
+  },
+  {
+   "s": "Nuno ist seit achtzehn Jahren Ausländer.",
+   "e": "Nuno has been a foreigner for eighteen years."
+  },
+  {
+   "s": "Seine Kinder sind hier geboren.",
+   "e": "His children were born here."
+  },
+  {
+   "s": "Geboren heisst: hier hat das Leben angefangen.",
+   "e": "Geboren means: this is where the life started."
+  },
+  {
+   "s": "Sie sind hier geboren und hier aufgewachsen.",
+   "e": "They were born here and grew up here."
+  },
+  {
+   "s": "Aufgewachsen heisst: hier gross geworden.",
+   "e": "Aufgewachsen means: grown up here."
+  },
+  {
+   "s": "Sie reden Dialekt wie alle anderen.",
+   "e": "They speak dialect like everybody else."
+  },
+  {
+   "s": "Und sie werden auch gefragt: Woher kommst du?",
+   "e": "And they get asked too: where are you from?"
+  },
+  {
+   "s": "Da tut die Frage weh.",
+   "e": "That is where the question hurts."
+  },
+  {
+   "s": "Nicht bei mir. Ich bin wirklich neu.",
+   "e": "Not for me. I really am new."
+  },
+  {
+   "s": "Aber bei einem Kind aus Luzern ist es etwas anderes.",
+   "e": "But for a child from Luzern it is something else."
+  },
+  {
+   "s": "Nuno sagt: Meine Tochter sagt dann: Aus Luzern.",
+   "e": "Nuno says: my daughter then says: from Luzern."
+  },
+  {
+   "s": "Und dann fragen sie noch einmal.",
+   "e": "And then they ask again."
+  },
+  {
+   "s": "Und sie sagt noch einmal: Aus Luzern.",
+   "e": "And she says again: from Luzern."
+  },
+  {
+   "s": "Er sagt: Sie hat recht und sie gewinnt nie.",
+   "e": "He says: she is right and she never wins."
+  },
+  {
+   "s": "Meine Heimat ist weit weg.",
+   "e": "My home country is far away."
+  },
+  {
+   "s": "Heimat ist ein grosses Wort hier.",
+   "e": "Heimat is a big word here."
+  },
+  {
+   "s": "Es steht sogar im Pass.",
+   "e": "It is even in the passport."
+  },
+  {
+   "s": "Jeder Schweizer hat einen Heimatort.",
+   "e": "Every Swiss person has a home town in their papers."
+  },
+  {
+   "s": "Das ist der Ort von der Familie.",
+   "e": "That is the family's place."
+  },
+  {
+   "s": "Viele haben dort nie gewohnt.",
+   "e": "Many have never lived there."
+  },
+  {
+   "s": "Sie haben den Ort nie gesehen.",
+   "e": "They have never seen the place."
+  },
+  {
+   "s": "Und sie sagen trotzdem: Meine Heimat ist dort.",
+   "e": "And they still say: my home is there."
+  },
+  {
+   "s": "Ich habe zwei Heimaten und keine ganze.",
+   "e": "I have two homes and no whole one."
+  },
+  {
+   "s": "Nuno sagt: Das bleibt so.",
+   "e": "Nuno says: it stays that way."
+  },
+  {
+   "s": "Er sagt: Man gewöhnt sich daran.",
+   "e": "He says: you get used to it."
+  },
+  {
+   "s": "Er fährt jedes Jahr im August nach Portugal.",
+   "e": "He goes to Portugal every August."
+  },
+  {
+   "s": "Er sagt: Dort bin ich der Schweizer.",
+   "e": "He says: there I am the Swiss one."
+  },
+  {
+   "s": "Hier bin ich der Portugiese.",
+   "e": "Here I am the Portuguese one."
+  },
+  {
+   "s": "Er lacht dabei.",
+   "e": "He laughs as he says it."
+  },
+  {
+   "s": "Ich frage: Ist das schlimm?",
+   "e": "I ask: is that bad?"
+  },
+  {
+   "s": "Er denkt lange nach.",
+   "e": "He thinks for a long time."
+  },
+  {
+   "s": "Er sagt: Zuerst ja. Jetzt nicht mehr.",
+   "e": "He says: at first yes. Not any more."
+  },
+  {
+   "s": "Er sagt: Ich habe zwei Orte und die anderen haben einen.",
+   "e": "He says: I have two places and the others have one."
+  },
+  {
+   "s": "Am Abend fragt mich Frau Amrein das Gleiche.",
+   "e": "In the evening Frau Amrein asks me the same thing."
+  },
+  {
+   "s": "Sie fragt es nach einem Monat.",
+   "e": "She asks it after a month."
+  },
+  {
+   "s": "Sie hat einen ganzen Monat gewartet.",
+   "e": "She waited a whole month."
+  },
+  {
+   "s": "Ich glaube, sie hat es absichtlich gemacht.",
+   "e": "I think she did it on purpose."
+  },
+  {
+   "s": "Ich sage meine Stadt und mein Land.",
+   "e": "I say my town and my country."
+  },
+  {
+   "s": "Sie sagt: Ist es schön dort?",
+   "e": "She says: is it nice there?"
+  },
+  {
+   "s": "Das hat noch niemand gefragt.",
+   "e": "Nobody has asked that yet."
+  },
+  {
+   "s": "Alle fragen woher. Niemand fragt wie.",
+   "e": "Everybody asks where from. Nobody asks what it is like."
+  },
+  {
+   "s": "Ich erzähle ihr zehn Minuten lang davon.",
+   "e": "I tell her about it for ten minutes."
+  },
+  {
+   "s": "Sie hört zu und fragt zweimal nach.",
+   "e": "She listens and asks twice for more."
+  },
+  {
+   "s": "Am Schluss sagt sie: Sie haben Heimweh.",
+   "e": "At the end she says: you are homesick."
+  },
+  {
+   "s": "Ich sage: Ein bisschen.",
+   "e": "I say: a bit."
+  },
+  {
+   "s": "Sie sagt: Das ist normal. Das geht nicht weg.",
+   "e": "She says: that is normal. It does not go away."
+  },
+  {
+   "s": "Sie sagt: Es wird nur kleiner.",
+   "e": "She says: it only gets smaller."
+  }
+ ]
+}

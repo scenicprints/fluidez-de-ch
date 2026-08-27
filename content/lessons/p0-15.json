@@ -6,15 +6,15 @@
  "diff": 1,
  "wu": [
   "Föhn",
-  "Schirm",
   "Wind",
-  "Regen",
+  "Schirm",
   "schneien",
   "regnen",
-  "Wetter",
+  "Regen",
   "Schnee",
   "nass",
-  "warm"
+  "warm",
+  "Wetter"
  ],
  "sn": [
   {

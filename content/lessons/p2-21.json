@@ -1,0 +1,372 @@
+{
+ "id": "p2-21",
+ "title": "Spazieren",
+ "desc": "Sunday, and the whole town outside",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "begegnen",
+  "spazieren",
+  "Sonntag",
+  "gehen",
+  "Leute"
+ ],
+ "sn": [
+  {
+   "s": "Am Sonntag ist alles zu.",
+   "e": "On Sunday everything is shut."
+  },
+  {
+   "s": "Das habe ich im ersten Monat gelernt.",
+   "e": "I learned that in the first month."
+  },
+  {
+   "s": "Am Sonntag darf man nicht waschen.",
+   "e": "On Sunday you may not do laundry."
+  },
+  {
+   "s": "Am Sonntag ist kein Laden offen.",
+   "e": "On Sunday no shop is open."
+  },
+  {
+   "s": "Also fragt man: Was macht man dann?",
+   "e": "So you ask: what do you do then?"
+  },
+  {
+   "s": "Die Antwort ist einfach.",
+   "e": "The answer is simple."
+  },
+  {
+   "s": "Man geht spazieren.",
+   "e": "You go for a walk."
+  },
+  {
+   "s": "Alle gehen spazieren.",
+   "e": "Everybody goes for a walk."
+  },
+  {
+   "s": "Am Sonntagnachmittag ist die halbe Stadt draussen.",
+   "e": "On Sunday afternoon half the town is outside."
+  },
+  {
+   "s": "Sie gehen langsam am Wasser.",
+   "e": "They walk slowly by the water."
+  },
+  {
+   "s": "Sie gehen in den Wald.",
+   "e": "They go into the woods."
+  },
+  {
+   "s": "Sie gehen ohne Ziel.",
+   "e": "They walk with no destination."
+  },
+  {
+   "s": "Spazieren heisst: gehen ohne Grund.",
+   "e": "Spazieren means: walking for no reason."
+  },
+  {
+   "s": "Es ist kein Sport.",
+   "e": "It is not sport."
+  },
+  {
+   "s": "Man geht langsam und man redet.",
+   "e": "You walk slowly and you talk."
+  },
+  {
+   "s": "Alte Leute gehen spazieren.",
+   "e": "Old people go for a walk."
+  },
+  {
+   "s": "Familien gehen spazieren.",
+   "e": "Families go for a walk."
+  },
+  {
+   "s": "Leute mit Hunden gehen spazieren.",
+   "e": "People with dogs go for a walk."
+  },
+  {
+   "s": "Kinder auf kleinen Velos sind auch dabei.",
+   "e": "Children on small bicycles are there too."
+  },
+  {
+   "s": "Am Anfang habe ich das komisch gefunden.",
+   "e": "At first I found that odd."
+  },
+  {
+   "s": "Ein ganzes Land geht langsam im Kreis.",
+   "e": "A whole country walks slowly in a circle."
+  },
+  {
+   "s": "Jetzt gehe ich auch.",
+   "e": "Now I go too."
+  },
+  {
+   "s": "Ich gehe am Sonntag um zwei aus dem Haus.",
+   "e": "On Sunday at two I leave the house."
+  },
+  {
+   "s": "Am Sonntag lasse ich das Handy zu Hause.",
+   "e": "On Sunday I leave the phone at home."
+  },
+  {
+   "s": "Es gibt keinen Plan und keine Zeit.",
+   "e": "There is no plan and no time."
+  },
+  {
+   "s": "Das Wetter ist grau und es ist nicht kalt.",
+   "e": "The weather is grey and it is not cold."
+  },
+  {
+   "s": "Die Bank am Wasser ist nass.",
+   "e": "The bench by the water is wet."
+  },
+  {
+   "s": "Alle grüssen und alle reden leise.",
+   "e": "Everybody greets and everybody talks quietly."
+  },
+  {
+   "s": "Aus einem Fenster kommt leise Musik.",
+   "e": "Quiet music comes from a window."
+  },
+  {
+   "s": "Auf den Bergen liegt Schnee und unten nicht.",
+   "e": "There is snow on the mountains and none down here."
+  },
+  {
+   "s": "Ruedi Zemp putzt am Sonntag nicht.",
+   "e": "Ruedi Zemp does not clean on Sunday."
+  },
+  {
+   "s": "Am Sonntag stellt auch niemand einen Sack hinaus.",
+   "e": "On Sunday nobody puts a bag out either."
+  },
+  {
+   "s": "Ein Hauswart hat auch frei.",
+   "e": "A caretaker gets a day off too."
+  },
+  {
+   "s": "In der Waschküche ist es still.",
+   "e": "The laundry room is quiet."
+  },
+  {
+   "s": "Ich gehe den Weg am Wasser.",
+   "e": "I take the path by the water."
+  },
+  {
+   "s": "Der Weg geht dem Ufer entlang.",
+   "e": "The path runs along the shore."
+  },
+  {
+   "s": "Entlang heisst: die ganze Zeit daneben.",
+   "e": "Entlang means: alongside the whole time."
+  },
+  {
+   "s": "Ich gehe dem Fluss entlang bis zur Brücke.",
+   "e": "I walk along the river as far as the bridge."
+  },
+  {
+   "s": "Bei der Brücke gehe ich über die Strasse.",
+   "e": "At the bridge I cross the road."
+  },
+  {
+   "s": "Dann gehe ich um den kleinen Hügel herum.",
+   "e": "Then I go round the little hill."
+  },
+  {
+   "s": "Herum heisst: im Kreis darum.",
+   "e": "Herum means: in a circle round it."
+  },
+  {
+   "s": "Um den Hügel herum. Um den See herum.",
+   "e": "Round the hill. Round the lake."
+  },
+  {
+   "s": "Der ganze Weg dauert neunzig Minuten.",
+   "e": "The whole walk takes ninety minutes."
+  },
+  {
+   "s": "Am ersten Sonntag habe ich niemanden gesehen.",
+   "e": "On the first Sunday I saw nobody."
+  },
+  {
+   "s": "Niemanden aus meinem Leben.",
+   "e": "Nobody from my own life."
+  },
+  {
+   "s": "Am Sonntag im März war es anders.",
+   "e": "On the Sunday in March it was different."
+  },
+  {
+   "s": "Nach zehn Minuten kommt mir Marco entgegen.",
+   "e": "After ten minutes Marco comes towards me."
+  },
+  {
+   "s": "Er ist mit seiner Frau und einem Kind unterwegs.",
+   "e": "He is out with his wife and a child."
+  },
+  {
+   "s": "Wir bleiben stehen und reden fünf Minuten.",
+   "e": "We stop and talk for five minutes."
+  },
+  {
+   "s": "Nicht länger. Fünf Minuten ist die richtige Zeit.",
+   "e": "Not longer. Five minutes is the right length."
+  },
+  {
+   "s": "Nach dreissig Minuten sehe ich Sepp vom Turnverein.",
+   "e": "After thirty minutes I see Sepp from the gymnastics club."
+  },
+  {
+   "s": "Er sitzt auf einer Bank mit einer Zeitung.",
+   "e": "He is sitting on a bench with a newspaper."
+  },
+  {
+   "s": "Er sagt: Hoi. Setz dich fünf Minuten.",
+   "e": "He says: hi. Sit down for five minutes."
+  },
+  {
+   "s": "Wir sitzen zehn Minuten und reden über gar nichts.",
+   "e": "We sit for ten minutes and talk about nothing at all."
+  },
+  {
+   "s": "Bei der Brücke begegne ich Frau Hasler.",
+   "e": "At the bridge I run into Frau Hasler."
+  },
+  {
+   "s": "Sie ist die Frau von der Bushaltestelle.",
+   "e": "She is the woman from the bus stop."
+  },
+  {
+   "s": "Ich weiss ihren Namen jetzt.",
+   "e": "I know her name now."
+  },
+  {
+   "s": "Begegnen ist ein Wort mit dem Dativ.",
+   "e": "Begegnen is a dative word."
+  },
+  {
+   "s": "Ich begegne ihr am Sonntag.",
+   "e": "I run into her on Sunday."
+  },
+  {
+   "s": "Wir begegnen ihm oft.",
+   "e": "We often run into him."
+  },
+  {
+   "s": "Sie begegnet uns bei der Brücke.",
+   "e": "She runs into us at the bridge."
+  },
+  {
+   "s": "Ihr Hund ist wirklich sehr alt.",
+   "e": "Her dog really is very old."
+  },
+  {
+   "s": "Er geht drei Schritte und bleibt stehen.",
+   "e": "He walks three steps and stops."
+  },
+  {
+   "s": "Sie sagt: Er geht spazieren wie ich rede.",
+   "e": "She says: he walks like I talk."
+  },
+  {
+   "s": "Sie lacht über ihren eigenen Satz.",
+   "e": "She laughs at her own sentence."
+  },
+  {
+   "s": "Am Schluss treffe ich Rosmarie.",
+   "e": "At the end I meet Rosmarie."
+  },
+  {
+   "s": "Sie kommt gerade vom Friedhof.",
+   "e": "She is just coming from the cemetery."
+  },
+  {
+   "s": "Sie hat leere Hände.",
+   "e": "She has empty hands."
+  },
+  {
+   "s": "Wir gehen die letzten zehn Minuten zusammen.",
+   "e": "We walk the last ten minutes together."
+  },
+  {
+   "s": "Vier Leute in neunzig Minuten.",
+   "e": "Four people in ninety minutes."
+  },
+  {
+   "s": "In sechs Monaten ist das nie passiert.",
+   "e": "That never happened in six months."
+  },
+  {
+   "s": "Am Anfang bin ich neunzig Minuten allein gegangen.",
+   "e": "At the start I walked for ninety minutes alone."
+  },
+  {
+   "s": "Ich habe gedacht: Hier kennt mich nie jemand.",
+   "e": "I thought: nobody here will ever know me."
+  },
+  {
+   "s": "Der Unterschied ist nicht die Stadt.",
+   "e": "The difference is not the town."
+  },
+  {
+   "s": "Der Unterschied ist der Verein und das Büro und die Beiz.",
+   "e": "The difference is the club and the office and the pub."
+  },
+  {
+   "s": "Alle vier Leute kommen von dort.",
+   "e": "All four people come from there."
+  },
+  {
+   "s": "Man trifft nur Leute vom eigenen Leben.",
+   "e": "You only meet people from your own life."
+  },
+  {
+   "s": "Zuerst muss man ein Leben haben.",
+   "e": "First you have to have a life."
+  },
+  {
+   "s": "Zu Hause gehe ich ins Bad.",
+   "e": "At home I go into the bathroom."
+  },
+  {
+   "s": "Meine Schuhe sind dreckig.",
+   "e": "My shoes are dirty."
+  },
+  {
+   "s": "Ich stelle sie vor die Tür.",
+   "e": "I put them outside the door."
+  },
+  {
+   "s": "Am Abend ist die Stadt wieder leer.",
+   "e": "In the evening the town is empty again."
+  },
+  {
+   "s": "Um sieben ist niemand mehr draussen.",
+   "e": "At seven nobody is outside any more."
+  },
+  {
+   "s": "Alle sind zu Hause und essen.",
+   "e": "Everybody is at home and eating."
+  },
+  {
+   "s": "Am Montag fängt alles wieder an.",
+   "e": "On Monday everything starts again."
+  },
+  {
+   "s": "Der Sonntag ist der Tag ohne Läden.",
+   "e": "Sunday is the day without shops."
+  },
+  {
+   "s": "Und darum ist er der Tag mit Leuten.",
+   "e": "And that is why it is the day with people."
+  },
+  {
+   "s": "Ich habe zuerst nur das Erste gesehen.",
+   "e": "At first I only saw the first part."
+  },
+  {
+   "s": "Ich habe sechs Monate für das Zweite gebraucht.",
+   "e": "I needed six months for the second."
+  }
+ ]
+}

@@ -8,12 +8,11 @@
   "geschlossen",
   "schliessen",
   "öffnen",
-  "Samstag",
-  "Sonntag",
   "Milch",
   "offen",
   "Laden",
-  "Bahnhof",
+  "Sonntag",
+  "Samstag",
   "Woche"
  ],
  "sn": [
@@ -148,6 +147,14 @@
   {
    "s": "Am Sonntag ist alles zu.",
    "e": "On Sunday everything is shut."
+  },
+  {
+   "s": "Am Sonntagabend gibt es keine Milch mehr im Kühlschrank.",
+   "e": "On Sunday evening there is no milk left in the fridge."
+  },
+  {
+   "s": "Und es gibt keine Milch mehr im Laden, denn der Laden ist zu.",
+   "e": "And there is no milk in the shop either, because the shop is shut."
   },
   {
    "s": "Wirklich alles.",

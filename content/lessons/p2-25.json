@@ -1,0 +1,371 @@
+{
+ "id": "p2-25",
+ "title": "Herr Zemp sagt etwas",
+ "desc": "The Hauswart thaws by one degree",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Velo",
+  "danke",
+  "Platz",
+  "Haus"
+ ],
+ "sn": [
+  {
+   "s": "Ruedi Zemp ist der Hauswart.",
+   "e": "Ruedi Zemp is the caretaker."
+  },
+  {
+   "s": "Er ist am Dienstag und am Freitag im Haus.",
+   "e": "He is in the building on Tuesday and Friday."
+  },
+  {
+   "s": "Er ist von zehn bis elf im Keller.",
+   "e": "He is in the cellar from ten to eleven."
+  },
+  {
+   "s": "Eine Stunde in der Woche für alles.",
+   "e": "One hour a week for everything."
+  },
+  {
+   "s": "Herr Zemp ist Hauswart für vier Häuser.",
+   "e": "Herr Zemp is caretaker for four buildings."
+  },
+  {
+   "s": "Ein Hauswart macht alles: Licht, Wasser, Schnee, Abfall.",
+   "e": "A caretaker does everything: light, water, snow, rubbish."
+  },
+  {
+   "s": "Er sieht jeden Sack vor jeder Tür.",
+   "e": "He sees every bag outside every door."
+  },
+  {
+   "s": "Im Treppenhaus ist das Licht immer in Ordnung.",
+   "e": "The light in the stairwell always works."
+  },
+  {
+   "s": "Er meldet der Gemeinde die Zahlen für das Wasser.",
+   "e": "He reports the water figures to the commune."
+  },
+  {
+   "s": "Alte Möbel stellt niemand ins Treppenhaus.",
+   "e": "Nobody puts old furniture in the stairwell."
+  },
+  {
+   "s": "Das steht in der Hausordnung und der Hauswart liest sie.",
+   "e": "That is in the Hausordnung and the caretaker reads it."
+  },
+  {
+   "s": "In sechs Monaten hat er sieben Sätze zu mir gesagt.",
+   "e": "In six months he has said seven sentences to me."
+  },
+  {
+   "s": "Ich habe sie gezählt.",
+   "e": "I counted them."
+  },
+  {
+   "s": "Der erste war im Oktober.",
+   "e": "The first was in October."
+  },
+  {
+   "s": "Er hat gesagt: Das Velo steht falsch.",
+   "e": "He said: the bicycle is in the wrong place."
+  },
+  {
+   "s": "Mein Velo stand vor dem Haus.",
+   "e": "My bicycle was standing in front of the building."
+  },
+  {
+   "s": "Es stand zwei Meter neben dem richtigen Platz.",
+   "e": "It was two metres from the right place."
+  },
+  {
+   "s": "Zwei Meter.",
+   "e": "Two metres."
+  },
+  {
+   "s": "Es gibt einen Platz für Velos.",
+   "e": "There is a place for bicycles."
+  },
+  {
+   "s": "Der Platz ist hinter dem Haus.",
+   "e": "The place is behind the building."
+  },
+  {
+   "s": "Der Platz hat acht Nummern.",
+   "e": "The place has eight numbers."
+  },
+  {
+   "s": "Meine Nummer ist die sechs.",
+   "e": "My number is six."
+  },
+  {
+   "s": "Parkieren heisst: etwas hinstellen und dort lassen.",
+   "e": "Parkieren means: to put something down and leave it there."
+  },
+  {
+   "s": "Man parkiert ein Auto und ein Velo.",
+   "e": "You park a car and a bicycle."
+  },
+  {
+   "s": "Man parkiert es auf dem eigenen Platz.",
+   "e": "You park it in your own spot."
+  },
+  {
+   "s": "Nicht daneben. Auf dem Platz.",
+   "e": "Not next to it. In the spot."
+  },
+  {
+   "s": "Ich habe das zuerst nicht ernst genommen.",
+   "e": "At first I did not take that seriously."
+  },
+  {
+   "s": "Ich habe gedacht: Zwei Meter sind zwei Meter.",
+   "e": "I thought: two metres are two metres."
+  },
+  {
+   "s": "Im November hat er wieder etwas gesagt.",
+   "e": "In November he said something again."
+  },
+  {
+   "s": "Er hat gesagt: Nummer sechs.",
+   "e": "He said: number six."
+  },
+  {
+   "s": "Nur zwei Wörter.",
+   "e": "Only two words."
+  },
+  {
+   "s": "Ich habe das Velo auf die sechs gestellt.",
+   "e": "I put the bicycle on the six."
+  },
+  {
+   "s": "Seitdem steht es jeden Tag auf der sechs.",
+   "e": "Since then it stands on the six every day."
+  },
+  {
+   "s": "Er hat sechs Monate lang nichts mehr gesagt.",
+   "e": "He said nothing more for six months."
+  },
+  {
+   "s": "Er hat mich gesehen und genickt.",
+   "e": "He saw me and nodded."
+  },
+  {
+   "s": "Mehr nicht.",
+   "e": "Nothing more."
+  },
+  {
+   "s": "Am Dienstag im April ist etwas anderes passiert.",
+   "e": "On the Tuesday in April something different happened."
+  },
+  {
+   "s": "Ich bin mit dem Velo gekommen.",
+   "e": "I came with the bicycle."
+  },
+  {
+   "s": "Ich habe es auf die sechs gestellt.",
+   "e": "I put it on the six."
+  },
+  {
+   "s": "Er stand beim Container und hat mich angeschaut.",
+   "e": "He was standing by the container and looked at me."
+  },
+  {
+   "s": "Er hat gesagt: Das machen Sie gut.",
+   "e": "He said: you do that well."
+  },
+  {
+   "s": "Fünf Wörter.",
+   "e": "Five words."
+  },
+  {
+   "s": "Er hat es über das Velo gesagt.",
+   "e": "He said it about the bicycle."
+  },
+  {
+   "s": "Er hat es nicht nur über das Velo gesagt.",
+   "e": "He did not only say it about the bicycle."
+  },
+  {
+   "s": "Ich habe den ganzen Tag daran gedacht.",
+   "e": "I thought about it the whole day."
+  },
+  {
+   "s": "Das ist lächerlich.",
+   "e": "That is ridiculous."
+  },
+  {
+   "s": "Ein Mann sagt fünf Wörter über ein Velo.",
+   "e": "A man says five words about a bicycle."
+  },
+  {
+   "s": "Und es macht mir die ganze Woche.",
+   "e": "And it makes my whole week."
+  },
+  {
+   "s": "Ein Lob ist hier klein.",
+   "e": "Praise is small here."
+  },
+  {
+   "s": "Ein Lob ist kurz und selten.",
+   "e": "Praise is short and rare."
+  },
+  {
+   "s": "Und darum stimmt es.",
+   "e": "And that is why it is true."
+  },
+  {
+   "s": "Man lobt nicht aus Höflichkeit.",
+   "e": "You do not praise out of politeness."
+  },
+  {
+   "s": "Man lobt nur bei etwas Gutem.",
+   "e": "You only praise when something is good."
+  },
+  {
+   "s": "Zu Hause lobt man den ganzen Tag.",
+   "e": "At home people praise all day."
+  },
+  {
+   "s": "Grossartig. Perfekt. Sehr schön gemacht.",
+   "e": "Fantastic. Perfect. Very nicely done."
+  },
+  {
+   "s": "Man sagt es und man meint es halb.",
+   "e": "You say it and you half mean it."
+  },
+  {
+   "s": "Nach einem Jahr hört man es nicht mehr.",
+   "e": "After a year you do not hear it any more."
+  },
+  {
+   "s": "Hier hört man jedes einzelne Wort.",
+   "e": "Here you hear every single word."
+  },
+  {
+   "s": "Für ein Lob sagt man einfach danke.",
+   "e": "For praise you simply say thank you."
+  },
+  {
+   "s": "Nicht: Ach, das war nichts.",
+   "e": "Not: oh, that was nothing."
+  },
+  {
+   "s": "Nicht: Nein, gar nicht.",
+   "e": "Not: no, not at all."
+  },
+  {
+   "s": "Man nimmt es und sagt danke.",
+   "e": "You take it and say thank you."
+  },
+  {
+   "s": "Ich habe gesagt: Danke.",
+   "e": "I said: thank you."
+  },
+  {
+   "s": "Und dann habe ich einen Fehler gemacht.",
+   "e": "And then I made a mistake."
+  },
+  {
+   "s": "Ich habe geredet.",
+   "e": "I talked."
+  },
+  {
+   "s": "Ich habe gesagt: Ja, ich habe zuerst nicht gewusst wohin.",
+   "e": "I said: yes, at first I did not know where."
+  },
+  {
+   "s": "Ich habe gesagt: Am Anfang war das nicht klar.",
+   "e": "I said: at the start that was not clear."
+  },
+  {
+   "s": "Ich habe drei Sätze gemacht aus einem danke.",
+   "e": "I made three sentences out of one thank you."
+  },
+  {
+   "s": "Er hat gewartet.",
+   "e": "He waited."
+  },
+  {
+   "s": "Er hat gewartet bis zum Ende.",
+   "e": "He waited to the end."
+  },
+  {
+   "s": "Dann hat er genickt und ist gegangen.",
+   "e": "Then he nodded and went."
+  },
+  {
+   "s": "Nuno sagt: Bei einem Lob sagst du danke und dann nichts.",
+   "e": "Nuno says: for praise you say thank you and then nothing."
+  },
+  {
+   "s": "Er sagt: Das Reden macht es kaputt.",
+   "e": "He says: the talking ruins it."
+  },
+  {
+   "s": "Er hat achtzehn Jahre gebraucht für diesen Satz.",
+   "e": "He needed eighteen years for that sentence."
+  },
+  {
+   "s": "Im Mai hat Ruedi Zemp wieder etwas gesagt.",
+   "e": "In May Ruedi Zemp said something again."
+  },
+  {
+   "s": "Er hat gesagt: Sie sind noch da.",
+   "e": "He said: you are still here."
+  },
+  {
+   "s": "Vier Wörter.",
+   "e": "Four words."
+  },
+  {
+   "s": "Ich habe nur danke gesagt.",
+   "e": "I only said thank you."
+  },
+  {
+   "s": "Nichts anderes.",
+   "e": "Nothing else."
+  },
+  {
+   "s": "Er hat mich zum ersten Mal richtig angeschaut.",
+   "e": "He looked at me properly for the first time."
+  },
+  {
+   "s": "Er hat gesagt: Die meisten sind nach sechs Monaten weg.",
+   "e": "He said: most of them are gone after six months."
+  },
+  {
+   "s": "Das war der längste Satz von ihm.",
+   "e": "That was the longest sentence from him."
+  },
+  {
+   "s": "Er sagt Sie zu mir und er wird immer Sie sagen.",
+   "e": "He says Sie to me and he always will."
+  },
+  {
+   "s": "Das ist kein Abstand.",
+   "e": "That is not distance."
+  },
+  {
+   "s": "Das habe ich lange falsch verstanden.",
+   "e": "I got that wrong for a long time."
+  },
+  {
+   "s": "Er siezt mich und er hat mein Velo im Kopf.",
+   "e": "He says Sie to me and he has my bicycle in his head."
+  },
+  {
+   "s": "Er weiss meine Nummer.",
+   "e": "He knows my number."
+  },
+  {
+   "s": "Er weiss meinen Tag in der Waschküche.",
+   "e": "He knows my day in the laundry room."
+  },
+  {
+   "s": "Das ist seine Art von Freundlichkeit.",
+   "e": "That is his kind of friendliness."
+  }
+ ]
+}

@@ -1,0 +1,369 @@
+{
+ "id": "p2-07",
+ "title": "Timo",
+ "desc": "Somebody your own age from somewhere near",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Bier",
+  "Beiz"
+ ],
+ "sn": [
+  {
+   "s": "Timo habe ich in der Beiz kennengelernt.",
+   "e": "I met Timo in the pub."
+  },
+  {
+   "s": "Eine Beiz ist eine kleine Wirtschaft.",
+   "e": "A Beiz is a small pub."
+  },
+  {
+   "s": "Nicht ein Restaurant. Eine Beiz.",
+   "e": "Not a restaurant. A Beiz."
+  },
+  {
+   "s": "In einer Beiz stehen sechs Tische.",
+   "e": "There are six tables in a Beiz."
+  },
+  {
+   "s": "In einer Beiz kennen sich alle.",
+   "e": "In a Beiz everybody knows each other."
+  },
+  {
+   "s": "Nuno hat mich in die Beiz mitgenommen.",
+   "e": "Nuno took me to the Beiz."
+  },
+  {
+   "s": "Wir haben ein Bier bestellt.",
+   "e": "We ordered a beer."
+  },
+  {
+   "s": "Das Bier kommt in einem kleinen Glas.",
+   "e": "The beer comes in a small glass."
+  },
+  {
+   "s": "Drei Deziliter. Nicht mehr.",
+   "e": "Three decilitres. Not more."
+  },
+  {
+   "s": "Man trinkt langsam und man bestellt wieder.",
+   "e": "You drink slowly and you order again."
+  },
+  {
+   "s": "Am Tisch nebenan sass ein Mann in meinem Alter.",
+   "e": "At the next table there was a man my age."
+  },
+  {
+   "s": "Er hat allein ein Bier getrunken.",
+   "e": "He was drinking a beer on his own."
+  },
+  {
+   "s": "Nuno kennt ihn.",
+   "e": "Nuno knows him."
+  },
+  {
+   "s": "Nuno hat gesagt: Timo, komm zu uns.",
+   "e": "Nuno said: Timo, come and join us."
+  },
+  {
+   "s": "Timo hat sein Glas genommen und ist gekommen.",
+   "e": "Timo took his glass and came."
+  },
+  {
+   "s": "So einfach geht das hier manchmal.",
+   "e": "Sometimes it is that simple here."
+  },
+  {
+   "s": "Er hat gesagt: Hoi, ich bin Timo.",
+   "e": "He said: hi, I am Timo."
+  },
+  {
+   "s": "Er hat mir sofort die Hand gegeben.",
+   "e": "He shook my hand at once."
+  },
+  {
+   "s": "Er hat mir sofort du gegeben.",
+   "e": "He gave me du at once."
+  },
+  {
+   "s": "Das machen die Jungen.",
+   "e": "Young people do that."
+  },
+  {
+   "s": "Er ist neunundzwanzig.",
+   "e": "He is twenty-nine."
+  },
+  {
+   "s": "Er ist Schreiner.",
+   "e": "He is a carpenter."
+  },
+  {
+   "s": "Er arbeitet in einer Werkstatt in Hergiswil.",
+   "e": "He works in a workshop in Hergiswil."
+  },
+  {
+   "s": "In der Werkstatt riecht es nach Holz.",
+   "e": "The workshop smells of wood."
+  },
+  {
+   "s": "Er sagt: Komm einmal in die Werkstatt.",
+   "e": "He says: come to the workshop some time."
+  },
+  {
+   "s": "Ich habe gefragt: Woher kommst du?",
+   "e": "I asked: where are you from?"
+  },
+  {
+   "s": "Er hat gesagt: Aus Stans.",
+   "e": "He said: from Stans."
+  },
+  {
+   "s": "Er hat es gesagt wie eine ganze Erklärung.",
+   "e": "He said it like a whole explanation."
+  },
+  {
+   "s": "Stans ist fünfzehn Minuten von Luzern.",
+   "e": "Stans is fifteen minutes from Luzern."
+  },
+  {
+   "s": "Fünfzehn Minuten mit dem Zug.",
+   "e": "Fifteen minutes by train."
+  },
+  {
+   "s": "Stans ist in Nidwalden.",
+   "e": "Stans is in Nidwalden."
+  },
+  {
+   "s": "Nidwalden ist ein anderer Kanton.",
+   "e": "Nidwalden is a different canton."
+  },
+  {
+   "s": "Der Kanton hat vierzigtausend Leute.",
+   "e": "The canton has forty thousand people."
+  },
+  {
+   "s": "Das ist weniger als eine Stadt.",
+   "e": "That is fewer than a town."
+  },
+  {
+   "s": "Und es ist ein eigener Kanton mit eigenen Gesetzen.",
+   "e": "And it is a canton of its own with its own laws."
+  },
+  {
+   "s": "Timo sagt: Wir sind nicht Luzern.",
+   "e": "Timo says: we are not Luzern."
+  },
+  {
+   "s": "Er sagt es mit einem halben Lachen.",
+   "e": "He says it with half a laugh."
+  },
+  {
+   "s": "Und er meint es auch.",
+   "e": "And he also means it."
+  },
+  {
+   "s": "Er ist im Tal aufgewachsen.",
+   "e": "He grew up in the valley."
+  },
+  {
+   "s": "Hinter Stans geht ein Tal in die Berge.",
+   "e": "Behind Stans a valley runs up into the mountains."
+  },
+  {
+   "s": "Sein Vater hat noch drei Kühe.",
+   "e": "His father still has three cows."
+  },
+  {
+   "s": "Drei Kühe sind kein Bauernhof.",
+   "e": "Three cows are not a farm."
+  },
+  {
+   "s": "Drei Kühe sind eine Gewohnheit.",
+   "e": "Three cows are a habit."
+  },
+  {
+   "s": "Timo hat als Kind im Tal gearbeitet.",
+   "e": "Timo worked in the valley as a child."
+  },
+  {
+   "s": "Er hat mir davon eine halbe Stunde erzählt.",
+   "e": "He told me about it for half an hour."
+  },
+  {
+   "s": "Erzählen ist auch ein Wort mit dem Dativ.",
+   "e": "Erzählen is a dative word too."
+  },
+  {
+   "s": "Er erzählt mir vom Tal.",
+   "e": "He tells me about the valley."
+  },
+  {
+   "s": "Ich erzähle ihm von meiner Stadt.",
+   "e": "I tell him about my town."
+  },
+  {
+   "s": "Wir erzählen uns beide zu viel für einen ersten Abend.",
+   "e": "We both tell each other too much for a first evening."
+  },
+  {
+   "s": "Das Bier hilft.",
+   "e": "The beer helps."
+  },
+  {
+   "s": "Er hat gefragt: Und? Bist du schon auf einem Berg gewesen?",
+   "e": "He asked: and? Have you been up a mountain yet?"
+  },
+  {
+   "s": "Ich habe gesagt: Nein.",
+   "e": "I said: no."
+  },
+  {
+   "s": "Er hat mich angeschaut wie einen Kranken.",
+   "e": "He looked at me like a sick man."
+  },
+  {
+   "s": "Er hat gesagt: Du bist einen Monat hier.",
+   "e": "He said: you have been here a month."
+  },
+  {
+   "s": "Er hat gesagt: Und du bist noch nie oben gewesen.",
+   "e": "He said: and you have never been up there."
+  },
+  {
+   "s": "Für ihn ist das nicht normal.",
+   "e": "For him that is not normal."
+  },
+  {
+   "s": "Für mich war es nie eine Frage.",
+   "e": "For me it was never a question."
+  },
+  {
+   "s": "Er sagt: Der Berg ist gleich da.",
+   "e": "He says: the mountain is right there."
+  },
+  {
+   "s": "Er sagt: Du siehst ihn aus dem Fenster.",
+   "e": "He says: you see it from your window."
+  },
+  {
+   "s": "Er hat recht. Ich sehe ihn jeden Tag.",
+   "e": "He is right. I see it every day."
+  },
+  {
+   "s": "Ich habe ihn angeschaut und bin nie hingegangen.",
+   "e": "I have looked at it and never gone."
+  },
+  {
+   "s": "Er sagt: Im Frühling gehen wir.",
+   "e": "He says: in the spring we will go."
+  },
+  {
+   "s": "Er sagt einen Monat und keinen Tag.",
+   "e": "He says a month and not a day."
+  },
+  {
+   "s": "Das ist noch keine echte Abmachung.",
+   "e": "That is not a real arrangement yet."
+  },
+  {
+   "s": "Aber es ist mehr als mal.",
+   "e": "But it is more than some time."
+  },
+  {
+   "s": "Wir haben vier Bier getrunken.",
+   "e": "We drank four beers."
+  },
+  {
+   "s": "Nicht viel. Über drei Stunden.",
+   "e": "Not a lot. Over three hours."
+  },
+  {
+   "s": "Am Schluss hat jeder für sich bezahlt.",
+   "e": "At the end everybody paid for themselves."
+  },
+  {
+   "s": "Das ist hier so und niemand findet es schlecht.",
+   "e": "That is how it is here and nobody finds it bad."
+  },
+  {
+   "s": "Jeder zahlt sein Bier.",
+   "e": "Everybody pays for their own beer."
+  },
+  {
+   "s": "Ich habe gesagt: Ich zahle deins.",
+   "e": "I said: I will pay for yours."
+  },
+  {
+   "s": "Timo hat gesagt: Warum?",
+   "e": "Timo said: why?"
+  },
+  {
+   "s": "Er hat es wirklich gefragt.",
+   "e": "He really was asking."
+  },
+  {
+   "s": "Er hat es nicht als Höflichkeit gefragt.",
+   "e": "He was not asking out of politeness."
+  },
+  {
+   "s": "Ich habe keine gute Antwort gehabt.",
+   "e": "I did not have a good answer."
+  },
+  {
+   "s": "Er hat gesagt: Dann zahlst du das nächste Mal alles.",
+   "e": "He said: then next time you pay for everything."
+  },
+  {
+   "s": "Er hat gesagt: Und ich zahle das Mal danach.",
+   "e": "He said: and I will pay the time after."
+  },
+  {
+   "s": "So geht es auch.",
+   "e": "That works too."
+  },
+  {
+   "s": "Draussen war es kalt.",
+   "e": "Outside it was cold."
+  },
+  {
+   "s": "Er ist zum Bahnhof gegangen.",
+   "e": "He walked to the station."
+  },
+  {
+   "s": "Der letzte Zug nach Stans geht um halb eins.",
+   "e": "The last train to Stans goes at half past twelve."
+  },
+  {
+   "s": "Er hat gesagt: Ich schicke dir eine Nachricht.",
+   "e": "He said: I will send you a message."
+  },
+  {
+   "s": "Ich habe das schon gehört.",
+   "e": "I have heard that before."
+  },
+  {
+   "s": "Von drei Leuten in einem Monat.",
+   "e": "From three people in a month."
+  },
+  {
+   "s": "Keiner hat je geschrieben.",
+   "e": "None of them ever wrote."
+  },
+  {
+   "s": "Am nächsten Morgen war eine Nachricht da.",
+   "e": "The next morning there was a message."
+  },
+  {
+   "s": "Sie war um sieben Uhr gekommen.",
+   "e": "It had come at seven."
+  },
+  {
+   "s": "Sie war kurz: Werkstatt, Samstag, zehn Uhr.",
+   "e": "It was short: workshop, Saturday, ten o'clock."
+  },
+  {
+   "s": "Ein Tag und eine Zeit.",
+   "e": "A day and a time."
+  }
+ ]
+}

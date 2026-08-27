@@ -1,0 +1,362 @@
+{
+ "id": "p2-19",
+ "title": "Das Spiel",
+ "desc": "A match, and a crowd to stand in",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "schreien",
+  "spielen",
+  "Tor"
+ ],
+ "sn": [
+  {
+   "s": "Timo hat gefragt: Kommst du am Samstag ans Spiel?",
+   "e": "Timo asked: are you coming to the match on Saturday?"
+  },
+  {
+   "s": "Ich habe gefragt: Was für ein Spiel?",
+   "e": "I asked: what kind of match?"
+  },
+  {
+   "s": "Er hat mich angeschaut.",
+   "e": "He looked at me."
+  },
+  {
+   "s": "Er hat gesagt: Das Spiel. Der FCL.",
+   "e": "He said: the match. FCL."
+  },
+  {
+   "s": "Der FCL ist der Fussballverein von Luzern.",
+   "e": "FCL is the Luzern football club."
+  },
+  {
+   "s": "Er spielt in der ersten Liga von diesem Land.",
+   "e": "It plays in the top league in this country."
+  },
+  {
+   "s": "Die Liga hat zwölf Mannschaften.",
+   "e": "The league has twelve teams."
+  },
+  {
+   "s": "Zwölf. Das ganze Land.",
+   "e": "Twelve. The whole country."
+  },
+  {
+   "s": "Man spielt gegen jede Mannschaft viermal.",
+   "e": "You play every team four times."
+  },
+  {
+   "s": "Man kennt jeden Spieler von jeder Mannschaft.",
+   "e": "You know every player from every team."
+  },
+  {
+   "s": "Das Stadion ist draussen vor der Stadt.",
+   "e": "The stadium is outside the town."
+  },
+  {
+   "s": "Es hat Platz für siebzehntausend Leute.",
+   "e": "It holds seventeen thousand people."
+  },
+  {
+   "s": "Am Samstag sind zwölftausend da.",
+   "e": "On Saturday twelve thousand are there."
+  },
+  {
+   "s": "Bei achtzigtausend Leuten in der Stadt.",
+   "e": "With eighty thousand people in the town."
+  },
+  {
+   "s": "Jeder siebte Mensch aus der Stadt ist im Stadion.",
+   "e": "Every seventh person from the town is in the stadium."
+  },
+  {
+   "s": "Wir fahren mit dem Bus hin.",
+   "e": "We go there by bus."
+  },
+  {
+   "s": "Der Bus ist voll und alle tragen Blau und Weiss.",
+   "e": "The bus is full and everybody is wearing blue and white."
+  },
+  {
+   "s": "Blau und Weiss sind die Farben vom FCL.",
+   "e": "Blue and white are the FCL colours."
+  },
+  {
+   "s": "Timo trägt einen alten Schal.",
+   "e": "Timo is wearing an old scarf."
+  },
+  {
+   "s": "Der Schal ist von seinem Vater.",
+   "e": "The scarf is his father's."
+  },
+  {
+   "s": "Sein Vater ist seit fünfzig Jahren dabei.",
+   "e": "His father has been going for fifty years."
+  },
+  {
+   "s": "Im Stadion stehen wir.",
+   "e": "In the stadium we stand."
+  },
+  {
+   "s": "Vor dem Spiel spielt Musik im Stadion.",
+   "e": "Before the match there is music in the stadium."
+  },
+  {
+   "s": "In der Pause wird es kurz leise.",
+   "e": "At half time it goes quiet for a moment."
+  },
+  {
+   "s": "Der Tee im Becher ist zu heiss.",
+   "e": "The tea in the cup is too hot."
+  },
+  {
+   "s": "Für Kinder unter sechs ist das Spiel gratis.",
+   "e": "For children under six the match is free."
+  },
+  {
+   "s": "Wir sitzen nicht.",
+   "e": "We do not sit."
+  },
+  {
+   "s": "Hinter dem Tor stehen alle.",
+   "e": "Behind the goal everybody stands."
+  },
+  {
+   "s": "Das Tor ist das grosse Ding am Ende vom Feld.",
+   "e": "The goal is the big thing at the end of the pitch."
+  },
+  {
+   "s": "Ein Tor ist auch der Punkt.",
+   "e": "A goal is also the point."
+  },
+  {
+   "s": "Das gleiche Wort für beides.",
+   "e": "The same word for both."
+  },
+  {
+   "s": "Der FCL schiesst ein Tor.",
+   "e": "FCL scores a goal."
+  },
+  {
+   "s": "Der Ball geht ins Tor.",
+   "e": "The ball goes into the goal."
+  },
+  {
+   "s": "Zwölftausend Leute schreien gleichzeitig.",
+   "e": "Twelve thousand people shout at the same time."
+  },
+  {
+   "s": "Ich habe das noch nie gehört.",
+   "e": "I have never heard that before."
+  },
+  {
+   "s": "Es ist laut wie ein Zug.",
+   "e": "It is loud like a train."
+  },
+  {
+   "s": "Und dann ist es sofort wieder still.",
+   "e": "And then it is quiet again at once."
+  },
+  {
+   "s": "Gewinnen und verlieren sind die zwei Wörter.",
+   "e": "Winning and losing are the two words."
+  },
+  {
+   "s": "Der FCL gewinnt oder der FCL verliert.",
+   "e": "FCL wins or FCL loses."
+  },
+  {
+   "s": "Meistens verliert der FCL.",
+   "e": "Usually FCL loses."
+  },
+  {
+   "s": "Timo sagt das selber.",
+   "e": "Timo says that himself."
+  },
+  {
+   "s": "Er sagt: Wir verlieren gern zu Hause.",
+   "e": "He says: we like to lose at home."
+  },
+  {
+   "s": "Er sagt es fast stolz.",
+   "e": "He says it almost proudly."
+  },
+  {
+   "s": "Das verstehe ich nicht und ich mag es.",
+   "e": "I do not understand that and I like it."
+  },
+  {
+   "s": "In der ersten Halbzeit steht es null zu null.",
+   "e": "In the first half it is nil nil."
+  },
+  {
+   "s": "In der zweiten Halbzeit fällt ein Tor.",
+   "e": "In the second half a goal goes in."
+  },
+  {
+   "s": "Für die anderen.",
+   "e": "For the other side."
+  },
+  {
+   "s": "Alle schweigen.",
+   "e": "Everybody goes silent."
+  },
+  {
+   "s": "Ein Mann neben mir sagt ein Wort.",
+   "e": "A man next to me says one word."
+  },
+  {
+   "s": "Es ist kein schönes Wort.",
+   "e": "It is not a nice word."
+  },
+  {
+   "s": "Es ist auf Dialekt und ich verstehe es trotzdem.",
+   "e": "It is in dialect and I understand it anyway."
+  },
+  {
+   "s": "Zehn Minuten später schiesst der FCL das Tor.",
+   "e": "Ten minutes later FCL scores."
+  },
+  {
+   "s": "Eins zu eins.",
+   "e": "One all."
+  },
+  {
+   "s": "Ich schreie mit allen anderen.",
+   "e": "I shout with everybody else."
+  },
+  {
+   "s": "Ich springe und schreie und kenne den Spieler nicht.",
+   "e": "I jump and shout and do not know the player."
+  },
+  {
+   "s": "Timo umarmt mich.",
+   "e": "Timo hugs me."
+  },
+  {
+   "s": "Ein Mann hinter mir umarmt mich auch.",
+   "e": "A man behind me hugs me too."
+  },
+  {
+   "s": "Ich habe ihn nie gesehen.",
+   "e": "I have never seen him."
+  },
+  {
+   "s": "Fünf Monate ohne eine Hand auf der Schulter.",
+   "e": "Five months without a hand on my shoulder."
+  },
+  {
+   "s": "Und jetzt zwei Männer gleichzeitig.",
+   "e": "And now two men at the same time."
+  },
+  {
+   "s": "Nach dem Tor habe ich etwas Falsches geschrien.",
+   "e": "After the goal I shouted the wrong thing."
+  },
+  {
+   "s": "Ich habe den Namen von einem anderen Spieler geschrien.",
+   "e": "I shouted another player's name."
+  },
+  {
+   "s": "Der Spieler ist seit zwei Jahren nicht mehr da.",
+   "e": "That player has not been here for two years."
+  },
+  {
+   "s": "Timo hat gelacht.",
+   "e": "Timo laughed."
+  },
+  {
+   "s": "Der Mann hinter mir hat auch gelacht.",
+   "e": "The man behind me laughed too."
+  },
+  {
+   "s": "Er hat gesagt: Der ist in Belgien.",
+   "e": "He said: he is in Belgium."
+  },
+  {
+   "s": "Er hat es freundlich gesagt.",
+   "e": "He said it kindly."
+  },
+  {
+   "s": "Er hat mir nachher ein Bier gekauft.",
+   "e": "He bought me a beer afterwards."
+  },
+  {
+   "s": "Er hat gesagt: Du warst laut. Das ist die Hauptsache.",
+   "e": "He said: you were loud. That is the main thing."
+  },
+  {
+   "s": "Das Spiel geht eins zu eins aus.",
+   "e": "The match ends one all."
+  },
+  {
+   "s": "Ein Punkt für jeden.",
+   "e": "A point each."
+  },
+  {
+   "s": "Timo ist zufrieden.",
+   "e": "Timo is satisfied."
+  },
+  {
+   "s": "Er sagt: Ein Punkt ist besser als nichts.",
+   "e": "He says: a point is better than nothing."
+  },
+  {
+   "s": "Nach dem Spiel gehen alle zu Fuss zurück.",
+   "e": "After the match everybody walks back."
+  },
+  {
+   "s": "Zwölftausend Leute auf einer Strasse.",
+   "e": "Twelve thousand people on one street."
+  },
+  {
+   "s": "Niemand schlägt jemanden.",
+   "e": "Nobody hits anybody."
+  },
+  {
+   "s": "Es gibt Polizei und sie steht nur da.",
+   "e": "There is police and they just stand there."
+  },
+  {
+   "s": "Die Leute reden über das Spiel.",
+   "e": "People talk about the match."
+  },
+  {
+   "s": "Alle sagen das Gleiche über die Mannschaft.",
+   "e": "Everybody says the same thing about the team."
+  },
+  {
+   "s": "Ich verstehe die Hälfte und ich nicke.",
+   "e": "I understand half of it and I nod."
+  },
+  {
+   "s": "In der Beiz sind alle noch zwei Stunden.",
+   "e": "In the pub everybody stays another two hours."
+  },
+  {
+   "s": "Am Montag im Büro fragt Marco: Warst du am Spiel?",
+   "e": "On Monday in the office Marco asks: were you at the match?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Er hat gesagt: Und? Wie war das Tor?",
+   "e": "He said: and? How was the goal?"
+  },
+  {
+   "s": "Wir haben zehn Minuten geredet.",
+   "e": "We talked for ten minutes."
+  },
+  {
+   "s": "Über ein Spiel und nichts anderes.",
+   "e": "About a match and nothing else."
+  },
+  {
+   "s": "Ich hatte zum ersten Mal etwas zu erzählen.",
+   "e": "For the first time I had something to tell."
+  }
+ ]
+}

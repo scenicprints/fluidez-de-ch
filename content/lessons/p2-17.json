@@ -1,0 +1,376 @@
+{
+ "id": "p2-17",
+ "title": "Herzlichen Glückwunsch",
+ "desc": "A birthday, done the local way",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "schenken",
+  "gratulieren",
+  "Runde",
+  "Kuchen",
+  "bringen"
+ ],
+ "sn": [
+  {
+   "s": "Marco hat Geburtstag.",
+   "e": "It is Marco's birthday."
+  },
+  {
+   "s": "Am Montag steht ein Kuchen im Büro.",
+   "e": "On Monday there is a cake in the office."
+  },
+  {
+   "s": "Der Kuchen ist von Marco.",
+   "e": "The cake is from Marco."
+  },
+  {
+   "s": "Marco hat Geburtstag und Marco bringt den Kuchen.",
+   "e": "Marco has a birthday and Marco brings the cake."
+  },
+  {
+   "s": "Das habe ich zuerst nicht verstanden.",
+   "e": "At first I did not understand that."
+  },
+  {
+   "s": "Zu Hause bringen die anderen den Kuchen.",
+   "e": "At home the others bring the cake."
+  },
+  {
+   "s": "Hier bringt das Geburtstagskind den Kuchen.",
+   "e": "Here the birthday person brings the cake."
+  },
+  {
+   "s": "Das Geburtstagskind zahlt auch die Runde in der Beiz.",
+   "e": "The birthday person also pays for the round in the pub."
+  },
+  {
+   "s": "Eine Runde ist ein Getränk für alle.",
+   "e": "A round is a drink for everybody."
+  },
+  {
+   "s": "Man gibt eine Runde aus.",
+   "e": "You buy a round."
+  },
+  {
+   "s": "Man hat Geburtstag und man gibt eine Runde aus.",
+   "e": "You have a birthday and you buy a round."
+  },
+  {
+   "s": "Ich habe gefragt: Warum?",
+   "e": "I asked: why?"
+  },
+  {
+   "s": "Marco hat gesagt: Ich habe ein Jahr mehr.",
+   "e": "Marco said: I have one more year."
+  },
+  {
+   "s": "Er hat gesagt: Das ist mein Glück, nicht eures.",
+   "e": "He said: that is my luck, not yours."
+  },
+  {
+   "s": "Das ist eine ganz andere Rechnung.",
+   "e": "That is a completely different way of counting."
+  },
+  {
+   "s": "Und sie ist nicht schlecht.",
+   "e": "And it is not a bad one."
+  },
+  {
+   "s": "Man sagt: Herzlichen Glückwunsch.",
+   "e": "You say: congratulations."
+  },
+  {
+   "s": "Man sagt auch: Alles Gute.",
+   "e": "You also say: all the best."
+  },
+  {
+   "s": "Beides ist richtig.",
+   "e": "Both are right."
+  },
+  {
+   "s": "Herzlichen Glückwunsch tönt etwas grösser.",
+   "e": "Herzlichen Glückwunsch sounds slightly bigger."
+  },
+  {
+   "s": "Alles Gute sagt man schneller im Gang.",
+   "e": "Alles Gute is what you say quickly in the corridor."
+  },
+  {
+   "s": "Man gibt die Hand dabei.",
+   "e": "You shake hands as you say it."
+  },
+  {
+   "s": "Man schaut in die Augen dabei.",
+   "e": "You look them in the eye as you say it."
+  },
+  {
+   "s": "Gratulieren ist auch ein Wort mit dem Dativ.",
+   "e": "Gratulieren is a dative word too."
+  },
+  {
+   "s": "Ich gratuliere dir.",
+   "e": "I congratulate you."
+  },
+  {
+   "s": "Ich gratuliere ihm.",
+   "e": "I congratulate him."
+  },
+  {
+   "s": "Wir gratulieren ihr.",
+   "e": "We congratulate her."
+  },
+  {
+   "s": "Nicht: ich gratuliere dich.",
+   "e": "Not: ich gratuliere dich."
+  },
+  {
+   "s": "Man gratuliert nie zu früh.",
+   "e": "You never congratulate too early."
+  },
+  {
+   "s": "Das ist eine echte Regel hier.",
+   "e": "That is a real rule here."
+  },
+  {
+   "s": "Man sagt es nicht am Tag davor.",
+   "e": "You do not say it the day before."
+  },
+  {
+   "s": "Nicht am Abend davor. Nicht am Morgen davor.",
+   "e": "Not the evening before. Not the morning before."
+  },
+  {
+   "s": "Rosmarie sagt: Das bringt Unglück.",
+   "e": "Rosmarie says: that brings bad luck."
+  },
+  {
+   "s": "Sie sagt es ernst.",
+   "e": "She says it seriously."
+  },
+  {
+   "s": "Alle sagen es ernst.",
+   "e": "Everybody says it seriously."
+  },
+  {
+   "s": "Junge Leute lachen darüber und machen es trotzdem nicht.",
+   "e": "Young people laugh about it and still do not do it."
+  },
+  {
+   "s": "Ich habe Marco am Sonntagabend fast gratuliert.",
+   "e": "I almost congratulated Marco on Sunday evening."
+  },
+  {
+   "s": "Timo hat mir die Hand auf den Arm gelegt.",
+   "e": "Timo put his hand on my arm."
+  },
+  {
+   "s": "Er hat gesagt: Nicht jetzt. Morgen.",
+   "e": "He said: not now. Tomorrow."
+  },
+  {
+   "s": "Ein Geschenk ist klein hier.",
+   "e": "A present is small here."
+  },
+  {
+   "s": "Man schenkt eine Flasche Wein.",
+   "e": "You give a bottle of wine."
+  },
+  {
+   "s": "Man schenkt Schokolade oder Blumen.",
+   "e": "You give chocolate or flowers."
+  },
+  {
+   "s": "Man schenkt nichts Grosses.",
+   "e": "You do not give anything big."
+  },
+  {
+   "s": "Ein grosses Geschenk macht Druck.",
+   "e": "A big present makes pressure."
+  },
+  {
+   "s": "Schenken ist auch ein Wort mit dem Dativ.",
+   "e": "Schenken is a dative word too."
+  },
+  {
+   "s": "Ich schenke ihm eine Flasche.",
+   "e": "I give him a bottle."
+  },
+  {
+   "s": "Er schenkt mir ein Buch.",
+   "e": "He gives me a book."
+  },
+  {
+   "s": "Sie schenken uns nichts und das ist auch in Ordnung.",
+   "e": "They give us nothing and that is fine too."
+  },
+  {
+   "s": "Im Büro schenkt man zusammen.",
+   "e": "In the office people give together."
+  },
+  {
+   "s": "Petra holt das Geld an der Bank.",
+   "e": "Petra gets the money from the bank."
+  },
+  {
+   "s": "Sie muss am Schalter unterschreiben.",
+   "e": "She has to sign at the counter."
+  },
+  {
+   "s": "Die Rechnung vom Kuchen zahlt Marco selber.",
+   "e": "Marco pays the bill for the cake himself."
+  },
+  {
+   "s": "Er trägt ihn am Morgen in einer Schachtel ins Büro.",
+   "e": "He carries it into the office in a box in the morning."
+  },
+  {
+   "s": "Sein Bruder kommt am Abend vom Flughafen direkt in die Beiz.",
+   "e": "His brother comes straight from the airport to the pub in the evening."
+  },
+  {
+   "s": "Der Bruder redet zehn Minuten über die Krankenkasse.",
+   "e": "The brother talks about health insurance for ten minutes."
+  },
+  {
+   "s": "Das machen hier alle einmal im Jahr.",
+   "e": "Everybody here does that once a year."
+  },
+  {
+   "s": "Alle geben zehn Franken und einer kauft etwas.",
+   "e": "Everybody gives ten francs and one person buys something."
+  },
+  {
+   "s": "Eine Karte geht herum und alle schreiben etwas.",
+   "e": "A card goes round and everybody writes something."
+  },
+  {
+   "s": "Die Karte kommt heimlich an jeden Tisch.",
+   "e": "The card comes secretly to every desk."
+  },
+  {
+   "s": "Man schreibt zwei Wörter und gibt sie weiter.",
+   "e": "You write two words and pass it on."
+  },
+  {
+   "s": "Ich habe zu viel geschrieben.",
+   "e": "I wrote too much."
+  },
+  {
+   "s": "Ich habe vier Zeilen geschrieben.",
+   "e": "I wrote four lines."
+  },
+  {
+   "s": "Alle anderen haben drei Wörter geschrieben.",
+   "e": "Everybody else wrote three words."
+  },
+  {
+   "s": "Alles Gute, Peter. Alles Gute, Sandra.",
+   "e": "All the best, Peter. All the best, Sandra."
+  },
+  {
+   "s": "Kurz und mit dem Namen.",
+   "e": "Short and with the name."
+  },
+  {
+   "s": "Das ist die richtige Länge.",
+   "e": "That is the right length."
+  },
+  {
+   "s": "Am Abend geht das Büro in die Beiz.",
+   "e": "In the evening the office goes to the pub."
+  },
+  {
+   "s": "Marco gibt die erste Runde aus.",
+   "e": "Marco buys the first round."
+  },
+  {
+   "s": "Wir sind acht Leute.",
+   "e": "We are eight people."
+  },
+  {
+   "s": "Er zahlt acht Bier.",
+   "e": "He pays for eight beers."
+  },
+  {
+   "s": "Er sagt: Das ist billiger als ein Fest.",
+   "e": "He says: that is cheaper than a party."
+  },
+  {
+   "s": "Er wird dreiundvierzig.",
+   "e": "He is turning forty-three."
+  },
+  {
+   "s": "Er sagt die Zahl ganz einfach.",
+   "e": "He says the number quite plainly."
+  },
+  {
+   "s": "Man sagt hier das Alter einfach.",
+   "e": "People simply say their age here."
+  },
+  {
+   "s": "Niemand macht ein Geheimnis daraus.",
+   "e": "Nobody makes a secret of it."
+  },
+  {
+   "s": "Wir stossen an.",
+   "e": "We clink glasses."
+  },
+  {
+   "s": "Achtmal, mit jedem einzeln, mit dem Namen.",
+   "e": "Eight times, with each one, with the name."
+  },
+  {
+   "s": "Ich mache es jetzt richtig.",
+   "e": "I do it properly now."
+  },
+  {
+   "s": "Niemand muss mehr warten.",
+   "e": "Nobody has to wait any more."
+  },
+  {
+   "s": "Um zehn geht der halbe Tisch nach Hause.",
+   "e": "At ten half the table goes home."
+  },
+  {
+   "s": "Am Dienstag ist Arbeit.",
+   "e": "On Tuesday there is work."
+  },
+  {
+   "s": "Das ist kein schlechtes Fest.",
+   "e": "That is not a bad party."
+  },
+  {
+   "s": "Das ist ein Dienstag am nächsten Morgen.",
+   "e": "That is a Tuesday the next morning."
+  },
+  {
+   "s": "Marco hat mir am Schluss die Hand gegeben.",
+   "e": "Marco shook my hand at the end."
+  },
+  {
+   "s": "Er hat gesagt: Merci vielmal. Schön, du warst da.",
+   "e": "He said: thanks very much. Good that you were here."
+  },
+  {
+   "s": "Ich habe gesagt: Danke für die Runde.",
+   "e": "I said: thanks for the round."
+  },
+  {
+   "s": "Er hat gelacht und gesagt: Du bist auch einmal dran.",
+   "e": "He laughed and said: your turn comes too."
+  },
+  {
+   "s": "Mein Geburtstag ist im Mai.",
+   "e": "My birthday is in May."
+  },
+  {
+   "s": "Ich muss dann den Kuchen bringen.",
+   "e": "I will have to bring the cake."
+  },
+  {
+   "s": "Ich habe es mir schon aufgeschrieben.",
+   "e": "I have already written it down for myself."
+  }
+ ]
+}

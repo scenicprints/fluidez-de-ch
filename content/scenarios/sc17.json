@@ -1,0 +1,109 @@
+{
+ "id": "sc17",
+ "title": "Woher kommst du?",
+ "desc": "The question you will answer a thousand times",
+ "setting": "An apéro, a glass in your hand, and a man who has asked this before.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Marco",
+   "es": "Woher kommen Sie?",
+   "en": "Where are you from?",
+   "options": [
+    {
+     "es": "Aus dem Süden. Aus einer kleinen Stadt.",
+     "en": "From the south. From a small town.",
+     "verdict": "good",
+     "feedback": "The place, then the country. Here the part matters more than the nation, and he will ask which part anyway."
+    },
+    {
+     "es": "Warum fragen Sie?",
+     "en": "Why do you ask?",
+     "verdict": "bad",
+     "feedback": "No edge is meant. He asks a man from Bern the same thing and hears it in the vowels."
+    },
+    {
+     "es": "Das ist weit weg.",
+     "en": "That is far away.",
+     "verdict": "ok",
+     "feedback": "Charming and it dodges. He will simply ask again, more slowly."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Und seit wann sind Sie hier?",
+   "en": "And since when have you been here?",
+   "options": [
+    {
+     "es": "Seit einem Monat.",
+     "en": "For a month.",
+     "verdict": "good",
+     "feedback": "Seit einem Monat, seit einer Woche, seit einem Jahr. Nuno still gets asked after eighteen years."
+    },
+    {
+     "es": "Ein Monat.",
+     "en": "A month.",
+     "verdict": "ok",
+     "feedback": "Understood, and it drops the word that carries the sense. Seit is what makes it a stretch of time."
+    },
+    {
+     "es": "Vor einem Monat.",
+     "en": "A month ago.",
+     "verdict": "bad",
+     "feedback": "That is the day you arrived. Seit is the whole month since, and he asked for the month."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Was haben Sie gelernt?",
+   "en": "What did you train as?",
+   "options": [
+    {
+     "es": "Ich arbeite in einem Büro. Zahlen und Briefe.",
+     "en": "I work in an office. Numbers and letters.",
+     "verdict": "good",
+     "feedback": "Plain, and plain is the register. Nobody will ask what you earn, and nobody thinks less of the answer."
+    },
+    {
+     "es": "Ich habe studiert.",
+     "en": "I went to university.",
+     "verdict": "ok",
+     "feedback": "He asked what you trained as, which here usually means an apprenticeship. Two of three people did one."
+    },
+    {
+     "es": "Ich verdiene gut.",
+     "en": "I earn well.",
+     "verdict": "bad",
+     "feedback": "Money does not come into this conversation. It will not come into any of them."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Mein Bruder wohnt auch im Süden.",
+   "en": "My brother lives in the south too.",
+   "options": [
+    {
+     "es": "Wo genau?",
+     "en": "Where exactly?",
+     "verdict": "good",
+     "feedback": "You asked back. He has been waiting for somebody to, and now you will hear about the brother."
+    },
+    {
+     "es": "Schön.",
+     "en": "Nice.",
+     "verdict": "ok",
+     "feedback": "He opened a door with his own family in it. One question is all it needed."
+    },
+    {
+     "es": "Ja.",
+     "en": "Yes.",
+     "verdict": "bad",
+     "feedback": "He gave you something personal. Ja hands it straight back unopened."
+    }
+   ]
+  }
+ ]
+}

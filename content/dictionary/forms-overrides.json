@@ -1,31 +1,67 @@
 {
-  "_": [
-    "Pins what no rule can settle. A null blocks a form outright.",
-    "",
-    "stage.py, reconcile.py and build-pack.py all apply this. In es-ni they",
-    "used to disagree, and a warm-up card turned on which one had been right.",
-    "",
-    "Keys starting with _ are notes, not forms."
-  ],
-  "gehört": "gehören",
-  "_gehört": [
-    "Ambiguous by spelling: it is hören's participle AND gehören's third",
-    "person. All three places the course writes it, it is gehören - the money",
-    "belongs to me, the lake belongs to four cantons, both belong to it now.",
-    "Revisit when phase 2 brings the perfect tense in and hat gehört starts",
-    "appearing; at that point the honest answer may be to block it instead."
-  ],
-  "crème": "Crème",
-  "_crème": [
-    "Written lower case inside 'ein Kaffee crème', which is how Switzerland",
-    "spells it, and capitalised when it stands alone as the order."
-  ],
-  "möchte": "möchten",
-  "möchtest": "möchten",
-  "_möchte": [
-    "moechte is genuinely moegen's Konjunktiv II, and forms.py states it as",
-    "such - which is correct German and the wrong answer to give a learner.",
-    "The course teaches moechten as its own word, the polite want, so tapping",
-    "moechte has to say would like rather than to like."
-  ]
+ "_": [
+  "Pins what no rule can settle. A null blocks a form outright.",
+  "",
+  "stage.py, reconcile.py and build-pack.py all apply this. In es-ni they",
+  "used to disagree, and a warm-up card turned on which one had been right.",
+  "",
+  "Keys starting with _ are notes, not forms."
+ ],
+ "_crème": [
+  "Written lower case inside 'ein Kaffee crème', which is how Switzerland",
+  "spells it, and capitalised when it stands alone as the order."
+ ],
+ "_gehört": [
+  "Ambiguous by spelling: it is hören's participle AND gehören's third",
+  "person. All three places the course writes it, it is gehören - the money",
+  "belongs to me, the lake belongs to four cantons, both belong to it now.",
+  "Revisit when phase 2 brings the perfect tense in and hat gehört starts",
+  "appearing; at that point the honest answer may be to block it instead."
+ ],
+ "_möchte": [
+  "moechte is genuinely moegen's Konjunktiv II, and forms.py states it as",
+  "such - which is correct German and the wrong answer to give a learner.",
+  "The course teaches moechten as its own word, the polite want, so tapping",
+  "moechte has to say would like rather than to like."
+ ],
+ "Besonderes": "besonder",
+ "Bestimmtes": "bestimmt",
+ "crème": "Crème",
+ "deine": "dein",
+ "deinem": "dein",
+ "deinen": "dein",
+ "deiner": "dein",
+ "deins": "dein",
+ "dreien": "drei",
+ "Erwachsener": "Erwachsene",
+ "eures": "euer",
+ "gehört": "gehören",
+ "Geschriebener": "geschrieben",
+ "Herrn": "Herr",
+ "Herzliche": "herzlich",
+ "Herzlichen": "herzlich",
+ "meine": "mein",
+ "Meine": "mein",
+ "meinem": "mein",
+ "meinen": "mein",
+ "meiner": "mein",
+ "meines": "mein",
+ "möchte": "möchten",
+ "möchtest": "möchten",
+ "orangen": "orange",
+ "Rechtzeitig": "rechtzeitig",
+ "Seitdem": "seitdem",
+ "siebte": "siebt",
+ "Stockwerke": "Stockwerk",
+ "Toten": "tot",
+ "vieles": "viel",
+ "vierten": "viert",
+ "vierzehnten": "vierzehnt",
+ "welchem": "welcher",
+ "welchen": "welcher",
+ "wenige": "wenig",
+ "Zwölftausend": "zwölftausend",
+ "zwölften": "zwölft",
+ "Übliche": "üblich",
+ "Übliches": "üblich"
 }

@@ -1,0 +1,367 @@
+{
+ "id": "p2-09",
+ "title": "Sie oder du",
+ "desc": "The most important word you have to choose",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "anbieten",
+  "siezen",
+  "Frau",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Es gibt zwei Wörter für Sie.",
+   "e": "There are two words for you."
+  },
+  {
+   "s": "Sie mit einem grossen S.",
+   "e": "Sie with a capital S."
+  },
+  {
+   "s": "Und du.",
+   "e": "And du."
+  },
+  {
+   "s": "Sie ist für Fremde.",
+   "e": "Sie is for strangers."
+  },
+  {
+   "s": "Du ist für Freunde.",
+   "e": "Du is for friends."
+  },
+  {
+   "s": "So einfach ist es und so schwierig ist es.",
+   "e": "That is how simple it is and how hard it is."
+  },
+  {
+   "s": "Man sagt Sie zu einer Frau im Laden.",
+   "e": "You say Sie to a woman in a shop."
+  },
+  {
+   "s": "Man sagt Sie zum Hauswart.",
+   "e": "You say Sie to the caretaker."
+  },
+  {
+   "s": "Man sagt Sie zu allen über vierzig.",
+   "e": "You say Sie to everybody over forty."
+  },
+  {
+   "s": "Man sagt du zu Kindern.",
+   "e": "You say du to children."
+  },
+  {
+   "s": "Man sagt du zu Leuten im gleichen Alter in der Beiz.",
+   "e": "You say du to people your own age in the pub."
+  },
+  {
+   "s": "Man sagt du im Verein und beim Sport.",
+   "e": "You say du in a club and in sport."
+  },
+  {
+   "s": "Der falsche Weg ist von Sie zu du ohne Erlaubnis.",
+   "e": "The wrong move is from Sie to du without permission."
+  },
+  {
+   "s": "Das macht man nicht selber.",
+   "e": "You do not do that yourself."
+  },
+  {
+   "s": "Der Ältere bietet das du an.",
+   "e": "The older person offers du."
+  },
+  {
+   "s": "Der Chef bietet es dem Lehrling an.",
+   "e": "The boss offers it to the apprentice."
+  },
+  {
+   "s": "Die Frau bietet es dem Mann an.",
+   "e": "The woman offers it to the man."
+  },
+  {
+   "s": "Anbieten ist ein Verb mit zwei Teilen.",
+   "e": "Anbieten is a verb with two parts."
+  },
+  {
+   "s": "Sie bietet mir das du an.",
+   "e": "She offers me du."
+  },
+  {
+   "s": "Das an steht ganz am Schluss.",
+   "e": "The an stands right at the end."
+  },
+  {
+   "s": "Für das Umstellen gibt es zwei Verben.",
+   "e": "There are two verbs for the switch."
+  },
+  {
+   "s": "Duzen heisst: du sagen.",
+   "e": "Duzen means: to say du."
+  },
+  {
+   "s": "Siezen heisst: Sie sagen.",
+   "e": "Siezen means: to say Sie."
+  },
+  {
+   "s": "Wir duzen uns.",
+   "e": "We say du to each other."
+  },
+  {
+   "s": "Wir siezen uns immer noch.",
+   "e": "We still say Sie to each other."
+  },
+  {
+   "s": "Timo hat mich in der ersten Minute geduzt.",
+   "e": "Timo said du to me in the first minute."
+  },
+  {
+   "s": "Frau Amrein hat mich fünf Wochen lang gesiezt.",
+   "e": "Frau Amrein said Sie to me for five weeks."
+  },
+  {
+   "s": "Am Sonntag hat sie an meine Tür geklopft.",
+   "e": "On Sunday she knocked at my door."
+  },
+  {
+   "s": "Sie hat einen Kuchen in der Hand gehabt.",
+   "e": "She had a cake in her hand."
+  },
+  {
+   "s": "Sie hat gesagt: Ich bin die Rosmarie.",
+   "e": "She said: I am Rosmarie."
+  },
+  {
+   "s": "Fünf Wochen lang war sie Frau Amrein.",
+   "e": "For five weeks she was Frau Amrein."
+  },
+  {
+   "s": "Jetzt sagt sie ihren Vornamen.",
+   "e": "Now she says her first name."
+  },
+  {
+   "s": "Der Vorname ist das ganze Zeichen.",
+   "e": "The first name is the whole signal."
+  },
+  {
+   "s": "Sie sagt: Wollen wir du sagen?",
+   "e": "She says: shall we say du?"
+  },
+  {
+   "s": "Das ist die Formel.",
+   "e": "That is the formula."
+  },
+  {
+   "s": "Wollen wir du sagen. Vier Wörter.",
+   "e": "Wollen wir du sagen. Four words."
+  },
+  {
+   "s": "Man sagt Ja. Man sagt nicht Nein.",
+   "e": "You say yes. You do not say no."
+  },
+  {
+   "s": "Nein ist möglich und es ist schwer.",
+   "e": "No is possible and it is hard."
+  },
+  {
+   "s": "Ich habe gesagt: Ja, sehr gern.",
+   "e": "I said: yes, very gladly."
+  },
+  {
+   "s": "Sie hat mir die Hand gegeben.",
+   "e": "She shook my hand."
+  },
+  {
+   "s": "Sie hat gesagt: Rosmarie.",
+   "e": "She said: Rosmarie."
+  },
+  {
+   "s": "Ich habe meinen Vornamen gesagt.",
+   "e": "I said my first name."
+  },
+  {
+   "s": "Man gibt sich dabei die Hand und sagt den Vornamen.",
+   "e": "You shake hands and say your first name."
+  },
+  {
+   "s": "Das ist eine kleine Zeremonie und alle machen sie gleich.",
+   "e": "That is a small ceremony and everybody does it the same way."
+  },
+  {
+   "s": "Dann war es fertig.",
+   "e": "Then it was done."
+  },
+  {
+   "s": "Und dann kam das Problem.",
+   "e": "And then came the problem."
+  },
+  {
+   "s": "Ich habe fünf Wochen lang Sie gesagt.",
+   "e": "I said Sie for five weeks."
+  },
+  {
+   "s": "Der Mund macht weiter Sie.",
+   "e": "The mouth keeps saying Sie."
+  },
+  {
+   "s": "Ich habe gesagt: Möchten Sie einen Kaffee?",
+   "e": "I said: would you like a coffee?"
+  },
+  {
+   "s": "Sie hat gelacht.",
+   "e": "She laughed."
+  },
+  {
+   "s": "Ich habe gesagt: Möchtest du einen Kaffee, Frau Amrein?",
+   "e": "I said: would you like a coffee, Frau Amrein?"
+  },
+  {
+   "s": "Das war noch schlimmer.",
+   "e": "That was even worse."
+  },
+  {
+   "s": "Du und Frau Amrein gehen nicht zusammen.",
+   "e": "Du and Frau Amrein do not go together."
+  },
+  {
+   "s": "Sie hat gesagt: Rosmarie.",
+   "e": "She said: Rosmarie."
+  },
+  {
+   "s": "Ich habe gesagt: Möchtest du einen Kaffee, Rosmarie?",
+   "e": "I said: would you like a coffee, Rosmarie?"
+  },
+  {
+   "s": "Sie hat gesagt: Ja. Merci.",
+   "e": "She said: yes. Thank you."
+  },
+  {
+   "s": "Zwei Fehler in einem Satz und beide gehören dazu.",
+   "e": "Two mistakes in one sentence and both are part of it."
+  },
+  {
+   "s": "Sie hat gesagt: Das braucht drei Wochen.",
+   "e": "She said: that takes three weeks."
+  },
+  {
+   "s": "Sie hat recht gehabt.",
+   "e": "She was right."
+  },
+  {
+   "s": "Es gibt keinen Weg zurück.",
+   "e": "There is no way back."
+  },
+  {
+   "s": "Aus du wird nie wieder Sie.",
+   "e": "Du never becomes Sie again."
+  },
+  {
+   "s": "Darum wartet man auch so lange.",
+   "e": "That is also why people wait so long."
+  },
+  {
+   "s": "Ein du ist für immer.",
+   "e": "A du is forever."
+  },
+  {
+   "s": "Man gibt es nicht am ersten Tag.",
+   "e": "You do not give it on the first day."
+  },
+  {
+   "s": "Ruedi Zemp siezt mich immer noch.",
+   "e": "Ruedi Zemp still says Sie to me."
+  },
+  {
+   "s": "Er siezt alle im Haus.",
+   "e": "He says Sie to everybody in the building."
+  },
+  {
+   "s": "Er siezt Leute nach zwanzig Jahren.",
+   "e": "He says Sie to people after twenty years."
+  },
+  {
+   "s": "Das ist seine Art.",
+   "e": "That is his way."
+  },
+  {
+   "s": "Er ist nicht kalt.",
+   "e": "He is not cold."
+  },
+  {
+   "s": "Er ist einfach so.",
+   "e": "He is simply like that."
+  },
+  {
+   "s": "Im Verein sagen alle du.",
+   "e": "In a club everybody says du."
+  },
+  {
+   "s": "Sofort und ohne Frage.",
+   "e": "At once and with no question."
+  },
+  {
+   "s": "Ein Mann von siebzig sagt dort du zu einem Kind.",
+   "e": "A man of seventy says du to a child there."
+  },
+  {
+   "s": "Und das Kind sagt du zurück.",
+   "e": "And the child says du back."
+  },
+  {
+   "s": "Draussen auf der Strasse sagen die zwei wieder Sie.",
+   "e": "Out in the street the two of them say Sie again."
+  },
+  {
+   "s": "Das ist verwirrend und alle finden es normal.",
+   "e": "That is confusing and everybody finds it normal."
+  },
+  {
+   "s": "Beim Sport auch.",
+   "e": "In sport too."
+  },
+  {
+   "s": "Auf dem Berg auch.",
+   "e": "On the mountain too."
+  },
+  {
+   "s": "Auf einem Wanderweg grüsst man mit du.",
+   "e": "On a hiking path you greet with du."
+  },
+  {
+   "s": "Unten in der Stadt ist es wieder Sie.",
+   "e": "Down in the town it is Sie again."
+  },
+  {
+   "s": "Der Berg macht alle gleich und die Strasse nicht.",
+   "e": "The mountain makes everybody equal and the street does not."
+  },
+  {
+   "s": "Nuno sagt: Warte immer.",
+   "e": "Nuno says: always wait."
+  },
+  {
+   "s": "Er sagt: Sag Sie und warte.",
+   "e": "He says: say Sie and wait."
+  },
+  {
+   "s": "Er sagt: Zu viel Sie ist ein kleiner Fehler.",
+   "e": "He says: too much Sie is a small mistake."
+  },
+  {
+   "s": "Er sagt: Zu früh du ist ein grosser.",
+   "e": "He says: du too early is a big one."
+  },
+  {
+   "s": "Ich sage seit dem Sonntag du zu Rosmarie.",
+   "e": "Since that Sunday I say du to Rosmarie."
+  },
+  {
+   "s": "Und einmal in der Woche sage ich Sie.",
+   "e": "And once a week I say Sie."
+  },
+  {
+   "s": "Sie sagt jedes Mal nur: Rosmarie.",
+   "e": "Every time she just says: Rosmarie."
+  }
+ ]
+}

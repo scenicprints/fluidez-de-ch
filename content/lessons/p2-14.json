@@ -1,0 +1,414 @@
+{
+ "id": "p2-14",
+ "title": "Raclette",
+ "desc": "The door opens inward",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "fein",
+  "Käse",
+  "setzen"
+ ],
+ "sn": [
+  {
+   "s": "Rosmarie hat mich zum Essen eingeladen.",
+   "e": "Rosmarie invited me for dinner."
+  },
+  {
+   "s": "Sie hat es an der Tür gesagt.",
+   "e": "She said it at the door."
+  },
+  {
+   "s": "Sie hat gesagt: Am Samstag um sechs.",
+   "e": "She said: on Saturday at six."
+  },
+  {
+   "s": "Sie hat gesagt: Es gibt Raclette.",
+   "e": "She said: there is raclette."
+  },
+  {
+   "s": "Ich wohne seit fünf Monaten neben ihr.",
+   "e": "I have been living next to her for five months."
+  },
+  {
+   "s": "Ich war noch nie in ihrer Wohnung.",
+   "e": "I had never been in her flat."
+  },
+  {
+   "s": "Das ist normal hier.",
+   "e": "That is normal here."
+  },
+  {
+   "s": "Die Wohnung ist privat.",
+   "e": "The flat is private."
+  },
+  {
+   "s": "Man redet an der Tür und man geht nicht hinein.",
+   "e": "You talk at the door and you do not go in."
+  },
+  {
+   "s": "Eine Einladung hinein ist etwas Grosses.",
+   "e": "An invitation inside is a big thing."
+  },
+  {
+   "s": "Am Samstag bin ich um fünf vor sechs gekommen.",
+   "e": "On Saturday I came at five to six."
+  },
+  {
+   "s": "Ich habe Blumen mitgebracht.",
+   "e": "I brought flowers."
+  },
+  {
+   "s": "Sie hat gesagt: Das musst du nicht.",
+   "e": "She said: you do not have to do that."
+  },
+  {
+   "s": "Sie hat die Blumen sofort ins Wasser gestellt.",
+   "e": "She put the flowers in water at once."
+  },
+  {
+   "s": "Ihre Wohnung ist gleich wie meine.",
+   "e": "Her flat is the same as mine."
+  },
+  {
+   "s": "Das Bad ist auch gleich wie meines.",
+   "e": "The bathroom is the same as mine too."
+  },
+  {
+   "s": "Die gleichen Zimmer, die gleichen Fenster.",
+   "e": "The same rooms, the same windows."
+  },
+  {
+   "s": "Und sie ist ganz anders.",
+   "e": "And it is completely different."
+  },
+  {
+   "s": "Sie wohnt seit vierzig Jahren hier.",
+   "e": "She has lived here for forty years."
+  },
+  {
+   "s": "An der Wand hängen Bilder.",
+   "e": "There are pictures on the wall."
+  },
+  {
+   "s": "Auf dem Kasten stehen Fotos.",
+   "e": "There are photographs on the cupboard."
+  },
+  {
+   "s": "Es riecht nach Käse und nach Kaffee.",
+   "e": "It smells of cheese and of coffee."
+  },
+  {
+   "s": "Ich ziehe an der Tür die Schuhe aus.",
+   "e": "I take my shoes off at the door."
+  },
+  {
+   "s": "Sie sagt: Bitte, komm herein.",
+   "e": "She says: please, come in."
+  },
+  {
+   "s": "Ihre Möbel sind fast alle aus dem Brockenhaus.",
+   "e": "Almost all her furniture is from the Brockenhaus."
+  },
+  {
+   "s": "Der Tisch ist alt und schwer zu tragen.",
+   "e": "The table is old and heavy to carry."
+  },
+  {
+   "s": "Der Ofen auf dem Tisch wird sehr heiss.",
+   "e": "The oven on the table gets very hot."
+  },
+  {
+   "s": "Wir reden über das Wetter und über die Waschküche.",
+   "e": "We talk about the weather and about the laundry room."
+  },
+  {
+   "s": "Sie bestellt den Käse immer beim gleichen Bauern.",
+   "e": "She always orders the cheese from the same farmer."
+  },
+  {
+   "s": "Sie sagt: Der Hauswart kommt am Montag in die Waschküche.",
+   "e": "She says: the caretaker is coming to the laundry room on Monday."
+  },
+  {
+   "s": "Sie sagt: Setz dich.",
+   "e": "She says: sit down."
+  },
+  {
+   "s": "Setz dich ist ein Befehl mit dich.",
+   "e": "Setz dich is an order with dich."
+  },
+  {
+   "s": "Man sagt: Setz dich. Oder: Setzen Sie sich.",
+   "e": "You say: setz dich. Or: setzen Sie sich."
+  },
+  {
+   "s": "Ich setze mich an den Tisch.",
+   "e": "I sit down at the table."
+  },
+  {
+   "s": "Auf dem Tisch steht ein kleiner Ofen.",
+   "e": "On the table there is a small oven."
+  },
+  {
+   "s": "Der Ofen ist für das Raclette.",
+   "e": "The oven is for the raclette."
+  },
+  {
+   "s": "Raclette ist Käse und Kartoffeln.",
+   "e": "Raclette is cheese and potatoes."
+  },
+  {
+   "s": "Mehr ist es nicht.",
+   "e": "That is all it is."
+  },
+  {
+   "s": "Jeder hat ein kleines Pfännchen.",
+   "e": "Everybody has a little pan."
+  },
+  {
+   "s": "Man tut Käse in das Pfännchen.",
+   "e": "You put cheese in the little pan."
+  },
+  {
+   "s": "Man schiebt es unter den Ofen.",
+   "e": "You push it under the oven."
+  },
+  {
+   "s": "Man wartet vier Minuten.",
+   "e": "You wait four minutes."
+  },
+  {
+   "s": "Man nimmt es heraus und tut es auf die Kartoffel.",
+   "e": "You take it out and put it on the potato."
+  },
+  {
+   "s": "Und dann fängt man wieder von vorne an.",
+   "e": "And then you start again from the beginning."
+  },
+  {
+   "s": "Das dauert drei Stunden.",
+   "e": "That takes three hours."
+  },
+  {
+   "s": "Drei Stunden sind der Sinn.",
+   "e": "Three hours are the point."
+  },
+  {
+   "s": "Man isst langsam und man redet zwischendurch.",
+   "e": "You eat slowly and you talk in between."
+  },
+  {
+   "s": "Rosmarie sagt: Gib mir den Käse.",
+   "e": "Rosmarie says: give me the cheese."
+  },
+  {
+   "s": "Gib mir ist ein Befehl mit dem Dativ.",
+   "e": "Gib mir is an order with the dative."
+  },
+  {
+   "s": "Gib mir das Salz. Gib mir den Teller.",
+   "e": "Give me the salt. Give me the plate."
+  },
+  {
+   "s": "Ich gebe ihr den Käse.",
+   "e": "I give her the cheese."
+  },
+  {
+   "s": "Sie gibt mir eine Gurke.",
+   "e": "She gives me a gherkin."
+  },
+  {
+   "s": "Zum Raclette isst man Gurken und kleine Zwiebeln.",
+   "e": "With raclette you eat gherkins and small onions."
+  },
+  {
+   "s": "Sie sind sauer und der Käse ist fett.",
+   "e": "They are sour and the cheese is fatty."
+  },
+  {
+   "s": "Das gehört zusammen.",
+   "e": "They belong together."
+  },
+  {
+   "s": "Sie sagt: Trink nichts Kaltes dazu.",
+   "e": "She says: do not drink anything cold with it."
+  },
+  {
+   "s": "Sie sagt: Kaltes Wasser und Käse gehen nicht gut.",
+   "e": "She says: cold water and cheese do not go well."
+  },
+  {
+   "s": "Man trinkt Weisswein oder heissen Tee.",
+   "e": "You drink white wine or hot tea."
+  },
+  {
+   "s": "Ich habe gefragt: Stimmt das wirklich?",
+   "e": "I asked: is that really true?"
+  },
+  {
+   "s": "Sie hat gesagt: Meine Mutter hat es gesagt.",
+   "e": "She said: my mother said so."
+  },
+  {
+   "s": "Das ist die ganze Erklärung und sie reicht.",
+   "e": "That is the whole explanation and it is enough."
+  },
+  {
+   "s": "Nach dem ersten Pfännchen wird es einfacher.",
+   "e": "After the first little pan it gets easier."
+  },
+  {
+   "s": "Die Hände haben etwas zu tun.",
+   "e": "The hands have something to do."
+  },
+  {
+   "s": "Man muss nicht die ganze Zeit reden.",
+   "e": "You do not have to talk the whole time."
+  },
+  {
+   "s": "Eine Pause am Tisch ist keine schlechte Pause.",
+   "e": "A pause at the table is not a bad pause."
+  },
+  {
+   "s": "Das habe ich zu Hause nie gelernt.",
+   "e": "I never learned that at home."
+  },
+  {
+   "s": "Sie erzählt mir von den Leuten im Haus.",
+   "e": "She tells me about the people in the building."
+  },
+  {
+   "s": "Sie erzählt mir vom Mann im dritten Stock.",
+   "e": "She tells me about the man on the third floor."
+  },
+  {
+   "s": "Er ist vor zwei Jahren weggezogen.",
+   "e": "He moved away two years ago."
+  },
+  {
+   "s": "Sie erzählt mir von der Familie vor mir.",
+   "e": "She tells me about the family before me."
+  },
+  {
+   "s": "Sie hatten zwei Kinder und einen Hund.",
+   "e": "They had two children and a dog."
+  },
+  {
+   "s": "Der Hund hat immer an meiner Tür gewartet.",
+   "e": "The dog always waited at my door."
+  },
+  {
+   "s": "Sie sagt: Sie sind nach Zug gezogen.",
+   "e": "She says: they moved to Zug."
+  },
+  {
+   "s": "Sie sagt es mit einem kurzen Gesicht.",
+   "e": "She says it with a short face."
+  },
+  {
+   "s": "Sie hat die Kinder gern gehabt.",
+   "e": "She was fond of the children."
+  },
+  {
+   "s": "Um neun sind wir immer noch am Tisch.",
+   "e": "At nine we are still at the table."
+  },
+  {
+   "s": "Ich habe siebenmal Käse gemacht.",
+   "e": "I have done cheese seven times."
+  },
+  {
+   "s": "Sie hat elfmal Käse gemacht.",
+   "e": "She has done cheese eleven times."
+  },
+  {
+   "s": "Sie sagt: Ich bin klein und ich esse viel.",
+   "e": "She says: I am small and I eat a lot."
+  },
+  {
+   "s": "Um zehn macht sie Kaffee.",
+   "e": "At ten she makes coffee."
+  },
+  {
+   "s": "Um halb elf kommt Schnaps auf den Tisch.",
+   "e": "At half past ten schnapps comes to the table."
+  },
+  {
+   "s": "Ein kleines Glas. Nur eines.",
+   "e": "A small glass. Only one."
+  },
+  {
+   "s": "Sie sagt: Das ist gut für den Käse.",
+   "e": "She says: that is good for the cheese."
+  },
+  {
+   "s": "Sie sagt: Ist es fein?",
+   "e": "She says: is it good?"
+  },
+  {
+   "s": "Fein heisst hier: es schmeckt gut.",
+   "e": "Fein here means: it tastes good."
+  },
+  {
+   "s": "Man sagt fein zum Essen und nicht gut.",
+   "e": "You say fein about food and not gut."
+  },
+  {
+   "s": "Gut ist für die Arbeit. Fein ist für den Teller.",
+   "e": "Gut is for work. Fein is for the plate."
+  },
+  {
+   "s": "Ich sage: Sehr fein.",
+   "e": "I say: very good."
+  },
+  {
+   "s": "Sie sagt: Der Käse ist von einem Bauern im Tal.",
+   "e": "She says: the cheese is from a farmer in the valley."
+  },
+  {
+   "s": "Sie sagt: Der ist immer fein.",
+   "e": "She says: that one is always good."
+  },
+  {
+   "s": "Ich glaube das auch nicht und ich trinke es.",
+   "e": "I do not believe that either and I drink it."
+  },
+  {
+   "s": "Um elf gehe ich.",
+   "e": "At eleven I go."
+  },
+  {
+   "s": "Ich gehe zehn Schritte über den Gang.",
+   "e": "I walk ten steps across the landing."
+  },
+  {
+   "s": "Fünf Monate für zehn Schritte.",
+   "e": "Five months for ten steps."
+  },
+  {
+   "s": "An der Tür sagt sie: Nächsten Monat wieder.",
+   "e": "At the door she says: again next month."
+  },
+  {
+   "s": "Sie sagt einen Monat und kein mal.",
+   "e": "She says a month and not some time."
+  },
+  {
+   "s": "Ich sage: Dann koche ich.",
+   "e": "I say: then I will cook."
+  },
+  {
+   "s": "Sie schaut mich an.",
+   "e": "She looks at me."
+  },
+  {
+   "s": "Sie sagt: Gut. Ich komme.",
+   "e": "She says: good. I will come."
+  },
+  {
+   "s": "Und sie macht die Tür zu.",
+   "e": "And she shuts the door."
+  }
+ ]
+}

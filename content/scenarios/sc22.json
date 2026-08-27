@@ -1,0 +1,109 @@
+{
+ "id": "sc22",
+ "title": "In der Gruppe",
+ "desc": "Fourteen people, eighty messages, and one thumb",
+ "setting": "Your phone on the table at nine in the evening, going off every forty seconds.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Timo",
+   "es": "Samstag Grillieren bei mir. Wer kommt?",
+   "en": "Barbecue at my place on Saturday. Who is coming?",
+   "options": [
+    {
+     "es": "Bin da. Um sieben?",
+     "en": "I will be there. At seven?",
+     "verdict": "good",
+     "feedback": "Short, and it drops the ich. That is the register for messages and a long sentence reads as a problem."
+    },
+    {
+     "es": "Ich komme sehr gern und freue mich schon.",
+     "en": "I am coming very gladly and am already looking forward to it.",
+     "verdict": "ok",
+     "feedback": "Nothing is wrong with it. It is four times longer than every other reply and he will ask if you are all right."
+    },
+    {
+     "es": "Ein Daumen.",
+     "en": "A thumbs up.",
+     "verdict": "good",
+     "feedback": "A thumb is a yes. Not I have read this: I am coming. People have been counted absent for the difference."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Bringt jemand Brot?",
+   "en": "Is anybody bringing bread?",
+   "options": [
+    {
+     "es": "Mache ich.",
+     "en": "I will.",
+     "verdict": "good",
+     "feedback": "Two words and it is binding. Nobody will ask again, and the bread had better be there."
+    },
+    {
+     "es": "Vielleicht.",
+     "en": "Maybe.",
+     "verdict": "bad",
+     "feedback": "Now nobody knows whether there is bread. In a group of fourteen, maybe is worse than no."
+    },
+    {
+     "es": "Kann ich etwas anderes bringen?",
+     "en": "Can I bring something else?",
+     "verdict": "good",
+     "feedback": "Fine. Ask in the group rather than to him alone, and somebody will name a thing."
+    }
+   ]
+  },
+  {
+   "speaker": "Sepp",
+   "es": "Guten Morgen mitenand!",
+   "en": "Good morning, everybody!",
+   "options": [
+    {
+     "es": "Nichts schreiben.",
+     "en": "Write nothing.",
+     "verdict": "good",
+     "feedback": "He is seventy-one, he sends the same picture of flowers every morning at six, and nobody answers. Nobody minds either."
+    },
+    {
+     "es": "Guten Morgen, Sepp!",
+     "en": "Good morning, Sepp!",
+     "verdict": "ok",
+     "feedback": "Kind, and now there are two messages where the group expected none. He will be pleased."
+    },
+    {
+     "es": "Es ist sechs Uhr.",
+     "en": "It is six in the morning.",
+     "verdict": "bad",
+     "feedback": "It is. He has been up since half past four and this is what he does with the hour."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Du warst nicht da. Alles gut?",
+   "en": "You were not there. Everything all right?",
+   "options": [
+    {
+     "es": "Es tut mir leid. Ich habe nur den Daumen geschickt.",
+     "en": "I am sorry. I only sent the thumb.",
+     "verdict": "good",
+     "feedback": "Said on the same day it is nothing. Left for three days it becomes a thing, and Nuno will tell you so."
+    },
+    {
+     "es": "Ich habe nicht Ja gesagt.",
+     "en": "I did not say yes.",
+     "verdict": "bad",
+     "feedback": "You sent a thumb. Here that is the yes, and the argument will not go your way."
+    },
+    {
+     "es": "Ich konnte leider nicht.",
+     "en": "Unfortunately I could not.",
+     "verdict": "ok",
+     "feedback": "Fine as far as it goes. Sending that on Friday instead of explaining it on Wednesday is the fix."
+    }
+   ]
+  }
+ ]
+}

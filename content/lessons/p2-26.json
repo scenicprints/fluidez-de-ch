@@ -1,0 +1,338 @@
+{
+ "id": "p2-26",
+ "title": "Die Gruppe",
+ "desc": "Your phone starts making noise",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Daumen",
+  "Gruppe",
+  "schreiben",
+  "geschrieben",
+  "Bild",
+  "lesen",
+  "Wort"
+ ],
+ "sn": [
+  {
+   "s": "Timo hat mich in eine Gruppe getan.",
+   "e": "Timo put me in a group."
+  },
+  {
+   "s": "Eine Gruppe auf dem Handy.",
+   "e": "A group on the phone."
+  },
+  {
+   "s": "Vierzehn Leute aus dem Turnverein.",
+   "e": "Fourteen people from the gymnastics club."
+  },
+  {
+   "s": "Am ersten Abend sind achtzig Nachrichten gekommen.",
+   "e": "On the first evening eighty messages came."
+  },
+  {
+   "s": "Ich habe ungefähr ein Drittel verstanden.",
+   "e": "I understood about a third."
+  },
+  {
+   "s": "Sie schreiben nicht wie sie reden.",
+   "e": "They do not write the way they talk."
+  },
+  {
+   "s": "Sie reden Hochdeutsch mit mir.",
+   "e": "They speak standard German with me."
+  },
+  {
+   "s": "Sie schreiben Dialekt miteinander.",
+   "e": "They write dialect with each other."
+  },
+  {
+   "s": "Geschriebener Dialekt hat keine Regeln.",
+   "e": "Written dialect has no rules."
+  },
+  {
+   "s": "Jeder schreibt es anders.",
+   "e": "Everybody writes it differently."
+  },
+  {
+   "s": "Der gleiche Mann schreibt es zweimal anders.",
+   "e": "The same man writes it two different ways."
+  },
+  {
+   "s": "Das ist normal und niemand findet es komisch.",
+   "e": "That is normal and nobody finds it odd."
+  },
+  {
+   "s": "Ich habe Timo gefragt.",
+   "e": "I asked Timo."
+  },
+  {
+   "s": "Er hat gesagt: Schreib du einfach Hochdeutsch.",
+   "e": "He said: you just write standard German."
+  },
+  {
+   "s": "Er hat gesagt: Alle lesen es.",
+   "e": "He said: everybody reads it."
+  },
+  {
+   "s": "Er hat gesagt: Niemand erwartet Dialekt von dir.",
+   "e": "He said: nobody expects dialect from you."
+  },
+  {
+   "s": "Das war eine grosse Erleichterung.",
+   "e": "That was a big relief."
+  },
+  {
+   "s": "In der Gruppe werden die Pläne gemacht.",
+   "e": "The plans are made in the group."
+  },
+  {
+   "s": "Nicht am Telefon. Nicht im Verein.",
+   "e": "Not on the phone. Not at the club."
+  },
+  {
+   "s": "In der Gruppe.",
+   "e": "In the group."
+  },
+  {
+   "s": "Jemand schreibt: Samstag Grillieren bei mir. Wer kommt?",
+   "e": "Somebody writes: barbecue at my place on Saturday. Who is coming?"
+  },
+  {
+   "s": "Dann kommen zwölf Antworten.",
+   "e": "Then twelve answers come."
+  },
+  {
+   "s": "Die meisten schreiben nur einen Daumen.",
+   "e": "Most of them just write a thumb."
+  },
+  {
+   "s": "Ein Daumen nach oben ist eine Zusage.",
+   "e": "A thumb up is a yes."
+  },
+  {
+   "s": "Ein Daumen ist ein Versprechen.",
+   "e": "A thumb is a promise."
+  },
+  {
+   "s": "Das habe ich zuerst nicht gewusst.",
+   "e": "I did not know that at first."
+  },
+  {
+   "s": "Ich habe gedacht: Ein Daumen heisst: ich habe es gelesen.",
+   "e": "I thought: a thumb means: I have read it."
+  },
+  {
+   "s": "Das ist falsch.",
+   "e": "That is wrong."
+  },
+  {
+   "s": "Ein Daumen heisst: ich komme.",
+   "e": "A thumb means: I am coming."
+  },
+  {
+   "s": "Ich habe einmal einen Daumen geschickt.",
+   "e": "I once sent a thumb."
+  },
+  {
+   "s": "Ich bin nicht gekommen.",
+   "e": "I did not come."
+  },
+  {
+   "s": "Am Mittwoch hat mich Timo gefragt: Wo warst du?",
+   "e": "On Wednesday Timo asked me: where were you?"
+  },
+  {
+   "s": "Er hat es nicht böse gefragt.",
+   "e": "He did not ask it angrily."
+  },
+  {
+   "s": "Er hat es wirklich nicht verstanden.",
+   "e": "He really did not understand."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe nur den Daumen geschickt.",
+   "e": "I said: I only sent the thumb."
+  },
+  {
+   "s": "Er hat gesagt: Ja. Genau.",
+   "e": "He said: yes. Exactly."
+  },
+  {
+   "s": "Für ein Nein schreibt man ein Wort.",
+   "e": "For a no you write a word."
+  },
+  {
+   "s": "Man schreibt: Kann leider nicht.",
+   "e": "You write: unfortunately cannot."
+  },
+  {
+   "s": "Man schreibt: Bin nicht da.",
+   "e": "You write: I am away."
+  },
+  {
+   "s": "Man schreibt kurz und ohne Grund.",
+   "e": "You write short and with no reason."
+  },
+  {
+   "s": "Niemand fragt nach dem Grund.",
+   "e": "Nobody asks about the reason."
+  },
+  {
+   "s": "Die Nachrichten hier sind sehr kurz.",
+   "e": "The messages here are very short."
+  },
+  {
+   "s": "Man lässt das ich weg.",
+   "e": "You leave out the ich."
+  },
+  {
+   "s": "Komme um acht. Bin unterwegs. Mache ich.",
+   "e": "Coming at eight. On my way. Will do."
+  },
+  {
+   "s": "Das ist keine schlechte Sprache.",
+   "e": "That is not bad language."
+  },
+  {
+   "s": "Das ist die Sprache für Nachrichten.",
+   "e": "That is the language for messages."
+  },
+  {
+   "s": "Am Anfang habe ich ganze Briefe geschrieben.",
+   "e": "At the start I wrote whole letters."
+  },
+  {
+   "s": "Guten Abend. Ich möchte gern am Samstag kommen. Herzliche Grüsse.",
+   "e": "Good evening. I would like to come on Saturday. Kind regards."
+  },
+  {
+   "s": "Timo hat geschrieben: Alles gut bei dir?",
+   "e": "Timo wrote: is everything all right with you?"
+  },
+  {
+   "s": "Ein langer Satz tönt nach einem Problem.",
+   "e": "A long sentence sounds like a problem."
+  },
+  {
+   "s": "Jetzt schreibe ich: Bin da. Um acht.",
+   "e": "Now I write: I will be there. At eight."
+  },
+  {
+   "s": "Vier Wörter und alle sind zufrieden.",
+   "e": "Four words and everybody is happy."
+  },
+  {
+   "s": "In der Gruppe gibt es auch Bilder.",
+   "e": "There are pictures in the group too."
+  },
+  {
+   "s": "Es gibt Bilder vom Berg.",
+   "e": "There are pictures from the mountain."
+  },
+  {
+   "s": "Es gibt sehr viele Bilder vom Berg.",
+   "e": "There are a great many pictures from the mountain."
+  },
+  {
+   "s": "Es gibt Bilder von Essen.",
+   "e": "There are pictures of food."
+  },
+  {
+   "s": "Es gibt Bilder von Hunden.",
+   "e": "There are pictures of dogs."
+  },
+  {
+   "s": "Sepp schickt jeden Morgen einen Gruss.",
+   "e": "Sepp sends a greeting every morning."
+  },
+  {
+   "s": "Jeden Morgen um sechs.",
+   "e": "Every morning at six."
+  },
+  {
+   "s": "Immer das gleiche Bild mit Blumen.",
+   "e": "Always the same picture with flowers."
+  },
+  {
+   "s": "Niemand antwortet darauf.",
+   "e": "Nobody answers it."
+  },
+  {
+   "s": "Und niemand sagt ihm etwas.",
+   "e": "And nobody says anything to him."
+  },
+  {
+   "s": "Er ist einundsiebzig und er darf das.",
+   "e": "He is seventy-one and he is allowed to."
+  },
+  {
+   "s": "Nach vier Monaten verstehe ich fast alles.",
+   "e": "After four months I understand almost everything."
+  },
+  {
+   "s": "Der geschriebene Dialekt ist eigentlich einfach.",
+   "e": "The written dialect is actually simple."
+  },
+  {
+   "s": "Man muss ihn laut lesen.",
+   "e": "You have to read it out loud."
+  },
+  {
+   "s": "Dann hört man das deutsche Wort darin.",
+   "e": "Then you hear the German word inside it."
+  },
+  {
+   "s": "Ein kurzes Wort ist meistens ein bekanntes Wort.",
+   "e": "A short word is usually a familiar word."
+  },
+  {
+   "s": "Das Auge findet es nicht und das Ohr schon.",
+   "e": "The eye does not find it and the ear does."
+  },
+  {
+   "s": "Am Anfang habe ich jedes Wort gesucht.",
+   "e": "At the start I looked up every word."
+  },
+  {
+   "s": "Jetzt lese ich es einfach laut.",
+   "e": "Now I simply read it out loud."
+  },
+  {
+   "s": "Ich schreibe es immer noch nicht.",
+   "e": "I still do not write it."
+  },
+  {
+   "s": "Ich lese es und ich schreibe Hochdeutsch.",
+   "e": "I read it and I write standard German."
+  },
+  {
+   "s": "Das geht sehr gut so.",
+   "e": "That works very well."
+  },
+  {
+   "s": "Im April habe ich zum ersten Mal etwas geschrieben.",
+   "e": "In April I wrote something for the first time."
+  },
+  {
+   "s": "Nicht eine Antwort. Eine Frage.",
+   "e": "Not an answer. A question."
+  },
+  {
+   "s": "Ich habe geschrieben: Wer kommt am Sonntag spazieren?",
+   "e": "I wrote: who is coming for a walk on Sunday?"
+  },
+  {
+   "s": "Es sind vier Daumen gekommen.",
+   "e": "Four thumbs came."
+  },
+  {
+   "s": "Ich habe jeden Daumen zweimal angeschaut.",
+   "e": "I looked at every thumb twice."
+  },
+  {
+   "s": "Am Sonntag sind alle vier gekommen.",
+   "e": "On Sunday all four came."
+  }
+ ]
+}

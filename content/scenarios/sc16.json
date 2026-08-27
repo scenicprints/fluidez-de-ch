@@ -1,0 +1,109 @@
+{
+ "id": "sc16",
+ "title": "Vier Minuten",
+ "desc": "The bus is late and somebody looks at the sky",
+ "setting": "A bus stop, rain on the shelter, and a woman with a very old dog.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Frau Hasler",
+   "es": "Schönes Wetter heute.",
+   "en": "Nice weather today.",
+   "options": [
+    {
+     "es": "Ja. Gestern hat es den ganzen Tag geregnet.",
+     "en": "Yes. Yesterday it rained all day.",
+     "verdict": "good",
+     "feedback": "Yes plus one sentence. The weather is the door, and you walked through it."
+    },
+    {
+     "es": "Ja, sehr schön.",
+     "en": "Yes, very nice.",
+     "verdict": "ok",
+     "feedback": "Polite and finished. She will not push, and nothing more will happen."
+    },
+    {
+     "es": "Es regnet.",
+     "en": "It is raining.",
+     "verdict": "bad",
+     "feedback": "She knows. She was not making a claim about the weather, she was asking whether you want to talk."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau Hasler",
+   "es": "Haben Sie einen Schirm?",
+   "en": "Do you have an umbrella?",
+   "options": [
+    {
+     "es": "Ich habe ihn gestern vergessen.",
+     "en": "I forgot it yesterday.",
+     "verdict": "good",
+     "feedback": "A small failure of your own, offered up. It is the fastest way past the weather."
+    },
+    {
+     "es": "Ja, hier.",
+     "en": "Yes, here.",
+     "verdict": "ok",
+     "feedback": "True and short. She has one too, and she left it on the bus."
+    },
+    {
+     "es": "Nein.",
+     "en": "No.",
+     "verdict": "ok",
+     "feedback": "Not a mistake. But every no here can carry a second sentence and this one does not."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau Hasler",
+   "es": "Sind Sie neu hier?",
+   "en": "Are you new here?",
+   "options": [
+    {
+     "es": "Seit einem Monat.",
+     "en": "For a month.",
+     "verdict": "good",
+     "feedback": "Seit takes the dative, and this is the answer everybody gives. You will say it a hundred times."
+    },
+    {
+     "es": "Seit ein Monat.",
+     "en": "For a month.",
+     "verdict": "bad",
+     "feedback": "Seit einem. The dative is not optional here and it is the commonest slip in the first year."
+    },
+    {
+     "es": "Ja, ich bin neu.",
+     "en": "Yes, I am new.",
+     "verdict": "ok",
+     "feedback": "Fine. Her next question was going to be how long, so you can save her the trouble."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau Hasler",
+   "es": "Und? Gefällt es Ihnen?",
+   "en": "And? Do you like it?",
+   "options": [
+    {
+     "es": "Die Stadt gefällt mir sehr.",
+     "en": "I like the town very much.",
+     "verdict": "good",
+     "feedback": "Gefallen puts the thing in charge: it pleases me. The person goes in the dative and stays there."
+    },
+    {
+     "es": "Ich gefalle die Stadt.",
+     "en": "I like the town.",
+     "verdict": "bad",
+     "feedback": "Backwards, and it says something else entirely. The town does the pleasing, not you."
+    },
+    {
+     "es": "Ja, sehr.",
+     "en": "Yes, very much.",
+     "verdict": "ok",
+     "feedback": "Warm enough. Name the thing you like and she will tell you where to sit in spring."
+    }
+   ]
+  }
+ ]
+}

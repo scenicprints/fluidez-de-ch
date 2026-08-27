@@ -1,0 +1,381 @@
+{
+ "id": "p2-18",
+ "title": "Fünf Minuten zu früh",
+ "desc": "Being on time is being early",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Verspätung",
+  "pünktlich",
+  "Uhr",
+  "Minute",
+  "warten",
+  "kommen"
+ ],
+ "sn": [
+  {
+   "s": "Pünktlich heisst hier nicht pünktlich.",
+   "e": "Punctual does not mean punctual here."
+  },
+  {
+   "s": "Pünktlich heisst fünf Minuten zu früh.",
+   "e": "Punctual means five minutes early."
+  },
+  {
+   "s": "Das ist keine Regel auf Papier.",
+   "e": "That is not a rule on paper."
+  },
+  {
+   "s": "Es steht in keinem Buch.",
+   "e": "It is in no book."
+  },
+  {
+   "s": "Alle machen es und niemand sagt es.",
+   "e": "Everybody does it and nobody says it."
+  },
+  {
+   "s": "Ein Termin um zehn heisst: um fünf vor zehn da sein.",
+   "e": "An appointment at ten means: be there at five to ten."
+  },
+  {
+   "s": "Um zehn Uhr fängt der Termin an.",
+   "e": "At ten the appointment starts."
+  },
+  {
+   "s": "Er fängt nicht mit dem Kommen an.",
+   "e": "It does not start with the arriving."
+  },
+  {
+   "s": "Das ist der ganze Unterschied.",
+   "e": "That is the whole difference."
+  },
+  {
+   "s": "Um zehn sitzt man schon.",
+   "e": "At ten you are already sitting."
+  },
+  {
+   "s": "Um zehn hat man die Jacke schon aufgehängt.",
+   "e": "At ten you have already hung up your jacket."
+  },
+  {
+   "s": "Rechtzeitig ist das Wort dafür.",
+   "e": "Rechtzeitig is the word for it."
+  },
+  {
+   "s": "Rechtzeitig heisst: früh genug für alles.",
+   "e": "Rechtzeitig means: early enough for everything."
+  },
+  {
+   "s": "Man kommt rechtzeitig und nicht knapp.",
+   "e": "You come in good time and not tight."
+  },
+  {
+   "s": "Ich bin am Anfang immer knapp gekommen.",
+   "e": "At the start I always came tight."
+  },
+  {
+   "s": "Ich bin um Punkt zehn gekommen.",
+   "e": "I came at ten sharp."
+  },
+  {
+   "s": "Das war zu spät und niemand hat es gesagt.",
+   "e": "That was late and nobody said so."
+  },
+  {
+   "s": "Marco hat mich einmal angeschaut.",
+   "e": "Marco looked at me once."
+  },
+  {
+   "s": "Er hat auf die Uhr geschaut und dann auf mich.",
+   "e": "He looked at the clock and then at me."
+  },
+  {
+   "s": "Er hat nichts gesagt.",
+   "e": "He said nothing."
+  },
+  {
+   "s": "Das war die ganze Kritik.",
+   "e": "That was the whole criticism."
+  },
+  {
+   "s": "Ich habe eine Woche darüber nachgedacht.",
+   "e": "I thought about it for a week."
+  },
+  {
+   "s": "Ein Zug fährt hier um sieben Uhr zwölf.",
+   "e": "A train here leaves at seven twelve."
+  },
+  {
+   "s": "Er fährt um sieben Uhr zwölf.",
+   "e": "It leaves at seven twelve."
+  },
+  {
+   "s": "Nicht um sieben Uhr dreizehn.",
+   "e": "Not at seven thirteen."
+  },
+  {
+   "s": "Das Land lernt die Zeit vom Fahrplan.",
+   "e": "The country learns time from the timetable."
+  },
+  {
+   "s": "Ein Kind wartet mit acht Jahren allein auf den Zug.",
+   "e": "A child of eight waits for the train alone."
+  },
+  {
+   "s": "Ein Kind weiss mit acht Jahren: der Zug wartet nicht.",
+   "e": "A child of eight knows: the train does not wait."
+  },
+  {
+   "s": "Das bleibt das ganze Leben.",
+   "e": "That stays for a whole life."
+  },
+  {
+   "s": "Bei einem Essen ist es anders.",
+   "e": "With a meal it is different."
+  },
+  {
+   "s": "Bei einer Einladung um sieben kommt man um sieben.",
+   "e": "For an invitation at seven you come at seven."
+  },
+  {
+   "s": "Nicht um zehn vor sieben.",
+   "e": "Not at ten to seven."
+  },
+  {
+   "s": "Zu früh ist auch ein Fehler.",
+   "e": "Too early is a mistake too."
+  },
+  {
+   "s": "Um zehn vor sieben kocht die Familie noch.",
+   "e": "At ten to seven the family is still cooking."
+  },
+  {
+   "s": "Ich bin einmal zwanzig Minuten zu früh gekommen.",
+   "e": "I once came twenty minutes early."
+  },
+  {
+   "s": "Sofia hat die Tür aufgemacht mit nassen Händen.",
+   "e": "Sofia opened the door with wet hands."
+  },
+  {
+   "s": "Sie war sehr freundlich.",
+   "e": "She was very friendly."
+  },
+  {
+   "s": "Und sie war nicht bereit.",
+   "e": "And she was not ready."
+  },
+  {
+   "s": "Jetzt laufe ich vorher einmal um den Block.",
+   "e": "Now I walk round the block once beforehand."
+  },
+  {
+   "s": "Alle machen das.",
+   "e": "Everybody does that."
+  },
+  {
+   "s": "Man sieht Leute vor Häusern stehen und auf die Uhr schauen.",
+   "e": "You see people standing outside houses looking at their watches."
+  },
+  {
+   "s": "Sie warten auf die richtige Minute.",
+   "e": "They are waiting for the right minute."
+  },
+  {
+   "s": "Verspätung ist das schlimme Wort.",
+   "e": "Verspätung is the bad word."
+  },
+  {
+   "s": "Am Mittwoch habe ich einen Termin bei der Krankenkasse.",
+   "e": "On Wednesday I have an appointment at the health insurer."
+  },
+  {
+   "s": "Ich bin um Viertel vor zwei da.",
+   "e": "I am there at quarter to two."
+  },
+  {
+   "s": "Am Schalter sitzt eine Frau mit einer Liste.",
+   "e": "A woman with a list is sitting at the counter."
+  },
+  {
+   "s": "Sie sagt: Sie sind pünktlich. Das ist selten.",
+   "e": "She says: you are on time. That is rare."
+  },
+  {
+   "s": "Ich sage keine Entschuldigung, denn ich brauche keine.",
+   "e": "I do not apologise, because I do not need to."
+  },
+  {
+   "s": "Der Hauswart kommt am Dienstag um zehn.",
+   "e": "The caretaker comes on Tuesday at ten."
+  },
+  {
+   "s": "Er ist eine Stunde da und nicht eine Minute länger.",
+   "e": "He is there for an hour and not a minute longer."
+  },
+  {
+   "s": "Die Waschküche hat auch einen Plan mit Zeiten.",
+   "e": "The laundry room has a timetable too."
+  },
+  {
+   "s": "Die Rechnung kommt am gleichen Tag in jedem Monat.",
+   "e": "The bill comes on the same day every month."
+  },
+  {
+   "s": "Das Wetter ist der einzige Teil ohne Fahrplan.",
+   "e": "The weather is the only part with no timetable."
+  },
+  {
+   "s": "Eine Verspätung von zehn Minuten ist viel.",
+   "e": "A delay of ten minutes is a lot."
+  },
+  {
+   "s": "Eine Verspätung von zwei Minuten ist auch schon etwas.",
+   "e": "A delay of two minutes is already something."
+  },
+  {
+   "s": "Bei einer Verspätung schickt man eine Nachricht.",
+   "e": "For a delay you send a message."
+  },
+  {
+   "s": "Sofort. Nicht später.",
+   "e": "At once. Not later."
+  },
+  {
+   "s": "Man schreibt: Ich komme fünf Minuten später.",
+   "e": "You write: I will be five minutes late."
+  },
+  {
+   "s": "Vier Wörter und das Problem ist weg.",
+   "e": "Four words and the problem is gone."
+  },
+  {
+   "s": "Ohne Nachricht ist es eine kleine Beleidigung.",
+   "e": "Without a message it is a small insult."
+  },
+  {
+   "s": "Ich habe einmal eine Nachricht wegen vier Minuten geschickt.",
+   "e": "I once sent a message about four minutes."
+  },
+  {
+   "s": "Ich habe gedacht: Das ist lächerlich.",
+   "e": "I thought: that is ridiculous."
+  },
+  {
+   "s": "Timo hat geschrieben: Danke.",
+   "e": "Timo wrote: thank you."
+  },
+  {
+   "s": "Er hat es ernst gemeint.",
+   "e": "He meant it seriously."
+  },
+  {
+   "s": "Es war die richtige Nachricht.",
+   "e": "It was the right message."
+  },
+  {
+   "s": "Zu spät kommen ist hier keine kleine Sache.",
+   "e": "Coming late is not a small thing here."
+  },
+  {
+   "s": "Es heisst: meine Zeit ist mehr wert als deine.",
+   "e": "It says: my time is worth more than yours."
+  },
+  {
+   "s": "So hören sie es und so meint man es nicht.",
+   "e": "That is how they hear it and it is not how you mean it."
+  },
+  {
+   "s": "Aber sie hören es so.",
+   "e": "But that is how they hear it."
+  },
+  {
+   "s": "Nuno hat achtzehn Jahre gebraucht.",
+   "e": "Nuno took eighteen years."
+  },
+  {
+   "s": "Er sagt: Zu Hause kommt man eine halbe Stunde später.",
+   "e": "He says: at home you come half an hour later."
+  },
+  {
+   "s": "Er sagt: Das ist dort höflich.",
+   "e": "He says: that is polite there."
+  },
+  {
+   "s": "Er sagt: Hier ist es das Gegenteil.",
+   "e": "He says: here it is the opposite."
+  },
+  {
+   "s": "Er sagt: Ich habe drei Jahre gebraucht für diese eine Sache.",
+   "e": "He says: I needed three years for this one thing."
+  },
+  {
+   "s": "Und der Bus fährt auch pünktlich.",
+   "e": "And the bus goes on time too."
+  },
+  {
+   "s": "Der Bus um sieben Uhr vierzehn ist um sieben Uhr vierzehn da.",
+   "e": "The bus at seven fourteen is there at seven fourteen."
+  },
+  {
+   "s": "Man kann die Uhr danach stellen.",
+   "e": "You can set your watch by it."
+  },
+  {
+   "s": "Am Anfang habe ich das schön gefunden.",
+   "e": "At the start I found that lovely."
+  },
+  {
+   "s": "Jetzt merke ich es nicht mehr.",
+   "e": "Now I do not notice it any more."
+  },
+  {
+   "s": "Ich merke nur noch die Verspätung.",
+   "e": "I only notice the delay."
+  },
+  {
+   "s": "Vier Minuten Verspätung und ich schaue auf das Handy.",
+   "e": "Four minutes late and I look at my phone."
+  },
+  {
+   "s": "Ich bin schon einer von ihnen.",
+   "e": "I am already one of them."
+  },
+  {
+   "s": "Das ist schneller gegangen als die Sprache.",
+   "e": "That went faster than the language."
+  },
+  {
+   "s": "Rosmarie kommt immer zehn Minuten zu früh.",
+   "e": "Rosmarie always comes ten minutes early."
+  },
+  {
+   "s": "Sie sitzt dann unten auf der Bank und wartet.",
+   "e": "She sits downstairs on the bench and waits."
+  },
+  {
+   "s": "Sie kommt nicht früher hinauf.",
+   "e": "She does not come up any earlier."
+  },
+  {
+   "s": "Sie wartet zehn Minuten auf einer kalten Bank.",
+   "e": "She waits ten minutes on a cold bench."
+  },
+  {
+   "s": "Ich habe gesagt: Komm doch hinauf.",
+   "e": "I said: do come up."
+  },
+  {
+   "s": "Sie hat gesagt: Um vier ist um vier.",
+   "e": "She said: four o'clock is four o'clock."
+  },
+  {
+   "s": "Das ist alles.",
+   "e": "That is all."
+  },
+  {
+   "s": "Das ist das ganze Land in einem Satz.",
+   "e": "That is the whole country in one sentence."
+  }
+ ]
+}

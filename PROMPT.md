@@ -6,7 +6,7 @@ create a second copy to go stale.
 
 ---
 
-You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0 and 1 written, 38 of 192). You're on the German one.
+You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0, 1 and 2 written, 65 of 192). You're on the German one.
 
 **Read these first, in this order.** They carry every decision and the reasoning, so nothing gets relitigated by somebody arriving cold:
 
@@ -17,9 +17,11 @@ You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses
 
 Local clones, all on GitHub under `scenicprints`: `fluidez` (the app), `fluidez-de-ch` (German course), `fluidez-es-ni` (Spanish course), `fluidez-languages` (registry).
 
-**Where it stands.** **Phases 0 and 1 are written and every script is built.** 38 stories, 950 dictionary words, 177 verbs, 18 patterns, 14 scenes, an emergency phrasebook, 98% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
+**Where it stands.** **Phases 0, 1 and 2 are written and every script is built.** 65 stories, 1,319 dictionary words, 248 verbs, 27 patterns, 22 scenes, 71 Blüemli lines, an emergency phrasebook, 98.5% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
 
-**Next job: phase 2, twenty-seven stories,** `p2-01` to `p2-27`. Build it the way phase 0 was built — stories first, then the dictionary, verbs, patterns and scenes written against them, all in one batch. `NEXT.md` §16 says what phase 1 taught that phase 2 should copy, and §14 and §15 carry the same for phase 0. The Return quota is live now: with 38 stories it judges 94 of 281 declared words. Phase 2 teaches the perfect tense and the dative, which means the phase 0 and 1 rule of main-clauses-only finally relaxes.
+**Next job: phase 3, Getting About, twenty-one stories,** `p3-01` to `p3-21`. Build it the way the last three were — stories first, then the dictionary, verbs, patterns and scenes written against them, all in one batch. `NEXT.md` §17 says what phase 2 taught that phase 3 should copy, and §16, §14 and §15 carry the same for the phases before it. Phase 3 teaches separable verbs and the two-way prepositions, which is the first thing in the course that needs BOTH cases in hand, and it is where **Selina** arrives.
+
+**Two things phase 2 learned that will bite again.** Adding a verb can break a word that already resolved — `meinen` made `meine` ambiguous with the possessive and 22 taps stopped working, so read the ambiguous list after every batch and not just the unmapped one. And a new pattern card can duplicate an old one: check the titles already in `content/patterns/core.json` before writing.
 
 **The hard rules:**
 
@@ -51,4 +53,6 @@ python .github/scripts/verbs_test.py
 
 **Still open, and it is the biggest risk in the project:** nobody can fact-check the Swiss German. Phase 0 is 7,500 running words of it, including judgement calls no gate can catch — *Kaffee crème* as the default order, *Schale* as the milky one, and the Swiss perfect auxiliary (*ich bin gestanden / gesessen / gelegen*, which is southern and Swiss and would be *habe* in Hamburg). Flag anything below certain rather than asserting it, and keep the flag with the content.
 
-**How Kevin works.** Plainest possible output. No option menus for simple asks. Do exactly what he says and do not generalise to adjacent scope. Do not over-explain after a correction — fix it and move on. He prefers big batched updates over a stream of small ones, and he watches agent usage, so lean on the gates rather than re-verifying what they have already proven. **Never commit or push without his explicit go-ahead.**
+**How Kevin works.** Plainest possible output. No option menus for simple asks. Do exactly what he says and do not generalise to adjacent scope. Do not over-explain after a correction — fix it and move on. He prefers big batched updates over a stream of small ones, and he watches agent usage, so lean on the gates rather than re-verifying what they have already proven.
+
+**Push when a phase is finished.** That is his standing instruction, given 2026-08-26: *"we should be pushing after each phase is complete."* A finished phase means the stories, dictionary, verbs, patterns and scenes are all written, every gate is clean and the pack builds. Do not sit on it waiting to be asked. Anything smaller than a finished phase, or anything outside the content repos, still needs his go-ahead.

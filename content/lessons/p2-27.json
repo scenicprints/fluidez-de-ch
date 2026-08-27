@@ -1,0 +1,411 @@
+{
+ "id": "p2-27",
+ "title": "Am Samstag?",
+ "desc": "You have people now",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Werkstatt",
+  "Samstag",
+  "Monat",
+  "Tür"
+ ],
+ "sn": [
+  {
+   "s": "Am Mittwoch haben mich drei Leute das Gleiche gefragt.",
+   "e": "On Wednesday three people asked me the same thing."
+  },
+  {
+   "s": "Alle drei haben gefragt: Was machst du am Samstag?",
+   "e": "All three asked: what are you doing on Saturday?"
+  },
+  {
+   "s": "Das ist nie passiert in sieben Monaten.",
+   "e": "That has never happened in seven months."
+  },
+  {
+   "s": "Der erste war Timo.",
+   "e": "The first was Timo."
+  },
+  {
+   "s": "Er hat am Morgen in die Gruppe geschrieben.",
+   "e": "He wrote in the group in the morning."
+  },
+  {
+   "s": "Er hat geschrieben: Samstag Werkstatt. Wer hilft?",
+   "e": "He wrote: Saturday workshop. Who is helping?"
+  },
+  {
+   "s": "Er baut einen Tisch für seine Schwester.",
+   "e": "He is building a table for his sister."
+  },
+  {
+   "s": "Helfen braucht den Dativ.",
+   "e": "Helfen takes the dative."
+  },
+  {
+   "s": "Ich helfe ihm am Samstag.",
+   "e": "I am helping him on Saturday."
+  },
+  {
+   "s": "Er hilft mir im Sommer beim Umzug.",
+   "e": "He is helping me with the move in the summer."
+  },
+  {
+   "s": "So geht das hier.",
+   "e": "That is how it works here."
+  },
+  {
+   "s": "Der zweite war Marco.",
+   "e": "The second was Marco."
+  },
+  {
+   "s": "Er hat gefragt: Hast du am Samstag Zeit?",
+   "e": "He asked: are you free on Saturday?"
+  },
+  {
+   "s": "Sein Bruder in Chur hat wieder etwas.",
+   "e": "His brother in Chur has something on again."
+  },
+  {
+   "s": "Diesmal habe ich gefragt: Was genau?",
+   "e": "This time I asked: what exactly?"
+  },
+  {
+   "s": "Er hat gelacht.",
+   "e": "He laughed."
+  },
+  {
+   "s": "Er hat gesagt: Du lernst.",
+   "e": "He said: you are learning."
+  },
+  {
+   "s": "Die dritte war Rosmarie.",
+   "e": "The third was Rosmarie."
+  },
+  {
+   "s": "Sie hat an meine Tür geklopft.",
+   "e": "She knocked at my door."
+  },
+  {
+   "s": "Sie hat gesagt: Am Samstag hast du gesagt, du kochst.",
+   "e": "She said: on Saturday you said you would cook."
+  },
+  {
+   "s": "Ich habe das vor einem Monat gesagt.",
+   "e": "I said that a month ago."
+  },
+  {
+   "s": "Sie hat es nicht vergessen.",
+   "e": "She has not forgotten it."
+  },
+  {
+   "s": "Sie vergisst nichts.",
+   "e": "She forgets nothing."
+  },
+  {
+   "s": "Ein Wort bei ihr ist eine Abmachung.",
+   "e": "A word with her is an arrangement."
+  },
+  {
+   "s": "Drei Sachen an einem Samstag.",
+   "e": "Three things on one Saturday."
+  },
+  {
+   "s": "Vor sechs Monaten hatte ich keine.",
+   "e": "Six months ago I had none."
+  },
+  {
+   "s": "Am Sonntag bin ich neunzig Minuten allein gegangen.",
+   "e": "On Sunday I walked for ninety minutes alone."
+  },
+  {
+   "s": "Ich habe niemanden gesehen und niemand hat mich gesehen.",
+   "e": "I saw nobody and nobody saw me."
+  },
+  {
+   "s": "Jetzt muss ich zwei Sachen absagen.",
+   "e": "Now I have to cancel two things."
+  },
+  {
+   "s": "Absagen ist auch etwas Neues.",
+   "e": "Cancelling is something new too."
+  },
+  {
+   "s": "Ich habe zuerst nicht gewusst wie.",
+   "e": "At first I did not know how."
+  },
+  {
+   "s": "Nuno hat gesagt: Sag es früh und sag es kurz.",
+   "e": "Nuno said: say it early and say it short."
+  },
+  {
+   "s": "Ich habe Marco am Mittwochabend geschrieben.",
+   "e": "I wrote to Marco on Wednesday evening."
+  },
+  {
+   "s": "Ich habe geschrieben: Samstag geht leider nicht.",
+   "e": "I wrote: Saturday unfortunately does not work."
+  },
+  {
+   "s": "Ich habe geschrieben: Der nächste? Sehr gern.",
+   "e": "I wrote: the next one? Very gladly."
+  },
+  {
+   "s": "Er hat einen Daumen geschickt.",
+   "e": "He sent a thumb."
+  },
+  {
+   "s": "Mehr nicht und mehr braucht es nicht.",
+   "e": "Nothing more and nothing more is needed."
+  },
+  {
+   "s": "Bei Timo bin ich am Samstagmorgen.",
+   "e": "On Saturday morning I am at Timo's."
+  },
+  {
+   "s": "Um acht Uhr, nicht um neun.",
+   "e": "At eight o'clock, not at nine."
+  },
+  {
+   "s": "Die Werkstatt ist kalt und riecht nach Holz.",
+   "e": "The workshop is cold and smells of wood."
+  },
+  {
+   "s": "Das Holz ist von einem alten Möbel aus dem Brockenhaus.",
+   "e": "The wood is from an old piece of furniture from the Brockenhaus."
+  },
+  {
+   "s": "Im Treppenhaus riecht es am Samstag nach Kuchen.",
+   "e": "On Saturday the stairwell smells of cake."
+  },
+  {
+   "s": "Vor der Tür steht kein Sack, denn Samstag ist kein Tag dafür.",
+   "e": "There is no bag outside the door, because Saturday is not a day for it."
+  },
+  {
+   "s": "Der Hauswart hat den Schnee vor der Tür geputzt.",
+   "e": "The caretaker has cleaned the snow from in front of the door."
+  },
+  {
+   "s": "Ein Brief von der Gemeinde liegt im Kasten.",
+   "e": "A letter from the commune is in the letterbox."
+  },
+  {
+   "s": "Die Rechnung von der Krankenkasse liegt auch im Kasten.",
+   "e": "The bill from the health insurer is in the letterbox too."
+  },
+  {
+   "s": "Ich antworte am Montag darauf.",
+   "e": "I will answer it on Monday."
+  },
+  {
+   "s": "Meine Schuhe stehen an der Tür.",
+   "e": "My shoes are by the door."
+  },
+  {
+   "s": "Im Bad hängt die Schürze von der Werkstatt.",
+   "e": "The workshop apron is hanging in the bathroom."
+  },
+  {
+   "s": "Vor sieben Monaten bin ich am Flughafen gestanden.",
+   "e": "Seven months ago I was standing at the airport."
+  },
+  {
+   "s": "Er gibt mir eine Schürze.",
+   "e": "He gives me an apron."
+  },
+  {
+   "s": "Er nimmt meine Hand und legt sie ans Holz.",
+   "e": "He takes my hand and puts it on the wood."
+  },
+  {
+   "s": "Er redet fast nichts.",
+   "e": "He hardly talks."
+  },
+  {
+   "s": "Er sagt: Hier. So. Halt das.",
+   "e": "He says: here. Like this. Hold that."
+  },
+  {
+   "s": "Drei Wörter und ich verstehe alles.",
+   "e": "Three words and I understand everything."
+  },
+  {
+   "s": "Der Tisch ist am Mittag fertig.",
+   "e": "The table is finished at midday."
+  },
+  {
+   "s": "Wir tragen ihn zu zweit hinaus.",
+   "e": "The two of us carry it out."
+  },
+  {
+   "s": "Timo nimmt kein Geld. Die Arbeit ist gratis.",
+   "e": "Timo takes no money. The work is free."
+  },
+  {
+   "s": "Der Kaffee in der Werkstatt ist zu heiss.",
+   "e": "The coffee in the workshop is too hot."
+  },
+  {
+   "s": "Ich wasche mir lange die Hände.",
+   "e": "I wash my hands for a long time."
+  },
+  {
+   "s": "Auf der Bank vor der Werkstatt sitzen wir zehn Minuten.",
+   "e": "We sit on the bench outside the workshop for ten minutes."
+  },
+  {
+   "s": "Ich habe am Abend davor schlecht geschlafen.",
+   "e": "I slept badly the evening before."
+  },
+  {
+   "s": "Er ist einfach und gerade und schön.",
+   "e": "It is simple and straight and beautiful."
+  },
+  {
+   "s": "Timo hat gesagt: Du hast zwei Sachen falsch gemacht.",
+   "e": "Timo said: you did two things wrong."
+  },
+  {
+   "s": "Er hat gesagt: Und den Rest gut.",
+   "e": "He said: and the rest well."
+  },
+  {
+   "s": "Das ist ein Lob.",
+   "e": "That is praise."
+  },
+  {
+   "s": "Ich habe danke gesagt und nichts anderes.",
+   "e": "I said thank you and nothing else."
+  },
+  {
+   "s": "Ich habe es diesmal richtig gemacht.",
+   "e": "I did it right this time."
+  },
+  {
+   "s": "Am Abend habe ich für Rosmarie gekocht.",
+   "e": "In the evening I cooked for Rosmarie."
+  },
+  {
+   "s": "Sie ist um Punkt sechs gekommen.",
+   "e": "She came at six sharp."
+  },
+  {
+   "s": "Sie hat unten zehn Minuten gewartet.",
+   "e": "She waited ten minutes downstairs."
+  },
+  {
+   "s": "Sie hat eine Flasche Wein mitgebracht.",
+   "e": "She brought a bottle of wine."
+  },
+  {
+   "s": "Sie hat gesagt: Das musst du nicht.",
+   "e": "She said: you do not have to."
+  },
+  {
+   "s": "Ich habe gesagt: Du auch nicht.",
+   "e": "I said: neither do you."
+  },
+  {
+   "s": "Sie hat gelacht.",
+   "e": "She laughed."
+  },
+  {
+   "s": "Ich habe das Essen von meiner Grossmutter gekocht.",
+   "e": "I cooked my grandmother's dish."
+  },
+  {
+   "s": "Es ist einfaches Essen.",
+   "e": "It is simple food."
+  },
+  {
+   "s": "Es ist Fleisch mit Reis und viel Zwiebeln.",
+   "e": "It is meat with rice and a lot of onions."
+  },
+  {
+   "s": "Sie hat zweimal genommen.",
+   "e": "She took seconds."
+  },
+  {
+   "s": "Sie hat gefragt: Wie heisst das?",
+   "e": "She asked: what is it called?"
+  },
+  {
+   "s": "Ich habe den Namen gesagt.",
+   "e": "I said the name."
+  },
+  {
+   "s": "Sie hat ihn zweimal wiederholt.",
+   "e": "She repeated it twice."
+  },
+  {
+   "s": "Sie hat ihn falsch gesagt.",
+   "e": "She said it wrong."
+  },
+  {
+   "s": "Ich habe nichts gesagt.",
+   "e": "I said nothing."
+  },
+  {
+   "s": "Sie sagt jetzt meinen Namen auch fast richtig.",
+   "e": "She now says my name almost right too."
+  },
+  {
+   "s": "Wir haben bis halb elf am Tisch gesessen.",
+   "e": "We sat at the table until half past ten."
+  },
+  {
+   "s": "Sie hat mir von 1962 erzählt.",
+   "e": "She told me about 1962."
+  },
+  {
+   "s": "Ich habe ihr von meinem Bruder erzählt.",
+   "e": "I told her about my brother."
+  },
+  {
+   "s": "Wir haben beide zugehört.",
+   "e": "We both listened."
+  },
+  {
+   "s": "An der Tür hat sie gesagt: Nächsten Monat bei mir.",
+   "e": "At the door she said: next month at my place."
+  },
+  {
+   "s": "Sie hat einen Tag gesagt.",
+   "e": "She said a day."
+  },
+  {
+   "s": "Den vierzehnten, um sechs.",
+   "e": "The fourteenth, at six."
+  },
+  {
+   "s": "Ich habe es aufgeschrieben.",
+   "e": "I wrote it down."
+  },
+  {
+   "s": "Ich habe jetzt einen Kalender.",
+   "e": "I have a calendar now."
+  },
+  {
+   "s": "Im Kalender stehen sieben Sachen für nächsten Monat.",
+   "e": "There are seven things in the calendar for next month."
+  },
+  {
+   "s": "Vor sechs Monaten war er leer.",
+   "e": "Six months ago it was empty."
+  },
+  {
+   "s": "Am Sonntag bin ich wieder spazieren gegangen.",
+   "e": "On Sunday I went for a walk again."
+  },
+  {
+   "s": "Ich bin vier Leuten begegnet.",
+   "e": "I ran into four people."
+  },
+  {
+   "s": "Beim vierten habe ich nicht mehr gezählt.",
+   "e": "By the fourth I stopped counting."
+  }
+ ]
+}

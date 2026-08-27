@@ -1,0 +1,386 @@
+{
+ "id": "p2-22",
+ "title": "Räbeliechtli",
+ "desc": "Turnips, candles, and a street full of children",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Rübe",
+  "singen",
+  "Kerze",
+  "Lied",
+  "Licht",
+  "Kind",
+  "stehen"
+ ],
+ "sn": [
+  {
+   "s": "Im November klopft Rosmarie an meiner Tür.",
+   "e": "In November Rosmarie knocks at my door."
+  },
+  {
+   "s": "Sie hat eine Rübe in der Hand.",
+   "e": "She has a turnip in her hand."
+  },
+  {
+   "s": "Eine grosse weisse Rübe.",
+   "e": "A big white turnip."
+  },
+  {
+   "s": "Sie gibt mir die Rübe und ein Messer.",
+   "e": "She gives me the turnip and a knife."
+  },
+  {
+   "s": "Sie sagt: Am Freitag ist das Räbeliechtli.",
+   "e": "She says: on Friday it is the Räbeliechtli."
+  },
+  {
+   "s": "Sie sagt sonst nichts.",
+   "e": "She says nothing else."
+  },
+  {
+   "s": "Sie geht wieder in ihre Wohnung.",
+   "e": "She goes back into her flat."
+  },
+  {
+   "s": "Ich stehe mit einer Rübe und einem Messer da.",
+   "e": "I stand there with a turnip and a knife."
+  },
+  {
+   "s": "Ich habe keine Idee.",
+   "e": "I have no idea."
+  },
+  {
+   "s": "Ich frage Timo am Telefon.",
+   "e": "I ask Timo on the phone."
+  },
+  {
+   "s": "Er lacht sehr lange.",
+   "e": "He laughs for a long time."
+  },
+  {
+   "s": "Er sagt: Sie hat dir eine Rübe gegeben.",
+   "e": "He says: she gave you a turnip."
+  },
+  {
+   "s": "Er sagt: Das ist ein Kompliment.",
+   "e": "He says: that is a compliment."
+  },
+  {
+   "s": "Er sagt: Sie denkt, du weisst es schon.",
+   "e": "He says: she thinks you already know."
+  },
+  {
+   "s": "Ein Räbeliechtli ist eine Rübe mit einem Licht drin.",
+   "e": "A Räbeliechtli is a turnip with a light inside."
+  },
+  {
+   "s": "Man macht die Rübe innen leer.",
+   "e": "You make the turnip empty inside."
+  },
+  {
+   "s": "Man schneidet ein Muster in die Haut.",
+   "e": "You cut a pattern into the skin."
+  },
+  {
+   "s": "Man tut eine Kerze hinein.",
+   "e": "You put a candle inside."
+  },
+  {
+   "s": "Die Kerze macht das Muster hell.",
+   "e": "The candle makes the pattern bright."
+  },
+  {
+   "s": "Und dann trägt man es durch die Stadt.",
+   "e": "And then you carry it through the town."
+  },
+  {
+   "s": "Ich habe zwei Stunden geschnitten.",
+   "e": "I cut for two hours."
+  },
+  {
+   "s": "Schneiden in eine Rübe ist schwer.",
+   "e": "Cutting into a turnip is hard."
+  },
+  {
+   "s": "Die Rübe ist hart und das Messer rutscht.",
+   "e": "The turnip is hard and the knife slips."
+  },
+  {
+   "s": "Ich habe ein Muster mit Sternen gemacht.",
+   "e": "I made a pattern with stars."
+  },
+  {
+   "s": "Die Sterne sind nicht schön.",
+   "e": "The stars are not pretty."
+  },
+  {
+   "s": "Zwei Sterne sind ein Loch geworden.",
+   "e": "Two stars turned into a hole."
+  },
+  {
+   "s": "Am Freitag habe ich die Kerze angezündet.",
+   "e": "On Friday I lit the candle."
+  },
+  {
+   "s": "Anzünden heisst: Feuer machen.",
+   "e": "Anzünden means: to make fire."
+  },
+  {
+   "s": "Ich zünde die Kerze an.",
+   "e": "I light the candle."
+  },
+  {
+   "s": "Das an steht am Ende.",
+   "e": "The an stands at the end."
+  },
+  {
+   "s": "Mit Licht drin sieht die Rübe ganz anders aus.",
+   "e": "With the light inside the turnip looks completely different."
+  },
+  {
+   "s": "Das Loch ist plötzlich das Beste daran.",
+   "e": "The hole is suddenly the best thing about it."
+  },
+  {
+   "s": "Um sechs ist es draussen schon dunkel.",
+   "e": "At six it is already dark outside."
+  },
+  {
+   "s": "Das Wetter im November ist nass und kalt.",
+   "e": "The weather in November is wet and cold."
+  },
+  {
+   "s": "Die Kinder tragen warme Jacken.",
+   "e": "The children are wearing warm jackets."
+  },
+  {
+   "s": "Es gibt keine Musik und keine Trommel.",
+   "e": "There is no music and no drum."
+  },
+  {
+   "s": "Im Fenster stehen keine Blumen mehr.",
+   "e": "There are no flowers in the windows any more."
+  },
+  {
+   "s": "Die Kinder schlafen danach sofort ein.",
+   "e": "The children fall asleep straight afterwards."
+  },
+  {
+   "s": "Sie gehen um acht ins Bett.",
+   "e": "They go to bed at eight."
+  },
+  {
+   "s": "Am Morgen liegt der erste Schnee auf dem Platz.",
+   "e": "In the morning the first snow is lying on the square."
+  },
+  {
+   "s": "Im November ist es um fünf dunkel.",
+   "e": "In November it is dark at five."
+  },
+  {
+   "s": "Auf der Strasse stehen hundert Kinder.",
+   "e": "A hundred children are standing in the street."
+  },
+  {
+   "s": "Jedes Kind trägt eine Rübe an einer Schnur.",
+   "e": "Every child is carrying a turnip on a string."
+  },
+  {
+   "s": "Hundert kleine Lichter in der Dunkelheit.",
+   "e": "A hundred small lights in the dark."
+  },
+  {
+   "s": "Es gibt keine Musik.",
+   "e": "There is no music."
+  },
+  {
+   "s": "Es gibt kein Licht auf der Strasse.",
+   "e": "There is no light in the street."
+  },
+  {
+   "s": "Die Gemeinde macht die Strassenlampen aus.",
+   "e": "The commune switches the street lamps off."
+  },
+  {
+   "s": "Für eine halbe Stunde ist die ganze Strasse dunkel.",
+   "e": "For half an hour the whole street is dark."
+  },
+  {
+   "s": "Nur die Rüben brennen.",
+   "e": "Only the turnips are burning."
+  },
+  {
+   "s": "Und dann singen die Kinder.",
+   "e": "And then the children sing."
+  },
+  {
+   "s": "Sie singen ein Lied.",
+   "e": "They sing a song."
+  },
+  {
+   "s": "Alle kennen das Lied.",
+   "e": "Everybody knows the song."
+  },
+  {
+   "s": "Jedes Kind hier kennt es.",
+   "e": "Every child here knows it."
+  },
+  {
+   "s": "Jeder Erwachsene hat es als Kind gesungen.",
+   "e": "Every adult sang it as a child."
+  },
+  {
+   "s": "Das Lied ist über die Sonne und den Mond und die Sterne.",
+   "e": "The song is about the sun and the moon and the stars."
+  },
+  {
+   "s": "Es ist ein sehr einfaches Lied.",
+   "e": "It is a very simple song."
+  },
+  {
+   "s": "Ich kenne es nicht.",
+   "e": "I do not know it."
+  },
+  {
+   "s": "Ich bin der einzige Erwachsene ohne das Lied.",
+   "e": "I am the only adult without the song."
+  },
+  {
+   "s": "Rosmarie steht neben mir.",
+   "e": "Rosmarie is standing next to me."
+  },
+  {
+   "s": "Sie singt leise mit.",
+   "e": "She sings along quietly."
+  },
+  {
+   "s": "Sie singt es seit achtzig Jahren.",
+   "e": "She has been singing it for eighty years."
+  },
+  {
+   "s": "Sie hat es als Kind im Krieg gesungen.",
+   "e": "She sang it as a child during the war."
+  },
+  {
+   "s": "Sie sagt das ohne grosse Sache.",
+   "e": "She says that without making anything of it."
+  },
+  {
+   "s": "Sie summt und ich höre zu.",
+   "e": "She hums and I listen."
+  },
+  {
+   "s": "Nach zwei Strophen kann ich das Ende von jeder Zeile.",
+   "e": "After two verses I can manage the end of each line."
+  },
+  {
+   "s": "Ich singe die letzten drei Wörter mit.",
+   "e": "I sing along on the last three words."
+  },
+  {
+   "s": "Das ist genug für das erste Jahr.",
+   "e": "That is enough for the first year."
+  },
+  {
+   "s": "Der Umzug geht durch vier Strassen.",
+   "e": "The procession goes through four streets."
+  },
+  {
+   "s": "Er geht sehr langsam.",
+   "e": "It goes very slowly."
+  },
+  {
+   "s": "Kinder mit Kerzen gehen langsam.",
+   "e": "Children with candles walk slowly."
+  },
+  {
+   "s": "Zwei Rüben gehen unterwegs aus.",
+   "e": "Two turnips go out on the way."
+  },
+  {
+   "s": "Ein Vater zündet sie wieder an.",
+   "e": "A father lights them again."
+  },
+  {
+   "s": "Ein Kind weint, denn seine Rübe ist gefallen.",
+   "e": "A child cries, because its turnip fell."
+  },
+  {
+   "s": "Eine Frau gibt ihm ihre eigene.",
+   "e": "A woman gives it her own."
+  },
+  {
+   "s": "Sie sagt nichts dabei.",
+   "e": "She says nothing as she does it."
+  },
+  {
+   "s": "Am Schluss stehen alle auf dem Platz.",
+   "e": "At the end everybody stands in the square."
+  },
+  {
+   "s": "Hundert Rüben auf dem Boden im Kreis.",
+   "e": "A hundred turnips on the ground in a circle."
+  },
+  {
+   "s": "Alle singen das Lied noch einmal.",
+   "e": "Everybody sings the song once more."
+  },
+  {
+   "s": "Dann gehen alle nach Hause.",
+   "e": "Then everybody goes home."
+  },
+  {
+   "s": "Es gibt keine Wurst und kein Bier.",
+   "e": "There is no sausage and no beer."
+  },
+  {
+   "s": "Es gibt nichts danach.",
+   "e": "There is nothing afterwards."
+  },
+  {
+   "s": "Das Fest ist das Gehen mit dem Licht.",
+   "e": "The festival is the walking with the light."
+  },
+  {
+   "s": "Mehr ist es nicht und mehr braucht es nicht.",
+   "e": "That is all it is and that is all it needs."
+  },
+  {
+   "s": "Rosmarie nimmt meine Rübe in die Hand.",
+   "e": "Rosmarie takes my turnip in her hand."
+  },
+  {
+   "s": "Sie schaut das Loch an.",
+   "e": "She looks at the hole."
+  },
+  {
+   "s": "Sie sagt: Beim ersten Mal ist immer ein Loch drin.",
+   "e": "She says: the first time there is always a hole in it."
+  },
+  {
+   "s": "Sie sagt: Meine erste hatte drei.",
+   "e": "She says: my first one had three."
+  },
+  {
+   "s": "Zu Hause stelle ich die Rübe ans Fenster.",
+   "e": "At home I put the turnip in the window."
+  },
+  {
+   "s": "Die Kerze brennt noch eine Stunde.",
+   "e": "The candle burns for another hour."
+  },
+  {
+   "s": "Am Morgen ist die Rübe weich und braun.",
+   "e": "In the morning the turnip is soft and brown."
+  },
+  {
+   "s": "Ich werfe sie weg.",
+   "e": "I throw it away."
+  },
+  {
+   "s": "Nächstes Jahr weiss ich es vorher.",
+   "e": "Next year I will know beforehand."
+  }
+ ]
+}

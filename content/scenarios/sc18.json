@@ -1,0 +1,109 @@
+{
+ "id": "sc18",
+ "title": "Zum Wohl",
+ "desc": "Eight people, eight glasses, and one rule",
+ "setting": "Half past five, everybody standing, and a plate of olives nobody is eating from.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Petra",
+   "es": "Möchtest du ein Glas Wein?",
+   "en": "Would you like a glass of wine?",
+   "options": [
+    {
+     "es": "Ja, gern. Einen Weisswein.",
+     "en": "Yes, please. A white wine.",
+     "verdict": "good",
+     "feedback": "Gern does the work, and naming what you want saves a second question."
+    },
+    {
+     "es": "Nein, danke. Ein Wasser, bitte.",
+     "en": "No, thank you. A water, please.",
+     "verdict": "good",
+     "feedback": "Nobody asks twice and nobody minds. A water is a glass, and a glass is all this needs."
+    },
+    {
+     "es": "Ich weiss nicht.",
+     "en": "I do not know.",
+     "verdict": "ok",
+     "feedback": "She will pour you something. But the offer was a small question with a small answer."
+    }
+   ]
+  },
+  {
+   "speaker": "Petra",
+   "es": "Zum Wohl.",
+   "en": "Cheers.",
+   "options": [
+    {
+     "es": "Zum Wohl, Petra.",
+     "en": "Cheers, Petra.",
+     "verdict": "good",
+     "feedback": "The name, and her eyes, and only then the glass. All three or it does not count."
+    },
+    {
+     "es": "Zum Wohl.",
+     "en": "Cheers.",
+     "verdict": "ok",
+     "feedback": "Half of it. The name is not decoration here, it is the part people notice is missing."
+    },
+    {
+     "es": "Prost!",
+     "en": "Cheers!",
+     "verdict": "ok",
+     "feedback": "Heard here too, and it is the louder one. Zum Wohl is what an apéro in Luzern mostly says, and it is what she just said."
+    }
+   ]
+  },
+  {
+   "speaker": "Petra",
+   "es": "Hast du schon gegessen?",
+   "en": "Have you eaten already?",
+   "options": [
+    {
+     "es": "Nein. Ich habe gedacht, es gibt Abendessen.",
+     "en": "No. I thought there would be dinner.",
+     "verdict": "good",
+     "feedback": "Every newcomer makes this mistake once. An apéro is a glass and four olives, and it ends at seven."
+    },
+    {
+     "es": "Ja, vorher.",
+     "en": "Yes, beforehand.",
+     "verdict": "good",
+     "feedback": "Then somebody told you, or you learned it the hard way. Either way you are ahead."
+    },
+    {
+     "es": "Ich esse jetzt etwas.",
+     "en": "I will eat something now.",
+     "verdict": "ok",
+     "feedback": "Three olives and four nuts. Not half the plate, which is what hunger does to a newcomer."
+    }
+   ]
+  },
+  {
+   "speaker": "Petra",
+   "es": "So, ich muss dann.",
+   "en": "Right, I had better go.",
+   "options": [
+    {
+     "es": "Ade. Schönen Abend.",
+     "en": "Goodbye. Have a good evening.",
+     "verdict": "good",
+     "feedback": "It is seven, and at seven everybody puts the glass down at the same moment with no signal at all."
+    },
+    {
+     "es": "Schon? Es ist doch früh.",
+     "en": "Already? It is early.",
+     "verdict": "ok",
+     "feedback": "It is early. It is also over, and that is the shape of the thing rather than a judgement on it."
+    },
+    {
+     "es": "Bleib doch noch.",
+     "en": "Do stay a bit.",
+     "verdict": "bad",
+     "feedback": "An apéro has an end time the way it has a start time. Asking her to stay puts her in an awkward spot."
+    }
+   ]
+  }
+ ]
+}

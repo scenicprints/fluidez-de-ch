@@ -1,0 +1,109 @@
+{
+ "id": "sc15",
+ "title": "Das Übliche?",
+ "desc": "Somebody starts your coffee before you get there",
+ "setting": "Quarter past seven, the machine already running, and a question that is not really a question.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Lea",
+   "es": "Das Übliche?",
+   "en": "The usual?",
+   "options": [
+    {
+     "es": "Ja, gern.",
+     "en": "Yes, please.",
+     "verdict": "good",
+     "feedback": "Two words, and the second one carries all of it. Gern is how enthusiasm is said here."
+    },
+    {
+     "es": "Ja. Das Übliche.",
+     "en": "Yes. The usual.",
+     "verdict": "good",
+     "feedback": "You gave her the word back. That is exactly what a regular does with it."
+    },
+    {
+     "es": "Was ist das Übliche?",
+     "en": "What is the usual?",
+     "verdict": "ok",
+     "feedback": "Fair, the first time. But she has watched you order the same thing forty mornings running."
+    }
+   ]
+  },
+  {
+   "speaker": "Lea",
+   "es": "Wie war der Monat?",
+   "en": "How was the month?",
+   "options": [
+    {
+     "es": "Lang. Und schnell.",
+     "en": "Long. And fast.",
+     "verdict": "good",
+     "feedback": "Three words and it is true. She has heard it from everybody who arrives, and she asks anyway."
+    },
+    {
+     "es": "Gut, danke. Und Ihnen?",
+     "en": "Good, thank you. And you?",
+     "verdict": "ok",
+     "feedback": "Correct and closed. One sentence more is what turns this into a conversation."
+    },
+    {
+     "es": "Gut.",
+     "en": "Good.",
+     "verdict": "bad",
+     "feedback": "A closed door. Ja on its own ends it, and she was opening something."
+    }
+   ]
+  },
+  {
+   "speaker": "Lea",
+   "es": "Sie trinken zu schnell.",
+   "en": "You drink too fast.",
+   "options": [
+    {
+     "es": "Ich weiss.",
+     "en": "I know.",
+     "verdict": "good",
+     "feedback": "You do. And agreeing with a small direct observation is the whole answer here."
+    },
+    {
+     "es": "Ich habe wenig Zeit.",
+     "en": "I do not have much time.",
+     "verdict": "ok",
+     "feedback": "True, and she will point out that the coffee costs the same sitting down."
+    },
+    {
+     "es": "Nein, ganz normal.",
+     "en": "No, quite normally.",
+     "verdict": "bad",
+     "feedback": "She has watched you do it for a month. This is a correction and it is meant kindly."
+    }
+   ]
+  },
+  {
+   "speaker": "Lea",
+   "es": "Bis morgen.",
+   "en": "See you tomorrow.",
+   "options": [
+    {
+     "es": "Bis morgen.",
+     "en": "See you tomorrow.",
+     "verdict": "good",
+     "feedback": "You said it back. Ade is for a guest, bis morgen is for somebody who is coming back."
+    },
+    {
+     "es": "Ade.",
+     "en": "Goodbye.",
+     "verdict": "ok",
+     "feedback": "Not wrong, and it is the more distant of the two. She just gave you the closer one."
+    },
+    {
+     "es": "Vielleicht.",
+     "en": "Maybe.",
+     "verdict": "bad",
+     "feedback": "You will be there at quarter past seven and both of you know it."
+    }
+   ]
+  }
+ ]
+}

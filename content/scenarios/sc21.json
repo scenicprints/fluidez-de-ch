@@ -1,0 +1,109 @@
+{
+ "id": "sc21",
+ "title": "Am Samstag?",
+ "desc": "An invitation with a date in it, and one without",
+ "setting": "After the club, a car park, and somebody deciding how much to commit to.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Timo",
+   "es": "Wir sollten mal zusammen essen.",
+   "en": "We should eat together some time.",
+   "options": [
+    {
+     "es": "Gern. Hast du am Freitag Zeit?",
+     "en": "Gladly. Are you free on Friday?",
+     "verdict": "good",
+     "feedback": "You turned mal into a date. That is the whole move, and it is the one nobody expects you to make."
+    },
+    {
+     "es": "Ja, sehr gern!",
+     "en": "Yes, very gladly!",
+     "verdict": "ok",
+     "feedback": "Warm and it commits nobody. Mal has no date in it, so nothing will happen unless somebody adds one."
+    },
+    {
+     "es": "Wann?",
+     "en": "When?",
+     "verdict": "ok",
+     "feedback": "Fair question, and a slightly hard one. Naming a day yourself is easier for both of you."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Freitag geht nicht. Der Dienstag danach?",
+   "en": "Friday does not work. The Tuesday after?",
+   "options": [
+    {
+     "es": "Einverstanden.",
+     "en": "Agreed.",
+     "verdict": "good",
+     "feedback": "Settled, and nobody will mention it again until Tuesday. That is what an arrangement is here."
+    },
+    {
+     "es": "Ja, vielleicht.",
+     "en": "Yes, maybe.",
+     "verdict": "bad",
+     "feedback": "Maybe is not an answer to a date. Say yes or say no and either one is fine."
+    },
+    {
+     "es": "Ich schaue noch. Ich sage dir Bescheid.",
+     "en": "I will see. I will let you know.",
+     "verdict": "ok",
+     "feedback": "Honest, and it puts the work on him. He got his calendar out of his bag for this."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Kommst du am Samstag ans Spiel?",
+   "en": "Are you coming to the match on Saturday?",
+   "options": [
+    {
+     "es": "Ja, gern. Um wie viel Uhr?",
+     "en": "Yes, gladly. At what time?",
+     "verdict": "good",
+     "feedback": "Yes and then the practical question. Both halves, in that order."
+    },
+    {
+     "es": "Ich habe leider schon etwas abgemacht.",
+     "en": "Unfortunately I have already arranged something.",
+     "verdict": "good",
+     "feedback": "Leider, and no reason. Nobody asks what, and the reason stays yours."
+    },
+    {
+     "es": "Ich weiss noch nicht.",
+     "en": "I do not know yet.",
+     "verdict": "ok",
+     "feedback": "It is Wednesday. By local arithmetic three days out is practically the day itself."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Also am Dienstag um halb acht.",
+   "en": "So Tuesday at half past seven.",
+   "options": [
+    {
+     "es": "Ich bin um zwanzig nach da.",
+     "en": "I will be there at twenty past.",
+     "verdict": "good",
+     "feedback": "Five minutes early is on time. Saying so out loud is not fussy here, it is normal."
+    },
+    {
+     "es": "Gut, bis dann.",
+     "en": "Good, see you then.",
+     "verdict": "good",
+     "feedback": "Done. He will be outside at twenty-five past and so, now, will you."
+    },
+    {
+     "es": "Ja, ungefähr.",
+     "en": "Yes, roughly.",
+     "verdict": "bad",
+     "feedback": "Half past seven is half past seven. Roughly is what the message four minutes beforehand is for."
+    }
+   ]
+  }
+ ]
+}

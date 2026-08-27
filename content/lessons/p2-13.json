@@ -1,0 +1,391 @@
+{
+ "id": "p2-13",
+ "title": "Zieh das an",
+ "desc": "Fasnacht, from inside a costume",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "anziehen",
+  "Maske",
+  "Vogel",
+  "ausziehen"
+ ],
+ "sn": [
+  {
+   "s": "Die zweite Fasnacht ist nicht wie die erste.",
+   "e": "The second Fasnacht is not like the first."
+  },
+  {
+   "s": "Bei der ersten steht man am Fenster.",
+   "e": "At the first one you stand at the window."
+  },
+  {
+   "s": "Bei der zweiten gibt dir jemand ein Kostüm.",
+   "e": "At the second one somebody gives you a costume."
+  },
+  {
+   "s": "Timo hat am Montag angerufen.",
+   "e": "Timo rang on Monday."
+  },
+  {
+   "s": "Er hat gesagt: Donnerstag, vier Uhr, bei mir.",
+   "e": "He said: Thursday, four o'clock, at my place."
+  },
+  {
+   "s": "Er hat gesagt: Bring nichts mit.",
+   "e": "He said: bring nothing."
+  },
+  {
+   "s": "Er hat gesagt: Zieh alte Sachen an.",
+   "e": "He said: put on old clothes."
+  },
+  {
+   "s": "Anziehen heisst: etwas an den Körper tun.",
+   "e": "Anziehen means: put something on your body."
+  },
+  {
+   "s": "Ausziehen ist das Gegenteil.",
+   "e": "Ausziehen is the opposite."
+  },
+  {
+   "s": "Beide Verben haben zwei Teile.",
+   "e": "Both verbs have two parts."
+  },
+  {
+   "s": "Ich ziehe die Jacke an.",
+   "e": "I put the jacket on."
+  },
+  {
+   "s": "Ich ziehe die Schuhe aus.",
+   "e": "I take my shoes off."
+  },
+  {
+   "s": "Das an und das aus stehen am Ende.",
+   "e": "The an and the aus stand at the end."
+  },
+  {
+   "s": "Im Befehl auch: Zieh die Jacke an.",
+   "e": "In the order too: put the jacket on."
+  },
+  {
+   "s": "Zieh die Schuhe aus.",
+   "e": "Take your shoes off."
+  },
+  {
+   "s": "Zieh das an. Zieh das aus.",
+   "e": "Put this on. Take this off."
+  },
+  {
+   "s": "Das habe ich am Donnerstag zwanzig Mal gehört.",
+   "e": "I heard that twenty times on Thursday."
+  },
+  {
+   "s": "Bei Timo liegt alles auf dem Boden.",
+   "e": "At Timo's everything is on the floor."
+  },
+  {
+   "s": "Die Kostüme kommen aus dem Keller.",
+   "e": "The costumes come from the cellar."
+  },
+  {
+   "s": "Draussen spielt schon Musik.",
+   "e": "Music is already playing outside."
+  },
+  {
+   "s": "Im Bad putze ich am Schluss die Farbe vom Gesicht.",
+   "e": "In the bathroom I clean the paint off my face at the end."
+  },
+  {
+   "s": "Um eins falle ich ins Bett.",
+   "e": "At one I fall into bed."
+  },
+  {
+   "s": "Im Keller stehen zwölf Schachteln.",
+   "e": "There are twelve boxes in the cellar."
+  },
+  {
+   "s": "Nach der Fasnacht muss man alles waschen.",
+   "e": "After Fasnacht everything has to be washed."
+  },
+  {
+   "s": "Das Papier von den Kostümen kommt in einen grossen Sack.",
+   "e": "The paper from the costumes goes into a big bag."
+  },
+  {
+   "s": "Die Farbe im Gesicht putzt man mit Öl weg.",
+   "e": "You get the paint off your face with oil."
+  },
+  {
+   "s": "Hosen, Hemden, Jacken, Hüte.",
+   "e": "Trousers, shirts, jackets, hats."
+  },
+  {
+   "s": "Ein Berg von alten Kleidern.",
+   "e": "A mountain of old clothes."
+  },
+  {
+   "s": "Alles ist zu gross oder zu klein.",
+   "e": "Everything is too big or too small."
+  },
+  {
+   "s": "Nichts passt und das gehört dazu.",
+   "e": "Nothing fits and that is part of it."
+  },
+  {
+   "s": "Vier Leute sind schon da.",
+   "e": "Four people are already there."
+  },
+  {
+   "s": "Sie sind alle im Turnverein.",
+   "e": "They are all in the gymnastics club."
+  },
+  {
+   "s": "Sie machen das jedes Jahr.",
+   "e": "They do this every year."
+  },
+  {
+   "s": "Sie haben ein Thema.",
+   "e": "They have a theme."
+  },
+  {
+   "s": "Das Thema ist geheim bis zum Donnerstag.",
+   "e": "The theme is secret until Thursday."
+  },
+  {
+   "s": "Das Thema in diesem Jahr sind Vögel.",
+   "e": "This year's theme is birds."
+  },
+  {
+   "s": "Ich bin ein Vogel.",
+   "e": "I am a bird."
+  },
+  {
+   "s": "Ich weiss nicht, welcher.",
+   "e": "I do not know which one."
+  },
+  {
+   "s": "Timo weiss es auch nicht.",
+   "e": "Timo does not know either."
+  },
+  {
+   "s": "Es ist ein Vogel mit gelben Federn und einem grossen Schnabel.",
+   "e": "It is a bird with yellow feathers and a big beak."
+  },
+  {
+   "s": "Die Federn sind aus Papier.",
+   "e": "The feathers are made of paper."
+  },
+  {
+   "s": "Der Schnabel ist aus Karton.",
+   "e": "The beak is made of cardboard."
+  },
+  {
+   "s": "Eine Frau hat sechzig Stunden daran gearbeitet.",
+   "e": "A woman worked sixty hours on it."
+  },
+  {
+   "s": "Sie heisst Andrea und sie macht das jedes Jahr.",
+   "e": "She is called Andrea and she does it every year."
+  },
+  {
+   "s": "Sie sagt: Zieh das an. Vorsichtig.",
+   "e": "She says: put this on. Carefully."
+  },
+  {
+   "s": "Ich ziehe es an.",
+   "e": "I put it on."
+  },
+  {
+   "s": "Es ist heiss und eng und ich sehe fast nichts.",
+   "e": "It is hot and tight and I can barely see."
+  },
+  {
+   "s": "Andrea sagt: Gut. So ist es richtig.",
+   "e": "Andrea says: good. That is right."
+  },
+  {
+   "s": "Sie gibt mir eine Maske.",
+   "e": "She gives me a mask."
+  },
+  {
+   "s": "Die Maske ist aus Holz und schwer.",
+   "e": "The mask is made of wood and heavy."
+  },
+  {
+   "s": "Hinter der Maske sieht mich niemand.",
+   "e": "Behind the mask nobody sees me."
+  },
+  {
+   "s": "Das ist der ganze Punkt.",
+   "e": "That is the whole point."
+  },
+  {
+   "s": "Hinter der Maske bin ich nicht mehr der Fremde.",
+   "e": "Behind the mask I am not the foreigner any more."
+  },
+  {
+   "s": "Hinter der Maske redet niemand langsam mit mir.",
+   "e": "Behind the mask nobody talks slowly to me."
+  },
+  {
+   "s": "Hinter der Maske hört niemand meinen Akzent.",
+   "e": "Behind the mask nobody hears my accent."
+  },
+  {
+   "s": "Ich bin einfach ein gelber Vogel.",
+   "e": "I am simply a yellow bird."
+  },
+  {
+   "s": "Das ist das erste Mal in fünf Monaten.",
+   "e": "That is the first time in five months."
+  },
+  {
+   "s": "Um fünf gehen wir zu Fuss in die Stadt.",
+   "e": "At five we walk into town."
+  },
+  {
+   "s": "Wir sind vierzehn Vögel.",
+   "e": "We are fourteen birds."
+  },
+  {
+   "s": "Vierzehn Leute in Papier und Farbe.",
+   "e": "Fourteen people in paper and paint."
+  },
+  {
+   "s": "Die Leute auf der Strasse schauen und lachen.",
+   "e": "People in the street look and laugh."
+  },
+  {
+   "s": "Kinder zeigen mit dem Finger.",
+   "e": "Children point."
+  },
+  {
+   "s": "Ein Kind fragt mich etwas.",
+   "e": "A child asks me something."
+  },
+  {
+   "s": "Ich verstehe es nicht.",
+   "e": "I do not understand it."
+  },
+  {
+   "s": "Ich mache einen Vogelton.",
+   "e": "I make a bird noise."
+  },
+  {
+   "s": "Das Kind lacht und rennt weg.",
+   "e": "The child laughs and runs away."
+  },
+  {
+   "s": "Das war eine ganze Unterhaltung.",
+   "e": "That was a whole conversation."
+  },
+  {
+   "s": "Wir laufen sechs Stunden durch die Stadt.",
+   "e": "We walk through the town for six hours."
+  },
+  {
+   "s": "Wir gehen in jede Beiz.",
+   "e": "We go into every pub."
+  },
+  {
+   "s": "In jeder Beiz gibt es ein Getränk.",
+   "e": "In every pub there is a drink."
+  },
+  {
+   "s": "Man zieht die Maske dafür kurz aus.",
+   "e": "You take the mask off briefly for that."
+  },
+  {
+   "s": "Dann zieht man sie wieder an.",
+   "e": "Then you put it back on."
+  },
+  {
+   "s": "Um elf tut mir alles weh.",
+   "e": "At eleven everything hurts."
+  },
+  {
+   "s": "Der Rücken, die Füsse, das Gesicht.",
+   "e": "My back, my feet, my face."
+  },
+  {
+   "s": "Andrea sagt: Das erste Jahr ist das schlimmste.",
+   "e": "Andrea says: the first year is the worst."
+  },
+  {
+   "s": "Timo sagt: Zieh die Maske aus und trink etwas.",
+   "e": "Timo says: take the mask off and drink something."
+  },
+  {
+   "s": "Wir sitzen zu sechst auf einer Treppe.",
+   "e": "The six of us sit on a step."
+  },
+  {
+   "s": "Alle sind nass und rot im Gesicht.",
+   "e": "Everybody is wet and red in the face."
+  },
+  {
+   "s": "Niemand redet.",
+   "e": "Nobody talks."
+  },
+  {
+   "s": "Alle sind zu müde zum Reden.",
+   "e": "Everybody is too tired to talk."
+  },
+  {
+   "s": "Es ist sehr gut.",
+   "e": "It is very good."
+  },
+  {
+   "s": "Um Mitternacht gehen wir zurück zu Timo.",
+   "e": "At midnight we go back to Timo's."
+  },
+  {
+   "s": "Wir ziehen die Kostüme aus.",
+   "e": "We take the costumes off."
+  },
+  {
+   "s": "Andrea zählt jedes Teil und hängt es auf.",
+   "e": "Andrea counts every piece and hangs it up."
+  },
+  {
+   "s": "Nächstes Jahr ist alles wieder anders.",
+   "e": "Next year everything is different again."
+  },
+  {
+   "s": "Sie macht jedes Jahr neue.",
+   "e": "She makes new ones every year."
+  },
+  {
+   "s": "Ich frage: Warum jedes Jahr neu?",
+   "e": "I ask: why new every year?"
+  },
+  {
+   "s": "Sie sagt: Sonst ist es kein Fest.",
+   "e": "She says: otherwise it is not a festival."
+  },
+  {
+   "s": "Timo gibt mir mein altes Hemd zurück.",
+   "e": "Timo gives me my old shirt back."
+  },
+  {
+   "s": "Ich ziehe meine eigenen Sachen an.",
+   "e": "I put my own clothes on."
+  },
+  {
+   "s": "Und ich bin sofort wieder der Fremde.",
+   "e": "And I am immediately the foreigner again."
+  },
+  {
+   "s": "Auf dem Weg nach Hause denke ich an die sechs Stunden.",
+   "e": "On the way home I think about those six hours."
+  },
+  {
+   "s": "Sechs Stunden ohne Akzent.",
+   "e": "Six hours with no accent."
+  },
+  {
+   "s": "Jetzt verstehe ich das Fest von innen.",
+   "e": "Now I understand the festival from the inside."
+  }
+ ]
+}

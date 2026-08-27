@@ -205,6 +205,19 @@ It fired on 15 of 16 stories the first time and it was right about 37 of the
 40: the writing was landing at three or four uses where the rule asks for five.
 61 sentences were added rather than the number being moved.
 
+**RETURN arrives late and it arrives all at once.** A word is judged only once
+25 stories exist after it, so a phase's vocabulary is unjudged while it is
+being written and judged in full the moment the next phase lands. Phase 2 took
+44 warm-up cards away from phases 0 and 1 on the day it was committed, and
+every one of them was a real hole: the flat, the laundry and the bills had
+stopped being mentioned. **Budget for that sweep as part of writing a phase**,
+not as a surprise. 129 sentences closed it.
+
+**One-scene is a share, not a count**, and that makes it fragile in the
+opposite direction: a word exempt because 60% of its uses are in its own story
+loses the exemption when a later story mentions it once. Two words broke that
+way during the sweep that fixed forty. Re-run the check after every sweep.
+
 ---
 
 ## 4. The eight phases

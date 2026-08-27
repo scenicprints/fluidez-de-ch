@@ -8,6 +8,7 @@
   "Kleber",
   "Rolle",
   "Abfall",
+  "Gebührensack",
   "Kehricht",
   "Sack",
   "kosten"
@@ -132,6 +133,34 @@
   {
    "s": "Der Sack von Luzern gilt nur in Luzern.",
    "e": "The Luzern bag is only valid in Luzern."
+  },
+  {
+   "s": "Ein Gebührensack kostet mehr als das Essen darin.",
+   "e": "A charged bag costs more than the food that went in it."
+  },
+  {
+   "s": "Darum macht man den Gebührensack ganz voll.",
+   "e": "So you fill the charged bag right up."
+  },
+  {
+   "s": "Ein Gebührensack in der Woche reicht mir.",
+   "e": "One charged bag a week is enough for me."
+  },
+  {
+   "s": "Der Gebührensack steht am Dienstag um sieben vor der Tür.",
+   "e": "The charged bag is outside the door at seven on Tuesday."
+  },
+  {
+   "s": "Ohne Gebührensack nimmt niemand den Sack mit.",
+   "e": "Without the charged bag nobody takes the bag away."
+  },
+  {
+   "s": "Der falsche Sack bleibt stehen, eine Woche lang.",
+   "e": "The wrong bag stays where it is, for a whole week."
+  },
+  {
+   "s": "Und jeder im Haus sieht den Sack dort stehen.",
+   "e": "And everybody in the building sees the bag standing there."
   },
   {
    "s": "Man kauft ihn im Laden.",

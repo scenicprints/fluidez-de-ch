@@ -1,0 +1,109 @@
+{
+ "id": "sc20",
+ "title": "Am Tisch",
+ "desc": "Three hours, one small pan, and no hurry at all",
+ "setting": "A flat the same shape as yours, forty years older, and an oven in the middle of the table.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Rosmarie",
+   "es": "Setz dich.",
+   "en": "Sit down.",
+   "options": [
+    {
+     "es": "Merci vielmal.",
+     "en": "Thank you very much.",
+     "verdict": "good",
+     "feedback": "Short is right. This is the first time you have been past her door and neither of you will mention that."
+    },
+    {
+     "es": "Wo soll ich sitzen?",
+     "en": "Where should I sit?",
+     "verdict": "ok",
+     "feedback": "There are two chairs. One of them is hers and has been for forty years."
+    },
+    {
+     "es": "Ich stehe gern.",
+     "en": "I am happy standing.",
+     "verdict": "bad",
+     "feedback": "Setz dich is an instruction shaped like an offer. Raclette is a table you sit at."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Gib mir den Käse.",
+   "en": "Give me the cheese.",
+   "options": [
+    {
+     "es": "Hier, bitte.",
+     "en": "Here you are.",
+     "verdict": "good",
+     "feedback": "Gib mir: the person in the dative, the thing in the accusative. It is the shape of half this evening."
+    },
+    {
+     "es": "Ich gebe dir den Käse.",
+     "en": "I am giving you the cheese.",
+     "verdict": "good",
+     "feedback": "Dir and den. Both cases in one short sentence, and you built it right."
+    },
+    {
+     "es": "Ich gebe dich den Käse.",
+     "en": "I give you the cheese.",
+     "verdict": "bad",
+     "feedback": "Dir. The person receiving always sits in the dative, with geben, zeigen, schicken and schenken alike."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Ist es fein?",
+   "en": "Is it good?",
+   "options": [
+    {
+     "es": "Sehr fein.",
+     "en": "Very good.",
+     "verdict": "good",
+     "feedback": "Fein is for food. Gut is for work and for weather, and using it here marks you out at once."
+    },
+    {
+     "es": "Ja, sehr gut.",
+     "en": "Yes, very good.",
+     "verdict": "ok",
+     "feedback": "Understood, and it is the word for a job well done rather than for a plate."
+    },
+    {
+     "es": "Es geht.",
+     "en": "It is all right.",
+     "verdict": "bad",
+     "feedback": "She has made this for you for three hours. Es geht is what you say about a bus."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Trink nichts Kaltes dazu.",
+   "en": "Do not drink anything cold with it.",
+   "options": [
+    {
+     "es": "Dann nehme ich einen Tee.",
+     "en": "Then I will have a tea.",
+     "verdict": "good",
+     "feedback": "Tea or white wine. Whether the rule is true is beside the point: her mother said it."
+    },
+    {
+     "es": "Warum nicht?",
+     "en": "Why not?",
+     "verdict": "ok",
+     "feedback": "You will get the explanation, and the explanation is that her mother said so. It is enough."
+    },
+    {
+     "es": "Das stimmt nicht.",
+     "en": "That is not true.",
+     "verdict": "bad",
+     "feedback": "It may not be. It is also her table, her cheese, and a thing she has believed for seventy years."
+    }
+   ]
+  }
+ ]
+}

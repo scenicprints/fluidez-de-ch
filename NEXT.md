@@ -1,6 +1,6 @@
 # START HERE — where the German course stands
 
-**Phases 0 and 1 are written. The plan is finished and it is not up for
+**Phases 0, 1 and 2 are written. The plan is finished and it is not up for
 relitigating.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
@@ -10,7 +10,7 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **192** | 8 phases, **38 written** (phases 0 and 1 complete) |
+| Stories planned | **192** | 8 phases, **65 written** (phases 0, 1 and 2 complete) |
 | App support | **shipped** | v2.8.25, mascot + palette + English interface + switcher |
 | Stories on people | **62** | phases 4 and 5, a third of the course |
 
@@ -401,6 +401,88 @@ Two smaller ones fixed at the same time:
   scene could push a pattern over its threshold and the pattern would sit
   reading "0 more words to go" and stay locked until a lesson happened to be
   read next. `answerScene` calls `checkPatterns()` now.
+
+## 17. Phase 2 — Making Friends, 27 stories, DONE 2026-08-26
+
+Same batch as before: stories first, then the dictionary, verbs, patterns and
+scenes written against them.
+
+| | | |
+|---|---|---|
+| Stories | **65** total | 27 new, 15,300 running words |
+| Dictionary | **1,319** | +369 |
+| Verbs | **248** | +71, every form stated |
+| Patterns | **27** | +9 |
+| Scenes | **22** | +8 |
+| Blüemli | **71** lines | +14, and `fein` is finally taught |
+| Tappable | **98.5%** whole course | |
+| Warm-ups | 389 words, 0 stories with none | |
+
+**Timo arrives** and brings the mountain with him. **Rosmarie Amrein** stops
+being Frau Amrein. **Marco** turns out to have been waiting six months for you
+to ask him something. The grammar underneath is the perfect tense and the
+dative, and the phase is built so the two arrive through what people do with
+them rather than through a table.
+
+### What the phase taught about writing the next one
+
+- **The rule that relaxes is the bracket, not the subordinate clause.** Phase
+  5 owns weil, dass and wenn, so phase 2 stays on main clauses and `denn`. What
+  it adds is the second bracket: `habe … getrunken` sits exactly where phase
+  1's `muss … spülen` sat, so the learner meets a shape they already own with a
+  new thing inside it. Every indirect question in the batch was rewritten as a
+  direct one for the same reason it was in phase 1.
+- **Präteritum is allowed for `war` and `hatte` and nothing else.** That is
+  what people actually say: *er hatte nie einen anderen Chef*, but *er hat
+  vierzig Jahre gearbeitet*. `p2-15` says so out loud, in the story where an
+  eighty-year-old talks about her husband, which is the only place it would not
+  read as a grammar note.
+- **RETURN went live for phase 1 the day phase 2 landed, and it took 44 cards
+  away.** A word is judged once 25 stories exist after it, so phase 1's words
+  were unjudged at 38 stories and judged at 65. Forty-four of them lost their
+  warm-up: Rechnung, Waschküche, Hauswart, Krankenkasse, Gemeinde, Schalter,
+  Miete, waschen, putzen, bestellen. Read as a list it is one sentence long:
+  **the flat, the laundry and the bills stopped being mentioned the day the
+  protagonist made friends.** That is a fault in the writing and not in the
+  gate, and **129 sentences** across three passes put that life back. All 44
+  are taught again and nothing else was moved.
+- **Adding a use can COST a word its card.** One-scene is a share, not a
+  count, so a word that qualified by living almost entirely in one story loses
+  the exemption when a later story mentions it once. `Nacht` and `Maschine`
+  were both fine until the recycling sweep put them somewhere else, and both
+  had to be put back rather than propped up. Re-run the check after every
+  sweep: fixing forty words is how you break two.
+- **Adding a verb can break a word that already worked.** `meinen` went into
+  the dictionary and `meine` immediately became ambiguous between it and the
+  possessive, so the reader dropped it and 22 taps stopped working. It is
+  pinned in `forms-overrides.json` now. **Check the ambiguous list after every
+  batch**, not just the unmapped one: a word that used to resolve and now does
+  not never appears in the gaps report.
+- **Coverage bites at the end of the ramp, not the start.** One story fired,
+  `p2-11`, at 86% against a required 87%. The fix was to cut five new words it
+  did not need rather than to move the number, and four of them were in
+  sentences that read better shorter.
+- **Check a new pattern against the ones already written.** `sie_du` and phase
+  0's `sie_und_du` came out as two cards with almost the same title. The new
+  one is now `duzen_siezen`, "Wollen wir du sagen?", and it opens by naming
+  what phase 0 already said instead of repeating it.
+- **The dialect gate does not catch invented dialect spelling** and it is rule
+  4 all the same. A draft of `p2-26` explained the written dialect by spelling
+  four words of it. Cut, and the point is made without them: read it aloud and
+  the German word is in there.
+
+### Known and small
+
+- **`Prost` is offered as an `ok` answer in `sc18`,** not a wrong one. It is
+  heard in Switzerland; `Zum Wohl` is simply what an apéro in Luzern mostly
+  says. Nothing on the helvetism list, because a list with a citation is the
+  rule and there is no citation for banning it.
+- **`aufpassen` and `aufwachen` still appear once each.** Phase 2 did not pick
+  them up. Phase 3 or drop them.
+- **The Swiss perfect widens.** `p2-15` writes *er ist davor gestanden* and
+  `perfekt_sein` states the rule, including that Hamburg would say *hat*. This
+  is a judgement call nobody in the project can fact-check, and it is now
+  written into a pattern card rather than only into stories.
 
 ## 16. Phase 1 — Settling In, 22 stories, DONE 2026-08-26
 

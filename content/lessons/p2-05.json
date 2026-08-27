@@ -1,0 +1,359 @@
+{
+ "id": "p2-05",
+ "title": "Komm essen",
+ "desc": "An invitation with no date attached",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Einladung",
+  "mitbringen",
+  "Flasche",
+  "heissen"
+ ],
+ "sn": [
+  {
+   "s": "Nuno sagt am Telefon: Komm essen.",
+   "e": "Nuno says on the phone: come and eat."
+  },
+  {
+   "s": "Zwei Wörter.",
+   "e": "Two words."
+  },
+  {
+   "s": "Komm essen ist ein Befehl und eine Einladung.",
+   "e": "Come and eat is an order and an invitation."
+  },
+  {
+   "s": "Die Form heisst Imperativ.",
+   "e": "The form is called the imperative."
+  },
+  {
+   "s": "Man nimmt das Verb und lässt du weg.",
+   "e": "You take the verb and leave out du."
+  },
+  {
+   "s": "Du kommst wird komm.",
+   "e": "Du kommst becomes komm."
+  },
+  {
+   "s": "Du gehst wird geh.",
+   "e": "Du gehst becomes geh."
+  },
+  {
+   "s": "Du bringst wird bring.",
+   "e": "Du bringst becomes bring."
+  },
+  {
+   "s": "Man hört es kurz und es ist nicht unfreundlich.",
+   "e": "It sounds short and it is not unfriendly."
+  },
+  {
+   "s": "Zu einem Fremden sagt man: Kommen Sie.",
+   "e": "To a stranger you say: kommen Sie."
+  },
+  {
+   "s": "Zu einem Freund sagt man: Komm.",
+   "e": "To a friend you say: komm."
+  },
+  {
+   "s": "Nuno sagt komm und das ist eine ganze Nachricht.",
+   "e": "Nuno says komm and that is a whole message in itself."
+  },
+  {
+   "s": "Er hat mir du gegeben und ich habe es zuerst nicht gemerkt.",
+   "e": "He gave me du and at first I did not notice."
+  },
+  {
+   "s": "Eine Einladung ist hier eine ernste Sache.",
+   "e": "An invitation is a serious thing here."
+  },
+  {
+   "s": "Man lädt nicht einfach so ein.",
+   "e": "You do not invite people just like that."
+  },
+  {
+   "s": "Einladen heisst: komm zu mir nach Hause.",
+   "e": "Einladen means: come to my home."
+  },
+  {
+   "s": "Das Haus ist privat hier.",
+   "e": "The home is private here."
+  },
+  {
+   "s": "Man trifft sich draussen, im Restaurant, im Verein.",
+   "e": "People meet outside, in a restaurant, in a club."
+  },
+  {
+   "s": "Eine Einladung nach Hause kommt spät.",
+   "e": "An invitation to somebody's home comes late."
+  },
+  {
+   "s": "Ich habe eine nach fünf Wochen bekommen.",
+   "e": "I got one after five weeks."
+  },
+  {
+   "s": "Das ist schnell.",
+   "e": "That is fast."
+  },
+  {
+   "s": "Es ist schnell, denn Nuno war auch einmal neu.",
+   "e": "It is fast, because Nuno was new once too."
+  },
+  {
+   "s": "Es gibt zwei Arten von Einladung.",
+   "e": "There are two kinds of invitation."
+  },
+  {
+   "s": "Die erste hat kein Datum.",
+   "e": "The first has no date."
+  },
+  {
+   "s": "Wir sollten mal essen gehen.",
+   "e": "We should go and eat some time."
+  },
+  {
+   "s": "Wir müssen mal einen Kaffee trinken.",
+   "e": "We must have a coffee some time."
+  },
+  {
+   "s": "Mal ist das Wort ohne Datum.",
+   "e": "Mal is the word with no date."
+  },
+  {
+   "s": "Die zweite Einladung hat ein Datum.",
+   "e": "The second invitation has a date."
+  },
+  {
+   "s": "Donnerstag um sieben.",
+   "e": "Thursday at seven."
+  },
+  {
+   "s": "Das ist eine echte Einladung.",
+   "e": "That is a real invitation."
+  },
+  {
+   "s": "Nuno sagt: Donnerstag um sieben.",
+   "e": "Nuno says: Thursday at seven."
+  },
+  {
+   "s": "Er sagt den Tag und die Zeit.",
+   "e": "He says the day and the time."
+  },
+  {
+   "s": "Also ist es echt.",
+   "e": "So it is real."
+  },
+  {
+   "s": "Ich frage: Was soll ich mitbringen?",
+   "e": "I ask: what should I bring?"
+  },
+  {
+   "s": "Das ist die richtige Frage.",
+   "e": "That is the right question."
+  },
+  {
+   "s": "Man kommt hier nicht mit leeren Händen.",
+   "e": "You do not come empty handed here."
+  },
+  {
+   "s": "Man bringt etwas mit.",
+   "e": "You bring something with you."
+  },
+  {
+   "s": "Mitbringen ist ein Verb mit zwei Teilen.",
+   "e": "Mitbringen is a verb with two parts."
+  },
+  {
+   "s": "Ich bringe eine Flasche Wein mit.",
+   "e": "I bring a bottle of wine with me."
+  },
+  {
+   "s": "Das mit steht am Ende.",
+   "e": "The mit stands at the end."
+  },
+  {
+   "s": "Nuno sagt: Bring nichts mit.",
+   "e": "Nuno says: bring nothing."
+  },
+  {
+   "s": "Das heisst nicht: Bring nichts mit.",
+   "e": "That does not mean: bring nothing."
+  },
+  {
+   "s": "Das heisst: Bring etwas Kleines mit.",
+   "e": "It means: bring something small."
+  },
+  {
+   "s": "Eine Flasche Wein. Schokolade. Blumen.",
+   "e": "A bottle of wine. Chocolate. Flowers."
+  },
+  {
+   "s": "Frau Amrein hat mir das erklärt.",
+   "e": "Frau Amrein explained that to me."
+  },
+  {
+   "s": "Sie hat gesagt: Blumen sind immer richtig.",
+   "e": "She said: flowers are always right."
+  },
+  {
+   "s": "Sie hat gesagt: Aber nicht rote Rosen.",
+   "e": "She said: but not red roses."
+  },
+  {
+   "s": "Rote Rosen sagen etwas anderes.",
+   "e": "Red roses say something else."
+  },
+  {
+   "s": "Ich bringe Wein mit und nicht Rosen.",
+   "e": "I bring wine and not roses."
+  },
+  {
+   "s": "Am Donnerstag bin ich um zehn vor sieben da.",
+   "e": "On Thursday I am there at ten to seven."
+  },
+  {
+   "s": "Ich stehe unten und warte zehn Minuten.",
+   "e": "I stand downstairs and wait ten minutes."
+  },
+  {
+   "s": "Zu früh ist auch falsch.",
+   "e": "Too early is wrong too."
+  },
+  {
+   "s": "Fünf Minuten zu früh ist richtig.",
+   "e": "Five minutes early is right."
+  },
+  {
+   "s": "Zwanzig Minuten zu früh ist unhöflich.",
+   "e": "Twenty minutes early is rude."
+  },
+  {
+   "s": "Um fünf vor sieben läute ich.",
+   "e": "At five to seven I ring."
+  },
+  {
+   "s": "Nuno macht auf und sagt: Hoi.",
+   "e": "Nuno opens up and says: hi."
+  },
+  {
+   "s": "Ich gebe ihm die Flasche.",
+   "e": "I give him the bottle."
+  },
+  {
+   "s": "Geben ist auch ein Wort mit dem Dativ.",
+   "e": "Geben is a dative word too."
+  },
+  {
+   "s": "Ich gebe ihm die Flasche. Er gibt mir ein Glas.",
+   "e": "I give him the bottle. He gives me a glass."
+  },
+  {
+   "s": "Er sagt: Du musst nichts mitbringen.",
+   "e": "He says: you do not have to bring anything."
+  },
+  {
+   "s": "Er stellt die Flasche trotzdem auf den Tisch.",
+   "e": "He puts the bottle on the table all the same."
+  },
+  {
+   "s": "Er macht sie sofort auf.",
+   "e": "He opens it straight away."
+  },
+  {
+   "s": "Seine Frau heisst Sofia.",
+   "e": "His wife is called Sofia."
+  },
+  {
+   "s": "Sie gibt mir die Hand.",
+   "e": "She shakes my hand."
+  },
+  {
+   "s": "Die Kinder sind zwölf und fünfzehn.",
+   "e": "The children are twelve and fifteen."
+  },
+  {
+   "s": "Sie sagen Grüezi und dann nichts mehr.",
+   "e": "They say Grüezi and then nothing more."
+  },
+  {
+   "s": "Sie reden Dialekt miteinander und mit mir Hochdeutsch.",
+   "e": "They speak dialect with each other and standard German with me."
+  },
+  {
+   "s": "Wir essen um sieben.",
+   "e": "We eat at seven."
+  },
+  {
+   "s": "Es gibt Fisch mit Kartoffeln.",
+   "e": "There is fish with potatoes."
+  },
+  {
+   "s": "Sofia fragt: Magst du Fisch?",
+   "e": "Sofia asks: do you like fish?"
+  },
+  {
+   "s": "Der Fisch steht schon auf dem Tisch.",
+   "e": "The fish is already on the table."
+  },
+  {
+   "s": "Ich sage: Sehr gern.",
+   "e": "I say: very much."
+  },
+  {
+   "s": "Das ist auch die einzige richtige Antwort.",
+   "e": "That is also the only right answer."
+  },
+  {
+   "s": "Sie tut mir zweimal mehr auf den Teller.",
+   "e": "She puts more on my plate twice."
+  },
+  {
+   "s": "Beim zweiten Mal habe ich Nein gesagt.",
+   "e": "The second time I said no."
+  },
+  {
+   "s": "Sie hat trotzdem etwas auf den Teller getan.",
+   "e": "She put something on the plate anyway."
+  },
+  {
+   "s": "Nuno sagt: Bei uns heisst Nein einmal noch nicht Nein.",
+   "e": "Nuno says: with us no once does not mean no yet."
+  },
+  {
+   "s": "Er sagt: Bei den Schweizern schon.",
+   "e": "He says: with the Swiss it does."
+  },
+  {
+   "s": "Er sagt: Sag es bei ihnen einmal und sie glauben dir.",
+   "e": "He says: say it once with them and they believe you."
+  },
+  {
+   "s": "Um halb elf gehe ich.",
+   "e": "At half past ten I go."
+  },
+  {
+   "s": "Ich sage: Danke für die Einladung.",
+   "e": "I say: thank you for the invitation."
+  },
+  {
+   "s": "Sofia sagt: Komm wieder.",
+   "e": "Sofia says: come again."
+  },
+  {
+   "s": "Nuno sagt: Nächsten Monat. Ich sage dir Bescheid.",
+   "e": "Nuno says: next month. I will let you know."
+  },
+  {
+   "s": "Er hat einen Monat gesagt und nicht mal.",
+   "e": "He said a month and not some time."
+  },
+  {
+   "s": "Das ist der Unterschied.",
+   "e": "That is the difference."
+  },
+  {
+   "s": "Auf dem Weg nach Hause habe ich das gemerkt.",
+   "e": "On the way home I noticed that."
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "id": "p2-15",
+ "title": "Ihr Mann",
+ "desc": "Photographs on a sideboard",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Foto",
+  "Jahr",
+  "gleich"
+ ],
+ "sn": [
+  {
+   "s": "Auf dem Kasten bei Rosmarie stehen sieben Fotos.",
+   "e": "There are seven photographs on Rosmarie's cupboard."
+  },
+  {
+   "s": "Auf sechs davon ist der gleiche Mann.",
+   "e": "The same man is in six of them."
+  },
+  {
+   "s": "Ich habe nicht gefragt.",
+   "e": "I did not ask."
+  },
+  {
+   "s": "Man fragt nicht zuerst.",
+   "e": "You do not ask first."
+  },
+  {
+   "s": "Beim zweiten Mal hat sie selber angefangen.",
+   "e": "The second time she started herself."
+  },
+  {
+   "s": "Sie hat ein Foto genommen und es mir gegeben.",
+   "e": "She took a photograph and gave it to me."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist der Walter.",
+   "e": "She said: that is Walter."
+  },
+  {
+   "s": "Sie hat gesagt: Mein Mann.",
+   "e": "She said: my husband."
+  },
+  {
+   "s": "Sie hat gesagt: Er ist vor neun Jahren gestorben.",
+   "e": "She said: he died nine years ago."
+  },
+  {
+   "s": "Sie hat es ruhig gesagt.",
+   "e": "She said it calmly."
+  },
+  {
+   "s": "Sie hat es gesagt wie ein Datum.",
+   "e": "She said it like a date."
+  },
+  {
+   "s": "Das hat mich überrascht.",
+   "e": "That surprised me."
+  },
+  {
+   "s": "Zu Hause redet man leise über die Toten.",
+   "e": "At home people speak quietly about the dead."
+  },
+  {
+   "s": "Man macht die Stimme kleiner.",
+   "e": "You make your voice smaller."
+  },
+  {
+   "s": "Sie macht die Stimme nicht kleiner.",
+   "e": "She does not make her voice smaller."
+  },
+  {
+   "s": "Sie redet über ihn wie über einen Nachbarn.",
+   "e": "She talks about him like about a neighbour."
+  },
+  {
+   "s": "Auf dem Foto ist er dreissig.",
+   "e": "In the photograph he is thirty."
+  },
+  {
+   "s": "Er steht vor einem Auto.",
+   "e": "He is standing in front of a car."
+  },
+  {
+   "s": "Das Auto war nicht seines.",
+   "e": "The car was not his."
+  },
+  {
+   "s": "Sie sagt: Er ist für das Foto davor gestanden.",
+   "e": "She says: he stood in front of it for the photograph."
+  },
+  {
+   "s": "Sie sagt: Das Auto war vom Chef.",
+   "e": "She says: the car was the boss's."
+  },
+  {
+   "s": "Sie lacht.",
+   "e": "She laughs."
+  },
+  {
+   "s": "Walter war Elektriker.",
+   "e": "Walter was an electrician."
+  },
+  {
+   "s": "Er hat vierzig Jahre in der gleichen Firma gearbeitet.",
+   "e": "He worked at the same firm for forty years."
+  },
+  {
+   "s": "Vierzig Jahre und eine Firma.",
+   "e": "Forty years and one firm."
+  },
+  {
+   "s": "Er hat eine Lehre gemacht mit sechzehn.",
+   "e": "He did an apprenticeship at sixteen."
+  },
+  {
+   "s": "Er hat mit sechzig aufgehört.",
+   "e": "He stopped at sixty."
+  },
+  {
+   "s": "Sie sagt: Er hatte nie einen anderen Chef.",
+   "e": "She says: he never had another boss."
+  },
+  {
+   "s": "Hatte ist die alte Form von haben.",
+   "e": "Hatte is the old form of haben."
+  },
+  {
+   "s": "Man hört sie bei haben und sein.",
+   "e": "You hear it with haben and sein."
+  },
+  {
+   "s": "Er hatte. Sie hatte. Es war. Sie waren.",
+   "e": "He had. She had. It was. They were."
+  },
+  {
+   "s": "Bei anderen Verben nimmt man das Perfekt.",
+   "e": "With other verbs you take the perfect."
+  },
+  {
+   "s": "Er hat gearbeitet. Nicht: er arbeitete.",
+   "e": "Er hat gearbeitet. Not: er arbeitete."
+  },
+  {
+   "s": "Aber bei war und hatte ist die alte Form normal.",
+   "e": "But with war and hatte the old form is normal."
+  },
+  {
+   "s": "Sie sagt: Wir waren dreiundvierzig Jahre zusammen.",
+   "e": "She says: we were together for forty-three years."
+  },
+  {
+   "s": "Sie haben in dieser Wohnung gewohnt.",
+   "e": "They lived in this flat."
+  },
+  {
+   "s": "In der gleichen Wohnung, die ganze Zeit.",
+   "e": "In the same flat, the whole time."
+  },
+  {
+   "s": "Sie sind einmal umgezogen, im Jahr sechsundsechzig.",
+   "e": "They moved once, in sixty-six."
+  },
+  {
+   "s": "Von einem Stock in den anderen.",
+   "e": "From one floor to the other."
+  },
+  {
+   "s": "Sie sagt: Das war ein grosser Umzug für uns.",
+   "e": "She says: that was a big move for us."
+  },
+  {
+   "s": "Sie hatten keine Kinder.",
+   "e": "They had no children."
+  },
+  {
+   "s": "Die Möbel sind aus dem ersten Jahr.",
+   "e": "The furniture is from the first year."
+  },
+  {
+   "s": "Nichts davon ist aus dem Brockenhaus.",
+   "e": "None of it is from the Brockenhaus."
+  },
+  {
+   "s": "Sie sagt: Wir haben alles neu gekauft. Einmal.",
+   "e": "She says: we bought everything new. Once."
+  },
+  {
+   "s": "Die Miete war damals sehr tief.",
+   "e": "The rent was very low then."
+  },
+  {
+   "s": "Sie sagt das ohne Erklärung.",
+   "e": "She says that without an explanation."
+  },
+  {
+   "s": "Sie sagt nur: Es ist nicht gegangen.",
+   "e": "She only says: it did not happen."
+  },
+  {
+   "s": "Und dann redet sie weiter.",
+   "e": "And then she goes on talking."
+  },
+  {
+   "s": "Ich frage nicht nach.",
+   "e": "I do not ask further."
+  },
+  {
+   "s": "Sie zeigt mir ein Foto vom Berg.",
+   "e": "She shows me a photograph from the mountain."
+  },
+  {
+   "s": "Sie sind jeden Sommer gewandert.",
+   "e": "They went hiking every summer."
+  },
+  {
+   "s": "Immer die gleichen vier Wege.",
+   "e": "Always the same four routes."
+  },
+  {
+   "s": "Sie sagt: Warum einen neuen suchen?",
+   "e": "She says: why look for a new one?"
+  },
+  {
+   "s": "Auf dem Foto lacht sie.",
+   "e": "In the photograph she is laughing."
+  },
+  {
+   "s": "Sie ist dort vierzig Jahre alt.",
+   "e": "She is forty years old there."
+  },
+  {
+   "s": "Ich erkenne sie sofort.",
+   "e": "I recognise her at once."
+  },
+  {
+   "s": "Das Gesicht ist genau das gleiche.",
+   "e": "The face is exactly the same."
+  },
+  {
+   "s": "Sie sagt: Er ist am Morgen gestorben.",
+   "e": "She says: he died in the morning."
+  },
+  {
+   "s": "Sie sagt: Er ist im Spital gestorben, nach elf Tagen.",
+   "e": "She says: he died in hospital, after eleven days."
+  },
+  {
+   "s": "Sie sagt: Ich war dabei.",
+   "e": "She says: I was there."
+  },
+  {
+   "s": "Sie sagt es ganz genau.",
+   "e": "She says it very precisely."
+  },
+  {
+   "s": "Der Tag, die Zeit, das Zimmer.",
+   "e": "The day, the time, the room."
+  },
+  {
+   "s": "Sie weint nicht.",
+   "e": "She does not cry."
+  },
+  {
+   "s": "Sie hat neun Jahre Zeit gehabt.",
+   "e": "She has had nine years."
+  },
+  {
+   "s": "Sie sagt: Am Anfang habe ich viel geweint.",
+   "e": "She says: at the start I cried a lot."
+  },
+  {
+   "s": "Sie sagt: Dann ist es weniger geworden.",
+   "e": "She says: then it got less."
+  },
+  {
+   "s": "Sie sagt: Und dann ist er einfach dabei geblieben.",
+   "e": "She says: and then he simply stayed with me."
+  },
+  {
+   "s": "Sie redet jeden Tag mit ihm.",
+   "e": "She talks to him every day."
+  },
+  {
+   "s": "Sie sagt es ganz normal.",
+   "e": "She says it quite normally."
+  },
+  {
+   "s": "Sie sagt: Am Morgen sage ich ihm Grüezi.",
+   "e": "She says: in the morning I say Grüezi to him."
+  },
+  {
+   "s": "Sie sagt: Das ist nicht verrückt.",
+   "e": "She says: that is not mad."
+  },
+  {
+   "s": "Ich sage: Nein. Das ist nicht verrückt.",
+   "e": "I say: no. That is not mad."
+  },
+  {
+   "s": "Sie geht am Sonntag auf den Friedhof.",
+   "e": "She goes to the cemetery on Sunday."
+  },
+  {
+   "s": "Jeden Sonntag nach der Kirche.",
+   "e": "Every Sunday after church."
+  },
+  {
+   "s": "Sie nimmt Wasser und Blumen mit.",
+   "e": "She takes water and flowers with her."
+  },
+  {
+   "s": "Der Friedhof ist sehr sauber.",
+   "e": "The cemetery is very clean."
+  },
+  {
+   "s": "Jedes Grab hat Blumen.",
+   "e": "Every grave has flowers."
+  },
+  {
+   "s": "Alle Gräber sehen gleich gut aus.",
+   "e": "All the graves look equally well kept."
+  },
+  {
+   "s": "Sie sagt: Ein Grab bleibt fünfundzwanzig Jahre.",
+   "e": "She says: a grave stays for twenty-five years."
+  },
+  {
+   "s": "Dann kommt jemand anderes.",
+   "e": "Then somebody else comes."
+  },
+  {
+   "s": "Ich habe gefragt: Und dann?",
+   "e": "I asked: and then?"
+  },
+  {
+   "s": "Sie hat gesagt: Dann bin ich auch nicht mehr da.",
+   "e": "She said: then I will not be here either."
+  },
+  {
+   "s": "Sie hat es ohne Trauer gesagt.",
+   "e": "She said it without sorrow."
+  },
+  {
+   "s": "Am Schluss hat sie das Foto zurückgestellt.",
+   "e": "At the end she put the photograph back."
+  },
+  {
+   "s": "Genau an den gleichen Platz.",
+   "e": "In exactly the same place."
+  },
+  {
+   "s": "Sie hat gesagt: So. Jetzt kennst du ihn auch.",
+   "e": "She said: there. Now you know him too."
+  },
+  {
+   "s": "Das war der ganze Grund für die Stunde.",
+   "e": "That was the whole reason for the hour."
+  }
+ ]
+}

@@ -1,0 +1,347 @@
+{
+ "id": "p2-10",
+ "title": "Wir sollten mal",
+ "desc": "An invitation that may not be one",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Kalender",
+  "mal",
+  "Datum",
+  "Woche"
+ ],
+ "sn": [
+  {
+   "s": "Ein Mann aus dem Büro hat gesagt: Wir sollten mal einen Kaffee trinken.",
+   "e": "A man from the office said: we should have a coffee some time."
+  },
+  {
+   "s": "Ich habe drei Wochen gewartet.",
+   "e": "I waited three weeks."
+  },
+  {
+   "s": "Es ist nie eine Nachricht gekommen.",
+   "e": "No message ever came."
+  },
+  {
+   "s": "Ich war zuerst böse.",
+   "e": "At first I was annoyed."
+  },
+  {
+   "s": "Dann habe ich gelernt: Das war keine Einladung.",
+   "e": "Then I learned: that was not an invitation."
+  },
+  {
+   "s": "Das kleine Wort mal ist das ganze Zeichen.",
+   "e": "The little word mal is the whole signal."
+  },
+  {
+   "s": "Mal macht alles weicher.",
+   "e": "Mal makes everything softer."
+  },
+  {
+   "s": "Wir sollten mal essen gehen.",
+   "e": "We should go and eat some time."
+  },
+  {
+   "s": "Schau mal.",
+   "e": "Have a look."
+  },
+  {
+   "s": "Komm mal vorbei.",
+   "e": "Drop by some time."
+  },
+  {
+   "s": "Mal heisst: irgendwann und ohne Datum.",
+   "e": "Mal means: some time and with no date."
+  },
+  {
+   "s": "Ein Satz mit mal ist freundlich.",
+   "e": "A sentence with mal is friendly."
+  },
+  {
+   "s": "Ein Satz mit mal ist keine Abmachung.",
+   "e": "A sentence with mal is not an arrangement."
+  },
+  {
+   "s": "Das ist keine Lüge.",
+   "e": "That is not a lie."
+  },
+  {
+   "s": "Der Mann meint es freundlich.",
+   "e": "The man means it in a friendly way."
+  },
+  {
+   "s": "Er sagt: Ich mag dich.",
+   "e": "He is saying: I like you."
+  },
+  {
+   "s": "Er sagt nicht: Am Donnerstag um sieben.",
+   "e": "He is not saying: Thursday at seven."
+  },
+  {
+   "s": "Beides sind gute Sätze.",
+   "e": "Both are good sentences."
+  },
+  {
+   "s": "Sie sind einfach nicht das Gleiche.",
+   "e": "They are simply not the same."
+  },
+  {
+   "s": "Ich habe das falsch verstanden.",
+   "e": "I got that wrong."
+  },
+  {
+   "s": "Ich habe gewartet wie auf einen Zug.",
+   "e": "I waited like for a train."
+  },
+  {
+   "s": "Und es war kein Zug am Fahrplan.",
+   "e": "And there was no train on the timetable."
+  },
+  {
+   "s": "Eine echte Einladung hat ein Datum.",
+   "e": "A real invitation has a date."
+  },
+  {
+   "s": "Sie hat einen Tag und eine Uhrzeit.",
+   "e": "It has a day and a time."
+  },
+  {
+   "s": "Manchmal hat sie sogar einen Ort.",
+   "e": "Sometimes it even has a place."
+  },
+  {
+   "s": "Donnerstag, halb acht, bei mir.",
+   "e": "Thursday, half past seven, at my place."
+  },
+  {
+   "s": "Das ist eine Abmachung.",
+   "e": "That is an arrangement."
+  },
+  {
+   "s": "Eine Abmachung gilt.",
+   "e": "An arrangement holds."
+  },
+  {
+   "s": "Sie gilt fest und lange.",
+   "e": "It holds firmly and for a long time."
+  },
+  {
+   "s": "Die Leute hier machen alles im Kalender ab.",
+   "e": "People here arrange everything in the calendar."
+  },
+  {
+   "s": "Der Kalender ist voll bis in drei Wochen.",
+   "e": "The calendar is full three weeks ahead."
+  },
+  {
+   "s": "Man fragt: Hast du am zwölften Zeit?",
+   "e": "You ask: are you free on the twelfth?"
+  },
+  {
+   "s": "Am zwölften. Nicht: nächste Woche.",
+   "e": "On the twelfth. Not: next week."
+  },
+  {
+   "s": "Timo hat mir das erklärt.",
+   "e": "Timo explained that to me."
+  },
+  {
+   "s": "Er hat gesagt: Bei uns fragt man drei Wochen vorher.",
+   "e": "He said: here you ask three weeks ahead."
+  },
+  {
+   "s": "Ich habe gesagt: Und heute Abend?",
+   "e": "I said: and this evening?"
+  },
+  {
+   "s": "Er hat gelacht.",
+   "e": "He laughed."
+  },
+  {
+   "s": "Er hat gesagt: Heute Abend geht bei niemandem.",
+   "e": "He said: this evening works for nobody."
+  },
+  {
+   "s": "Das ist zuerst schrecklich.",
+   "e": "That is awful at first."
+  },
+  {
+   "s": "Zu Hause fragt man am Nachmittag für den Abend.",
+   "e": "At home you ask in the afternoon for the evening."
+  },
+  {
+   "s": "Hier ist der Abend schon lange abgemacht.",
+   "e": "Here the evening was arranged long ago."
+  },
+  {
+   "s": "Aber es hat auch eine gute Seite.",
+   "e": "But it has a good side too."
+  },
+  {
+   "s": "Eine Abmachung in drei Wochen ist sicher.",
+   "e": "An arrangement in three weeks is certain."
+  },
+  {
+   "s": "Sie fällt nicht am Morgen weg.",
+   "e": "It does not fall through in the morning."
+  },
+  {
+   "s": "Niemand sagt kurz vorher ab.",
+   "e": "Nobody cancels shortly before."
+  },
+  {
+   "s": "Absagen ist hier eine grosse Sache.",
+   "e": "Cancelling is a big thing here."
+  },
+  {
+   "s": "Man sagt nur bei Krankheit ab.",
+   "e": "You only cancel for illness."
+  },
+  {
+   "s": "Und dann sagt man früh ab und mit einem Grund.",
+   "e": "And then you cancel early and with a reason."
+  },
+  {
+   "s": "Also: mal ist nett und ein Datum ist echt.",
+   "e": "So: mal is nice and a date is real."
+  },
+  {
+   "s": "Ich habe angefangen, selber Daten zu sagen.",
+   "e": "I have started saying dates myself."
+  },
+  {
+   "s": "Ich sage nicht mehr: Wir sollten mal.",
+   "e": "I do not say any more: we should some time."
+  },
+  {
+   "s": "Ich sage: Hast du am Freitag Zeit?",
+   "e": "I say: are you free on Friday?"
+  },
+  {
+   "s": "Das ist mehr Mut und es funktioniert.",
+   "e": "That takes more nerve and it works."
+  },
+  {
+   "s": "Beim ersten Mal habe ich es fast nicht gesagt.",
+   "e": "The first time I almost did not say it."
+  },
+  {
+   "s": "Der Mann hat seinen Kalender geholt.",
+   "e": "The man got out his calendar."
+  },
+  {
+   "s": "Er hat wirklich einen Kalender aus der Tasche geholt.",
+   "e": "He really took a calendar out of his bag."
+  },
+  {
+   "s": "Er hat gesagt: Freitag geht nicht. Der Dienstag danach?",
+   "e": "He said: Friday does not work. The Tuesday after?"
+  },
+  {
+   "s": "Wir haben es abgemacht.",
+   "e": "We arranged it."
+  },
+  {
+   "s": "Er hat den Kalender nicht auf dem Handy.",
+   "e": "He does not have the calendar on his phone."
+  },
+  {
+   "s": "Er hat ihn auf Papier, klein und schwarz.",
+   "e": "He has it on paper, small and black."
+  },
+  {
+   "s": "Wir sitzen auf einer Bank vor der Post.",
+   "e": "We sit on a bench outside the post office."
+  },
+  {
+   "s": "Er schreibt den Dienstag hinein.",
+   "e": "He writes the Tuesday in."
+  },
+  {
+   "s": "Er ist am Dienstag gekommen.",
+   "e": "He came on the Tuesday."
+  },
+  {
+   "s": "Er war fünf Minuten zu früh da.",
+   "e": "He was there five minutes early."
+  },
+  {
+   "s": "Wir haben zwei Stunden geredet.",
+   "e": "We talked for two hours."
+  },
+  {
+   "s": "Er hat mir von seinem Vater erzählt.",
+   "e": "He told me about his father."
+  },
+  {
+   "s": "Der Vater ist letztes Jahr gestorben.",
+   "e": "His father died last year."
+  },
+  {
+   "s": "Er hat es einfach so gesagt.",
+   "e": "He said it just like that."
+  },
+  {
+   "s": "Nach drei Wochen Warten und einem Datum.",
+   "e": "After three weeks of waiting and one date."
+  },
+  {
+   "s": "Das war mehr als jeder Kaffee mal.",
+   "e": "That was more than any coffee some time."
+  },
+  {
+   "s": "Nuno sagt: Die Leute hier sind langsam und dann bleiben sie.",
+   "e": "Nuno says: people here are slow and then they stay."
+  },
+  {
+   "s": "Er sagt: Zu Hause ist es umgekehrt.",
+   "e": "He says: at home it is the other way round."
+  },
+  {
+   "s": "Er sagt: Schnell Freund und schnell weg.",
+   "e": "He says: quick friend and quickly gone."
+  },
+  {
+   "s": "Ich weiss noch nicht: was ist besser?",
+   "e": "I do not know yet: which is better?"
+  },
+  {
+   "s": "Ich weiss nur: Ich habe drei Wochen umsonst gewartet.",
+   "e": "I only know: I waited three weeks for nothing."
+  },
+  {
+   "s": "Und ich habe an einem Dienstag zwei Stunden bekommen.",
+   "e": "And I got two hours on a Tuesday."
+  },
+  {
+   "s": "Frau Amrein sagt es kürzer.",
+   "e": "Frau Amrein says it more briefly."
+  },
+  {
+   "s": "Rosmarie sagt es kürzer.",
+   "e": "Rosmarie says it more briefly."
+  },
+  {
+   "s": "Sie sagt: Mal ist nur ein Wort.",
+   "e": "She says: mal is only a word."
+  },
+  {
+   "s": "Sie sagt: Ein Datum ist ein Versprechen.",
+   "e": "She says: a date is a promise."
+  },
+  {
+   "s": "Sie macht nie etwas mal.",
+   "e": "She never does anything some time."
+  },
+  {
+   "s": "Sie sagt: Am Sonntag um vier gibt es Kuchen.",
+   "e": "She says: on Sunday at four there is cake."
+  },
+  {
+   "s": "Und am Sonntag um vier gibt es Kuchen.",
+   "e": "And on Sunday at four there is cake."
+  }
+ ]
+}

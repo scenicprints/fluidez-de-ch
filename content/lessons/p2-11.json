@@ -1,0 +1,306 @@
+{
+ "id": "p2-11",
+ "title": "Ja, gern",
+ "desc": "Saying yes properly",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Lust",
+  "gern",
+  "ja"
+ ],
+ "sn": [
+  {
+   "s": "Man sagt hier nicht laut Ja.",
+   "e": "People do not say yes loudly here."
+  },
+  {
+   "s": "Man sagt: Ja, gern.",
+   "e": "They say: yes, gladly."
+  },
+  {
+   "s": "Zwei Wörter und das ist die volle Freude.",
+   "e": "Two words and that is the full joy."
+  },
+  {
+   "s": "Gern ist das wichtigste Wort dabei.",
+   "e": "Gern is the most important word in it."
+  },
+  {
+   "s": "Gern heisst: ich mache es gerne.",
+   "e": "Gern means: I do it gladly."
+  },
+  {
+   "s": "Ja, gern. Sehr gern. Gern, danke.",
+   "e": "Yes, gladly. Very gladly. Gladly, thank you."
+  },
+  {
+   "s": "Mehr gibt es nicht.",
+   "e": "There is nothing more."
+  },
+  {
+   "s": "Zu Hause sage ich: Das ist grossartig!",
+   "e": "At home I say: that is fantastic!"
+  },
+  {
+   "s": "Hier tönt das komisch.",
+   "e": "Here that sounds odd."
+  },
+  {
+   "s": "Es tönt nicht falsch. Es tönt zu gross.",
+   "e": "It does not sound wrong. It sounds too big."
+  },
+  {
+   "s": "Die Leute sagen wenig und meinen viel.",
+   "e": "People say little and mean a lot."
+  },
+  {
+   "s": "Ein gern ist so viel wie ein grossartig.",
+   "e": "A gern is worth as much as a fantastic."
+  },
+  {
+   "s": "Man muss es nur anders rechnen.",
+   "e": "You just have to count it differently."
+  },
+  {
+   "s": "Am Anfang habe ich zu gross geantwortet.",
+   "e": "At the start I answered too big."
+  },
+  {
+   "s": "Marco hat gefragt: Kommst du am Apéro?",
+   "e": "Marco asked: are you coming to the apéro?"
+  },
+  {
+   "s": "Ich habe gesagt: Oh, das ist wunderbar, sehr sehr gern!",
+   "e": "I said: oh, that is wonderful, very very gladly!"
+  },
+  {
+   "s": "Er hat kurz nichts gesagt.",
+   "e": "He said nothing for a moment."
+  },
+  {
+   "s": "Er hat dann gesagt: Gut. Halb sechs.",
+   "e": "Then he said: good. Half past five."
+  },
+  {
+   "s": "Ich habe zu viel gegeben und er hat es nicht genommen.",
+   "e": "I gave too much and he did not take it."
+  },
+  {
+   "s": "Ein Ja hat hier vier Formen.",
+   "e": "A yes has four forms here."
+  },
+  {
+   "s": "Ja, gern. Das ist ein volles Ja.",
+   "e": "Ja, gern. That is a full yes."
+  },
+  {
+   "s": "Klar. Das ist ein leichtes Ja.",
+   "e": "Klar. That is an easy yes."
+  },
+  {
+   "s": "Doch, gern. Das ist ein Ja nach einem Nein.",
+   "e": "Doch, gern. That is a yes after a no."
+  },
+  {
+   "s": "Ja, wieso nicht. Das ist ein halbes Ja.",
+   "e": "Ja, wieso nicht. That is a half yes."
+  },
+  {
+   "s": "Ein halbes Ja ist auch ein Ja.",
+   "e": "A half yes is a yes too."
+  },
+  {
+   "s": "Es ist nur nicht sehr warm.",
+   "e": "It is simply not very warm."
+  },
+  {
+   "s": "Für ein Nein gibt es auch eine Form.",
+   "e": "There is a form for no as well."
+  },
+  {
+   "s": "Man sagt: Das geht leider nicht.",
+   "e": "You say: unfortunately that does not work."
+  },
+  {
+   "s": "Leider ist das Wort dafür.",
+   "e": "Leider is the word for it."
+  },
+  {
+   "s": "Leider macht ein Nein weich.",
+   "e": "Leider makes a no soft."
+  },
+  {
+   "s": "Man gibt einen Grund und der Grund ist kurz.",
+   "e": "You give a reason and the reason is short."
+  },
+  {
+   "s": "Ich habe schon etwas abgemacht.",
+   "e": "I have already arranged something."
+  },
+  {
+   "s": "Ich habe leider schon etwas abgemacht.",
+   "e": "Unfortunately I have already arranged something."
+  },
+  {
+   "s": "Niemand fragt: Und was denn?",
+   "e": "Nobody asks: and what exactly?"
+  },
+  {
+   "s": "Der Grund gehört dir allein.",
+   "e": "The reason belongs to you alone."
+  },
+  {
+   "s": "Ich habe Lust auf ein Bier.",
+   "e": "I fancy a beer."
+  },
+  {
+   "s": "Lust ist ein sehr gutes Wort.",
+   "e": "Lust is a very good word."
+  },
+  {
+   "s": "Hast du Lust?",
+   "e": "Do you fancy it?"
+  },
+  {
+   "s": "Ich habe keine Lust.",
+   "e": "I do not feel like it."
+  },
+  {
+   "s": "Ich habe grosse Lust auf einen Kaffee.",
+   "e": "I really fancy a coffee."
+  },
+  {
+   "s": "Keine Lust ist eine ehrliche Antwort.",
+   "e": "Keine Lust is an honest answer."
+  },
+  {
+   "s": "Man darf keine Lust haben.",
+   "e": "You are allowed to not feel like it."
+  },
+  {
+   "s": "Niemand ist beleidigt.",
+   "e": "Nobody takes offence."
+  },
+  {
+   "s": "Timo sagt oft: Ich habe keine Lust.",
+   "e": "Timo often says: I do not feel like it."
+  },
+  {
+   "s": "Er sagt es ohne Entschuldigung.",
+   "e": "He says it without an apology."
+  },
+  {
+   "s": "Und beim nächsten Mal sagt er wieder Ja.",
+   "e": "And the next time he says yes again."
+  },
+  {
+   "s": "Das ist ehrlicher als immer Ja und dann absagen.",
+   "e": "That is more honest than always yes and then cancelling."
+  },
+  {
+   "s": "Ein Ja heisst: man kommt.",
+   "e": "A yes means: you come."
+  },
+  {
+   "s": "Ein Ja ist hier fast ein Vertrag.",
+   "e": "A yes here is almost a contract."
+  },
+  {
+   "s": "Ich bin einverstanden ist noch stärker.",
+   "e": "Ich bin einverstanden is stronger still."
+  },
+  {
+   "s": "Einverstanden heisst: wir sind gleicher Meinung.",
+   "e": "Einverstanden means: we are of the same view."
+  },
+  {
+   "s": "Man sagt es bei einem Plan.",
+   "e": "You say it about a plan."
+  },
+  {
+   "s": "Timo hat gesagt: Wir gehen um acht.",
+   "e": "Timo said: we will go at eight."
+  },
+  {
+   "s": "Ich habe gesagt: Einverstanden.",
+   "e": "I said: agreed."
+  },
+  {
+   "s": "Das ist erledigt und niemand redet mehr davon.",
+   "e": "That is settled and nobody talks about it any more."
+  },
+  {
+   "s": "Einmal habe ich Ja gesagt und nichts verstanden.",
+   "e": "Once I said yes and understood nothing."
+  },
+  {
+   "s": "Marco hat schnell etwas gefragt.",
+   "e": "Marco asked something quickly."
+  },
+  {
+   "s": "Ich habe nur Samstag und Auto gehört.",
+   "e": "I only heard Saturday and car."
+  },
+  {
+   "s": "Ich habe gesagt: Ja, gern.",
+   "e": "I said: yes, gladly."
+  },
+  {
+   "s": "Am Samstag ist er um acht gekommen.",
+   "e": "On Saturday he came at eight."
+  },
+  {
+   "s": "Wir sind zwei Stunden gefahren.",
+   "e": "We drove for two hours."
+  },
+  {
+   "s": "Wir haben seinen Bruder in Chur besucht.",
+   "e": "We visited his brother in Chur."
+  },
+  {
+   "s": "Ich habe den ganzen Tag nicht gewusst, warum.",
+   "e": "I did not know why the whole day."
+  },
+  {
+   "s": "Es war ein sehr guter Tag.",
+   "e": "It was a very good day."
+  },
+  {
+   "s": "Sein Bruder hat einen Hund und einen Garten.",
+   "e": "His brother has a dog and a garden."
+  },
+  {
+   "s": "Wir haben draussen gegessen.",
+   "e": "We ate outside."
+  },
+  {
+   "s": "Auf dem Weg zurück habe ich gefragt: Warum Chur?",
+   "e": "On the way back I asked: why Chur?"
+  },
+  {
+   "s": "Marco hat gesagt: Du hast Ja gesagt.",
+   "e": "Marco said: you said yes."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe gefragt und du hast Ja gesagt.",
+   "e": "He said: I asked and you said yes."
+  },
+  {
+   "s": "Wir haben beide gelacht.",
+   "e": "We both laughed."
+  },
+  {
+   "s": "Ich habe gelernt: Ein Ja ohne Verstehen geht auch.",
+   "e": "I learned: a yes without understanding works too."
+  },
+  {
+   "s": "Meistens geht es gut.",
+   "e": "Usually it goes well."
+  },
+  {
+   "s": "Man muss nur bereit sein für Chur.",
+   "e": "You just have to be ready for Chur."
+  }
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "id": "p2-08",
+ "title": "Der Apéro",
+ "desc": "Drinks that are not dinner and not nothing",
+ "ph": 2,
+ "diff": 3,
+ "wu": [
+  "Apéro",
+  "anstossen",
+  "Wein",
+  "essen"
+ ],
+ "sn": [
+  {
+   "s": "Marco hat mich zu einem Apéro eingeladen.",
+   "e": "Marco invited me to an apéro."
+  },
+  {
+   "s": "Ich habe das Wort zuerst nicht gekannt.",
+   "e": "At first I did not know the word."
+  },
+  {
+   "s": "Ein Apéro ist kein Abendessen.",
+   "e": "An apéro is not dinner."
+  },
+  {
+   "s": "Ein Apéro ist auch nicht nichts.",
+   "e": "An apéro is not nothing either."
+  },
+  {
+   "s": "Ein Apéro ist eine Stunde mit einem Glas in der Hand.",
+   "e": "An apéro is an hour with a glass in your hand."
+  },
+  {
+   "s": "Man steht. Man sitzt nicht.",
+   "e": "You stand. You do not sit."
+  },
+  {
+   "s": "Es gibt Wein und Wasser und etwas Kleines zum Essen.",
+   "e": "There is wine and water and something small to eat."
+  },
+  {
+   "s": "Der Apéro ist um halb sechs.",
+   "e": "The apéro is at half past five."
+  },
+  {
+   "s": "Er ist um sieben fertig.",
+   "e": "It is over at seven."
+  },
+  {
+   "s": "Wirklich um sieben.",
+   "e": "Really at seven."
+  },
+  {
+   "s": "Das habe ich nicht geglaubt.",
+   "e": "I did not believe that."
+  },
+  {
+   "s": "Ich bin hungrig hingegangen.",
+   "e": "I went hungry."
+  },
+  {
+   "s": "Das war der Fehler.",
+   "e": "That was the mistake."
+  },
+  {
+   "s": "Beim Apéro gibt es Nüsse und Oliven.",
+   "e": "At an apéro there are nuts and olives."
+  },
+  {
+   "s": "Es gibt kleine Stücke Käse.",
+   "e": "There are small pieces of cheese."
+  },
+  {
+   "s": "Es gibt Brot und ein bisschen Wurst.",
+   "e": "There is bread and a little sausage."
+  },
+  {
+   "s": "Man isst drei Oliven und vier Nüsse.",
+   "e": "You eat three olives and four nuts."
+  },
+  {
+   "s": "Man isst nicht den halben Teller.",
+   "e": "You do not eat half the plate."
+  },
+  {
+   "s": "Ich habe den halben Teller gegessen.",
+   "e": "I ate half the plate."
+  },
+  {
+   "s": "Niemand hat etwas gesagt.",
+   "e": "Nobody said anything."
+  },
+  {
+   "s": "Alle haben es gesehen.",
+   "e": "Everybody saw it."
+  },
+  {
+   "s": "Marco hat mir später gesagt: Iss vorher etwas.",
+   "e": "Marco told me afterwards: eat something first."
+  },
+  {
+   "s": "Er hat es freundlich gesagt.",
+   "e": "He said it kindly."
+  },
+  {
+   "s": "Beim Apéro fragt man: Möchtest du ein Glas Wein?",
+   "e": "At an apéro they ask: would you like a glass of wine?"
+  },
+  {
+   "s": "Man sagt: Ja, gern. Oder: Nein, danke.",
+   "e": "You say: yes, please. Or: no, thank you."
+  },
+  {
+   "s": "Beides ist in Ordnung.",
+   "e": "Both are fine."
+  },
+  {
+   "s": "Man muss nicht trinken.",
+   "e": "You do not have to drink."
+  },
+  {
+   "s": "Ein Wasser ist auch ein Glas.",
+   "e": "A water is a glass too."
+  },
+  {
+   "s": "Niemand fragt zweimal.",
+   "e": "Nobody asks twice."
+  },
+  {
+   "s": "Ich sage: Ich nehme einen Weisswein.",
+   "e": "I say: I will take a white wine."
+  },
+  {
+   "s": "Weisswein ist der normale Apérowein.",
+   "e": "White wine is the normal apéro wine."
+  },
+  {
+   "s": "Es gibt auch Weisswein aus dem Wallis.",
+   "e": "There is white wine from Valais too."
+  },
+  {
+   "s": "Ich habe nicht gewusst: Die Schweiz macht Wein.",
+   "e": "I did not know: Switzerland makes wine."
+  },
+  {
+   "s": "Sie macht viel Wein und trinkt ihn selber.",
+   "e": "It makes a lot of wine and drinks it itself."
+  },
+  {
+   "s": "Marco sagt: Der geht fast nie über die Grenze.",
+   "e": "Marco says: it almost never leaves the country."
+  },
+  {
+   "s": "Alle nehmen ihr Glas.",
+   "e": "Everybody takes their glass."
+  },
+  {
+   "s": "Dann kommt der wichtigste Moment.",
+   "e": "Then comes the most important moment."
+  },
+  {
+   "s": "Man stösst an.",
+   "e": "You clink glasses."
+  },
+  {
+   "s": "Anstossen heisst: Glas an Glas.",
+   "e": "Anstossen means: glass against glass."
+  },
+  {
+   "s": "Man stösst mit jedem einzeln an.",
+   "e": "You clink with each person separately."
+  },
+  {
+   "s": "Mit jedem. Nicht alle zusammen in der Mitte.",
+   "e": "With each one. Not all together in the middle."
+  },
+  {
+   "s": "Man schaut dem anderen in die Augen.",
+   "e": "You look the other person in the eye."
+  },
+  {
+   "s": "In die Augen. Nicht auf das Glas.",
+   "e": "In the eye. Not at the glass."
+  },
+  {
+   "s": "Und man sagt den Namen.",
+   "e": "And you say the name."
+  },
+  {
+   "s": "Zum Wohl, Marco.",
+   "e": "Cheers, Marco."
+  },
+  {
+   "s": "Zum Wohl, Petra.",
+   "e": "Cheers, Petra."
+  },
+  {
+   "s": "Bei acht Leuten stösst man achtmal an.",
+   "e": "With eight people you clink eight times."
+  },
+  {
+   "s": "Das dauert und das ist der Sinn.",
+   "e": "That takes time and that is the point."
+  },
+  {
+   "s": "Ich habe beim ersten Mal nur genickt.",
+   "e": "The first time I only nodded."
+  },
+  {
+   "s": "Petra hat ihr Glas stehen gelassen und gewartet.",
+   "e": "Petra left her glass where it was and waited."
+  },
+  {
+   "s": "Sie hat einfach gewartet und mich angeschaut.",
+   "e": "She simply waited and looked at me."
+  },
+  {
+   "s": "Sie hat nichts gesagt.",
+   "e": "She said nothing."
+  },
+  {
+   "s": "Sie hat einfach gewartet.",
+   "e": "She simply waited."
+  },
+  {
+   "s": "Ich habe den Namen gesagt und in die Augen geschaut.",
+   "e": "I said the name and looked her in the eye."
+  },
+  {
+   "s": "Dann hat sie getrunken.",
+   "e": "Then she drank."
+  },
+  {
+   "s": "Man trinkt nicht vor dem Anstossen.",
+   "e": "You do not drink before the clinking."
+  },
+  {
+   "s": "Das ist keine kleine Regel hier.",
+   "e": "That is not a small rule here."
+  },
+  {
+   "s": "Beim Apéro redet man mit allen ein bisschen.",
+   "e": "At an apéro you talk to everybody a bit."
+  },
+  {
+   "s": "Man steht nicht eine Stunde bei einer Person.",
+   "e": "You do not stand with one person for an hour."
+  },
+  {
+   "s": "Man redet zehn Minuten und geht weiter.",
+   "e": "You talk for ten minutes and move on."
+  },
+  {
+   "s": "Das ist nicht unhöflich.",
+   "e": "That is not rude."
+  },
+  {
+   "s": "Das ist die ganze Idee.",
+   "e": "That is the whole idea."
+  },
+  {
+   "s": "Ich habe mit sechs Leuten geredet.",
+   "e": "I talked to six people."
+  },
+  {
+   "s": "Zwei davon arbeiten im gleichen Haus wie ich.",
+   "e": "Two of them work in the same building as I do."
+  },
+  {
+   "s": "Ich habe sie vorher nie gesehen.",
+   "e": "I had never seen them before."
+  },
+  {
+   "s": "Um Viertel vor sieben schaut Marco auf die Uhr.",
+   "e": "At quarter to seven Marco looks at his watch."
+  },
+  {
+   "s": "Um sieben stellen alle das Glas hin.",
+   "e": "At seven everybody puts their glass down."
+  },
+  {
+   "s": "Alle gleichzeitig, ohne ein Zeichen.",
+   "e": "Everybody at the same time, with no signal."
+  },
+  {
+   "s": "Es gibt kein Zeichen und alle wissen es.",
+   "e": "There is no signal and everybody knows."
+  },
+  {
+   "s": "Alle sagen Ade und gehen.",
+   "e": "Everybody says Ade and goes."
+  },
+  {
+   "s": "Um zehn nach sieben ist der Raum leer.",
+   "e": "At ten past seven the room is empty."
+  },
+  {
+   "s": "Zu Hause dauert so etwas bis Mitternacht.",
+   "e": "At home something like that goes on until midnight."
+  },
+  {
+   "s": "Hier hat es neunzig Minuten gedauert.",
+   "e": "Here it lasted ninety minutes."
+  },
+  {
+   "s": "Und es war voll und laut und gut.",
+   "e": "And it was full and loud and good."
+  },
+  {
+   "s": "Ein Apéro hat einen Anfang und ein Ende.",
+   "e": "An apéro has a beginning and an end."
+  },
+  {
+   "s": "Das ist der Unterschied zu einem Fest.",
+   "e": "That is the difference from a party."
+  },
+  {
+   "s": "Ich bin um halb acht zu Hause.",
+   "e": "I am home at half past seven."
+  },
+  {
+   "s": "Ich habe Hunger.",
+   "e": "I am hungry."
+  },
+  {
+   "s": "Ich koche mir Teigwaren.",
+   "e": "I cook myself pasta."
+  },
+  {
+   "s": "Draussen ist das Wetter kalt und nass.",
+   "e": "Outside the weather is cold and wet."
+  },
+  {
+   "s": "Ich habe keine Jacke getragen.",
+   "e": "I was not wearing a jacket."
+  },
+  {
+   "s": "Beim Apéro bestellt man nichts.",
+   "e": "At an apéro you do not order anything."
+  },
+  {
+   "s": "Es gibt keine Karte und keine Rechnung.",
+   "e": "There is no menu and no bill."
+  },
+  {
+   "s": "Die Firma zahlt oder einer von den Leuten.",
+   "e": "The firm pays, or one of the people does."
+  },
+  {
+   "s": "Nächstes Mal esse ich vorher.",
+   "e": "Next time I will eat first."
+  },
+  {
+   "s": "Marco hat mir am nächsten Tag geschrieben.",
+   "e": "Marco wrote to me the next day."
+  },
+  {
+   "s": "Er hat geschrieben: Du warst gut.",
+   "e": "He wrote: you did fine."
+  },
+  {
+   "s": "Er hat geschrieben: Nur beim Anstossen musst du üben.",
+   "e": "He wrote: you only have to practise the clinking."
+  },
+  {
+   "s": "Ich habe es zu Hause vor dem Spiegel geübt.",
+   "e": "I practised it at home in front of the mirror."
+  },
+  {
+   "s": "Das ist lächerlich und ich habe es trotzdem gemacht.",
+   "e": "That is ridiculous and I did it anyway."
+  }
+ ]
+}

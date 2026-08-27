@@ -1,616 +1,773 @@
 {
-  "_comment": "What Blüemli is allowed to say, and when she has earned the right to say it. Each line is gated on words the learner has actually met - same trigger/min shape as patterns - so she never says something you would not understand, and she grows more idiomatic as you do. Every 'when' needs at least one ungated line or a brand new learner meets a silent cow. Keep lines SHORT: the speech bubble does not wrap. The pack key is still `momo` because that is what the app reads; the creature is not.",
-  "_voice": "She is Swiss and she is a cow, and both show. Understated rather than chirpy - Momo shouts, Blüemli says 'nicht schlecht' and means it as high praise. She keeps cow's time: nothing is urgent, the weather is always worth a word, and the bell is hers.",
-  "lines": [
-    {
-      "id": "w-gruezi",
-      "when": "welcome",
-      "state": "happy",
-      "say": "Grüezi!",
-      "en": "Hello!"
-    },
-    {
-      "id": "w-gruezi-mit",
-      "when": "welcome",
-      "state": "happy",
-      "say": "Grüezi mitenand",
-      "en": "Hello, all of you",
-      "trigger": [
-        "Grüezi"
-      ],
-      "min": 1
-    },
-    {
-      "id": "w-wetter",
-      "when": "welcome",
-      "state": "happy",
-      "say": "Schönes Wetter",
-      "en": "Nice weather",
-      "trigger": [
-        "Wetter",
-        "schön"
-      ],
-      "min": 2
-    },
-    {
-      "id": "w-kaffee",
-      "when": "welcome",
-      "state": "happy",
-      "say": "Kaffee?",
-      "en": "Coffee?",
-      "trigger": [
-        "Kaffee"
-      ],
-      "min": 1
-    },
-    {
-      "id": "w-zeit",
-      "when": "welcome",
-      "state": "happy",
-      "say": "Wir haben Zeit",
-      "en": "We have time",
-      "trigger": [
-        "Zeit",
-        "haben"
-      ],
-      "min": 2
-    },
-    {
-      "id": "b-wieder",
-      "when": "back",
-      "state": "cheer",
-      "say": "Da bist du ja",
-      "en": "There you are"
-    },
-    {
-      "id": "b-lang",
-      "when": "back",
-      "state": "cheer",
-      "say": "Lang nicht gesehen",
-      "en": "Not seen you in a while",
-      "trigger": [
-        "lang",
-        "sehen"
-      ],
-      "min": 2
-    },
-    {
-      "id": "b-schoen",
-      "when": "back",
-      "state": "happy",
-      "say": "Schön, dich zu sehen",
-      "en": "Good to see you",
-      "trigger": [
-        "schön",
-        "sehen"
-      ],
-      "min": 2
-    },
-    {
-      "id": "b-regen",
-      "when": "back",
-      "state": "happy",
-      "say": "Es regnet wieder",
-      "en": "It is raining again",
-      "trigger": [
-        "regnen",
-        "wieder"
-      ],
-      "min": 2
-    },
-    {
-      "id": "b-gipfeli",
-      "when": "back",
-      "state": "happy",
-      "say": "Ein Gipfeli?",
-      "en": "A Gipfeli?",
-      "trigger": [
-        "Gipfeli"
-      ],
-      "min": 1
-    },
-    {
-      "id": "b-weiter",
-      "when": "back",
-      "state": "cheer",
-      "say": "Weiter geht's",
-      "en": "On we go",
-      "trigger": [
-        "weiter",
-        "gehen"
-      ],
-      "min": 2
-    },
-    {
-      "id": "b-berg",
-      "when": "back",
-      "state": "happy",
-      "say": "Der Berg wartet",
-      "en": "The mountain is waiting",
-      "trigger": [
-        "Berg",
-        "warten"
-      ],
-      "min": 2
-    },
-    {
-      "id": "p-muh",
-      "when": "poke",
-      "state": "happy",
-      "say": "Muh.",
-      "en": "Moo."
-    },
-    {
-      "id": "p-glocke",
-      "when": "poke",
-      "state": "cheer",
-      "say": "Das ist die Glocke",
-      "en": "That is the bell"
-    },
-    {
-      "id": "p-was",
-      "when": "poke",
-      "state": "happy",
-      "say": "Was ist?",
-      "en": "What is it?"
-    },
-    {
-      "id": "p-wiese",
-      "when": "poke",
-      "state": "happy",
-      "say": "Ich stehe auf der Wiese",
-      "en": "I am standing in the meadow",
-      "trigger": [
-        "Wiese",
-        "stehen"
-      ],
-      "min": 2
-    },
-    {
-      "id": "p-gras",
-      "when": "poke",
-      "state": "happy",
-      "say": "Ich fresse gerade",
-      "en": "I am eating just now",
-      "trigger": [
-        "fressen"
-      ],
-      "min": 1
-    },
-    {
-      "id": "p-kalt",
-      "when": "poke",
-      "state": "happy",
-      "say": "Kalt heute",
-      "en": "Cold today",
-      "trigger": [
-        "kalt",
-        "heute"
-      ],
-      "min": 2
-    },
-    {
-      "id": "p-see",
-      "when": "poke",
-      "state": "happy",
-      "say": "Schau auf den See",
-      "en": "Look at the lake",
-      "trigger": [
-        "See",
-        "schauen"
-      ],
-      "min": 2
-    },
-    {
-      "id": "p-zug",
-      "when": "poke",
-      "state": "happy",
-      "say": "Da fährt ein Zug",
-      "en": "There goes a train",
-      "trigger": [
-        "Zug",
-        "fahren"
-      ],
-      "min": 2
-    },
-    {
-      "id": "p-brunnen",
-      "when": "poke",
-      "state": "happy",
-      "say": "Trink am Brunnen",
-      "en": "Drink at the fountain",
-      "trigger": [
-        "Brunnen",
-        "trinken"
-      ],
-      "min": 2
-    },
-    {
-      "id": "p-sonntag",
-      "when": "poke",
-      "state": "happy",
-      "say": "Heute ist alles zu",
-      "en": "Everything is shut today",
-      "trigger": [
-        "Sonntag",
-        "zu"
-      ],
-      "min": 2
-    },
-    {
-      "id": "p-milch",
-      "when": "poke",
-      "state": "cheer",
-      "say": "Milch kommt von mir",
-      "en": "Milk comes from me",
-      "trigger": [
-        "Milch",
-        "kommen"
-      ],
-      "min": 2
-    },
-    {
-      "id": "g-gut",
-      "when": "great",
-      "state": "cheer",
-      "say": "Gut!",
-      "en": "Good!"
-    },
-    {
-      "id": "g-genau",
-      "when": "great",
-      "state": "cheer",
-      "say": "Genau!",
-      "en": "Exactly!",
-      "trigger": [
-        "genau"
-      ],
-      "min": 1
-    },
-    {
-      "id": "g-richtig",
-      "when": "great",
-      "state": "cheer",
-      "say": "Richtig!",
-      "en": "Right!",
-      "trigger": [
-        "richtig"
-      ],
-      "min": 1
-    },
-    {
-      "id": "g-nicht-schlecht",
-      "when": "great",
-      "state": "happy",
-      "say": "Nicht schlecht",
-      "en": "Not bad",
-      "trigger": [
-        "schlecht",
-        "nicht"
-      ],
-      "min": 2
-    },
-    {
-      "id": "o-fast",
-      "when": "ok",
-      "state": "happy",
-      "say": "Fast",
-      "en": "Almost"
-    },
-    {
-      "id": "o-schon-gut",
-      "when": "ok",
-      "state": "happy",
-      "say": "Schon gut",
-      "en": "That is all right",
-      "trigger": [
-        "schon",
-        "gut"
-      ],
-      "min": 2
-    },
-    {
-      "id": "o-geht",
-      "when": "ok",
-      "state": "happy",
-      "say": "Das geht",
-      "en": "That works",
-      "trigger": [
-        "gehen"
-      ],
-      "min": 1
-    },
-    {
-      "id": "o-nochmal",
-      "when": "ok",
-      "state": "speak",
-      "say": "Noch einmal",
-      "en": "Once more",
-      "trigger": [
-        "noch",
-        "einmal"
-      ],
-      "min": 2
-    },
-    {
-      "id": "o-langsam",
-      "when": "ok",
-      "state": "speak",
-      "say": "Langsam, langsam",
-      "en": "Slowly, slowly",
-      "trigger": [
-        "langsam"
-      ],
-      "min": 1
-    },
-    {
-      "id": "o-zeit",
-      "when": "ok",
-      "state": "happy",
-      "say": "Lass dir Zeit",
-      "en": "Take your time",
-      "trigger": [
-        "Zeit"
-      ],
-      "min": 1
-    },
-    {
-      "id": "x-nein",
-      "when": "poor",
-      "state": "wrong",
-      "say": "Nein",
-      "en": "No"
-    },
-    {
-      "id": "x-nicht",
-      "when": "poor",
-      "state": "wrong",
-      "say": "Nicht das",
-      "en": "Not that one",
-      "trigger": [
-        "nicht"
-      ],
-      "min": 1
-    },
-    {
-      "id": "x-schade",
-      "when": "poor",
-      "state": "wrong",
-      "say": "Schade",
-      "en": "Shame",
-      "trigger": [
-        "schade"
-      ],
-      "min": 1
-    },
-    {
-      "id": "x-falsch",
-      "when": "poor",
-      "state": "wrong",
-      "say": "Das ist falsch",
-      "en": "That is wrong",
-      "trigger": [
-        "falsch"
-      ],
-      "min": 1
-    },
-    {
-      "id": "x-morgen",
-      "when": "poor",
-      "state": "wrong",
-      "say": "Morgen wieder",
-      "en": "Again tomorrow",
-      "trigger": [
-        "morgen",
-        "wieder"
-      ],
-      "min": 2
-    },
-    {
-      "id": "x-schwer",
-      "when": "poor",
-      "state": "speak",
-      "say": "Das ist schwer",
-      "en": "That one is hard",
-      "trigger": [
-        "schwer"
-      ],
-      "min": 1
-    },
-    {
-      "id": "z-fertig",
-      "when": "goal",
-      "state": "cheer",
-      "say": "Fertig für heute",
-      "en": "Done for today"
-    },
-    {
-      "id": "z-gemacht",
-      "when": "goal",
-      "state": "cheer",
-      "say": "Das hast du gut gemacht",
-      "en": "You did that well",
-      "trigger": [
-        "gut",
-        "machen"
-      ],
-      "min": 2
-    },
-    {
-      "id": "z-punkt",
-      "when": "goal",
-      "state": "cheer",
-      "say": "Punkt. Fertig.",
-      "en": "Full stop. Done.",
-      "trigger": [
-        "Punkt",
-        "fertig"
-      ],
-      "min": 2
-    },
-    {
-      "id": "z-merci",
-      "when": "goal",
-      "state": "happy",
-      "say": "Merci vielmal",
-      "en": "Thanks very much",
-      "trigger": [
-        "merci",
-        "vielmal"
-      ],
-      "min": 2
-    },
-    {
-      "id": "z-feierabend",
-      "when": "goal",
-      "state": "happy",
-      "say": "Jetzt ist Ruhe",
-      "en": "Now there is quiet",
-      "trigger": [
-        "Ruhe",
-        "jetzt"
-      ],
-      "min": 2
-    },
-    {
-      "id": "m-neu",
-      "when": "pattern",
-      "state": "cheer",
-      "say": "Etwas Neues",
-      "en": "Something new"
-    },
-    {
-      "id": "m-verstehst",
-      "when": "pattern",
-      "state": "cheer",
-      "say": "Jetzt verstehst du",
-      "en": "Now you understand",
-      "trigger": [
-        "verstehen"
-      ],
-      "min": 1
-    },
-    {
-      "id": "m-wort",
-      "when": "pattern",
-      "state": "happy",
-      "say": "Ein Wort mehr",
-      "en": "One more word",
-      "trigger": [
-        "Wort",
-        "mehr"
-      ],
-      "min": 2
-    },
-    {
-      "id": "m-lernst",
-      "when": "pattern",
-      "state": "cheer",
-      "say": "Du lernst schnell",
-      "en": "You learn fast",
-      "trigger": [
-        "lernen",
-        "schnell"
-      ],
-      "min": 2
-    },
-    {
-      "id": "m-so",
-      "when": "pattern",
-      "state": "happy",
-      "say": "So macht man das",
-      "en": "That is how it is done",
-      "trigger": [
-        "machen",
-        "so"
-      ],
-      "min": 2
-    },
-    {
-      "id": "s-nacht",
-      "when": "sleep",
-      "state": "sleep",
-      "say": "Gute Nacht",
-      "en": "Good night"
-    },
-    {
-      "id": "s-muede",
-      "when": "sleep",
-      "state": "sleep",
-      "say": "Ich bin müde",
-      "en": "I am tired",
-      "trigger": [
-        "müde"
-      ],
-      "min": 1
-    },
-    {
-      "id": "s-schlafen",
-      "when": "sleep",
-      "state": "sleep",
-      "say": "Ich schlafe",
-      "en": "I am sleeping",
-      "trigger": [
-        "schlafen"
-      ],
-      "min": 1
-    },
-    {
-      "id": "s-still",
-      "when": "sleep",
-      "state": "sleep",
-      "say": "Nach zehn ist still",
-      "en": "After ten it is quiet",
-      "trigger": [
-        "still",
-        "zehn"
-      ],
-      "min": 2
-    },
-    {
-      "id": "s-ade",
-      "when": "sleep",
-      "state": "sleep",
-      "say": "Ade",
-      "en": "Goodbye",
-      "trigger": [
-        "Ade"
-      ],
-      "min": 1
-    },
-    {
-      "id": "w-hoi",
-      "when": "welcome",
-      "state": "cheer",
-      "say": "Hoi!",
-      "en": "Hi!",
-      "trigger": [
-        "Hoi"
-      ],
-      "min": 1
-    },
-    {
-      "id": "w-sali",
-      "when": "welcome",
-      "state": "cheer",
-      "say": "Sali!",
-      "en": "Hi there!",
-      "trigger": [
-        "Sali"
-      ],
-      "min": 1
-    },
-    {
-      "id": "g-tiptop",
-      "when": "great",
-      "state": "cheer",
-      "say": "Tiptop!",
-      "en": "Spot on!",
-      "trigger": [
-        "tiptop"
-      ],
-      "min": 1
-    }
-  ],
-  "_waiting": "fein is the last pinned Swiss word the course does not yet teach. Its line is written and waiting: Fein! for a good answer. Hoi, Sali and tiptop came back in phase 1, where the protagonist finally knows somebody well enough to be greeted that way."
+ "_comment": "What Blüemli is allowed to say, and when she has earned the right to say it. Each line is gated on words the learner has actually met - same trigger/min shape as patterns - so she never says something you would not understand, and she grows more idiomatic as you do. Every 'when' needs at least one ungated line or a brand new learner meets a silent cow. Keep lines SHORT: the speech bubble does not wrap. The pack key is still `momo` because that is what the app reads; the creature is not.",
+ "_voice": "She is Swiss and she is a cow, and both show. Understated rather than chirpy - Momo shouts, Blüemli says 'nicht schlecht' and means it as high praise. She keeps cow's time: nothing is urgent, the weather is always worth a word, and the bell is hers.",
+ "lines": [
+  {
+   "id": "w-gruezi",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Grüezi!",
+   "en": "Hello!"
+  },
+  {
+   "id": "w-gruezi-mit",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Grüezi mitenand",
+   "en": "Hello, all of you",
+   "trigger": [
+    "Grüezi"
+   ],
+   "min": 1
+  },
+  {
+   "id": "w-wetter",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Schönes Wetter",
+   "en": "Nice weather",
+   "trigger": [
+    "Wetter",
+    "schön"
+   ],
+   "min": 2
+  },
+  {
+   "id": "w-kaffee",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Kaffee?",
+   "en": "Coffee?",
+   "trigger": [
+    "Kaffee"
+   ],
+   "min": 1
+  },
+  {
+   "id": "w-zeit",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Wir haben Zeit",
+   "en": "We have time",
+   "trigger": [
+    "Zeit",
+    "haben"
+   ],
+   "min": 2
+  },
+  {
+   "id": "b-wieder",
+   "when": "back",
+   "state": "cheer",
+   "say": "Da bist du ja",
+   "en": "There you are"
+  },
+  {
+   "id": "b-lang",
+   "when": "back",
+   "state": "cheer",
+   "say": "Lang nicht gesehen",
+   "en": "Not seen you in a while",
+   "trigger": [
+    "lang",
+    "sehen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "b-schoen",
+   "when": "back",
+   "state": "happy",
+   "say": "Schön, dich zu sehen",
+   "en": "Good to see you",
+   "trigger": [
+    "schön",
+    "sehen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "b-regen",
+   "when": "back",
+   "state": "happy",
+   "say": "Es regnet wieder",
+   "en": "It is raining again",
+   "trigger": [
+    "regnen",
+    "wieder"
+   ],
+   "min": 2
+  },
+  {
+   "id": "b-gipfeli",
+   "when": "back",
+   "state": "happy",
+   "say": "Ein Gipfeli?",
+   "en": "A Gipfeli?",
+   "trigger": [
+    "Gipfeli"
+   ],
+   "min": 1
+  },
+  {
+   "id": "b-weiter",
+   "when": "back",
+   "state": "cheer",
+   "say": "Weiter geht's",
+   "en": "On we go",
+   "trigger": [
+    "weiter",
+    "gehen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "b-berg",
+   "when": "back",
+   "state": "happy",
+   "say": "Der Berg wartet",
+   "en": "The mountain is waiting",
+   "trigger": [
+    "Berg",
+    "warten"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-muh",
+   "when": "poke",
+   "state": "happy",
+   "say": "Muh.",
+   "en": "Moo."
+  },
+  {
+   "id": "p-glocke",
+   "when": "poke",
+   "state": "cheer",
+   "say": "Das ist die Glocke",
+   "en": "That is the bell"
+  },
+  {
+   "id": "p-was",
+   "when": "poke",
+   "state": "happy",
+   "say": "Was ist?",
+   "en": "What is it?"
+  },
+  {
+   "id": "p-wiese",
+   "when": "poke",
+   "state": "happy",
+   "say": "Ich stehe auf der Wiese",
+   "en": "I am standing in the meadow",
+   "trigger": [
+    "Wiese",
+    "stehen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-gras",
+   "when": "poke",
+   "state": "happy",
+   "say": "Ich fresse gerade",
+   "en": "I am eating just now",
+   "trigger": [
+    "fressen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "p-kalt",
+   "when": "poke",
+   "state": "happy",
+   "say": "Kalt heute",
+   "en": "Cold today",
+   "trigger": [
+    "kalt",
+    "heute"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-see",
+   "when": "poke",
+   "state": "happy",
+   "say": "Schau auf den See",
+   "en": "Look at the lake",
+   "trigger": [
+    "See",
+    "schauen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-zug",
+   "when": "poke",
+   "state": "happy",
+   "say": "Da fährt ein Zug",
+   "en": "There goes a train",
+   "trigger": [
+    "Zug",
+    "fahren"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-brunnen",
+   "when": "poke",
+   "state": "happy",
+   "say": "Trink am Brunnen",
+   "en": "Drink at the fountain",
+   "trigger": [
+    "Brunnen",
+    "trinken"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-sonntag",
+   "when": "poke",
+   "state": "happy",
+   "say": "Heute ist alles zu",
+   "en": "Everything is shut today",
+   "trigger": [
+    "Sonntag",
+    "zu"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-milch",
+   "when": "poke",
+   "state": "cheer",
+   "say": "Milch kommt von mir",
+   "en": "Milk comes from me",
+   "trigger": [
+    "Milch",
+    "kommen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "g-gut",
+   "when": "great",
+   "state": "cheer",
+   "say": "Gut!",
+   "en": "Good!"
+  },
+  {
+   "id": "g-genau",
+   "when": "great",
+   "state": "cheer",
+   "say": "Genau!",
+   "en": "Exactly!",
+   "trigger": [
+    "genau"
+   ],
+   "min": 1
+  },
+  {
+   "id": "g-richtig",
+   "when": "great",
+   "state": "cheer",
+   "say": "Richtig!",
+   "en": "Right!",
+   "trigger": [
+    "richtig"
+   ],
+   "min": 1
+  },
+  {
+   "id": "g-nicht-schlecht",
+   "when": "great",
+   "state": "happy",
+   "say": "Nicht schlecht",
+   "en": "Not bad",
+   "trigger": [
+    "schlecht",
+    "nicht"
+   ],
+   "min": 2
+  },
+  {
+   "id": "o-fast",
+   "when": "ok",
+   "state": "happy",
+   "say": "Fast",
+   "en": "Almost"
+  },
+  {
+   "id": "o-schon-gut",
+   "when": "ok",
+   "state": "happy",
+   "say": "Schon gut",
+   "en": "That is all right",
+   "trigger": [
+    "schon",
+    "gut"
+   ],
+   "min": 2
+  },
+  {
+   "id": "o-geht",
+   "when": "ok",
+   "state": "happy",
+   "say": "Das geht",
+   "en": "That works",
+   "trigger": [
+    "gehen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "o-nochmal",
+   "when": "ok",
+   "state": "speak",
+   "say": "Noch einmal",
+   "en": "Once more",
+   "trigger": [
+    "noch",
+    "einmal"
+   ],
+   "min": 2
+  },
+  {
+   "id": "o-langsam",
+   "when": "ok",
+   "state": "speak",
+   "say": "Langsam, langsam",
+   "en": "Slowly, slowly",
+   "trigger": [
+    "langsam"
+   ],
+   "min": 1
+  },
+  {
+   "id": "o-zeit",
+   "when": "ok",
+   "state": "happy",
+   "say": "Lass dir Zeit",
+   "en": "Take your time",
+   "trigger": [
+    "Zeit"
+   ],
+   "min": 1
+  },
+  {
+   "id": "x-nein",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Nein",
+   "en": "No"
+  },
+  {
+   "id": "x-nicht",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Nicht das",
+   "en": "Not that one",
+   "trigger": [
+    "nicht"
+   ],
+   "min": 1
+  },
+  {
+   "id": "x-schade",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Schade",
+   "en": "Shame",
+   "trigger": [
+    "schade"
+   ],
+   "min": 1
+  },
+  {
+   "id": "x-falsch",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Das ist falsch",
+   "en": "That is wrong",
+   "trigger": [
+    "falsch"
+   ],
+   "min": 1
+  },
+  {
+   "id": "x-morgen",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Morgen wieder",
+   "en": "Again tomorrow",
+   "trigger": [
+    "morgen",
+    "wieder"
+   ],
+   "min": 2
+  },
+  {
+   "id": "x-schwer",
+   "when": "poor",
+   "state": "speak",
+   "say": "Das ist schwer",
+   "en": "That one is hard",
+   "trigger": [
+    "schwer"
+   ],
+   "min": 1
+  },
+  {
+   "id": "z-fertig",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Fertig für heute",
+   "en": "Done for today"
+  },
+  {
+   "id": "z-gemacht",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Das hast du gut gemacht",
+   "en": "You did that well",
+   "trigger": [
+    "gut",
+    "machen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "z-punkt",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Punkt. Fertig.",
+   "en": "Full stop. Done.",
+   "trigger": [
+    "Punkt",
+    "fertig"
+   ],
+   "min": 2
+  },
+  {
+   "id": "z-merci",
+   "when": "goal",
+   "state": "happy",
+   "say": "Merci vielmal",
+   "en": "Thanks very much",
+   "trigger": [
+    "merci",
+    "vielmal"
+   ],
+   "min": 2
+  },
+  {
+   "id": "z-feierabend",
+   "when": "goal",
+   "state": "happy",
+   "say": "Jetzt ist Ruhe",
+   "en": "Now there is quiet",
+   "trigger": [
+    "Ruhe",
+    "jetzt"
+   ],
+   "min": 2
+  },
+  {
+   "id": "m-neu",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Etwas Neues",
+   "en": "Something new"
+  },
+  {
+   "id": "m-verstehst",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Jetzt verstehst du",
+   "en": "Now you understand",
+   "trigger": [
+    "verstehen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "m-wort",
+   "when": "pattern",
+   "state": "happy",
+   "say": "Ein Wort mehr",
+   "en": "One more word",
+   "trigger": [
+    "Wort",
+    "mehr"
+   ],
+   "min": 2
+  },
+  {
+   "id": "m-lernst",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Du lernst schnell",
+   "en": "You learn fast",
+   "trigger": [
+    "lernen",
+    "schnell"
+   ],
+   "min": 2
+  },
+  {
+   "id": "m-so",
+   "when": "pattern",
+   "state": "happy",
+   "say": "So macht man das",
+   "en": "That is how it is done",
+   "trigger": [
+    "machen",
+    "so"
+   ],
+   "min": 2
+  },
+  {
+   "id": "s-nacht",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Gute Nacht",
+   "en": "Good night"
+  },
+  {
+   "id": "s-muede",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Ich bin müde",
+   "en": "I am tired",
+   "trigger": [
+    "müde"
+   ],
+   "min": 1
+  },
+  {
+   "id": "s-schlafen",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Ich schlafe",
+   "en": "I am sleeping",
+   "trigger": [
+    "schlafen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "s-still",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Nach zehn ist still",
+   "en": "After ten it is quiet",
+   "trigger": [
+    "still",
+    "zehn"
+   ],
+   "min": 2
+  },
+  {
+   "id": "s-ade",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Ade",
+   "en": "Goodbye",
+   "trigger": [
+    "Ade"
+   ],
+   "min": 1
+  },
+  {
+   "id": "w-hoi",
+   "when": "welcome",
+   "state": "cheer",
+   "say": "Hoi!",
+   "en": "Hi!",
+   "trigger": [
+    "Hoi"
+   ],
+   "min": 1
+  },
+  {
+   "id": "w-sali",
+   "when": "welcome",
+   "state": "cheer",
+   "say": "Sali!",
+   "en": "Hi there!",
+   "trigger": [
+    "Sali"
+   ],
+   "min": 1
+  },
+  {
+   "id": "g-tiptop",
+   "when": "great",
+   "state": "cheer",
+   "say": "Tiptop!",
+   "en": "Spot on!",
+   "trigger": [
+    "tiptop"
+   ],
+   "min": 1
+  },
+  {
+   "id": "w-ueblich",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Das Übliche?",
+   "en": "The usual?",
+   "trigger": [
+    "üblich"
+   ],
+   "min": 1
+  },
+  {
+   "id": "b-nachricht",
+   "when": "back",
+   "state": "happy",
+   "say": "Keine Nachricht von dir",
+   "en": "No message from you",
+   "trigger": [
+    "Nachricht"
+   ],
+   "min": 1
+  },
+  {
+   "id": "p-lust",
+   "when": "poke",
+   "state": "happy",
+   "say": "Ich habe keine Lust",
+   "en": "I do not feel like it",
+   "trigger": [
+    "Lust"
+   ],
+   "min": 1
+  },
+  {
+   "id": "p-verein",
+   "when": "poke",
+   "state": "happy",
+   "say": "Ich bin auch im Verein",
+   "en": "I am in a club too",
+   "trigger": [
+    "Verein"
+   ],
+   "min": 1
+  },
+  {
+   "id": "p-frueh",
+   "when": "poke",
+   "state": "happy",
+   "say": "Fünf Minuten zu früh",
+   "en": "Five minutes early",
+   "trigger": [
+    "früh",
+    "Minute"
+   ],
+   "min": 2
+  },
+  {
+   "id": "g-fein",
+   "when": "great",
+   "state": "cheer",
+   "say": "Fein!",
+   "en": "Lovely!",
+   "trigger": [
+    "fein"
+   ],
+   "min": 1
+  },
+  {
+   "id": "g-gern",
+   "when": "great",
+   "state": "cheer",
+   "say": "Ja, gern",
+   "en": "Yes, gladly",
+   "trigger": [
+    "gern"
+   ],
+   "min": 1
+  },
+  {
+   "id": "o-nachdenken",
+   "when": "ok",
+   "state": "happy",
+   "say": "Denk noch einmal nach",
+   "en": "Have another think",
+   "trigger": [
+    "nachdenken"
+   ],
+   "min": 1
+  },
+  {
+   "id": "x-daneben",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Das war daneben",
+   "en": "That was off",
+   "trigger": [
+    "daneben"
+   ],
+   "min": 1
+  },
+  {
+   "id": "z-wohl",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Zum Wohl",
+   "en": "Cheers",
+   "trigger": [
+    "Wohl",
+    "anstossen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "z-samstag",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Am Samstag wieder?",
+   "en": "Again on Saturday?",
+   "trigger": [
+    "Samstag",
+    "wieder"
+   ],
+   "min": 2
+  },
+  {
+   "id": "m-gilt",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Das gilt jetzt",
+   "en": "That holds now",
+   "trigger": [
+    "gelten"
+   ],
+   "min": 1
+  },
+  {
+   "id": "m-duzen",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Wir duzen uns",
+   "en": "We say du to each other",
+   "trigger": [
+    "duzen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "s-morgen",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Morgen ist auch ein Tag",
+   "en": "Tomorrow is a day too",
+   "trigger": [
+    "morgen",
+    "Tag"
+   ],
+   "min": 2
+  }
+ ]
 }
