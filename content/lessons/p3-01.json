@@ -1,0 +1,360 @@
+{
+ "id": "p3-01",
+ "title": "Das Halbtax",
+ "desc": "The card everybody has",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "gültig",
+  "Halbtax",
+  "Strecke",
+  "Billett",
+  "Karte"
+ ],
+ "sn": [
+  {
+   "s": "Timo hat mich am Bahnhof etwas gefragt.",
+   "e": "Timo asked me something at the station."
+  },
+  {
+   "s": "Er hat gefragt: Hast du ein Halbtax?",
+   "e": "He asked: do you have a Halbtax?"
+  },
+  {
+   "s": "Ich habe das Wort nicht gekannt.",
+   "e": "I did not know the word."
+  },
+  {
+   "s": "Er hat mich angeschaut wie einen Kranken.",
+   "e": "He looked at me like a sick man."
+  },
+  {
+   "s": "Das Halbtax ist eine Karte.",
+   "e": "The Halbtax is a card."
+  },
+  {
+   "s": "Mit dem Halbtax kostet jede Fahrt die Hälfte.",
+   "e": "With the Halbtax every journey costs half."
+  },
+  {
+   "s": "Jede Fahrt im ganzen Land.",
+   "e": "Every journey in the whole country."
+  },
+  {
+   "s": "Der Zug, der Bus, das Schiff, die Bergbahn.",
+   "e": "The train, the bus, the boat, the mountain railway."
+  },
+  {
+   "s": "Das Halbtax kostet einmal im Jahr etwas.",
+   "e": "The Halbtax costs something once a year."
+  },
+  {
+   "s": "Danach ist alles halb so teuer.",
+   "e": "After that everything is half the price."
+  },
+  {
+   "s": "Timo hat gesagt: Rechne es aus.",
+   "e": "Timo said: work it out."
+  },
+  {
+   "s": "Ich fahre viermal im Monat nach Stans.",
+   "e": "I go to Stans four times a month."
+  },
+  {
+   "s": "Ich fahre einmal im Monat nach Zürich.",
+   "e": "I go to Zurich once a month."
+  },
+  {
+   "s": "Nach sechs Wochen hat sich das Halbtax bezahlt.",
+   "e": "After six weeks the Halbtax has paid for itself."
+  },
+  {
+   "s": "Danach spare ich jeden Monat Geld.",
+   "e": "After that I save money every month."
+  },
+  {
+   "s": "Fast alle im Land haben ein Halbtax.",
+   "e": "Almost everybody in the country has a Halbtax."
+  },
+  {
+   "s": "Mehr als die Hälfte von allen.",
+   "e": "More than half of everybody."
+  },
+  {
+   "s": "Viele haben sogar ein GA.",
+   "e": "Many even have a GA."
+  },
+  {
+   "s": "Mit dem GA fährt man gratis.",
+   "e": "With a GA you travel for free."
+  },
+  {
+   "s": "Das GA kostet sehr viel im Jahr.",
+   "e": "The GA costs a great deal a year."
+  },
+  {
+   "s": "Es lohnt sich für Leute mit einem langen Arbeitsweg.",
+   "e": "It is worth it for people with a long commute."
+  },
+  {
+   "s": "Ich hole das Halbtax am Schalter.",
+   "e": "I get the Halbtax at the counter."
+  },
+  {
+   "s": "Am Schalter sitzt ein Mann mit einer Brille.",
+   "e": "A man with glasses is sitting at the counter."
+  },
+  {
+   "s": "Er fragt nach meinem Ausweis.",
+   "e": "He asks for my identity card."
+  },
+  {
+   "s": "Er macht ein Foto von mir.",
+   "e": "He takes a photograph of me."
+  },
+  {
+   "s": "Das Foto ist schlecht und es bleibt drei Jahre schlecht.",
+   "e": "The photograph is bad and it stays bad for three years."
+  },
+  {
+   "s": "Er sagt: Das Halbtax ist ab morgen gültig.",
+   "e": "He says: the Halbtax is valid from tomorrow."
+  },
+  {
+   "s": "Gültig heisst: es geht, es zählt.",
+   "e": "Gültig means: it works, it counts."
+  },
+  {
+   "s": "Ein Billett ist einen Tag gültig.",
+   "e": "A ticket is valid for one day."
+  },
+  {
+   "s": "Ein Halbtax ist ein Jahr gültig.",
+   "e": "A Halbtax is valid for a year."
+  },
+  {
+   "s": "Ein Billett ohne Halbtax ist auch gültig.",
+   "e": "A ticket without a Halbtax is valid too."
+  },
+  {
+   "s": "Es kostet nur das Doppelte.",
+   "e": "It just costs twice as much."
+  },
+  {
+   "s": "Am nächsten Tag fahre ich nach Stans.",
+   "e": "The next day I go to Stans."
+  },
+  {
+   "s": "Ich kaufe das Billett am Automaten.",
+   "e": "I buy the ticket at the machine."
+  },
+  {
+   "s": "Der Automat fragt: Mit Halbtax?",
+   "e": "The machine asks: with a Halbtax?"
+  },
+  {
+   "s": "Ich drücke auf Ja.",
+   "e": "I press yes."
+  },
+  {
+   "s": "Der Preis wird kleiner vor meinen Augen.",
+   "e": "The price gets smaller in front of my eyes."
+  },
+  {
+   "s": "Das ist ein sehr gutes Gefühl.",
+   "e": "That is a very good feeling."
+  },
+  {
+   "s": "Im Zug kommt der Kondukteur.",
+   "e": "The conductor comes through the train."
+  },
+  {
+   "s": "Der Kondukteur kontrolliert die Billette.",
+   "e": "The conductor checks the tickets."
+  },
+  {
+   "s": "Er kontrolliert nicht immer und nicht überall.",
+   "e": "He does not check always and not everywhere."
+  },
+  {
+   "s": "Aber er kommt und dann kontrolliert er alle.",
+   "e": "But he comes, and then he checks everybody."
+  },
+  {
+   "s": "Er sagt: Billette bitte.",
+   "e": "He says: tickets please."
+  },
+  {
+   "s": "Ich zeige ihm das Billett und das Halbtax.",
+   "e": "I show him the ticket and the Halbtax."
+  },
+  {
+   "s": "Beide zusammen. Eines allein reicht nicht.",
+   "e": "Both together. One on its own is not enough."
+  },
+  {
+   "s": "Das habe ich fast falsch gemacht.",
+   "e": "I nearly got that wrong."
+  },
+  {
+   "s": "Ein Billett mit Halbtax ohne die Karte ist ungültig.",
+   "e": "A ticket at the Halbtax price without the card is not valid."
+  },
+  {
+   "s": "Dann zahlt man hundert Franken mehr.",
+   "e": "Then you pay a hundred francs more."
+  },
+  {
+   "s": "Der Kondukteur sagt danke und geht weiter.",
+   "e": "The conductor says thank you and moves on."
+  },
+  {
+   "s": "Er sagt zu jedem danke.",
+   "e": "He says thank you to everybody."
+  },
+  {
+   "s": "Er sagt es fünfzig Mal in einem Wagen.",
+   "e": "He says it fifty times in one carriage."
+  },
+  {
+   "s": "Timo fährt jeden Tag die gleiche Strecke.",
+   "e": "Timo does the same route every day."
+  },
+  {
+   "s": "Eine Strecke ist der Weg von hier nach dort.",
+   "e": "A route is the way from here to there."
+  },
+  {
+   "s": "Seine Strecke ist Stans nach Hergiswil.",
+   "e": "His route is Stans to Hergiswil."
+  },
+  {
+   "s": "Meine Strecke ist Luzern nach Kriens.",
+   "e": "My route is Luzern to Kriens."
+  },
+  {
+   "s": "Er kennt jede Kurve auf seiner Strecke.",
+   "e": "He knows every bend on his route."
+  },
+  {
+   "s": "Er weiss die richtige Seite zum Aussteigen.",
+   "e": "He knows the right side to get off on."
+  },
+  {
+   "s": "Einsteigen und aussteigen sind zwei Verben mit zwei Teilen.",
+   "e": "Einsteigen and aussteigen are two verbs with two parts."
+  },
+  {
+   "s": "Ich steige in Luzern ein.",
+   "e": "I get on in Luzern."
+  },
+  {
+   "s": "Ich steige in Stans aus.",
+   "e": "I get off in Stans."
+  },
+  {
+   "s": "Das ein und das aus stehen am Ende.",
+   "e": "The ein and the aus stand at the end."
+  },
+  {
+   "s": "In der Mitte steht alles andere.",
+   "e": "Everything else stands in the middle."
+  },
+  {
+   "s": "Ich steige jeden Morgen um Viertel nach sieben ein.",
+   "e": "I get on every morning at quarter past seven."
+  },
+  {
+   "s": "Manchmal muss man umsteigen.",
+   "e": "Sometimes you have to change."
+  },
+  {
+   "s": "Umsteigen heisst: aussteigen und in einen anderen Zug einsteigen.",
+   "e": "Umsteigen means: get off and get on a different train."
+  },
+  {
+   "s": "Man steigt in Hergiswil um.",
+   "e": "You change in Hergiswil."
+  },
+  {
+   "s": "Man hat vier Minuten Zeit dafür.",
+   "e": "You have four minutes for it."
+  },
+  {
+   "s": "Vier Minuten reichen, denn der Zug steht am gleichen Perron.",
+   "e": "Four minutes are enough, because the train is at the same platform."
+  },
+  {
+   "s": "Das ist kein Zufall.",
+   "e": "That is not an accident."
+  },
+  {
+   "s": "Am Abend rechne ich noch einmal.",
+   "e": "In the evening I do the sums again."
+  },
+  {
+   "s": "Ich habe heute achtzehn Franken gespart.",
+   "e": "I saved eighteen francs today."
+  },
+  {
+   "s": "Nach sechs Wochen habe ich das Halbtax bezahlt.",
+   "e": "After six weeks I will have paid for the Halbtax."
+  },
+  {
+   "s": "Danach ist es Geld für nichts.",
+   "e": "After that it is money for nothing."
+  },
+  {
+   "s": "Rosmarie hat ein Halbtax seit 1974.",
+   "e": "Rosmarie has had a Halbtax since 1974."
+  },
+  {
+   "s": "Sie hat es mir gezeigt.",
+   "e": "She showed it to me."
+  },
+  {
+   "s": "Es ist die neunte Karte in der gleichen Mappe.",
+   "e": "It is the ninth card in the same folder."
+  },
+  {
+   "s": "Sie hat alle alten Karten behalten.",
+   "e": "She has kept all the old cards."
+  },
+  {
+   "s": "Auf der ersten ist sie achtundzwanzig.",
+   "e": "On the first one she is twenty-eight."
+  },
+  {
+   "s": "Sie sagt: Auch damals war das Foto schlecht.",
+   "e": "She says: the photograph was bad then too."
+  },
+  {
+   "s": "Timo sagt: Jetzt bist du fast Schweizer.",
+   "e": "Timo says: now you are almost Swiss."
+  },
+  {
+   "s": "Er sagt es als Spass und er meint es halb.",
+   "e": "He says it as a joke and he half means it."
+  },
+  {
+   "s": "Eine Karte in der Tasche und man gehört dazu.",
+   "e": "A card in your pocket and you belong."
+  },
+  {
+   "s": "Das ist nicht viel und es ist nicht nichts.",
+   "e": "That is not much and it is not nothing."
+  },
+  {
+   "s": "Am Abend liegt die Karte auf dem Tisch.",
+   "e": "In the evening the card is lying on the table."
+  },
+  {
+   "s": "Ich lege sie ins Portemonnaie.",
+   "e": "I put it in my wallet."
+  },
+  {
+   "s": "Dort bleibt sie drei Jahre.",
+   "e": "It stays there for three years."
+  }
+ ]
+}

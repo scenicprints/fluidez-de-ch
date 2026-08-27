@@ -5,11 +5,12 @@
  "ph": 0,
  "diff": 1,
  "wu": [
-  "aussteigen",
-  "Feuer",
   "Tor",
-  "Bahnhof",
+  "Feuer",
+  "Stein",
+  "aussteigen",
   "Boden",
+  "Bahnhof",
   "warten",
   "draussen",
   "nehmen"

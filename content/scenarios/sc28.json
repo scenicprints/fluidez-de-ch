@@ -1,0 +1,109 @@
+{
+ "id": "sc28",
+ "title": "Rigi oder Pilatus",
+ "desc": "A question that is not a normal question",
+ "setting": "A table above the lake, two empty glasses, and a man at the next table already listening.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Timo",
+   "es": "Und? Welcher ist besser?",
+   "en": "And? Which one is better?",
+   "options": [
+    {
+     "es": "Beide sind gut.",
+     "en": "They are both good.",
+     "verdict": "ok",
+     "feedback": "The safe answer, and he will ask again. Nobody in this canton is allowed to have no opinion on this."
+    },
+    {
+     "es": "Der Pilatus.",
+     "en": "Pilatus.",
+     "verdict": "good",
+     "feedback": "An answer, said without hedging. It starts an argument and the argument is the point."
+    },
+    {
+     "es": "Die Rigi.",
+     "en": "Rigi.",
+     "verdict": "good",
+     "feedback": "His answer. You will get forty minutes of agreement, which is less fun and perfectly pleasant."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Warum?",
+   "en": "Why?",
+   "options": [
+    {
+     "es": "Die Bahn ist steiler.",
+     "en": "The railway is steeper.",
+     "verdict": "good",
+     "feedback": "Steiler, with er on the end. A comparative and a reason, which is what he asked for."
+    },
+    {
+     "es": "Der Pilatus ist besser als die Rigi.",
+     "en": "Pilatus is better than Rigi.",
+     "verdict": "ok",
+     "feedback": "Besser als is right and it is not a reason. He already knows what you think."
+    },
+    {
+     "es": "Weiss ich nicht.",
+     "en": "I do not know.",
+     "verdict": "bad",
+     "feedback": "Then do not pick a side. Having one and not defending it is the worst of both."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Auf der Rigi kann meine Grossmutter laufen.",
+   "en": "My grandmother can walk on Rigi.",
+   "options": [
+    {
+     "es": "Das stimmt. Das ist ein Berg für Menschen.",
+     "en": "That is true. That is a mountain for people.",
+     "verdict": "good",
+     "feedback": "Give him the point. He has been waiting to make it and it is a good one."
+    },
+    {
+     "es": "Meine auch, mit der Bahn.",
+     "en": "Mine could too, on the railway.",
+     "verdict": "good",
+     "feedback": "A joke back, at the same volume as his. That is how this argument is supposed to go."
+    },
+    {
+     "es": "Das ist kein Argument.",
+     "en": "That is not an argument.",
+     "verdict": "bad",
+     "feedback": "It is his argument, and it is about his grandmother. Read the room."
+    }
+   ]
+  },
+  {
+   "speaker": "Mann am Nebentisch",
+   "es": "Die Rigi.",
+   "en": "Rigi.",
+   "options": [
+    {
+     "es": "Nichts sagen und nicken.",
+     "en": "Say nothing and nod.",
+     "verdict": "good",
+     "feedback": "He said two words to a table he is not at and then finished his beer. Nothing is required of you."
+    },
+    {
+     "es": "Sehen Sie, ich bin allein.",
+     "en": "You see, I am on my own.",
+     "verdict": "ok",
+     "feedback": "Fine and it invites him in. He was not asking to join, he was registering a vote."
+    },
+    {
+     "es": "Warum?",
+     "en": "Why?",
+     "verdict": "bad",
+     "feedback": "He is not going to explain. He said the name of a mountain and that was the whole contribution."
+    }
+   ]
+  }
+ ]
+}

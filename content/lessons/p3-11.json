@@ -1,0 +1,360 @@
+{
+ "id": "p3-11",
+ "title": "Mit der Gondel runter",
+ "desc": "Twenty minutes and no hurry",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Gondel"
+ ],
+ "sn": [
+  {
+   "s": "Um vier fahren wir hinunter.",
+   "e": "At four we go down."
+  },
+  {
+   "s": "Timo nimmt die Bahn auf der anderen Seite.",
+   "e": "Timo takes the railway on the other side."
+  },
+  {
+   "s": "Er muss nach Stans und ich muss nach Luzern.",
+   "e": "He has to get to Stans and I have to get to Luzern."
+  },
+  {
+   "s": "Also fahre ich allein mit der Gondel nach Kriens.",
+   "e": "So I go down to Kriens alone in the gondola."
+  },
+  {
+   "s": "An der Station steht schon jemand.",
+   "e": "Somebody is already standing at the station."
+  },
+  {
+   "s": "Selina ist doch nicht zu Fuss gegangen.",
+   "e": "Selina did not walk down after all."
+  },
+  {
+   "s": "Sie sagt: Meine Knie sagen nein.",
+   "e": "She says: my knees say no."
+  },
+  {
+   "s": "Sie sagt es ohne Entschuldigung.",
+   "e": "She says it without an apology."
+  },
+  {
+   "s": "Wir steigen zusammen in die Gondel ein.",
+   "e": "We get into the gondola together."
+  },
+  {
+   "s": "Die Gondel nimmt vier Leute.",
+   "e": "The gondola takes four people."
+  },
+  {
+   "s": "Wir sind zu zweit drin.",
+   "e": "There are two of us in it."
+  },
+  {
+   "s": "Die Tür geht zu und die Gondel fährt los.",
+   "e": "The door closes and the gondola sets off."
+  },
+  {
+   "s": "Die Fahrt dauert zwanzig Minuten.",
+   "e": "The ride takes twenty minutes."
+  },
+  {
+   "s": "Zwanzig Minuten sind sehr kurz und sehr lang.",
+   "e": "Twenty minutes are very short and very long."
+  },
+  {
+   "s": "Im Gespräch sagt man hier oft runter und rauf.",
+   "e": "In conversation people here often say runter and rauf."
+  },
+  {
+   "s": "Runter ist kürzer als hinunter.",
+   "e": "Runter is shorter than hinunter."
+  },
+  {
+   "s": "Rauf ist kürzer als hinauf.",
+   "e": "Rauf is shorter than hinauf."
+  },
+  {
+   "s": "Man schreibt hinunter und man sagt runter.",
+   "e": "You write hinunter and you say runter."
+  },
+  {
+   "s": "Es gibt noch mehr davon.",
+   "e": "There are more of them."
+  },
+  {
+   "s": "Rein statt hinein. Raus statt hinaus.",
+   "e": "Rein instead of hinein. Raus instead of hinaus."
+  },
+  {
+   "s": "Rüber statt hinüber.",
+   "e": "Rüber instead of hinüber."
+  },
+  {
+   "s": "Komm rein. Geh raus. Fahr rüber.",
+   "e": "Come in. Go out. Go across."
+  },
+  {
+   "s": "Sie sind alle kurz und alle sagen sie so.",
+   "e": "They are all short and everybody says them."
+  },
+  {
+   "s": "Selina fragt zuerst nichts.",
+   "e": "At first Selina asks nothing."
+  },
+  {
+   "s": "Sie schaut hinaus.",
+   "e": "She looks out."
+  },
+  {
+   "s": "Ich schaue auch hinaus.",
+   "e": "I look out too."
+  },
+  {
+   "s": "Nach zwei Minuten sagt sie: Da unten war ich heute Morgen.",
+   "e": "After two minutes she says: I was down there this morning."
+  },
+  {
+   "s": "Sie zeigt auf einen Weg im Wald.",
+   "e": "She points at a path in the woods."
+  },
+  {
+   "s": "Unten am Ufer stehen kleine Häuser.",
+   "e": "Down at the shore there are small houses."
+  },
+  {
+   "s": "Im Wind wackelt die Gondel ein bisschen.",
+   "e": "In the wind the gondola wobbles a little."
+  },
+  {
+   "s": "Der Weg ist ein dünner Strich zwischen den Bäumen.",
+   "e": "The path is a thin line between the trees."
+  },
+  {
+   "s": "Dann fragt sie mich etwas.",
+   "e": "Then she asks me something."
+  },
+  {
+   "s": "Sie fragt: Was hat dir am meisten gefehlt?",
+   "e": "She asks: what have you missed most?"
+  },
+  {
+   "s": "Nicht: Wie gefällt es dir.",
+   "e": "Not: how do you like it."
+  },
+  {
+   "s": "Sondern: Was fehlt dir.",
+   "e": "Rather: what do you miss."
+  },
+  {
+   "s": "Das ist eine andere Frage.",
+   "e": "That is a different question."
+  },
+  {
+   "s": "Ich denke lange nach.",
+   "e": "I think for a long time."
+  },
+  {
+   "s": "Ich sage: Reden ohne nachdenken.",
+   "e": "I say: talking without thinking."
+  },
+  {
+   "s": "Sie nickt sofort.",
+   "e": "She nods at once."
+  },
+  {
+   "s": "Sie sagt: Das kenne ich.",
+   "e": "She says: I know that."
+  },
+  {
+   "s": "Sie hat ein Jahr in Frankreich gearbeitet.",
+   "e": "She worked in France for a year."
+  },
+  {
+   "s": "Sie sagt: Ich war dort ein anderer Mensch.",
+   "e": "She says: I was a different person there."
+  },
+  {
+   "s": "Sie sagt: Ein langsamerer und ein netterer.",
+   "e": "She says: a slower one and a nicer one."
+  },
+  {
+   "s": "Sie sagt: Und ich habe mich nicht gemocht.",
+   "e": "She says: and I did not like myself."
+  },
+  {
+   "s": "Das hat mir noch nie jemand gesagt.",
+   "e": "Nobody has ever said that to me."
+  },
+  {
+   "s": "Die Gondel fährt über einen Mast.",
+   "e": "The gondola goes over a pylon."
+  },
+  {
+   "s": "Es tönt einmal laut und die Gondel wackelt.",
+   "e": "There is one loud sound and the gondola wobbles."
+  },
+  {
+   "s": "Wir halten uns beide an der Stange fest.",
+   "e": "We both hold on to the bar."
+  },
+  {
+   "s": "Dann lachen wir beide.",
+   "e": "Then we both laugh."
+  },
+  {
+   "s": "Sie erzählt mir vom Pilatus.",
+   "e": "She tells me about Pilatus."
+  },
+  {
+   "s": "Im Berg hat ein Drache gewohnt.",
+   "e": "A dragon lived in the mountain."
+  },
+  {
+   "s": "So hat man es früher erzählt.",
+   "e": "That is how people used to tell it."
+  },
+  {
+   "s": "Ein Drache hat Flügel und Feuer im Mund.",
+   "e": "A dragon has wings and fire in its mouth."
+  },
+  {
+   "s": "Vor sechshundert Jahren hat man das geglaubt.",
+   "e": "Six hundred years ago people believed that."
+  },
+  {
+   "s": "Es war verboten, auf den Berg zu gehen.",
+   "e": "It was forbidden to go up the mountain."
+  },
+  {
+   "s": "Die Stadt hat es verboten und nicht die Kirche.",
+   "e": "The town forbade it and not the church."
+  },
+  {
+   "s": "Man hatte Angst vor dem Wetter.",
+   "e": "They were afraid of the weather."
+  },
+  {
+   "s": "Man hat gesagt: Der Berg macht das Wetter.",
+   "e": "They said: the mountain makes the weather."
+  },
+  {
+   "s": "Sie sagt: Und das stimmt sogar.",
+   "e": "She says: and that is even true."
+  },
+  {
+   "s": "Sie sagt: Der Pilatus zieht die Wolken an.",
+   "e": "She says: Pilatus pulls the clouds in."
+  },
+  {
+   "s": "Sie sagt: Mit einem Hut auf dem Pilatus regnet es morgen.",
+   "e": "She says: with a hat on Pilatus it rains tomorrow."
+  },
+  {
+   "s": "Ein Hut heisst: eine Wolke ganz oben.",
+   "e": "A hat means: a cloud right on the top."
+  },
+  {
+   "s": "Das sagen hier alle und alle glauben es halb.",
+   "e": "Everybody here says that and everybody half believes it."
+  },
+  {
+   "s": "Sie fragt: Und? Glaubst du es?",
+   "e": "She asks: and? Do you believe it?"
+  },
+  {
+   "s": "Ich sage: Ich schaue morgen hinauf.",
+   "e": "I say: I will look up tomorrow."
+  },
+  {
+   "s": "Nach fünfzehn Minuten kommen die Häuser.",
+   "e": "After fifteen minutes the houses come."
+  },
+  {
+   "s": "Nach achtzehn Minuten kommt der Boden näher.",
+   "e": "After eighteen minutes the ground comes closer."
+  },
+  {
+   "s": "Wir haben die letzten fünf Minuten nicht hinausgeschaut.",
+   "e": "We did not look out for the last five minutes."
+  },
+  {
+   "s": "Unten steigen wir aus.",
+   "e": "At the bottom we get out."
+  },
+  {
+   "s": "Sie geht zum Bus nach Luzern.",
+   "e": "She goes to the bus to Luzern."
+  },
+  {
+   "s": "Ich gehe auch zum Bus nach Luzern.",
+   "e": "I go to the bus to Luzern too."
+  },
+  {
+   "s": "Wir fahren zusammen zwölf Minuten.",
+   "e": "We ride together for twelve minutes."
+  },
+  {
+   "s": "Im Bus redet sie mit einer alten Frau.",
+   "e": "On the bus she talks to an old woman."
+  },
+  {
+   "s": "Die Frau kennt sie aus dem Spital.",
+   "e": "The woman knows her from the hospital."
+  },
+  {
+   "s": "Sie fragt nach dem Mann von der Frau.",
+   "e": "She asks about the woman's husband."
+  },
+  {
+   "s": "Sie fragt nach dem Namen und nach dem Zimmer.",
+   "e": "She asks the name and the room number."
+  },
+  {
+   "s": "Sie weiss beides sofort wieder.",
+   "e": "She remembers both at once."
+  },
+  {
+   "s": "Am Bahnhof steigen wir aus.",
+   "e": "We get off at the station."
+  },
+  {
+   "s": "Sie sagt: Also. Ade.",
+   "e": "She says: right. Bye."
+  },
+  {
+   "s": "Sie sagt: Es war lustig heute.",
+   "e": "She says: it was fun today."
+  },
+  {
+   "s": "Sie geht Richtung Spital und ich Richtung Wohnung.",
+   "e": "She goes towards the hospital and I towards my flat."
+  },
+  {
+   "s": "Ich habe ihre Nummer nicht.",
+   "e": "I do not have her number."
+  },
+  {
+   "s": "Ich habe nicht gefragt.",
+   "e": "I did not ask."
+  },
+  {
+   "s": "Timo hat sie und das weiss ich auch.",
+   "e": "Timo has it and I know that too."
+  },
+  {
+   "s": "Am Abend schaue ich zum Pilatus hinauf.",
+   "e": "In the evening I look up at Pilatus."
+  },
+  {
+   "s": "Er hat einen Hut.",
+   "e": "It has a hat."
+  },
+  {
+   "s": "Am nächsten Tag regnet es den ganzen Tag.",
+   "e": "The next day it rains all day."
+  }
+ ]
+}

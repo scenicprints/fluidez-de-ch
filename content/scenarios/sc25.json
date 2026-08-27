@@ -1,0 +1,109 @@
+{
+ "id": "sc25",
+ "title": "Auf dem Gipfel",
+ "desc": "Everybody says du up here, and nobody does down there",
+ "setting": "Two thousand metres, twenty people, and a white blanket over the whole lake below.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Selina",
+   "es": "Hoi. Selina.",
+   "en": "Hi. Selina.",
+   "options": [
+    {
+     "es": "Hoi. Freut mich.",
+     "en": "Hi. Pleased to meet you.",
+     "verdict": "good",
+     "feedback": "Hoi back, and du, because you are on a mountain. Down in the town this would be Grüezi and Sie."
+    },
+    {
+     "es": "Grüezi. Freut mich.",
+     "en": "Hello. Pleased to meet you.",
+     "verdict": "ok",
+     "feedback": "Not wrong and a step more formal than what she just gave you. Up here that reads as a little stiff."
+    },
+    {
+     "es": "Guten Tag.",
+     "en": "Good day.",
+     "verdict": "bad",
+     "feedback": "On a summit, with a rucksack, at eleven in the morning. Nobody says that here."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Bist du zu Fuss gekommen?",
+   "en": "Did you come up on foot?",
+   "options": [
+    {
+     "es": "Nein, mit der Bahn.",
+     "en": "No, on the railway.",
+     "verdict": "good",
+     "feedback": "True, and there is no shame in it. She walked four hours and will not say a word about the difference."
+    },
+    {
+     "es": "Nein. Nächstes Mal.",
+     "en": "No. Next time.",
+     "verdict": "good",
+     "feedback": "Better still. It answers and it says something about you at the same time."
+    },
+    {
+     "es": "Ja, natürlich.",
+     "en": "Yes, of course.",
+     "verdict": "bad",
+     "feedback": "Your shoes say otherwise. She looked at them before she asked."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Ich bin um halb sechs losgegangen.",
+   "en": "I set off at half past five.",
+   "options": [
+    {
+     "es": "Und? Wie war es?",
+     "en": "And? What was it like?",
+     "verdict": "good",
+     "feedback": "Ask back. She got out of the fog into the sun at about seven and she would like somebody to hear it."
+    },
+    {
+     "es": "Um halb sechs!",
+     "en": "At half past five!",
+     "verdict": "ok",
+     "feedback": "Fair reaction. It is also completely normal here, and she will say so."
+    },
+    {
+     "es": "Das ist zu früh für mich.",
+     "en": "That is too early for me.",
+     "verdict": "ok",
+     "feedback": "Honest, and it turns her morning into a fact about you."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Und? Bleibst du?",
+   "en": "And? Are you staying?",
+   "options": [
+    {
+     "es": "Ich weiss es noch nicht.",
+     "en": "I do not know yet.",
+     "verdict": "good",
+     "feedback": "The true answer, and she will nod and not ask again. Nobody else has asked you this at all."
+    },
+    {
+     "es": "Ja, sicher.",
+     "en": "Yes, definitely.",
+     "verdict": "ok",
+     "feedback": "Bigger than you know. She asked the one question everybody here avoids, so she will hear the size of it."
+    },
+    {
+     "es": "Warum fragst du?",
+     "en": "Why do you ask?",
+     "verdict": "bad",
+     "feedback": "Because she wanted to know. It is the first real question anybody has put to you in nine months."
+    }
+   ]
+  }
+ ]
+}

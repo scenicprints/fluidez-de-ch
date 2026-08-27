@@ -1,0 +1,390 @@
+{
+ "id": "p3-18",
+ "title": "Der erste Schnee",
+ "desc": "Winter, and everyone else already owns the equipment",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Ski",
+  "schlitteln",
+  "Schnee"
+ ],
+ "sn": [
+  {
+   "s": "Im November kommt der erste Schnee.",
+   "e": "In November the first snow comes."
+  },
+  {
+   "s": "Zuerst nur auf den Bergen.",
+   "e": "At first only on the mountains."
+  },
+  {
+   "s": "Am Morgen sind sie weiss und man hat nichts gehört.",
+   "e": "In the morning they are white and you heard nothing."
+  },
+  {
+   "s": "Alle im Büro reden am Montag darüber.",
+   "e": "Everybody in the office talks about it on Monday."
+  },
+  {
+   "s": "Nicht über das Wetter. Über den Schnee.",
+   "e": "Not about the weather. About the snow."
+  },
+  {
+   "s": "Das ist ein anderes Thema.",
+   "e": "That is a different topic."
+  },
+  {
+   "s": "Marco fragt: Fährst du Ski?",
+   "e": "Marco asks: do you ski?"
+  },
+  {
+   "s": "Ich sage: Nein.",
+   "e": "I say: no."
+  },
+  {
+   "s": "Er sagt: Noch nie?",
+   "e": "He says: never?"
+  },
+  {
+   "s": "Ich sage: Noch nie.",
+   "e": "I say: never."
+  },
+  {
+   "s": "Er sagt nichts mehr und er schaut mich lange an.",
+   "e": "He says nothing more and looks at me for a long time."
+  },
+  {
+   "s": "Ski fahren lernt man hier in der Schule.",
+   "e": "Here you learn to ski at school."
+  },
+  {
+   "s": "Nicht in einem Kurs und nicht in den Ferien.",
+   "e": "Not on a course and not on holiday."
+  },
+  {
+   "s": "In der Schule, mit der Klasse.",
+   "e": "At school, with your class."
+  },
+  {
+   "s": "Es heisst Skilager.",
+   "e": "It is called Skilager."
+  },
+  {
+   "s": "Jedes Kind geht einmal im Jahr eine Woche.",
+   "e": "Every child goes for a week once a year."
+  },
+  {
+   "s": "Die Gemeinde zahlt das meiste davon.",
+   "e": "The commune pays most of it."
+  },
+  {
+   "s": "Alle gehen und niemand fragt warum.",
+   "e": "Everybody goes and nobody asks why."
+  },
+  {
+   "s": "Marco war siebenmal im Skilager.",
+   "e": "Marco went to Skilager seven times."
+  },
+  {
+   "s": "Timo war achtmal.",
+   "e": "Timo went eight times."
+  },
+  {
+   "s": "Selina war neunmal, denn sie hat später geholfen.",
+   "e": "Selina went nine times, because she helped later on."
+  },
+  {
+   "s": "Sie können alle drei Ski fahren wie andere Leute laufen.",
+   "e": "All three of them ski the way other people walk."
+  },
+  {
+   "s": "Sie reden nicht darüber.",
+   "e": "They do not talk about it."
+  },
+  {
+   "s": "Es ist keine Leistung.",
+   "e": "It is not an achievement."
+  },
+  {
+   "s": "Es ist einfach normal.",
+   "e": "It is simply normal."
+  },
+  {
+   "s": "Ich bin der einzige Erwachsene ohne Ski.",
+   "e": "I am the only adult without skis."
+  },
+  {
+   "s": "Das habe ich acht Monate lang nicht gemerkt.",
+   "e": "I did not notice that for eight months."
+  },
+  {
+   "s": "Im November merkt man es sofort.",
+   "e": "In November you notice at once."
+  },
+  {
+   "s": "Timo sagt: Wir gehen am Samstag.",
+   "e": "Timo says: we are going on Saturday."
+  },
+  {
+   "s": "Ich sage: Ich habe nichts.",
+   "e": "I say: I have nothing."
+  },
+  {
+   "s": "Er sagt: Alles kann man mieten.",
+   "e": "He says: you can hire everything."
+  },
+  {
+   "s": "Am Samstag stehe ich in einem Laden.",
+   "e": "On Saturday I am standing in a shop."
+  },
+  {
+   "s": "Im Laden muss ich den Ausweis zeigen.",
+   "e": "In the shop I have to show my identity card."
+  },
+  {
+   "s": "Mein Chef fährt jedes Jahr eine Woche Ski.",
+   "e": "My boss skis for a week every year."
+  },
+  {
+   "s": "Timo bringt mir eine alte Mütze von zu Hause.",
+   "e": "Timo brings me an old hat from home."
+  },
+  {
+   "s": "Ein junger Mann gibt mir Schuhe.",
+   "e": "A young man gives me boots."
+  },
+  {
+   "s": "Die Schuhe sind hart wie Stein.",
+   "e": "The boots are hard as stone."
+  },
+  {
+   "s": "Man kann darin nicht gehen.",
+   "e": "You cannot walk in them."
+  },
+  {
+   "s": "Er sagt: Das ist richtig so.",
+   "e": "He says: that is how it should be."
+  },
+  {
+   "s": "Er gibt mir Ski und Stöcke.",
+   "e": "He gives me skis and poles."
+  },
+  {
+   "s": "Er fragt nach meiner Grösse und nach meinem Gewicht.",
+   "e": "He asks my height and my weight."
+  },
+  {
+   "s": "Ich sage die Zahlen und er stellt etwas ein.",
+   "e": "I say the numbers and he adjusts something."
+  },
+  {
+   "s": "Timo hat eigene Ski von seinem Vater.",
+   "e": "Timo has his own skis from his father."
+  },
+  {
+   "s": "Sie sind zwanzig Jahre alt.",
+   "e": "They are twenty years old."
+  },
+  {
+   "s": "Er sagt: Die halten noch zwanzig.",
+   "e": "He says: they will last another twenty."
+  },
+  {
+   "s": "Oben ist es sehr hell und sehr kalt.",
+   "e": "Up top it is very bright and very cold."
+  },
+  {
+   "s": "Die Sonne kommt von oben und vom Schnee.",
+   "e": "The sun comes from above and from the snow."
+  },
+  {
+   "s": "Ohne Brille sieht man nach zehn Minuten nichts.",
+   "e": "Without goggles you see nothing after ten minutes."
+  },
+  {
+   "s": "Frieren ist das Wort für sehr kalt sein.",
+   "e": "Frieren is the word for being very cold."
+  },
+  {
+   "s": "Ich friere an den Fingern.",
+   "e": "My fingers are freezing."
+  },
+  {
+   "s": "Ich friere an den Ohren.",
+   "e": "My ears are freezing."
+  },
+  {
+   "s": "Timo friert nicht.",
+   "e": "Timo is not cold."
+  },
+  {
+   "s": "Er hat Handschuhe und eine Mütze und die richtige Jacke.",
+   "e": "He has gloves and a hat and the right jacket."
+  },
+  {
+   "s": "Er hat sie seit der Schule.",
+   "e": "He has had them since school."
+  },
+  {
+   "s": "Die ersten zwei Stunden sind schrecklich.",
+   "e": "The first two hours are awful."
+  },
+  {
+   "s": "Ich falle achtzehnmal hin.",
+   "e": "I fall over eighteen times."
+  },
+  {
+   "s": "Ich stehe achtzehnmal wieder auf.",
+   "e": "I get up eighteen times."
+  },
+  {
+   "s": "Aufstehen ist schwerer als Fallen.",
+   "e": "Getting up is harder than falling."
+  },
+  {
+   "s": "Ein Kind von sechs fährt an mir vorbei.",
+   "e": "A child of six goes past me."
+  },
+  {
+   "s": "Es fährt schneller als ich und es schaut nicht hin.",
+   "e": "It goes faster than I do and it does not look."
+  },
+  {
+   "s": "Timo bleibt die ganze Zeit neben mir.",
+   "e": "Timo stays next to me the whole time."
+  },
+  {
+   "s": "Er sagt fast nichts.",
+   "e": "He says almost nothing."
+  },
+  {
+   "s": "Er sagt: Knie. Und: Schau nach vorne.",
+   "e": "He says: knees. And: look ahead."
+  },
+  {
+   "s": "Zwei Wörter und er sagt sie zwanzigmal.",
+   "e": "Two words and he says them twenty times."
+  },
+  {
+   "s": "Nach zwei Stunden fahre ich zwanzig Meter ohne Fallen.",
+   "e": "After two hours I ski twenty metres without falling."
+  },
+  {
+   "s": "Timo sagt: Gut.",
+   "e": "Timo says: good."
+  },
+  {
+   "s": "Ein Wort und es reicht für den ganzen Tag.",
+   "e": "One word and it is enough for the whole day."
+  },
+  {
+   "s": "Am Mittag essen wir auf einer Terrasse in der Sonne.",
+   "e": "At midday we eat on a terrace in the sun."
+  },
+  {
+   "s": "Es ist minus vier Grad und alle sitzen draussen.",
+   "e": "It is minus four degrees and everybody is sitting outside."
+  },
+  {
+   "s": "Die Sonne ist stark und der Schnee wirft sie zurück.",
+   "e": "The sun is strong and the snow throws it back."
+  },
+  {
+   "s": "Nach dem Essen bin ich zu müde.",
+   "e": "After eating I am too tired."
+  },
+  {
+   "s": "Timo sagt: Dann schlitteln wir.",
+   "e": "Timo says: then we will go sledging."
+  },
+  {
+   "s": "Schlitteln heisst: mit einem Schlitten hinunterfahren.",
+   "e": "Schlitteln means: going down on a sledge."
+  },
+  {
+   "s": "Ein Schlitten ist aus Holz und hat keine Bremse.",
+   "e": "A sledge is made of wood and has no brake."
+  },
+  {
+   "s": "Man bremst mit den Füssen.",
+   "e": "You brake with your feet."
+  },
+  {
+   "s": "Das habe ich zu spät gelernt.",
+   "e": "I learned that too late."
+  },
+  {
+   "s": "Schlitteln ist viel einfacher als Ski fahren.",
+   "e": "Sledging is much easier than skiing."
+  },
+  {
+   "s": "Schlitteln ist auch viel schneller.",
+   "e": "Sledging is also much faster."
+  },
+  {
+   "s": "Der Weg hinunter ist drei Kilometer lang.",
+   "e": "The way down is three kilometres long."
+  },
+  {
+   "s": "Ich bin dreimal im Schnee gelandet.",
+   "e": "I ended up in the snow three times."
+  },
+  {
+   "s": "Ich habe die ganze Zeit gelacht.",
+   "e": "I laughed the whole time."
+  },
+  {
+   "s": "Timo auch, und er ist nicht gestürzt.",
+   "e": "Timo did too, and he did not fall."
+  },
+  {
+   "s": "Am Abend tut mir jeder Muskel weh.",
+   "e": "In the evening every muscle hurts."
+  },
+  {
+   "s": "Nach dem Schlitteln ziehe ich alles Nasse aus.",
+   "e": "After the sledging I take off everything wet."
+  },
+  {
+   "s": "In der Hütte liegt eine Decke auf jeder Bank.",
+   "e": "In the hut there is a blanket on every bench."
+  },
+  {
+   "s": "Draussen spielt Musik aus einem Lautsprecher.",
+   "e": "Music plays from a loudspeaker outside."
+  },
+  {
+   "s": "Eine Maschine macht den Schnee am Abend wieder flach.",
+   "e": "A machine flattens the snow again in the evening."
+  },
+  {
+   "s": "Ich schlafe in dieser Nacht wie ein Stein.",
+   "e": "That night I sleep like a stone."
+  },
+  {
+   "s": "Ich schlafe um neun Uhr ein.",
+   "e": "I fall asleep at nine."
+  },
+  {
+   "s": "Am Montag fragt Marco: Und?",
+   "e": "On Monday Marco asks: and?"
+  },
+  {
+   "s": "Ich sage: Achtzehnmal gefallen.",
+   "e": "I say: fell eighteen times."
+  },
+  {
+   "s": "Er sagt: Beim ersten Mal ist das gut.",
+   "e": "He says: for a first time that is good."
+  },
+  {
+   "s": "Er sagt: Meine Tochter ist am Anfang mehr gefallen.",
+   "e": "He says: my daughter fell more at the start."
+  },
+  {
+   "s": "Seine Tochter war damals vier.",
+   "e": "His daughter was four at the time."
+  }
+ ]
+}

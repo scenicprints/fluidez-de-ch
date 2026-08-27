@@ -1,0 +1,371 @@
+{
+ "id": "p3-04",
+ "title": "Das Schiff",
+ "desc": "The lake has a timetable too",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Schiff",
+  "See",
+  "fahren",
+  "sitzen"
+ ],
+ "sn": [
+  {
+   "s": "Am Samstag will ich nach Stansstad.",
+   "e": "On Saturday I want to go to Stansstad."
+  },
+  {
+   "s": "Die App gibt zwei Verbindungen.",
+   "e": "The app gives two connections."
+  },
+  {
+   "s": "Die erste geht mit dem Zug und dem Bus.",
+   "e": "The first goes by train and bus."
+  },
+  {
+   "s": "Sie dauert vierzig Minuten.",
+   "e": "It takes forty minutes."
+  },
+  {
+   "s": "Die zweite geht mit dem Schiff.",
+   "e": "The second goes by boat."
+  },
+  {
+   "s": "Sie dauert fünfunddreissig Minuten.",
+   "e": "It takes thirty-five minutes."
+  },
+  {
+   "s": "Das Schiff ist schneller als der Zug.",
+   "e": "The boat is faster than the train."
+  },
+  {
+   "s": "Das habe ich dreimal gelesen.",
+   "e": "I read that three times."
+  },
+  {
+   "s": "Ein Schiff ist hier kein Ausflug.",
+   "e": "A boat here is not an excursion."
+  },
+  {
+   "s": "Ein Schiff ist der Bus auf dem Wasser.",
+   "e": "A boat is the bus on the water."
+  },
+  {
+   "s": "Es steht im gleichen Fahrplan.",
+   "e": "It is in the same timetable."
+  },
+  {
+   "s": "Es kostet das gleiche Billett.",
+   "e": "It costs the same ticket."
+  },
+  {
+   "s": "Das Halbtax gilt auch auf dem Schiff.",
+   "e": "The Halbtax is valid on the boat too."
+  },
+  {
+   "s": "Leute fahren damit zur Arbeit.",
+   "e": "People take it to work."
+  },
+  {
+   "s": "Kinder fahren damit zur Schule.",
+   "e": "Children take it to school."
+  },
+  {
+   "s": "Der Steg ist hinter dem Bahnhof.",
+   "e": "The landing stage is behind the station."
+  },
+  {
+   "s": "Ein Steg geht vom Ufer ins Wasser hinaus.",
+   "e": "A landing stage goes out from the shore into the water."
+  },
+  {
+   "s": "Auf dem Steg stehen dreissig Leute.",
+   "e": "Thirty people are standing on the landing stage."
+  },
+  {
+   "s": "Die Hälfte hat einen Rucksack.",
+   "e": "Half of them have a rucksack."
+  },
+  {
+   "s": "Die andere Hälfte hat eine Tasche für das Büro.",
+   "e": "The other half have a bag for the office."
+  },
+  {
+   "s": "Das Schiff kommt um neun Uhr zehn.",
+   "e": "The boat comes at ten past nine."
+  },
+  {
+   "s": "Es fährt langsam an den Steg heran.",
+   "e": "It comes slowly up to the landing stage."
+  },
+  {
+   "s": "Ein Mann wirft ein Seil.",
+   "e": "A man throws a rope."
+  },
+  {
+   "s": "Ein anderer fängt es und bindet es fest.",
+   "e": "Another catches it and ties it fast."
+  },
+  {
+   "s": "Das dauert vierzig Sekunden.",
+   "e": "That takes forty seconds."
+  },
+  {
+   "s": "Dann gehen alle an Bord.",
+   "e": "Then everybody goes on board."
+  },
+  {
+   "s": "Auf dem Schiff gibt es zwei Decks.",
+   "e": "There are two decks on the boat."
+  },
+  {
+   "s": "Das untere Deck ist innen und warm.",
+   "e": "The lower deck is inside and warm."
+  },
+  {
+   "s": "Das obere Deck ist draussen und kalt.",
+   "e": "The upper deck is outside and cold."
+  },
+  {
+   "s": "Alle Touristen sitzen oben.",
+   "e": "All the tourists sit up top."
+  },
+  {
+   "s": "Alle anderen sitzen unten mit der Zeitung.",
+   "e": "Everybody else sits below with the newspaper."
+  },
+  {
+   "s": "Ich sitze oben.",
+   "e": "I sit up top."
+  },
+  {
+   "s": "Ich bin noch nicht so weit.",
+   "e": "I am not there yet."
+  },
+  {
+   "s": "Das Schiff heisst Stadt Luzern.",
+   "e": "The boat is called Stadt Luzern."
+  },
+  {
+   "s": "Es ist ein Dampfschiff von 1928.",
+   "e": "It is a steamer from 1928."
+  },
+  {
+   "s": "Ein Dampfschiff macht Dampf mit Feuer und Wasser.",
+   "e": "A steamer makes steam with fire and water."
+  },
+  {
+   "s": "Man sieht die Maschine durch ein Fenster.",
+   "e": "You can see the engine through a window."
+  },
+  {
+   "s": "Sie ist gross und rot und sie bewegt sich langsam.",
+   "e": "It is big and red and it moves slowly."
+  },
+  {
+   "s": "Ein Mann steht daneben und schaut sie an.",
+   "e": "A man stands next to it and watches it."
+  },
+  {
+   "s": "Das ist seine Arbeit.",
+   "e": "That is his job."
+  },
+  {
+   "s": "Fünf von diesen Schiffen fahren noch.",
+   "e": "Five of these boats are still running."
+  },
+  {
+   "s": "Sie sind alle älter als hundert Jahre.",
+   "e": "They are all more than a hundred years old."
+  },
+  {
+   "s": "Sie fahren jeden Tag, im Fahrplan, mit Billetten.",
+   "e": "They run every day, in the timetable, with tickets."
+  },
+  {
+   "s": "Sie stehen nicht im Museum.",
+   "e": "They are not in a museum."
+  },
+  {
+   "s": "Das gefällt mir sehr.",
+   "e": "I like that very much."
+  },
+  {
+   "s": "Auf dem See ist es ganz still.",
+   "e": "On the lake it is completely quiet."
+  },
+  {
+   "s": "Auf dem See geht ein kalter Wind.",
+   "e": "There is a cold wind on the lake."
+  },
+  {
+   "s": "Oben auf dem Deck merkt man den Wind sofort.",
+   "e": "Up on the deck you notice the wind at once."
+  },
+  {
+   "s": "Auf den See fahren heisst: hinaus, weg vom Ufer.",
+   "e": "Auf den See fahren means: out, away from the shore."
+  },
+  {
+   "s": "Auf dem See sein heisst: schon draussen.",
+   "e": "Auf dem See sein means: already out there."
+  },
+  {
+   "s": "Das ist der ganze Unterschied.",
+   "e": "That is the whole difference."
+  },
+  {
+   "s": "Auf den See ist die Bewegung.",
+   "e": "Auf den See is the movement."
+  },
+  {
+   "s": "Auf dem See ist der Ort.",
+   "e": "Auf dem See is the place."
+  },
+  {
+   "s": "Wohin gegen wo.",
+   "e": "Where to, against where."
+  },
+  {
+   "s": "Ich fahre auf den See hinaus.",
+   "e": "I go out onto the lake."
+  },
+  {
+   "s": "Ich bin auf dem See.",
+   "e": "I am on the lake."
+  },
+  {
+   "s": "Ich schaue auf das Wasser.",
+   "e": "I look at the water."
+  },
+  {
+   "s": "Ich sitze auf dem Wasser.",
+   "e": "I sit on the water."
+  },
+  {
+   "s": "Die gleichen Wörter, zwei Formen, zwei Bedeutungen.",
+   "e": "The same words, two forms, two meanings."
+  },
+  {
+   "s": "Das ist nicht schwer und man muss es hören.",
+   "e": "That is not hard and you have to hear it."
+  },
+  {
+   "s": "Über dem Schiff fliegen Möwen.",
+   "e": "Gulls are flying above the boat."
+  },
+  {
+   "s": "Die Möwen sind gross und laut.",
+   "e": "The gulls are big and loud."
+  },
+  {
+   "s": "Sie fliegen mit dem Schiff mit.",
+   "e": "They fly along with the boat."
+  },
+  {
+   "s": "Eine Frau wirft ihnen Brot hinauf.",
+   "e": "A woman throws bread up to them."
+  },
+  {
+   "s": "Ein Mann sagt: Das darf man nicht.",
+   "e": "A man says: you are not allowed to do that."
+  },
+  {
+   "s": "Sie hört auf.",
+   "e": "She stops."
+  },
+  {
+   "s": "Sie sagt nichts dazu und sie hört auf.",
+   "e": "She says nothing about it and she stops."
+  },
+  {
+   "s": "Rechts steht der Pilatus.",
+   "e": "To the right stands Pilatus."
+  },
+  {
+   "s": "Links stehen kleinere Berge.",
+   "e": "To the left stand smaller mountains."
+  },
+  {
+   "s": "Vorne wird der See schmaler.",
+   "e": "Ahead the lake gets narrower."
+  },
+  {
+   "s": "Zwischen zwei Bergen geht es weiter.",
+   "e": "It continues between two mountains."
+  },
+  {
+   "s": "Das Schiff hält viermal unterwegs.",
+   "e": "The boat stops four times on the way."
+  },
+  {
+   "s": "An jedem Steg steigen zwei oder drei Leute aus.",
+   "e": "At every landing stage two or three people get off."
+  },
+  {
+   "s": "An einem Steg steht nur ein Haus.",
+   "e": "At one landing stage there is only one house."
+  },
+  {
+   "s": "Eine Frau steigt dort aus und geht nach Hause.",
+   "e": "A woman gets off there and walks home."
+  },
+  {
+   "s": "Das ist ihre Haltestelle.",
+   "e": "That is her stop."
+  },
+  {
+   "s": "In Stansstad steige ich aus.",
+   "e": "I get off in Stansstad."
+  },
+  {
+   "s": "Das Schiff fährt weiter Richtung Alpnachstad.",
+   "e": "The boat goes on towards Alpnachstad."
+  },
+  {
+   "s": "Ich schaue ihm nach.",
+   "e": "I watch it go."
+  },
+  {
+   "s": "Fünfunddreissig Minuten und es hat vier Franken gekostet.",
+   "e": "Thirty-five minutes and it cost four francs."
+  },
+  {
+   "s": "Ich habe die ganze Zeit aus dem Fenster geschaut.",
+   "e": "I looked out of the window the whole time."
+  },
+  {
+   "s": "Am Montag im Büro erzähle ich davon.",
+   "e": "On Monday in the office I tell them about it."
+  },
+  {
+   "s": "Marco sagt: Ja, das Schiff ist schön.",
+   "e": "Marco says: yes, the boat is nice."
+  },
+  {
+   "s": "Er sagt es wie einen alten Satz.",
+   "e": "He says it like an old sentence."
+  },
+  {
+   "s": "Er ist damit tausendmal gefahren.",
+   "e": "He has taken it a thousand times."
+  },
+  {
+   "s": "Er sagt: Ich sitze immer unten.",
+   "e": "He says: I always sit below."
+  },
+  {
+   "s": "Ich sitze noch oben.",
+   "e": "I still sit up top."
+  },
+  {
+   "s": "Irgendwann sitze ich auch unten und lese die Zeitung.",
+   "e": "One day I will sit below too and read the paper."
+  },
+  {
+   "s": "Ich hoffe, das dauert noch lange.",
+   "e": "I hope that takes a long time yet."
+  }
+ ]
+}

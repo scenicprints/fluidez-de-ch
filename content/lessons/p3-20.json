@@ -1,0 +1,392 @@
+{
+ "id": "p3-20",
+ "title": "Verlaufen",
+ "desc": "Lost, and having to ask",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "verlaufen",
+  "Hund",
+  "Stunde",
+  "fragen",
+  "gehen"
+ ],
+ "sn": [
+  {
+   "s": "Am Sonntag bin ich allein gegangen.",
+   "e": "On Sunday I went on my own."
+  },
+  {
+   "s": "Das war das erste Mal ohne Timo.",
+   "e": "That was the first time without Timo."
+  },
+  {
+   "s": "Ich habe den Weg auf der Karte angeschaut.",
+   "e": "I looked at the path on the map."
+  },
+  {
+   "s": "Zwei Stunden hinauf, eine Stunde dreissig hinunter.",
+   "e": "Two hours up, one hour thirty down."
+  },
+  {
+   "s": "Ich bin um neun losgegangen.",
+   "e": "I set off at nine."
+  },
+  {
+   "s": "Am Morgen regnet es nicht und der Wind steht still.",
+   "e": "In the morning it is not raining and the wind is still."
+  },
+  {
+   "s": "Ich bringe zwei Liter Wasser mit.",
+   "e": "I bring two litres of water with me."
+  },
+  {
+   "s": "Im Rucksack habe ich auch eine dünne Decke.",
+   "e": "In the rucksack I also have a thin blanket."
+  },
+  {
+   "s": "Ich bringe auch den Ausweis mit.",
+   "e": "I bring my identity card too."
+  },
+  {
+   "s": "Timo bringt bei jedem Berg zu viel Wasser mit.",
+   "e": "Timo brings too much water on every mountain."
+  },
+  {
+   "s": "Das sagt Timo bei jedem Berg.",
+   "e": "Timo says that before every mountain."
+  },
+  {
+   "s": "Timo hat mir das gesagt und ich habe zuerst gelacht.",
+   "e": "Timo told me that and at first I laughed."
+  },
+  {
+   "s": "Die ersten neunzig Minuten sind einfach.",
+   "e": "The first ninety minutes are easy."
+  },
+  {
+   "s": "Alle zwanzig Minuten steht ein gelbes Schild.",
+   "e": "Every twenty minutes there is a yellow sign."
+  },
+  {
+   "s": "Ich schaue jedes Mal hin und alles stimmt.",
+   "e": "I look every time and everything is right."
+  },
+  {
+   "s": "Dann kommt eine Stelle mit drei Wegen.",
+   "e": "Then comes a place with three paths."
+  },
+  {
+   "s": "Am Schild stehen zwei Namen.",
+   "e": "There are two names on the sign."
+  },
+  {
+   "s": "Es gibt drei Wege und zwei Namen.",
+   "e": "There are three paths and two names."
+  },
+  {
+   "s": "Ich nehme den mittleren.",
+   "e": "I take the middle one."
+  },
+  {
+   "s": "Ich nehme ihn, denn er sieht am besten aus.",
+   "e": "I take it, because it looks the best."
+  },
+  {
+   "s": "Das ist der schlechteste Grund von allen.",
+   "e": "That is the worst reason of all."
+  },
+  {
+   "s": "Nach zwanzig Minuten wird der Weg schmaler.",
+   "e": "After twenty minutes the path gets narrower."
+  },
+  {
+   "s": "Nach dreissig Minuten ist er fast weg.",
+   "e": "After thirty minutes it is almost gone."
+  },
+  {
+   "s": "Nach vierzig Minuten stehe ich im Gras.",
+   "e": "After forty minutes I am standing in the grass."
+  },
+  {
+   "s": "Über dem Gras fliegen kleine Vögel.",
+   "e": "Small birds fly over the grass."
+  },
+  {
+   "s": "Nach vier Stunden tut mir alles weh.",
+   "e": "After four hours everything hurts."
+  },
+  {
+   "s": "Ich bin müde und ich bin trotzdem nicht nervös.",
+   "e": "I am tired and I am still not nervous."
+  },
+  {
+   "s": "Es gibt keinen Weg mehr.",
+   "e": "There is no path any more."
+  },
+  {
+   "s": "Es gibt kein weisses und rotes Zeichen mehr.",
+   "e": "There is no white and red marking any more."
+  },
+  {
+   "s": "Sich verlaufen heisst: den Weg verlieren.",
+   "e": "Sich verlaufen means: to lose the way."
+  },
+  {
+   "s": "Ich habe mich verlaufen.",
+   "e": "I have lost my way."
+  },
+  {
+   "s": "Du hast dich verlaufen.",
+   "e": "You have lost your way."
+  },
+  {
+   "s": "Er hat sich verlaufen.",
+   "e": "He has lost his way."
+  },
+  {
+   "s": "Das sich gehört immer dazu.",
+   "e": "The sich always belongs with it."
+  },
+  {
+   "s": "Zuerst bin ich ruhig.",
+   "e": "At first I am calm."
+  },
+  {
+   "s": "Ich gehe zurück und suche das Zeichen.",
+   "e": "I go back and look for the marking."
+  },
+  {
+   "s": "Ich finde es nicht.",
+   "e": "I do not find it."
+  },
+  {
+   "s": "Nach zehn Minuten bin ich nicht mehr ruhig.",
+   "e": "After ten minutes I am not calm any more."
+  },
+  {
+   "s": "Das Handy hat kein Netz.",
+   "e": "The phone has no signal."
+  },
+  {
+   "s": "Das ist hier selten und es passiert.",
+   "e": "That is rare here and it happens."
+  },
+  {
+   "s": "Ich stehe still und höre zu.",
+   "e": "I stand still and listen."
+  },
+  {
+   "s": "Ich höre Wasser und sonst nichts.",
+   "e": "I hear water and nothing else."
+  },
+  {
+   "s": "Dann höre ich einen Hund.",
+   "e": "Then I hear a dog."
+  },
+  {
+   "s": "Ein Hund heisst: ein Mensch.",
+   "e": "A dog means: a person."
+  },
+  {
+   "s": "Ich gehe zum Hund.",
+   "e": "I go towards the dog."
+  },
+  {
+   "s": "Nach fünf Minuten sehe ich eine Frau mit zwei Hunden.",
+   "e": "After five minutes I see a woman with two dogs."
+  },
+  {
+   "s": "Sie ist ungefähr sechzig.",
+   "e": "She is about sixty."
+  },
+  {
+   "s": "Sie hat Stöcke und die richtigen Schuhe.",
+   "e": "She has poles and the right shoes."
+  },
+  {
+   "s": "Ich sage: Grüezi. Entschuldigung.",
+   "e": "I say: Grüezi. Excuse me."
+  },
+  {
+   "s": "Ich sage: Können Sie mir den Weg zeigen?",
+   "e": "I say: can you show me the way?"
+  },
+  {
+   "s": "Können Sie mir ist die höfliche Form.",
+   "e": "Können Sie mir is the polite form."
+  },
+  {
+   "s": "Man fragt nicht: Wo ist der Weg?",
+   "e": "You do not ask: where is the path?"
+  },
+  {
+   "s": "Man fragt: Können Sie mir den Weg zeigen?",
+   "e": "You ask: can you show me the way?"
+  },
+  {
+   "s": "Es ist länger und es ist viel besser.",
+   "e": "It is longer and it is much better."
+  },
+  {
+   "s": "Sie schaut mich an und schaut auf meine Schuhe.",
+   "e": "She looks at me and looks at my shoes."
+  },
+  {
+   "s": "Sie fragt: Wo wollen Sie hin?",
+   "e": "She asks: where do you want to get to?"
+  },
+  {
+   "s": "Ich sage den Namen vom Ort.",
+   "e": "I say the name of the place."
+  },
+  {
+   "s": "Sie sagt: Ah. Sie sind zu weit links.",
+   "e": "She says: ah. You are too far to the left."
+  },
+  {
+   "s": "Sie sagt: Das machen viele hier.",
+   "e": "She says: a lot of people do that here."
+  },
+  {
+   "s": "Sie sagt es ohne ein Gesicht.",
+   "e": "She says it without a look."
+  },
+  {
+   "s": "Sie sagt: Ich gehe auch dorthin. Kommen Sie.",
+   "e": "She says: I am going there too. Come along."
+  },
+  {
+   "s": "Sie geht nicht dorthin.",
+   "e": "She is not going there."
+  },
+  {
+   "s": "Das habe ich erst später gemerkt.",
+   "e": "I only realised that later."
+  },
+  {
+   "s": "Sie geht zwanzig Minuten mit mir zurück.",
+   "e": "She walks back with me for twenty minutes."
+  },
+  {
+   "s": "Sie geht mit mir bis zum richtigen Weg.",
+   "e": "She walks with me as far as the right path."
+  },
+  {
+   "s": "Sie bringt mich bis zum Schild und dann geht sie.",
+   "e": "She takes me as far as the sign and then she goes."
+  },
+  {
+   "s": "Sie redet dabei über die Hunde.",
+   "e": "She talks about the dogs as she goes."
+  },
+  {
+   "s": "Sie redet nicht über meinen Fehler.",
+   "e": "She does not talk about my mistake."
+  },
+  {
+   "s": "Am Schild bleibt sie stehen.",
+   "e": "She stops at the sign."
+  },
+  {
+   "s": "Sie zeigt: Von hier zwei Stunden.",
+   "e": "She points: from here two hours."
+  },
+  {
+   "s": "Sie sagt: Immer den weissen und roten Zeichen nach.",
+   "e": "She says: always follow the white and red markings."
+  },
+  {
+   "s": "Sie sagt: Und bei drei Wegen immer zurück zum Schild.",
+   "e": "She says: and with three paths always go back to the sign."
+  },
+  {
+   "s": "Das ist die ganze Regel.",
+   "e": "That is the whole rule."
+  },
+  {
+   "s": "Bei einem Zweifel geht man zurück.",
+   "e": "At any doubt you go back."
+  },
+  {
+   "s": "Zurück ist nie ein Fehler.",
+   "e": "Back is never a mistake."
+  },
+  {
+   "s": "Ich sage: Merci vielmal. Wirklich.",
+   "e": "I say: thank you very much. Really."
+  },
+  {
+   "s": "Sie sagt: Nichts zu danken.",
+   "e": "She says: not at all."
+  },
+  {
+   "s": "Sie sagt: Schönen Tag noch.",
+   "e": "She says: have a good day."
+  },
+  {
+   "s": "Dann geht sie in die andere Richtung.",
+   "e": "Then she goes off in the other direction."
+  },
+  {
+   "s": "Zurück in ihre eigene Richtung.",
+   "e": "Back in her own direction."
+  },
+  {
+   "s": "Ich habe mich hier verlaufen und es war nicht gefährlich.",
+   "e": "I got lost here and it was not dangerous."
+  },
+  {
+   "s": "Das ist ein Luxus und man merkt ihn nicht.",
+   "e": "That is a luxury and you do not notice it."
+  },
+  {
+   "s": "Es gibt Wege und Schilder und Zeichen.",
+   "e": "There are paths and signs and markings."
+  },
+  {
+   "s": "Es gibt Leute und Hütten und Nummern zum Anrufen.",
+   "e": "There are people and huts and numbers to call."
+  },
+  {
+   "s": "Man ist nie mehr als zwei Stunden von einer Strasse weg.",
+   "e": "You are never more than two hours from a road."
+  },
+  {
+   "s": "In anderen Bergen ist das anders.",
+   "e": "In other mountains that is different."
+  },
+  {
+   "s": "Am Abend erzähle ich es Timo.",
+   "e": "In the evening I tell Timo."
+  },
+  {
+   "s": "Er lacht nicht.",
+   "e": "He does not laugh."
+  },
+  {
+   "s": "Er sagt: Das passiert allen einmal.",
+   "e": "He says: that happens to everybody once."
+  },
+  {
+   "s": "Er sagt: Mir auch, mit sechzehn.",
+   "e": "He says: to me too, at sixteen."
+  },
+  {
+   "s": "Er sagt: Und der Rückweg dauert immer länger.",
+   "e": "He says: and the way back always takes longer."
+  },
+  {
+   "s": "Dann sagt er noch etwas.",
+   "e": "Then he says something else."
+  },
+  {
+   "s": "Er sagt: Du hast gefragt. Das ist das Wichtige.",
+   "e": "He says: you asked. That is the important part."
+  },
+  {
+   "s": "Er sagt: Die meisten fragen zu spät.",
+   "e": "He says: most people ask too late."
+  }
+ ]
+}

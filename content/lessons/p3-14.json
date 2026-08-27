@@ -1,0 +1,381 @@
+{
+ "id": "p3-14",
+ "title": "Das Schwingfest",
+ "desc": "The national sport, in a ring of sawdust",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Ring",
+  "Sägemehl",
+  "Gewinner",
+  "Hose",
+  "Fest",
+  "halten"
+ ],
+ "sn": [
+  {
+   "s": "Im August hat Timo mich mitgenommen.",
+   "e": "In August Timo took me with him."
+  },
+  {
+   "s": "Er hat gesagt: Wir gehen an ein Schwingfest.",
+   "e": "He said: we are going to a Schwingfest."
+  },
+  {
+   "s": "Ich habe das Wort nicht gekannt.",
+   "e": "I did not know the word."
+  },
+  {
+   "s": "Schwingen ist der Sport von diesem Land.",
+   "e": "Schwingen is this country's sport."
+  },
+  {
+   "s": "Nicht Fussball. Fussball ist auch da.",
+   "e": "Not football. Football is there too."
+  },
+  {
+   "s": "Aber Schwingen ist etwas anderes.",
+   "e": "But Schwingen is something else."
+  },
+  {
+   "s": "Es ist alt und es ist vom Land.",
+   "e": "It is old and it comes from the countryside."
+  },
+  {
+   "s": "Zwei Männer stehen in einem Ring.",
+   "e": "Two men stand in a ring."
+  },
+  {
+   "s": "Der Ring ist voll mit Sägemehl.",
+   "e": "The ring is full of sawdust."
+  },
+  {
+   "s": "Sägemehl ist das Holz vom Sägen, ganz klein.",
+   "e": "Sawdust is wood from sawing, very fine."
+  },
+  {
+   "s": "Es ist weich und man fällt gut darauf.",
+   "e": "It is soft and you fall well on it."
+  },
+  {
+   "s": "Der Ring ist zwölf Meter breit.",
+   "e": "The ring is twelve metres across."
+  },
+  {
+   "s": "Um den Ring herum sitzen die Leute.",
+   "e": "The people sit around the ring."
+  },
+  {
+   "s": "Auf dem Platz spielt eine Musik.",
+   "e": "A band plays on the square."
+  },
+  {
+   "s": "Sie spielt zwischen den Kämpfen.",
+   "e": "It plays between the bouts."
+  },
+  {
+   "s": "Auf dem Schild am Ring steht das Datum.",
+   "e": "The date is on the sign by the ring."
+  },
+  {
+   "s": "Eine Maschine macht das Sägemehl im Ring wieder flach.",
+   "e": "A machine flattens the sawdust in the ring again."
+  },
+  {
+   "s": "Die Kinder schlafen auf einer Decke im Gras.",
+   "e": "The children sleep on a blanket in the grass."
+  },
+  {
+   "s": "Das Fest dauert bis in die Nacht.",
+   "e": "The festival lasts into the night."
+  },
+  {
+   "s": "Bei einem grossen Fest sind es fünfzigtausend.",
+   "e": "At a big festival there are fifty thousand."
+  },
+  {
+   "s": "Bei diesem Fest sind es zweitausend.",
+   "e": "At this festival there are two thousand."
+  },
+  {
+   "s": "Die Schwinger tragen eine kurze Hose aus Stoff.",
+   "e": "The wrestlers wear a short pair of cloth trousers."
+  },
+  {
+   "s": "Die Hose heisst Schwinghose.",
+   "e": "The trousers are called Schwinghosen."
+  },
+  {
+   "s": "Sie ist stark und sie hat einen Gürtel.",
+   "e": "They are strong and they have a belt."
+  },
+  {
+   "s": "Jeder hält den anderen an der Hose.",
+   "e": "Each holds the other by the trousers."
+  },
+  {
+   "s": "Sie ziehen die Schwinghose über die eigene Hose an.",
+   "e": "They put the Schwinghose on over their own trousers."
+  },
+  {
+   "s": "Nach dem Kampf ziehen sie sie wieder aus.",
+   "e": "After the bout they take them off again."
+  },
+  {
+   "s": "Das ist der Griff.",
+   "e": "That is the grip."
+  },
+  {
+   "s": "Der Griff ist die ganze Regel.",
+   "e": "The grip is the whole rule."
+  },
+  {
+   "s": "Man muss den Griff die ganze Zeit halten.",
+   "e": "You have to keep hold of the grip the whole time."
+  },
+  {
+   "s": "Man lässt nie los.",
+   "e": "You never let go."
+  },
+  {
+   "s": "Dann wirft man den anderen auf den Rücken.",
+   "e": "Then you throw the other onto his back."
+  },
+  {
+   "s": "Werfen ist das Wort dafür.",
+   "e": "Werfen is the word for it."
+  },
+  {
+   "s": "Beide Schultern müssen das Sägemehl berühren.",
+   "e": "Both shoulders have to touch the sawdust."
+  },
+  {
+   "s": "Und man muss ihn dabei halten.",
+   "e": "And you have to be holding him while it happens."
+  },
+  {
+   "s": "Das ist alles.",
+   "e": "That is all."
+  },
+  {
+   "s": "Timo hat es mir dreimal erklärt.",
+   "e": "Timo explained it to me three times."
+  },
+  {
+   "s": "Ich habe dreimal gesagt: Aha.",
+   "e": "Three times I said: ah."
+  },
+  {
+   "s": "Ich habe den Gewinner nicht gesehen.",
+   "e": "I could not see the winner."
+  },
+  {
+   "s": "Die zwei Männer stehen zwei Minuten fast still.",
+   "e": "The two men stand almost still for two minutes."
+  },
+  {
+   "s": "Sie halten sich und sie bewegen sich kaum.",
+   "e": "They hold each other and they hardly move."
+  },
+  {
+   "s": "Dann geht plötzlich alles sehr schnell.",
+   "e": "Then suddenly everything goes very fast."
+  },
+  {
+   "s": "Einer liegt im Sägemehl und der andere steht.",
+   "e": "One is lying in the sawdust and the other is standing."
+  },
+  {
+   "s": "Und dann kommt das Beste.",
+   "e": "And then comes the best part."
+  },
+  {
+   "s": "Der Gewinner geht zum anderen hin.",
+   "e": "The winner goes over to the other man."
+  },
+  {
+   "s": "Er hilft ihm auf.",
+   "e": "He helps him up."
+  },
+  {
+   "s": "Und dann putzt er ihm das Sägemehl vom Rücken.",
+   "e": "And then he brushes the sawdust off his back."
+  },
+  {
+   "s": "Mit der Hand, langsam, ganz genau.",
+   "e": "With his hand, slowly, very carefully."
+  },
+  {
+   "s": "Der Gewinner putzt den Verlierer.",
+   "e": "The winner cleans the loser."
+  },
+  {
+   "s": "Jedes Mal. Bei jedem Kampf.",
+   "e": "Every time. At every bout."
+  },
+  {
+   "s": "Das ist keine Höflichkeit für die Leute.",
+   "e": "That is not politeness for the crowd."
+  },
+  {
+   "s": "Das gehört zum Sport.",
+   "e": "That is part of the sport."
+  },
+  {
+   "s": "Das habe ich sofort verstanden.",
+   "e": "I understood that at once."
+  },
+  {
+   "s": "Die Regeln habe ich erst später verstanden.",
+   "e": "I only understood the rules later."
+  },
+  {
+   "s": "Ein kleiner Mann kämpft gegen einen grossen.",
+   "e": "A small man fights a big one."
+  },
+  {
+   "s": "Manchmal gewinnt der kleine.",
+   "e": "Sometimes the small one wins."
+  },
+  {
+   "s": "Es gibt kein Geld.",
+   "e": "There is no money."
+  },
+  {
+   "s": "Der Gewinner bekommt einen Kranz.",
+   "e": "The winner gets a wreath."
+  },
+  {
+   "s": "Ein Kranz ist ein Ring aus Blättern.",
+   "e": "A wreath is a ring of leaves."
+  },
+  {
+   "s": "Man trägt ihn auf dem Kopf.",
+   "e": "You wear it on your head."
+  },
+  {
+   "s": "Ein grosser schwerer Mann mit einem Kranz aus Blättern.",
+   "e": "A big heavy man with a wreath of leaves."
+  },
+  {
+   "s": "Es tönt lächerlich und es ist es nicht.",
+   "e": "It sounds ridiculous and it is not."
+  },
+  {
+   "s": "Alle drei Jahre gibt es das grosse Fest.",
+   "e": "Every three years there is the big festival."
+  },
+  {
+   "s": "Es heisst das Eidgenössische.",
+   "e": "It is called the Eidgenössisches."
+  },
+  {
+   "s": "Dort kommen fünfzigtausend Leute.",
+   "e": "Fifty thousand people come to that."
+  },
+  {
+   "s": "Der Gewinner heisst Schwingerkönig.",
+   "e": "The winner is called the Schwingerkönig."
+  },
+  {
+   "s": "Er ist drei Jahre lang König.",
+   "e": "He is king for three years."
+  },
+  {
+   "s": "Er bekommt einen Kranz und einen Stier.",
+   "e": "He gets a wreath and a bull."
+  },
+  {
+   "s": "Einen echten Stier, mit vier Beinen.",
+   "e": "A real bull, with four legs."
+  },
+  {
+   "s": "Der Stier steht neben dem Ring und wartet.",
+   "e": "The bull stands next to the ring and waits."
+  },
+  {
+   "s": "Am Schluss führt man ihn hinein.",
+   "e": "At the end they lead it in."
+  },
+  {
+   "s": "Der König steht daneben und weiss nicht wohin.",
+   "e": "The king stands next to it and does not know where to look."
+  },
+  {
+   "s": "Die meisten verkaufen den Stier am nächsten Tag.",
+   "e": "Most of them sell the bull the next day."
+  },
+  {
+   "s": "Ein Schwinger ist kein Sportler von Beruf.",
+   "e": "A wrestler is not a professional sportsman."
+  },
+  {
+   "s": "Er ist Bauer oder Schreiner oder Käser.",
+   "e": "He is a farmer or a carpenter or a cheesemaker."
+  },
+  {
+   "s": "Er arbeitet am Montag wieder.",
+   "e": "He is back at work on Monday."
+  },
+  {
+   "s": "Timo sagt: Das ist der ganze Punkt.",
+   "e": "Timo says: that is the whole point."
+  },
+  {
+   "s": "Er sagt: Ein König mit einer Werkstatt.",
+   "e": "He says: a king with a workshop."
+  },
+  {
+   "s": "Am Fest gibt es auch Musik und Wurst und Bier.",
+   "e": "At the festival there is also music and sausage and beer."
+  },
+  {
+   "s": "Es gibt einen alten Mann mit einem Alphorn.",
+   "e": "There is an old man with an alphorn."
+  },
+  {
+   "s": "Es gibt Kinder im Sägemehl neben dem Ring.",
+   "e": "There are children in the sawdust next to the ring."
+  },
+  {
+   "s": "Sie machen alles nach.",
+   "e": "They copy everything."
+  },
+  {
+   "s": "Sie halten sich an der Hose und fallen um.",
+   "e": "They hold each other by the trousers and fall over."
+  },
+  {
+   "s": "Niemand sagt ihnen etwas.",
+   "e": "Nobody says anything to them."
+  },
+  {
+   "s": "Am Abend habe ich immer noch nicht alles verstanden.",
+   "e": "By the evening I still had not understood everything."
+  },
+  {
+   "s": "Ich habe Timo dreimal gefragt: Warum hat der gewonnen?",
+   "e": "I asked Timo three times: why did he win?"
+  },
+  {
+   "s": "Er hat es dreimal langsam erklärt.",
+   "e": "Three times he explained it slowly."
+  },
+  {
+   "s": "Beim vierten Mal habe ich es gesehen.",
+   "e": "The fourth time I saw it."
+  },
+  {
+   "s": "Beide Schultern im Sägemehl, und die Hand hält noch.",
+   "e": "Both shoulders in the sawdust, and the hand still holding."
+  },
+  {
+   "s": "Ich habe laut etwas gerufen.",
+   "e": "I shouted something out loud."
+  },
+  {
+   "s": "Timo hat gelacht und nichts gesagt.",
+   "e": "Timo laughed and said nothing."
+  }
+ ]
+}

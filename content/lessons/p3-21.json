@@ -1,0 +1,372 @@
+{
+ "id": "p3-21",
+ "title": "Eine Nachricht",
+ "desc": "Your phone lights up",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Wort"
+ ],
+ "sn": [
+  {
+   "s": "Am Mittwochabend um zwanzig nach neun.",
+   "e": "On Wednesday evening at twenty past nine."
+  },
+  {
+   "s": "Das Handy macht ein Geräusch.",
+   "e": "The phone makes a noise."
+  },
+  {
+   "s": "Auf dem Bildschirm steht ein Name.",
+   "e": "There is a name on the screen."
+  },
+  {
+   "s": "Selina.",
+   "e": "Selina."
+  },
+  {
+   "s": "Die Nachricht ist kurz.",
+   "e": "The message is short."
+  },
+  {
+   "s": "Sie ist sehr kurz.",
+   "e": "It is very short."
+  },
+  {
+   "s": "Sie hat neun Wörter.",
+   "e": "It has nine words."
+  },
+  {
+   "s": "Hast du am Samstag schon etwas vor?",
+   "e": "Have you got anything on on Saturday?"
+  },
+  {
+   "s": "Ich lese sie elfmal.",
+   "e": "I read it eleven times."
+  },
+  {
+   "s": "Ich lese neun Wörter elfmal.",
+   "e": "I read nine words eleven times."
+  },
+  {
+   "s": "Das sind neunundneunzig Wörter.",
+   "e": "That is ninety-nine words."
+  },
+  {
+   "s": "Vorhaben heisst: einen Plan haben.",
+   "e": "Vorhaben means: to have a plan."
+  },
+  {
+   "s": "Ich habe am Samstag etwas vor.",
+   "e": "I have something on on Saturday."
+  },
+  {
+   "s": "Hast du am Freitag etwas vor?",
+   "e": "Have you got anything on on Friday?"
+  },
+  {
+   "s": "Das vor steht am Ende.",
+   "e": "The vor stands at the end."
+  },
+  {
+   "s": "Es ist wieder ein Verb mit zwei Teilen.",
+   "e": "It is another verb with two parts."
+  },
+  {
+   "s": "Das Problem ist nicht das Verb.",
+   "e": "The problem is not the verb."
+  },
+  {
+   "s": "Das Problem ist der Ton.",
+   "e": "The problem is the tone."
+  },
+  {
+   "s": "Auf Deutsch tönt das sehr normal.",
+   "e": "In German that sounds very normal."
+  },
+  {
+   "s": "Es tönt wie eine Frage von Timo.",
+   "e": "It sounds like a question from Timo."
+  },
+  {
+   "s": "Es tönt wie eine Frage von Marco.",
+   "e": "It sounds like a question from Marco."
+  },
+  {
+   "s": "Es tönt genau gleich.",
+   "e": "It sounds exactly the same."
+  },
+  {
+   "s": "Und darum weiss ich gar nichts.",
+   "e": "And so I know nothing at all."
+  },
+  {
+   "s": "Zu Hause schreibt man anders.",
+   "e": "At home people write differently."
+  },
+  {
+   "s": "Zu Hause steht in einer solchen Nachricht mehr.",
+   "e": "At home there is more in a message like that."
+  },
+  {
+   "s": "Es stehen Wörter für die Stimmung drin.",
+   "e": "There are words for the mood in it."
+  },
+  {
+   "s": "Hier steht die Frage und sonst nichts.",
+   "e": "Here there is the question and nothing else."
+  },
+  {
+   "s": "Neun Wörter und kein einziges Zeichen dazu.",
+   "e": "Nine words and not a single symbol with it."
+  },
+  {
+   "s": "Ich schreibe eine Antwort und lösche sie.",
+   "e": "I write an answer and delete it."
+  },
+  {
+   "s": "Ich schreibe eine zweite und lösche sie auch.",
+   "e": "I write a second one and delete that too."
+  },
+  {
+   "s": "Die erste war zu lang.",
+   "e": "The first was too long."
+  },
+  {
+   "s": "Die zweite war zu kurz.",
+   "e": "The second was too short."
+  },
+  {
+   "s": "Nach zwanzig Minuten schreibe ich: Nein. Was ist los?",
+   "e": "After twenty minutes I write: no. What is up?"
+  },
+  {
+   "s": "Fünf Wörter.",
+   "e": "Five words."
+  },
+  {
+   "s": "Sie antwortet nach vier Minuten.",
+   "e": "She answers after four minutes."
+  },
+  {
+   "s": "Sie schreibt: Rigi. Ich zeige dir die bessere.",
+   "e": "She writes: Rigi. I will show you the better one."
+  },
+  {
+   "s": "Und dann: 9.12 ab Vitznau.",
+   "e": "And then: 9.12 from Vitznau."
+  },
+  {
+   "s": "Eine Uhrzeit und ein Ort.",
+   "e": "A time and a place."
+  },
+  {
+   "s": "Das ist hier die ganze Sprache für so etwas.",
+   "e": "That is the whole language for this here."
+  },
+  {
+   "s": "Kein vielleicht. Kein irgendwann.",
+   "e": "No maybe. No some time."
+  },
+  {
+   "s": "Eine Zeit und ein Ort und die Sache gilt.",
+   "e": "A time and a place and the thing holds."
+  },
+  {
+   "s": "Ich schreibe: Bin da.",
+   "e": "I write: I will be there."
+  },
+  {
+   "s": "Zwei Wörter.",
+   "e": "Two words."
+  },
+  {
+   "s": "Das ist genau richtig und ich weiss es jetzt.",
+   "e": "That is exactly right and I know it now."
+  },
+  {
+   "s": "Vor acht Monaten habe ich vier Zeilen geschrieben.",
+   "e": "Eight months ago I wrote four lines."
+  },
+  {
+   "s": "Dann lege ich das Handy weg.",
+   "e": "Then I put the phone down."
+  },
+  {
+   "s": "Ich nehme es nach einer Minute wieder.",
+   "e": "I pick it up again after a minute."
+  },
+  {
+   "s": "Ich lese die zwei Nachrichten noch einmal.",
+   "e": "I read the two messages again."
+  },
+  {
+   "s": "Daneben liegt ein Foto vom Pilatus.",
+   "e": "Next to them is a photograph of Pilatus."
+  },
+  {
+   "s": "Ich lese sie mit Timos Nachrichten daneben.",
+   "e": "I read them next to Timo's messages."
+  },
+  {
+   "s": "Sie sind genau gleich geschrieben.",
+   "e": "They are written in exactly the same way."
+  },
+  {
+   "s": "Also heisst es nichts.",
+   "e": "So it means nothing."
+  },
+  {
+   "s": "Oder es heisst etwas und man sieht es nicht.",
+   "e": "Or it means something and you cannot see it."
+  },
+  {
+   "s": "Das ist der ganze Punkt an diesem Land.",
+   "e": "That is the whole point about this country."
+  },
+  {
+   "s": "Am Donnerstag frage ich Timo nichts.",
+   "e": "On Thursday I ask Timo nothing."
+  },
+  {
+   "s": "Am Freitag frage ich ihn auch nichts.",
+   "e": "On Friday I ask him nothing either."
+  },
+  {
+   "s": "Er sagt am Freitag von allein etwas.",
+   "e": "On Friday he says something of his own accord."
+  },
+  {
+   "s": "Er sagt: Du gehst am Samstag auf die Rigi.",
+   "e": "He says: you are going up Rigi on Saturday."
+  },
+  {
+   "s": "Er sagt es und es ist keine Frage.",
+   "e": "He says it and it is not a question."
+  },
+  {
+   "s": "Ich sage: Woher weisst du das?",
+   "e": "I say: how do you know that?"
+  },
+  {
+   "s": "Er sagt: Stans.",
+   "e": "He says: Stans."
+  },
+  {
+   "s": "Ein Wort und es erklärt alles.",
+   "e": "One word and it explains everything."
+  },
+  {
+   "s": "Dann sagt er noch etwas.",
+   "e": "Then he says something else."
+  },
+  {
+   "s": "Er sagt: Sie geht nicht mit jedem auf einen Berg.",
+   "e": "He says: she does not go up a mountain with just anybody."
+  },
+  {
+   "s": "Er sagt es ganz normal, zwischen zwei Sätzen über Holz.",
+   "e": "He says it quite normally, between two sentences about wood."
+  },
+  {
+   "s": "Er schaut mich dabei nicht an.",
+   "e": "He does not look at me as he says it."
+  },
+  {
+   "s": "Grösser sagt hier niemand etwas.",
+   "e": "Nobody here says anything bigger."
+  },
+  {
+   "s": "Am Samstagmorgen stehe ich um sieben auf.",
+   "e": "On Saturday morning I get up at seven."
+  },
+  {
+   "s": "Ich schlafe in der Nacht davor schlecht.",
+   "e": "I sleep badly the night before."
+  },
+  {
+   "s": "Ich ziehe dreimal etwas anderes an und wieder aus.",
+   "e": "Three times I put something on and take it off again."
+  },
+  {
+   "s": "Im Kalender steht ein Datum und sonst nichts.",
+   "e": "There is a date in the calendar and nothing else."
+  },
+  {
+   "s": "Ich bin um acht Uhr zwanzig am Steg.",
+   "e": "I am at the landing stage at twenty past eight."
+  },
+  {
+   "s": "Das Schiff geht um acht Uhr fünfunddreissig.",
+   "e": "The boat goes at twenty-five to nine."
+  },
+  {
+   "s": "Ich bin fünfzehn Minuten zu früh da.",
+   "e": "I am there fifteen minutes early."
+  },
+  {
+   "s": "Vor einem Jahr bin ich zu spät gekommen.",
+   "e": "A year ago I came late."
+  },
+  {
+   "s": "Auf dem Schiff ist es kalt und leer.",
+   "e": "On the boat it is cold and empty."
+  },
+  {
+   "s": "Der See ist ganz flach an diesem Morgen.",
+   "e": "The lake is completely flat that morning."
+  },
+  {
+   "s": "Ich setze mich unten hin und stehe wieder auf.",
+   "e": "I sit down below and stand up again."
+  },
+  {
+   "s": "Ich bin pünktlich, wie immer jetzt.",
+   "e": "I am on time, the way I always am now."
+  },
+  {
+   "s": "Ich sitze unten, mit einer Zeitung.",
+   "e": "I sit below, with a newspaper."
+  },
+  {
+   "s": "Ich lese die Zeitung nicht.",
+   "e": "I do not read the newspaper."
+  },
+  {
+   "s": "In Vitznau steht sie schon am Steg.",
+   "e": "In Vitznau she is already standing at the landing stage."
+  },
+  {
+   "s": "Sie hat einen Rucksack und zwei Billette in der Hand.",
+   "e": "She has a rucksack and two tickets in her hand."
+  },
+  {
+   "s": "Sie sagt: Hoi. Ich habe schon gelöst.",
+   "e": "She says: hi. I have already got them."
+  },
+  {
+   "s": "Lösen heisst hier: ein Billett kaufen.",
+   "e": "Lösen here means: to buy a ticket."
+  },
+  {
+   "s": "Ich sage: Dann zahle ich den Kaffee oben.",
+   "e": "I say: then I will pay for the coffee up top."
+  },
+  {
+   "s": "Sie sagt: Abgemacht.",
+   "e": "She says: agreed."
+  },
+  {
+   "s": "Die Bahn fährt um neun Uhr zwölf.",
+   "e": "The railway leaves at twelve past nine."
+  },
+  {
+   "s": "Nach der Bahn gehen wir oben eine Stunde spazieren.",
+   "e": "After the railway we walk for an hour up top."
+  },
+  {
+   "s": "Sie fährt genau um neun Uhr zwölf.",
+   "e": "It leaves at exactly twelve past nine."
+  }
+ ]
+}

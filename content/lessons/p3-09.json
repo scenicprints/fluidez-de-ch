@@ -1,0 +1,357 @@
+{
+ "id": "p3-09",
+ "title": "Auf den Pilatus",
+ "desc": "The steepest railway in the world",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "steil",
+  "Bahn"
+ ],
+ "sn": [
+  {
+   "s": "Der Pilatus ist der Berg von Luzern.",
+   "e": "Pilatus is the Luzern mountain."
+  },
+  {
+   "s": "Man sieht ihn von überall in der Stadt.",
+   "e": "You can see it from everywhere in the town."
+  },
+  {
+   "s": "Er ist zweitausendeinhundert Meter hoch.",
+   "e": "It is two thousand one hundred metres high."
+  },
+  {
+   "s": "Es gibt drei Wege hinauf.",
+   "e": "There are three ways up."
+  },
+  {
+   "s": "Zu Fuss dauert es vier Stunden.",
+   "e": "On foot it takes four hours."
+  },
+  {
+   "s": "Mit der Seilbahn von Kriens dauert es dreissig Minuten.",
+   "e": "By cable car from Kriens it takes thirty minutes."
+  },
+  {
+   "s": "Mit der Zahnradbahn dauert es fünfunddreissig Minuten.",
+   "e": "By cogwheel railway it takes thirty-five minutes."
+  },
+  {
+   "s": "Timo sagt: Wir machen die Goldene Rundfahrt.",
+   "e": "Timo says: we are doing the Golden Round Trip."
+  },
+  {
+   "s": "Eine Rundfahrt geht im Kreis.",
+   "e": "A round trip goes in a circle."
+  },
+  {
+   "s": "Man kommt nicht auf dem gleichen Weg zurück.",
+   "e": "You do not come back the same way."
+  },
+  {
+   "s": "Zuerst das Schiff nach Alpnachstad.",
+   "e": "First the boat to Alpnachstad."
+  },
+  {
+   "s": "Dann die Zahnradbahn hinauf.",
+   "e": "Then the cogwheel railway up."
+  },
+  {
+   "s": "Dann die Seilbahn hinunter nach Kriens.",
+   "e": "Then the cable car down to Kriens."
+  },
+  {
+   "s": "Dann der Bus zurück in die Stadt.",
+   "e": "Then the bus back into town."
+  },
+  {
+   "s": "Vier Fahrten, ein Billett, ein Kreis.",
+   "e": "Four journeys, one ticket, one circle."
+  },
+  {
+   "s": "Eine Zahnradbahn hat ein Rad mit Zähnen.",
+   "e": "A cogwheel railway has a wheel with teeth."
+  },
+  {
+   "s": "Das Rad greift in die Schiene.",
+   "e": "The wheel grips into the rail."
+  },
+  {
+   "s": "Ein normaler Zug rutscht auf steilen Strecken.",
+   "e": "A normal train slips on steep stretches."
+  },
+  {
+   "s": "Eine Zahnradbahn rutscht nicht.",
+   "e": "A cogwheel railway does not slip."
+  },
+  {
+   "s": "Sie geht so steil hinauf wie sonst nichts.",
+   "e": "It goes up steeper than anything else."
+  },
+  {
+   "s": "Die Bahn auf den Pilatus ist die steilste der Welt.",
+   "e": "The Pilatus railway is the steepest in the world."
+  },
+  {
+   "s": "Sie geht mit achtundvierzig Prozent hinauf.",
+   "e": "It goes up at forty-eight per cent."
+  },
+  {
+   "s": "Achtundvierzig Prozent heisst: fast halb so steil wie eine Wand.",
+   "e": "Forty-eight per cent means: almost half as steep as a wall."
+  },
+  {
+   "s": "Prozent ist die Zahl für steil.",
+   "e": "Per cent is the number for steep."
+  },
+  {
+   "s": "Eine steile Strasse hat zehn Prozent.",
+   "e": "A steep road has ten per cent."
+  },
+  {
+   "s": "Eine sehr steile Strasse hat achtzehn.",
+   "e": "A very steep road has eighteen."
+  },
+  {
+   "s": "Diese Bahn hat achtundvierzig.",
+   "e": "This railway has forty-eight."
+  },
+  {
+   "s": "Ich habe die Zahl gelesen und nichts verstanden.",
+   "e": "I read the number and understood nothing."
+  },
+  {
+   "s": "Ich habe es erst im Wagen verstanden.",
+   "e": "I only understood it in the carriage."
+  },
+  {
+   "s": "Der Wagen ist innen wie eine Treppe gebaut.",
+   "e": "The carriage is built inside like a staircase."
+  },
+  {
+   "s": "Die Sitze stehen in Stufen hintereinander.",
+   "e": "The seats are in steps one behind the other."
+  },
+  {
+   "s": "Die Bahn steht und alles ist schief.",
+   "e": "The railway stands still and everything is at an angle."
+  },
+  {
+   "s": "Die Bahn fährt und alles ist gerade.",
+   "e": "The railway moves and everything is straight."
+  },
+  {
+   "s": "Das ist eine sehr komische Sache im Kopf.",
+   "e": "That is a very odd thing in your head."
+  },
+  {
+   "s": "Die Bahn fährt sehr langsam los.",
+   "e": "The railway sets off very slowly."
+  },
+  {
+   "s": "Sie fährt pünktlich um zehn Uhr zehn.",
+   "e": "It leaves punctually at ten past ten."
+  },
+  {
+   "s": "Nach zwei Minuten ist es steil.",
+   "e": "After two minutes it is steep."
+  },
+  {
+   "s": "Nach fünf Minuten schaue ich nach unten.",
+   "e": "After five minutes I look down."
+  },
+  {
+   "s": "Unter mir sind die Bäume und dann nichts.",
+   "e": "Below me are the trees and then nothing."
+  },
+  {
+   "s": "Ich schaue nicht mehr nach unten.",
+   "e": "I stop looking down."
+  },
+  {
+   "s": "Timo schaut die ganze Zeit hinaus.",
+   "e": "Timo looks out the whole time."
+  },
+  {
+   "s": "Er ist damit als Kind zum ersten Mal gefahren.",
+   "e": "He went on it for the first time as a child."
+  },
+  {
+   "s": "Er sagt: Meine Grossmutter hatte Angst.",
+   "e": "He says: my grandmother was frightened."
+  },
+  {
+   "s": "Er sagt: Sie ist einmal hinauf und nie wieder.",
+   "e": "He says: she went up once and never again."
+  },
+  {
+   "s": "Die Bahn ist von 1889.",
+   "e": "The railway is from 1889."
+  },
+  {
+   "s": "Sie fährt seit hundertsechsunddreissig Jahren.",
+   "e": "It has been running for a hundred and thirty-six years."
+  },
+  {
+   "s": "Am Anfang ging sie mit Dampf.",
+   "e": "At the start it ran on steam."
+  },
+  {
+   "s": "Heute geht sie mit Strom.",
+   "e": "Today it runs on electricity."
+  },
+  {
+   "s": "Sie fährt nur im Sommer.",
+   "e": "It only runs in summer."
+  },
+  {
+   "s": "Im Winter liegt zu viel Schnee auf der Strecke.",
+   "e": "In winter there is too much snow on the line."
+  },
+  {
+   "s": "Dann geht nur die Seilbahn von Kriens.",
+   "e": "Then only the cable car from Kriens runs."
+  },
+  {
+   "s": "Unterwegs hält die Bahn einmal.",
+   "e": "On the way the railway stops once."
+  },
+  {
+   "s": "Sie hält an einer Ausweichstelle.",
+   "e": "It stops at a passing place."
+  },
+  {
+   "s": "Dort kommt die andere Bahn hinunter.",
+   "e": "The other train comes down there."
+  },
+  {
+   "s": "Es gibt nur eine Schiene.",
+   "e": "There is only one track."
+  },
+  {
+   "s": "Also müssen sich die zwei Bahnen dort treffen.",
+   "e": "So the two trains have to meet there."
+  },
+  {
+   "s": "Sie treffen sich auf die Minute genau.",
+   "e": "They meet to the minute."
+  },
+  {
+   "s": "Die Fahrer heben kurz die Hand.",
+   "e": "The drivers raise a hand briefly."
+  },
+  {
+   "s": "Dann fahren beide weiter.",
+   "e": "Then both go on."
+  },
+  {
+   "s": "Oben kommt die Bahn in einen Tunnel.",
+   "e": "At the top the railway goes into a tunnel."
+  },
+  {
+   "s": "Der Tunnel ist im Fels.",
+   "e": "The tunnel is in the rock."
+  },
+  {
+   "s": "Dann ist man plötzlich in der Bergstation.",
+   "e": "Then suddenly you are in the mountain station."
+  },
+  {
+   "s": "Man steigt aus und geht ins Licht hinaus.",
+   "e": "You get off and walk out into the light."
+  },
+  {
+   "s": "Draussen ist es kalt und sehr hell.",
+   "e": "Outside it is cold and very bright."
+  },
+  {
+   "s": "Die Luft ist anders und man merkt es sofort.",
+   "e": "The air is different and you notice at once."
+  },
+  {
+   "s": "Timo sagt: Zieh die Jacke an.",
+   "e": "Timo says: put your jacket on."
+  },
+  {
+   "s": "Unten waren es zwanzig Grad.",
+   "e": "Down below it was twenty degrees."
+  },
+  {
+   "s": "Oben sind es neun.",
+   "e": "Up here it is nine."
+  },
+  {
+   "s": "Auf hundert Meter wird es ein halbes Grad kälter.",
+   "e": "Every hundred metres it gets half a degree colder."
+  },
+  {
+   "s": "Das rechnet hier jedes Kind aus.",
+   "e": "Every child here works that out."
+  },
+  {
+   "s": "Der Weg von der Station geht durch den Fels.",
+   "e": "The path from the station goes through the rock."
+  },
+  {
+   "s": "Es gibt Treppen und ein Geländer.",
+   "e": "There are steps and a railing."
+  },
+  {
+   "s": "Rechts ist die Wand und links ist nichts.",
+   "e": "On the right is the wall and on the left is nothing."
+  },
+  {
+   "s": "Ich gehe rechts.",
+   "e": "I walk on the right."
+  },
+  {
+   "s": "Timo geht links und schaut hinunter.",
+   "e": "Timo walks on the left and looks down."
+  },
+  {
+   "s": "Er sagt: Es ist sicher.",
+   "e": "He says: it is safe."
+  },
+  {
+   "s": "Es ist auch sicher und das hilft nichts.",
+   "e": "It is safe too and that does not help."
+  },
+  {
+   "s": "Nach fünf Minuten kommt man auf den Gipfel.",
+   "e": "After five minutes you come out on the summit."
+  },
+  {
+   "s": "Ein Gipfel ist das Oberste vom Berg.",
+   "e": "A summit is the highest part of the mountain."
+  },
+  {
+   "s": "Auf dem Gipfel steht ein Kreuz.",
+   "e": "There is a cross on the summit."
+  },
+  {
+   "s": "Auf fast jedem Gipfel steht eines.",
+   "e": "There is one on almost every summit."
+  },
+  {
+   "s": "Und ein Buch in einer Schachtel aus Metall.",
+   "e": "And a book in a metal box."
+  },
+  {
+   "s": "Man schreibt seinen Namen hinein.",
+   "e": "You write your name in it."
+  },
+  {
+   "s": "Timo schreibt seinen Namen und das Datum.",
+   "e": "Timo writes his name and the date."
+  },
+  {
+   "s": "Er hat es zwanzigmal in diesem Buch stehen.",
+   "e": "His name is in that book twenty times."
+  },
+  {
+   "s": "Ich schreibe meinen zum ersten Mal.",
+   "e": "I write mine for the first time."
+  }
+ ]
+}

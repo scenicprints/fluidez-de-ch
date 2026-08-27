@@ -360,5 +360,111 @@
    "anziehen"
   ],
   "text": "To tell somebody to do something, take the du form and drop the du and the **st**.\n\n• du kommst, **komm**\n• du gehst, **geh**\n• du bringst, **bring**\n\nIt sounds short and it is not unfriendly. **Komm essen** is two words and a whole invitation.\n\nFor Sie, keep the verb and add Sie: **Kommen Sie. Setzen Sie sich.**\n\nA verb with a front piece leaves it at the end, in an order too.\n\n• **Zieh** die Jacke **an**.\n• **Zieh** die Schuhe **aus**.\n• **Mach** das Licht **an**.\n\nAnd the reflexive ones keep their little word: **Setz dich.** **Setzen Sie sich.** The person doing the sitting is also the person being sat, and German makes you say so."
+ },
+ {
+  "id": "wechselpraeposition",
+  "title": "Nine words that take both cases",
+  "min": 4,
+  "trigger": [
+   "in",
+   "auf",
+   "unter",
+   "vor",
+   "hinter",
+   "neben",
+   "zwischen"
+  ],
+  "text": "Most prepositions pick a case and keep it. **mit, nach, bei, seit, von, zu, aus** are always dative. **für, ohne, gegen, um** are always accusative.\n\nNine of them do not pick. They take **whichever case answers the question you are asking**.\n\n• **in, an, auf, über, unter, vor, hinter, neben, zwischen**\n\n**Wo? Dative.** Where the thing already is.\n\n• Ich sitze **auf dem** Stuhl.\n• Das Velo steht **neben der** Post.\n• Wir sind **auf dem** See.\n\n**Wohin? Accusative.** Where the thing is going.\n\n• Ich setze mich **auf den** Stuhl.\n• Ich stelle das Velo **neben die** Post.\n• Wir fahren **auf den** See hinaus.\n\nThe verb usually gives it away. **stehen, liegen, sitzen, sein** are places, so dative. **stellen, legen, setzen, gehen, fahren** are movements, so accusative.\n\nAnd the movement has to be INTO the thing you named. *Ich gehe in der Stadt spazieren* is dative, because the walking happens inside the town rather than into it."
+ },
+ {
+  "id": "richtung_hin",
+  "title": "hin goes away, her comes towards",
+  "min": 3,
+  "trigger": [
+   "hinauf",
+   "hinunter",
+   "hinaus",
+   "hinein",
+   "kommen",
+   "gehen"
+  ],
+  "text": "German marks the direction of travel relative to the speaker, and it does it with two little pieces.\n\n**hin** is away from me. **her** is towards me.\n\n• Ich gehe **hinauf**. (I am going up, away from where I am now)\n• Komm **herauf**! (Come up, to where I am)\n\nThey stick to the front of a direction word and to the back of a verb.\n\n• **hinauf, hinunter, hinein, hinaus, hinüber**\n• Er ist **hingegangen**. Sie ist **hinaufgelaufen**.\n\nUp a mountain you will hear all of them in an afternoon. **Wir fahren hinauf**, **wir gehen hinunter**, **er kommt herunter**, **das Schiff fährt hinaus**.\n\nAnd **wohin** and **woher** are the same two pieces with a question on the front. Where to, where from."
+ },
+ {
+  "id": "runter_rauf",
+  "title": "What people actually say",
+  "min": 3,
+  "trigger": [
+   "runter",
+   "rauf",
+   "rein",
+   "raus",
+   "reden"
+  ],
+  "text": "Nobody says hinunter out loud. In speech every one of those words loses its front half.\n\n| written | spoken |\n|---|---|\n| hinauf | **rauf** |\n| hinunter | **runter** |\n| hinein | **rein** |\n| hinaus | **raus** |\n| hinüber | **rüber** |\n\n• **Komm rein.**\n• **Geh raus.**\n• **Wir fahren runter.**\n\nThe short form has quietly lost the hin and her distinction as well, so **rauf** does the work of both hinauf and herauf and nobody minds.\n\nWrite the long one. Say the short one. Reading a text out loud and hearing runter where the page says hinunter is the moment this stops being two lists and starts being one word."
+ },
+ {
+  "id": "komparativ",
+  "title": "grösser, teurer, schneller",
+  "min": 4,
+  "trigger": [
+   "gross",
+   "teuer",
+   "schnell",
+   "klein",
+   "alt",
+   "gut"
+  ],
+  "text": "To compare, put **er** on the end and **als** after it.\n\n• Zürich ist **grösser als** Luzern.\n• Das Schiff ist **schneller als** der Zug.\n• Die Rigi ist **runder** und **breiter**.\n\nShort adjectives usually take an umlaut with the er: **alt/älter, gross/grösser, jung/jünger, lang/länger, hoch/höher, warm/wärmer**.\n\nFour do their own thing and you simply have to know them.\n\n• gut, **besser**, am **besten**\n• viel, **mehr**, am **meisten**\n• gern, **lieber**, am **liebsten**\n• hoch, **höher**, am **höchsten**\n\nFor the top of the scale it is **am ...sten**: am grössten, am teuersten, am schnellsten.\n\nAnd **so ... wie** is for things that are equal. **Die Glocke ist so gross wie ein Kopf.**"
+ },
+ {
+  "id": "lieber",
+  "title": "gern, lieber, am liebsten",
+  "min": 3,
+  "trigger": [
+   "gern",
+   "lieber",
+   "trinken",
+   "gehen"
+  ],
+  "text": "There is no verb for to prefer. The whole job is done by one adverb in three sizes.\n\n• Ich trinke **gern** Tee. (I like tea)\n• Ich trinke **lieber** Tee. (I would rather have tea)\n• Ich trinke **am liebsten** Tee. (Tea is my favourite)\n\nIt goes with the verb, not with the noun, so it works for anything you do.\n\n• Ich gehe **lieber** zu Fuss.\n• Ich fahre **am liebsten** mit dem Schiff.\n• Ich sitze **lieber** unten.\n\n**lieber** also softens a suggestion into something you can refuse. *Gehen wir lieber morgen?* is a proposal. *Gehen wir morgen* is a plan."
+ },
+ {
+  "id": "fahrplan",
+  "title": "Four minutes is enough",
+  "min": 4,
+  "trigger": [
+   "Zug",
+   "Anschluss",
+   "Bus",
+   "Minute",
+   "umsteigen"
+  ],
+  "text": "The whole network is built to connect, and once you see it the timetable stops being a list.\n\nTrains arrive just before the hour and leave just after it. In between, everything is standing in the station at the same time. That is why a **four minute connection** is normal and why it works: the other train is at the same platform, waiting, on purpose.\n\n• **die Verbindung** — the whole journey, however many trains it is\n• **der Anschluss** — the next train after this one\n• **abfahren, ankommen, umsteigen** — and all three park their front half at the end\n\nOne ticket covers all of it. Train, bus, boat, from A to B, and what runs in between is not your problem.\n\nOn the platform, read the **direction**, not the destination. The train to Stans says Engelberg on the board, because Stans is on the way and Engelberg is the end of the line.\n\nAnd when it does go wrong, the loudspeaker names the next train before you can ask."
+ },
+ {
+  "id": "wanderschild",
+  "title": "The signs give you a time, not a distance",
+  "min": 3,
+  "trigger": [
+   "Weg",
+   "Stunde",
+   "Schild",
+   "gehen",
+   "Berg"
+  ],
+  "text": "Every path has a yellow sign, and behind each place name is **a time**.\n\n• Alpnachstad, **2 h 40**\n\nNot kilometres. Two flat kilometres are twenty minutes and two steep ones are an hour, so the distance would tell you nothing.\n\nThe times are accurate to about the minute, for a normal person, with no breaks. If you take fifteen minutes longer you took a photograph, sat down twice and went the wrong way once.\n\n**The colours mean something.**\n\n• **yellow** — a path for anybody\n• **white and red** — a mountain path, boots and a head for heights\n• **blue** — snow and ice, and you need equipment\n\nSixty thousand kilometres of it, marked and maintained by a **club** rather than the state, by people who walk their own forty kilometres twice a year with a tin of paint."
+ },
+ {
+  "id": "halbtax",
+  "title": "The card everybody has",
+  "min": 3,
+  "trigger": [
+   "Halbtax",
+   "Billett",
+   "Preis",
+   "fahren"
+  ],
+  "text": "**Das Halbtax** halves every fare in the country: train, bus, boat, most mountain railways. More than half the population owns one, and for anybody who travels twice a month it pays for itself inside two months.\n\nIt is a card with a bad photograph on it, and the photograph stays bad for three years.\n\n**Carry it.** A ticket bought at the Halbtax price without the card in your pocket is not a valid ticket, and the difference is expensive.\n\n**Das GA** is the next step up: everything, free, for a great deal of money a year. Worth it for a long commute and for nobody else.\n\nAnd **gültig** is the word that governs all of it. A ticket is valid for a day, a Halbtax for a year, and a Kriens rubbish bag is not valid in Luzern."
  }
 ]

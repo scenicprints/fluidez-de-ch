@@ -1,0 +1,109 @@
+{
+ "id": "sc24",
+ "title": "Auf dem Schiff",
+ "desc": "The bus on the water, and it is faster",
+ "setting": "A landing stage behind the station, thirty people, half of them with rucksacks.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Frau am Schalter",
+   "es": "Einfach oder retour?",
+   "en": "Single or return?",
+   "options": [
+    {
+     "es": "Retour, bitte. Mit Halbtax.",
+     "en": "Return, please. With a Halbtax.",
+     "verdict": "good",
+     "feedback": "Say the card at the same time. She is about to ask, and half the queue behind you has one."
+    },
+    {
+     "es": "Retour.",
+     "en": "Return.",
+     "verdict": "ok",
+     "feedback": "Fine. Then comes: mit Halbtax? and then the price twice over."
+    },
+    {
+     "es": "Ich weiss noch nicht.",
+     "en": "I do not know yet.",
+     "verdict": "bad",
+     "feedback": "The boat goes in six minutes. Buy the return, it costs less than two singles."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau am Schalter",
+   "es": "Gilt auch für den Bus zurück.",
+   "en": "It is valid for the bus back too.",
+   "options": [
+    {
+     "es": "Aha. Merci.",
+     "en": "Ah. Thank you.",
+     "verdict": "good",
+     "feedback": "One ticket from A to B, and whatever runs in between is your business. Train, bus, boat, the same card."
+    },
+    {
+     "es": "Muss ich noch etwas kaufen?",
+     "en": "Do I have to buy anything else?",
+     "verdict": "ok",
+     "feedback": "No. That is exactly what she just told you."
+    },
+    {
+     "es": "Auch für die Bergbahn?",
+     "en": "For the mountain railway too?",
+     "verdict": "good",
+     "feedback": "Good question, and the answer is usually no. Mountain railways are their own thing, and the Halbtax still halves them."
+    }
+   ]
+  },
+  {
+   "speaker": "Mann an Bord",
+   "es": "Sitzen Sie oben oder unten?",
+   "en": "Are you sitting up top or below?",
+   "options": [
+    {
+     "es": "Oben. Ich bin noch nicht so lange hier.",
+     "en": "Up top. I have not been here that long.",
+     "verdict": "good",
+     "feedback": "Honest, and he will laugh. Tourists sit up top; everybody else sits below with the newspaper."
+    },
+    {
+     "es": "Unten. Es ist kalt.",
+     "en": "Below. It is cold.",
+     "verdict": "good",
+     "feedback": "The local answer. It is thirty-five minutes and you have seen the lake before."
+    },
+    {
+     "es": "Ist das wichtig?",
+     "en": "Does that matter?",
+     "verdict": "bad",
+     "feedback": "It is not. He was making conversation, which is the whole thing that happens on a boat."
+    }
+   ]
+  },
+  {
+   "speaker": "Mann an Bord",
+   "es": "Das Schiff ist von 1928.",
+   "en": "The boat is from 1928.",
+   "options": [
+    {
+     "es": "Und es fährt noch jeden Tag?",
+     "en": "And it still runs every day?",
+     "verdict": "good",
+     "feedback": "It does, in the timetable, with tickets. That is the part worth being surprised by, and he will tell you all of it."
+    },
+    {
+     "es": "Schön.",
+     "en": "Nice.",
+     "verdict": "ok",
+     "feedback": "He opened a door. One question and you get twenty minutes about the engine."
+    },
+    {
+     "es": "Es tönt sehr laut.",
+     "en": "It sounds very loud.",
+     "verdict": "ok",
+     "feedback": "It does. That is a steam engine and there is a man standing next to it whose whole job is watching it."
+    }
+   ]
+  }
+ ]
+}

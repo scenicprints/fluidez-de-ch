@@ -6,7 +6,7 @@ create a second copy to go stale.
 
 ---
 
-You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0, 1 and 2 written, 65 of 192). You're on the German one.
+You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0 to 3 written, 86 of 192). You're on the German one.
 
 **Read these first, in this order.** They carry every decision and the reasoning, so nothing gets relitigated by somebody arriving cold:
 
@@ -17,11 +17,11 @@ You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses
 
 Local clones, all on GitHub under `scenicprints`: `fluidez` (the app), `fluidez-de-ch` (German course), `fluidez-es-ni` (Spanish course), `fluidez-languages` (registry).
 
-**Where it stands.** **Phases 0, 1 and 2 are written and every script is built.** 65 stories, 1,319 dictionary words, 248 verbs, 27 patterns, 22 scenes, 71 Blüemli lines, an emergency phrasebook, 98.5% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
+**Where it stands.** **Phases 0 to 3 are written and every script is built.** 86 stories, 1,579 dictionary words, 296 verbs, 35 patterns, 28 scenes, 81 Blüemli lines, an emergency phrasebook, 98.4% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
 
-**Next job: phase 3, Getting About, twenty-one stories,** `p3-01` to `p3-21`. Build it the way the last three were — stories first, then the dictionary, verbs, patterns and scenes written against them, all in one batch. `NEXT.md` §17 says what phase 2 taught that phase 3 should copy, and §16, §14 and §15 carry the same for the phases before it. Phase 3 teaches separable verbs and the two-way prepositions, which is the first thing in the course that needs BOTH cases in hand, and it is where **Selina** arrives.
+**Next job: phase 4, Close to the Heart, thirty-six stories,** `p4-01` to `p4-36`. It is the largest phase in the course and `HANDOFF.md` §1 calls it the reason the course exists: love, her family, arguments, making up. **Selina arrived in `p3-10`** and phase 4 is hers. The Odermatts, her parents in Kriens, come with it. Build it the way the last four were, and expect to write it in more than one batch.
 
-**Two things phase 2 learned that will bite again.** Adding a verb can break a word that already resolved — `meinen` made `meine` ambiguous with the possessive and 22 taps stopped working, so read the ambiguous list after every batch and not just the unmapped one. And a new pattern card can duplicate an old one: check the titles already in `content/patterns/core.json` before writing.
+**Two things every phase has now taught, in the same order.** RETURN judges the previous phase's vocabulary the moment the new one lands, and it takes warm-up cards away: 44 after phase 2, 28 after phase 3. **Budget the recycling sweep as part of writing the phase.** And adding a word can break one that already worked, either by making a form ambiguous (`meinen` broke `meine`) or by costing a one-scene word its exemption (`Nacht`, twice). Re-run the checks after every sweep, not just at the end.
 
 **The hard rules:**
 

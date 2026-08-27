@@ -512,6 +512,153 @@
    "desc": "You have people now",
    "phase": 2,
    "path": "lessons/p2-27.json"
+  },
+  {
+   "id": "p3-01",
+   "title": "Das Halbtax",
+   "desc": "The card everybody has",
+   "phase": 3,
+   "path": "lessons/p3-01.json"
+  },
+  {
+   "id": "p3-02",
+   "title": "Die App",
+   "desc": "A timetable that is never wrong",
+   "phase": 3,
+   "path": "lessons/p3-02.json"
+  },
+  {
+   "id": "p3-03",
+   "title": "Der Anschluss ist weg",
+   "desc": "The one time it does not work",
+   "phase": 3,
+   "path": "lessons/p3-03.json"
+  },
+  {
+   "id": "p3-04",
+   "title": "Das Schiff",
+   "desc": "The lake has a timetable too",
+   "phase": 3,
+   "path": "lessons/p3-04.json"
+  },
+  {
+   "id": "p3-05",
+   "title": "Stansstad",
+   "desc": "A village where the lake ends",
+   "phase": 3,
+   "path": "lessons/p3-05.json"
+  },
+  {
+   "id": "p3-06",
+   "title": "Stans",
+   "desc": "Timo's town, and its dead hero",
+   "phase": 3,
+   "path": "lessons/p3-06.json"
+  },
+  {
+   "id": "p3-07",
+   "title": "Das Stanserhorn",
+   "desc": "A cable car with no roof",
+   "phase": 3,
+   "path": "lessons/p3-07.json"
+  },
+  {
+   "id": "p3-08",
+   "title": "Kriens",
+   "desc": "The suburb at the foot of the mountain",
+   "phase": 3,
+   "path": "lessons/p3-08.json"
+  },
+  {
+   "id": "p3-09",
+   "title": "Auf den Pilatus",
+   "desc": "The steepest railway in the world",
+   "phase": 3,
+   "path": "lessons/p3-09.json"
+  },
+  {
+   "id": "p3-10",
+   "title": "Oben",
+   "desc": "Somebody else is on the summit",
+   "phase": 3,
+   "path": "lessons/p3-10.json"
+  },
+  {
+   "id": "p3-11",
+   "title": "Mit der Gondel runter",
+   "desc": "Twenty minutes and no hurry",
+   "phase": 3,
+   "path": "lessons/p3-11.json"
+  },
+  {
+   "id": "p3-12",
+   "title": "Der letzte Zug",
+   "desc": "The country closes at midnight",
+   "phase": 3,
+   "path": "lessons/p3-12.json"
+  },
+  {
+   "id": "p3-13",
+   "title": "Die gelben Schilder",
+   "desc": "Signs that tell you the time, not the distance",
+   "phase": 3,
+   "path": "lessons/p3-13.json"
+  },
+  {
+   "id": "p3-14",
+   "title": "Das Schwingfest",
+   "desc": "The national sport, in a ring of sawdust",
+   "phase": 3,
+   "path": "lessons/p3-14.json"
+  },
+  {
+   "id": "p3-15",
+   "title": "Ein Tag in Zürich",
+   "desc": "The big city, an hour away",
+   "phase": 3,
+   "path": "lessons/p3-15.json"
+  },
+  {
+   "id": "p3-16",
+   "title": "Die Rigi",
+   "desc": "The other mountain",
+   "phase": 3,
+   "path": "lessons/p3-16.json"
+  },
+  {
+   "id": "p3-17",
+   "title": "Der Alpabzug",
+   "desc": "The cattle come down, wearing flowers",
+   "phase": 3,
+   "path": "lessons/p3-17.json"
+  },
+  {
+   "id": "p3-18",
+   "title": "Der erste Schnee",
+   "desc": "Winter, and everyone else already owns the equipment",
+   "phase": 3,
+   "path": "lessons/p3-18.json"
+  },
+  {
+   "id": "p3-19",
+   "title": "Das Wetter kippt",
+   "desc": "Weather that changes its mind",
+   "phase": 3,
+   "path": "lessons/p3-19.json"
+  },
+  {
+   "id": "p3-20",
+   "title": "Verlaufen",
+   "desc": "Lost, and having to ask",
+   "phase": 3,
+   "path": "lessons/p3-20.json"
+  },
+  {
+   "id": "p3-21",
+   "title": "Eine Nachricht",
+   "desc": "Your phone lights up",
+   "phase": 3,
+   "path": "lessons/p3-21.json"
   }
  ],
  "scenarios": [
@@ -668,6 +815,48 @@
    "desc": "Fourteen people, eighty messages, and one thumb",
    "phase": 2,
    "path": "scenarios/sc22.json"
+  },
+  {
+   "id": "sc23",
+   "title": "Der Anschluss ist weg",
+   "desc": "Forty seconds, and eight people who do not mind",
+   "phase": 3,
+   "path": "scenarios/sc23.json"
+  },
+  {
+   "id": "sc24",
+   "title": "Auf dem Schiff",
+   "desc": "The bus on the water, and it is faster",
+   "phase": 3,
+   "path": "scenarios/sc24.json"
+  },
+  {
+   "id": "sc25",
+   "title": "Auf dem Gipfel",
+   "desc": "Everybody says du up here, and nobody does down there",
+   "phase": 3,
+   "path": "scenarios/sc25.json"
+  },
+  {
+   "id": "sc26",
+   "title": "Am falschen Weg",
+   "desc": "Lost, marked, and mildly embarrassed",
+   "phase": 3,
+   "path": "scenarios/sc26.json"
+  },
+  {
+   "id": "sc27",
+   "title": "Der letzte Zug",
+   "desc": "Everybody at the table knows their own",
+   "phase": 3,
+   "path": "scenarios/sc27.json"
+  },
+  {
+   "id": "sc28",
+   "title": "Rigi oder Pilatus",
+   "desc": "A question that is not a normal question",
+   "phase": 3,
+   "path": "scenarios/sc28.json"
   }
  ],
  "momo": "bluemli.json"

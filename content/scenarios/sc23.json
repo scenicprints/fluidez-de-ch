@@ -1,0 +1,109 @@
+{
+ "id": "sc23",
+ "title": "Der Anschluss ist weg",
+ "desc": "Forty seconds, and eight people who do not mind",
+ "setting": "A platform in Hergiswil, the other train pulling out, and a loudspeaker about to apologise.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Kondukteur",
+   "es": "Grüezi. Billette bitte.",
+   "en": "Hello. Tickets please.",
+   "options": [
+    {
+     "es": "Hier, bitte. Und das Halbtax.",
+     "en": "Here you are. And the Halbtax.",
+     "verdict": "good",
+     "feedback": "Both together. A Halbtax price with no card is not a valid ticket, and that costs a hundred francs."
+    },
+    {
+     "es": "Hier ist das Billett.",
+     "en": "Here is the ticket.",
+     "verdict": "ok",
+     "feedback": "He will ask for the card next. Handing over both saves the second question."
+    },
+    {
+     "es": "Ich habe es am Automaten gekauft.",
+     "en": "I bought it at the machine.",
+     "verdict": "bad",
+     "feedback": "He did not ask where it came from. He asked to see it."
+    }
+   ]
+  },
+  {
+   "speaker": "Kondukteur",
+   "es": "Sie haben den Anschluss verpasst.",
+   "en": "You have missed your connection.",
+   "options": [
+    {
+     "es": "Ja. Wann geht der nächste?",
+     "en": "Yes. When does the next one go?",
+     "verdict": "good",
+     "feedback": "The practical question, and he will have the answer before the loudspeaker does."
+    },
+    {
+     "es": "Das ist nicht meine Schuld.",
+     "en": "That is not my fault.",
+     "verdict": "bad",
+     "feedback": "Nobody said it was. Eight other people on that platform missed it too and none of them said a word."
+    },
+    {
+     "es": "Wie lange muss ich warten?",
+     "en": "How long do I have to wait?",
+     "verdict": "good",
+     "feedback": "Also fine, and it is the same question from the other end."
+    }
+   ]
+  },
+  {
+   "speaker": "Kondukteur",
+   "es": "In achtzehn Minuten. Gleis zwei.",
+   "en": "In eighteen minutes. Platform two.",
+   "options": [
+    {
+     "es": "Merci vielmal.",
+     "en": "Thank you very much.",
+     "verdict": "good",
+     "feedback": "Short. He has forty more people to get through and he says thank you to every one of them."
+    },
+    {
+     "es": "Achtzehn Minuten! Das ist lang.",
+     "en": "Eighteen minutes! That is long.",
+     "verdict": "bad",
+     "feedback": "It is not. And the announcement is about to apologise for it, which is somehow worse."
+    },
+    {
+     "es": "Und wo ist Gleis zwei?",
+     "en": "And where is platform two?",
+     "verdict": "ok",
+     "feedback": "Fair. It is usually the platform you are standing on, which is not an accident."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Wo bist du?",
+   "en": "Where are you?",
+   "options": [
+    {
+     "es": "Ich komme zwanzig Minuten später.",
+     "en": "I will be twenty minutes late.",
+     "verdict": "good",
+     "feedback": "Four words and the problem is gone. Twenty minutes with a message is nothing; twenty without is a thing."
+    },
+    {
+     "es": "Anschluss verpasst. Bin um halb da.",
+     "en": "Missed my connection. I will be there at half past.",
+     "verdict": "good",
+     "feedback": "Even better. He knows the line and the word Anschluss explains all of it."
+    },
+    {
+     "es": "Der Zug hatte Verspätung und dann war der andere Zug schon weg.",
+     "en": "The train was delayed and then the other train had already gone.",
+     "verdict": "ok",
+     "feedback": "All true and four times longer than it needs to be. A long message reads as a big problem."
+    }
+   ]
+  }
+ ]
+}

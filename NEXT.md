@@ -1,6 +1,6 @@
 # START HERE — where the German course stands
 
-**Phases 0, 1 and 2 are written. The plan is finished and it is not up for
+**Phases 0 to 3 are written. The plan is finished and it is not up for
 relitigating.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
@@ -10,7 +10,7 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **192** | 8 phases, **65 written** (phases 0, 1 and 2 complete) |
+| Stories planned | **192** | 8 phases, **86 written** (phases 0 to 3 complete) |
 | App support | **shipped** | v2.8.25, mascot + palette + English interface + switcher |
 | Stories on people | **62** | phases 4 and 5, a third of the course |
 
@@ -401,6 +401,63 @@ Two smaller ones fixed at the same time:
   scene could push a pattern over its threshold and the pattern would sit
   reading "0 more words to go" and stay locked until a lesson happened to be
   read next. `answerScene` calls `checkPatterns()` now.
+
+## 18. Phase 3 — Getting About, 21 stories, DONE 2026-08-27
+
+| | | |
+|---|---|---|
+| Stories | **86** total | 21 new, 12,050 running words |
+| Dictionary | **1,579** | +260 |
+| Verbs | **296** | +48, every form stated |
+| Patterns | **35** | +8 |
+| Scenes | **28** | +6 |
+| Blüemli | **81** lines | +10 |
+| Tappable | **98.4%** whole course | |
+| Warm-ups | 471 words, 0 stories with none | |
+
+The country opens up. **Selina arrives on the summit of Pilatus in `p3-10`**,
+which is where the spine always had her, and the two stories after it are the
+gondola down and the message on Wednesday evening. Timo's Stans gets a statue
+of a man who pulled spears into his own body, his uncle spends three months a
+year in a hut making cheese, and the last train home turns out to be the reason
+nobody has to decide when an evening ends.
+
+The grammar is **separable verbs and the two-way prepositions**, and the phase
+is built so both arrive through the transport system rather than through a
+table: *ich steige in Luzern ein*, *ich steige in Stans aus*, *wir fahren auf
+den See hinaus* against *wir sind auf dem See*.
+
+### What the phase taught about writing the next one
+
+- **The recycling discipline works and it is measurable.** Phase 2's arrival
+  took 44 warm-up cards away from phases 0 and 1. Phase 3's arrival took **28**
+  away from phase 2, and phase 3 was written knowing that would happen. 84
+  sentences closed it against phase 2's 129. Expect the number to keep falling
+  and never to reach zero: it is the cost of the course getting longer.
+- **A separable verb does not count as its own base.** Six of those 28 were
+  closed on the first try and `bringen` was not, because every sentence added
+  for it said *mitbringen*. The binder is right and the gate is right: they are
+  two words. Add a plain one.
+- **The spine's German column is a hint, not the ladder.** `p3-18` asks for
+  *wenn* clauses. Phase 5 owns subordinate clauses and phases 0 to 2 were
+  written without them, so the story teaches the same winter with main clauses
+  and `denn`. `HANDOFF.md` §4 is the load-bearing document; the spine's grammar
+  notes were written before any of it existed. Flag a conflict rather than
+  quietly following either one.
+- **`können Sie mir ...` is taught as `können Sie mir helfen` / `den Weg
+  zeigen`,** not `können Sie mir sagen, wo ...`, which is a subordinate clause
+  wearing a politeness formula. Same lesson, same register, no phase-5 grammar.
+- **Coverage bit exactly once, at `p3-14`,** the Schwingfest, which is the one
+  story carrying a whole sport's vocabulary. Two one-use words came out and it
+  passed. The Schwingfest is worth the other twenty-two.
+
+### Known and small
+
+- **`Stock` is a floor and a pole.** `Stöcke` is pinned to it, so a ski pole
+  opens a card that says floor. It has always been both words in German; if it
+  reads badly in phase 4, split it with a `Wanderstock` entry.
+- **`aufpassen` and `aufwachen` still appear once each**, three phases running.
+  Phase 4 or drop them.
 
 ## 17. Phase 2 — Making Friends, 27 stories, DONE 2026-08-26
 

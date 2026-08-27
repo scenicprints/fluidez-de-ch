@@ -1,0 +1,396 @@
+{
+ "id": "p3-17",
+ "title": "Der Alpabzug",
+ "desc": "The cattle come down, wearing flowers",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Glocke",
+  "Kuh",
+  "Sommer",
+  "tragen",
+  "Strasse"
+ ],
+ "sn": [
+  {
+   "s": "Im Sommer sind die Kühe oben.",
+   "e": "In summer the cows are up top."
+  },
+  {
+   "s": "Oben heisst: auf der Alp.",
+   "e": "Up top means: on the alp."
+  },
+  {
+   "s": "Eine Alp ist eine Wiese hoch am Berg.",
+   "e": "An alp is a meadow high on the mountain."
+  },
+  {
+   "s": "Dort ist das Gras besser als unten.",
+   "e": "The grass is better there than down below."
+  },
+  {
+   "s": "Im Juni gehen die Kühe hinauf.",
+   "e": "In June the cows go up."
+  },
+  {
+   "s": "Im September kommen sie hinunter.",
+   "e": "In September they come down."
+  },
+  {
+   "s": "Der Weg hinunter heisst Alpabzug.",
+   "e": "The way down is called the Alpabzug."
+  },
+  {
+   "s": "Ein Mann bleibt den ganzen Sommer oben bei den Kühen.",
+   "e": "A man stays up there with the cows all summer."
+  },
+  {
+   "s": "Er heisst Senn.",
+   "e": "He is called a Senn."
+  },
+  {
+   "s": "Er macht dort oben Käse.",
+   "e": "He makes cheese up there."
+  },
+  {
+   "s": "Er wohnt drei Monate in einer Hütte.",
+   "e": "He lives in a hut for three months."
+  },
+  {
+   "s": "Die Hütte hat kein Wasser aus der Leitung.",
+   "e": "The hut has no running water."
+  },
+  {
+   "s": "Timos Onkel macht das seit zwanzig Jahren.",
+   "e": "Timo's uncle has been doing that for twenty years."
+  },
+  {
+   "s": "Er hat einen normalen Beruf im Winter.",
+   "e": "He has a normal job in winter."
+  },
+  {
+   "s": "Im Sommer ist er oben.",
+   "e": "In summer he is up there."
+  },
+  {
+   "s": "Seine Frau kommt am Sonntag mit dem Auto hinauf.",
+   "e": "His wife comes up by car on Sunday."
+  },
+  {
+   "s": "Timo hat gesagt: Am Samstag ist der Alpabzug.",
+   "e": "Timo said: on Saturday it is the Alpabzug."
+  },
+  {
+   "s": "Er hat gesagt: Steh früh auf.",
+   "e": "He said: get up early."
+  },
+  {
+   "s": "Er hat gesagt: Es fängt um sieben an.",
+   "e": "He said: it starts at seven."
+  },
+  {
+   "s": "Wir stehen um halb sieben an der Strasse.",
+   "e": "At half past six we are standing by the road."
+  },
+  {
+   "s": "Es ist September und es ist kalt.",
+   "e": "It is September and it is cold."
+  },
+  {
+   "s": "An der Strasse stehen schon dreihundert Leute.",
+   "e": "Three hundred people are already standing by the road."
+  },
+  {
+   "s": "In der Nacht davor schläft niemand gut.",
+   "e": "Nobody sleeps well the night before."
+  },
+  {
+   "s": "Die Frauen bringen Brot und Wein an die Strasse.",
+   "e": "The women bring bread and wine to the road."
+  },
+  {
+   "s": "Auf einer Wiese brennt ein kleines Feuer.",
+   "e": "A small fire is burning in a meadow."
+  },
+  {
+   "s": "Alte Leute sitzen auf einer Decke im Gras.",
+   "e": "Old people sit on a blanket in the grass."
+  },
+  {
+   "s": "Über dem Tal hängt eine einzige Wolke.",
+   "e": "A single cloud hangs over the valley."
+  },
+  {
+   "s": "Am Morgen hat es kurz geregnet.",
+   "e": "It rained briefly in the morning."
+  },
+  {
+   "s": "Ein Mann macht ein Foto von jeder Kuh.",
+   "e": "A man takes a photograph of every cow."
+  },
+  {
+   "s": "Es gibt Kaffee aus einem grossen Topf.",
+   "e": "There is coffee from a big pot."
+  },
+  {
+   "s": "Es gibt Brot und Käse auf einem Tisch.",
+   "e": "There is bread and cheese on a table."
+  },
+  {
+   "s": "Alles ist gratis und alle geben etwas.",
+   "e": "Everything is free and everybody gives something."
+  },
+  {
+   "s": "Dann warten alle und schauen die Strasse hinauf.",
+   "e": "Then everybody waits and looks up the road."
+  },
+  {
+   "s": "Man hört sie zuerst.",
+   "e": "You hear them first."
+  },
+  {
+   "s": "Man hört sie zwanzig Minuten vorher.",
+   "e": "You hear them twenty minutes beforehand."
+  },
+  {
+   "s": "Es ist ein tiefes Tönen aus dem Wald.",
+   "e": "It is a deep sound from the woods."
+  },
+  {
+   "s": "Es ist nicht eine Glocke.",
+   "e": "It is not one bell."
+  },
+  {
+   "s": "Es sind dreissig Glocken zusammen.",
+   "e": "It is thirty bells together."
+  },
+  {
+   "s": "Sie tönen nicht im gleichen Takt.",
+   "e": "They do not sound in the same beat."
+  },
+  {
+   "s": "Sie tönen alle ein bisschen daneben.",
+   "e": "They all sound a little off."
+  },
+  {
+   "s": "Das ist genau wie an der Fasnacht.",
+   "e": "That is exactly like at Fasnacht."
+  },
+  {
+   "s": "Und es ist ganz anders.",
+   "e": "And it is completely different."
+  },
+  {
+   "s": "Das Tönen wird lauter und lauter.",
+   "e": "The sound gets louder and louder."
+  },
+  {
+   "s": "Nach zehn Minuten hört man nichts anderes mehr.",
+   "e": "After ten minutes you hear nothing else."
+  },
+  {
+   "s": "Dann kommt die erste Kuh um die Kurve.",
+   "e": "Then the first cow comes round the bend."
+  },
+  {
+   "s": "Sie trägt einen Kranz aus Blumen auf dem Kopf.",
+   "e": "It is wearing a wreath of flowers on its head."
+  },
+  {
+   "s": "Der Kranz ist gross und rot und gelb.",
+   "e": "The wreath is big and red and yellow."
+  },
+  {
+   "s": "Sie trägt die grösste Glocke von allen.",
+   "e": "It is wearing the biggest bell of all."
+  },
+  {
+   "s": "Die Glocke ist so gross wie ein Kopf.",
+   "e": "The bell is as big as a head."
+  },
+  {
+   "s": "Sie geht vorne und alle anderen kommen hinterher.",
+   "e": "It walks in front and all the others come behind."
+  },
+  {
+   "s": "Timo sagt: Das ist die beste Kuh.",
+   "e": "Timo says: that is the best cow."
+  },
+  {
+   "s": "Ich frage: Wie meinst du das?",
+   "e": "I ask: what do you mean?"
+  },
+  {
+   "s": "Er sagt: Die mit der meisten Milch im Sommer.",
+   "e": "He says: the one with the most milk over the summer."
+  },
+  {
+   "s": "Er sagt: Sie darf vorne gehen.",
+   "e": "He says: she gets to walk in front."
+  },
+  {
+   "s": "Er sagt es ganz ernst.",
+   "e": "He says it completely seriously."
+  },
+  {
+   "s": "Hinter der ersten Kuh kommen vierzig andere.",
+   "e": "Behind the first cow come forty others."
+  },
+  {
+   "s": "Alle haben eine Glocke.",
+   "e": "They all have a bell."
+  },
+  {
+   "s": "Die grössten Kühe haben die grössten Glocken.",
+   "e": "The biggest cows have the biggest bells."
+  },
+  {
+   "s": "Vier oder fünf tragen auch einen Kranz.",
+   "e": "Four or five wear a wreath too."
+  },
+  {
+   "s": "Die anderen tragen nur Blumen am Kopf.",
+   "e": "The others just have flowers on their heads."
+  },
+  {
+   "s": "Neben den Kühen gehen die Leute von der Alp.",
+   "e": "Next to the cows walk the people from the alp."
+  },
+  {
+   "s": "Sie tragen eine Tracht.",
+   "e": "They wear the traditional dress."
+  },
+  {
+   "s": "Eine Tracht ist alte Kleidung für einen Tag wie diesen.",
+   "e": "A Tracht is old clothing for a day like this."
+  },
+  {
+   "s": "Bei den Männern ist es ein Hemd mit Blumen darauf.",
+   "e": "For the men it is a shirt with flowers on it."
+  },
+  {
+   "s": "Sie tragen es nur an zwei Tagen im Jahr.",
+   "e": "They only wear it on two days a year."
+  },
+  {
+   "s": "Timos Onkel geht neben der dritten Kuh.",
+   "e": "Timo's uncle walks next to the third cow."
+  },
+  {
+   "s": "Er sieht sehr müde aus.",
+   "e": "He looks very tired."
+  },
+  {
+   "s": "Er sieht auch sehr zufrieden aus.",
+   "e": "He also looks very satisfied."
+  },
+  {
+   "s": "Er nickt uns zu und geht weiter.",
+   "e": "He nods to us and walks on."
+  },
+  {
+   "s": "Er bleibt nicht stehen.",
+   "e": "He does not stop."
+  },
+  {
+   "s": "Man bleibt beim Alpabzug nicht stehen.",
+   "e": "You do not stop during the Alpabzug."
+  },
+  {
+   "s": "Der ganze Zug dauert zwanzig Minuten.",
+   "e": "The whole procession lasts twenty minutes."
+  },
+  {
+   "s": "Zwanzig Minuten Kühe und Glocken auf einer Strasse.",
+   "e": "Twenty minutes of cows and bells on a road."
+  },
+  {
+   "s": "Die Leute reden fast nicht.",
+   "e": "The people hardly talk."
+  },
+  {
+   "s": "Kinder sitzen auf den Schultern von den Vätern.",
+   "e": "Children sit on their fathers' shoulders."
+  },
+  {
+   "s": "Eine alte Frau neben mir weint.",
+   "e": "An old woman next to me is crying."
+  },
+  {
+   "s": "Sie weint ganz still und niemand schaut hin.",
+   "e": "She cries quite quietly and nobody looks."
+  },
+  {
+   "s": "Sie hat es sicher achtzig Mal gesehen.",
+   "e": "She has surely seen it eighty times."
+  },
+  {
+   "s": "Dann sind sie vorbei.",
+   "e": "Then they are past."
+  },
+  {
+   "s": "Das Tönen wird leiser und geht ins Dorf hinunter.",
+   "e": "The sound gets quieter and goes down into the village."
+  },
+  {
+   "s": "Nach fünf Minuten ist es ganz still.",
+   "e": "After five minutes it is completely quiet."
+  },
+  {
+   "s": "Die Leute stehen noch eine Minute da.",
+   "e": "The people stand there for another minute."
+  },
+  {
+   "s": "Dann gehen alle zum Kaffee zurück.",
+   "e": "Then everybody goes back to the coffee."
+  },
+  {
+   "s": "Eine Musik spielt am Ende vom Zug.",
+   "e": "A band plays at the end of the procession."
+  },
+  {
+   "s": "Nach dem Zug gehen viele Leute im Dorf spazieren.",
+   "e": "After the procession a lot of people go for a walk in the village."
+  },
+  {
+   "s": "Timos Onkel bringt uns am Abend Käse von der Alp.",
+   "e": "Timo's uncle brings us cheese from the alp in the evening."
+  },
+  {
+   "s": "Ich stehe da und weiss nichts zu sagen.",
+   "e": "I stand there and do not know what to say."
+  },
+  {
+   "s": "Timo sagt: Ja.",
+   "e": "Timo says: yes."
+  },
+  {
+   "s": "Nur Ja.",
+   "e": "Just yes."
+  },
+  {
+   "s": "Das ist die richtige Antwort.",
+   "e": "That is the right answer."
+  },
+  {
+   "s": "Am Nachmittag sind die Kühe im Stall unten.",
+   "e": "In the afternoon the cows are in the barn down below."
+  },
+  {
+   "s": "Die Glocken sind ab und liegen auf einem Wagen.",
+   "e": "The bells are off and lying on a cart."
+  },
+  {
+   "s": "Die Kränze liegen daneben.",
+   "e": "The wreaths are lying next to them."
+  },
+  {
+   "s": "Timos Onkel schläft um vier Uhr auf einem Stuhl.",
+   "e": "At four o'clock Timo's uncle is asleep on a chair."
+  },
+  {
+   "s": "Der Sommer ist fertig.",
+   "e": "The summer is over."
+  }
+ ]
+}

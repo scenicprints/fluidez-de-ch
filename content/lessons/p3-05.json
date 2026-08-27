@@ -1,0 +1,357 @@
+{
+ "id": "p3-05",
+ "title": "Stansstad",
+ "desc": "A village where the lake ends",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Hügel",
+  "Kirche",
+  "Steg",
+  "liegen",
+  "Wasser",
+  "Tisch"
+ ],
+ "sn": [
+  {
+   "s": "Stansstad ist klein.",
+   "e": "Stansstad is small."
+  },
+  {
+   "s": "Es hat zweitausend Leute.",
+   "e": "It has two thousand people."
+  },
+  {
+   "s": "Es hat einen Steg, eine Kirche und drei Beizen.",
+   "e": "It has a landing stage, a church and three pubs."
+  },
+  {
+   "s": "Es liegt am Wasser. Dort wird der See schmal.",
+   "e": "It lies by the water. There the lake gets narrow."
+  },
+  {
+   "s": "Von Luzern sind es fünfunddreissig Minuten.",
+   "e": "From Luzern it is thirty-five minutes."
+  },
+  {
+   "s": "Und es ist ein anderes Land.",
+   "e": "And it is a different country."
+  },
+  {
+   "s": "Nicht wirklich. Aber fast.",
+   "e": "Not really. But almost."
+  },
+  {
+   "s": "Stansstad ist in Nidwalden.",
+   "e": "Stansstad is in Nidwalden."
+  },
+  {
+   "s": "Luzern ist im Kanton Luzern.",
+   "e": "Luzern is in the canton of Luzern."
+  },
+  {
+   "s": "Dazwischen ist eine Grenze auf dem Wasser.",
+   "e": "In between there is a border on the water."
+  },
+  {
+   "s": "Man sieht die Grenze nicht.",
+   "e": "You cannot see the border."
+  },
+  {
+   "s": "Alle wissen genau, wo sie ist.",
+   "e": "Everybody knows exactly where it is."
+  },
+  {
+   "s": "Ich bin am falschen Steg ausgestiegen.",
+   "e": "I got off at the wrong landing stage."
+  },
+  {
+   "s": "Ich wollte nach Stans und ich bin in Stansstad.",
+   "e": "I wanted to go to Stans and I am in Stansstad."
+  },
+  {
+   "s": "Die zwei Namen sind fast gleich.",
+   "e": "The two names are almost the same."
+  },
+  {
+   "s": "Die zwei Orte sind vier Kilometer auseinander.",
+   "e": "The two places are four kilometres apart."
+  },
+  {
+   "s": "Ich merke es erst auf dem Steg.",
+   "e": "I only notice on the landing stage."
+  },
+  {
+   "s": "Das Schiff ist schon weg.",
+   "e": "The boat has already gone."
+  },
+  {
+   "s": "Das nächste kommt in zwei Stunden.",
+   "e": "The next one comes in two hours."
+  },
+  {
+   "s": "Ein Bus geht in vierzig Minuten.",
+   "e": "A bus goes in forty minutes."
+  },
+  {
+   "s": "Also habe ich vierzig Minuten in einem Dorf.",
+   "e": "So I have forty minutes in a village."
+  },
+  {
+   "s": "Das ist die beste Art, ein Dorf zu sehen.",
+   "e": "That is the best way to see a village."
+  },
+  {
+   "s": "Nicht geplant und ohne etwas zu wollen.",
+   "e": "Unplanned and wanting nothing."
+  },
+  {
+   "s": "Am Steg steht eine Tafel mit einer Karte.",
+   "e": "There is a board with a map at the landing stage."
+  },
+  {
+   "s": "Auf der Karte steht jedes Haus.",
+   "e": "Every house is on the map."
+  },
+  {
+   "s": "Die Kirche steht auf einem kleinen Hügel.",
+   "e": "The church stands on a small hill."
+  },
+  {
+   "s": "Der Laden ist neben der Post.",
+   "e": "The shop is next to the post office."
+  },
+  {
+   "s": "Die Schule liegt hinter der Kirche.",
+   "e": "The school lies behind the church."
+  },
+  {
+   "s": "Die Beiz ist gegenüber vom Steg.",
+   "e": "The pub is opposite the landing stage."
+  },
+  {
+   "s": "Alle diese Wörter brauchen den Dativ.",
+   "e": "All these words take the dative."
+  },
+  {
+   "s": "Auf dem Hügel. Neben der Post. Hinter der Kirche.",
+   "e": "On the hill. Next to the post office. Behind the church."
+  },
+  {
+   "s": "Sie sagen, wo etwas ist.",
+   "e": "They say where something is."
+  },
+  {
+   "s": "Mit Bewegung wird es anders.",
+   "e": "With movement it becomes different."
+  },
+  {
+   "s": "Ich gehe auf den Hügel.",
+   "e": "I go up onto the hill."
+  },
+  {
+   "s": "Ich gehe hinter die Kirche.",
+   "e": "I go behind the church."
+  },
+  {
+   "s": "Ich stelle das Velo neben die Post.",
+   "e": "I put the bicycle next to the post office."
+  },
+  {
+   "s": "Dann ist es der Akkusativ.",
+   "e": "Then it is the accusative."
+  },
+  {
+   "s": "Wo ist Dativ. Wohin ist Akkusativ.",
+   "e": "Where is dative. Where to is accusative."
+  },
+  {
+   "s": "Neun Wörter machen das so: in, an, auf, über, unter, vor, hinter, neben, zwischen.",
+   "e": "Nine words do it: in, an, auf, über, unter, vor, hinter, neben, zwischen."
+  },
+  {
+   "s": "Es sind immer die gleichen neun.",
+   "e": "It is always the same nine."
+  },
+  {
+   "s": "Ich gehe zuerst auf den Hügel.",
+   "e": "First I go up onto the hill."
+  },
+  {
+   "s": "Auf dem Hügel steht die Kirche allein.",
+   "e": "On the hill the church stands alone."
+  },
+  {
+   "s": "Sie ist weiss und sie hat einen kurzen Turm.",
+   "e": "It is white and it has a short tower."
+  },
+  {
+   "s": "Die Tür ist offen und niemand ist drin.",
+   "e": "The door is open and nobody is inside."
+  },
+  {
+   "s": "Kirchen sind hier am Tag immer offen.",
+   "e": "Churches here are always open during the day."
+  },
+  {
+   "s": "Ich gehe hinein und setze mich zwei Minuten hin.",
+   "e": "I go in and sit down for two minutes."
+  },
+  {
+   "s": "Es ist kalt und sehr still.",
+   "e": "It is cold and very quiet."
+  },
+  {
+   "s": "Draussen sehe ich über das Wasser.",
+   "e": "Outside I look out across the water."
+  },
+  {
+   "s": "Über dem Wasser hängt noch Nebel.",
+   "e": "Fog is still hanging above the water."
+  },
+  {
+   "s": "Unter dem Nebel liegt der See ganz flach.",
+   "e": "Under the fog the lake lies quite flat."
+  },
+  {
+   "s": "Hinter dem Nebel steht der Pilatus.",
+   "e": "Behind the fog stands Pilatus."
+  },
+  {
+   "s": "Man sieht ihn nicht und man weiss, er ist da.",
+   "e": "You cannot see it and you know it is there."
+  },
+  {
+   "s": "Ich gehe wieder hinunter ins Dorf.",
+   "e": "I walk back down into the village."
+  },
+  {
+   "s": "Auf der Strasse steht eine alte Mauer.",
+   "e": "There is an old wall on the street."
+  },
+  {
+   "s": "Neben der Mauer steht eine Bank.",
+   "e": "There is a bench next to the wall."
+  },
+  {
+   "s": "Auf der Bank sitzen zwei Männer.",
+   "e": "Two men are sitting on the bench."
+  },
+  {
+   "s": "Sie sagen Grüezi und schauen wieder weg.",
+   "e": "They say Grüezi and look away again."
+  },
+  {
+   "s": "Sie reden Dialekt und sehr langsam.",
+   "e": "They speak dialect and very slowly."
+  },
+  {
+   "s": "Zwischen zwei Sätzen sind zwanzig Sekunden.",
+   "e": "There are twenty seconds between two sentences."
+  },
+  {
+   "s": "Im Laden kaufe ich ein Wasser und ein Gipfeli.",
+   "e": "In the shop I buy a water and a Gipfeli."
+  },
+  {
+   "s": "Die Frau an der Kasse fragt: Auf der Durchreise?",
+   "e": "The woman at the till asks: just passing through?"
+  },
+  {
+   "s": "Ich sage: Ich bin am falschen Steg ausgestiegen.",
+   "e": "I say: I got off at the wrong landing stage."
+  },
+  {
+   "s": "Sie lacht und sagt: Das machen viele.",
+   "e": "She laughs and says: a lot of people do that."
+  },
+  {
+   "s": "Sie sagt: Stans ist mit dem Bus vier Minuten.",
+   "e": "She says: Stans is four minutes by bus."
+  },
+  {
+   "s": "Sie sagt: Und hier ist es schöner.",
+   "e": "She says: and it is nicer here."
+  },
+  {
+   "s": "Sie meint es und sie sagt es ohne Werbung.",
+   "e": "She means it and she says it without selling it."
+  },
+  {
+   "s": "Vor der Beiz stehen vier Tische.",
+   "e": "There are four tables outside the pub."
+  },
+  {
+   "s": "An einem Tisch sitzt eine Familie.",
+   "e": "A family is sitting at one table."
+  },
+  {
+   "s": "Unter dem Tisch liegt ein Hund.",
+   "e": "A dog is lying under the table."
+  },
+  {
+   "s": "Der Hund schaut mich an und bleibt liegen.",
+   "e": "The dog looks at me and stays lying down."
+  },
+  {
+   "s": "Ich setze mich an den letzten Tisch.",
+   "e": "I sit down at the last table."
+  },
+  {
+   "s": "Ich bestelle einen Kaffee.",
+   "e": "I order a coffee."
+  },
+  {
+   "s": "Die Frau in der Beiz bringt mir den Kaffee an den Tisch.",
+   "e": "The woman in the pub brings me the coffee to the table."
+  },
+  {
+   "s": "Über dem Wasser fliegen ein paar Vögel.",
+   "e": "A few birds are flying above the water."
+  },
+  {
+   "s": "Der Bus ist pünktlich wie überall hier.",
+   "e": "The bus is on time like everywhere here."
+  },
+  {
+   "s": "Der Kaffee kommt mit einem Guetzli.",
+   "e": "The coffee comes with a biscuit."
+  },
+  {
+   "s": "In Luzern kostet das Gleiche einen Franken mehr.",
+   "e": "In Luzern the same thing costs a franc more."
+  },
+  {
+   "s": "Der Bus kommt um halb zwölf.",
+   "e": "The bus comes at half past eleven."
+  },
+  {
+   "s": "Er steht schon fünf Minuten vorher da.",
+   "e": "It is already there five minutes beforehand."
+  },
+  {
+   "s": "Der Fahrer sitzt drin und liest.",
+   "e": "The driver is sitting in it reading."
+  },
+  {
+   "s": "Ich steige ein und sage Grüezi.",
+   "e": "I get on and say Grüezi."
+  },
+  {
+   "s": "Er sagt Grüezi und liest weiter.",
+   "e": "He says Grüezi and goes on reading."
+  },
+  {
+   "s": "Um halb zwölf legt er das Buch weg und fährt los.",
+   "e": "At half past eleven he puts the book down and drives off."
+  },
+  {
+   "s": "Vier Minuten später bin ich in Stans.",
+   "e": "Four minutes later I am in Stans."
+  },
+  {
+   "s": "Der falsche Steg war der bessere Morgen.",
+   "e": "The wrong landing stage was the better morning."
+  }
+ ]
+}

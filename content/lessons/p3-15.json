@@ -1,0 +1,350 @@
+{
+ "id": "p3-15",
+ "title": "Ein Tag in Zürich",
+ "desc": "The big city, an hour away",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "teuer",
+  "schnell",
+  "gross"
+ ],
+ "sn": [
+  {
+   "s": "Zürich ist eine Stunde von Luzern.",
+   "e": "Zurich is an hour from Luzern."
+  },
+  {
+   "s": "Der Zug fährt jede halbe Stunde.",
+   "e": "The train goes every half hour."
+  },
+  {
+   "s": "Ich bin acht Monate lang nicht hingefahren.",
+   "e": "For eight months I did not go."
+  },
+  {
+   "s": "Das ist komisch und es hat einen Grund.",
+   "e": "That is odd and there is a reason."
+  },
+  {
+   "s": "Man braucht nichts von dort.",
+   "e": "You do not need anything from there."
+  },
+  {
+   "s": "Am Samstag bin ich hingefahren.",
+   "e": "On Saturday I went."
+  },
+  {
+   "s": "Zürich ist grösser als Luzern.",
+   "e": "Zurich is bigger than Luzern."
+  },
+  {
+   "s": "Viel grösser.",
+   "e": "Much bigger."
+  },
+  {
+   "s": "Luzern hat achtzigtausend Leute.",
+   "e": "Luzern has eighty thousand people."
+  },
+  {
+   "s": "Zürich hat vierhunderttausend.",
+   "e": "Zurich has four hundred thousand."
+  },
+  {
+   "s": "Für dieses Land ist das eine sehr grosse Stadt.",
+   "e": "For this country that is a very big city."
+  },
+  {
+   "s": "Für die Welt ist es eine kleine Stadt.",
+   "e": "For the world it is a small city."
+  },
+  {
+   "s": "Grösser, teurer, schneller.",
+   "e": "Bigger, more expensive, faster."
+  },
+  {
+   "s": "Das sind die drei Wörter für Zürich.",
+   "e": "Those are the three words for Zurich."
+  },
+  {
+   "s": "Man macht sie mit er am Ende.",
+   "e": "You make them with er on the end."
+  },
+  {
+   "s": "Gross wird grösser. Teuer wird teurer.",
+   "e": "Gross becomes grösser. Teuer becomes teurer."
+  },
+  {
+   "s": "Schnell wird schneller. Klein wird kleiner.",
+   "e": "Schnell becomes schneller. Klein becomes kleiner."
+  },
+  {
+   "s": "Und dann kommt als.",
+   "e": "And then comes als."
+  },
+  {
+   "s": "Zürich ist teurer als Luzern.",
+   "e": "Zurich is more expensive than Luzern."
+  },
+  {
+   "s": "Luzern ist kleiner als Zürich.",
+   "e": "Luzern is smaller than Zurich."
+  },
+  {
+   "s": "Ein paar Wörter ändern sich stärker.",
+   "e": "A few words change more strongly."
+  },
+  {
+   "s": "Gut wird besser. Viel wird mehr.",
+   "e": "Gut becomes besser. Viel becomes mehr."
+  },
+  {
+   "s": "Gern wird lieber.",
+   "e": "Gern becomes lieber."
+  },
+  {
+   "s": "Hoch wird höher. Alt wird älter.",
+   "e": "Hoch becomes höher. Alt becomes älter."
+  },
+  {
+   "s": "Diese muss man einfach wissen.",
+   "e": "Those you simply have to know."
+  },
+  {
+   "s": "Der Bahnhof in Zürich ist gross.",
+   "e": "The station in Zurich is big."
+  },
+  {
+   "s": "Am Perron stehen sehr viele Leute.",
+   "e": "There are a great many people on the platform."
+  },
+  {
+   "s": "Im Museum muss ich den Ausweis zeigen.",
+   "e": "In the museum I have to show my identity card."
+  },
+  {
+   "s": "Mein Chef fährt jede Woche einmal nach Zürich.",
+   "e": "My boss goes to Zurich once a week."
+  },
+  {
+   "s": "Er hat sechsundzwanzig Gleise.",
+   "e": "It has twenty-six platforms."
+  },
+  {
+   "s": "Luzern hat vierzehn.",
+   "e": "Luzern has fourteen."
+  },
+  {
+   "s": "In Zürich gehen die Leute schneller.",
+   "e": "In Zurich people walk faster."
+  },
+  {
+   "s": "Sie gehen wirklich schneller.",
+   "e": "They really do walk faster."
+  },
+  {
+   "s": "Ich bin dreimal im Weg gestanden.",
+   "e": "Three times I was in the way."
+  },
+  {
+   "s": "Niemand hat etwas gesagt.",
+   "e": "Nobody said anything."
+  },
+  {
+   "s": "Alle sind einfach um mich herum gegangen.",
+   "e": "Everybody simply walked around me."
+  },
+  {
+   "s": "Die Bahnhofstrasse ist die teuerste Strasse.",
+   "e": "The Bahnhofstrasse is the most expensive street."
+  },
+  {
+   "s": "Dort sind die Läden mit den Uhren.",
+   "e": "That is where the shops with the watches are."
+  },
+  {
+   "s": "Eine Uhr im Fenster kostet mehr als ein Auto.",
+   "e": "A watch in the window costs more than a car."
+  },
+  {
+   "s": "Niemand schaut hin.",
+   "e": "Nobody looks."
+  },
+  {
+   "s": "Die Leute gehen daran vorbei zur Arbeit.",
+   "e": "People walk past them to work."
+  },
+  {
+   "s": "Am See ist es voll.",
+   "e": "By the lake it is crowded."
+  },
+  {
+   "s": "Alle sitzen am Wasser.",
+   "e": "Everybody is sitting by the water."
+  },
+  {
+   "s": "Das ist gleich wie in Luzern.",
+   "e": "That is the same as in Luzern."
+  },
+  {
+   "s": "Nur mit mehr Leuten auf dem gleichen Platz.",
+   "e": "Just with more people in the same space."
+  },
+  {
+   "s": "Ich esse zu Mittag in einem kleinen Lokal.",
+   "e": "I have lunch in a small place."
+  },
+  {
+   "s": "Das Essen kostet vierundzwanzig Franken.",
+   "e": "The meal costs twenty-four francs."
+  },
+  {
+   "s": "In Luzern kostet das Gleiche neunzehn.",
+   "e": "In Luzern the same thing costs nineteen."
+  },
+  {
+   "s": "Fünf Franken sind nicht viel.",
+   "e": "Five francs are not much."
+  },
+  {
+   "s": "Ich habe trotzdem fünf Minuten darüber nachgedacht.",
+   "e": "I still thought about it for five minutes."
+  },
+  {
+   "s": "Das ist jetzt schon ein Reflex.",
+   "e": "That is already a reflex now."
+  },
+  {
+   "s": "Am Nachmittag gehe ich in ein Museum.",
+   "e": "In the afternoon I go to a museum."
+  },
+  {
+   "s": "Das Museum ist sehr gut.",
+   "e": "The museum is very good."
+  },
+  {
+   "s": "In Luzern gibt es so etwas nicht.",
+   "e": "There is nothing like it in Luzern."
+  },
+  {
+   "s": "Das ist der Grund für Zürich.",
+   "e": "That is the reason for Zurich."
+  },
+  {
+   "s": "Nicht die Läden. Das.",
+   "e": "Not the shops. That."
+  },
+  {
+   "s": "Am Abend fahre ich zurück.",
+   "e": "In the evening I go back."
+  },
+  {
+   "s": "Ich kann auch bleiben.",
+   "e": "I could stay too."
+  },
+  {
+   "s": "Ich fahre trotzdem zurück.",
+   "e": "I go back anyway."
+  },
+  {
+   "s": "Im Zug schaue ich aus dem Fenster.",
+   "e": "On the train I look out of the window."
+  },
+  {
+   "s": "Nach vierzig Minuten kommt der Zugersee.",
+   "e": "After forty minutes Lake Zug comes."
+  },
+  {
+   "s": "Nach fünfzig Minuten kommen die ersten Berge.",
+   "e": "After fifty minutes the first mountains come."
+  },
+  {
+   "s": "Nach einer Stunde ist es dunkel und ich bin da.",
+   "e": "After an hour it is dark and I am there."
+  },
+  {
+   "s": "Am Bahnhof in Luzern ist es still.",
+   "e": "At the station in Luzern it is quiet."
+  },
+  {
+   "s": "Nach Zürich ist Luzern ein Dorf.",
+   "e": "After Zurich, Luzern is a village."
+  },
+  {
+   "s": "Und ich bin froh darüber.",
+   "e": "And I am glad about it."
+  },
+  {
+   "s": "Am Montag fragt Marco: Und? Wie war Zürich?",
+   "e": "On Monday Marco asks: and? How was Zurich?"
+  },
+  {
+   "s": "Er fragt es mit einem halben Lachen.",
+   "e": "He asks it with half a laugh."
+  },
+  {
+   "s": "Er wartet auf eine bestimmte Antwort.",
+   "e": "He is waiting for a particular answer."
+  },
+  {
+   "s": "Ich sage: Gross. Schnell. Teuer.",
+   "e": "I say: big. Fast. Expensive."
+  },
+  {
+   "s": "Er nickt zufrieden.",
+   "e": "He nods, satisfied."
+  },
+  {
+   "s": "Das war die richtige Antwort.",
+   "e": "That was the right answer."
+  },
+  {
+   "s": "Ich habe sie ehrlich gemeint und es war auch die richtige.",
+   "e": "I meant it honestly and it was also the right one."
+  },
+  {
+   "s": "Beides zusammen ist ein bisschen komisch.",
+   "e": "Both at once is a bit odd."
+  },
+  {
+   "s": "Timo sagt am Abend etwas Ähnliches.",
+   "e": "Timo says something similar in the evening."
+  },
+  {
+   "s": "Er sagt: In Zürich war ich viermal.",
+   "e": "He says: I have been to Zurich four times."
+  },
+  {
+   "s": "Er sagt: Es ist eine gute Stadt.",
+   "e": "He says: it is a good city."
+  },
+  {
+   "s": "Er sagt es und er meint es nicht ganz.",
+   "e": "He says it and he does not quite mean it."
+  },
+  {
+   "s": "Selina war zwei Jahre dort.",
+   "e": "Selina was there for two years."
+  },
+  {
+   "s": "Sie hat dort die Ausbildung gemacht.",
+   "e": "She did her training there."
+  },
+  {
+   "s": "Sie sagt: Ich bin gern zurückgekommen.",
+   "e": "She says: I was glad to come back."
+  },
+  {
+   "s": "Sie sagt auch: Und ich bin gern dort gewesen.",
+   "e": "She also says: and I was glad to have been there."
+  },
+  {
+   "s": "Sie sagt beides ohne Streit dazwischen.",
+   "e": "She says both with no quarrel in between."
+  },
+  {
+   "s": "Das können hier nicht viele.",
+   "e": "Not many people here can do that."
+  }
+ ]
+}

@@ -1,0 +1,349 @@
+{
+ "id": "p3-08",
+ "title": "Kriens",
+ "desc": "The suburb at the foot of the mountain",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Büro",
+  "Teil",
+  "wohnen",
+  "arbeiten",
+  "Bus",
+  "ander"
+ ],
+ "sn": [
+  {
+   "s": "Ich arbeite in Kriens.",
+   "e": "I work in Kriens."
+  },
+  {
+   "s": "Das Büro ist dort, nicht in der Stadt.",
+   "e": "The office is there, not in the town."
+  },
+  {
+   "s": "Kriens ist gleich neben Luzern.",
+   "e": "Kriens is right next to Luzern."
+  },
+  {
+   "s": "Man merkt die Grenze nicht.",
+   "e": "You do not notice the border."
+  },
+  {
+   "s": "Die Häuser hören nicht auf.",
+   "e": "The houses do not stop."
+  },
+  {
+   "s": "Eine Strasse ist Luzern und die nächste ist Kriens.",
+   "e": "One street is Luzern and the next is Kriens."
+  },
+  {
+   "s": "Und trotzdem ist es eine andere Gemeinde.",
+   "e": "And still it is a different commune."
+  },
+  {
+   "s": "Eine andere Gemeinde heisst: andere Steuern.",
+   "e": "A different commune means: different taxes."
+  },
+  {
+   "s": "Es heisst: andere Abstimmungen und ein anderes Rathaus.",
+   "e": "It means: different votes and a different town hall."
+  },
+  {
+   "s": "Es heisst auch: ein anderer Gebührensack.",
+   "e": "It also means: a different charged rubbish bag."
+  },
+  {
+   "s": "Der Sack von Luzern gilt in Kriens nicht.",
+   "e": "The Luzern bag is not valid in Kriens."
+  },
+  {
+   "s": "Das habe ich schon einmal gelernt.",
+   "e": "I have already learned that once."
+  },
+  {
+   "s": "Kriens hat siebenundzwanzigtausend Leute.",
+   "e": "Kriens has twenty-seven thousand people."
+  },
+  {
+   "s": "Das ist eine Stadt und alle sagen Dorf.",
+   "e": "That is a town and everybody says village."
+  },
+  {
+   "s": "Es liegt am Fuss vom Pilatus.",
+   "e": "It lies at the foot of Pilatus."
+  },
+  {
+   "s": "Der Berg fängt hinter den letzten Häusern an.",
+   "e": "The mountain starts behind the last houses."
+  },
+  {
+   "s": "Das habe ich acht Monate lang nicht gesehen.",
+   "e": "I did not see that for eight months."
+  },
+  {
+   "s": "Ich bin jeden Tag mit dem Bus hingefahren.",
+   "e": "I went there by bus every day."
+  },
+  {
+   "s": "Ich habe im Bus auf das Handy geschaut.",
+   "e": "On the bus I looked at my phone."
+  },
+  {
+   "s": "Eines Tages habe ich hinausgeschaut.",
+   "e": "One day I looked out."
+  },
+  {
+   "s": "Der Bus fährt direkt auf den Berg zu.",
+   "e": "The bus drives straight towards the mountain."
+  },
+  {
+   "s": "Am Ende von der Linie ist eine Bergbahn.",
+   "e": "At the end of the line there is a mountain railway."
+  },
+  {
+   "s": "Der Bus Nummer eins hört dort auf.",
+   "e": "The number one bus stops there."
+  },
+  {
+   "s": "Man steigt aus und man steht an der Talstation.",
+   "e": "You get off and you are standing at the valley station."
+  },
+  {
+   "s": "Ein Bus in der Stadt endet an einer Bergbahn.",
+   "e": "A city bus ends at a mountain railway."
+  },
+  {
+   "s": "Das ist der ganze Satz über dieses Land.",
+   "e": "That is the whole sentence about this country."
+  },
+  {
+   "s": "In Kriens gibt es alte Teile und neue Teile.",
+   "e": "In Kriens there are old parts and new parts."
+  },
+  {
+   "s": "Der alte Teil hat einen Dorfplatz und eine Kirche.",
+   "e": "The old part has a village square and a church."
+  },
+  {
+   "s": "Der neue Teil hat Blöcke mit vier Stockwerken.",
+   "e": "The new part has blocks with four floors."
+  },
+  {
+   "s": "Zwischen den Blöcken steht immer ein Baum und eine Bank.",
+   "e": "Between the blocks there is always a tree and a bench."
+  },
+  {
+   "s": "Und ein Platz für die Kinder.",
+   "e": "And a place for the children."
+  },
+  {
+   "s": "Das steht so im Gesetz.",
+   "e": "That is in the law."
+  },
+  {
+   "s": "Ein Quartier ist ein Teil von einer Stadt.",
+   "e": "A Quartier is a part of a town."
+  },
+  {
+   "s": "Mein Quartier in Luzern ist alt und eng.",
+   "e": "My neighbourhood in Luzern is old and narrow."
+  },
+  {
+   "s": "Das Quartier vom Büro ist neu und breit.",
+   "e": "The office neighbourhood is new and wide."
+  },
+  {
+   "s": "In jedem Quartier gibt es einen Laden und eine Bushaltestelle.",
+   "e": "In every neighbourhood there is a shop and a bus stop."
+  },
+  {
+   "s": "Nie weiter als fünf Minuten zu Fuss.",
+   "e": "Never more than five minutes on foot."
+  },
+  {
+   "s": "Früher war Kriens eine Fabrik.",
+   "e": "Kriens used to be a factory."
+  },
+  {
+   "s": "Eine Fabrik für Maschinen, mit tausend Leuten.",
+   "e": "A factory for machines, with a thousand people."
+  },
+  {
+   "s": "Die Fabrik ist seit dreissig Jahren zu.",
+   "e": "The factory has been closed for thirty years."
+  },
+  {
+   "s": "Die Gebäude stehen noch.",
+   "e": "The buildings are still there."
+  },
+  {
+   "s": "Jetzt sind Büros und Wohnungen darin.",
+   "e": "Now there are offices and flats in them."
+  },
+  {
+   "s": "Mein Büro ist in der alten Fabrik.",
+   "e": "My office is in the old factory."
+  },
+  {
+   "s": "Die Fenster sind sechs Meter hoch.",
+   "e": "The windows are six metres high."
+  },
+  {
+   "s": "Im Winter ist es innen kalt.",
+   "e": "In winter it is cold inside."
+  },
+  {
+   "s": "Marco sagt: Dafür ist es schön.",
+   "e": "Marco says: but it is beautiful."
+  },
+  {
+   "s": "Er sagt es jedes Jahr im Januar.",
+   "e": "He says it every January."
+  },
+  {
+   "s": "Wohnen und arbeiten brauchen verschiedene Wörter.",
+   "e": "Wohnen and arbeiten take different words."
+  },
+  {
+   "s": "Man wohnt in Kriens.",
+   "e": "You live in Kriens."
+  },
+  {
+   "s": "Man arbeitet bei einer Firma.",
+   "e": "You work at a company."
+  },
+  {
+   "s": "Man arbeitet in einem Büro.",
+   "e": "You work in an office."
+  },
+  {
+   "s": "Ich wohne in Luzern und arbeite in Kriens.",
+   "e": "I live in Luzern and work in Kriens."
+  },
+  {
+   "s": "Marco wohnt in Kriens und arbeitet in Kriens.",
+   "e": "Marco lives in Kriens and works in Kriens."
+  },
+  {
+   "s": "Er geht zu Fuss zur Arbeit.",
+   "e": "He walks to work."
+  },
+  {
+   "s": "Elf Minuten, seit vierzehn Jahren.",
+   "e": "Eleven minutes, for fourteen years."
+  },
+  {
+   "s": "Er sagt: Ich habe nie im Zug gestanden.",
+   "e": "He says: I have never stood on a train."
+  },
+  {
+   "s": "Er sagt es wie einen Sieg.",
+   "e": "He says it like a victory."
+  },
+  {
+   "s": "In Kriens wohnen viele Leute aus Luzern.",
+   "e": "A lot of people from Luzern live in Kriens."
+  },
+  {
+   "s": "Sie ziehen hinaus, denn die Miete ist tiefer.",
+   "e": "They move out, because the rent is lower."
+  },
+  {
+   "s": "Zweihundert Franken im Monat weniger.",
+   "e": "Two hundred francs a month less."
+  },
+  {
+   "s": "Dafür fährt man zehn Minuten länger.",
+   "e": "For that you travel ten minutes longer."
+  },
+  {
+   "s": "Alle rechnen diese Rechnung einmal.",
+   "e": "Everybody does that sum once."
+  },
+  {
+   "s": "Rosmarie hat sie nie gerechnet.",
+   "e": "Rosmarie never did it."
+  },
+  {
+   "s": "Sie wohnt seit vierzig Jahren in der gleichen Wohnung.",
+   "e": "She has lived in the same flat for forty years."
+  },
+  {
+   "s": "Ihre Miete ist tiefer als alles in Kriens.",
+   "e": "Her rent is lower than anything in Kriens."
+  },
+  {
+   "s": "Das ist so, denn sie ist nie umgezogen.",
+   "e": "That is because she has never moved."
+  },
+  {
+   "s": "Am Freitag gehe ich nach der Arbeit nicht zum Bus.",
+   "e": "On Friday after work I do not go to the bus."
+  },
+  {
+   "s": "Ich gehe die Strasse hinauf, Richtung Berg.",
+   "e": "I walk up the street, towards the mountain."
+  },
+  {
+   "s": "Nach zwanzig Minuten hören die Häuser auf.",
+   "e": "After twenty minutes the houses stop."
+  },
+  {
+   "s": "Dann kommt ein Weg in den Wald.",
+   "e": "Then comes a path into the woods."
+  },
+  {
+   "s": "Am Anfang vom Weg steht ein gelbes Schild.",
+   "e": "At the start of the path there is a yellow sign."
+  },
+  {
+   "s": "Auf dem Schild steht eine Zeit.",
+   "e": "There is a time on the sign."
+  },
+  {
+   "s": "Vier Stunden zwanzig, steht da.",
+   "e": "Four hours twenty, it says."
+  },
+  {
+   "s": "Vier Stunden zwanzig bis nach oben.",
+   "e": "Four hours twenty to the top."
+  },
+  {
+   "s": "Ich gehe zwanzig Minuten und drehe um.",
+   "e": "I walk for twenty minutes and turn back."
+  },
+  {
+   "s": "Aber ich kenne jetzt den Anfang vom Weg.",
+   "e": "But now I know where the path begins."
+  },
+  {
+   "s": "Der Berg war acht Monate lang ein Bild.",
+   "e": "For eight months the mountain was a picture."
+  },
+  {
+   "s": "Jetzt hat er eine Bushaltestelle.",
+   "e": "Now it has a bus stop."
+  },
+  {
+   "s": "Am Montag schaue ich im Bus aus dem Fenster.",
+   "e": "On Monday I look out of the window on the bus."
+  },
+  {
+   "s": "Marco fragt: Was ist mit dir?",
+   "e": "Marco asks: what is up with you?"
+  },
+  {
+   "s": "Ich sage: Ich habe den Berg gesehen.",
+   "e": "I say: I saw the mountain."
+  },
+  {
+   "s": "Er sagt: Der ist seit gestern auch da.",
+   "e": "He says: it has been there since yesterday too."
+  },
+  {
+   "s": "Er sagt es trocken und er versteht mich genau.",
+   "e": "He says it drily and he understands me exactly."
+  }
+ ]
+}

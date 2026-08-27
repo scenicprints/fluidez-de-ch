@@ -1,0 +1,370 @@
+{
+ "id": "p3-12",
+ "title": "Der letzte Zug",
+ "desc": "The country closes at midnight",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "schaffen",
+  "rennen",
+  "letzt"
+ ],
+ "sn": [
+  {
+   "s": "Jeder hier kennt seinen letzten Zug.",
+   "e": "Everybody here knows their last train."
+  },
+  {
+   "s": "Nicht den Fahrplan. Den eigenen letzten Zug.",
+   "e": "Not the timetable. Their own last train."
+  },
+  {
+   "s": "Timo hat den Zug um null Uhr zweiunddreissig.",
+   "e": "Timo has the train at twelve thirty-two."
+  },
+  {
+   "s": "Marco hat den Bus um null Uhr fünf.",
+   "e": "Marco has the bus at five past midnight."
+  },
+  {
+   "s": "Selina wohnt in der Stadt und hat keinen.",
+   "e": "Selina lives in town and has none."
+  },
+  {
+   "s": "Ich habe den Bus um null Uhr zwanzig.",
+   "e": "I have the bus at twenty past midnight."
+  },
+  {
+   "s": "Vier Leute an einem Tisch und vier verschiedene Zeiten.",
+   "e": "Four people at a table and four different times."
+  },
+  {
+   "s": "Das ist eine sehr schweizerische Sache.",
+   "e": "That is a very Swiss thing."
+  },
+  {
+   "s": "Nach dem letzten Zug fährt nichts mehr.",
+   "e": "After the last train nothing runs any more."
+  },
+  {
+   "s": "Nichts heisst hier nichts.",
+   "e": "Nothing here means nothing."
+  },
+  {
+   "s": "Kein Bus, kein Zug, kein Schiff.",
+   "e": "No bus, no train, no boat."
+  },
+  {
+   "s": "Am Freitag und am Samstag gibt es Nachtzüge.",
+   "e": "On Friday and Saturday there are night trains."
+  },
+  {
+   "s": "Unter der Woche gibt es sie nicht.",
+   "e": "During the week there are none."
+  },
+  {
+   "s": "Ein Taxi nach Stans kostet achtzig Franken.",
+   "e": "A taxi to Stans costs eighty francs."
+  },
+  {
+   "s": "Also nimmt niemand ein Taxi.",
+   "e": "So nobody takes a taxi."
+  },
+  {
+   "s": "Also geht man um Mitternacht.",
+   "e": "So you leave at midnight."
+  },
+  {
+   "s": "Am Mittwochabend sitzen wir in der Beiz.",
+   "e": "On Wednesday evening we are in the pub."
+  },
+  {
+   "s": "Es ist ein guter Abend.",
+   "e": "It is a good evening."
+  },
+  {
+   "s": "Timo erzählt etwas über seinen Chef.",
+   "e": "Timo is telling us something about his boss."
+  },
+  {
+   "s": "Um Viertel nach zwölf schaut er auf die Uhr.",
+   "e": "At quarter past twelve he looks at his watch."
+  },
+  {
+   "s": "Er sagt mitten im Satz: Ich muss.",
+   "e": "He says in the middle of his sentence: I have to go."
+  },
+  {
+   "s": "Er sagt es nicht als Frage.",
+   "e": "He does not say it as a question."
+  },
+  {
+   "s": "Er steht auf und zieht die Jacke an.",
+   "e": "He stands up and puts his jacket on."
+  },
+  {
+   "s": "Das Ende von der Geschichte kommt nie.",
+   "e": "The end of the story never comes."
+  },
+  {
+   "s": "Ich frage: Und der Rest?",
+   "e": "I ask: and the rest?"
+  },
+  {
+   "s": "Er sagt: Nächstes Mal.",
+   "e": "He says: next time."
+  },
+  {
+   "s": "Und er geht.",
+   "e": "And he goes."
+  },
+  {
+   "s": "Ich habe das zuerst unhöflich gefunden.",
+   "e": "At first I found that rude."
+  },
+  {
+   "s": "Es ist das Gegenteil davon.",
+   "e": "It is the opposite of that."
+  },
+  {
+   "s": "Er geht früh und er sagt es kurz.",
+   "e": "He leaves early and he says it briefly."
+  },
+  {
+   "s": "So muss niemand mit ihm zum Bahnhof rennen.",
+   "e": "That way nobody has to run to the station with him."
+  },
+  {
+   "s": "Bleiben und dann rennen ist unhöflich.",
+   "e": "Staying and then running is rude."
+  },
+  {
+   "s": "Am Donnerstag habe ich es selber gemacht.",
+   "e": "On Thursday I did it myself."
+  },
+  {
+   "s": "Nicht das Gehen. Das Rennen.",
+   "e": "Not the leaving. The running."
+  },
+  {
+   "s": "Ich bin um Viertel nach zwölf noch gesessen.",
+   "e": "At quarter past twelve I was still sitting there."
+  },
+  {
+   "s": "Ich habe gedacht: Zwanzig nach ist noch weit.",
+   "e": "I thought: twenty past is still a long way off."
+  },
+  {
+   "s": "Um achtzehn nach bin ich aufgestanden.",
+   "e": "At eighteen past I stood up."
+  },
+  {
+   "s": "Vom Tisch bis zur Haltestelle sind drei Minuten.",
+   "e": "From the table to the stop is three minutes."
+  },
+  {
+   "s": "Drei Minuten mit einer Jacke und einer Rechnung.",
+   "e": "Three minutes with a jacket and a bill."
+  },
+  {
+   "s": "Ich habe die Rechnung schnell bezahlt.",
+   "e": "I paid the bill quickly."
+  },
+  {
+   "s": "Ich bin hinausgerannt.",
+   "e": "I ran out."
+  },
+  {
+   "s": "Rennen ist hier fast peinlich.",
+   "e": "Running is almost embarrassing here."
+  },
+  {
+   "s": "Man sieht sehr selten jemanden rennen.",
+   "e": "You very rarely see anybody running."
+  },
+  {
+   "s": "Alle gehen schnell und niemand rennt.",
+   "e": "Everybody walks fast and nobody runs."
+  },
+  {
+   "s": "Ein rennender Mensch hat etwas falsch geplant.",
+   "e": "A running person has planned something wrong."
+  },
+  {
+   "s": "Das denken alle und niemand sagt es.",
+   "e": "Everybody thinks that and nobody says it."
+  },
+  {
+   "s": "Ich habe den Bus erwischt.",
+   "e": "I caught the bus."
+  },
+  {
+   "s": "Erwischen ist das Gegenteil von verpassen.",
+   "e": "Erwischen is the opposite of verpassen."
+  },
+  {
+   "s": "Ich habe den Zug erwischt.",
+   "e": "I caught the train."
+  },
+  {
+   "s": "Ich habe ihn knapp erwischt.",
+   "e": "I caught it by the skin of my teeth."
+  },
+  {
+   "s": "Schaffen heisst fast das Gleiche.",
+   "e": "Schaffen means almost the same."
+  },
+  {
+   "s": "Ich schaffe den Bus um zwanzig nach.",
+   "e": "I will make the twenty past bus."
+  },
+  {
+   "s": "Ich habe es geschafft.",
+   "e": "I made it."
+  },
+  {
+   "s": "Schaffen ist für alles Schwere.",
+   "e": "Schaffen is for anything hard."
+  },
+  {
+   "s": "Man schafft einen Zug, eine Prüfung, einen Berg.",
+   "e": "You make a train, an exam, a mountain."
+  },
+  {
+   "s": "Im Bus bin ich der einzige mit einem roten Gesicht.",
+   "e": "On the bus I am the only one with a red face."
+  },
+  {
+   "s": "Vier andere Leute sitzen ruhig da.",
+   "e": "Four other people are sitting there calmly."
+  },
+  {
+   "s": "Sie sind alle fünf Minuten früher gekommen.",
+   "e": "They all came five minutes earlier."
+  },
+  {
+   "s": "Der Fahrer schaut mich im Spiegel an.",
+   "e": "The driver looks at me in the mirror."
+  },
+  {
+   "s": "Er sagt nichts.",
+   "e": "He says nothing."
+  },
+  {
+   "s": "Zu Hause sitze ich noch zwanzig Minuten am Tisch.",
+   "e": "At home I sit at the table for another twenty minutes."
+  },
+  {
+   "s": "Ich bin wach und ärgere mich.",
+   "e": "I am awake and annoyed with myself."
+  },
+  {
+   "s": "Nicht wegen dem Rennen.",
+   "e": "Not because of the running."
+  },
+  {
+   "s": "Wegen dem Ende von der Geschichte.",
+   "e": "Because of the end of the story."
+  },
+  {
+   "s": "Ich habe die letzten zehn Minuten verloren.",
+   "e": "I lost the last ten minutes."
+  },
+  {
+   "s": "Ich habe sie mit einer Rechnung und einer Jacke verloren.",
+   "e": "I lost them to a bill and a jacket."
+  },
+  {
+   "s": "Am Freitag mache ich es anders.",
+   "e": "On Friday I do it differently."
+  },
+  {
+   "s": "Ich zahle um Viertel nach elf.",
+   "e": "I pay at quarter past eleven."
+  },
+  {
+   "s": "Ich lasse die Jacke auf dem Stuhl neben mir.",
+   "e": "I leave my jacket on the chair next to me."
+  },
+  {
+   "s": "Um zehn nach zwölf stehe ich auf.",
+   "e": "At ten past twelve I stand up."
+  },
+  {
+   "s": "Ich gehe langsam zur Tür.",
+   "e": "I walk slowly to the door."
+  },
+  {
+   "s": "Ich sage bei allen einzeln Ade.",
+   "e": "I say goodbye to each person separately."
+  },
+  {
+   "s": "Ich gehe zur Haltestelle wie ein normaler Mensch.",
+   "e": "I walk to the stop like a normal person."
+  },
+  {
+   "s": "Der Bus kommt vier Minuten später.",
+   "e": "The bus comes four minutes later."
+  },
+  {
+   "s": "Ich stehe da und schaue in die leere Strasse.",
+   "e": "I stand there and look at the empty street."
+  },
+  {
+   "s": "Um zwanzig nach zwölf ist die Stadt fertig.",
+   "e": "At twenty past twelve the town is finished."
+  },
+  {
+   "s": "Auf dem Perron um Mitternacht stehen fünf Leute.",
+   "e": "Five people stand on the platform at midnight."
+  },
+  {
+   "s": "Der letzte Zug ist auch in der Nacht pünktlich.",
+   "e": "The last train is on time at night too."
+  },
+  {
+   "s": "In der Beiz spielt jemand Musik vom Handy.",
+   "e": "In the pub somebody plays music from a phone."
+  },
+  {
+   "s": "Nach Mitternacht kontrolliert manchmal die Polizei.",
+   "e": "After midnight the police sometimes check."
+  },
+  {
+   "s": "Dann zeigt man den Ausweis und geht weiter.",
+   "e": "Then you show your identity card and walk on."
+  },
+  {
+   "s": "Alle Läden sind zu. Alle Fenster sind dunkel.",
+   "e": "All the shops are shut. All the windows are dark."
+  },
+  {
+   "s": "Auf der Brücke geht niemand.",
+   "e": "Nobody is walking on the bridge."
+  },
+  {
+   "s": "Das ist keine tote Stadt.",
+   "e": "That is not a dead town."
+  },
+  {
+   "s": "Das ist eine Stadt mit einem Bett.",
+   "e": "That is a town with a bed."
+  },
+  {
+   "s": "Timo hat mir etwas Gutes gesagt.",
+   "e": "Timo said something good to me."
+  },
+  {
+   "s": "Er hat gesagt: Der letzte Zug ist ein Geschenk.",
+   "e": "He said: the last train is a present."
+  },
+  {
+   "s": "Er hat gesagt: Der Abend hat ein Ende und alle kennen es.",
+   "e": "He said: the evening has an end and everybody knows it."
+  },
+  {
+   "s": "Er hat gesagt: Niemand muss entscheiden.",
+   "e": "He said: nobody has to decide."
+  }
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "id": "p3-02",
+ "title": "Die App",
+ "desc": "A timetable that is never wrong",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "App",
+  "Richtung",
+  "Zug"
+ ],
+ "sn": [
+  {
+   "s": "Auf dem Handy habe ich eine App für den Fahrplan.",
+   "e": "On my phone I have an app for the timetable."
+  },
+  {
+   "s": "Alle hier haben diese App.",
+   "e": "Everybody here has this app."
+  },
+  {
+   "s": "Man tippt zwei Orte hinein.",
+   "e": "You type in two places."
+  },
+  {
+   "s": "Von Luzern nach Stans.",
+   "e": "From Luzern to Stans."
+  },
+  {
+   "s": "Die App gibt eine Verbindung.",
+   "e": "The app gives a connection."
+  },
+  {
+   "s": "Eine Verbindung ist der ganze Weg von A nach B.",
+   "e": "A connection is the whole way from A to B."
+  },
+  {
+   "s": "Eine Verbindung hat manchmal drei Züge.",
+   "e": "A connection sometimes has three trains."
+  },
+  {
+   "s": "Sie hat eine Abfahrt und eine Ankunft.",
+   "e": "It has a departure and an arrival."
+  },
+  {
+   "s": "Abfahren und ankommen sind wieder Verben mit zwei Teilen.",
+   "e": "Abfahren and ankommen are verbs with two parts again."
+  },
+  {
+   "s": "Der Zug fährt um sieben Uhr zwölf ab.",
+   "e": "The train leaves at seven twelve."
+  },
+  {
+   "s": "Der Zug kommt um sieben Uhr sechsundzwanzig an.",
+   "e": "The train arrives at seven twenty-six."
+  },
+  {
+   "s": "Das ab und das an stehen am Ende.",
+   "e": "The ab and the an stand at the end."
+  },
+  {
+   "s": "Auf dem Perron steht es auch so.",
+   "e": "It says the same on the platform."
+  },
+  {
+   "s": "Auf der gelben Tafel steht die Abfahrt.",
+   "e": "The departures are on the yellow board."
+  },
+  {
+   "s": "Auf der weissen Tafel steht die Ankunft.",
+   "e": "The arrivals are on the white board."
+  },
+  {
+   "s": "Gelb ist weg, weiss ist hin.",
+   "e": "Yellow is away, white is towards."
+  },
+  {
+   "s": "Das habe ich in der ersten Woche nicht gewusst.",
+   "e": "I did not know that in the first week."
+  },
+  {
+   "s": "Ich habe zehn Minuten auf der falschen Tafel gesucht.",
+   "e": "I looked at the wrong board for ten minutes."
+  },
+  {
+   "s": "Die App zeigt auch die Richtung.",
+   "e": "The app shows the direction too."
+  },
+  {
+   "s": "Richtung heisst: wohin der Zug fährt.",
+   "e": "Richtung means: where the train is going."
+  },
+  {
+   "s": "Richtung Engelberg. Richtung Basel.",
+   "e": "Towards Engelberg. Towards Basel."
+  },
+  {
+   "s": "Am Perron steht die Richtung und nicht die Nummer.",
+   "e": "The direction is on the platform and not the number."
+  },
+  {
+   "s": "Man muss die Richtung lesen und nicht das Ziel.",
+   "e": "You have to read the direction and not the destination."
+  },
+  {
+   "s": "Der Zug nach Stans fährt Richtung Engelberg.",
+   "e": "The train to Stans goes towards Engelberg."
+  },
+  {
+   "s": "Stans steht nicht auf der Tafel.",
+   "e": "Stans is not on the board."
+  },
+  {
+   "s": "Stans ist unterwegs und Engelberg ist am Ende.",
+   "e": "Stans is on the way and Engelberg is at the end."
+  },
+  {
+   "s": "Das ist die häufigste Frage von neuen Leuten.",
+   "e": "That is the commonest question from new people."
+  },
+  {
+   "s": "Ich habe sie zweimal gestellt.",
+   "e": "I asked it twice."
+  },
+  {
+   "s": "Das Wichtigste an der App ist der Anschluss.",
+   "e": "The most important thing in the app is the connection."
+  },
+  {
+   "s": "Ein Anschluss ist der nächste Zug nach dem ersten.",
+   "e": "An Anschluss is the next train after the first one."
+  },
+  {
+   "s": "Man steigt aus und man steigt wieder ein.",
+   "e": "You get off and you get on again."
+  },
+  {
+   "s": "Dazwischen hat man vier oder sechs Minuten.",
+   "e": "In between you have four or six minutes."
+  },
+  {
+   "s": "Vier Minuten tönen kurz.",
+   "e": "Four minutes sound short."
+  },
+  {
+   "s": "Vier Minuten reichen immer.",
+   "e": "Four minutes are always enough."
+  },
+  {
+   "s": "Das ganze Netz ist so gebaut.",
+   "e": "The whole network is built that way."
+  },
+  {
+   "s": "Die Züge kommen kurz vor der vollen Stunde an.",
+   "e": "The trains arrive just before the hour."
+  },
+  {
+   "s": "Die Züge fahren kurz nach der vollen Stunde ab.",
+   "e": "The trains leave just after the hour."
+  },
+  {
+   "s": "Dazwischen stehen alle gleichzeitig im Bahnhof.",
+   "e": "In between they are all in the station at the same time."
+  },
+  {
+   "s": "Alle warten kurz aufeinander.",
+   "e": "They all wait briefly for each other."
+  },
+  {
+   "s": "Dann fahren alle wieder weg.",
+   "e": "Then they all leave again."
+  },
+  {
+   "s": "Das passiert in jedem Bahnhof im Land, jede Stunde.",
+   "e": "That happens in every station in the country, every hour."
+  },
+  {
+   "s": "Timo sagt: Das ist die Schweiz.",
+   "e": "Timo says: that is Switzerland."
+  },
+  {
+   "s": "Er sagt: Nicht die Berge. Das.",
+   "e": "He says: not the mountains. That."
+  },
+  {
+   "s": "Am Samstag plane ich eine Fahrt mit drei Zügen.",
+   "e": "On Saturday I plan a journey with three trains."
+  },
+  {
+   "s": "Luzern nach Hergiswil. Hergiswil nach Stans.",
+   "e": "Luzern to Hergiswil. Hergiswil to Stans."
+  },
+  {
+   "s": "Stans nach Stansstad mit dem Bus.",
+   "e": "Stans to Stansstad by bus."
+  },
+  {
+   "s": "Drei Verbindungen, zwei Anschlüsse, ein Billett.",
+   "e": "Three connections, two changes, one ticket."
+  },
+  {
+   "s": "Ein Billett für alles zusammen.",
+   "e": "One ticket for all of it."
+  },
+  {
+   "s": "Das habe ich zuerst nicht geglaubt.",
+   "e": "I did not believe that at first."
+  },
+  {
+   "s": "Man kauft das Billett von A nach B.",
+   "e": "You buy the ticket from A to B."
+  },
+  {
+   "s": "Der Weg dazwischen ist egal.",
+   "e": "The way in between does not matter."
+  },
+  {
+   "s": "Zug, Bus, Schiff. Alles im gleichen Billett.",
+   "e": "Train, bus, boat. All in the same ticket."
+  },
+  {
+   "s": "Am Samstag geht alles auf.",
+   "e": "On Saturday it all works."
+  },
+  {
+   "s": "Der erste Zug ist pünktlich.",
+   "e": "The first train is on time."
+  },
+  {
+   "s": "Der zweite steht schon am Perron gegenüber.",
+   "e": "The second is already standing at the platform opposite."
+  },
+  {
+   "s": "Der Bus wartet vor dem Bahnhof mit offener Tür.",
+   "e": "The bus is waiting outside the station with its door open."
+  },
+  {
+   "s": "Der Fahrer schaut auf die Uhr und nicht auf mich.",
+   "e": "The driver looks at his watch and not at me."
+  },
+  {
+   "s": "Er wartet auf den Zug und nicht auf die Leute.",
+   "e": "He is waiting for the train and not for the people."
+  },
+  {
+   "s": "Um zehn nach zehn fährt er ab.",
+   "e": "At ten past ten he leaves."
+  },
+  {
+   "s": "Genau um zehn nach zehn.",
+   "e": "At exactly ten past ten."
+  },
+  {
+   "s": "Ich sitze im Bus und ich verstehe etwas.",
+   "e": "I am sitting on the bus and I understand something."
+  },
+  {
+   "s": "Niemand hat auf mich gewartet.",
+   "e": "Nobody waited for me."
+  },
+  {
+   "s": "Und trotzdem hat alles auf mich gepasst.",
+   "e": "And everything fitted me anyway."
+  },
+  {
+   "s": "Das ist der Unterschied.",
+   "e": "That is the difference."
+  },
+  {
+   "s": "Zu Hause wartet man und dann kommt etwas.",
+   "e": "At home you wait and then something comes."
+  },
+  {
+   "s": "Hier kommt es und man ist da oder nicht.",
+   "e": "Here it comes and you are there or you are not."
+  },
+  {
+   "s": "Die App zeigt auch Verspätungen.",
+   "e": "The app shows delays too."
+  },
+  {
+   "s": "Zwei Minuten stehen in Rot.",
+   "e": "Two minutes are shown in red."
+  },
+  {
+   "s": "Zwei Minuten sind hier eine Verspätung.",
+   "e": "Two minutes are a delay here."
+  },
+  {
+   "s": "Bei zwei Minuten schauen alle auf das Handy.",
+   "e": "With two minutes everybody looks at their phone."
+  },
+  {
+   "s": "Bei fünf Minuten kommt eine Durchsage.",
+   "e": "With five minutes an announcement comes."
+  },
+  {
+   "s": "Rosmarie hat keine App.",
+   "e": "Rosmarie has no app."
+  },
+  {
+   "s": "Sie hat ein kleines Buch mit dem Fahrplan drin.",
+   "e": "She has a small book with the timetable in it."
+  },
+  {
+   "s": "Es gibt das Buch immer noch, jedes Jahr neu.",
+   "e": "The book still exists, new every year."
+  },
+  {
+   "s": "Sie kennt ihre Zeiten sowieso auswendig.",
+   "e": "She knows her times by heart anyway."
+  },
+  {
+   "s": "Sie sagt: Der Zehner geht um zwölf nach.",
+   "e": "She says: the ten goes at twelve past."
+  },
+  {
+   "s": "Sie sagt Zehner und meint den Bus Nummer zehn.",
+   "e": "She says Zehner and means the number ten bus."
+  },
+  {
+   "s": "Das musste mir Timo erklären.",
+   "e": "Timo had to explain that to me."
+  },
+  {
+   "s": "Er sagt: Der Elfer, der Zweier, der Dreier.",
+   "e": "He says: the eleven, the two, the three."
+  },
+  {
+   "s": "So sagen es alle und in der App steht es anders.",
+   "e": "That is how everybody says it and the app says it differently."
+  },
+  {
+   "s": "Ich habe die App jetzt weniger offen.",
+   "e": "I have the app open less now."
+  },
+  {
+   "s": "Ich weiss die Zeiten von meinen zwei Strecken.",
+   "e": "I know the times of my two routes."
+  },
+  {
+   "s": "Das sind vier Zahlen und sie ändern nie.",
+   "e": "That is four numbers and they never change."
+  },
+  {
+   "s": "Vier Zahlen und man wohnt hier.",
+   "e": "Four numbers and you live here."
+  }
+ ]
+}

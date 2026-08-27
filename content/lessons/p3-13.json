@@ -1,0 +1,376 @@
+{
+ "id": "p3-13",
+ "title": "Die gelben Schilder",
+ "desc": "Signs that tell you the time, not the distance",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Kilometer",
+  "Schild",
+  "Weg",
+  "Zeit",
+  "stehen"
+ ],
+ "sn": [
+  {
+   "s": "An jedem Weg steht ein gelbes Schild.",
+   "e": "There is a yellow sign at every path."
+  },
+  {
+   "s": "Die Schilder sind überall im Land gleich.",
+   "e": "The signs are the same everywhere in the country."
+  },
+  {
+   "s": "Gelb heisst: ein Weg für alle.",
+   "e": "Yellow means: a path for everybody."
+  },
+  {
+   "s": "Weiss und rot heisst: ein Weg für die Berge.",
+   "e": "White and red means: a path for the mountains."
+  },
+  {
+   "s": "Blau heisst: ein Weg für Leute mit einem Seil.",
+   "e": "Blue means: a path for people with a rope."
+  },
+  {
+   "s": "Auf einem blauen Weg war ich noch nie.",
+   "e": "I have never been on a blue path."
+  },
+  {
+   "s": "Auf dem Schild stehen die Namen von Orten.",
+   "e": "The names of places are on the sign."
+  },
+  {
+   "s": "Und hinter jedem Namen steht eine Zeit.",
+   "e": "And behind every name there is a time."
+  },
+  {
+   "s": "Nicht die Kilometer. Die Zeit.",
+   "e": "Not the kilometres. The time."
+  },
+  {
+   "s": "Alpnachstad, zwei Stunden vierzig.",
+   "e": "Alpnachstad, two hours forty."
+  },
+  {
+   "s": "Fräkmüntegg, eine Stunde zehn.",
+   "e": "Fräkmüntegg, one hour ten."
+  },
+  {
+   "s": "Das habe ich lange nicht verstanden.",
+   "e": "For a long time I did not understand that."
+  },
+  {
+   "s": "Zu Hause steht die Zahl in Kilometern.",
+   "e": "At home the number is in kilometres."
+  },
+  {
+   "s": "Kilometer sagen nichts an einem Berg.",
+   "e": "Kilometres say nothing on a mountain."
+  },
+  {
+   "s": "Zwei Kilometer flach sind zwanzig Minuten.",
+   "e": "Two kilometres flat are twenty minutes."
+  },
+  {
+   "s": "Zwei Kilometer steil sind eine Stunde.",
+   "e": "Two kilometres steep are an hour."
+  },
+  {
+   "s": "Also schreibt man hier die Zeit.",
+   "e": "So here they write the time."
+  },
+  {
+   "s": "Und die Zeit stimmt.",
+   "e": "And the time is right."
+  },
+  {
+   "s": "Sie stimmt fast auf die Minute.",
+   "e": "It is right almost to the minute."
+  },
+  {
+   "s": "Es gibt eine Formel dahinter.",
+   "e": "There is a formula behind it."
+  },
+  {
+   "s": "Vier Kilometer in der Stunde flach.",
+   "e": "Four kilometres an hour on the flat."
+  },
+  {
+   "s": "Dreihundert Meter hinauf in der Stunde.",
+   "e": "Three hundred metres of climb an hour."
+  },
+  {
+   "s": "Man rechnet beides und nimmt die grössere Zahl.",
+   "e": "You work out both and take the bigger number."
+  },
+  {
+   "s": "Und dann die Hälfte von der kleineren dazu.",
+   "e": "And then half the smaller one on top."
+  },
+  {
+   "s": "Timo hat mir das erklärt.",
+   "e": "Timo explained that to me."
+  },
+  {
+   "s": "Er hat es aus dem Kopf gerechnet.",
+   "e": "He worked it out in his head."
+  },
+  {
+   "s": "Alle hier können das.",
+   "e": "Everybody here can do that."
+  },
+  {
+   "s": "Sie lernen es in der Schule und im Verein.",
+   "e": "They learn it at school and in the club."
+  },
+  {
+   "s": "Die Zeit auf dem Schild ist für einen normalen Menschen.",
+   "e": "The time on the sign is for a normal person."
+  },
+  {
+   "s": "Nicht für einen schnellen und nicht für einen langsamen.",
+   "e": "Not for a fast one and not for a slow one."
+  },
+  {
+   "s": "Nicht mit Kindern und nicht mit einem schweren Rucksack.",
+   "e": "Not with children and not with a heavy rucksack."
+  },
+  {
+   "s": "Und ohne Pause.",
+   "e": "And with no break."
+  },
+  {
+   "s": "Das steht nicht auf dem Schild.",
+   "e": "That is not on the sign."
+  },
+  {
+   "s": "Alle wissen es und niemand schreibt es hin.",
+   "e": "Everybody knows it and nobody writes it down."
+  },
+  {
+   "s": "Am Sonntag gehe ich allein auf einen Weg.",
+   "e": "On Sunday I take a path on my own."
+  },
+  {
+   "s": "Ich bringe eine Flasche Wasser mit.",
+   "e": "I bring a bottle of water with me."
+  },
+  {
+   "s": "Am Anfang liegt eine Wolke über dem Tal.",
+   "e": "At the start there is a cloud over the valley."
+  },
+  {
+   "s": "Es regnet zehn Minuten und dann nicht mehr.",
+   "e": "It rains for ten minutes and then stops."
+  },
+  {
+   "s": "Über mir fliegt ein Vogel im Kreis.",
+   "e": "A bird circles above me."
+  },
+  {
+   "s": "Beim dritten Schild gehe ich nach rechts.",
+   "e": "At the third sign I go right."
+  },
+  {
+   "s": "Ein Schild ist kaputt und liegt im Gras.",
+   "e": "One sign is broken and lying in the grass."
+  },
+  {
+   "s": "Die Fahrt mit dem Bus zurück dauert zwanzig Minuten.",
+   "e": "The bus ride back takes twenty minutes."
+  },
+  {
+   "s": "Ich bringe die leere Flasche wieder nach Hause.",
+   "e": "I bring the empty bottle home again."
+  },
+  {
+   "s": "Auf dem Schild steht: zwei Stunden.",
+   "e": "The sign says: two hours."
+  },
+  {
+   "s": "Ich denke: Ich bin ziemlich schnell.",
+   "e": "I think: I am fairly fast."
+  },
+  {
+   "s": "Ich brauche zwei Stunden und fünfzehn Minuten.",
+   "e": "I take two hours and fifteen minutes."
+  },
+  {
+   "s": "Das ärgert mich mehr als nötig.",
+   "e": "That annoys me more than it should."
+  },
+  {
+   "s": "Ich habe zweimal Pause gemacht.",
+   "e": "I took two breaks."
+  },
+  {
+   "s": "Ich habe einmal ein Foto gemacht.",
+   "e": "I took one photograph."
+  },
+  {
+   "s": "Ich habe einmal falsch geschaut und bin zurück.",
+   "e": "Once I looked wrong and went back."
+  },
+  {
+   "s": "Fünfzehn Minuten sind genau diese drei Sachen.",
+   "e": "Fifteen minutes are exactly those three things."
+  },
+  {
+   "s": "Das Schild hatte recht und ich war ein normaler Mensch.",
+   "e": "The sign was right and I was a normal person."
+  },
+  {
+   "s": "Auf dem Weg kommen andere Schilder.",
+   "e": "On the way other signs come."
+  },
+  {
+   "s": "Alle zwanzig Minuten steht wieder eines.",
+   "e": "Every twenty minutes there is another one."
+  },
+  {
+   "s": "Sie zeigen die gleiche Richtung und eine kleinere Zahl.",
+   "e": "They show the same direction and a smaller number."
+  },
+  {
+   "s": "Man kann sich nicht verlaufen.",
+   "e": "You cannot get lost."
+  },
+  {
+   "s": "Man kann sich schon verlaufen.",
+   "e": "You can get lost, of course."
+  },
+  {
+   "s": "Aber man muss sich Mühe geben.",
+   "e": "But you have to try."
+  },
+  {
+   "s": "Es gibt sechzigtausend Kilometer solche Wege.",
+   "e": "There are sixty thousand kilometres of these paths."
+  },
+  {
+   "s": "Sechzigtausend, in einem Land von dieser Grösse.",
+   "e": "Sixty thousand, in a country this size."
+  },
+  {
+   "s": "Die Schilder macht der Verein.",
+   "e": "The club makes the signs."
+  },
+  {
+   "s": "Nicht der Staat. Ein Verein.",
+   "e": "Not the state. A club."
+  },
+  {
+   "s": "Leute gehen im Frühling los und schauen jedes Schild an.",
+   "e": "People go out in spring and check every sign."
+  },
+  {
+   "s": "Sie machen es gratis, neben ihrer Arbeit.",
+   "e": "They do it for free, alongside their work."
+  },
+  {
+   "s": "Ein Weg wird anders und sie messen die Zeit neu.",
+   "e": "A path changes and they measure the time again."
+  },
+  {
+   "s": "Timo kennt einen von diesen Leuten.",
+   "e": "Timo knows one of these people."
+  },
+  {
+   "s": "Der Mann ist siebzig und macht das seit dreissig Jahren.",
+   "e": "The man is seventy and has been doing it for thirty years."
+  },
+  {
+   "s": "Er hat vierzig Kilometer Wege.",
+   "e": "He has forty kilometres of paths."
+  },
+  {
+   "s": "Er geht sie alle zweimal im Jahr ab.",
+   "e": "He walks all of them twice a year."
+  },
+  {
+   "s": "Er nimmt Farbe mit und einen Pinsel.",
+   "e": "He takes paint with him and a brush."
+  },
+  {
+   "s": "Er malt die weissen und roten Zeichen neu.",
+   "e": "He repaints the white and red markings."
+  },
+  {
+   "s": "Auf Steinen, auf Bäumen, auf Mauern.",
+   "e": "On stones, on trees, on walls."
+  },
+  {
+   "s": "Timo sagt: Ohne ihn ist der Weg bald weg.",
+   "e": "Timo says: without him the path is soon gone."
+  },
+  {
+   "s": "Er sagt: Und niemand kennt seinen Namen.",
+   "e": "He says: and nobody knows his name."
+  },
+  {
+   "s": "Am Ende von meinem Weg steht wieder ein Schild.",
+   "e": "At the end of my path there is another sign."
+  },
+  {
+   "s": "Auf dem Schild steht der Weg zurück.",
+   "e": "On the sign is the way back."
+  },
+  {
+   "s": "Eine Stunde fünfzig, steht da.",
+   "e": "One hour fifty, it says."
+  },
+  {
+   "s": "Hinunter geht es zehn Minuten schneller.",
+   "e": "Downhill it goes ten minutes faster."
+  },
+  {
+   "s": "Nicht viel schneller. Zehn Minuten.",
+   "e": "Not much faster. Ten minutes."
+  },
+  {
+   "s": "Hinunter ist auch Arbeit.",
+   "e": "Downhill is work too."
+  },
+  {
+   "s": "Das habe ich am Pilatus schon gelernt.",
+   "e": "I already learned that on Pilatus."
+  },
+  {
+   "s": "Neben dem Schild steht eine Bank.",
+   "e": "There is a bench next to the sign."
+  },
+  {
+   "s": "Auf der Bank steht ein Name und ein Datum.",
+   "e": "On the bench there is a name and a date."
+  },
+  {
+   "s": "Jemand hat sie für jemanden hingestellt.",
+   "e": "Somebody put it there for somebody."
+  },
+  {
+   "s": "Solche Bänke stehen überall.",
+   "e": "Benches like that are everywhere."
+  },
+  {
+   "s": "Immer an einem Ort mit einer Aussicht.",
+   "e": "Always in a place with a view."
+  },
+  {
+   "s": "Immer mit einem Namen und zwei Zahlen.",
+   "e": "Always with a name and two numbers."
+  },
+  {
+   "s": "Ich setze mich zehn Minuten hin.",
+   "e": "I sit down for ten minutes."
+  },
+  {
+   "s": "Ich komme zehn Minuten später nach Hause.",
+   "e": "I get home ten minutes later."
+  },
+  {
+   "s": "Diesmal ärgert mich das nicht.",
+   "e": "This time that does not annoy me."
+  }
+ ]
+}

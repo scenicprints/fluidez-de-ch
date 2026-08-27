@@ -1,0 +1,349 @@
+{
+ "id": "p3-03",
+ "title": "Der Anschluss ist weg",
+ "desc": "The one time it does not work",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "verpassen",
+  "Minute"
+ ],
+ "sn": [
+  {
+   "s": "Am Donnerstag hat es nicht funktioniert.",
+   "e": "On Thursday it did not work."
+  },
+  {
+   "s": "Mein Zug hatte vier Minuten Verspätung.",
+   "e": "My train was four minutes late."
+  },
+  {
+   "s": "Vier Minuten sind mein ganzer Anschluss.",
+   "e": "Four minutes are my whole connection."
+  },
+  {
+   "s": "Ich stehe am Perron in Hergiswil.",
+   "e": "I am standing on the platform in Hergiswil."
+  },
+  {
+   "s": "Der andere Zug fährt gerade weg.",
+   "e": "The other train is just leaving."
+  },
+  {
+   "s": "Ich sehe ihn noch.",
+   "e": "I can still see it."
+  },
+  {
+   "s": "Ich sehe die letzten zwei Wagen.",
+   "e": "I see the last two carriages."
+  },
+  {
+   "s": "Vierzig Sekunden. Mehr war es nicht.",
+   "e": "Forty seconds. That was all it was."
+  },
+  {
+   "s": "Verpassen ist das Wort dafür.",
+   "e": "Verpassen is the word for it."
+  },
+  {
+   "s": "Ich habe den Anschluss verpasst.",
+   "e": "I missed the connection."
+  },
+  {
+   "s": "Ich habe den Zug verpasst.",
+   "e": "I missed the train."
+  },
+  {
+   "s": "Ich habe den Bus verpasst.",
+   "e": "I missed the bus."
+  },
+  {
+   "s": "Man verpasst etwas um Sekunden.",
+   "e": "You miss something by seconds."
+  },
+  {
+   "s": "Und dann steht man da.",
+   "e": "And then you stand there."
+  },
+  {
+   "s": "Ich schaue mich um.",
+   "e": "I look around."
+  },
+  {
+   "s": "Auf dem Perron stehen acht andere Leute.",
+   "e": "Eight other people are standing on the platform."
+  },
+  {
+   "s": "Alle acht haben den gleichen Zug verpasst.",
+   "e": "All eight missed the same train."
+  },
+  {
+   "s": "Niemand sagt etwas.",
+   "e": "Nobody says anything."
+  },
+  {
+   "s": "Niemand schimpft.",
+   "e": "Nobody complains."
+  },
+  {
+   "s": "Niemand schaut böse.",
+   "e": "Nobody looks annoyed."
+  },
+  {
+   "s": "Ein Mann macht die Zeitung auf.",
+   "e": "A man opens his newspaper."
+  },
+  {
+   "s": "Eine Frau setzt sich auf die Bank.",
+   "e": "A woman sits down on the bench."
+  },
+  {
+   "s": "Zwei junge Leute reden weiter.",
+   "e": "Two young people go on talking."
+  },
+  {
+   "s": "Ich bin der einzige mit einem Gesicht.",
+   "e": "I am the only one with a face."
+  },
+  {
+   "s": "Dann kommt die Durchsage.",
+   "e": "Then the announcement comes."
+  },
+  {
+   "s": "Eine Durchsage ist eine Stimme aus dem Lautsprecher.",
+   "e": "An announcement is a voice from the loudspeaker."
+  },
+  {
+   "s": "Die Stimme sagt den Grund.",
+   "e": "The voice says the reason."
+  },
+  {
+   "s": "Sie sagt: Wegen einer Verspätung im Ausland.",
+   "e": "It says: because of a delay abroad."
+  },
+  {
+   "s": "Im Ausland heisst: nicht bei uns.",
+   "e": "Abroad means: not with us."
+  },
+  {
+   "s": "Timo hat später gelacht.",
+   "e": "Timo laughed later."
+  },
+  {
+   "s": "Er hat gesagt: Es ist immer im Ausland.",
+   "e": "He said: it is always abroad."
+  },
+  {
+   "s": "Die Durchsage sagt dann etwas Wichtiges.",
+   "e": "The announcement then says something important."
+  },
+  {
+   "s": "Sie sagt: Der nächste Zug fährt um sieben Uhr zweiundvierzig.",
+   "e": "It says: the next train leaves at seven forty-two."
+  },
+  {
+   "s": "Sie sagt es sofort und ohne Frage.",
+   "e": "It says it at once and without being asked."
+  },
+  {
+   "s": "Sie sagt auch: Wir entschuldigen uns.",
+   "e": "It also says: we apologise."
+  },
+  {
+   "s": "Eine Stimme entschuldigt sich für achtzehn Minuten.",
+   "e": "A voice apologises for eighteen minutes."
+  },
+  {
+   "s": "Achtzehn Minuten.",
+   "e": "Eighteen minutes."
+  },
+  {
+   "s": "Zu Hause wartet man achtzig Minuten und niemand sagt etwas.",
+   "e": "At home you wait eighty minutes and nobody says a thing."
+  },
+  {
+   "s": "Hier sind es achtzehn und der Lautsprecher sagt Entschuldigung.",
+   "e": "Here it is eighteen and the loudspeaker apologises."
+  },
+  {
+   "s": "Das ist irgendwie schlimmer.",
+   "e": "That is somehow worse."
+  },
+  {
+   "s": "Es ist schlimmer, denn es ist so selten.",
+   "e": "It is worse because it is so rare."
+  },
+  {
+   "s": "Man hat sich daran gewöhnt und dann geht es kaputt.",
+   "e": "You get used to it and then it breaks."
+  },
+  {
+   "s": "Die acht Leute warten achtzehn Minuten.",
+   "e": "The eight people wait eighteen minutes."
+  },
+  {
+   "s": "Sie warten ruhig und ohne ein Wort.",
+   "e": "They wait quietly and without a word."
+  },
+  {
+   "s": "Ich warte auch.",
+   "e": "I wait too."
+  },
+  {
+   "s": "Nach fünf Minuten setze ich mich hin.",
+   "e": "After five minutes I sit down."
+  },
+  {
+   "s": "Nach zehn Minuten schaue ich nicht mehr auf die Uhr.",
+   "e": "After ten minutes I stop looking at my watch."
+  },
+  {
+   "s": "Das ist ein kleiner Sieg.",
+   "e": "That is a small victory."
+  },
+  {
+   "s": "Der nächste Zug kommt um sieben Uhr zweiundvierzig.",
+   "e": "The next train comes at seven forty-two."
+  },
+  {
+   "s": "Genau um sieben Uhr zweiundvierzig.",
+   "e": "At exactly seven forty-two."
+  },
+  {
+   "s": "Die Durchsage hatte recht.",
+   "e": "The announcement was right."
+  },
+  {
+   "s": "Im Zug schreibe ich meinem Chef.",
+   "e": "On the train I write to my boss."
+  },
+  {
+   "s": "Ich schreibe: Ich komme zwanzig Minuten später.",
+   "e": "I write: I will be twenty minutes late."
+  },
+  {
+   "s": "Marco antwortet mit einem Daumen.",
+   "e": "Marco answers with a thumb."
+  },
+  {
+   "s": "Er schreibt dazu: Anschluss?",
+   "e": "He adds: connection?"
+  },
+  {
+   "s": "Ein Wort und er weiss alles.",
+   "e": "One word and he knows everything."
+  },
+  {
+   "s": "Ich schreibe: Ja. Hergiswil.",
+   "e": "I write: yes. Hergiswil."
+  },
+  {
+   "s": "Er schreibt: Aha. Der Zwölfer.",
+   "e": "He writes: ah. The twelve."
+  },
+  {
+   "s": "Er kennt meine Strecke besser als ich.",
+   "e": "He knows my route better than I do."
+  },
+  {
+   "s": "Im Büro sagt niemand etwas.",
+   "e": "In the office nobody says anything."
+  },
+  {
+   "s": "Zwanzig Minuten mit einer Nachricht sind kein Problem.",
+   "e": "Twenty minutes with a message are not a problem."
+  },
+  {
+   "s": "Zwanzig Minuten ohne Nachricht sind ein Problem.",
+   "e": "Twenty minutes without a message are a problem."
+  },
+  {
+   "s": "Der Unterschied ist die Nachricht und nicht die Zeit.",
+   "e": "The difference is the message and not the time."
+  },
+  {
+   "s": "Am Abend erzähle ich Rosmarie davon.",
+   "e": "In the evening I tell Rosmarie about it."
+  },
+  {
+   "s": "Sie sagt: Wann war das genau?",
+   "e": "She says: when exactly was that?"
+  },
+  {
+   "s": "Ich sage die Zeit.",
+   "e": "I say the time."
+  },
+  {
+   "s": "Sie sagt: Ah, der Zwölfer nach Engelberg.",
+   "e": "She says: ah, the twelve to Engelberg."
+  },
+  {
+   "s": "Sie sagt: Der ist im Winter oft zu spät.",
+   "e": "She says: that one is often late in winter."
+  },
+  {
+   "s": "Sie fährt diese Strecke seit vierzig Jahren nicht mehr.",
+   "e": "She has not used that route in forty years."
+  },
+  {
+   "s": "Und sie weiss es immer noch.",
+   "e": "And she still knows."
+  },
+  {
+   "s": "Timo sagt am Abend etwas anderes.",
+   "e": "Timo says something else in the evening."
+  },
+  {
+   "s": "Er sagt: Vier Minuten Anschluss sind knapp.",
+   "e": "He says: a four minute connection is tight."
+  },
+  {
+   "s": "Er sagt: Nimm den Zug davor.",
+   "e": "He says: take the train before."
+  },
+  {
+   "s": "Er sagt: Dann hast du vierzehn Minuten.",
+   "e": "He says: then you have fourteen minutes."
+  },
+  {
+   "s": "Er steht seit Jahren zehn Minuten früher auf.",
+   "e": "He has been getting up ten minutes earlier for years."
+  },
+  {
+   "s": "Er sagt: Dafür bin ich nie nervös.",
+   "e": "He says: and so I am never nervous."
+  },
+  {
+   "s": "Das ist die ganze Rechnung.",
+   "e": "That is the whole calculation."
+  },
+  {
+   "s": "Zehn Minuten Schlaf gegen null Minuten Angst.",
+   "e": "Ten minutes of sleep against no minutes of fear."
+  },
+  {
+   "s": "Am nächsten Morgen stehe ich zehn Minuten früher auf.",
+   "e": "The next morning I get up ten minutes earlier."
+  },
+  {
+   "s": "Ich nehme den Zug davor.",
+   "e": "I take the train before."
+  },
+  {
+   "s": "In Hergiswil habe ich vierzehn Minuten.",
+   "e": "In Hergiswil I have fourteen minutes."
+  },
+  {
+   "s": "Ich trinke einen Kaffee am Kiosk.",
+   "e": "I drink a coffee at the kiosk."
+  },
+  {
+   "s": "Der Kaffee ist schlecht und ich habe Zeit.",
+   "e": "The coffee is bad and I have time."
+  },
+  {
+   "s": "Zeit ist besser als guter Kaffee.",
+   "e": "Time is better than good coffee."
+  }
+ ]
+}

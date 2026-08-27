@@ -1,0 +1,357 @@
+{
+ "id": "p3-10",
+ "title": "Oben",
+ "desc": "Somebody else is on the summit",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "machen",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Auf dem Gipfel sind wir nicht allein.",
+   "e": "We are not alone on the summit."
+  },
+  {
+   "s": "Es stehen zwanzig Leute dort.",
+   "e": "There are twenty people standing there."
+  },
+  {
+   "s": "Die Hälfte kommt von der Bahn.",
+   "e": "Half of them came up on the railway."
+  },
+  {
+   "s": "Die andere Hälfte ist zu Fuss gekommen.",
+   "e": "The other half came on foot."
+  },
+  {
+   "s": "Die Leute zu Fuss sieht man sofort.",
+   "e": "You can see the people who walked at once."
+  },
+  {
+   "s": "Sie haben andere Schuhe und ein rotes Gesicht.",
+   "e": "They have different shoes and a red face."
+  },
+  {
+   "s": "Und sie sitzen und die anderen stehen.",
+   "e": "And they are sitting and the others are standing."
+  },
+  {
+   "s": "Auf einem Berg grüsst man jeden.",
+   "e": "On a mountain you greet everybody."
+  },
+  {
+   "s": "Wirklich jeden, ohne Ausnahme.",
+   "e": "Really everybody, without exception."
+  },
+  {
+   "s": "Unten in der Stadt sagt niemand etwas.",
+   "e": "Down in the town nobody says anything."
+  },
+  {
+   "s": "Hier oben sagen alle Grüezi.",
+   "e": "Up here everybody says Grüezi."
+  },
+  {
+   "s": "Und alle sagen du.",
+   "e": "And everybody says du."
+  },
+  {
+   "s": "Der Berg macht alle gleich.",
+   "e": "The mountain makes everybody equal."
+  },
+  {
+   "s": "Eine Frau sitzt auf einem Stein.",
+   "e": "A woman is sitting on a stone."
+  },
+  {
+   "s": "Sie hat einen Rucksack neben sich.",
+   "e": "She has a rucksack next to her."
+  },
+  {
+   "s": "Sie isst ein Brot und schaut nach Süden.",
+   "e": "She is eating a piece of bread and looking south."
+  },
+  {
+   "s": "Timo bleibt stehen und sagt: Hoi.",
+   "e": "Timo stops and says: hi."
+  },
+  {
+   "s": "Sie schaut hoch und lacht.",
+   "e": "She looks up and laughs."
+  },
+  {
+   "s": "Sie sagt: Timo Zumbühl. Was machst du hier oben?",
+   "e": "She says: Timo Zumbühl. What are you doing up here?"
+  },
+  {
+   "s": "Sie kennen sich.",
+   "e": "They know each other."
+  },
+  {
+   "s": "Sie kennen sich aus dem Turnverein in Stans.",
+   "e": "They know each other from the gymnastics club in Stans."
+  },
+  {
+   "s": "Sie heisst Selina.",
+   "e": "She is called Selina."
+  },
+  {
+   "s": "Timo sagt meinen Namen.",
+   "e": "Timo says my name."
+  },
+  {
+   "s": "Er sagt: Der arbeitet in Kriens und wohnt in Luzern.",
+   "e": "He says: this one works in Kriens and lives in Luzern."
+  },
+  {
+   "s": "Das ist hier eine ganze Beschreibung von einem Menschen.",
+   "e": "That is a whole description of a person here."
+  },
+  {
+   "s": "Sie gibt mir die Hand.",
+   "e": "She shakes my hand."
+  },
+  {
+   "s": "Sie sagt: Selina. Hoi.",
+   "e": "She says: Selina. Hi."
+  },
+  {
+   "s": "Sie sagt du, denn wir sind auf einem Berg.",
+   "e": "She says du, because we are on a mountain."
+  },
+  {
+   "s": "Unten ist es anders und das weiss ich schon.",
+   "e": "Down below it is different and I know that already."
+  },
+  {
+   "s": "Sie fragt: Bist du zu Fuss gekommen?",
+   "e": "She asks: did you come up on foot?"
+  },
+  {
+   "s": "Ich sage: Nein. Mit der Bahn.",
+   "e": "I say: no. On the railway."
+  },
+  {
+   "s": "Sie sagt: Beim ersten Mal ist das richtig.",
+   "e": "She says: for the first time that is right."
+  },
+  {
+   "s": "Sie sagt es ohne Spott und es ist auch keiner drin.",
+   "e": "She says it without mockery and there is none in it."
+  },
+  {
+   "s": "Sie ist von Alpnachstad hinaufgelaufen.",
+   "e": "She walked up from Alpnachstad."
+  },
+  {
+   "s": "Das sind vier Stunden.",
+   "e": "That is four hours."
+  },
+  {
+   "s": "Sie ist um halb sechs losgegangen.",
+   "e": "She set off at half past five."
+  },
+  {
+   "s": "Sie macht das jeden Monat einmal.",
+   "e": "She does that once a month."
+  },
+  {
+   "s": "Sie sagt: Nicht für den Sport.",
+   "e": "She says: not for the sport."
+  },
+  {
+   "s": "Sie sagt: Für die zwei Stunden ohne Handy.",
+   "e": "She says: for the two hours without a phone."
+  },
+  {
+   "s": "Sie arbeitet im Spital in Luzern.",
+   "e": "She works in the hospital in Luzern."
+  },
+  {
+   "s": "Sie ist Pflegefachfrau auf einer Station.",
+   "e": "She is a nurse on a ward."
+  },
+  {
+   "s": "Sie arbeitet auch in der Nacht.",
+   "e": "She works nights too."
+  },
+  {
+   "s": "Sie sagt: Nach einer Nacht gehe ich auf einen Berg.",
+   "e": "She says: after a night shift I go up a mountain."
+  },
+  {
+   "s": "Sie sagt: Sonst schlafe ich am Tag zu viel.",
+   "e": "She says: otherwise I sleep too much in the day."
+  },
+  {
+   "s": "Timo redet mit ihr über Leute aus Stans.",
+   "e": "Timo talks to her about people from Stans."
+  },
+  {
+   "s": "Ich verstehe die Hälfte und ich höre zu.",
+   "e": "I understand half of it and I listen."
+  },
+  {
+   "s": "Sie reden Dialekt miteinander.",
+   "e": "They speak dialect to each other."
+  },
+  {
+   "s": "Mit mir redet sie Hochdeutsch.",
+   "e": "With me she speaks standard German."
+  },
+  {
+   "s": "Sie schaltet mitten im Satz um.",
+   "e": "She switches in the middle of a sentence."
+  },
+  {
+   "s": "Sie merkt es selber nicht.",
+   "e": "She does not notice it herself."
+  },
+  {
+   "s": "Hinter ihr macht das Wetter etwas.",
+   "e": "Behind her the weather is doing something."
+  },
+  {
+   "s": "Über dem See liegt eine weisse Decke.",
+   "e": "There is a white blanket over the lake."
+  },
+  {
+   "s": "Die Decke ist Nebel und sie liegt unter uns.",
+   "e": "The blanket is fog and it is lying below us."
+  },
+  {
+   "s": "Man nennt es Nebelmeer.",
+   "e": "They call it a sea of fog."
+  },
+  {
+   "s": "Ein Meer aus Nebel, ganz flach und weiss.",
+   "e": "A sea of fog, quite flat and white."
+  },
+  {
+   "s": "Unten in der Stadt ist es jetzt grau.",
+   "e": "Down in the town it is grey now."
+  },
+  {
+   "s": "Hier oben ist die Sonne.",
+   "e": "Up here there is sun."
+  },
+  {
+   "s": "Selina sagt: Darum bin ich hier.",
+   "e": "Selina says: that is why I am here."
+  },
+  {
+   "s": "Sie sagt: Unten war es heute Morgen dunkel.",
+   "e": "She says: down there it was dark this morning."
+  },
+  {
+   "s": "Sie sagt: Nach einer Stunde bin ich hinausgekommen.",
+   "e": "She says: after an hour I came out of it."
+  },
+  {
+   "s": "Sie sagt: Aus dem Nebel hinaus in die Sonne.",
+   "e": "She says: out of the fog and into the sun."
+  },
+  {
+   "s": "Sie sagt es ganz normal.",
+   "e": "She says it quite normally."
+  },
+  {
+   "s": "Für sie ist es ein Wetter und kein Wunder.",
+   "e": "For her it is a kind of weather and not a wonder."
+  },
+  {
+   "s": "Wir sitzen zu dritt auf den Steinen.",
+   "e": "The three of us sit on the stones."
+  },
+  {
+   "s": "Timo hat Brot und Käse dabei.",
+   "e": "Timo has bread and cheese with him."
+  },
+  {
+   "s": "Selina hat Schokolade und einen Apfel.",
+   "e": "Selina has chocolate and an apple."
+  },
+  {
+   "s": "Ich habe zwei Gipfeli vom Bahnhof.",
+   "e": "I have two Gipfeli from the station."
+  },
+  {
+   "s": "Alle legen alles in die Mitte.",
+   "e": "Everybody puts everything in the middle."
+  },
+  {
+   "s": "Das macht man hier oben so.",
+   "e": "That is what you do up here."
+  },
+  {
+   "s": "Niemand fragt und niemand zahlt.",
+   "e": "Nobody asks and nobody pays."
+  },
+  {
+   "s": "Wir sitzen vierzig Minuten und reden nicht viel.",
+   "e": "We sit for forty minutes and do not talk much."
+  },
+  {
+   "s": "Selina fragt mich zwei Sachen.",
+   "e": "Selina asks me two things."
+  },
+  {
+   "s": "Sie fragt: Wie lange bist du schon hier?",
+   "e": "She asks: how long have you been here?"
+  },
+  {
+   "s": "Und sie fragt: Und? Bleibst du?",
+   "e": "And she asks: and? Are you staying?"
+  },
+  {
+   "s": "Die zweite Frage hat mir noch niemand gestellt.",
+   "e": "Nobody has asked me the second question yet."
+  },
+  {
+   "s": "Alle fragen woher und seit wann.",
+   "e": "Everybody asks where from and since when."
+  },
+  {
+   "s": "Nach dem Bleiben fragt niemand.",
+   "e": "Nobody asks about the staying."
+  },
+  {
+   "s": "Ich sage: Ich weiss es nicht.",
+   "e": "I say: I do not know."
+  },
+  {
+   "s": "Sie nickt und fragt nicht weiter.",
+   "e": "She nods and does not ask further."
+  },
+  {
+   "s": "Um zwei geht sie wieder hinunter.",
+   "e": "At two she goes back down."
+  },
+  {
+   "s": "Zu Fuss, auf der anderen Seite.",
+   "e": "On foot, on the other side."
+  },
+  {
+   "s": "Sie sagt: Ade zusammen.",
+   "e": "She says: bye, both of you."
+  },
+  {
+   "s": "Sie sagt zu Timo noch etwas auf Dialekt.",
+   "e": "She says something else to Timo in dialect."
+  },
+  {
+   "s": "Er lacht und antwortet nicht.",
+   "e": "He laughs and does not answer."
+  },
+  {
+   "s": "Ich frage nicht nach dem Satz.",
+   "e": "I do not ask about the sentence."
+  },
+  {
+   "s": "Ich habe zwei Stunden lang daran gedacht.",
+   "e": "I thought about it for two hours."
+  }
+ ]
+}

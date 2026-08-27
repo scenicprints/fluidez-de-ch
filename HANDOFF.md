@@ -213,6 +213,13 @@ every one of them was a real hole: the flat, the laundry and the bills had
 stopped being mentioned. **Budget for that sweep as part of writing a phase**,
 not as a surprise. 129 sentences closed it.
 
+Phase 3 took **28**, and it was written knowing that would happen: 84
+sentences closed it. The number falls when the writing carries the last phase
+forward on purpose, and it will never reach zero, because that is simply what
+a course getting longer costs. **A separable verb does not count as its base**,
+either: six of those 28 closed on the first try and `bringen` did not, because
+every sentence written for it said `mitbringen`.
+
 **One-scene is a share, not a count**, and that makes it fragile in the
 opposite direction: a word exempt because 60% of its uses are in its own story
 loses the exemption when a later story mentions it once. Two words broke that

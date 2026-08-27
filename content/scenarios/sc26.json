@@ -1,0 +1,109 @@
+{
+ "id": "sc26",
+ "title": "Am falschen Weg",
+ "desc": "Lost, marked, and mildly embarrassed",
+ "setting": "A meadow with no path in it, no signal, and a dog barking somewhere below.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Frau mit Hunden",
+   "es": "Grüezi.",
+   "en": "Hello.",
+   "options": [
+    {
+     "es": "Grüezi. Entschuldigung, können Sie mir helfen?",
+     "en": "Hello. Excuse me, can you help me?",
+     "verdict": "good",
+     "feedback": "Greet first, then ask. Können Sie mir is the polite opening and it costs you two words."
+    },
+    {
+     "es": "Wo ist der Weg?",
+     "en": "Where is the path?",
+     "verdict": "bad",
+     "feedback": "No greeting and no können Sie. It is understood and it lands like an instruction."
+    },
+    {
+     "es": "Hallo! Ich habe ein Problem.",
+     "en": "Hello! I have a problem.",
+     "verdict": "ok",
+     "feedback": "Grüezi, not hallo. And you do not have a problem, you have a wrong turning."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau mit Hunden",
+   "es": "Wo wollen Sie hin?",
+   "en": "Where do you want to get to?",
+   "options": [
+    {
+     "es": "Ich habe mich verlaufen.",
+     "en": "I have lost my way.",
+     "verdict": "good",
+     "feedback": "Sich verlaufen, and the sich is not optional. Saying it plainly is faster than explaining the route."
+    },
+    {
+     "es": "Ich habe verlaufen.",
+     "en": "I have lost my way.",
+     "verdict": "bad",
+     "feedback": "Ich habe mich verlaufen. Without the sich it is not a sentence anybody says."
+    },
+    {
+     "es": "Zur Hütte. Aber ich finde den Weg nicht.",
+     "en": "To the hut. But I cannot find the path.",
+     "verdict": "good",
+     "feedback": "Answers her question and states the problem. She asked where to, so tell her where to."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau mit Hunden",
+   "es": "Ah. Sie sind zu weit links.",
+   "en": "Ah. You are too far to the left.",
+   "options": [
+    {
+     "es": "Ist es weit zurück?",
+     "en": "Is it far back?",
+     "verdict": "good",
+     "feedback": "The useful question. Twenty minutes, and she is about to offer to walk them with you."
+    },
+    {
+     "es": "Das war dumm von mir.",
+     "en": "That was stupid of me.",
+     "verdict": "ok",
+     "feedback": "She will wave it away. A lot of people do it there, which is exactly what she says next."
+    },
+    {
+     "es": "Das Schild war falsch.",
+     "en": "The sign was wrong.",
+     "verdict": "bad",
+     "feedback": "The sign was not wrong. There were three paths and two names and you picked on looks."
+    }
+   ]
+  },
+  {
+   "speaker": "Frau mit Hunden",
+   "es": "Ich gehe auch dorthin. Kommen Sie.",
+   "en": "I am going there too. Come along.",
+   "options": [
+    {
+     "es": "Merci vielmal. Wirklich.",
+     "en": "Thank you very much. Really.",
+     "verdict": "good",
+     "feedback": "She is not going there. You will work that out twenty minutes later, at the sign, when she turns round."
+    },
+    {
+     "es": "Nein, nein, das geht schon.",
+     "en": "No, no, I will manage.",
+     "verdict": "bad",
+     "feedback": "You will not, and refusing help on a mountain is the one place where politeness is the wrong instinct."
+    },
+    {
+     "es": "Gern. Merci.",
+     "en": "Gladly. Thank you.",
+     "verdict": "ok",
+     "feedback": "Fine, and it is more words than the moment needs. She already decided."
+    }
+   ]
+  }
+ ]
+}

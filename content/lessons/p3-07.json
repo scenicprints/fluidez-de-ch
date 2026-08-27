@@ -1,0 +1,357 @@
+{
+ "id": "p3-07",
+ "title": "Das Stanserhorn",
+ "desc": "A cable car with no roof",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "hinauf",
+  "oben"
+ ],
+ "sn": [
+  {
+   "s": "Über Stans steht ein Berg.",
+   "e": "Above Stans stands a mountain."
+  },
+  {
+   "s": "Er heisst Stanserhorn.",
+   "e": "It is called the Stanserhorn."
+  },
+  {
+   "s": "Er ist nicht sehr hoch.",
+   "e": "It is not very high."
+  },
+  {
+   "s": "Er ist tausendneunhundert Meter hoch.",
+   "e": "It is nineteen hundred metres high."
+  },
+  {
+   "s": "Für hier ist das ein kleiner Berg.",
+   "e": "For here that is a small mountain."
+  },
+  {
+   "s": "Vom Dorfplatz sieht man ihn ganz.",
+   "e": "From the square you can see all of it."
+  },
+  {
+   "s": "Timo sagt: Da gehen wir hinauf.",
+   "e": "Timo says: we are going up there."
+  },
+  {
+   "s": "Ich sage: Zu Fuss?",
+   "e": "I say: on foot?"
+  },
+  {
+   "s": "Er sagt: Nein. Du musst etwas sehen.",
+   "e": "He says: no. You have to see something."
+  },
+  {
+   "s": "Zuerst kommt eine alte Bahn.",
+   "e": "First comes an old railway."
+  },
+  {
+   "s": "Sie ist von 1893 und sie fährt langsam.",
+   "e": "It is from 1893 and it goes slowly."
+  },
+  {
+   "s": "Sie hat Holz innen und Fenster zum Aufmachen.",
+   "e": "It has wood inside and windows that open."
+  },
+  {
+   "s": "Sie fährt bis zur Mitte vom Berg.",
+   "e": "It goes to the middle of the mountain."
+  },
+  {
+   "s": "Dort steigt man um.",
+   "e": "You change there."
+  },
+  {
+   "s": "Man steigt aus der Bahn aus und in die Seilbahn ein.",
+   "e": "You get out of the railway and into the cable car."
+  },
+  {
+   "s": "Eine Seilbahn hängt an einem Seil.",
+   "e": "A cable car hangs from a cable."
+  },
+  {
+   "s": "Sie hat keine Räder auf dem Boden.",
+   "e": "It has no wheels on the ground."
+  },
+  {
+   "s": "Sie fährt durch die Luft.",
+   "e": "It travels through the air."
+  },
+  {
+   "s": "Unten ist die Talstation.",
+   "e": "At the bottom is the valley station."
+  },
+  {
+   "s": "Oben ist die Bergstation.",
+   "e": "At the top is the mountain station."
+  },
+  {
+   "s": "Dazwischen ist nichts als Luft und ein Seil.",
+   "e": "In between there is nothing but air and a cable."
+  },
+  {
+   "s": "Die Gondel ist der Wagen von der Seilbahn.",
+   "e": "The gondola is the cable car's carriage."
+  },
+  {
+   "s": "Diese Gondel ist anders als alle anderen.",
+   "e": "This gondola is different from all the others."
+  },
+  {
+   "s": "Sie hat zwei Stockwerke.",
+   "e": "It has two floors."
+  },
+  {
+   "s": "Unten ist es normal, mit Fenstern und einer Tür.",
+   "e": "Below it is normal, with windows and a door."
+  },
+  {
+   "s": "Oben gibt es kein Dach.",
+   "e": "Up top there is no roof."
+  },
+  {
+   "s": "Oben ist es offen.",
+   "e": "Up top it is open."
+  },
+  {
+   "s": "Man steht draussen auf dem Dach von der Gondel.",
+   "e": "You stand outside on the roof of the gondola."
+  },
+  {
+   "s": "Man steht dort und die Gondel fährt.",
+   "e": "You stand there and the gondola moves."
+  },
+  {
+   "s": "Timo sagt: Es gibt nur eine solche auf der Welt.",
+   "e": "Timo says: there is only one like it in the world."
+  },
+  {
+   "s": "Ich glaube ihm das sofort.",
+   "e": "I believe him at once."
+  },
+  {
+   "s": "Wir gehen hinauf auf das obere Deck.",
+   "e": "We go up onto the upper deck."
+  },
+  {
+   "s": "Auf dem oberen Deck stehen zwölf Leute.",
+   "e": "Twelve people are standing on the upper deck."
+  },
+  {
+   "s": "Es gibt ein Geländer und sonst nichts.",
+   "e": "There is a railing and nothing else."
+  },
+  {
+   "s": "Ich halte mich am Geländer fest.",
+   "e": "I hold on to the railing."
+  },
+  {
+   "s": "Die Gondel fährt los.",
+   "e": "The gondola sets off."
+  },
+  {
+   "s": "Der Boden geht weg.",
+   "e": "The ground goes away."
+  },
+  {
+   "s": "In zehn Sekunden ist alles klein.",
+   "e": "In ten seconds everything is small."
+  },
+  {
+   "s": "Der Wind kommt von vorne.",
+   "e": "The wind comes from the front."
+  },
+  {
+   "s": "Es ist kalt und ich merke es nicht.",
+   "e": "It is cold and I do not notice."
+  },
+  {
+   "s": "Ich sage sieben Minuten lang nichts.",
+   "e": "I say nothing for seven minutes."
+  },
+  {
+   "s": "Timo schaut mich an und lacht.",
+   "e": "Timo looks at me and laughs."
+  },
+  {
+   "s": "Er sagt: Alle sind beim ersten Mal so.",
+   "e": "He says: everybody is like that the first time."
+  },
+  {
+   "s": "Unter uns gehen die Bäume vorbei.",
+   "e": "Below us the trees go past."
+  },
+  {
+   "s": "Unter uns steht eine Kuh auf einer Wiese.",
+   "e": "Below us a cow is standing in a meadow."
+  },
+  {
+   "s": "Die Kuh schaut nicht hinauf.",
+   "e": "The cow does not look up."
+  },
+  {
+   "s": "Kühe schauen nie hinauf.",
+   "e": "Cows never look up."
+  },
+  {
+   "s": "Über uns ist nichts.",
+   "e": "Above us there is nothing."
+  },
+  {
+   "s": "Kein Dach, kein Fenster, nur Himmel.",
+   "e": "No roof, no window, just sky."
+  },
+  {
+   "s": "Hinter uns wird der See immer grösser.",
+   "e": "Behind us the lake gets bigger and bigger."
+  },
+  {
+   "s": "Vor uns kommt der Berg näher.",
+   "e": "In front of us the mountain comes closer."
+  },
+  {
+   "s": "Hinauf und hinunter sind zwei wichtige Wörter hier.",
+   "e": "Hinauf and hinunter are two important words here."
+  },
+  {
+   "s": "Hinauf heisst: weg von mir, nach oben.",
+   "e": "Hinauf means: away from me, upwards."
+  },
+  {
+   "s": "Hinunter heisst: weg von mir, nach unten.",
+   "e": "Hinunter means: away from me, downwards."
+  },
+  {
+   "s": "Man fährt hinauf und man fährt hinunter.",
+   "e": "You go up and you go down."
+  },
+  {
+   "s": "Man steigt hinauf und man steigt hinunter.",
+   "e": "You climb up and you climb down."
+  },
+  {
+   "s": "Alle diese Verben haben zwei Teile.",
+   "e": "All these verbs have two parts."
+  },
+  {
+   "s": "Wir fahren jetzt auf das Stanserhorn hinauf.",
+   "e": "We are going up onto the Stanserhorn now."
+  },
+  {
+   "s": "Das hinauf steht ganz am Ende.",
+   "e": "The hinauf stands right at the end."
+  },
+  {
+   "s": "Oben ist die Aussicht das Wort.",
+   "e": "At the top the word is Aussicht."
+  },
+  {
+   "s": "Aussicht heisst: was man von hier aus sieht.",
+   "e": "Aussicht means: what you can see from here."
+  },
+  {
+   "s": "Die Aussicht ist gut oder schlecht.",
+   "e": "The view is good or bad."
+  },
+  {
+   "s": "Heute ist die Aussicht sehr gut.",
+   "e": "Today the view is very good."
+  },
+  {
+   "s": "Man sieht zehn Seen.",
+   "e": "You can see ten lakes."
+  },
+  {
+   "s": "Oben machen alle ein Foto.",
+   "e": "At the top everybody takes a photograph."
+  },
+  {
+   "s": "Ich mache auch eines und es wird nichts.",
+   "e": "I take one too and it comes out badly."
+  },
+  {
+   "s": "Timo sagt mir alle Namen.",
+   "e": "Timo tells me all the names."
+  },
+  {
+   "s": "Er kennt jeden einzelnen Namen.",
+   "e": "He knows every single name."
+  },
+  {
+   "s": "Er zeigt mir auch die Berge.",
+   "e": "He shows me the mountains too."
+  },
+  {
+   "s": "Er sagt: Titlis, Rigi, Pilatus.",
+   "e": "He says: Titlis, Rigi, Pilatus."
+  },
+  {
+   "s": "Er sagt: Und dort hinten ist die Jungfrau.",
+   "e": "He says: and back there is the Jungfrau."
+  },
+  {
+   "s": "Ich sehe nur weisse Formen im Licht.",
+   "e": "I only see white shapes in the light."
+  },
+  {
+   "s": "Er sieht Namen.",
+   "e": "He sees names."
+  },
+  {
+   "s": "Oben gibt es ein Restaurant mit einem Fenster rundherum.",
+   "e": "At the top there is a restaurant with a window all round."
+  },
+  {
+   "s": "Wir sitzen draussen, denn drinnen ist es zu warm.",
+   "e": "We sit outside, because inside it is too warm."
+  },
+  {
+   "s": "Wir essen eine Suppe und ein Stück Brot.",
+   "e": "We eat a soup and a piece of bread."
+  },
+  {
+   "s": "Die Suppe kostet oben acht Franken.",
+   "e": "The soup costs eight francs up here."
+  },
+  {
+   "s": "Unten kostet sie sechs.",
+   "e": "Down below it costs six."
+  },
+  {
+   "s": "Timo sagt: Für hier oben ist das billig.",
+   "e": "Timo says: for up here that is cheap."
+  },
+  {
+   "s": "Auf dem Weg zurück stehe ich wieder oben.",
+   "e": "On the way back I stand up top again."
+  },
+  {
+   "s": "Diesmal schaue ich nach hinten.",
+   "e": "This time I look backwards."
+  },
+  {
+   "s": "Der Berg wird kleiner und der See wird flach.",
+   "e": "The mountain gets smaller and the lake goes flat."
+  },
+  {
+   "s": "Es geht schneller hinunter als hinauf.",
+   "e": "It goes faster down than up."
+  },
+  {
+   "s": "Das ist nicht wahr und es tönt so.",
+   "e": "That is not true and it sounds that way."
+  },
+  {
+   "s": "Unten in Stans ist es warm und laut.",
+   "e": "Down in Stans it is warm and loud."
+  },
+  {
+   "s": "Ich habe eine Stunde lang das Reden vergessen.",
+   "e": "For an hour I forgot about talking."
+  }
+ ]
+}

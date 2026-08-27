@@ -768,6 +768,123 @@
     "Tag"
    ],
    "min": 2
+  },
+  {
+   "id": "w-berg",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Der Berg steht noch",
+   "en": "The mountain is still there",
+   "trigger": [
+    "Berg",
+    "stehen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "b-anschluss",
+   "when": "back",
+   "state": "cheer",
+   "say": "Anschluss erwischt",
+   "en": "Caught the connection",
+   "trigger": [
+    "Anschluss",
+    "erwischen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-alp",
+   "when": "poke",
+   "state": "happy",
+   "say": "Im Sommer bin ich oben",
+   "en": "In summer I am up top",
+   "trigger": [
+    "Alp",
+    "Sommer"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-nebel",
+   "when": "poke",
+   "state": "happy",
+   "say": "Unten ist Nebel",
+   "en": "There is fog below",
+   "trigger": [
+    "Nebel"
+   ],
+   "min": 1
+  },
+  {
+   "id": "g-gipfel",
+   "when": "great",
+   "state": "cheer",
+   "say": "Gipfel!",
+   "en": "Summit!",
+   "trigger": [
+    "Gipfel"
+   ],
+   "min": 1
+  },
+  {
+   "id": "o-schild",
+   "when": "ok",
+   "state": "happy",
+   "say": "Schau aufs Schild",
+   "en": "Look at the sign",
+   "trigger": [
+    "Schild",
+    "schauen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "x-verlaufen",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Du hast dich verlaufen",
+   "en": "You lost your way",
+   "trigger": [
+    "verlaufen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "z-bahn",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Die letzte Bahn geht",
+   "en": "The last one is going",
+   "trigger": [
+    "Bahn",
+    "letzt"
+   ],
+   "min": 2
+  },
+  {
+   "id": "m-richtung",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Weisst du die Richtung?",
+   "en": "Do you know the direction?",
+   "trigger": [
+    "Richtung",
+    "wissen"
+   ],
+   "min": 2
+  },
+  {
+   "id": "s-schnee",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Draussen liegt Schnee",
+   "en": "There is snow outside",
+   "trigger": [
+    "Schnee",
+    "liegen"
+   ],
+   "min": 2
   }
  ]
 }

@@ -1,0 +1,345 @@
+{
+ "id": "p3-16",
+ "title": "Die Rigi",
+ "desc": "The other mountain",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "lieber",
+  "gern"
+ ],
+ "sn": [
+  {
+   "s": "Es gibt zwei Berge bei Luzern.",
+   "e": "There are two mountains near Luzern."
+  },
+  {
+   "s": "Der Pilatus steht im Süden.",
+   "e": "Pilatus stands in the south."
+  },
+  {
+   "s": "Die Rigi steht im Osten.",
+   "e": "Rigi stands in the east."
+  },
+  {
+   "s": "Der Pilatus ist ein Mann.",
+   "e": "Pilatus is a man."
+  },
+  {
+   "s": "Die Rigi ist eine Frau.",
+   "e": "Rigi is a woman."
+  },
+  {
+   "s": "Das ist nur der Artikel und es tönt anders.",
+   "e": "That is only the article and it sounds different."
+  },
+  {
+   "s": "Man nennt die Rigi die Königin der Berge.",
+   "e": "They call Rigi the queen of the mountains."
+  },
+  {
+   "s": "Sie ist nicht die höchste.",
+   "e": "It is not the highest."
+  },
+  {
+   "s": "Sie ist tausendachthundert Meter hoch.",
+   "e": "It is eighteen hundred metres high."
+  },
+  {
+   "s": "Der Pilatus ist höher.",
+   "e": "Pilatus is higher."
+  },
+  {
+   "s": "Die Rigi ist runder und breiter.",
+   "e": "Rigi is rounder and broader."
+  },
+  {
+   "s": "Sie hat oben eine Wiese und keinen Fels.",
+   "e": "It has a meadow on top and no rock."
+  },
+  {
+   "s": "Man kann oben spazieren gehen.",
+   "e": "You can go for a walk up there."
+  },
+  {
+   "s": "Auf dem Pilatus kann man das nicht.",
+   "e": "On Pilatus you cannot."
+  },
+  {
+   "s": "Auf die Rigi fährt die älteste Bergbahn von Europa.",
+   "e": "The oldest mountain railway in Europe goes up Rigi."
+  },
+  {
+   "s": "Sie ist von 1871.",
+   "e": "It is from 1871."
+  },
+  {
+   "s": "Sie ist zwei Jahre älter als die Bahn auf den Pilatus.",
+   "e": "It is two years older than the Pilatus railway."
+  },
+  {
+   "s": "Zwei Jahre.",
+   "e": "Two years."
+  },
+  {
+   "s": "Diese zwei Jahre sind hier ein Thema.",
+   "e": "Those two years are a topic here."
+  },
+  {
+   "s": "Timo hat mich an einem Sonntag mitgenommen.",
+   "e": "Timo took me one Sunday."
+  },
+  {
+   "s": "Wir sind mit dem Schiff nach Vitznau gefahren.",
+   "e": "We took the boat to Vitznau."
+  },
+  {
+   "s": "Das Schiff fährt dem Ufer entlang.",
+   "e": "The boat goes along the shore."
+  },
+  {
+   "s": "Die Fahrt nach Vitznau dauert eine Stunde.",
+   "e": "The trip to Vitznau takes an hour."
+  },
+  {
+   "s": "Dann mit der roten Bahn hinauf.",
+   "e": "Then up on the red railway."
+  },
+  {
+   "s": "Die Bahn ist rot und sie fährt langsam.",
+   "e": "The railway is red and it goes slowly."
+  },
+  {
+   "s": "Sie braucht dreissig Minuten für sechs Kilometer.",
+   "e": "It takes thirty minutes for six kilometres."
+  },
+  {
+   "s": "Oben ist es weit und offen.",
+   "e": "At the top it is wide and open."
+  },
+  {
+   "s": "Es gibt Kühe und einen Weg im Kreis.",
+   "e": "There are cows and a path in a circle."
+  },
+  {
+   "s": "Es gibt keine Wand und kein Geländer.",
+   "e": "There is no wall and no railing."
+  },
+  {
+   "s": "Man geht einfach über die Wiese.",
+   "e": "You just walk across the meadow."
+  },
+  {
+   "s": "Alte Leute gehen hier oben spazieren.",
+   "e": "Old people go for a walk up here."
+  },
+  {
+   "s": "Auf dem Pilatus sieht man keine alten Leute laufen.",
+   "e": "On Pilatus you do not see old people walking."
+  },
+  {
+   "s": "Das ist der Unterschied zwischen den zwei Bergen.",
+   "e": "That is the difference between the two mountains."
+  },
+  {
+   "s": "Der eine ist zum Anschauen.",
+   "e": "One is for looking at."
+  },
+  {
+   "s": "Die andere ist zum Gehen.",
+   "e": "The other is for walking on."
+  },
+  {
+   "s": "Für so etwas braucht man das Wort lieber.",
+   "e": "For something like this you need the word lieber."
+  },
+  {
+   "s": "Lieber heisst: das eine mehr als das andere.",
+   "e": "Lieber means: this one more than the other."
+  },
+  {
+   "s": "Ich gehe lieber auf die Rigi.",
+   "e": "I would rather go up Rigi."
+  },
+  {
+   "s": "Ich trinke lieber Tee.",
+   "e": "I would rather drink tea."
+  },
+  {
+   "s": "Ich fahre lieber mit dem Schiff.",
+   "e": "I would rather go by boat."
+  },
+  {
+   "s": "Und am liebsten ist das Beste von allen.",
+   "e": "And am liebsten is the best of all."
+  },
+  {
+   "s": "Am liebsten gehe ich am Sonntag.",
+   "e": "Best of all I like going on Sunday."
+  },
+  {
+   "s": "Am liebsten sitze ich draussen.",
+   "e": "Best of all I like sitting outside."
+  },
+  {
+   "s": "Gern, lieber, am liebsten.",
+   "e": "Gern, lieber, am liebsten."
+  },
+  {
+   "s": "Drei Formen und man kann alles sagen.",
+   "e": "Three forms and you can say anything."
+  },
+  {
+   "s": "Timo fragt mich oben: Und? Welcher ist besser?",
+   "e": "At the top Timo asks me: and? Which one is better?"
+  },
+  {
+   "s": "Er fragt es wie eine normale Frage.",
+   "e": "He asks it like a normal question."
+  },
+  {
+   "s": "Es ist keine normale Frage.",
+   "e": "It is not a normal question."
+  },
+  {
+   "s": "Ich sage: Der Pilatus.",
+   "e": "I say: Pilatus."
+  },
+  {
+   "s": "Ich sage es ohne nachzudenken.",
+   "e": "I say it without thinking."
+  },
+  {
+   "s": "Er stellt sein Glas hin.",
+   "e": "He puts his glass down."
+  },
+  {
+   "s": "Er sagt: Warum?",
+   "e": "He says: why?"
+  },
+  {
+   "s": "Ich sage: Die Bahn ist steiler.",
+   "e": "I say: the railway is steeper."
+  },
+  {
+   "s": "Ich sage: Oben ist es wilder.",
+   "e": "I say: it is wilder at the top."
+  },
+  {
+   "s": "Er sagt: Wilder ist nicht besser.",
+   "e": "He says: wilder is not better."
+  },
+  {
+   "s": "Er sagt: Auf der Rigi kann meine Grossmutter laufen.",
+   "e": "He says: my grandmother can walk on Rigi."
+  },
+  {
+   "s": "Er sagt: Das ist ein Berg für Menschen.",
+   "e": "He says: that is a mountain for people."
+  },
+  {
+   "s": "Wir reden vierzig Minuten darüber.",
+   "e": "We talk about it for forty minutes."
+  },
+  {
+   "s": "Vierzig Minuten über zwei Berge.",
+   "e": "Forty minutes about two mountains."
+  },
+  {
+   "s": "Es ist fast kein Streit.",
+   "e": "It is almost not a quarrel."
+  },
+  {
+   "s": "Am Nebentisch hört ein Mann zu.",
+   "e": "A man at the next table is listening."
+  },
+  {
+   "s": "Er sagt nach zehn Minuten: Die Rigi.",
+   "e": "After ten minutes he says: Rigi."
+  },
+  {
+   "s": "Er sagt nur das eine Wort.",
+   "e": "He says only that one word."
+  },
+  {
+   "s": "Timo zeigt auf ihn und sagt: Siehst du.",
+   "e": "Timo points at him and says: you see."
+  },
+  {
+   "s": "Der Mann sagt nichts mehr.",
+   "e": "The man says nothing more."
+  },
+  {
+   "s": "Er trinkt sein Bier fertig und geht.",
+   "e": "He finishes his beer and goes."
+  },
+  {
+   "s": "Am Abend schreibt mir Selina.",
+   "e": "In the evening Selina writes to me."
+  },
+  {
+   "s": "Timo hat es ihr erzählt.",
+   "e": "Timo told her about it."
+  },
+  {
+   "s": "Sie schreibt: Ich höre, du bist für den Pilatus.",
+   "e": "She writes: I hear you are for Pilatus."
+  },
+  {
+   "s": "Sie schreibt: Gute Wahl.",
+   "e": "She writes: good choice."
+  },
+  {
+   "s": "Sie schreibt: Sag es Timo nicht.",
+   "e": "She writes: do not tell Timo."
+  },
+  {
+   "s": "Das ist die erste Nachricht von ihr.",
+   "e": "That is the first message from her."
+  },
+  {
+   "s": "Ich lese sie viermal.",
+   "e": "I read it four times."
+  },
+  {
+   "s": "Ich antworte nach zwanzig Minuten.",
+   "e": "I answer after twenty minutes."
+  },
+  {
+   "s": "Ich schreibe: Zu spät. Er weiss es.",
+   "e": "I write: too late. He knows."
+  },
+  {
+   "s": "Sie schreibt zurück: Dann bist du mutig.",
+   "e": "She writes back: then you are brave."
+  },
+  {
+   "s": "Mehr steht nicht da.",
+   "e": "Nothing more is there."
+  },
+  {
+   "s": "Ich lege das Handy auf den Tisch.",
+   "e": "I put the phone on the table."
+  },
+  {
+   "s": "Ich nehme es nach zwei Minuten wieder.",
+   "e": "I pick it up again after two minutes."
+  },
+  {
+   "s": "Es steht immer noch das Gleiche da.",
+   "e": "It still says the same thing."
+  },
+  {
+   "s": "Am nächsten Tag frage ich Timo nichts.",
+   "e": "The next day I ask Timo nothing."
+  },
+  {
+   "s": "Er fragt mich auch nichts.",
+   "e": "He does not ask me anything either."
+  },
+  {
+   "s": "Er schaut mich zweimal zu lange an.",
+   "e": "He looks at me twice for too long."
+  }
+ ]
+}

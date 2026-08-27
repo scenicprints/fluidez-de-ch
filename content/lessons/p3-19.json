@@ -1,0 +1,390 @@
+{
+ "id": "p3-19",
+ "title": "Das Wetter kippt",
+ "desc": "Weather that changes its mind",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "kippen",
+  "grau",
+  "Nebel",
+  "Sonne",
+  "Wind",
+  "Wetter",
+  "unten",
+  "Morgen",
+  "Berg",
+  "sehen",
+  "kommen"
+ ],
+ "sn": [
+  {
+   "s": "Am Berg ist das Wetter nicht ein Wetter.",
+   "e": "On a mountain the weather is not one weather."
+  },
+  {
+   "s": "Unten ist es ein anderes als oben.",
+   "e": "Down below it is a different one from up top."
+  },
+  {
+   "s": "Am Morgen ist es ein anderes als am Mittag.",
+   "e": "In the morning it is a different one from at midday."
+  },
+  {
+   "s": "Das habe ich zuerst nicht geglaubt.",
+   "e": "At first I did not believe that."
+  },
+  {
+   "s": "Kippen heisst: plötzlich anders werden.",
+   "e": "Kippen means: to suddenly become different."
+  },
+  {
+   "s": "Das Wetter kippt.",
+   "e": "The weather turns."
+  },
+  {
+   "s": "Es kippt in zwanzig Minuten.",
+   "e": "It turns in twenty minutes."
+  },
+  {
+   "s": "Am Morgen Sonne, am Mittag Regen.",
+   "e": "Sun in the morning, rain at midday."
+  },
+  {
+   "s": "Timo schaut jeden Morgen zweimal auf das Wetter.",
+   "e": "Timo checks the weather twice every morning."
+  },
+  {
+   "s": "Er schaut nicht auf die Sonne für heute.",
+   "e": "He does not look at the sun for today."
+  },
+  {
+   "s": "Er schaut auf den Wind.",
+   "e": "He looks at the wind."
+  },
+  {
+   "s": "Er sagt: Der Wind sagt es zuerst.",
+   "e": "He says: the wind says it first."
+  },
+  {
+   "s": "Im November gehen wir auf einen kleinen Berg.",
+   "e": "In November we go up a small mountain."
+  },
+  {
+   "s": "Am Abend vorher spielt der Wind im Fenster.",
+   "e": "The evening before the wind plays in the window."
+  },
+  {
+   "s": "In der Nacht wird es plötzlich still.",
+   "e": "In the night it suddenly goes quiet."
+  },
+  {
+   "s": "Unten in der Stadt ist es grau.",
+   "e": "Down in the town it is grey."
+  },
+  {
+   "s": "Es ist nicht kalt und es ist grau.",
+   "e": "It is not cold and it is grey."
+  },
+  {
+   "s": "Der Nebel liegt auf allem.",
+   "e": "The fog lies on everything."
+  },
+  {
+   "s": "Man sieht zwanzig Meter weit.",
+   "e": "You can see twenty metres."
+  },
+  {
+   "s": "Timo sagt: Perfekt.",
+   "e": "Timo says: perfect."
+  },
+  {
+   "s": "Ich sage: Perfekt?",
+   "e": "I say: perfect?"
+  },
+  {
+   "s": "Er sagt: Warte.",
+   "e": "He says: wait."
+  },
+  {
+   "s": "Wir gehen im Nebel hinauf.",
+   "e": "We walk up in the fog."
+  },
+  {
+   "s": "Es ist nass und kalt und man sieht nichts.",
+   "e": "It is wet and cold and you can see nothing."
+  },
+  {
+   "s": "Nach vierzig Minuten ist es genau gleich.",
+   "e": "After forty minutes it is exactly the same."
+  },
+  {
+   "s": "Nach einer Stunde wird der Nebel heller.",
+   "e": "After an hour the fog gets brighter."
+  },
+  {
+   "s": "Nach siebzig Minuten kommt ein blauer Fleck.",
+   "e": "After seventy minutes a blue patch appears."
+  },
+  {
+   "s": "Nach fünf Schritten mehr sind wir draussen.",
+   "e": "Five steps further and we are out of it."
+  },
+  {
+   "s": "Draussen heisst hier: über dem Nebel.",
+   "e": "Out of it here means: above the fog."
+  },
+  {
+   "s": "Über uns ist der Himmel ganz blau.",
+   "e": "Above us the sky is completely blue."
+  },
+  {
+   "s": "Unter uns ist alles weiss und flach.",
+   "e": "Below us everything is white and flat."
+  },
+  {
+   "s": "Das ist das Nebelmeer.",
+   "e": "That is the sea of fog."
+  },
+  {
+   "s": "Über dem Nebelmeer fliegt ein Vogel.",
+   "e": "A bird flies above the sea of fog."
+  },
+  {
+   "s": "Unten am Ufer sieht man gar nichts.",
+   "e": "Down at the shore you see nothing at all."
+  },
+  {
+   "s": "In einer Hütte weiter oben brennt ein Feuer.",
+   "e": "A fire is burning in a hut further up."
+  },
+  {
+   "s": "Eine Frau bringt uns dort einen Tee.",
+   "e": "A woman brings us a tea there."
+  },
+  {
+   "s": "Ein Meer aus Nebel, von oben gesehen.",
+   "e": "A sea of fog, seen from above."
+  },
+  {
+   "s": "Die Berge stehen darin wie Inseln.",
+   "e": "The mountains stand in it like islands."
+  },
+  {
+   "s": "Man sieht die Spitzen und sonst nichts.",
+   "e": "You see the tops and nothing else."
+  },
+  {
+   "s": "Ich habe das Wort schon gelesen.",
+   "e": "I had read the word before."
+  },
+  {
+   "s": "Ich habe es jetzt zum ersten Mal verstanden.",
+   "e": "Now I understood it for the first time."
+  },
+  {
+   "s": "Timo setzt sich hin und sagt nichts.",
+   "e": "Timo sits down and says nothing."
+  },
+  {
+   "s": "Er hat das hundertmal gesehen.",
+   "e": "He has seen this a hundred times."
+  },
+  {
+   "s": "Er sitzt trotzdem zwanzig Minuten still da.",
+   "e": "He still sits there quietly for twenty minutes."
+  },
+  {
+   "s": "Unten in der Stadt ist es jetzt immer noch grau.",
+   "e": "Down in the town it is still grey now."
+  },
+  {
+   "s": "Die Leute dort haben einen grauen Tag.",
+   "e": "The people there are having a grey day."
+  },
+  {
+   "s": "Wir sind zweihundert Meter höher.",
+   "e": "We are two hundred metres higher."
+  },
+  {
+   "s": "Zweihundert Meter sind der ganze Unterschied.",
+   "e": "Two hundred metres are the whole difference."
+  },
+  {
+   "s": "Im Winter dauert das Nebelmeer manchmal drei Wochen.",
+   "e": "In winter the sea of fog sometimes lasts three weeks."
+  },
+  {
+   "s": "Drei Wochen grau unten und Sonne oben.",
+   "e": "Three weeks grey below and sun above."
+  },
+  {
+   "s": "Darum fahren die Leute im Januar auf die Berge.",
+   "e": "That is why people go up the mountains in January."
+  },
+  {
+   "s": "Nicht für den Schnee. Für die Sonne.",
+   "e": "Not for the snow. For the sun."
+  },
+  {
+   "s": "Am Nachmittag kippt es dann doch.",
+   "e": "In the afternoon it does turn after all."
+  },
+  {
+   "s": "Der Wind kommt zuerst.",
+   "e": "The wind comes first."
+  },
+  {
+   "s": "Er kommt aus einer anderen Richtung als am Morgen.",
+   "e": "It comes from a different direction than in the morning."
+  },
+  {
+   "s": "Timo steht sofort auf.",
+   "e": "Timo stands up at once."
+  },
+  {
+   "s": "Er sagt: Wir gehen.",
+   "e": "He says: we are going."
+  },
+  {
+   "s": "Ich sage: Es ist schön.",
+   "e": "I say: it is beautiful."
+  },
+  {
+   "s": "Er sagt: Jetzt schon.",
+   "e": "He says: right now, yes."
+  },
+  {
+   "s": "Nach zehn Minuten kommen Wolken über den Grat.",
+   "e": "After ten minutes clouds come over the ridge."
+  },
+  {
+   "s": "Sie kommen schnell und sie sind grau.",
+   "e": "They come fast and they are grey."
+  },
+  {
+   "s": "Nach zwanzig Minuten ist die Sonne weg.",
+   "e": "After twenty minutes the sun is gone."
+  },
+  {
+   "s": "Nach dreissig Minuten regnet es.",
+   "e": "After thirty minutes it is raining."
+  },
+  {
+   "s": "Wir sind da schon im Wald unten.",
+   "e": "By then we are already down in the woods."
+  },
+  {
+   "s": "Nach dem Regen gehen wir am Wasser spazieren.",
+   "e": "After the rain we go for a walk by the water."
+  },
+  {
+   "s": "Ich bin müde und mir tut nichts weh.",
+   "e": "I am tired and nothing hurts."
+  },
+  {
+   "s": "Das ist nach einem Berg das beste Gefühl.",
+   "e": "After a mountain that is the best feeling."
+  },
+  {
+   "s": "Timo sagt nichts dazu.",
+   "e": "Timo says nothing about it."
+  },
+  {
+   "s": "Er sagt nicht: Siehst du.",
+   "e": "He does not say: you see."
+  },
+  {
+   "s": "Das gefällt mir an ihm.",
+   "e": "I like that about him."
+  },
+  {
+   "s": "Im Sommer kippt es anders.",
+   "e": "In summer it turns differently."
+  },
+  {
+   "s": "Im Sommer kommt ein Gewitter.",
+   "e": "In summer a thunderstorm comes."
+  },
+  {
+   "s": "Ein Gewitter hat Blitz und Donner.",
+   "e": "A thunderstorm has lightning and thunder."
+  },
+  {
+   "s": "Der Blitz ist das Licht.",
+   "e": "Lightning is the light."
+  },
+  {
+   "s": "Der Donner ist das Geräusch danach.",
+   "e": "Thunder is the noise afterwards."
+  },
+  {
+   "s": "Man zählt die Sekunden dazwischen.",
+   "e": "You count the seconds in between."
+  },
+  {
+   "s": "Drei Sekunden sind ungefähr ein Kilometer.",
+   "e": "Three seconds are roughly one kilometre."
+  },
+  {
+   "s": "Auf einem Berg ist ein Gewitter gefährlich.",
+   "e": "On a mountain a thunderstorm is dangerous."
+  },
+  {
+   "s": "Man geht dann sofort hinunter.",
+   "e": "Then you go down at once."
+  },
+  {
+   "s": "Man sitzt nicht unter einem Baum.",
+   "e": "You do not sit under a tree."
+  },
+  {
+   "s": "Man hält keine Stöcke in der Hand.",
+   "e": "You do not hold poles in your hand."
+  },
+  {
+   "s": "Das lernt hier jedes Kind im Skilager.",
+   "e": "Every child here learns that at Skilager."
+  },
+  {
+   "s": "Am Abend schaue ich das Wetter für morgen an.",
+   "e": "In the evening I check the weather for tomorrow."
+  },
+  {
+   "s": "Ich schaue zum ersten Mal auf den Wind.",
+   "e": "For the first time I look at the wind."
+  },
+  {
+   "s": "Ich verstehe die Hälfte von den Zahlen.",
+   "e": "I understand half the numbers."
+  },
+  {
+   "s": "Timo hat mir eine Regel gesagt.",
+   "e": "Timo told me a rule."
+  },
+  {
+   "s": "Er hat gesagt: Am Morgen ist das Wetter am besten.",
+   "e": "He said: in the morning the weather is at its best."
+  },
+  {
+   "s": "Er hat gesagt: Also geht man am Morgen.",
+   "e": "He said: so you go in the morning."
+  },
+  {
+   "s": "Er hat gesagt: Um zwei ist man wieder unten.",
+   "e": "He said: by two you are back down."
+  },
+  {
+   "s": "Er steht dafür um fünf Uhr auf.",
+   "e": "He gets up at five for that."
+  },
+  {
+   "s": "Er sagt: Der Berg gehört bis zehn Uhr uns.",
+   "e": "He says: the mountain is ours until ten."
+  },
+  {
+   "s": "Danach kommen die Leute mit der Bahn.",
+   "e": "After that the people come up on the railway."
+  }
+ ]
+}

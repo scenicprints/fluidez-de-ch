@@ -1,0 +1,364 @@
+{
+ "id": "p3-06",
+ "title": "Stans",
+ "desc": "Timo's town, and its dead hero",
+ "ph": 3,
+ "diff": 4,
+ "wu": [
+  "Statue",
+  "Dorf",
+  "Name",
+  "Mann",
+  "geben"
+ ],
+ "sn": [
+  {
+   "s": "Timo hat mir sein Dorf gezeigt.",
+   "e": "Timo showed me his town."
+  },
+  {
+   "s": "Er sagt Dorf und Stans hat achttausend Leute.",
+   "e": "He says village and Stans has eight thousand people."
+  },
+  {
+   "s": "Für ihn ist alles unter zwanzigtausend ein Dorf.",
+   "e": "For him anything under twenty thousand is a village."
+  },
+  {
+   "s": "Wir sind vom Bahnhof zum Dorfplatz gegangen.",
+   "e": "We walked from the station to the village square."
+  },
+  {
+   "s": "Das dauert sechs Minuten.",
+   "e": "That takes six minutes."
+  },
+  {
+   "s": "Auf dem Dorfplatz steht ein Brunnen.",
+   "e": "There is a fountain in the square."
+  },
+  {
+   "s": "Neben dem Brunnen steht das Rathaus.",
+   "e": "Next to the fountain stands the town hall."
+  },
+  {
+   "s": "Im Rathaus arbeitet die Gemeinde.",
+   "e": "The commune works in the town hall."
+  },
+  {
+   "s": "Das Rathaus ist gelb und es ist sehr alt.",
+   "e": "The town hall is yellow and it is very old."
+  },
+  {
+   "s": "Vor dem Rathaus steht eine Statue.",
+   "e": "There is a statue in front of the town hall."
+  },
+  {
+   "s": "Die Statue ist gross und aus Stein.",
+   "e": "The statue is big and made of stone."
+  },
+  {
+   "s": "Sie zeigt einen Mann mit vielen Speeren im Körper.",
+   "e": "It shows a man with a lot of spears in his body."
+  },
+  {
+   "s": "Timo hat auf die Statue gezeigt.",
+   "e": "Timo pointed at the statue."
+  },
+  {
+   "s": "Er hat gesagt: Der Winkelried.",
+   "e": "He said: Winkelried."
+  },
+  {
+   "s": "Er hat es gesagt wie einen bekannten Namen.",
+   "e": "He said it like a familiar name."
+  },
+  {
+   "s": "Ich habe den Namen nie gehört.",
+   "e": "I had never heard the name."
+  },
+  {
+   "s": "Er war ehrlich überrascht.",
+   "e": "He was genuinely surprised."
+  },
+  {
+   "s": "Winkelried war ein Bauer aus Stans.",
+   "e": "Winkelried was a farmer from Stans."
+  },
+  {
+   "s": "Er ist in einer Schlacht gestorben.",
+   "e": "He died in a battle."
+  },
+  {
+   "s": "Die Schlacht war 1386.",
+   "e": "The battle was in 1386."
+  },
+  {
+   "s": "Die Feinde standen in einer Reihe mit Speeren.",
+   "e": "The enemy stood in a line with spears."
+  },
+  {
+   "s": "Niemand kam durch die Speere hindurch.",
+   "e": "Nobody got through the spears."
+  },
+  {
+   "s": "Winkelried hat die Speere in seine Arme genommen.",
+   "e": "Winkelried took the spears into his arms."
+  },
+  {
+   "s": "Er hat sie in seinen Körper gezogen.",
+   "e": "He pulled them into his body."
+  },
+  {
+   "s": "So kam eine Lücke in die Reihe.",
+   "e": "That made a gap in the line."
+  },
+  {
+   "s": "Durch die Lücke sind die anderen gegangen.",
+   "e": "The others went through the gap."
+  },
+  {
+   "s": "Er ist gestorben und die anderen haben gewonnen.",
+   "e": "He died and the others won."
+  },
+  {
+   "s": "Ein Held ist ein Mensch mit einer solchen Geschichte.",
+   "e": "A hero is a person with a story like that."
+  },
+  {
+   "s": "Timo hat gesagt: Es stimmt vielleicht nicht.",
+   "e": "Timo said: it may not be true."
+  },
+  {
+   "s": "Er hat gesagt: Man weiss es nicht genau.",
+   "e": "He said: nobody knows for certain."
+  },
+  {
+   "s": "Er hat gesagt: Aber die Statue steht da.",
+   "e": "He said: but the statue is there."
+  },
+  {
+   "s": "Er hat gesagt: Und der Platz heisst nach ihm.",
+   "e": "He said: and the square is named after him."
+  },
+  {
+   "s": "Er sagt es ohne grosse Gefühle.",
+   "e": "He says it without big feelings."
+  },
+  {
+   "s": "Es ist keine Geschichte für den Stolz.",
+   "e": "It is not a story for pride."
+  },
+  {
+   "s": "Es ist eine Geschichte für den Platz.",
+   "e": "It is a story for the square."
+  },
+  {
+   "s": "Jedes Kind hier lernt sie in der Schule.",
+   "e": "Every child here learns it at school."
+  },
+  {
+   "s": "Jedes Kind hier läuft an der Statue vorbei.",
+   "e": "Every child here walks past the statue."
+  },
+  {
+   "s": "Nach dreissig Jahren schaut niemand mehr hin.",
+   "e": "After thirty years nobody looks at it any more."
+  },
+  {
+   "s": "Und alle kennen den Mann auf dem Stein genau.",
+   "e": "And everybody knows the man on the stone exactly."
+  },
+  {
+   "s": "Am Dorfplatz gibt es vier Beizen.",
+   "e": "There are four pubs on the square."
+  },
+  {
+   "s": "Auf dem Dorfplatz spielen Kinder mit einem Ball.",
+   "e": "Children are playing with a ball in the square."
+  },
+  {
+   "s": "Sie spielen zwischen den Tischen von der Beiz.",
+   "e": "They play between the pub tables."
+  },
+  {
+   "s": "Ich mache ein Foto von der Statue.",
+   "e": "I take a photograph of the statue."
+  },
+  {
+   "s": "Es gibt zwei Bäckereien und eine Apotheke.",
+   "e": "There are two bakeries and a pharmacy."
+  },
+  {
+   "s": "Es gibt eine Bank und eine Post.",
+   "e": "There is a bank and a post office."
+  },
+  {
+   "s": "Es gibt einen Coiffeur mit drei Stühlen.",
+   "e": "There is a hairdresser with three chairs."
+  },
+  {
+   "s": "Es gibt kein Kino und kein Museum.",
+   "e": "There is no cinema and no museum."
+  },
+  {
+   "s": "Es gibt alles für einen Tag und nichts für einen Abend.",
+   "e": "There is everything for a day and nothing for an evening."
+  },
+  {
+   "s": "Für den Abend fährt man nach Luzern.",
+   "e": "For an evening you go to Luzern."
+  },
+  {
+   "s": "Fünfzehn Minuten und man ist dort.",
+   "e": "Fifteen minutes and you are there."
+  },
+  {
+   "s": "Timo fährt zweimal im Monat hin.",
+   "e": "Timo goes twice a month."
+  },
+  {
+   "s": "Er sagt: Mehr brauche ich nicht.",
+   "e": "He says: I do not need more."
+  },
+  {
+   "s": "In der Bäckerei kennt ihn die Frau.",
+   "e": "The woman in the bakery knows him."
+  },
+  {
+   "s": "Sie sagt seinen Namen ohne zu fragen.",
+   "e": "She says his name without asking."
+  },
+  {
+   "s": "Sie fragt nach seiner Mutter.",
+   "e": "She asks about his mother."
+  },
+  {
+   "s": "Sie fragt nach den Kühen von seinem Vater.",
+   "e": "She asks about his father's cows."
+  },
+  {
+   "s": "Sie weiss die Zahl genau.",
+   "e": "She knows the number exactly."
+  },
+  {
+   "s": "In Luzern kennt mich niemand in einem Laden.",
+   "e": "In Luzern nobody in a shop knows me."
+  },
+  {
+   "s": "Nach acht Monaten nicht.",
+   "e": "Not after eight months."
+  },
+  {
+   "s": "Hier braucht man dafür acht Tage.",
+   "e": "Here that takes eight days."
+  },
+  {
+   "s": "Timo sagt: Und man wird es nie wieder los.",
+   "e": "Timo says: and you never get rid of it again."
+  },
+  {
+   "s": "Er sagt es halb im Spass und halb nicht.",
+   "e": "He says it half as a joke and half not."
+  },
+  {
+   "s": "Wir gehen an der Kirche vorbei.",
+   "e": "We walk past the church."
+  },
+  {
+   "s": "Vor der Kirche steht ein Mann mit einem Besen.",
+   "e": "A man with a broom is standing in front of the church."
+  },
+  {
+   "s": "Timo grüsst ihn mit dem Vornamen.",
+   "e": "Timo greets him by his first name."
+  },
+  {
+   "s": "Der Mann fragt: Und? Wer ist das?",
+   "e": "The man asks: and? Who is that?"
+  },
+  {
+   "s": "Timo sagt meinen Namen und mein Land.",
+   "e": "Timo says my name and my country."
+  },
+  {
+   "s": "Der Mann nickt und sagt Grüezi.",
+   "e": "The man nods and says Grüezi."
+  },
+  {
+   "s": "Am Abend weiss das halbe Dorf davon.",
+   "e": "By the evening half the village knows."
+  },
+  {
+   "s": "Timo hat das vorher gesagt.",
+   "e": "Timo said that beforehand."
+  },
+  {
+   "s": "Er hat gesagt: Am Montag hört es das andere halbe Dorf.",
+   "e": "He said: on Monday the other half of the village hears it."
+  },
+  {
+   "s": "Bei seinem Vater gibt es Zvieri.",
+   "e": "At his father's there is a Zvieri."
+  },
+  {
+   "s": "Zvieri ist das Essen um vier Uhr.",
+   "e": "Zvieri is the food at four o'clock."
+  },
+  {
+   "s": "Es gibt Brot und Käse und einen Most.",
+   "e": "There is bread and cheese and a cider."
+  },
+  {
+   "s": "Sein Vater sagt fast nichts.",
+   "e": "His father says almost nothing."
+  },
+  {
+   "s": "Er zeigt mir die drei Kühe.",
+   "e": "He shows me the three cows."
+  },
+  {
+   "s": "Jede Kuh hat einen Namen.",
+   "e": "Every cow has a name."
+  },
+  {
+   "s": "Er sagt die drei Namen und sonst nichts.",
+   "e": "He says the three names and nothing else."
+  },
+  {
+   "s": "Die Kühe haben Glocken um den Hals.",
+   "e": "The cows have bells around their necks."
+  },
+  {
+   "s": "Die Glocken tönen tief und langsam.",
+   "e": "The bells sound low and slow."
+  },
+  {
+   "s": "Man hört sie durch das ganze Tal.",
+   "e": "You can hear them through the whole valley."
+  },
+  {
+   "s": "Auf dem Rückweg zum Bahnhof rede ich nicht viel.",
+   "e": "On the way back to the station I do not talk much."
+  },
+  {
+   "s": "Timo fragt: Und?",
+   "e": "Timo asks: well?"
+  },
+  {
+   "s": "Ich sage: Jetzt verstehe ich dein Stans.",
+   "e": "I say: now I understand your Stans."
+  },
+  {
+   "s": "Er sagt nur: Genau.",
+   "e": "He just says: exactly."
+  },
+  {
+   "s": "Ein Wort und das Gespräch ist fertig.",
+   "e": "One word and the conversation is finished."
+  },
+  {
+   "s": "Wir gehen die letzten Minuten ohne ein Wort.",
+   "e": "We walk the last few minutes without a word."
+  }
+ ]
+}

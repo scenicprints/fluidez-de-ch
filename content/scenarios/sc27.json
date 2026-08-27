@@ -1,0 +1,109 @@
+{
+ "id": "sc27",
+ "title": "Der letzte Zug",
+ "desc": "Everybody at the table knows their own",
+ "setting": "Quarter past midnight in a pub, one story unfinished, and four different departure times.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Timo",
+   "es": "So. Ich muss.",
+   "en": "Right. I have to go.",
+   "options": [
+    {
+     "es": "Ade. Bis nächste Woche.",
+     "en": "Bye. See you next week.",
+     "verdict": "good",
+     "feedback": "Let him go. He said it in the middle of a sentence because that is how you catch a train without running."
+    },
+    {
+     "es": "Schon? Bleib doch noch.",
+     "en": "Already? Do stay.",
+     "verdict": "bad",
+     "feedback": "His train is at twelve thirty-two and there is not another one. Asking is putting him in a corner."
+    },
+    {
+     "es": "Und der Rest von der Geschichte?",
+     "en": "And the rest of the story?",
+     "verdict": "ok",
+     "feedback": "You will get it next time. Everybody here has an unfinished story with somebody."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Und du? Wann geht deiner?",
+   "en": "And you? When does yours go?",
+   "options": [
+    {
+     "es": "Zwanzig nach. Ich habe noch Zeit.",
+     "en": "Twenty past. I still have time.",
+     "verdict": "good",
+     "feedback": "Everybody has a number and everybody says it without checking. Yours is the twenty past bus."
+    },
+    {
+     "es": "Ich weiss nicht genau.",
+     "en": "I do not know exactly.",
+     "verdict": "bad",
+     "feedback": "Then you will be running at eighteen past, and running is the part people notice."
+    },
+    {
+     "es": "Ich nehme ein Taxi.",
+     "en": "I will take a taxi.",
+     "verdict": "ok",
+     "feedback": "Eighty francs to Stans, less from here. Nobody does it, and saying so makes the table go quiet."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Zahlen wir?",
+   "en": "Shall we pay?",
+   "options": [
+    {
+     "es": "Ja. Jeder für sich.",
+     "en": "Yes. Everybody for themselves.",
+     "verdict": "good",
+     "feedback": "That is how it works and it is not meanness. Paying for somebody else needs a reason."
+    },
+    {
+     "es": "Ich zahle alles.",
+     "en": "I will pay for everything.",
+     "verdict": "ok",
+     "feedback": "He will ask why, and he will really be asking. There is nothing wrong with it and it needs a reason."
+    },
+    {
+     "es": "Später.",
+     "en": "Later.",
+     "verdict": "bad",
+     "feedback": "There is no later. Pay at quarter past and you leave at ten past without a jacket in one hand."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Ade zusammen.",
+   "en": "Bye, all of you.",
+   "options": [
+    {
+     "es": "Ade. Schönen Abend.",
+     "en": "Bye. Have a good evening.",
+     "verdict": "good",
+     "feedback": "Say it to each person, by name if you can. It takes thirty seconds and it is why you leave at ten past."
+    },
+    {
+     "es": "Tschüss!",
+     "en": "Bye!",
+     "verdict": "ok",
+     "feedback": "Understood everywhere and it is the German one. Ade is what this table says."
+    },
+    {
+     "es": "Bis morgen im Büro.",
+     "en": "See you tomorrow at the office.",
+     "verdict": "good",
+     "feedback": "Warm, specific, and it names the next time. That is the whole move."
+    }
+   ]
+  }
+ ]
+}
