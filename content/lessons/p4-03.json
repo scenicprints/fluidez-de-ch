@@ -1,0 +1,337 @@
+{
+ "id": "p4-03",
+ "title": "Zu lange geredet",
+ "desc": "Missing something on purpose",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "deshalb",
+  "Bus"
+ ],
+ "sn": [
+  {
+   "s": "Am Freitag waren wir in einer Beiz.",
+   "e": "On Friday we were in a pub."
+  },
+  {
+   "s": "Nicht in der Beiz von Timo.",
+   "e": "Not Timo's pub."
+  },
+  {
+   "s": "In einer anderen, weiter unten am Fluss.",
+   "e": "In a different one, further down by the river."
+  },
+  {
+   "s": "Wir sind um acht gekommen.",
+   "e": "We came at eight."
+  },
+  {
+   "s": "Um zehn habe ich auf die Uhr geschaut.",
+   "e": "At ten I looked at my watch."
+  },
+  {
+   "s": "Um elf habe ich nicht mehr geschaut.",
+   "e": "At eleven I stopped looking."
+  },
+  {
+   "s": "Ihr letzter Bus geht um null Uhr zehn.",
+   "e": "Her last bus goes at ten past midnight."
+  },
+  {
+   "s": "Mein letzter Bus geht um null Uhr zwanzig.",
+   "e": "My last bus goes at twenty past midnight."
+  },
+  {
+   "s": "Zehn Minuten zwischen uns.",
+   "e": "Ten minutes between us."
+  },
+  {
+   "s": "Sie wohnt vier Haltestellen weiter.",
+   "e": "She lives four stops further on."
+  },
+  {
+   "s": "Vier Haltestellen sind hier eine Distanz.",
+   "e": "Four stops are a distance here."
+  },
+  {
+   "s": "Um fünf vor zwölf hat sie nichts gesagt.",
+   "e": "At five to twelve she said nothing."
+  },
+  {
+   "s": "Um zehn nach zwölf hat sie auch nichts gesagt.",
+   "e": "At ten past twelve she said nothing either."
+  },
+  {
+   "s": "Der Bus ist ohne sie gefahren.",
+   "e": "The bus went without her."
+  },
+  {
+   "s": "Wir haben beide auf die Strasse geschaut.",
+   "e": "We both looked at the street."
+  },
+  {
+   "s": "Man sieht die Haltestelle von diesem Tisch aus.",
+   "e": "You can see the stop from that table."
+  },
+  {
+   "s": "Der Bus ist gekommen und wieder gegangen.",
+   "e": "The bus came and went again."
+  },
+  {
+   "s": "Niemand hat etwas gesagt.",
+   "e": "Nobody said anything."
+  },
+  {
+   "s": "Das war kein Zufall.",
+   "e": "That was not an accident."
+  },
+  {
+   "s": "Hier verpasst man den letzten Bus nicht einfach so.",
+   "e": "Here you do not simply miss the last bus."
+  },
+  {
+   "s": "Jeder kennt seine Zeit.",
+   "e": "Everybody knows their own time."
+  },
+  {
+   "s": "Jeder steht acht Minuten vorher auf.",
+   "e": "Everybody stands up eight minutes beforehand."
+  },
+  {
+   "s": "Sie ist nicht aufgestanden.",
+   "e": "She did not stand up."
+  },
+  {
+   "s": "Deshalb war es kein Zufall.",
+   "e": "That is why it was not an accident."
+  },
+  {
+   "s": "Deshalb heisst: darum, aus diesem Grund.",
+   "e": "Deshalb means: therefore, for that reason."
+  },
+  {
+   "s": "Es hat geregnet, deshalb sind wir drinnen geblieben.",
+   "e": "It rained, so we stayed inside."
+  },
+  {
+   "s": "Ich habe den Zug verpasst, deshalb bin ich zu spät.",
+   "e": "I missed the train, so I am late."
+  },
+  {
+   "s": "Deshalb und darum sind fast das Gleiche.",
+   "e": "Deshalb and darum are almost the same."
+  },
+  {
+   "s": "Beide stehen vorne und das Verb kommt sofort.",
+   "e": "Both stand at the front and the verb comes at once."
+  },
+  {
+   "s": "Deshalb bin ich hier. Darum frage ich.",
+   "e": "That is why I am here. That is why I am asking."
+  },
+  {
+   "s": "Um Viertel nach zwölf hat sie es gesagt.",
+   "e": "At quarter past twelve she said it."
+  },
+  {
+   "s": "Sie hat gesagt: Mein Bus ist weg.",
+   "e": "She said: my bus is gone."
+  },
+  {
+   "s": "Sie hat es ruhig gesagt.",
+   "e": "She said it calmly."
+  },
+  {
+   "s": "Sie hat es gesagt wie eine Information.",
+   "e": "She said it like a piece of information."
+  },
+  {
+   "s": "Ich habe gesagt: Meiner geht um zwanzig nach.",
+   "e": "I said: mine goes at twenty past."
+  },
+  {
+   "s": "Sie hat gesagt: Dann hast du fünf Minuten.",
+   "e": "She said: then you have five minutes."
+  },
+  {
+   "s": "Ich bin nicht aufgestanden.",
+   "e": "I did not stand up."
+  },
+  {
+   "s": "Um halb eins waren beide Busse weg.",
+   "e": "At half past twelve both buses were gone."
+  },
+  {
+   "s": "Die Beiz macht um eins zu.",
+   "e": "The pub closes at one."
+  },
+  {
+   "s": "Wir hatten also noch dreissig Minuten.",
+   "e": "So we still had thirty minutes."
+  },
+  {
+   "s": "Dreissig Minuten und dann eine Frage.",
+   "e": "Thirty minutes and then a question."
+  },
+  {
+   "s": "Wir haben über ihren Bruder geredet.",
+   "e": "We talked about her brother."
+  },
+  {
+   "s": "Reto ist zwei Jahre älter.",
+   "e": "Reto is two years older."
+  },
+  {
+   "s": "Er arbeitet bei einer Bank in Zug.",
+   "e": "He works at a bank in Zug."
+  },
+  {
+   "s": "Sie hat gesagt: Wir sind sehr verschieden.",
+   "e": "She said: we are very different."
+  },
+  {
+   "s": "Sie hat es nicht weiter erklärt.",
+   "e": "She did not explain further."
+  },
+  {
+   "s": "Ich habe nicht nachgefragt.",
+   "e": "I did not ask further."
+  },
+  {
+   "s": "Das war vielleicht ein Fehler.",
+   "e": "That was perhaps a mistake."
+  },
+  {
+   "s": "Um zehn vor eins hat der Wirt die Stühle hochgestellt.",
+   "e": "At ten to one the landlord put the chairs up."
+  },
+  {
+   "s": "Das ist hier das Zeichen.",
+   "e": "That is the signal here."
+  },
+  {
+   "s": "Niemand sagt: Wir machen zu.",
+   "e": "Nobody says: we are closing."
+  },
+  {
+   "s": "Die Stühle sagen es.",
+   "e": "The chairs say it."
+  },
+  {
+   "s": "Wir sind hinausgegangen.",
+   "e": "We went out."
+  },
+  {
+   "s": "Draussen war es kalt und ganz still.",
+   "e": "Outside it was cold and completely quiet."
+  },
+  {
+   "s": "Auf der Strasse war niemand.",
+   "e": "There was nobody in the street."
+  },
+  {
+   "s": "Kein Bus, kein Auto, nichts.",
+   "e": "No bus, no car, nothing."
+  },
+  {
+   "s": "Wir sind zusammen an der Haltestelle gestanden.",
+   "e": "We stood at the bus stop together."
+  },
+  {
+   "s": "An einer Haltestelle ohne Bus.",
+   "e": "At a bus stop with no bus."
+  },
+  {
+   "s": "Das ist eine sehr komische Sache.",
+   "e": "That is a very odd thing."
+  },
+  {
+   "s": "Sie hat gesagt: Ich laufe.",
+   "e": "She said: I will walk."
+  },
+  {
+   "s": "Vier Haltestellen sind fünfunddreissig Minuten zu Fuss.",
+   "e": "Four stops are thirty-five minutes on foot."
+  },
+  {
+   "s": "Ich habe gesagt: Ich komme mit.",
+   "e": "I said: I will come with you."
+  },
+  {
+   "s": "Sie hat gesagt: Und dann?",
+   "e": "She said: and then?"
+  },
+  {
+   "s": "Dann sind es für mich fünfzig Minuten zurück.",
+   "e": "Then it is fifty minutes back for me."
+  },
+  {
+   "s": "Ich habe gesagt: Dann laufe ich fünfzig Minuten.",
+   "e": "I said: then I will walk for fifty minutes."
+  },
+  {
+   "s": "Sie hat mich angeschaut.",
+   "e": "She looked at me."
+  },
+  {
+   "s": "Sie hat gesagt: Gut.",
+   "e": "She said: good."
+  },
+  {
+   "s": "Wir sind fünfunddreissig Minuten gelaufen.",
+   "e": "We walked for thirty-five minutes."
+  },
+  {
+   "s": "Es war kalt und wir sind langsam gegangen.",
+   "e": "It was cold and we walked slowly."
+  },
+  {
+   "s": "Wir haben über nichts Wichtiges geredet.",
+   "e": "We talked about nothing important."
+  },
+  {
+   "s": "Vor ihrem Haus war eine Lampe kaputt.",
+   "e": "A light was broken outside her building."
+  },
+  {
+   "s": "Es war dunkel vor der Tür.",
+   "e": "It was dark in front of the door."
+  },
+  {
+   "s": "Sie hat gesagt: Merci fürs Laufen.",
+   "e": "She said: thanks for the walk."
+  },
+  {
+   "s": "Dann hat sie mich kurz umarmt.",
+   "e": "Then she hugged me briefly."
+  },
+  {
+   "s": "Kurz und ganz normal.",
+   "e": "Briefly and quite normally."
+  },
+  {
+   "s": "Und dann ist sie hineingegangen.",
+   "e": "And then she went in."
+  },
+  {
+   "s": "Ich bin fünfzig Minuten zurück gelaufen.",
+   "e": "I walked back for fifty minutes."
+  },
+  {
+   "s": "Um ein Uhr fünfzig war ich zu Hause.",
+   "e": "At ten to two I was home."
+  },
+  {
+   "s": "Ich war nicht müde.",
+   "e": "I was not tired."
+  },
+  {
+   "s": "Am Morgen war ich sehr müde.",
+   "e": "In the morning I was very tired."
+  },
+  {
+   "s": "Es hat sich gelohnt.",
+   "e": "It was worth it."
+  }
+ ]
+}

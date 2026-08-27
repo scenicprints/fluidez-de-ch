@@ -1,0 +1,109 @@
+{
+ "id": "sc29",
+ "title": "Nur wir zwei",
+ "desc": "Four hours, and you will remember three things",
+ "setting": "A flat mountain top, a path you can walk side by side, and nobody else along.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Selina",
+   "es": "Was war dein erster Tag hier?",
+   "en": "What was your first day here like?",
+   "options": [
+    {
+     "es": "Vierzig Minuten am Flughafen ohne ein Wort.",
+     "en": "Forty minutes at the airport without a word.",
+     "verdict": "good",
+     "feedback": "One concrete thing, not a summary. She asked for a day, so give her a day."
+    },
+    {
+     "es": "Schwierig. Aber gut.",
+     "en": "Hard. But good.",
+     "verdict": "ok",
+     "feedback": "True and closed. Two adjectives are a lid, and she was opening something."
+    },
+    {
+     "es": "Das weiss ich nicht mehr.",
+     "en": "I do not remember.",
+     "verdict": "bad",
+     "feedback": "You do. It is the first question anybody has asked you that is not woher or seit wann."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Ich mag den Nebel lieber als die Sonne.",
+   "en": "I like fog better than sun.",
+   "options": [
+    {
+     "es": "Warum?",
+     "en": "Why?",
+     "verdict": "good",
+     "feedback": "One word, and you get ten minutes. Asking back is the whole skill here."
+    },
+    {
+     "es": "Das ist komisch.",
+     "en": "That is odd.",
+     "verdict": "ok",
+     "feedback": "It is, and she knows. She said it because it is odd, and now she has to defend it."
+    },
+    {
+     "es": "Ich auch.",
+     "en": "Me too.",
+     "verdict": "bad",
+     "feedback": "You do not. Agreeing with something you have not thought about closes it faster than disagreeing."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Sollen wir noch eine Runde laufen?",
+   "en": "Shall we walk round once more?",
+   "options": [
+    {
+     "es": "Gern.",
+     "en": "Gladly.",
+     "verdict": "good",
+     "feedback": "One word. This is a mountain path, not a table: you walk side by side and you do not have to look at each other."
+    },
+    {
+     "es": "Ich bin schon müde.",
+     "en": "I am tired already.",
+     "verdict": "ok",
+     "feedback": "Honest. It is also the end of the afternoon, and she will not offer twice."
+    },
+    {
+     "es": "Wenn du willst.",
+     "en": "If you want.",
+     "verdict": "bad",
+     "feedback": "She asked what you want. Handing it back is the one answer with nothing in it."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Also. Das war schön.",
+   "en": "Right. That was nice.",
+   "options": [
+    {
+     "es": "Sehr schön.",
+     "en": "Very nice.",
+     "verdict": "good",
+     "feedback": "Schön is a big word here. Matching it exactly is the answer; going bigger would put it back down."
+    },
+    {
+     "es": "Nächsten Samstag?",
+     "en": "Next Saturday?",
+     "verdict": "good",
+     "feedback": "A day, with no mal in it. That is the whole move and it is braver than it looks."
+    },
+    {
+     "es": "Das war der beste Tag seit Monaten!",
+     "en": "That was the best day in months!",
+     "verdict": "bad",
+     "feedback": "It may well have been. Said out loud at this volume it lands about three sizes too big."
+    }
+   ]
+  }
+ ]
+}

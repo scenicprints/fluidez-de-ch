@@ -1,0 +1,109 @@
+{
+ "id": "sc37",
+ "title": "Bleibst du?",
+ "desc": "Asked over potatoes, which is how the big ones arrive",
+ "setting": "A kitchen on a Sunday, two knives, and a question that has been waiting since November.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Selina",
+   "es": "Und bist du im Juli überhaupt noch da?",
+   "en": "And will you even still be here in July?",
+   "options": [
+    {
+     "es": "Warum fragst du das?",
+     "en": "Why are you asking?",
+     "verdict": "bad",
+     "feedback": "She has asked since November and you have not answered since November. A question back is the fourth dodge."
+    },
+    {
+     "es": "Mein Vertrag läuft im September aus.",
+     "en": "My contract runs out in September.",
+     "verdict": "good",
+     "feedback": "The real fact, said out loud for the first time. She already knew the date. You had never spoken it."
+    },
+    {
+     "es": "Natürlich bin ich noch da.",
+     "en": "Of course I am still here.",
+     "verdict": "ok",
+     "feedback": "Warm and it skips the paperwork. Staying here is a contract and a permit, not a feeling."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Ich frage seit November. Du antwortest nicht.",
+   "en": "I have been asking since November. You do not answer.",
+   "options": [
+    {
+     "es": "Du hast recht.",
+     "en": "You are right.",
+     "verdict": "good",
+     "feedback": "She is. Three times she asked and three times you heard a different question."
+    },
+    {
+     "es": "Das habe ich nicht gemerkt.",
+     "en": "I did not notice.",
+     "verdict": "ok",
+     "feedback": "True, and it is not much of a defence. She noticed all three times."
+    },
+    {
+     "es": "Ich hatte keine Antwort.",
+     "en": "I did not have an answer.",
+     "verdict": "good",
+     "feedback": "Also true, and it is the honest version of the same thing. She will take it."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Bleibst du?",
+   "en": "Are you staying?",
+   "options": [
+    {
+     "es": "Ja.",
+     "en": "Yes.",
+     "verdict": "good",
+     "feedback": "One word, said before you have thought about it, and still true two minutes later. That is the answer."
+    },
+    {
+     "es": "Ich will bleiben.",
+     "en": "I want to stay.",
+     "verdict": "ok",
+     "feedback": "She will say that is not the question. Between wanting and doing there is a great deal of paper."
+    },
+    {
+     "es": "Ich weiss es noch nicht.",
+     "en": "I do not know yet.",
+     "verdict": "ok",
+     "feedback": "The honest answer for a year. She is asking whether it is still the honest answer today."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Dann müssen wir etwas machen.",
+   "en": "Then we have to do something.",
+   "options": [
+    {
+     "es": "Was brauchen wir?",
+     "en": "What do we need?",
+     "verdict": "good",
+     "feedback": "She is already getting a sheet of paper. A list here is a declaration; joining in on it is the answer."
+    },
+    {
+     "es": "Jetzt? Sofort?",
+     "en": "Now? Right away?",
+     "verdict": "ok",
+     "feedback": "Twenty minutes after the biggest question of your life, yes. That is not coldness, it is how it is meant."
+    },
+    {
+     "es": "Das ist sehr romantisch.",
+     "en": "That is very romantic.",
+     "verdict": "good",
+     "feedback": "Said as a joke and it is also true. Somebody who makes a list has already decided."
+    }
+   ]
+  }
+ ]
+}

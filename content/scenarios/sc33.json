@@ -1,0 +1,109 @@
+{
+ "id": "sc33",
+ "title": "Sonntagessen",
+ "desc": "Half past eleven to five, and the good plates",
+ "setting": "A house in Kriens from 1974, six pairs of shoes at the door, and a woman with wet hands.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Marianne",
+   "es": "Oh! Schon!",
+   "en": "Oh! Already!",
+   "options": [
+    {
+     "es": "Entschuldigung. Ich bin zu früh.",
+     "en": "Sorry. I am too early.",
+     "verdict": "good",
+     "feedback": "Five minutes early is right and fifteen is a little much. Naming it yourself takes it off her."
+    },
+    {
+     "es": "Grüezi, Frau Odermatt.",
+     "en": "Hello, Frau Odermatt.",
+     "verdict": "good",
+     "feedback": "Frau Odermatt, and Sie, and wait to be told otherwise. That may take a year."
+    },
+    {
+     "es": "Grüezi, Marianne.",
+     "en": "Hello, Marianne.",
+     "verdict": "bad",
+     "feedback": "Her first name, on the first Sunday, unasked. Here that is the one move you do not make."
+    }
+   ]
+  },
+  {
+   "speaker": "Marianne",
+   "es": "Sie sind also aus dem Süden.",
+   "en": "So you are from the south.",
+   "options": [
+    {
+     "es": "Ja. Aus einer kleinen Stadt am Meer.",
+     "en": "Yes. From a small town by the sea.",
+     "verdict": "good",
+     "feedback": "One more sentence than the question needed. That is the opening move and she will take it."
+    },
+    {
+     "es": "Ja.",
+     "en": "Yes.",
+     "verdict": "ok",
+     "feedback": "Correct and closed. She has thirty-nine more questions and now they all have to be hers."
+    },
+    {
+     "es": "Woher wissen Sie das?",
+     "en": "How do you know that?",
+     "verdict": "bad",
+     "feedback": "Selina told her, three weeks ago, in detail. Everybody at this table knows more than they say."
+    }
+   ]
+  },
+  {
+   "speaker": "Kurt",
+   "es": "Wie ist das Wasser bei Ihnen?",
+   "en": "What is the water like where you come from?",
+   "options": [
+    {
+     "es": "Man kann es trinken. Es schmeckt nach nichts.",
+     "en": "You can drink it. It tastes of nothing.",
+     "verdict": "good",
+     "feedback": "He is asking whether you can drink from the tap. It is his first question about any country."
+    },
+    {
+     "es": "Wie meinen Sie das?",
+     "en": "How do you mean?",
+     "verdict": "ok",
+     "feedback": "Fair. He will not rephrase it, he will wait, and you will work it out in the silence."
+    },
+    {
+     "es": "Das ist eine komische Frage.",
+     "en": "That is an odd question.",
+     "verdict": "bad",
+     "feedback": "He has asked you two questions in three hours. This is one of them."
+    }
+   ]
+  },
+  {
+   "speaker": "Marianne",
+   "es": "Und die zweite Säule?",
+   "en": "And the second pillar?",
+   "options": [
+    {
+     "es": "Das ist eine gute Frage. Da muss ich noch schauen.",
+     "en": "That is a good question. I still have to look into that.",
+     "verdict": "good",
+     "feedback": "The polite deflection, twice over. Nobody asks again, and nobody is offended."
+    },
+    {
+     "es": "Das ist privat.",
+     "en": "That is private.",
+     "verdict": "bad",
+     "feedback": "Pay is private here. The pension is not, and neither is rent. The line sits somewhere else."
+    },
+    {
+     "es": "Ich habe keine Ahnung.",
+     "en": "I have no idea.",
+     "verdict": "ok",
+     "feedback": "Honest, and she will now explain all three pillars over the roast. Which is not the worst outcome."
+    }
+   ]
+  }
+ ]
+}

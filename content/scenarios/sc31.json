@@ -1,0 +1,109 @@
+{
+ "id": "sc31",
+ "title": "Der erste Streit",
+ "desc": "Nobody raises their voice, which is worse",
+ "setting": "A kitchen on a Thursday, two cups, and a Saturday you did not mention.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Selina",
+   "es": "Seit wann?",
+   "en": "Since when?",
+   "options": [
+    {
+     "es": "Seit Montag.",
+     "en": "Since Monday.",
+     "verdict": "good",
+     "feedback": "The true answer and it costs you. Anything else here would be a second mistake on top of the first."
+    },
+    {
+     "es": "Seit ein paar Tagen.",
+     "en": "For a few days.",
+     "verdict": "bad",
+     "feedback": "Vague where she was exact. Arguments here run on specifics, and blurring one is read as hiding it."
+    },
+    {
+     "es": "Das habe ich vergessen.",
+     "en": "I forgot.",
+     "verdict": "bad",
+     "feedback": "You did not. She is about to say so, and the difference between forgetting and not saying is the whole argument."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Das ist schade.",
+   "en": "That is a shame.",
+   "options": [
+    {
+     "es": "Nichts sagen und warten.",
+     "en": "Say nothing and wait.",
+     "verdict": "good",
+     "feedback": "Schade is a very big word here. Explaining over the top of it is the second mistake."
+    },
+    {
+     "es": "Es war keine Absicht.",
+     "en": "It was not deliberate.",
+     "verdict": "bad",
+     "feedback": "Three minutes of explaining. She let you do it once and it did not help either of you."
+    },
+    {
+     "es": "Ja. Das ist es.",
+     "en": "Yes. It is.",
+     "verdict": "good",
+     "feedback": "Agreeing with the size of it. That is more than an apology and it takes four words."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Du hast es nicht vergessen. Du hast es nicht gesagt.",
+   "en": "You did not forget. You did not say it.",
+   "options": [
+    {
+     "es": "Du hast recht.",
+     "en": "You are right.",
+     "verdict": "good",
+     "feedback": "She is right. Forgetting is an accident and not saying is a small decision, and she named it exactly."
+    },
+    {
+     "es": "So habe ich das nicht gemeint.",
+     "en": "I did not mean it that way.",
+     "verdict": "ok",
+     "feedback": "The sentence for a misunderstanding, and this is not one. She will say doch."
+    },
+    {
+     "es": "Das ist doch das Gleiche.",
+     "en": "That is the same thing.",
+     "verdict": "bad",
+     "feedback": "It is not, and you know it is not. This is the point of the whole conversation."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Ich muss ins Spital.",
+   "en": "I have to go to the hospital.",
+   "options": [
+    {
+     "es": "Ade. Melde dich.",
+     "en": "Bye. Get in touch.",
+     "verdict": "ok",
+     "feedback": "Fair, and it hands her the next move. Nothing was arranged and now nothing is."
+    },
+    {
+     "es": "Können wir am Sonntag reden?",
+     "en": "Can we talk on Sunday?",
+     "verdict": "good",
+     "feedback": "A day. Leaving an argument with no date is the thing that makes two days feel like a month."
+    },
+    {
+     "es": "Geh nicht.",
+     "en": "Do not go.",
+     "verdict": "bad",
+     "feedback": "It is true that she is using it as a way out. It is also a night shift, and it starts at seven."
+    }
+   ]
+  }
+ ]
+}

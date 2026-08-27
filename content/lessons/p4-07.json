@@ -1,0 +1,337 @@
+{
+ "id": "p4-07",
+ "title": "Der erste Streit",
+ "desc": "Something small, badly handled",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "reden",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Es ist wegen einer Sache mit dem Samstag gegangen.",
+   "e": "It was about something to do with the Saturday."
+  },
+  {
+   "s": "Ich habe mit Timo etwas abgemacht.",
+   "e": "I arranged something with Timo."
+  },
+  {
+   "s": "Ich habe es Selina nicht gesagt.",
+   "e": "I did not tell Selina."
+  },
+  {
+   "s": "Nicht absichtlich. Ich habe es vergessen.",
+   "e": "Not on purpose. I forgot."
+  },
+  {
+   "s": "Sie hatte für den Samstag auch etwas.",
+   "e": "She had something for the Saturday too."
+  },
+  {
+   "s": "Sie hat es mir am Donnerstag gesagt.",
+   "e": "She told me on Thursday."
+  },
+  {
+   "s": "Ich habe gesagt: Ich kann nicht.",
+   "e": "I said: I cannot."
+  },
+  {
+   "s": "Sie hat gefragt: Warum nicht?",
+   "e": "She asked: why not?"
+  },
+  {
+   "s": "Ich habe gesagt: Ich bin mit Timo verabredet.",
+   "e": "I said: I am meeting Timo."
+  },
+  {
+   "s": "Dann war es zwei Sekunden still.",
+   "e": "Then it was quiet for two seconds."
+  },
+  {
+   "s": "Sie hat gesagt: Seit wann?",
+   "e": "She said: since when?"
+  },
+  {
+   "s": "Ich habe gesagt: Seit Montag.",
+   "e": "I said: since Monday."
+  },
+  {
+   "s": "Sie hat nichts gesagt.",
+   "e": "She said nothing."
+  },
+  {
+   "s": "Sie hat wirklich nichts gesagt.",
+   "e": "She really said nothing."
+  },
+  {
+   "s": "Ein Streit hier ist sehr leise.",
+   "e": "An argument here is very quiet."
+  },
+  {
+   "s": "Niemand wird laut.",
+   "e": "Nobody gets loud."
+  },
+  {
+   "s": "Niemand sagt ein grosses Wort.",
+   "e": "Nobody says a big word."
+  },
+  {
+   "s": "Zu Hause wird man laut und dann ist es vorbei.",
+   "e": "At home people get loud and then it is over."
+  },
+  {
+   "s": "Hier wird man leise und es ist nicht vorbei.",
+   "e": "Here people go quiet and it is not over."
+  },
+  {
+   "s": "Das ist viel schlimmer.",
+   "e": "That is much worse."
+  },
+  {
+   "s": "Mit Geschrei ist es einfacher.",
+   "e": "With shouting it is easier."
+  },
+  {
+   "s": "Nach einer Minute hat sie geredet.",
+   "e": "After a minute she spoke."
+  },
+  {
+   "s": "Sie hat ganz normal geredet.",
+   "e": "She spoke quite normally."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist schade.",
+   "e": "She said: that is a shame."
+  },
+  {
+   "s": "Schade ist hier ein sehr grosses Wort.",
+   "e": "Schade is a very big word here."
+  },
+  {
+   "s": "Es tönt klein und es tut weh.",
+   "e": "It sounds small and it hurts."
+  },
+  {
+   "s": "Ich habe angefangen zu erklären.",
+   "e": "I started to explain."
+  },
+  {
+   "s": "Das war der zweite Fehler.",
+   "e": "That was the second mistake."
+  },
+  {
+   "s": "Ich habe gesagt: Timo hat mich gefragt und ich habe nicht nachgedacht.",
+   "e": "I said: Timo asked me and I did not think."
+  },
+  {
+   "s": "Ich habe gesagt: Es war keine Absicht.",
+   "e": "I said: it was not deliberate."
+  },
+  {
+   "s": "Ich habe drei Minuten geredet.",
+   "e": "I talked for three minutes."
+  },
+  {
+   "s": "Sie hat mich reden lassen.",
+   "e": "She let me talk."
+  },
+  {
+   "s": "Am Schluss hat sie gesagt: Ja.",
+   "e": "At the end she said: yes."
+  },
+  {
+   "s": "Nur ja, und das war nicht gut.",
+   "e": "Just yes, and that was not good."
+  },
+  {
+   "s": "Dann hat sie gesagt: Das stimmt nicht ganz.",
+   "e": "Then she said: that is not quite right."
+  },
+  {
+   "s": "Das stimmt nicht ist die höfliche Form für nein.",
+   "e": "Das stimmt nicht is the polite form for no."
+  },
+  {
+   "s": "Man sagt nicht: Du lügst.",
+   "e": "You do not say: you are lying."
+  },
+  {
+   "s": "Man sagt: Das stimmt nicht ganz.",
+   "e": "You say: that is not quite right."
+  },
+  {
+   "s": "Und dann sagt man das Richtige.",
+   "e": "And then you say the right thing."
+  },
+  {
+   "s": "Sie hat gesagt: Du hast es nicht vergessen.",
+   "e": "She said: you did not forget."
+  },
+  {
+   "s": "Sie hat gesagt: Du hast es nicht gesagt.",
+   "e": "She said: you did not say it."
+  },
+  {
+   "s": "Das ist ein Unterschied.",
+   "e": "That is a difference."
+  },
+  {
+   "s": "Sie hatte recht und ich habe es sofort gewusst.",
+   "e": "She was right and I knew it at once."
+  },
+  {
+   "s": "Vergessen ist ein Unfall.",
+   "e": "Forgetting is an accident."
+  },
+  {
+   "s": "Nicht sagen ist eine kleine Entscheidung.",
+   "e": "Not saying is a small decision."
+  },
+  {
+   "s": "Ich habe mich für zwei Tage entschieden.",
+   "e": "I made a decision for two days."
+  },
+  {
+   "s": "Ich habe gedacht: Ich sage es später.",
+   "e": "I thought: I will say it later."
+  },
+  {
+   "s": "Später ist Donnerstag geworden.",
+   "e": "Later became Thursday."
+  },
+  {
+   "s": "Ein Streit hier ist sehr genau.",
+   "e": "An argument here is very precise."
+  },
+  {
+   "s": "Niemand sagt: Du machst das immer.",
+   "e": "Nobody says: you always do that."
+  },
+  {
+   "s": "Niemand sagt: Du bist so.",
+   "e": "Nobody says: you are like that."
+  },
+  {
+   "s": "Man sagt: Am Montag hast du das gemacht.",
+   "e": "You say: on Monday you did this."
+  },
+  {
+   "s": "Eine Sache, ein Tag, ein Satz.",
+   "e": "One thing, one day, one sentence."
+  },
+  {
+   "s": "Das ist sehr fair und es ist nicht angenehm.",
+   "e": "That is very fair and it is not pleasant."
+  },
+  {
+   "s": "Gegen immer kann man reden.",
+   "e": "You can argue against always."
+  },
+  {
+   "s": "Gegen am Montag um sechs kann man nichts sagen.",
+   "e": "Against on Monday at six there is nothing to say."
+  },
+  {
+   "s": "Ich habe gesagt: So habe ich das nicht gemeint.",
+   "e": "I said: I did not mean it that way."
+  },
+  {
+   "s": "Das ist der Satz für ein Missverständnis.",
+   "e": "That is the sentence for a misunderstanding."
+  },
+  {
+   "s": "Es war aber kein Missverständnis.",
+   "e": "But it was not a misunderstanding."
+  },
+  {
+   "s": "Sie hat gesagt: Doch. Genau so.",
+   "e": "She said: yes it was. Exactly that way."
+  },
+  {
+   "s": "Doch ist das Wort gegen ein Nein.",
+   "e": "Doch is the word against a no."
+  },
+  {
+   "s": "Es dreht einen ganzen Satz um.",
+   "e": "It turns a whole sentence round."
+  },
+  {
+   "s": "Du hast nichts gesagt. Doch.",
+   "e": "You said nothing. Yes I did."
+  },
+  {
+   "s": "Das ist nicht schlimm. Doch.",
+   "e": "That is not bad. Yes it is."
+  },
+  {
+   "s": "Ein Wort und alles steht auf der anderen Seite.",
+   "e": "One word and everything is on the other side."
+  },
+  {
+   "s": "Nach zehn Minuten hat sie auf die Uhr geschaut.",
+   "e": "After ten minutes she looked at her watch."
+  },
+  {
+   "s": "Sie hat gesagt: Ich muss ins Spital.",
+   "e": "She said: I have to go to the hospital."
+  },
+  {
+   "s": "Das war wahr und es war auch ein Ausweg.",
+   "e": "That was true and it was also a way out."
+  },
+  {
+   "s": "Sie ist gegangen und wir haben nichts abgemacht.",
+   "e": "She left and we arranged nothing."
+  },
+  {
+   "s": "Kein neues Datum, kein bis morgen.",
+   "e": "No new date, no see you tomorrow."
+  },
+  {
+   "s": "An der Tür hat sie Ade gesagt.",
+   "e": "At the door she said Ade."
+  },
+  {
+   "s": "Ade und nicht bis bald.",
+   "e": "Ade and not see you soon."
+  },
+  {
+   "s": "Ich bin allein in ihrer Küche gestanden.",
+   "e": "I stood alone in her kitchen."
+  },
+  {
+   "s": "Die zwei Tassen sind noch auf dem Tisch gestanden.",
+   "e": "The two cups were still on the table."
+  },
+  {
+   "s": "Ich habe sie gespült und hingestellt.",
+   "e": "I washed them and put them away."
+  },
+  {
+   "s": "Dann bin ich auch gegangen.",
+   "e": "Then I left too."
+  },
+  {
+   "s": "Auf der Strasse habe ich das Handy angeschaut.",
+   "e": "In the street I looked at my phone."
+  },
+  {
+   "s": "Keine Nachricht.",
+   "e": "No message."
+  },
+  {
+   "s": "Am Abend auch keine.",
+   "e": "None in the evening either."
+  },
+  {
+   "s": "Ich habe drei Nachrichten geschrieben und keine geschickt.",
+   "e": "I wrote three messages and sent none."
+  },
+  {
+   "s": "Alle drei waren zu lang.",
+   "e": "All three were too long."
+  }
+ ]
+}

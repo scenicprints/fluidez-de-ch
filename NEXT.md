@@ -1,6 +1,6 @@
 # START HERE — where the German course stands
 
-**Phases 0 to 3 are written. The plan is finished and it is not up for
+**Phases 0 to 4 are written. The plan is finished and it is not up for
 relitigating.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
@@ -10,7 +10,7 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **192** | 8 phases, **86 written** (phases 0 to 3 complete) |
+| Stories planned | **192** | 8 phases, **122 written** (phases 0 to 4 complete) |
 | App support | **shipped** | v2.8.25, mascot + palette + English interface + switcher |
 | Stories on people | **62** | phases 4 and 5, a third of the course |
 
@@ -401,6 +401,77 @@ Two smaller ones fixed at the same time:
   scene could push a pattern over its threshold and the pattern would sit
   reading "0 more words to go" and stay locked until a lesson happened to be
   read next. `answerScene` calls `checkPatterns()` now.
+
+## 19. Phase 4 — Close to the Heart, 36 stories, DONE 2026-08-27
+
+The largest phase in the course and the one `HANDOFF.md` §1 says the whole
+thing exists for.
+
+| | | |
+|---|---|---|
+| Stories | **122** total | 36 new, 20,400 running words |
+| Dictionary | **1,905** | +326 |
+| Verbs | **386** | +90, every form stated |
+| Patterns | **44** | +9 |
+| Scenes | **37** | +9 |
+| Blüemli | **90** lines | +9 |
+| Tappable | **98.5%** whole course | |
+| Warm-ups | 548 words, 0 stories with none | |
+
+Selina, four hours of conversation you cannot afterwards remember, and three
+things you can. **The Odermatts arrive**: Kurt, who asks two questions in five
+hours and both of them matter; Marianne, who asks forty and one of them is
+about your pension; Reto, who is rude exactly once and is not defended; and
+Hedi at ninety-one, who tells a stranger the thing she has never told her own
+daughter, because a stranger is a safe place for a story.
+
+The phase is the emotional register: the first argument nobody raises their
+voice in, an apology that has to name the thing, two days of silence that both
+people think they are giving as a kindness, a permit with a date on it, and a
+sentence about ten years' time said while cleaning a floor.
+
+### The call that had to be made, and it is reversible
+
+**Subordinate clauses arrive here, at `p4-10`, with a pattern card.** The
+spine asks for them in three places (`dass` in `p4-10`, `wenn/dann` in
+`p4-24`, "subordinate clauses under pressure" in `p4-31`), and the content
+genuinely requires them: you cannot write *I thought you meant something else*
+without one. `HANDOFF.md` §4 labels phase 5 "subordinate clauses, Konjunktiv
+II", and this is the third phase running where the two documents disagreed.
+
+The resolution: **phases 0 to 3 and `p4-01` to `p4-09` stay clean**, so the
+`dass` in `p4-10` lands as an event and gets named on the page. **Konjunktiv
+II is untouched and stays in phase 5**, along with the systematic treatment.
+Flagged to Kevin at the start of the phase; reversible by rewriting nine
+stories rather than thirty-six.
+
+### What the phase taught about writing the next one
+
+- **The recycling number is now a per-story rate, and it is falling.** 44 cards
+  after phase 2, 28 after phase 3, **32 after phase 4** — but phase 4 is 36
+  stories, so per story it is the lowest yet. 103 sentences closed it.
+- **Every sweep breaks something.** `Glocke` fell out the moment a phase 4
+  sentence mentioned bells, exactly the way `Nacht` and `Maschine` did in phase
+  2 and phase 3. Re-run RETURN after the sweep, every time. It is now three for
+  three.
+- **A phase this size passes coverage on the first run.** Not one story fired,
+  across 36. Writing 80 sentences of ordinary vocabulary around 10 new words is
+  a rate that works, and it is the same rate phases 1 to 3 settled on.
+- **The dialect rule bites in unexpected places.** A draft of `p4-20` wrote
+  *es guets Neus* to teach the New Year greeting. Attested, and still an
+  invented-orthography entry in a course that has none. Cut, and the point is
+  made without it.
+
+### Known and small
+
+- **`Stock` is still a floor and a ski pole**, carried over from phase 3.
+- **`aufpassen` and `aufwachen` have now gone four phases at one use each.**
+  Phase 5 or drop them.
+- **Nobody can fact-check the emotional register**, which is the same standing
+  risk as the vocabulary and it is larger here. *Schade* as a heavy word,
+  *im Unrecht sein* as very rare, praise arriving through three other people:
+  all of it is judgement, all of it is consistent with what the earlier phases
+  claim, and none of it is verified.
 
 ## 18. Phase 3 — Getting About, 21 stories, DONE 2026-08-27
 

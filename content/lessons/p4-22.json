@@ -1,0 +1,365 @@
+{
+ "id": "p4-22",
+ "title": "Eine schlechte Woche",
+ "desc": "Nothing wrong, everything heavy",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Februar",
+  "gehen"
+ ],
+ "sn": [
+  {
+   "s": "Im Februar war eine Woche schlecht.",
+   "e": "In February one week was bad."
+  },
+  {
+   "s": "Es ist nichts passiert.",
+   "e": "Nothing happened."
+  },
+  {
+   "s": "Das ist genau das Problem daran.",
+   "e": "That is exactly the problem with it."
+  },
+  {
+   "s": "Bei etwas Schlimmem kann man etwas sagen.",
+   "e": "With something bad you can say something."
+  },
+  {
+   "s": "Bei nichts kann man nichts sagen.",
+   "e": "With nothing you can say nothing."
+  },
+  {
+   "s": "Es war grau seit sechzehn Tagen.",
+   "e": "It had been grey for sixteen days."
+  },
+  {
+   "s": "Das Nebelmeer lag über der ganzen Stadt.",
+   "e": "The sea of fog lay over the whole town."
+  },
+  {
+   "s": "Um acht Uhr am Morgen ist es dunkel.",
+   "e": "At eight in the morning it is dark."
+  },
+  {
+   "s": "Um halb fünf ist es wieder dunkel.",
+   "e": "At half past four it is dark again."
+  },
+  {
+   "s": "Dazwischen ist es grau.",
+   "e": "In between it is grey."
+  },
+  {
+   "s": "Ich kenne das jetzt und es hilft nichts.",
+   "e": "I know that now and it does not help."
+  },
+  {
+   "s": "Man fragt hier jeden Tag: Wie geht es?",
+   "e": "Here people ask every day: how are you?"
+  },
+  {
+   "s": "Und alle antworten: Gut, danke.",
+   "e": "And everybody answers: good, thank you."
+  },
+  {
+   "s": "Das ist keine Frage und keine Antwort.",
+   "e": "That is not a question and not an answer."
+  },
+  {
+   "s": "Es ist ein Gruss mit mehr Wörtern.",
+   "e": "It is a greeting with more words."
+  },
+  {
+   "s": "Aber es gibt eine Skala darunter.",
+   "e": "But there is a scale underneath it."
+  },
+  {
+   "s": "Gut ist die normale Antwort.",
+   "e": "Gut is the normal answer."
+  },
+  {
+   "s": "Sehr gut ist verdächtig.",
+   "e": "Sehr gut is suspicious."
+  },
+  {
+   "s": "Es geht heisst: es geht nicht besonders.",
+   "e": "Es geht means: it is not going particularly well."
+  },
+  {
+   "s": "Nicht so gut heisst: es ist etwas los.",
+   "e": "Nicht so gut means: something is up."
+  },
+  {
+   "s": "Und mies heisst: es ist wirklich schlecht.",
+   "e": "And mies means: it is really bad."
+  },
+  {
+   "s": "Zwischen gut und mies liegt ein ganzer Winter.",
+   "e": "Between gut and mies lies a whole winter."
+  },
+  {
+   "s": "Es geht ist das wichtigste von allen.",
+   "e": "Es geht is the most important of them."
+  },
+  {
+   "s": "Es ist zwei Wörter und es sagt sehr viel.",
+   "e": "It is two words and it says a great deal."
+  },
+  {
+   "s": "Es sagt: Frag noch einmal.",
+   "e": "It says: ask again."
+  },
+  {
+   "s": "Wer es geht sagt, will vielleicht reden.",
+   "e": "Somebody who says es geht may want to talk."
+  },
+  {
+   "s": "Wer gut sagt, will sicher nicht.",
+   "e": "Somebody who says gut definitely does not."
+  },
+  {
+   "s": "Am Mittwoch hat Marco mich gefragt.",
+   "e": "On Wednesday Marco asked me."
+  },
+  {
+   "s": "Er hat gefragt: Und? Alles gut?",
+   "e": "He asked: and? All good?"
+  },
+  {
+   "s": "Ich habe zum ersten Mal ehrlich geantwortet.",
+   "e": "For the first time I answered honestly."
+  },
+  {
+   "s": "Am Steg unten sitzt niemand im Februar.",
+   "e": "Nobody sits at the landing stage in February."
+  },
+  {
+   "s": "Es hat vierzehn Tage lang geregnet.",
+   "e": "It rained for fourteen days."
+  },
+  {
+   "s": "Ich gehe im Februar lieber gar nicht hinaus.",
+   "e": "In February I would rather not go out at all."
+  },
+  {
+   "s": "Selina geht in dieser Zeit oft zum Arzt.",
+   "e": "At that time of year Selina often goes to the doctor."
+  },
+  {
+   "s": "Nicht für sich. Für die Leute auf der Station.",
+   "e": "Not for herself. For the people on the ward."
+  },
+  {
+   "s": "Ich habe gesagt: Es geht so.",
+   "e": "I said: it is going all right."
+  },
+  {
+   "s": "Er hat aufgehört zu tippen.",
+   "e": "He stopped typing."
+  },
+  {
+   "s": "Er hat sich umgedreht.",
+   "e": "He turned round."
+  },
+  {
+   "s": "Er hat gefragt: Was ist?",
+   "e": "He asked: what is it?"
+  },
+  {
+   "s": "Zwei Wörter und der ganze Nachmittag war anders.",
+   "e": "Two words and the whole afternoon was different."
+  },
+  {
+   "s": "Ich habe gesagt: Nichts. Der Nebel.",
+   "e": "I said: nothing. The fog."
+  },
+  {
+   "s": "Er hat genickt.",
+   "e": "He nodded."
+  },
+  {
+   "s": "Er hat gesagt: Ja. Der Februar ist der schlimmste.",
+   "e": "He said: yes. February is the worst."
+  },
+  {
+   "s": "Er hat gesagt: Im Januar geht es noch.",
+   "e": "He said: in January it is still all right."
+  },
+  {
+   "s": "Er hat gesagt: Im Februar hat man genug.",
+   "e": "He said: in February you have had enough."
+  },
+  {
+   "s": "Er hat gesagt: Alle sind so. Nicht nur du.",
+   "e": "He said: everybody is like that. Not just you."
+  },
+  {
+   "s": "Das war das Beste an dem ganzen Gespräch.",
+   "e": "That was the best part of the whole conversation."
+  },
+  {
+   "s": "Nicht: Es wird besser.",
+   "e": "Not: it will get better."
+  },
+  {
+   "s": "Nicht: Denk positiv.",
+   "e": "Not: think positive."
+  },
+  {
+   "s": "Sondern: Alle sind so.",
+   "e": "But: everybody is like that."
+  },
+  {
+   "s": "Am Nachmittag hat er mir einen Kaffee gebracht.",
+   "e": "In the afternoon he brought me a coffee."
+  },
+  {
+   "s": "Er hat nichts dazu gesagt.",
+   "e": "He said nothing about it."
+  },
+  {
+   "s": "Am Donnerstag war ich bei Selina.",
+   "e": "On Thursday I was at Selina's."
+  },
+  {
+   "s": "Sie hat mich angeschaut und nichts gefragt.",
+   "e": "She looked at me and asked nothing."
+  },
+  {
+   "s": "Sie hat Suppe gemacht.",
+   "e": "She made soup."
+  },
+  {
+   "s": "Wir haben zwei Stunden fast nichts geredet.",
+   "e": "We hardly talked for two hours."
+  },
+  {
+   "s": "Sie hat die Musik angemacht und ein Buch genommen.",
+   "e": "She put music on and picked up a book."
+  },
+  {
+   "s": "Ich bin am Fenster gesessen.",
+   "e": "I sat at the window."
+  },
+  {
+   "s": "Sie hat nicht gefragt, was los ist.",
+   "e": "She did not ask what was wrong."
+  },
+  {
+   "s": "Sie hat es einfach ausgehalten.",
+   "e": "She simply put up with it."
+  },
+  {
+   "s": "Das ist mehr als jede Frage.",
+   "e": "That is more than any question."
+  },
+  {
+   "s": "Um zehn hat sie etwas gesagt.",
+   "e": "At ten she said something."
+  },
+  {
+   "s": "Sie hat gesagt: Am Samstag gehen wir hinauf.",
+   "e": "She said: on Saturday we are going up."
+  },
+  {
+   "s": "Sie hat gesagt: Über den Nebel.",
+   "e": "She said: above the fog."
+  },
+  {
+   "s": "Sie hat gesagt: Zwei Stunden Sonne.",
+   "e": "She said: two hours of sun."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist keine Idee. Das ist ein Rezept.",
+   "e": "She said: that is not an idea. That is a prescription."
+  },
+  {
+   "s": "Am Samstag sind wir hinaufgegangen.",
+   "e": "On Saturday we went up."
+  },
+  {
+   "s": "Nach siebzig Minuten sind wir aus dem Nebel gekommen.",
+   "e": "After seventy minutes we came out of the fog."
+  },
+  {
+   "s": "Oben war es blau und still.",
+   "e": "At the top it was blue and quiet."
+  },
+  {
+   "s": "Wir sind zwei Stunden in der Sonne gesessen.",
+   "e": "We sat in the sun for two hours."
+  },
+  {
+   "s": "Wir haben fast nichts gesagt.",
+   "e": "We hardly said anything."
+  },
+  {
+   "s": "Es hat gewirkt.",
+   "e": "It worked."
+  },
+  {
+   "s": "Es hat nicht alles gelöst.",
+   "e": "It did not solve everything."
+  },
+  {
+   "s": "Es hat vier Tage gehalten.",
+   "e": "It lasted four days."
+  },
+  {
+   "s": "Vier Tage sind im Februar sehr viel.",
+   "e": "Four days are a great deal in February."
+  },
+  {
+   "s": "Sie hat gesagt: Darum machen das alle.",
+   "e": "She said: that is why everybody does it."
+  },
+  {
+   "s": "Sie hat gesagt: Es ist kein Ausflug.",
+   "e": "She said: it is not an outing."
+  },
+  {
+   "s": "Sie hat gesagt: Es ist Arbeit gegen den Winter.",
+   "e": "She said: it is work against the winter."
+  },
+  {
+   "s": "Im März ist es besser geworden.",
+   "e": "In March it got better."
+  },
+  {
+   "s": "Nicht wegen einer Sache.",
+   "e": "Not because of one thing."
+  },
+  {
+   "s": "Der Nebel ist gegangen und das Licht ist gekommen.",
+   "e": "The fog went and the light came."
+  },
+  {
+   "s": "Am achtzehnten März sind alle draussen gesessen.",
+   "e": "On the eighteenth of March everybody was sitting outside."
+  },
+  {
+   "s": "Es war zwölf Grad und alle hatten frei.",
+   "e": "It was twelve degrees and everybody had time off."
+  },
+  {
+   "s": "Die ganze Stadt am Wasser, an einem Dienstag.",
+   "e": "The whole town by the water, on a Tuesday."
+  },
+  {
+   "s": "Das erste Mal seit vier Monaten.",
+   "e": "The first time in four months."
+  },
+  {
+   "s": "Marco hat am Mittwoch gefragt: Und? Alles gut?",
+   "e": "On Wednesday Marco asked: and? All good?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja. Wirklich.",
+   "e": "I said: yes. Really."
+  },
+  {
+   "s": "Er hat gesagt: Siehst du.",
+   "e": "He said: you see."
+  }
+ ]
+}

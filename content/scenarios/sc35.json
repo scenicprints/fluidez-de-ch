@@ -1,0 +1,109 @@
+{
+ "id": "sc35",
+ "title": "Der Vierundzwanzigste",
+ "desc": "Nine people, real candles, and a bucket",
+ "setting": "A living room in Kriens at six in the evening, a tree with actual fire on it, and the lights going off.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Selina",
+   "es": "Für jeden etwas Kleines. Zwanzig Franken.",
+   "en": "Something small for everybody. Twenty francs.",
+   "options": [
+    {
+     "es": "Ist das nicht zu wenig?",
+     "en": "Is that not too little?",
+     "verdict": "ok",
+     "feedback": "It is not. A present that is too big makes pressure, and everybody at that table knows the number."
+    },
+    {
+     "es": "Gut. Neun mal zwanzig.",
+     "en": "Good. Nine times twenty.",
+     "verdict": "good",
+     "feedback": "Nine people and a ceiling. That is the whole brief and it is a kindness to be given it."
+    },
+    {
+     "es": "Ich kaufe deinen Eltern etwas Richtiges.",
+     "en": "I will buy your parents something proper.",
+     "verdict": "bad",
+     "feedback": "The screwdriver from the Brockenhaus cost eight francs and he still uses it. Price is not the axis here."
+    }
+   ]
+  },
+  {
+   "speaker": "Marianne",
+   "es": "So. Zuerst die Geschenke.",
+   "en": "Right. Presents first.",
+   "options": [
+    {
+     "es": "Nichts sagen und zuschauen.",
+     "en": "Say nothing and watch.",
+     "verdict": "good",
+     "feedback": "One at a time, everybody watching, an hour for nine people. Sitting through it is the participation."
+    },
+    {
+     "es": "Sollen wir nicht zuerst essen?",
+     "en": "Should we not eat first?",
+     "verdict": "bad",
+     "feedback": "No. Presents, then three hours of fondue. The order is not negotiable and nobody will explain it."
+    },
+    {
+     "es": "Wer fängt an?",
+     "en": "Who starts?",
+     "verdict": "ok",
+     "feedback": "Somebody will. Asking is fine and the answer is already decided and nobody said so."
+    }
+   ]
+  },
+  {
+   "speaker": "Kurt",
+   "es": "Der ist von vor dem Krieg. Den gibt es heute nicht mehr.",
+   "en": "That is from before the war. They do not make those any more.",
+   "options": [
+    {
+     "es": "Nichts sagen und nicken.",
+     "en": "Say nothing and nod.",
+     "verdict": "good",
+     "feedback": "That is the longest sentence he will say all evening. It is also, from him, the whole thank you."
+    },
+    {
+     "es": "Ich habe ihn im Brockenhaus gefunden.",
+     "en": "I found it in the Brockenhaus.",
+     "verdict": "good",
+     "feedback": "He will like that better than a shop. Say it plainly and stop."
+    },
+    {
+     "es": "Gefällt er Ihnen wirklich?",
+     "en": "Do you really like it?",
+     "verdict": "bad",
+     "feedback": "He said two sentences about a screwdriver. Asking again makes him say a third, and he will not."
+    }
+   ]
+  },
+  {
+   "speaker": "Grossmutter",
+   "es": "Grau. Für einen Mann geht nur grau.",
+   "en": "Grey. For a man only grey will do.",
+   "options": [
+    {
+     "es": "Merci vielmal. Die sind schön.",
+     "en": "Thank you very much. They are lovely.",
+     "verdict": "good",
+     "feedback": "She started them in October, before she had met you. That is the part the socks are actually about."
+    },
+    {
+     "es": "Haben Sie die selber gemacht?",
+     "en": "Did you make them yourself?",
+     "verdict": "good",
+     "feedback": "She did, and she has been waiting all evening for somebody to ask."
+    },
+    {
+     "es": "Ich mag auch blau.",
+     "en": "I like blue too.",
+     "verdict": "bad",
+     "feedback": "She is ninety-one, she has an opinion about wool, and this is not the moment to test it."
+    }
+   ]
+  }
+ ]
+}

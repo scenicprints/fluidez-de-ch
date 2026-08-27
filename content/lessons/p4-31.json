@@ -1,0 +1,344 @@
+{
+ "id": "p4-31",
+ "title": "Der Streit, der zählt",
+ "desc": "The argument that is about the real thing",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "können"
+ ],
+ "sn": [
+  {
+   "s": "Der erste Streit war klein und schnell vorbei.",
+   "e": "The first argument was small and quickly over."
+  },
+  {
+   "s": "Der zweite war etwas anderes.",
+   "e": "The second was something else."
+  },
+  {
+   "s": "Er ist im Juli gekommen und er hat drei Stunden gedauert.",
+   "e": "It came in July and it lasted three hours."
+  },
+  {
+   "s": "Er hat mit einer Kleinigkeit angefangen.",
+   "e": "It started with a triviality."
+  },
+  {
+   "s": "So fangen alle grossen Streits an.",
+   "e": "That is how all big arguments start."
+  },
+  {
+   "s": "Ich habe meiner Mutter am Telefon etwas gesagt.",
+   "e": "I said something to my mother on the phone."
+  },
+  {
+   "s": "Ich habe gesagt: Vielleicht komme ich im Herbst.",
+   "e": "I said: maybe I will come in the autumn."
+  },
+  {
+   "s": "Selina war im Zimmer.",
+   "e": "Selina was in the room."
+  },
+  {
+   "s": "Sie hat es gehört.",
+   "e": "She heard it."
+  },
+  {
+   "s": "Nach dem Telefon hat sie gefragt: Im Herbst?",
+   "e": "After the call she asked: in the autumn?"
+  },
+  {
+   "s": "Ich habe gesagt: Vielleicht. Für zwei Wochen.",
+   "e": "I said: maybe. For two weeks."
+  },
+  {
+   "s": "Sie hat gesagt: Und das sagst du zuerst deiner Mutter.",
+   "e": "She said: and you say that to your mother first."
+  },
+  {
+   "s": "Sie hat es ruhig gesagt.",
+   "e": "She said it calmly."
+  },
+  {
+   "s": "Genau da hat es angefangen.",
+   "e": "That is exactly where it started."
+  },
+  {
+   "s": "Ich habe zuerst über die zwei Wochen geredet.",
+   "e": "At first I talked about the two weeks."
+  },
+  {
+   "s": "Ich habe erklärt, dass es nur ein Besuch ist.",
+   "e": "I explained that it is only a visit."
+  },
+  {
+   "s": "Sie hat mich reden lassen.",
+   "e": "She let me talk."
+  },
+  {
+   "s": "Dann hat sie gesagt: Darum geht es nicht.",
+   "e": "Then she said: that is not what this is about."
+  },
+  {
+   "s": "Darum geht es nicht ist ein sehr gefährlicher Satz.",
+   "e": "Darum geht es nicht is a very dangerous sentence."
+  },
+  {
+   "s": "Er heisst: du redest über das Falsche.",
+   "e": "It means: you are talking about the wrong thing."
+  },
+  {
+   "s": "Und er heisst: ich sage dir jetzt das Richtige.",
+   "e": "And it means: I am going to tell you the right thing now."
+  },
+  {
+   "s": "Sie hat gesagt: Du redest mit deiner Mutter anders.",
+   "e": "She said: you talk to your mother differently."
+  },
+  {
+   "s": "Sie hat gesagt: Du redest auf Englisch anders.",
+   "e": "She said: you talk differently in English."
+  },
+  {
+   "s": "Sie hat gesagt: Du bist dann ein anderer Mensch.",
+   "e": "She said: you are a different person then."
+  },
+  {
+   "s": "Das war der Satz, um den es die ganze Zeit gegangen ist.",
+   "e": "That was the sentence the whole thing had been about."
+  },
+  {
+   "s": "Ich habe gesagt: Das stimmt nicht.",
+   "e": "I said: that is not true."
+  },
+  {
+   "s": "Sie hat gesagt: Doch.",
+   "e": "She said: yes it is."
+  },
+  {
+   "s": "Und sie hatte recht.",
+   "e": "And she was right."
+  },
+  {
+   "s": "Auf Deutsch bin ich langsam und einfach und ehrlich.",
+   "e": "In German I am slow and simple and honest."
+  },
+  {
+   "s": "Auf Englisch bin ich schnell und ich weiche aus.",
+   "e": "In English I am fast and I dodge."
+  },
+  {
+   "s": "Ich kann auf Englisch um alles herumreden.",
+   "e": "In English I can talk around anything."
+  },
+  {
+   "s": "Auf Deutsch kann ich das nicht.",
+   "e": "In German I cannot."
+  },
+  {
+   "s": "Sie hat gesagt: Ich kenne den langsamen Menschen.",
+   "e": "She said: I know the slow person."
+  },
+  {
+   "s": "Sie hat gesagt: Den anderen kenne ich nicht.",
+   "e": "She said: I do not know the other one."
+  },
+  {
+   "s": "Sie hat gefragt: Welcher bist du?",
+   "e": "She asked: which one are you?"
+  },
+  {
+   "s": "Ich habe keine Antwort gehabt.",
+   "e": "I had no answer."
+  },
+  {
+   "s": "Ich habe zwanzig Minuten keine Antwort gehabt.",
+   "e": "For twenty minutes I had no answer."
+  },
+  {
+   "s": "In diesen zwanzig Minuten ist es schlimmer geworden.",
+   "e": "In those twenty minutes it got worse."
+  },
+  {
+   "s": "Ich habe angefangen, ihr etwas vorzuwerfen.",
+   "e": "I started throwing something back at her."
+  },
+  {
+   "s": "Ich habe gesagt: Du fragst nie, wie es mir geht.",
+   "e": "I said: you never ask how I am."
+  },
+  {
+   "s": "Draussen lag an dem Abend kein Nebel.",
+   "e": "There was no fog outside that evening."
+  },
+  {
+   "s": "Das war nicht wahr und es war auch nicht ganz falsch.",
+   "e": "That was not true and it was also not entirely false."
+  },
+  {
+   "s": "Sie ist zwei Sekunden still gewesen.",
+   "e": "She was quiet for two seconds."
+  },
+  {
+   "s": "Dann hat sie gesagt: Das ist ein anderes Thema.",
+   "e": "Then she said: that is a different subject."
+  },
+  {
+   "s": "Sie hat gesagt: Wir machen es nachher.",
+   "e": "She said: we will do it afterwards."
+  },
+  {
+   "s": "Und sie hat es nachher wirklich gemacht.",
+   "e": "And she really did do it afterwards."
+  },
+  {
+   "s": "Sie hat zwei Themen nacheinander gemacht.",
+   "e": "She did two subjects one after the other."
+  },
+  {
+   "s": "Das kann fast niemand.",
+   "e": "Almost nobody can do that."
+  },
+  {
+   "s": "Es war nie laut.",
+   "e": "It was never loud."
+  },
+  {
+   "s": "Niemand hat geschrien.",
+   "e": "Nobody shouted."
+  },
+  {
+   "s": "Es war die ganze Zeit sehr genau.",
+   "e": "It was very precise the whole time."
+  },
+  {
+   "s": "Nach zwei Stunden haben wir beide das Wahre gesagt.",
+   "e": "After two hours we both said the true thing."
+  },
+  {
+   "s": "Fast gleichzeitig.",
+   "e": "Almost at the same time."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe Angst, dass ich hier nie ganz ankomme.",
+   "e": "I said: I am afraid that I will never fully arrive here."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe Angst, dass du wieder gehst.",
+   "e": "She said: I am afraid that you will leave again."
+  },
+  {
+   "s": "Zwei Sätze und der ganze Streit war erklärt.",
+   "e": "Two sentences and the whole argument was explained."
+  },
+  {
+   "s": "Und danach war es schlimmer.",
+   "e": "And afterwards it was worse."
+  },
+  {
+   "s": "Das habe ich vorher nicht gewusst.",
+   "e": "I did not know that beforehand."
+  },
+  {
+   "s": "Vor dem wahren Satz hofft man noch.",
+   "e": "Before the true sentence you can still hope."
+  },
+  {
+   "s": "Nach dem wahren Satz liegt er auf dem Tisch.",
+   "e": "After the true sentence it is lying on the table."
+  },
+  {
+   "s": "Und niemand kann ihn wegnehmen.",
+   "e": "And nobody can take it away."
+  },
+  {
+   "s": "Um elf hat sie gesagt: Ich kann nicht mehr.",
+   "e": "At eleven she said: I cannot do any more."
+  },
+  {
+   "s": "Sie hat nicht gesagt: Geh.",
+   "e": "She did not say: go."
+  },
+  {
+   "s": "Sie hat gesagt: Ich kann nicht mehr.",
+   "e": "She said: I cannot do any more."
+  },
+  {
+   "s": "Das ist ein Unterschied und ich habe ihn gehört.",
+   "e": "That is a difference and I heard it."
+  },
+  {
+   "s": "Ich bin gegangen.",
+   "e": "I left."
+  },
+  {
+   "s": "An der Tür haben wir beide nichts gesagt.",
+   "e": "At the door neither of us said anything."
+  },
+  {
+   "s": "Kein Ade und kein bis morgen.",
+   "e": "No Ade and no see you tomorrow."
+  },
+  {
+   "s": "Draussen war es warm und hell.",
+   "e": "Outside it was warm and light."
+  },
+  {
+   "s": "Im Juli ist es um elf noch nicht ganz dunkel.",
+   "e": "In July at eleven it is not quite dark yet."
+  },
+  {
+   "s": "Ich bin eine Stunde gelaufen.",
+   "e": "I walked for an hour."
+  },
+  {
+   "s": "Ich bin der Reuss entlang gelaufen.",
+   "e": "I walked along the Reuss."
+  },
+  {
+   "s": "Zweimal hin und zurück, wie im Januar.",
+   "e": "There and back twice, like in January."
+  },
+  {
+   "s": "Diesmal habe ich es gemerkt.",
+   "e": "This time I noticed."
+  },
+  {
+   "s": "Zu Hause habe ich neun Nachrichten geschrieben.",
+   "e": "At home I wrote nine messages."
+  },
+  {
+   "s": "Ich habe keine geschickt.",
+   "e": "I sent none."
+  },
+  {
+   "s": "Die ersten drei waren wütend.",
+   "e": "The first three were angry."
+  },
+  {
+   "s": "Die nächsten drei waren zu lang.",
+   "e": "The next three were too long."
+  },
+  {
+   "s": "Die letzten drei waren nur: Es tut mir leid.",
+   "e": "The last three were only: I am sorry."
+  },
+  {
+   "s": "Alle neun waren falsch.",
+   "e": "All nine were wrong."
+  },
+  {
+   "s": "Um zwei Uhr habe ich das Handy weggelegt.",
+   "e": "At two o'clock I put the phone down."
+  },
+  {
+   "s": "Ich habe nicht geschlafen.",
+   "e": "I did not sleep."
+  },
+  {
+   "s": "Am Morgen war keine Nachricht da.",
+   "e": "In the morning there was no message."
+  }
+ ]
+}

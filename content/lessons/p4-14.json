@@ -1,0 +1,352 @@
+{
+ "id": "p4-14",
+ "title": "Ihre Mutter fragt alles",
+ "desc": "A woman who fills all of them",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "fragen"
+ ],
+ "sn": [
+  {
+   "s": "Marianne Odermatt fragt alles.",
+   "e": "Marianne Odermatt asks everything."
+  },
+  {
+   "s": "Sie fragt es freundlich und sie fragt es sofort.",
+   "e": "She asks it kindly and she asks it at once."
+  },
+  {
+   "s": "Am ersten Sonntag hat sie mich nach der Miete gefragt.",
+   "e": "On the first Sunday she asked me about the rent."
+  },
+  {
+   "s": "Nach vierzig Minuten.",
+   "e": "After forty minutes."
+  },
+  {
+   "s": "Ich habe gedacht, dass ich falsch gehört habe.",
+   "e": "I thought that I had misheard."
+  },
+  {
+   "s": "Sie hat gefragt: Und was zahlen Sie dort?",
+   "e": "She asked: and what do you pay there?"
+  },
+  {
+   "s": "In diesem Land fragt niemand nach dem Lohn.",
+   "e": "In this country nobody asks about your pay."
+  },
+  {
+   "s": "Nach der Miete fragen alle.",
+   "e": "Everybody asks about the rent."
+  },
+  {
+   "s": "Das ist der Unterschied und ich habe ihn nicht erwartet.",
+   "e": "That is the difference and I did not expect it."
+  },
+  {
+   "s": "Der Lohn ist privat.",
+   "e": "Pay is private."
+  },
+  {
+   "s": "Die Miete ist ein Sport.",
+   "e": "Rent is a sport."
+  },
+  {
+   "s": "Alle wissen alle Mieten in ihrem Quartier.",
+   "e": "Everybody knows every rent in their neighbourhood."
+  },
+  {
+   "s": "Alle rechnen sofort im Kopf.",
+   "e": "Everybody works it out in their head at once."
+  },
+  {
+   "s": "Marianne hat gesagt: Das ist viel.",
+   "e": "Marianne said: that is a lot."
+  },
+  {
+   "s": "Sie hat gesagt: In Kriens zahlen Sie zweihundert weniger.",
+   "e": "She said: in Kriens you would pay two hundred less."
+  },
+  {
+   "s": "Das war eine Information und es war auch ein Angebot.",
+   "e": "That was information and it was also an offer."
+  },
+  {
+   "s": "Dann sind die anderen Fragen gekommen.",
+   "e": "Then the other questions came."
+  },
+  {
+   "s": "Sie hat nach meinen Eltern gefragt.",
+   "e": "She asked about my parents."
+  },
+  {
+   "s": "Sie hat nach dem Beruf von meinem Vater gefragt.",
+   "e": "She asked about my father's job."
+  },
+  {
+   "s": "Sie hat gefragt, ob ich Geschwister habe.",
+   "e": "She asked whether I have brothers or sisters."
+  },
+  {
+   "s": "Sie hat gefragt, wie oft ich nach Hause telefoniere.",
+   "e": "She asked how often I phone home."
+  },
+  {
+   "s": "Sie hat nach der Krankenkasse gefragt.",
+   "e": "She asked about my health insurance."
+  },
+  {
+   "s": "Und dann hat sie nach der Pension gefragt.",
+   "e": "And then she asked about my pension."
+  },
+  {
+   "s": "Ich bin einunddreissig.",
+   "e": "I am thirty-one."
+  },
+  {
+   "s": "Sie hat gefragt: Und die zweite Säule?",
+   "e": "She asked: and the second pillar?"
+  },
+  {
+   "s": "Ich habe die Frage nicht verstanden.",
+   "e": "I did not understand the question."
+  },
+  {
+   "s": "Die Pension hat hier drei Säulen.",
+   "e": "The pension here has three pillars."
+  },
+  {
+   "s": "Die erste ist vom Staat und alle zahlen ein.",
+   "e": "The first is from the state and everybody pays in."
+  },
+  {
+   "s": "Die zweite ist von der Firma und man sieht sie im Lohn.",
+   "e": "The second is from the employer and you see it in your pay."
+  },
+  {
+   "s": "Die dritte macht man selber und freiwillig.",
+   "e": "The third you do yourself and voluntarily."
+  },
+  {
+   "s": "Sie fragt auch nach dem Arzt.",
+   "e": "She asks about the doctor too."
+  },
+  {
+   "s": "Sie fragt nach dem Vertrag von der Arbeit.",
+   "e": "She asks about the employment contract."
+  },
+  {
+   "s": "Sie fragt, ob wir im Juni abstimmen gehen.",
+   "e": "She asks whether we are voting in June."
+  },
+  {
+   "s": "Ihr Hund ist vor zwei Jahren gestorben.",
+   "e": "Her dog died two years ago."
+  },
+  {
+   "s": "Es tut mir leid sagt sie fast nie.",
+   "e": "Es tut mir leid is something she almost never says."
+  },
+  {
+   "s": "Jedes Kind hier lernt die drei Säulen in der Schule.",
+   "e": "Every child here learns the three pillars at school."
+  },
+  {
+   "s": "Marianne hat mir die drei Säulen erklärt.",
+   "e": "Marianne explained the three pillars to me."
+  },
+  {
+   "s": "Am Esstisch, zwischen dem Braten und dem Kuchen.",
+   "e": "At the dinner table, between the roast and the cake."
+  },
+  {
+   "s": "Selina hat nichts gesagt.",
+   "e": "Selina said nothing."
+  },
+  {
+   "s": "Sie hat mich nicht gerettet.",
+   "e": "She did not rescue me."
+  },
+  {
+   "s": "Das war absichtlich.",
+   "e": "That was deliberate."
+  },
+  {
+   "s": "Sie hat mir später gesagt: Sie fragt jeden das.",
+   "e": "She told me later: she asks everybody that."
+  },
+  {
+   "s": "Sie hat gesagt: Wenn sie nicht fragt, ist es schlimm.",
+   "e": "She said: if she does not ask, that is bad."
+  },
+  {
+   "s": "Eine Frage ist hier ein Zeichen von Interesse.",
+   "e": "A question here is a sign of interest."
+  },
+  {
+   "s": "Und Interesse ist ein Zeichen von etwas anderem.",
+   "e": "And interest is a sign of something else."
+  },
+  {
+   "s": "Man muss nicht auf alles antworten.",
+   "e": "You do not have to answer everything."
+  },
+  {
+   "s": "Es gibt eine höfliche Art zum Ausweichen.",
+   "e": "There is a polite way of deflecting."
+  },
+  {
+   "s": "Man sagt: Das ist eine gute Frage.",
+   "e": "You say: that is a good question."
+  },
+  {
+   "s": "Und dann redet man über etwas daneben.",
+   "e": "And then you talk about something next to it."
+  },
+  {
+   "s": "Man sagt: Da muss ich noch schauen.",
+   "e": "You say: I still have to look into that."
+  },
+  {
+   "s": "Man sagt: Das ist bei uns ein bisschen anders.",
+   "e": "You say: that works a bit differently where I come from."
+  },
+  {
+   "s": "Alle drei sind sehr höflich und sehr klar.",
+   "e": "All three are very polite and very clear."
+  },
+  {
+   "s": "Niemand fragt danach noch einmal.",
+   "e": "Nobody asks again after that."
+  },
+  {
+   "s": "Ich habe alle drei am dritten Sonntag gebraucht.",
+   "e": "I used all three on the third Sunday."
+  },
+  {
+   "s": "Sie hat es gemerkt und sie war nicht beleidigt.",
+   "e": "She noticed and she was not offended."
+  },
+  {
+   "s": "Sie hat einfach etwas anderes gefragt.",
+   "e": "She simply asked something else."
+  },
+  {
+   "s": "Marianne ist neunundfünfzig und arbeitet in einem Laden.",
+   "e": "Marianne is fifty-nine and works in a shop."
+  },
+  {
+   "s": "Sie arbeitet dort seit dreiundzwanzig Jahren.",
+   "e": "She has worked there for twenty-three years."
+  },
+  {
+   "s": "Sie kennt jeden im Dorf und jeder kennt sie.",
+   "e": "She knows everybody in the village and everybody knows her."
+  },
+  {
+   "s": "Sie weiss, wer krank ist und wer weggezogen ist.",
+   "e": "She knows who is ill and who has moved away."
+  },
+  {
+   "s": "Sie weiss es, weil die Leute es ihr erzählen.",
+   "e": "She knows because people tell her."
+  },
+  {
+   "s": "Sie hört zu, während sie das Geld nimmt.",
+   "e": "She listens while she takes the money."
+  },
+  {
+   "s": "Das ist ihr eigentlicher Beruf.",
+   "e": "That is her real job."
+  },
+  {
+   "s": "Sie redet viel und sie sagt wenig über sich.",
+   "e": "She talks a lot and says little about herself."
+  },
+  {
+   "s": "Das habe ich erst nach einem halben Jahr gemerkt.",
+   "e": "I only noticed that after half a year."
+  },
+  {
+   "s": "Ich weiss alles über ihre Nachbarn.",
+   "e": "I know everything about her neighbours."
+  },
+  {
+   "s": "Ich weiss fast nichts über sie.",
+   "e": "I know almost nothing about her."
+  },
+  {
+   "s": "Einmal hat sie etwas gesagt.",
+   "e": "Once she said something."
+  },
+  {
+   "s": "Sie hat gesagt, dass sie mit zwanzig weg wollte.",
+   "e": "She said that she wanted to leave at twenty."
+  },
+  {
+   "s": "Nach Amerika, für ein Jahr.",
+   "e": "To America, for a year."
+  },
+  {
+   "s": "Sie hat gesagt: Dann kam Reto.",
+   "e": "She said: then Reto came."
+  },
+  {
+   "s": "Vier Wörter für eine ganze andere Welt.",
+   "e": "Four words for a whole other life."
+  },
+  {
+   "s": "Sie hat sofort weiter über den Kuchen geredet.",
+   "e": "She went straight back to talking about the cake."
+  },
+  {
+   "s": "Ich habe nicht nachgefragt.",
+   "e": "I did not ask further."
+  },
+  {
+   "s": "Ich habe zwei Wochen später gedacht, dass das falsch war.",
+   "e": "Two weeks later I thought that that had been wrong."
+  },
+  {
+   "s": "Sie fragt alles und niemand fragt sie etwas.",
+   "e": "She asks everything and nobody asks her anything."
+  },
+  {
+   "s": "Beim nächsten Sonntag habe ich gefragt.",
+   "e": "On the next Sunday I asked."
+  },
+  {
+   "s": "Ich habe gefragt: Wollten Sie nach Amerika?",
+   "e": "I asked: did you want to go to America?"
+  },
+  {
+   "s": "Sie hat zwei Sekunden nichts gesagt.",
+   "e": "For two seconds she said nothing."
+  },
+  {
+   "s": "Dann hat sie zwanzig Minuten geredet.",
+   "e": "Then she talked for twenty minutes."
+  },
+  {
+   "s": "Selina hat mich dabei angeschaut.",
+   "e": "Selina looked at me while she did."
+  },
+  {
+   "s": "Sie hat mir nachher gesagt: Das habe ich nicht gewusst.",
+   "e": "Afterwards she said to me: I did not know that."
+  },
+  {
+   "s": "Sie hat es dreissig Jahre nicht gewusst.",
+   "e": "She had not known it for thirty years."
+  },
+  {
+   "s": "Man muss hier fragen.",
+   "e": "Here you have to ask."
+  },
+  {
+   "s": "Niemand erzählt von allein.",
+   "e": "Nobody tells you of their own accord."
+  }
+ ]
+}

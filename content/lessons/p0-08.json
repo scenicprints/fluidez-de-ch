@@ -5,13 +5,14 @@
  "ph": 0,
  "diff": 1,
  "wu": [
-  "Regal",
-  "einkaufen",
   "Schokolade",
   "Wein",
-  "vergessen",
+  "Regal",
+  "einkaufen",
   "Käse",
-  "brauchen"
+  "vergessen",
+  "brauchen",
+  "geben"
  ],
  "sn": [
   {

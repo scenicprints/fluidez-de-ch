@@ -6,7 +6,7 @@ create a second copy to go stale.
 
 ---
 
-You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0 to 3 written, 86 of 192). You're on the German one.
+You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0 to 4 written, 122 of 192). You're on the German one.
 
 **Read these first, in this order.** They carry every decision and the reasoning, so nothing gets relitigated by somebody arriving cold:
 
@@ -17,11 +17,13 @@ You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses
 
 Local clones, all on GitHub under `scenicprints`: `fluidez` (the app), `fluidez-de-ch` (German course), `fluidez-es-ni` (Spanish course), `fluidez-languages` (registry).
 
-**Where it stands.** **Phases 0 to 3 are written and every script is built.** 86 stories, 1,579 dictionary words, 296 verbs, 35 patterns, 28 scenes, 81 Blüemli lines, an emergency phrasebook, 98.4% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
+**Where it stands.** **Phases 0 to 4 are written and every script is built.** 122 stories, 1,905 dictionary words, 386 verbs, 44 patterns, 37 scenes, 90 Blüemli lines, an emergency phrasebook, 98.5% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
 
-**Next job: phase 4, Close to the Heart, thirty-six stories,** `p4-01` to `p4-36`. It is the largest phase in the course and `HANDOFF.md` §1 calls it the reason the course exists: love, her family, arguments, making up. **Selina arrived in `p3-10`** and phase 4 is hers. The Odermatts, her parents in Kriens, come with it. Build it the way the last four were, and expect to write it in more than one batch.
+**Next job: phase 5, Hard Things, twenty-six stories,** `p5-01` to `p5-26`. Illness, goodbyes, money, saying the difficult thing. **Frau Amrein dies in this phase**, after roughly 130 stories of correcting your recycling and feeding you anyway — that was planned from the start and `HANDOFF.md` §5 says why. **Beat**, **Fatlum** and **Vreni** arrive. The grammar is Konjunktiv II, which is still untouched, plus the systematic treatment of the subordinate clauses phase 4 introduced.
 
-**Two things every phase has now taught, in the same order.** RETURN judges the previous phase's vocabulary the moment the new one lands, and it takes warm-up cards away: 44 after phase 2, 28 after phase 3. **Budget the recycling sweep as part of writing the phase.** And adding a word can break one that already worked, either by making a form ambiguous (`meinen` broke `meine`) or by costing a one-scene word its exemption (`Nacht`, twice). Re-run the checks after every sweep, not just at the end.
+**Subordinate clauses now arrive at `p4-10`, not phase 5.** The spine asked for them in three phase 4 stories and the content required them; phases 0 to 3 and `p4-01` to `p4-09` are still clean, so the `dass` lands as an event. Konjunktiv II was kept out entirely and is phase 5's to teach. `NEXT.md` §19 carries the reasoning and it is reversible.
+
+**Three things every phase has now taught, in the same order.** RETURN judges the previous phase's vocabulary the moment the new one lands and takes warm-up cards away: 44, then 28, then 32 across a phase half again as long. **Budget the recycling sweep as part of writing the phase.** Every sweep then breaks one or two words that relied on being one-scene, so re-run the check after it, every time — three for three so far. And adding a word can break one that already resolved, by making a form ambiguous.
 
 **The hard rules:**
 

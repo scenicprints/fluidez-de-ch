@@ -466,5 +466,117 @@
    "fahren"
   ],
   "text": "**Das Halbtax** halves every fare in the country: train, bus, boat, most mountain railways. More than half the population owns one, and for anybody who travels twice a month it pays for itself inside two months.\n\nIt is a card with a bad photograph on it, and the photograph stays bad for three years.\n\n**Carry it.** A ticket bought at the Halbtax price without the card in your pocket is not a valid ticket, and the difference is expensive.\n\n**Das GA** is the next step up: everything, free, for a great deal of money a year. Worth it for a long commute and for nobody else.\n\nAnd **gültig** is the word that governs all of it. A ticket is valid for a day, a Halbtax for a year, and a Kriens rubbish bag is not valid in Luzern."
+ },
+ {
+  "id": "nebensatz",
+  "title": "dass, and the verb goes to the back",
+  "min": 4,
+  "trigger": [
+   "dass",
+   "ob",
+   "sagen",
+   "wissen",
+   "denken",
+   "glauben"
+  ],
+  "text": "You can speak German for a year without this. Phases 0 to 3 do: **Er hat gesagt: Sie kommt.** That works, and it sounds like a report.\n\nWith **dass** it sounds like a conversation, and one thing happens.\n\n• Er hat gesagt: Du **läufst** anders.\n• Er hat gesagt, dass du anders **läufst**.\n\n**The verb goes to the very end.** Everything else stays where it was, and there is a comma before the dass.\n\n• Ich weiss, dass du hier **bist**.\n• Sie hat gesagt, dass sie **kommt**.\n• Er denkt, dass es **regnet**.\n\n**ob** does exactly the same and means whether.\n\n• Ich weiss nicht, ob er **kommt**.\n• Sie fragt, ob du am Sonntag **kommst**.\n\nThat is the whole rule, and once you hear it you will hear it fifty times a day. The pause before the dass is where the sentence turns round."
+ },
+ {
+  "id": "weil_denn",
+  "title": "weil sends the verb away, denn does not",
+  "min": 3,
+  "trigger": [
+   "weil",
+   "denn",
+   "warum",
+   "Grund"
+  ],
+  "text": "Two words for because, and they build the sentence differently.\n\n• Ich bleibe zu Hause, **denn** es **regnet**.\n• Ich bleibe zu Hause, **weil** es **regnet**.\n\nAfter **denn** nothing moves: it is just two sentences with a word between them. After **weil** the verb goes to the end, exactly like dass.\n\nWith a longer sentence the difference is obvious.\n\n• ..., **denn** ich **habe** den Zug verpasst.\n• ..., **weil** ich den Zug verpasst **habe**.\n\n**Everything before this phase used denn**, on purpose, so that the verb could stay in second position while there was enough else to think about. Both are correct and people say both. **weil** is far commoner in speech.\n\n**deshalb** and **darum** are the other direction: not because, but therefore, and they take the front of their own sentence with the verb straight after.\n\n• Es hat geregnet, **deshalb sind** wir drinnen geblieben."
+ },
+ {
+  "id": "gefuehle",
+  "title": "Saying what is wrong, in as few words as possible",
+  "min": 4,
+  "trigger": [
+   "Angst",
+   "unsicher",
+   "verletzt",
+   "eifersüchtig",
+   "reden",
+   "Gefühl"
+  ],
+  "text": "Feelings are talked about here, and briefly, and to one person rather than six.\n\n**Reach for the smaller word first.** It is easier to say and it is usually the more honest one.\n\n• **Ich bin unsicher.** — I do not know where I stand\n• **Ich bin verletzt.** — that hurt\n• **Ich bin eifersüchtig.** — the big one, and there is no nice version of it\n• **Ich habe Angst, dass ...** — the sentence under most of the others\n\nThe form is one sentence and then a pause. Not a speech. **Man sagt ein Wort und wartet.**\n\n**Say it on the second day, not the fourteenth.** On the second day it is small. After a fortnight it is a story with a shape, and the other person has to take the shape as well as the thing.\n\nAnd the answer you are looking for is not reassurance. It is **ich weiss**, or a question back: *wegen ihm oder wegen mir?*"
+ },
+ {
+  "id": "entschuldigung",
+  "title": "An apology has to name the thing",
+  "min": 3,
+  "trigger": [
+   "Entschuldigung",
+   "leid",
+   "Fehler",
+   "tun"
+  ],
+  "text": "Two sizes, and they are not interchangeable.\n\n**Entschuldigung** is the small one: a foot, an elbow, a squeeze past on the bus. You will say it ten times a week and it means nothing much.\n\n**Es tut mir leid** is for an actual mistake, and it is said rarely.\n\n**And it has to be specific.** *Es tut mir leid* on its own reads as evasion, the way a general sorry does. Name the thing.\n\n• Es tut mir leid **für die zwei Tage**.\n• Es tut mir leid, **dass ich nichts gesagt habe**.\n\nThe biggest one is **ich war im Unrecht**. People go years without saying it.\n\n**And the reply is not ist schon gut.** That would make it smaller, and the person went to some trouble to make it that size. The reply here is **ich weiss** — which takes the apology and lets it stand.\n\nThen somebody says Kaffee, and that is the end of it."
+ },
+ {
+  "id": "kosenamen",
+  "title": "Schatz, and the little li on the end",
+  "min": 3,
+  "trigger": [
+   "Schatz",
+   "Freund",
+   "Freundin",
+   "Kaffee"
+  ],
+  "text": "**Schatz** means treasure, and it is the ordinary word for the person you live with. **Liebling** exists and sounds a generation older.\n\nThe rule is not which word. The rule is **where**. Indoors, alone: Schatz. At a table with other people: your name. Two words for the same person, one for outside and one for in.\n\n**The li ending makes anything small and warm**, and it is Swiss to the bone.\n\n• Schatz → **Schätzli**\n• Bier → **Bierli**\n• Moment → **Momentli**\n• Kaffee → **Kafi**\n\nGrown men say these all day and none of it is baby talk.\n\n**And then there is the trap.** *Ein Freund* is a friend. *Mein Freund* is a boyfriend. *Ein Freund von mir* is a friend again. Say *meine Freundin* in an office and the whole floor knows by lunchtime, and nobody will have asked you a single question."
+ },
+ {
+  "id": "hedging",
+  "title": "eigentlich, eher, an sich",
+  "min": 3,
+  "trigger": [
+   "eigentlich",
+   "eher",
+   "vielleicht",
+   "ruhig"
+  ],
+  "text": "A handful of small words that make a sentence softer, and reverse it while they are there.\n\n• **Das ist eigentlich gut.** — it is not entirely good\n• **Er ist eher ruhig.** — he hardly ever talks\n• **Das ist an sich richtig.** — but\n• **Das ist vielleicht ein bisschen viel.** — that is too much\n\n**The but never arrives.** It lives inside the eigentlich, and everybody at the table hears it.\n\nThis is how you are told something without being told it, and it is how an opinion about you travels. *Er ist eher still*, said to somebody else while you are in the room, is not gossip: it is the normal way an assessment is delivered here.\n\n**Do not defend yourself against it.** *Wer sich verteidigt, hat schon verloren.* Say nothing, and the sentence stands or it does not.\n\nAnd use them yourself. **Das ist eine gute Frage** and **da muss ich noch schauen** are complete, polite refusals to answer, and nobody asks twice."
+ },
+ {
+  "id": "zukunft",
+  "title": "The future is the present with a date on it",
+  "min": 3,
+  "trigger": [
+   "werden",
+   "nächst",
+   "Jahr",
+   "fahren"
+  ],
+  "text": "German has a proper future with **werden**, and almost nobody uses it for the future.\n\n• Ich **werde** nach Portugal **fahren**. — correct, and it sounds like a letter\n• **Nächstes Jahr fahre** ich nach Portugal. — what people say\n\n**The time word does the work.** Nächstes Jahr, ab Januar, im Sommer, am zwölften. Put one in front and the present tense becomes the future.\n\n**werden** is kept for something else: when you are not sure.\n\n• Es **wird wohl** regnen.\n• Das **wird** nicht klappen.\n\nThen it is not a future, it is a guess.\n\n**And the far future is barely spoken at all.** A plan for the twelfth of March is normal; a sentence about ten years' time sounds like a decision already taken, for both of you. When it does come it comes sideways, in the present tense, in the middle of something else: *in fünf Jahren machen wir hier eine Wand weg*, said while cleaning a floor."
+ },
+ {
+  "id": "wiegehts",
+  "title": "The scale under wie geht es",
+  "min": 3,
+  "trigger": [
+   "gehen",
+   "gut",
+   "danke",
+   "schlecht"
+  ],
+  "text": "**Wie geht es?** is a greeting with more words in it, and **gut, danke** is the greeting back. Nothing has been asked and nothing has been answered.\n\nUnderneath it there is a real scale, and everybody knows it.\n\n| | |\n|---|---|\n| **sehr gut** | suspicious |\n| **gut** | the normal answer, means nothing |\n| **es geht** | it is not going particularly well |\n| **nicht so gut** | something is up |\n| **mies** | it is genuinely bad |\n\n**es geht** is the one that matters. Two words, and it means: ask again if you want to. Somebody who says **gut** does not want to talk. Somebody who says **es geht** might.\n\nSo when you hear it, ask. **Was ist?** is enough, and it changes the afternoon.\n\nAnd the answer to somebody's bad February is not *es wird besser*. It is **alle sind so** — everybody is like this right now, not just you. That is the whole medicine."
+ },
+ {
+  "id": "geld_zu_zweit",
+  "title": "Seven francs forty",
+  "min": 3,
+  "trigger": [
+   "Geld",
+   "zahlen",
+   "teilen",
+   "Franken"
+  ],
+  "text": "Nobody here talks about money, with one exception: **between two people it is discussed in complete detail**, and the detail is the point.\n\nAfter a day out somebody works it out and sends the difference. Seven francs forty. That is not meanness and it is not coldness.\n\n**teilen** — everybody pays their share, so nobody owes anybody anything.\n\n**schulden** is the word people are avoiding. *Ich schulde dir noch zwanzig Franken* is a small weight, and nobody wants to carry one, in money or in favours. Splitting to the franc is how you put it down.\n\n**sich etwas leisten** is the other one you need.\n\n• **Das kann ich mir nicht leisten.**\n\nA completely normal sentence, said by people with money too, and nobody is embarrassed by it. At home you would say you were busy. Here you say it is too expensive, and the table takes the answer and moves on.\n\nAnd between a couple the fair split is often **the same share of each income**, not the same number of francs."
  }
 ]

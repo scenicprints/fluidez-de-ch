@@ -1,0 +1,340 @@
+{
+ "id": "p4-23",
+ "title": "Über Geld reden",
+ "desc": "The conversation nobody wants",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "zahlen"
+ ],
+ "sn": [
+  {
+   "s": "Über Geld redet man hier nicht.",
+   "e": "People do not talk about money here."
+  },
+  {
+   "s": "Man redet nicht über den Lohn.",
+   "e": "You do not talk about pay."
+  },
+  {
+   "s": "Man redet nicht über die Steuern.",
+   "e": "You do not talk about tax."
+  },
+  {
+   "s": "Man redet nicht darüber, wie viel etwas gekostet hat.",
+   "e": "You do not talk about how much something cost."
+  },
+  {
+   "s": "Ausser über die Miete, und die ist ein Sport.",
+   "e": "Except about rent, and that is a sport."
+  },
+  {
+   "s": "Mit einem Menschen redet man über alles davon.",
+   "e": "With one person you talk about all of it."
+  },
+  {
+   "s": "Ganz genau und ohne Scham.",
+   "e": "Very precisely and without embarrassment."
+  },
+  {
+   "s": "Das ist der Unterschied und er ist scharf.",
+   "e": "That is the difference and it is sharp."
+  },
+  {
+   "s": "Es hat mit dem Zug nach Bern angefangen.",
+   "e": "It started with the train to Bern."
+  },
+  {
+   "s": "Wir sind für einen Tag hingefahren.",
+   "e": "We went there for a day."
+  },
+  {
+   "s": "Sie hat die Billette gelöst.",
+   "e": "She got the tickets."
+  },
+  {
+   "s": "Ich habe das Essen gezahlt.",
+   "e": "I paid for the food."
+  },
+  {
+   "s": "Am Abend hat sie das Handy genommen.",
+   "e": "In the evening she picked up her phone."
+  },
+  {
+   "s": "Sie hat gesagt: Also. Billette dreiundvierzig achtzig.",
+   "e": "She said: right. Tickets forty-three eighty."
+  },
+  {
+   "s": "Sie hat gesagt: Essen einundfünfzig zwanzig.",
+   "e": "She said: food fifty-one twenty."
+  },
+  {
+   "s": "Sie hat gesagt: Du hast sieben vierzig zu viel.",
+   "e": "She said: you are seven forty out of pocket."
+  },
+  {
+   "s": "Und dann hat sie mir sieben Franken vierzig geschickt.",
+   "e": "And then she sent me seven francs forty."
+  },
+  {
+   "s": "Sieben Franken vierzig.",
+   "e": "Seven francs forty."
+  },
+  {
+   "s": "Zu Hause ist das lächerlich.",
+   "e": "At home that is ridiculous."
+  },
+  {
+   "s": "Zu Hause sagt man: Lass es. Beim nächsten Mal.",
+   "e": "At home you say: leave it. Next time."
+  },
+  {
+   "s": "Hier rechnet man es aus.",
+   "e": "Here you work it out."
+  },
+  {
+   "s": "Ich habe zuerst gedacht, dass es kalt ist.",
+   "e": "At first I thought that it was cold."
+  },
+  {
+   "s": "Es ist genau das Gegenteil.",
+   "e": "It is exactly the opposite."
+  },
+  {
+   "s": "Teilen heisst hier: jeder zahlt seinen Teil.",
+   "e": "Teilen here means: everybody pays their share."
+  },
+  {
+   "s": "Es heisst nicht: wir haben zusammen eine Kasse.",
+   "e": "It does not mean: we have a joint purse."
+  },
+  {
+   "s": "Man teilt und darum schuldet niemand etwas.",
+   "e": "You split and so nobody owes anybody anything."
+  },
+  {
+   "s": "Schulden ist das schlimme Wort.",
+   "e": "Schulden is the bad word."
+  },
+  {
+   "s": "Ich schulde dir noch zwanzig Franken.",
+   "e": "I still owe you twenty francs."
+  },
+  {
+   "s": "Er schuldet mir nichts.",
+   "e": "He owes me nothing."
+  },
+  {
+   "s": "Man will hier niemandem etwas schulden.",
+   "e": "Here nobody wants to owe anybody anything."
+  },
+  {
+   "s": "Nicht Geld und nicht einen Gefallen.",
+   "e": "Not money and not a favour."
+  },
+  {
+   "s": "Das ist keine Kälte.",
+   "e": "That is not coldness."
+  },
+  {
+   "s": "Es ist eine Art von Freiheit.",
+   "e": "It is a kind of freedom."
+  },
+  {
+   "s": "Selina hat es in einem Satz erklärt.",
+   "e": "Selina explained it in one sentence."
+  },
+  {
+   "s": "Sie hat gesagt: So muss ich dich nie fragen.",
+   "e": "She said: that way I never have to ask you."
+  },
+  {
+   "s": "Sie hat gesagt: Und du musst mich nie fragen.",
+   "e": "She said: and you never have to ask me."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist bequem für beide.",
+   "e": "She said: that is comfortable for both."
+  },
+  {
+   "s": "Sich etwas leisten ist das andere Wort.",
+   "e": "Sich etwas leisten is the other word."
+  },
+  {
+   "s": "Es heisst: genug Geld für etwas haben.",
+   "e": "It means: to have enough money for something."
+  },
+  {
+   "s": "Ich kann mir das nicht leisten.",
+   "e": "I cannot afford that."
+  },
+  {
+   "s": "Das ist ein sehr normaler Satz hier.",
+   "e": "That is a very normal sentence here."
+  },
+  {
+   "s": "Alle sagen ihn, auch Leute mit Geld.",
+   "e": "Everybody says it, including people with money."
+  },
+  {
+   "s": "Niemand schämt sich dafür.",
+   "e": "Nobody is embarrassed about it."
+  },
+  {
+   "s": "Zu Hause sagt man: Ich habe gerade keine Zeit.",
+   "e": "At home you say: I do not have time right now."
+  },
+  {
+   "s": "Hier sagt man: Das ist mir zu teuer.",
+   "e": "Here you say: that is too expensive for me."
+  },
+  {
+   "s": "Es ist ehrlicher und es ist am Anfang unangenehm.",
+   "e": "It is more honest and it is uncomfortable at first."
+  },
+  {
+   "s": "Timo hat einmal gesagt: Ich gehe nicht mit in die Ferien.",
+   "e": "Timo once said: I am not coming on the holiday."
+  },
+  {
+   "s": "Er hat gesagt: Das kann ich mir dieses Jahr nicht leisten.",
+   "e": "He said: I cannot afford it this year."
+  },
+  {
+   "s": "Am Tisch waren sechs Leute.",
+   "e": "There were six people at the table."
+  },
+  {
+   "s": "Niemand hat etwas gesagt.",
+   "e": "Nobody said anything."
+  },
+  {
+   "s": "Niemand hat gesagt: Wir zahlen für dich.",
+   "e": "Nobody said: we will pay for you."
+  },
+  {
+   "s": "Das ist die Höflichkeit hier.",
+   "e": "That is politeness here."
+  },
+  {
+   "s": "Man nimmt die Antwort und macht keine Sache daraus.",
+   "e": "You take the answer and do not make a thing of it."
+  },
+  {
+   "s": "Im April haben wir zum ersten Mal richtig darüber geredet.",
+   "e": "In April we talked about it properly for the first time."
+  },
+  {
+   "s": "Nicht über sieben Franken vierzig.",
+   "e": "Not about seven francs forty."
+  },
+  {
+   "s": "Über die grossen Zahlen.",
+   "e": "About the big numbers."
+  },
+  {
+   "s": "Sie hat mir gesagt, was sie verdient.",
+   "e": "She told me what she earns."
+  },
+  {
+   "s": "Sie hat es einfach gesagt.",
+   "e": "She simply said it."
+  },
+  {
+   "s": "Sie hat gesagt: Und du?",
+   "e": "She said: and you?"
+  },
+  {
+   "s": "Ich habe zwei Sekunden gebraucht.",
+   "e": "I needed two seconds."
+  },
+  {
+   "s": "Zwei Sekunden, für einen Satz mit einer Zahl.",
+   "e": "Two seconds, for a sentence with a number in it."
+  },
+  {
+   "s": "Dann habe ich es gesagt.",
+   "e": "Then I said it."
+  },
+  {
+   "s": "Sie hat genickt und nichts dazu gesagt.",
+   "e": "She nodded and said nothing about it."
+  },
+  {
+   "s": "Keine Reaktion, kein Gesicht, nichts.",
+   "e": "No reaction, no expression, nothing."
+  },
+  {
+   "s": "Das war die richtige Reaktion.",
+   "e": "That was the right reaction."
+  },
+  {
+   "s": "Dann haben wir gerechnet.",
+   "e": "Then we worked it out."
+  },
+  {
+   "s": "Miete, Krankenkasse, Steuern, Essen.",
+   "e": "Rent, health insurance, tax, food."
+  },
+  {
+   "s": "Sie hat alles auf ein Blatt geschrieben.",
+   "e": "She wrote everything on a sheet of paper."
+  },
+  {
+   "s": "Sie hatte ihre Zahlen im Kopf.",
+   "e": "She had her numbers in her head."
+  },
+  {
+   "s": "Ich habe für meine im Handy gesucht.",
+   "e": "I had to look mine up on my phone."
+  },
+  {
+   "s": "Das war mir peinlich und ich habe nichts gesagt.",
+   "e": "That embarrassed me and I said nothing."
+  },
+  {
+   "s": "Am Schluss standen zwei Zahlen auf dem Blatt.",
+   "e": "At the end there were two numbers on the sheet."
+  },
+  {
+   "s": "Sie waren nicht gleich.",
+   "e": "They were not the same."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist in Ordnung.",
+   "e": "She said: that is fine."
+  },
+  {
+   "s": "Sie hat gesagt: Wir rechnen einfach mit Prozenten.",
+   "e": "She said: we will simply work in percentages."
+  },
+  {
+   "s": "Jeder zahlt den gleichen Anteil von seinem Lohn.",
+   "e": "Everybody pays the same share of what they earn."
+  },
+  {
+   "s": "Nicht den gleichen Betrag.",
+   "e": "Not the same amount."
+  },
+  {
+   "s": "Das ist ein Unterschied und es ist ein grosser.",
+   "e": "That is a difference and it is a big one."
+  },
+  {
+   "s": "Sie hat es in vier Minuten gerechnet.",
+   "e": "She worked it out in four minutes."
+  },
+  {
+   "s": "Ich habe zwei Tage darüber nachgedacht.",
+   "e": "I thought about it for two days."
+  },
+  {
+   "s": "Es ist die fairste Lösung von allen.",
+   "e": "It is the fairest solution of them all."
+  },
+  {
+   "s": "Und niemand hat mir das je vorher erklärt.",
+   "e": "And nobody has ever explained it to me before."
+  }
+ ]
+}

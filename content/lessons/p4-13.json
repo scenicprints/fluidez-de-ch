@@ -1,0 +1,340 @@
+{
+ "id": "p4-13",
+ "title": "Ihr Vater sagt wenig",
+ "desc": "A man who does not fill silences",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Garage"
+ ],
+ "sn": [
+  {
+   "s": "Kurt Odermatt hat mir am ersten Sonntag zwei Fragen gestellt.",
+   "e": "Kurt Odermatt asked me two questions on that first Sunday."
+  },
+  {
+   "s": "Zwei Fragen in fünf Stunden.",
+   "e": "Two questions in five hours."
+  },
+  {
+   "s": "Ich habe das zuerst falsch gelesen.",
+   "e": "At first I read that wrongly."
+  },
+  {
+   "s": "Ich habe gedacht, dass er mich nicht mag.",
+   "e": "I thought that he did not like me."
+  },
+  {
+   "s": "Das war der grösste Irrtum von diesem Jahr.",
+   "e": "That was the biggest mistake of that year."
+  },
+  {
+   "s": "Er ist zweiundsechzig.",
+   "e": "He is sixty-two."
+  },
+  {
+   "s": "Er war vierzig Jahre lang Elektriker bei der Bahn.",
+   "e": "He was an electrician on the railways for forty years."
+  },
+  {
+   "s": "Jetzt arbeitet er noch zwei Tage in der Woche.",
+   "e": "Now he still works two days a week."
+  },
+  {
+   "s": "Er sitzt am Tisch und schaut auf seinen Teller.",
+   "e": "He sits at the table and looks at his plate."
+  },
+  {
+   "s": "Er hört zu und er sagt fast nichts.",
+   "e": "He listens and he says almost nothing."
+  },
+  {
+   "s": "Zu Hause heisst das: der Mann ist böse.",
+   "e": "At home that means: the man is annoyed."
+  },
+  {
+   "s": "Hier heisst es gar nichts.",
+   "e": "Here it means nothing at all."
+  },
+  {
+   "s": "Es heisst nur: er redet gerade nicht.",
+   "e": "It only means: he is not talking right now."
+  },
+  {
+   "s": "Eine Stille am Tisch ist hier keine Frage.",
+   "e": "A silence at the table is not a question here."
+  },
+  {
+   "s": "Man muss sie nicht füllen.",
+   "e": "You do not have to fill it."
+  },
+  {
+   "s": "Ich habe sie zweimal gefüllt.",
+   "e": "I filled it twice."
+  },
+  {
+   "s": "Beide Male war es zu viel.",
+   "e": "Both times it was too much."
+  },
+  {
+   "s": "Beim dritten Mal habe ich gewartet.",
+   "e": "The third time I waited."
+  },
+  {
+   "s": "Nach vierzig Sekunden hat er geredet.",
+   "e": "After forty seconds he spoke."
+  },
+  {
+   "s": "Es war eine kleine Sache über den Braten.",
+   "e": "It was a small thing about the roast."
+  },
+  {
+   "s": "Und dann war der Tisch wieder normal.",
+   "e": "And then the table was normal again."
+  },
+  {
+   "s": "Vierzig Sekunden sind hier keine Stille.",
+   "e": "Forty seconds is not a silence here."
+  },
+  {
+   "s": "Vierzig Sekunden sind eine Pause.",
+   "e": "Forty seconds is a pause."
+  },
+  {
+   "s": "Seine erste Frage kam nach zwei Stunden.",
+   "e": "His first question came after two hours."
+  },
+  {
+   "s": "Er hat gefragt: Und? Wie ist das Wasser bei Ihnen?",
+   "e": "He asked: and? What is the water like where you come from?"
+  },
+  {
+   "s": "Das ist eine sehr komische Frage.",
+   "e": "That is a very odd question."
+  },
+  {
+   "s": "Ich habe eine Sekunde gebraucht.",
+   "e": "I needed a second."
+  },
+  {
+   "s": "Dann habe ich verstanden, dass es keine ist.",
+   "e": "Then I understood that it is not one."
+  },
+  {
+   "s": "Er wollte wissen, ob man das Wasser trinken kann.",
+   "e": "He wanted to know whether you can drink the water."
+  },
+  {
+   "s": "Für ihn ist das die erste Frage über ein Land.",
+   "e": "For him that is the first question about a country."
+  },
+  {
+   "s": "Über der Werkbank hängt ein Regal mit Schachteln.",
+   "e": "Above the workbench is a shelf of boxes."
+  },
+  {
+   "s": "Er hat als Kind bei den Kühen gearbeitet.",
+   "e": "He worked with the cows as a child."
+  },
+  {
+   "s": "Wasser aus der Leitung ist hier eine Selbstverständlichkeit.",
+   "e": "Water from the tap is a matter of course here."
+  },
+  {
+   "s": "Und er weiss genau, dass sie es nicht überall ist.",
+   "e": "And he knows exactly that it is not everywhere."
+  },
+  {
+   "s": "Ich habe geantwortet und er hat genickt.",
+   "e": "I answered and he nodded."
+  },
+  {
+   "s": "Dann hat er nichts mehr gesagt.",
+   "e": "Then he said nothing more."
+  },
+  {
+   "s": "Die zweite Frage kam um halb fünf.",
+   "e": "The second question came at half past four."
+  },
+  {
+   "s": "Alle anderen waren in der Küche.",
+   "e": "Everybody else was in the kitchen."
+  },
+  {
+   "s": "Er hat die Zeitung hingelegt.",
+   "e": "He put the newspaper down."
+  },
+  {
+   "s": "Er hat gefragt: Bleiben Sie hier?",
+   "e": "He asked: are you staying here?"
+  },
+  {
+   "s": "Genau die Frage von Selina auf dem Berg.",
+   "e": "Exactly Selina's question on the mountain."
+  },
+  {
+   "s": "Genau die gleichen drei Wörter.",
+   "e": "Exactly the same three words."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss es noch nicht.",
+   "e": "I said: I do not know yet."
+  },
+  {
+   "s": "Er hat lange nichts gesagt.",
+   "e": "He said nothing for a long time."
+  },
+  {
+   "s": "Dann hat er gesagt: Das ist eine ehrliche Antwort.",
+   "e": "Then he said: that is an honest answer."
+  },
+  {
+   "s": "Dann hat er wieder die Zeitung genommen.",
+   "e": "Then he picked up the newspaper again."
+  },
+  {
+   "s": "Das war das ganze Gespräch.",
+   "e": "That was the whole conversation."
+  },
+  {
+   "s": "Selina hat mir später gesagt, dass beides wichtig war.",
+   "e": "Selina told me later that both of them mattered."
+  },
+  {
+   "s": "Sie hat gesagt, dass er nur fragt, wenn es zählt.",
+   "e": "She said that he only asks when it counts."
+  },
+  {
+   "s": "Sie hat gesagt: Meinen Bruder fragt er nie etwas.",
+   "e": "She said: he never asks my brother anything."
+  },
+  {
+   "s": "Das ist eine sehr harte Sache über einen Sohn.",
+   "e": "That is a very hard thing about a son."
+  },
+  {
+   "s": "Sie hat es ruhig gesagt.",
+   "e": "She said it calmly."
+  },
+  {
+   "s": "Beim vierten Sonntag hat er mich in die Garage geholt.",
+   "e": "On the fourth Sunday he took me into the garage."
+  },
+  {
+   "s": "In der Garage steht kein Auto.",
+   "e": "There is no car in the garage."
+  },
+  {
+   "s": "In der Garage steht eine Werkbank.",
+   "e": "In the garage there is a workbench."
+  },
+  {
+   "s": "An der Wand hängt Werkzeug in einer Reihe.",
+   "e": "Tools hang on the wall in a row."
+  },
+  {
+   "s": "Jedes Werkzeug hat einen gemalten Umriss dahinter.",
+   "e": "Every tool has a painted outline behind it."
+  },
+  {
+   "s": "So sieht man sofort, was fehlt.",
+   "e": "That way you see at once what is missing."
+  },
+  {
+   "s": "Er hat das nicht erklärt.",
+   "e": "He did not explain it."
+  },
+  {
+   "s": "Er hat mir eine Lampe gezeigt.",
+   "e": "He showed me a lamp."
+  },
+  {
+   "s": "Eine alte Lampe aus einem Zug.",
+   "e": "An old lamp from a train."
+  },
+  {
+   "s": "Er hat gesagt: Von 1961.",
+   "e": "He said: from 1961."
+  },
+  {
+   "s": "Er hat sie aufgemacht und wieder zugemacht.",
+   "e": "He opened it and closed it again."
+  },
+  {
+   "s": "Er hat mir gezeigt, wie sie innen aussieht.",
+   "e": "He showed me what it looks like inside."
+  },
+  {
+   "s": "Wir sind zwanzig Minuten in der Garage gewesen.",
+   "e": "We were in the garage for twenty minutes."
+  },
+  {
+   "s": "Er hat vielleicht dreissig Wörter gesagt.",
+   "e": "He said maybe thirty words."
+  },
+  {
+   "s": "Ich habe sehr genau zugehört.",
+   "e": "I listened very carefully."
+  },
+  {
+   "s": "Als wir zurückgekommen sind, hat Marianne geschaut.",
+   "e": "When we came back, Marianne looked."
+  },
+  {
+   "s": "Sie hat nichts gesagt.",
+   "e": "She said nothing."
+  },
+  {
+   "s": "Selina hat mir im Bus gesagt, dass die Garage viel bedeutet.",
+   "e": "On the bus Selina told me that the garage means a lot."
+  },
+  {
+   "s": "Sie hat gesagt: Da geht fast niemand hin.",
+   "e": "She said: almost nobody goes in there."
+  },
+  {
+   "s": "Sie hat gesagt: Reto war zwei Mal drin.",
+   "e": "She said: Reto has been in twice."
+  },
+  {
+   "s": "Sie hat gesagt: In dreissig Jahren.",
+   "e": "She said: in thirty years."
+  },
+  {
+   "s": "Ich habe verstanden, dass ich etwas bekommen habe.",
+   "e": "I understood that I had been given something."
+  },
+  {
+   "s": "Ich habe nicht gewusst, wie gross es ist.",
+   "e": "I did not know how big it was."
+  },
+  {
+   "s": "Bei ihm ist alles klein und nichts ist wenig.",
+   "e": "With him everything is small and nothing is little."
+  },
+  {
+   "s": "Ein Nicken ist ein Satz.",
+   "e": "A nod is a sentence."
+  },
+  {
+   "s": "Ein Satz ist ein Gespräch.",
+   "e": "A sentence is a conversation."
+  },
+  {
+   "s": "Zwanzig Minuten in der Garage sind ein Jahr Freundschaft.",
+   "e": "Twenty minutes in the garage are a year of friendship."
+  },
+  {
+   "s": "Man muss nur die Grössen umrechnen.",
+   "e": "You just have to convert the sizes."
+  },
+  {
+   "s": "Das habe ich beim Apéro schon einmal gelernt.",
+   "e": "I already learned that once at an apéro."
+  },
+  {
+   "s": "Ich habe es beim Vater von Selina noch einmal gelernt.",
+   "e": "I learned it again with Selina's father."
+  }
+ ]
+}

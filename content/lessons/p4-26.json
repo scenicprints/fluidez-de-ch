@@ -1,0 +1,358 @@
+{
+ "id": "p4-26",
+ "title": "Ihre alten Freunde",
+ "desc": "People who knew her before you",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "lachen",
+  "verstehen",
+  "Minute"
+ ],
+ "sn": [
+  {
+   "s": "Sie hat vier Freundinnen aus der Schule.",
+   "e": "She has four friends from school."
+  },
+  {
+   "s": "Sie kennen sich seit dem vierzehnten Jahr.",
+   "e": "They have known each other since they were fourteen."
+  },
+  {
+   "s": "Das sind fünfzehn Jahre.",
+   "e": "That is fifteen years."
+  },
+  {
+   "s": "Sie treffen sich alle sechs Wochen.",
+   "e": "They meet every six weeks."
+  },
+  {
+   "s": "Immer am gleichen Ort, immer am Donnerstag.",
+   "e": "Always at the same place, always on a Thursday."
+  },
+  {
+   "s": "Im Februar bin ich zum ersten Mal mitgekommen.",
+   "e": "In February I came along for the first time."
+  },
+  {
+   "s": "Sie hat gesagt, dass sie es lange überlegt hat.",
+   "e": "She said that she had thought about it for a long time."
+  },
+  {
+   "s": "Das ist hier eine echte Entscheidung.",
+   "e": "That is a real decision here."
+  },
+  {
+   "s": "Man bringt nicht einfach jemanden mit.",
+   "e": "You do not simply bring somebody along."
+  },
+  {
+   "s": "Die vier heissen Nadja, Anita, Corinne und Bea.",
+   "e": "The four are called Nadja, Anita, Corinne and Bea."
+  },
+  {
+   "s": "Ich habe die Namen zehnmal geübt.",
+   "e": "I practised the names ten times."
+  },
+  {
+   "s": "Ich habe sie im Lokal trotzdem verwechselt.",
+   "e": "I still mixed them up in the pub."
+  },
+  {
+   "s": "Sie haben in der ersten Minute Hochdeutsch geredet.",
+   "e": "For the first minute they spoke standard German."
+  },
+  {
+   "s": "Nach zehn Minuten waren sie im Dialekt.",
+   "e": "After ten minutes they were in dialect."
+  },
+  {
+   "s": "Nach zwanzig Minuten haben sie es gemerkt.",
+   "e": "After twenty minutes they noticed."
+  },
+  {
+   "s": "Nadja hat gesagt: Oh, Entschuldigung.",
+   "e": "Nadja said: oh, sorry."
+  },
+  {
+   "s": "Sie sind wieder umgeschaltet.",
+   "e": "They switched back."
+  },
+  {
+   "s": "Nach fünf Minuten waren sie wieder im Dialekt.",
+   "e": "After five minutes they were in dialect again."
+  },
+  {
+   "s": "Das ist keine Unhöflichkeit.",
+   "e": "That is not rudeness."
+  },
+  {
+   "s": "Man kann nicht fünfzehn Jahre Dialekt in einem Abend umstellen.",
+   "e": "You cannot switch fifteen years of dialect in one evening."
+  },
+  {
+   "s": "Ich habe gesagt, dass es in Ordnung ist.",
+   "e": "I said that it was fine."
+  },
+  {
+   "s": "Ich habe es gemeint und es war trotzdem hart.",
+   "e": "I meant it and it was still hard."
+  },
+  {
+   "s": "Ich habe ungefähr die Hälfte verstanden.",
+   "e": "I understood about half."
+  },
+  {
+   "s": "Bei einem Gespräch mit sechs Leuten reicht die Hälfte nicht.",
+   "e": "In a conversation with six people half is not enough."
+  },
+  {
+   "s": "Bei zwei Leuten reicht die Hälfte gut.",
+   "e": "With two people half is plenty."
+  },
+  {
+   "s": "Bei sechs Leuten ist man draussen.",
+   "e": "With six people you are outside it."
+  },
+  {
+   "s": "Die anderen reden schnell und überall gleichzeitig.",
+   "e": "The others talk fast and everywhere at once."
+  },
+  {
+   "s": "Niemand erklärt und alle wissen alles schon.",
+   "e": "Nobody explains and everybody already knows everything."
+  },
+  {
+   "s": "Sie haben eine halbe Stunde über eine Reise geredet.",
+   "e": "They talked for half an hour about a trip."
+  },
+  {
+   "s": "Eine Reise nach Kroatien im Jahr 2011.",
+   "e": "A trip to Croatia in 2011."
+  },
+  {
+   "s": "Sie fahren jedes Jahr die gleiche Strecke ans Meer.",
+   "e": "Every year they drive the same route to the sea."
+  },
+  {
+   "s": "Sie reden über ein Fest im Sommer.",
+   "e": "They talk about a festival in the summer."
+  },
+  {
+   "s": "Zwei von ihnen gehen an der Fasnacht mit.",
+   "e": "Two of them take part in Fasnacht."
+  },
+  {
+   "s": "Eine von ihnen geht nie abstimmen.",
+   "e": "One of them never votes."
+  },
+  {
+   "s": "Sie haben über ein Auto und ein Zelt geredet.",
+   "e": "They talked about a car and a tent."
+  },
+  {
+   "s": "Sie haben über einen Mann namens Sämi geredet.",
+   "e": "They talked about a man called Sämi."
+  },
+  {
+   "s": "Alle haben gelacht und ich habe mitgelacht.",
+   "e": "They all laughed and I laughed along."
+  },
+  {
+   "s": "Ich habe an den richtigen Stellen gelacht.",
+   "e": "I laughed in the right places."
+  },
+  {
+   "s": "Das kann man lernen und es ist eine Kunst.",
+   "e": "You can learn that and it is an art."
+  },
+  {
+   "s": "Man schaut auf die Person, die redet.",
+   "e": "You watch the person who is talking."
+  },
+  {
+   "s": "Man schaut nicht auf die anderen.",
+   "e": "You do not watch the others."
+  },
+  {
+   "s": "Man lacht eine halbe Sekunde nach ihnen.",
+   "e": "You laugh half a second after them."
+  },
+  {
+   "s": "Nicht zu spät und nicht zu laut.",
+   "e": "Not too late and not too loud."
+  },
+  {
+   "s": "Nach einer Stunde hat Bea etwas gemacht.",
+   "e": "After an hour Bea did something."
+  },
+  {
+   "s": "Sie hat sich zu mir gedreht.",
+   "e": "She turned to me."
+  },
+  {
+   "s": "Sie hat gefragt: Und? Verstehst du etwas?",
+   "e": "She asked: and? Do you understand anything?"
+  },
+  {
+   "s": "Sie hat es ohne Mitleid gefragt.",
+   "e": "She asked it without pity."
+  },
+  {
+   "s": "Ich habe gesagt: Die Hälfte.",
+   "e": "I said: half."
+  },
+  {
+   "s": "Sie hat gesagt: Dann bist du gut.",
+   "e": "She said: then you are doing well."
+  },
+  {
+   "s": "Sie hat gesagt: Mein Mann versteht nach vier Jahren zwei Drittel.",
+   "e": "She said: my husband understands two thirds after four years."
+  },
+  {
+   "s": "Ihr Mann kommt aus Deutschland.",
+   "e": "Her husband is from Germany."
+  },
+  {
+   "s": "Aus Hamburg.",
+   "e": "From Hamburg."
+  },
+  {
+   "s": "Er versteht nach vier Jahren zwei Drittel.",
+   "e": "He understands two thirds after four years."
+  },
+  {
+   "s": "Das hat mir sehr geholfen.",
+   "e": "That helped me a lot."
+  },
+  {
+   "s": "Dann hat sie mir eine Geschichte erklärt.",
+   "e": "Then she explained a story to me."
+  },
+  {
+   "s": "Sie hat den Witz von Kroatien in zwei Sätzen erzählt.",
+   "e": "She told the Croatia joke in two sentences."
+  },
+  {
+   "s": "Sie hat es leise gemacht, nur zu mir.",
+   "e": "She did it quietly, just to me."
+  },
+  {
+   "s": "Sie hat die anderen nicht unterbrochen.",
+   "e": "She did not interrupt the others."
+  },
+  {
+   "s": "Das war das Freundlichste an dem ganzen Abend.",
+   "e": "That was the kindest thing all evening."
+  },
+  {
+   "s": "Um elf sind alle gegangen.",
+   "e": "At eleven everybody left."
+  },
+  {
+   "s": "Alle haben mir die Hand gegeben.",
+   "e": "They all shook my hand."
+  },
+  {
+   "s": "Corinne hat gesagt: Bis in sechs Wochen.",
+   "e": "Corinne said: see you in six weeks."
+  },
+  {
+   "s": "Das war eine Einladung und niemand hat es so genannt.",
+   "e": "That was an invitation and nobody called it one."
+  },
+  {
+   "s": "Im Bus hat Selina nichts gefragt.",
+   "e": "On the bus Selina asked nothing."
+  },
+  {
+   "s": "Nach zehn Minuten habe ich es selber gesagt.",
+   "e": "After ten minutes I said it myself."
+  },
+  {
+   "s": "Ich habe gesagt: Das war anstrengend.",
+   "e": "I said: that was exhausting."
+  },
+  {
+   "s": "Sie hat gesagt: Ich weiss.",
+   "e": "She said: I know."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe dich beobachtet.",
+   "e": "She said: I was watching you."
+  },
+  {
+   "s": "Sie hat gesagt: Du hast dreimal an der falschen Stelle gelacht.",
+   "e": "She said: three times you laughed in the wrong place."
+  },
+  {
+   "s": "Ich habe gesagt: Nur dreimal?",
+   "e": "I said: only three times?"
+  },
+  {
+   "s": "Sie hat gesagt: In zwei Stunden. Das ist sehr wenig.",
+   "e": "She said: in two hours. That is very few."
+  },
+  {
+   "s": "Dann hat sie etwas Wichtiges gesagt.",
+   "e": "Then she said something important."
+  },
+  {
+   "s": "Sie hat gesagt: Diese vier kenne ich länger als dich.",
+   "e": "She said: I have known these four longer than you."
+  },
+  {
+   "s": "Sie hat gesagt: Viel länger.",
+   "e": "She said: much longer."
+  },
+  {
+   "s": "Sie hat gesagt: Das ändert sich nie.",
+   "e": "She said: that never changes."
+  },
+  {
+   "s": "Sie hat es nicht als Warnung gesagt.",
+   "e": "She did not say it as a warning."
+  },
+  {
+   "s": "Sie hat es als Information gesagt.",
+   "e": "She said it as information."
+  },
+  {
+   "s": "Freundschaften hier sind sehr lang.",
+   "e": "Friendships here are very long."
+  },
+  {
+   "s": "Man macht sie mit vierzehn im Turnverein.",
+   "e": "You make them at fourteen in the gymnastics club."
+  },
+  {
+   "s": "Und dann behält man sie dreissig Jahre.",
+   "e": "And then you keep them for thirty years."
+  },
+  {
+   "s": "Ein neuer Mensch kommt dazu und ersetzt niemanden.",
+   "e": "A new person joins and replaces nobody."
+  },
+  {
+   "s": "Das ist die gute Seite davon.",
+   "e": "That is the good side of it."
+  },
+  {
+   "s": "Die andere Seite ist die Wartezeit.",
+   "e": "The other side is the waiting time."
+  },
+  {
+   "s": "Sechs Wochen später bin ich wieder mitgekommen.",
+   "e": "Six weeks later I came along again."
+  },
+  {
+   "s": "Beim zweiten Mal habe ich zwei Drittel verstanden.",
+   "e": "The second time I understood two thirds."
+  },
+  {
+   "s": "Bea hat gelacht und gesagt: Schon?",
+   "e": "Bea laughed and said: already?"
+  }
+ ]
+}

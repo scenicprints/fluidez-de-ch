@@ -1,0 +1,340 @@
+{
+ "id": "p4-10",
+ "title": "Nuno weiss es",
+ "desc": "Telling a friend",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "aufziehen"
+ ],
+ "sn": [
+  {
+   "s": "Ich wollte es Nuno selber sagen.",
+   "e": "I wanted to tell Nuno myself."
+  },
+  {
+   "s": "Das war ein Fehler in der Planung.",
+   "e": "That was a planning error."
+  },
+  {
+   "s": "Er hat es seit einer Woche gewusst.",
+   "e": "He had known for a week."
+  },
+  {
+   "s": "In der Küche am Donnerstag habe ich angefangen.",
+   "e": "In the kitchen on Thursday I started."
+  },
+  {
+   "s": "Ich habe gesagt: Ich muss dir etwas sagen.",
+   "e": "I said: I have to tell you something."
+  },
+  {
+   "s": "Er hat weiter Zwiebeln geschnitten.",
+   "e": "He went on cutting onions."
+  },
+  {
+   "s": "Er hat gesagt: Selina.",
+   "e": "He said: Selina."
+  },
+  {
+   "s": "Nur den Namen.",
+   "e": "Just the name."
+  },
+  {
+   "s": "Ich habe gefragt: Woher weisst du das?",
+   "e": "I asked: how do you know?"
+  },
+  {
+   "s": "Er hat gesagt: Marek hat gesagt, dass du anders läufst.",
+   "e": "He said: Marek said that you walk differently."
+  },
+  {
+   "s": "Und da war es.",
+   "e": "And there it was."
+  },
+  {
+   "s": "Er hat gesagt, dass du anders läufst.",
+   "e": "He said that you walk differently."
+  },
+  {
+   "s": "Ein neues Wort in der Mitte: dass.",
+   "e": "A new word in the middle: dass."
+  },
+  {
+   "s": "Und danach passiert etwas mit dem Verb.",
+   "e": "And after it something happens to the verb."
+  },
+  {
+   "s": "Das Verb geht ganz nach hinten.",
+   "e": "The verb goes right to the back."
+  },
+  {
+   "s": "Er hat gesagt: Du läufst anders.",
+   "e": "He said: you walk differently."
+  },
+  {
+   "s": "Er hat gesagt, dass du anders läufst.",
+   "e": "He said that you walk differently."
+  },
+  {
+   "s": "Im ersten Satz steht läufst an zweiter Stelle.",
+   "e": "In the first sentence läufst is in second position."
+  },
+  {
+   "s": "Im zweiten steht es am Ende.",
+   "e": "In the second it is at the end."
+  },
+  {
+   "s": "Das ist die ganze Sache.",
+   "e": "That is the whole thing."
+  },
+  {
+   "s": "Dass macht aus einem Satz einen Teil von einem Satz.",
+   "e": "Dass turns a sentence into part of a sentence."
+  },
+  {
+   "s": "Und der Teil hat sein Verb am Schluss.",
+   "e": "And that part has its verb at the end."
+  },
+  {
+   "s": "Ich weiss, dass du hier bist.",
+   "e": "I know that you are here."
+  },
+  {
+   "s": "Sie hat gesagt, dass sie kommt.",
+   "e": "She said that she is coming."
+  },
+  {
+   "s": "Er denkt, dass es regnet.",
+   "e": "He thinks that it is raining."
+  },
+  {
+   "s": "Man hört es an der Pause vor dem dass.",
+   "e": "You hear it in the pause before the dass."
+  },
+  {
+   "s": "Im Deutschen steht dort ein Komma.",
+   "e": "In German there is a comma there."
+  },
+  {
+   "s": "Ich habe das acht Monate lang nicht gebraucht.",
+   "e": "I did not need that for eight months."
+  },
+  {
+   "s": "Man kann sehr lange ohne dass reden.",
+   "e": "You can talk without dass for a very long time."
+  },
+  {
+   "s": "Man sagt: Er hat gesagt: Sie kommt.",
+   "e": "You say: he said: she is coming."
+  },
+  {
+   "s": "Das geht und es tönt wie ein Bericht.",
+   "e": "That works and it sounds like a report."
+  },
+  {
+   "s": "Mit dass tönt es wie ein Gespräch.",
+   "e": "With dass it sounds like a conversation."
+  },
+  {
+   "s": "Nuno hat weiter geschnitten.",
+   "e": "Nuno went on cutting."
+  },
+  {
+   "s": "Er hat gesagt: Marek hat es zuerst gemerkt.",
+   "e": "He said: Marek noticed it first."
+  },
+  {
+   "s": "Er hat gesagt: Marek merkt alles.",
+   "e": "He said: Marek notices everything."
+  },
+  {
+   "s": "Er hat gesagt: Er redet nur nie darüber.",
+   "e": "He said: he just never talks about it."
+  },
+  {
+   "s": "Dann hat er das Messer hingelegt.",
+   "e": "Then he put the knife down."
+  },
+  {
+   "s": "Er hat gesagt: Und? Ist es gut?",
+   "e": "He said: and? Is it good?"
+  },
+  {
+   "s": "Nicht: Wie ist sie.",
+   "e": "Not: what is she like."
+  },
+  {
+   "s": "Nicht: Seit wann.",
+   "e": "Not: since when."
+  },
+  {
+   "s": "Sondern: Ist es gut.",
+   "e": "But: is it good."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Er hat gesagt: Gut.",
+   "e": "He said: good."
+  },
+  {
+   "s": "Und dann hat er weiter geschnitten.",
+   "e": "And then he went on cutting."
+  },
+  {
+   "s": "Zwei Minuten später hat er angefangen.",
+   "e": "Two minutes later he started."
+  },
+  {
+   "s": "Er hat gesagt: Eine Schweizerin.",
+   "e": "He said: a Swiss woman."
+  },
+  {
+   "s": "Er hat gesagt: Dann lernst du jetzt richtig Deutsch.",
+   "e": "He said: then you will really learn German now."
+  },
+  {
+   "s": "Er hat gesagt: Und du lernst die Familie kennen.",
+   "e": "He said: and you will get to know the family."
+  },
+  {
+   "s": "Er hat dabei gelacht.",
+   "e": "He laughed as he said it."
+  },
+  {
+   "s": "Er hat gesagt: Viel Glück am Sonntag.",
+   "e": "He said: good luck on Sunday."
+  },
+  {
+   "s": "Ich habe gefragt: Welcher Sonntag?",
+   "e": "I asked: which Sunday?"
+  },
+  {
+   "s": "Er hat gesagt: Es kommt einer.",
+   "e": "He said: one is coming."
+  },
+  {
+   "s": "Er hatte recht und es hat drei Wochen gedauert.",
+   "e": "He was right and it took three weeks."
+  },
+  {
+   "s": "Aufziehen ist das Wort dafür.",
+   "e": "Aufziehen is the word for it."
+  },
+  {
+   "s": "Er zieht mich auf.",
+   "e": "He is teasing me."
+  },
+  {
+   "s": "Sie ziehen ihn auf.",
+   "e": "They are teasing him."
+  },
+  {
+   "s": "Es ist ein Verb mit zwei Teilen.",
+   "e": "It is a verb with two parts."
+  },
+  {
+   "s": "Und es ist hier ein Zeichen von Freundschaft.",
+   "e": "And it is a sign of friendship here."
+  },
+  {
+   "s": "Man zieht niemanden auf, den man nicht mag.",
+   "e": "You do not tease somebody you do not like."
+  },
+  {
+   "s": "Marek hat mich am Freitag aufgezogen.",
+   "e": "Marek teased me on Friday."
+  },
+  {
+   "s": "Er hat gesagt: Der Koch mit dem neuen Gang.",
+   "e": "He said: the cook with the new walk."
+  },
+  {
+   "s": "Alle in der Küche haben gelacht.",
+   "e": "Everybody in the kitchen laughed."
+  },
+  {
+   "s": "Ich habe auch gelacht.",
+   "e": "I laughed too."
+  },
+  {
+   "s": "Das ist die richtige Antwort auf Aufziehen.",
+   "e": "That is the right answer to being teased."
+  },
+  {
+   "s": "Nicht erklären. Nicht böse werden.",
+   "e": "Do not explain. Do not get annoyed."
+  },
+  {
+   "s": "Mitlachen und dann etwas zurückgeben.",
+   "e": "Laugh along and then give something back."
+  },
+  {
+   "s": "Ich habe gesagt: Und du redest seit achtzehn Jahren falsch.",
+   "e": "I said: and you have been talking wrong for eighteen years."
+  },
+  {
+   "s": "Es war zwei Sekunden still.",
+   "e": "It was quiet for two seconds."
+  },
+  {
+   "s": "Dann hat Nuno sehr laut gelacht.",
+   "e": "Then Nuno laughed very loudly."
+  },
+  {
+   "s": "Er hat gesagt: Jetzt ist er einer von uns.",
+   "e": "He said: now he is one of us."
+  },
+  {
+   "s": "Das war der beste Abend seit Monaten.",
+   "e": "That was the best evening for months."
+  },
+  {
+   "s": "Später hat er noch etwas gesagt.",
+   "e": "Later he said something else."
+  },
+  {
+   "s": "Er hat gesagt, dass es jetzt schwieriger wird.",
+   "e": "He said that it gets harder now."
+  },
+  {
+   "s": "Er hat gesagt, dass man mit einer Schweizerin nicht mehr Gast ist.",
+   "e": "He said that with a Swiss woman you are not a guest any more."
+  },
+  {
+   "s": "Er hat gesagt: Als Gast darf man alles falsch machen.",
+   "e": "He said: as a guest you are allowed to get everything wrong."
+  },
+  {
+   "s": "Er hat gesagt: Danach nicht mehr.",
+   "e": "He said: after that you are not."
+  },
+  {
+   "s": "Er hat gesagt: Das ist gut und es ist anstrengend.",
+   "e": "He said: that is good and it is exhausting."
+  },
+  {
+   "s": "Ich habe gefragt: Und bei dir?",
+   "e": "I asked: and with you?"
+  },
+  {
+   "s": "Er hat gesagt: Sofia ist Portugiesin.",
+   "e": "He said: Sofia is Portuguese."
+  },
+  {
+   "s": "Er hat gesagt: Ich bin nie ganz hineingekommen.",
+   "e": "He said: I never got all the way in."
+  },
+  {
+   "s": "Er hat es ohne Trauer gesagt.",
+   "e": "He said it without sorrow."
+  },
+  {
+   "s": "Er hat gesagt: Du vielleicht schon.",
+   "e": "He said: you might."
+  }
+ ]
+}

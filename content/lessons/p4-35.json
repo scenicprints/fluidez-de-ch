@@ -1,0 +1,362 @@
+{
+ "id": "p4-35",
+ "title": "Zu Hause anrufen",
+ "desc": "Explaining Switzerland to your own family",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "fragen",
+  "Jahr",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Ich telefoniere jeden Sonntag nach Hause.",
+   "e": "I phone home every Sunday."
+  },
+  {
+   "s": "Am Anfang war es jeden zweiten Tag.",
+   "e": "At the start it was every other day."
+  },
+  {
+   "s": "Dann jede Woche.",
+   "e": "Then every week."
+  },
+  {
+   "s": "Jetzt jeden Sonntag um sechs.",
+   "e": "Now every Sunday at six."
+  },
+  {
+   "s": "Bei ihnen ist es dann Mittag.",
+   "e": "For them it is midday then."
+  },
+  {
+   "s": "Es ist immer laut bei ihnen.",
+   "e": "It is always loud at their end."
+  },
+  {
+   "s": "Es sind immer vier Leute im Zimmer.",
+   "e": "There are always four people in the room."
+  },
+  {
+   "s": "Alle reden gleichzeitig.",
+   "e": "Everybody talks at the same time."
+  },
+  {
+   "s": "Das ist normal und ich habe es vergessen.",
+   "e": "That is normal and I had forgotten it."
+  },
+  {
+   "s": "Nach einem Jahr hier tönt es sehr laut.",
+   "e": "After a year here it sounds very loud."
+  },
+  {
+   "s": "Das ist eine komische Sache.",
+   "e": "That is an odd thing."
+  },
+  {
+   "s": "Meine Mutter fragt jedes Mal das Gleiche.",
+   "e": "My mother asks the same thing every time."
+  },
+  {
+   "s": "Sie fragt: Isst du genug?",
+   "e": "She asks: are you eating enough?"
+  },
+  {
+   "s": "Sie fragt: Ist es kalt?",
+   "e": "She asks: is it cold?"
+  },
+  {
+   "s": "Und dann fragt sie das andere.",
+   "e": "And then she asks the other thing."
+  },
+  {
+   "s": "Sie fragt: Und? Wann kommst du zurück?",
+   "e": "She asks: and? When are you coming back?"
+  },
+  {
+   "s": "Sie fragt es seit einem Jahr.",
+   "e": "She has been asking it for a year."
+  },
+  {
+   "s": "Zuerst hat sie gemeint: zu Besuch.",
+   "e": "At first she meant: for a visit."
+  },
+  {
+   "s": "Seit einem halben Jahr meint sie etwas anderes.",
+   "e": "For the last six months she has meant something else."
+  },
+  {
+   "s": "Ich habe im Juli zu lange gebraucht für die Antwort.",
+   "e": "In July I took too long to answer."
+  },
+  {
+   "s": "Zwei Sekunden zu lang.",
+   "e": "Two seconds too long."
+  },
+  {
+   "s": "Sie hat es gehört.",
+   "e": "She heard it."
+  },
+  {
+   "s": "Sie hat nichts gesagt.",
+   "e": "She said nothing."
+  },
+  {
+   "s": "Sie hat über das Wetter geredet.",
+   "e": "She talked about the weather."
+  },
+  {
+   "s": "Das ist bei ihr das Zeichen.",
+   "e": "With her that is the signal."
+  },
+  {
+   "s": "Das Schwierigste ist nicht die Frage.",
+   "e": "The hardest part is not the question."
+  },
+  {
+   "s": "Das Schwierigste ist das Erklären.",
+   "e": "The hardest part is the explaining."
+  },
+  {
+   "s": "Ich habe versucht, die Waschküche zu erklären.",
+   "e": "I tried to explain the laundry room."
+  },
+  {
+   "s": "Ich habe von dem Plan an der Wand erzählt.",
+   "e": "I told them about the plan on the wall."
+  },
+  {
+   "s": "Von dem Tag in der Woche.",
+   "e": "About the day of the week."
+  },
+  {
+   "s": "Ich habe von den Kühen im September erzählt.",
+   "e": "I told them about the cows in September."
+  },
+  {
+   "s": "Mein Bruder hat gefragt, ob es dort immer grau ist.",
+   "e": "My brother asked whether it is always grey there."
+  },
+  {
+   "s": "Ihr Hund im Hintergrund hat die ganze Zeit gebellt.",
+   "e": "Their dog in the background barked the whole time."
+  },
+  {
+   "s": "Von dem Klopfen an der Decke.",
+   "e": "About the knocking on the ceiling."
+  },
+  {
+   "s": "Mein Bruder hat gelacht.",
+   "e": "My brother laughed."
+  },
+  {
+   "s": "Er hat gesagt: Das erfindest du.",
+   "e": "He said: you are making that up."
+  },
+  {
+   "s": "Ich habe gesagt: Nein.",
+   "e": "I said: no."
+  },
+  {
+   "s": "Er hat gesagt: Doch. Das ist eine Geschichte.",
+   "e": "He said: yes you are. That is a story."
+  },
+  {
+   "s": "Ich habe zehn Minuten gebraucht und er hat es nicht geglaubt.",
+   "e": "I needed ten minutes and he did not believe it."
+  },
+  {
+   "s": "Das ist das Problem an diesem Land.",
+   "e": "That is the problem with this country."
+  },
+  {
+   "s": "Von aussen tönt alles wie ein Witz.",
+   "e": "From outside everything sounds like a joke."
+  },
+  {
+   "s": "Der Sack mit der Gebühr.",
+   "e": "The bag with a fee on it."
+  },
+  {
+   "s": "Die Ruhezeit am Sonntag.",
+   "e": "The quiet hours on Sunday."
+  },
+  {
+   "s": "Das Gewehr im Schrank.",
+   "e": "The rifle in the cupboard."
+  },
+  {
+   "s": "Die Kerzen am Baum mit dem Eimer daneben.",
+   "e": "The candles on the tree with the bucket next to it."
+  },
+  {
+   "s": "Jedes einzelne davon tönt erfunden.",
+   "e": "Every single one of them sounds invented."
+  },
+  {
+   "s": "Von innen ist es einfach Dienstag.",
+   "e": "From inside it is simply Tuesday."
+  },
+  {
+   "s": "Ich habe aufgehört, die kleinen Sachen zu erzählen.",
+   "e": "I have stopped telling them the small things."
+  },
+  {
+   "s": "Das ist ein Verlust und ich weiss es.",
+   "e": "That is a loss and I know it."
+  },
+  {
+   "s": "Es ist der eigentliche Preis von hier sein.",
+   "e": "It is the real price of being here."
+  },
+  {
+   "s": "Nicht das Geld und nicht das Wetter.",
+   "e": "Not the money and not the weather."
+  },
+  {
+   "s": "Sondern: die Hälfte von meinem Leben ist nicht erzählbar.",
+   "e": "But: half my life cannot be told."
+  },
+  {
+   "s": "Nuno hat gesagt: Das kenne ich.",
+   "e": "Nuno said: I know that."
+  },
+  {
+   "s": "Er hat gesagt: Nach fünf Jahren erzählst du nur noch das Wetter.",
+   "e": "He said: after five years you only tell them about the weather."
+  },
+  {
+   "s": "Er hat gesagt: Und dann ist es auch nicht mehr wahr.",
+   "e": "He said: and then that stops being true too."
+  },
+  {
+   "s": "Er hat gesagt: Sie fragen nach dem Wetter in der Schweiz.",
+   "e": "He said: they ask about the weather in Switzerland."
+  },
+  {
+   "s": "Er hat gesagt: Und du sagst: es geht.",
+   "e": "He said: and you say: it is all right."
+  },
+  {
+   "s": "Er hat gesagt: Und dabei ist Fasnacht.",
+   "e": "He said: and meanwhile it is Fasnacht."
+  },
+  {
+   "s": "Es gibt eine andere Richtung davon.",
+   "e": "There is another direction to it."
+  },
+  {
+   "s": "Ich erkläre hier auch mein Land.",
+   "e": "Here I explain my country too."
+  },
+  {
+   "s": "Marianne fragt viel darüber.",
+   "e": "Marianne asks a lot about it."
+  },
+  {
+   "s": "Sie fragt genau und ohne Urteil.",
+   "e": "She asks precisely and without judgement."
+  },
+  {
+   "s": "Kurt fragt einmal im Jahr etwas.",
+   "e": "Kurt asks something once a year."
+  },
+  {
+   "s": "Und dann ist es genau die richtige Frage.",
+   "e": "And then it is exactly the right question."
+  },
+  {
+   "s": "Ich rede mit ihnen anders über mein Land.",
+   "e": "I talk about my country differently with them."
+  },
+  {
+   "s": "Ich sehe es von hier aus.",
+   "e": "I see it from here."
+  },
+  {
+   "s": "Manches ist besser dort und ich sage es jetzt.",
+   "e": "Some things are better there and I say so now."
+  },
+  {
+   "s": "Manches ist schlechter und das sage ich auch.",
+   "e": "Some things are worse and I say that too."
+  },
+  {
+   "s": "Vor einem Jahr habe ich nur verteidigt.",
+   "e": "A year ago I only defended it."
+  },
+  {
+   "s": "Im Oktober bin ich zwei Wochen hingefahren.",
+   "e": "In October I went there for two weeks."
+  },
+  {
+   "s": "Es war sehr gut und es war komisch.",
+   "e": "It was very good and it was strange."
+  },
+  {
+   "s": "Alles war laut und alles war spät.",
+   "e": "Everything was loud and everything was late."
+  },
+  {
+   "s": "Nichts hat angefangen, wann es sollte.",
+   "e": "Nothing started when it was supposed to."
+  },
+  {
+   "s": "Ich habe mich zweimal darüber geärgert.",
+   "e": "Twice I got annoyed about it."
+  },
+  {
+   "s": "Mein Bruder hat gesagt: Du bist Schweizer geworden.",
+   "e": "My brother said: you have become Swiss."
+  },
+  {
+   "s": "Er hat es als Spass gesagt.",
+   "e": "He said it as a joke."
+  },
+  {
+   "s": "Ich habe drei Tage darüber nachgedacht.",
+   "e": "I thought about it for three days."
+  },
+  {
+   "s": "Am letzten Abend hat meine Mutter gefragt.",
+   "e": "On the last evening my mother asked."
+  },
+  {
+   "s": "Sie hat gefragt: Bleibst du dort?",
+   "e": "She asked: are you staying there?"
+  },
+  {
+   "s": "Die gleichen drei Wörter wie Selina.",
+   "e": "The same three words as Selina."
+  },
+  {
+   "s": "Die gleichen drei Wörter wie Kurt.",
+   "e": "The same three words as Kurt."
+  },
+  {
+   "s": "Diesmal habe ich nicht zu lange gebraucht.",
+   "e": "This time I did not take too long."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat lange nichts gesagt.",
+   "e": "She said nothing for a long time."
+  },
+  {
+   "s": "Dann hat sie gesagt: Gut.",
+   "e": "Then she said: good."
+  },
+  {
+   "s": "Dann hat sie gefragt, wann sie kommen kann.",
+   "e": "Then she asked when she could come."
+  },
+  {
+   "s": "Das war die beste Antwort von allen.",
+   "e": "That was the best answer of all."
+  }
+ ]
+}

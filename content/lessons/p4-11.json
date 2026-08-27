@@ -1,0 +1,333 @@
+{
+ "id": "p4-11",
+ "title": "Frau Amrein hat es gemerkt",
+ "desc": "The neighbour noticed first",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "fragen",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Rosmarie hat es vor Nuno gewusst.",
+   "e": "Rosmarie knew before Nuno."
+  },
+  {
+   "s": "Sie hat es vor mir gewusst.",
+   "e": "She knew before I did."
+  },
+  {
+   "s": "Sie hat mich am Samstag im Treppenhaus getroffen.",
+   "e": "She met me in the stairwell on Saturday."
+  },
+  {
+   "s": "Sie hat gefragt: Seit wann?",
+   "e": "She asked: since when?"
+  },
+  {
+   "s": "Nur zwei Wörter.",
+   "e": "Just two words."
+  },
+  {
+   "s": "Ich habe gefragt: Seit wann was?",
+   "e": "I asked: since when what?"
+  },
+  {
+   "s": "Sie hat gesagt: Seit wann kommst du am Sonntag später heim?",
+   "e": "She said: since when do you come home later on Sunday?"
+  },
+  {
+   "s": "Das ist keine Frage.",
+   "e": "That is not a question."
+  },
+  {
+   "s": "Das ist eine Rechnung.",
+   "e": "That is a calculation."
+  },
+  {
+   "s": "Sie hat gezählt.",
+   "e": "She has been counting."
+  },
+  {
+   "s": "Sie zählt seit acht Monaten.",
+   "e": "She has been counting for eight months."
+  },
+  {
+   "s": "Sie weiss, wann ich das Haus verlasse.",
+   "e": "She knows when I leave the building."
+  },
+  {
+   "s": "Sie weiss, wann das Licht bei mir angeht.",
+   "e": "She knows when my light goes on."
+  },
+  {
+   "s": "Sie weiss, dass ich seit sechs Wochen anders lebe.",
+   "e": "She knows that I have been living differently for six weeks."
+  },
+  {
+   "s": "Ich habe zuerst gedacht: Das ist unangenehm.",
+   "e": "At first I thought: that is uncomfortable."
+  },
+  {
+   "s": "Ich habe zwei Tage später etwas anderes gedacht.",
+   "e": "Two days later I thought something else."
+  },
+  {
+   "s": "Eine alte Frau zählt die Schritte von ihrem Nachbarn.",
+   "e": "An old woman counts her neighbour's footsteps."
+  },
+  {
+   "s": "Das ist Kontrolle und es ist auch Sorge.",
+   "e": "That is surveillance and it is also care."
+  },
+  {
+   "s": "Beides zusammen und man kann es nicht trennen.",
+   "e": "Both together and you cannot separate them."
+  },
+  {
+   "s": "Sie hat einmal einen Mann im dritten Stock gefunden.",
+   "e": "She once found a man on the third floor."
+  },
+  {
+   "s": "Er ist zwei Tage nicht aus der Wohnung gekommen.",
+   "e": "He had not come out of his flat for two days."
+  },
+  {
+   "s": "Sie hat es gemerkt und die Feuerwehr geholt.",
+   "e": "She noticed and called the fire brigade."
+  },
+  {
+   "s": "Er hat noch vier Jahre gelebt.",
+   "e": "He lived another four years."
+  },
+  {
+   "s": "Sie erzählt das nie.",
+   "e": "She never tells that story."
+  },
+  {
+   "s": "Herr Bucher hat es mir erzählt.",
+   "e": "Herr Bucher told me."
+  },
+  {
+   "s": "Im Treppenhaus habe ich also geantwortet.",
+   "e": "So in the stairwell I answered."
+  },
+  {
+   "s": "Ich habe gesagt: Seit sechs Wochen.",
+   "e": "I said: for six weeks."
+  },
+  {
+   "s": "Sie hat gesagt: Ich weiss.",
+   "e": "She said: I know."
+  },
+  {
+   "s": "Sie hat gesagt: Ich wollte es von dir hören.",
+   "e": "She said: I wanted to hear it from you."
+  },
+  {
+   "s": "Das ist der ganze Sinn von der Frage.",
+   "e": "That is the whole point of the question."
+  },
+  {
+   "s": "Sie hat gefragt: Und? Wie heisst sie?",
+   "e": "She asked: and? What is her name?"
+  },
+  {
+   "s": "Ich habe gesagt: Selina.",
+   "e": "I said: Selina."
+  },
+  {
+   "s": "Sie hat gesagt: Und weiter?",
+   "e": "She said: and the rest?"
+  },
+  {
+   "s": "Ich habe gesagt: Odermatt.",
+   "e": "I said: Odermatt."
+  },
+  {
+   "s": "Sie hat zwei Sekunden nachgedacht.",
+   "e": "She thought for two seconds."
+  },
+  {
+   "s": "Sie hat gesagt: Von Kriens?",
+   "e": "She said: from Kriens?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat gesagt: Dann kenne ich ihren Grossvater.",
+   "e": "She said: then I knew her grandfather."
+  },
+  {
+   "s": "Das Land ist sehr klein.",
+   "e": "The country is very small."
+  },
+  {
+   "s": "Es ist so klein, dass es nicht normal ist.",
+   "e": "It is so small that it is not normal."
+  },
+  {
+   "s": "Zwei Leute reden dreissig Sekunden.",
+   "e": "Two people talk for thirty seconds."
+  },
+  {
+   "s": "Dann finden sie einen gemeinsamen Menschen.",
+   "e": "Then they find a person in common."
+  },
+  {
+   "s": "Das passiert hier jeden Tag.",
+   "e": "That happens here every day."
+  },
+  {
+   "s": "Sie hat gesagt, dass er bei der Post gearbeitet hat.",
+   "e": "She said that he had worked at the post office."
+  },
+  {
+   "s": "Sie hat gesagt, dass er sehr ruhig war.",
+   "e": "She said that he was very quiet."
+  },
+  {
+   "s": "Sie hat gesagt: Die ganze Familie ist so.",
+   "e": "She said: the whole family is like that."
+  },
+  {
+   "s": "Sie hat mich dabei angeschaut.",
+   "e": "She looked at me as she said it."
+  },
+  {
+   "s": "Das war eine Warnung und eine freundliche.",
+   "e": "That was a warning and a friendly one."
+  },
+  {
+   "s": "Dann hat sie das Wichtige gefragt.",
+   "e": "Then she asked the important thing."
+  },
+  {
+   "s": "Sie hat gefragt: Bist du glücklich?",
+   "e": "She asked: are you happy?"
+  },
+  {
+   "s": "Niemand hat mich das hier je gefragt.",
+   "e": "Nobody here has ever asked me that."
+  },
+  {
+   "s": "Nicht in neun Monaten.",
+   "e": "Not in nine months."
+  },
+  {
+   "s": "Ich habe zu lange gebraucht für die Antwort.",
+   "e": "I took too long to answer."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist auch eine Antwort.",
+   "e": "She said: that is an answer too."
+  },
+  {
+   "s": "Dann hat sie gesagt: Bring sie einmal mit.",
+   "e": "Then she said: bring her round some time."
+  },
+  {
+   "s": "Ich habe gesagt: Wann?",
+   "e": "I said: when?"
+  },
+  {
+   "s": "Sie hat gesagt: Am Sonntag um vier.",
+   "e": "She said: on Sunday at four."
+  },
+  {
+   "s": "Sie sagt nie mal.",
+   "e": "She never says some time."
+  },
+  {
+   "s": "Am Sonntag um vier sind wir bei ihr gewesen.",
+   "e": "On Sunday at four we were at her place."
+  },
+  {
+   "s": "Sie hat den Kuchen vom Vortag gemacht.",
+   "e": "She had made the cake the day before."
+  },
+  {
+   "s": "Sie hat die guten Tassen genommen.",
+   "e": "She used the good cups."
+  },
+  {
+   "s": "Sie hat Selina zweimal nach ihrer Grossmutter gefragt.",
+   "e": "She asked Selina about her grandmother twice."
+  },
+  {
+   "s": "Die zwei haben vierzig Minuten geredet.",
+   "e": "The two of them talked for forty minutes."
+  },
+  {
+   "s": "Ich habe fast nichts gesagt.",
+   "e": "I said almost nothing."
+  },
+  {
+   "s": "Sie haben über Kriens geredet und über Leute von 1970.",
+   "e": "They talked about Kriens and about people from 1970."
+  },
+  {
+   "s": "Selina hat alles gewusst.",
+   "e": "Selina knew all of it."
+  },
+  {
+   "s": "Sie hat die Namen von der Grossmutter gehabt.",
+   "e": "She had the names from her grandmother."
+  },
+  {
+   "s": "An der Tür hat Rosmarie etwas gesagt.",
+   "e": "At the door Rosmarie said something."
+  },
+  {
+   "s": "Sie hat zu Selina gesagt: Er ist ein guter.",
+   "e": "She said to Selina: he is a good one."
+  },
+  {
+   "s": "Vier Wörter, im Treppenhaus, halb im Gehen.",
+   "e": "Four words, in the stairwell, half on the way out."
+  },
+  {
+   "s": "Selina hat nur genickt.",
+   "e": "Selina just nodded."
+  },
+  {
+   "s": "Unten hat sie gesagt: Das war viel.",
+   "e": "Downstairs she said: that was a lot."
+  },
+  {
+   "s": "Ich habe gefragt: Warum?",
+   "e": "I asked: why?"
+  },
+  {
+   "s": "Sie hat gesagt: Sie hat es zu mir gesagt.",
+   "e": "She said: she said it to me."
+  },
+  {
+   "s": "Sie hat gesagt: Nicht zu dir.",
+   "e": "She said: not to you."
+  },
+  {
+   "s": "Das ist der Unterschied.",
+   "e": "That is the difference."
+  },
+  {
+   "s": "Ein Lob geht hier nicht an die Person.",
+   "e": "Praise here does not go to the person."
+  },
+  {
+   "s": "Es geht an jemand anderen und die Person hört zu.",
+   "e": "It goes to somebody else and the person hears it."
+  },
+  {
+   "s": "So ist es kein Kompliment und es zählt trotzdem.",
+   "e": "That way it is not a compliment and it counts anyway."
+  },
+  {
+   "s": "Ich habe drei Tage daran gedacht.",
+   "e": "I thought about it for three days."
+  }
+ ]
+}

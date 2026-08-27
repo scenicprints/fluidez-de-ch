@@ -1,0 +1,348 @@
+{
+ "id": "p4-16",
+ "title": "Ihr Bruder",
+ "desc": "Somebody who has decided about you already",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Sonntag"
+ ],
+ "sn": [
+  {
+   "s": "Reto Odermatt ist einunddreissig.",
+   "e": "Reto Odermatt is thirty-one."
+  },
+  {
+   "s": "Er ist genau so alt wie ich.",
+   "e": "He is exactly as old as I am."
+  },
+  {
+   "s": "Er arbeitet bei einer Bank in Zug.",
+   "e": "He works at a bank in Zug."
+  },
+  {
+   "s": "Er fährt jeden Tag fünfzig Minuten hin und fünfzig zurück.",
+   "e": "He travels fifty minutes there and fifty back every day."
+  },
+  {
+   "s": "Er trägt am Sonntag ein Hemd.",
+   "e": "He wears a shirt on Sunday."
+  },
+  {
+   "s": "Alle anderen tragen am Sonntag einen Pullover.",
+   "e": "Everybody else wears a jumper on Sunday."
+  },
+  {
+   "s": "Das ist die ganze Information über ihn.",
+   "e": "That is the whole piece of information about him."
+  },
+  {
+   "s": "Am ersten Sonntag hat er mir die Hand gegeben.",
+   "e": "On the first Sunday he shook my hand."
+  },
+  {
+   "s": "Er hat gesagt: Reto.",
+   "e": "He said: Reto."
+  },
+  {
+   "s": "Dann hat er zwei Stunden mit mir nicht geredet.",
+   "e": "Then he did not talk to me for two hours."
+  },
+  {
+   "s": "Nach dem Essen hat er angefangen.",
+   "e": "After the meal he started."
+  },
+  {
+   "s": "Er hat gefragt: Und wie lange bleiben Sie?",
+   "e": "He asked: and how long are you staying?"
+  },
+  {
+   "s": "Er hat Sie gesagt.",
+   "e": "He said Sie."
+  },
+  {
+   "s": "Alle anderen haben Sie gesagt.",
+   "e": "Everybody else said Sie."
+  },
+  {
+   "s": "Bei ihm hat es anders getönt.",
+   "e": "With him it sounded different."
+  },
+  {
+   "s": "Ich habe gesagt: Das weiss ich noch nicht.",
+   "e": "I said: I do not know yet."
+  },
+  {
+   "s": "Er hat gesagt: Aha.",
+   "e": "He said: ah."
+  },
+  {
+   "s": "Dann hat er nichts mehr gesagt.",
+   "e": "Then he said nothing more."
+  },
+  {
+   "s": "Beim zweiten Sonntag war es deutlicher.",
+   "e": "On the second Sunday it was clearer."
+  },
+  {
+   "s": "Wir haben über die Miete geredet.",
+   "e": "We were talking about rent."
+  },
+  {
+   "s": "Ich habe etwas über die Preise in Luzern gesagt.",
+   "e": "I said something about the prices in Luzern."
+  },
+  {
+   "s": "Er hat gesagt: Das sehe ich anders.",
+   "e": "He said: I see that differently."
+  },
+  {
+   "s": "Das sehe ich anders ist der höfliche Widerspruch.",
+   "e": "Das sehe ich anders is the polite way of disagreeing."
+  },
+  {
+   "s": "Man sagt nicht: Das ist falsch.",
+   "e": "You do not say: that is wrong."
+  },
+  {
+   "s": "Man sagt: Das sehe ich anders.",
+   "e": "You say: I see that differently."
+  },
+  {
+   "s": "Und dann sagt man, wie man es sieht.",
+   "e": "And then you say how you see it."
+  },
+  {
+   "s": "Der Satz ist sehr höflich und sehr hart.",
+   "e": "The sentence is very polite and very hard."
+  },
+  {
+   "s": "Er lässt dem anderen seine Meinung.",
+   "e": "It leaves the other person their opinion."
+  },
+  {
+   "s": "Und er nimmt sie nicht ernst.",
+   "e": "And it does not take it seriously."
+  },
+  {
+   "s": "Ich habe gesagt: Wieso?",
+   "e": "I said: why?"
+  },
+  {
+   "s": "Er fährt jeden Tag die gleiche Strecke.",
+   "e": "He does the same route every day."
+  },
+  {
+   "s": "Er redet lieber über Zahlen als über Leute.",
+   "e": "He would rather talk about numbers than about people."
+  },
+  {
+   "s": "Er hat mir vier Minuten lang Zahlen gesagt.",
+   "e": "He gave me four minutes of numbers."
+  },
+  {
+   "s": "Er hatte in drei Punkten recht.",
+   "e": "He was right on three points."
+  },
+  {
+   "s": "Er hatte in einem Punkt nicht recht.",
+   "e": "He was wrong on one point."
+  },
+  {
+   "s": "Ich habe den einen Punkt genommen.",
+   "e": "I took the one point."
+  },
+  {
+   "s": "Ich habe gesagt: In dem Punkt sehe ich es anders.",
+   "e": "I said: on that point I see it differently."
+  },
+  {
+   "s": "Ich habe seinen eigenen Satz gebraucht.",
+   "e": "I used his own sentence."
+  },
+  {
+   "s": "Er hat kurz geschaut.",
+   "e": "He looked up briefly."
+  },
+  {
+   "s": "Dann hat er gesagt: Vielleicht.",
+   "e": "Then he said: maybe."
+  },
+  {
+   "s": "Das war das Ende davon.",
+   "e": "That was the end of it."
+  },
+  {
+   "s": "Beim dritten Sonntag war er unhöflich.",
+   "e": "On the third Sunday he was rude."
+  },
+  {
+   "s": "Nur einmal und nur kurz.",
+   "e": "Only once and only briefly."
+  },
+  {
+   "s": "Wir haben über Arbeit geredet.",
+   "e": "We were talking about work."
+  },
+  {
+   "s": "Ich habe von meinem Büro erzählt.",
+   "e": "I was telling them about my office."
+  },
+  {
+   "s": "Er hat gesagt: Also nichts Richtiges.",
+   "e": "He said: so nothing proper."
+  },
+  {
+   "s": "Vier Wörter, halb im Lachen.",
+   "e": "Four words, half laughing."
+  },
+  {
+   "s": "Am Tisch ist es eine Sekunde still gewesen.",
+   "e": "For a second the table was quiet."
+  },
+  {
+   "s": "Selina hat nichts gesagt.",
+   "e": "Selina said nothing."
+  },
+  {
+   "s": "Sie hat mich nicht verteidigt.",
+   "e": "She did not defend me."
+  },
+  {
+   "s": "Das hat mich zuerst geärgert.",
+   "e": "That annoyed me at first."
+  },
+  {
+   "s": "Es war richtig und ich habe es erst später verstanden.",
+   "e": "It was right and I only understood that later."
+  },
+  {
+   "s": "Sie hat mir im Bus gesagt: Das war nicht über dich.",
+   "e": "On the bus she told me: that was not about you."
+  },
+  {
+   "s": "Sie hat gesagt: Er sagt das zu allen.",
+   "e": "She said: he says that to everybody."
+  },
+  {
+   "s": "Sie hat gesagt: Er hat es zu Timo auch gesagt.",
+   "e": "She said: he said it to Timo too."
+  },
+  {
+   "s": "Ich habe gefragt: Und was hat Timo gemacht?",
+   "e": "I asked: and what did Timo do?"
+  },
+  {
+   "s": "Sie hat gesagt: Timo hat gelacht.",
+   "e": "She said: Timo laughed."
+  },
+  {
+   "s": "Sie hat gesagt: Und dann hat er weitergeredet.",
+   "e": "She said: and then he went on talking."
+  },
+  {
+   "s": "Das ist die Antwort.",
+   "e": "That is the answer."
+  },
+  {
+   "s": "Wenn sie mich verteidigt, dann bin ich ein Kind.",
+   "e": "If she defends me, then I am a child."
+  },
+  {
+   "s": "Wenn ich selber antworte, bin ich einer von ihnen.",
+   "e": "If I answer myself, I am one of them."
+  },
+  {
+   "s": "Das ist hart und es ist auch richtig.",
+   "e": "That is hard and it is also right."
+  },
+  {
+   "s": "Beim vierten Sonntag habe ich gewartet.",
+   "e": "On the fourth Sunday I waited."
+  },
+  {
+   "s": "Er hat wieder etwas gesagt.",
+   "e": "He said something again."
+  },
+  {
+   "s": "Er hat gesagt: Und? Immer noch Briefe?",
+   "e": "He said: and? Still letters?"
+  },
+  {
+   "s": "Ich habe gesagt: Immer noch.",
+   "e": "I said: still."
+  },
+  {
+   "s": "Ich habe gesagt: Und du? Immer noch Zahlen von anderen Leuten?",
+   "e": "I said: and you? Still other people's numbers?"
+  },
+  {
+   "s": "Es war zwei Sekunden still.",
+   "e": "It was quiet for two seconds."
+  },
+  {
+   "s": "Dann hat Kurt hinter seiner Zeitung gelacht.",
+   "e": "Then Kurt laughed behind his newspaper."
+  },
+  {
+   "s": "Einmal, kurz, ohne die Zeitung hinunterzunehmen.",
+   "e": "Once, briefly, without lowering the newspaper."
+  },
+  {
+   "s": "Das war das erste Mal.",
+   "e": "That was the first time."
+  },
+  {
+   "s": "Reto hat auch gelacht.",
+   "e": "Reto laughed too."
+  },
+  {
+   "s": "Er hat gesagt: Fair.",
+   "e": "He said: fair."
+  },
+  {
+   "s": "Ein Wort und es war fertig.",
+   "e": "One word and it was over."
+  },
+  {
+   "s": "Seitdem ist er in Ordnung.",
+   "e": "Since then he has been fine."
+  },
+  {
+   "s": "Er ist nicht freundlich geworden.",
+   "e": "He has not become friendly."
+  },
+  {
+   "s": "Er ist genau gleich geblieben.",
+   "e": "He has stayed exactly the same."
+  },
+  {
+   "s": "Aber er redet jetzt mit mir wie mit Timo.",
+   "e": "But now he talks to me the way he talks to Timo."
+  },
+  {
+   "s": "Selina hat gesagt: Das ist das Maximum.",
+   "e": "Selina said: that is the maximum."
+  },
+  {
+   "s": "Sie hat gesagt: Er ist zu allen so.",
+   "e": "She said: he is like that with everybody."
+  },
+  {
+   "s": "Sie hat gesagt: Ausser zu meiner Grossmutter.",
+   "e": "She said: except with my grandmother."
+  },
+  {
+   "s": "Bei ihr ist er ein anderer Mensch.",
+   "e": "With her he is a different person."
+  },
+  {
+   "s": "Das habe ich im Dezember gesehen.",
+   "e": "I saw that in December."
+  },
+  {
+   "s": "Es hat sehr viel erklärt.",
+   "e": "It explained a great deal."
+  }
+ ]
+}

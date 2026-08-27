@@ -1,0 +1,352 @@
+{
+ "id": "p4-30",
+ "title": "Krank",
+ "desc": "Looking after somebody",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "krank"
+ ],
+ "sn": [
+  {
+   "s": "Im Juni ist Selina krank geworden.",
+   "e": "In June Selina got ill."
+  },
+  {
+   "s": "Nicht ein bisschen krank.",
+   "e": "Not a bit ill."
+  },
+  {
+   "s": "Richtig krank, mit Fieber.",
+   "e": "Really ill, with a fever."
+  },
+  {
+   "s": "Sie hat neununddreissig Grad gehabt.",
+   "e": "She had thirty-nine degrees."
+  },
+  {
+   "s": "Fieber ist die Wärme im Körper bei einer Krankheit.",
+   "e": "Fever is the heat in the body during an illness."
+  },
+  {
+   "s": "Man misst es und man sagt die Zahl.",
+   "e": "You measure it and you say the number."
+  },
+  {
+   "s": "Achtunddreissig ist Fieber.",
+   "e": "Thirty-eight is a fever."
+  },
+  {
+   "s": "Vierzig ist ein Problem.",
+   "e": "Forty is a problem."
+  },
+  {
+   "s": "Sie hat es am Montag am Telefon gesagt.",
+   "e": "She said it on the phone on Monday."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe die Grippe.",
+   "e": "She said: I have the flu."
+  },
+  {
+   "s": "Sie hat gesagt: Komm nicht.",
+   "e": "She said: do not come."
+  },
+  {
+   "s": "Ich bin trotzdem gekommen.",
+   "e": "I came anyway."
+  },
+  {
+   "s": "Das war eine Entscheidung und es war die richtige.",
+   "e": "That was a decision and it was the right one."
+  },
+  {
+   "s": "Sie hat drei Tage nicht gearbeitet.",
+   "e": "She did not work for three days."
+  },
+  {
+   "s": "Am ersten Tag muss man nichts machen.",
+   "e": "On the first day you do not have to do anything."
+  },
+  {
+   "s": "Man ruft an und sagt, dass man krank ist.",
+   "e": "You call and say that you are ill."
+  },
+  {
+   "s": "Ab dem dritten Tag braucht man ein Arztzeugnis.",
+   "e": "From the third day you need a doctor's certificate."
+  },
+  {
+   "s": "Ein Arztzeugnis ist ein Papier vom Arzt.",
+   "e": "An Arztzeugnis is a paper from the doctor."
+  },
+  {
+   "s": "Darauf steht, dass man nicht arbeiten kann.",
+   "e": "On it it says that you cannot work."
+  },
+  {
+   "s": "Es steht nicht darauf, was man hat.",
+   "e": "It does not say what you have."
+  },
+  {
+   "s": "Das ist privat und der Chef darf nicht fragen.",
+   "e": "That is private and the boss may not ask."
+  },
+  {
+   "s": "Das habe ich sehr gut gefunden.",
+   "e": "I thought that was very good."
+  },
+  {
+   "s": "Man bleibt hier zu Hause ohne Entschuldigung.",
+   "e": "Here you stay at home without apologising."
+  },
+  {
+   "s": "Man geht nicht krank ins Büro.",
+   "e": "You do not go into the office ill."
+  },
+  {
+   "s": "Wer krank ins Büro geht, ist unhöflich.",
+   "e": "Somebody who goes into the office ill is being rude."
+  },
+  {
+   "s": "Er macht die anderen krank.",
+   "e": "He makes the others ill."
+  },
+  {
+   "s": "Zu Hause ist das umgekehrt.",
+   "e": "At home it is the other way round."
+  },
+  {
+   "s": "Zu Hause geht man hin und alle finden es gut.",
+   "e": "At home you go in and everybody thinks it is good."
+  },
+  {
+   "s": "Marco hat gesagt: Das ist doch dumm.",
+   "e": "Marco said: that is just stupid."
+  },
+  {
+   "s": "Er hat recht und ich habe es zwanzig Jahre anders gemacht.",
+   "e": "He is right and I did it differently for twenty years."
+  },
+  {
+   "s": "Ich bin für sie einkaufen gegangen.",
+   "e": "I went shopping for her."
+  },
+  {
+   "s": "Ich habe alles zu klein geschnitten.",
+   "e": "I cut everything too small."
+  },
+  {
+   "s": "Am Dienstag bin ich zu ihr gegangen.",
+   "e": "On Tuesday I went to her place."
+  },
+  {
+   "s": "Sie war im Bett und sehr rot im Gesicht.",
+   "e": "She was in bed and very red in the face."
+  },
+  {
+   "s": "Am Freitag ist die Sonne ins Zimmer gekommen.",
+   "e": "On Friday the sun came into the room."
+  },
+  {
+   "s": "Sie hat gesagt: Du wirst auch krank.",
+   "e": "She said: you will get ill too."
+  },
+  {
+   "s": "Ich habe gesagt: Wahrscheinlich.",
+   "e": "I said: probably."
+  },
+  {
+   "s": "Ich bin nicht krank geworden.",
+   "e": "I did not get ill."
+  },
+  {
+   "s": "Ich habe gekocht.",
+   "e": "I cooked."
+  },
+  {
+   "s": "Ich habe eine Suppe gemacht.",
+   "e": "I made a soup."
+  },
+  {
+   "s": "Die Suppe war nicht gut.",
+   "e": "The soup was not good."
+  },
+  {
+   "s": "Sie hat sie gegessen und nichts gesagt.",
+   "e": "She ate it and said nothing."
+  },
+  {
+   "s": "Sie hat nichts geschmeckt.",
+   "e": "She could not taste anything."
+  },
+  {
+   "s": "Das war das Glück an der ganzen Sache.",
+   "e": "That was the lucky part of the whole thing."
+  },
+  {
+   "s": "Sich hinlegen ist das Wort für das Bett am Tag.",
+   "e": "Sich hinlegen is the word for going to bed in the daytime."
+  },
+  {
+   "s": "Leg dich hin.",
+   "e": "Go and lie down."
+  },
+  {
+   "s": "Ich lege mich eine Stunde hin.",
+   "e": "I am going to lie down for an hour."
+  },
+  {
+   "s": "Sich ausruhen ist das andere.",
+   "e": "Sich ausruhen is the other one."
+  },
+  {
+   "s": "Es heisst: nichts machen, damit es besser wird.",
+   "e": "It means: doing nothing so that it gets better."
+  },
+  {
+   "s": "Ruh dich aus.",
+   "e": "Get some rest."
+  },
+  {
+   "s": "Beide haben ein sich und man vergisst es immer.",
+   "e": "Both have a sich and you always forget it."
+  },
+  {
+   "s": "Am Mittwoch war es schlimmer.",
+   "e": "On Wednesday it was worse."
+  },
+  {
+   "s": "Ich habe gefragt, ob ich den Arzt anrufen soll.",
+   "e": "I asked whether I should call the doctor."
+  },
+  {
+   "s": "Sie hat gesagt: Ich bin selber vom Fach.",
+   "e": "She said: I am in the profession myself."
+  },
+  {
+   "s": "Sie hat gesagt: Es ist eine Grippe.",
+   "e": "She said: it is flu."
+  },
+  {
+   "s": "Sie hat gesagt: Sie geht in fünf Tagen.",
+   "e": "She said: it goes in five days."
+  },
+  {
+   "s": "Sie hatte recht und es war trotzdem falsch.",
+   "e": "She was right and it was still wrong."
+  },
+  {
+   "s": "Leute vom Fach sind die schlimmsten Patienten.",
+   "e": "People in the profession are the worst patients."
+  },
+  {
+   "s": "Am Donnerstag habe ich den Arzt geholt.",
+   "e": "On Thursday I got the doctor."
+  },
+  {
+   "s": "Sie war böse für zwanzig Minuten.",
+   "e": "She was annoyed for twenty minutes."
+  },
+  {
+   "s": "Der Arzt hat gesagt: Gut, dass Sie angerufen haben.",
+   "e": "The doctor said: good that you called."
+  },
+  {
+   "s": "Sie war noch zehn Minuten böse.",
+   "e": "She was annoyed for another ten minutes."
+  },
+  {
+   "s": "Dann hat sie nichts mehr dazu gesagt.",
+   "e": "Then she said nothing more about it."
+  },
+  {
+   "s": "Am Freitag ist das Fieber hinunter.",
+   "e": "On Friday the fever went down."
+  },
+  {
+   "s": "Am Samstag ist sie aufgestanden.",
+   "e": "On Saturday she got up."
+  },
+  {
+   "s": "Sie ist zwanzig Minuten am Fenster gesessen.",
+   "e": "She sat at the window for twenty minutes."
+  },
+  {
+   "s": "Dann war sie wieder müde.",
+   "e": "Then she was tired again."
+  },
+  {
+   "s": "Am Sonntag sind wir zwanzig Minuten spazieren gegangen.",
+   "e": "On Sunday we went for a twenty-minute walk."
+  },
+  {
+   "s": "Bis zur Brücke und wieder zurück.",
+   "e": "To the bridge and back."
+  },
+  {
+   "s": "Sie hat gesagt: Ich bin so langsam wie meine Grossmutter.",
+   "e": "She said: I am as slow as my grandmother."
+  },
+  {
+   "s": "Ich habe gesagt: Deine Grossmutter geht schneller.",
+   "e": "I said: your grandmother walks faster."
+  },
+  {
+   "s": "Sie hat gelacht und dann gehustet.",
+   "e": "She laughed and then coughed."
+  },
+  {
+   "s": "Am Montag ist sie wieder arbeiten gegangen.",
+   "e": "On Monday she went back to work."
+  },
+  {
+   "s": "Einen Tag zu früh.",
+   "e": "One day too early."
+  },
+  {
+   "s": "Am Abend hat sie etwas gesagt.",
+   "e": "In the evening she said something."
+  },
+  {
+   "s": "Sie hat gesagt: Ich bin nicht gern krank vor jemandem.",
+   "e": "She said: I do not like being ill in front of somebody."
+  },
+  {
+   "s": "Sie hat gesagt: Das habe ich noch nie gemacht.",
+   "e": "She said: I have never done that before."
+  },
+  {
+   "s": "Sie ist neunundzwanzig.",
+   "e": "She is twenty-nine."
+  },
+  {
+   "s": "Sie hat gesagt: Es war komisch.",
+   "e": "She said: it was strange."
+  },
+  {
+   "s": "Sie hat gesagt: Und es war gut.",
+   "e": "She said: and it was good."
+  },
+  {
+   "s": "Beide Sachen in einem Satz, wie ihre Grossmutter.",
+   "e": "Both things in one sentence, like her grandmother."
+  },
+  {
+   "s": "Zwei Wochen später bin ich krank geworden.",
+   "e": "Two weeks later I got ill."
+  },
+  {
+   "s": "Sie hat drei Tage frei genommen.",
+   "e": "She took three days off."
+  },
+  {
+   "s": "Sie hat besser gekocht als ich.",
+   "e": "She cooked better than I did."
+  },
+  {
+   "s": "Sie hat nichts dazu gesagt.",
+   "e": "She said nothing about it."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc32",
+ "title": "Es tut mir leid",
+ "desc": "An apology has to name the thing",
+ "setting": "By the weir, loud enough that you both have to speak up, three days later than it should be.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Selina",
+   "es": "Also. Du wolltest reden.",
+   "en": "Right. You wanted to talk.",
+   "options": [
+    {
+     "es": "Es tut mir leid für die zwei Tage.",
+     "en": "I am sorry about the two days.",
+     "verdict": "good",
+     "feedback": "Sorry for what. A general es tut mir leid reads as evasion here; the thing has to be named."
+    },
+    {
+     "es": "Es tut mir leid.",
+     "en": "I am sorry.",
+     "verdict": "ok",
+     "feedback": "She will wait. Not to punish you: she is waiting for the second half of the sentence."
+    },
+    {
+     "es": "Ich habe viel nachgedacht.",
+     "en": "I have thought about it a lot.",
+     "verdict": "ok",
+     "feedback": "A good opening and not an apology. It is the sentence she uses, and she uses it before something."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Und der Samstag?",
+   "en": "And the Saturday?",
+   "options": [
+    {
+     "es": "Der Samstag war nicht das Problem.",
+     "en": "The Saturday was not the problem.",
+     "verdict": "good",
+     "feedback": "Correct, and knowing which thing to apologise for is most of the work."
+    },
+    {
+     "es": "Auch das tut mir leid.",
+     "en": "I am sorry about that too.",
+     "verdict": "ok",
+     "feedback": "Adding items to the list is not the same as finding the right one."
+    },
+    {
+     "es": "Da hattest du recht.",
+     "en": "You were right about that.",
+     "verdict": "ok",
+     "feedback": "She was. She was more right about the other thing, and that is what she is waiting for."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Ich war auch zu still. Ich mache das immer.",
+   "en": "I was too quiet too. I always do that.",
+   "options": [
+    {
+     "es": "Ich weiss.",
+     "en": "I know.",
+     "verdict": "good",
+     "feedback": "Her own move, given back. Not ist schon gut, which would make what she just said smaller."
+    },
+    {
+     "es": "Das ist nicht schlimm.",
+     "en": "That is not bad.",
+     "verdict": "bad",
+     "feedback": "She did not offer it to be waved away. Letting it stand is the respectful thing here."
+    },
+    {
+     "es": "Danke, dass du das sagst.",
+     "en": "Thank you for saying that.",
+     "verdict": "good",
+     "feedback": "Warm and it does not shrink it. Slightly big for the register and it lands."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Kaffee?",
+   "en": "Coffee?",
+   "options": [
+    {
+     "es": "Gern.",
+     "en": "Gladly.",
+     "verdict": "good",
+     "feedback": "That is the end of it. No big sentence, no ceremony: a small ordinary thing done together."
+    },
+    {
+     "es": "Ist es wieder gut?",
+     "en": "Is it all right again?",
+     "verdict": "bad",
+     "feedback": "Asking reopens it. Nobody here says the sentence that ends it, and Kaffee was the sentence."
+    },
+    {
+     "es": "Ja. Und dann muss ich noch etwas sagen.",
+     "en": "Yes. And then I have one more thing to say.",
+     "verdict": "ok",
+     "feedback": "If it is a new thing, fine. If it is the same thing again, it will undo the last half hour."
+    }
+   ]
+  }
+ ]
+}

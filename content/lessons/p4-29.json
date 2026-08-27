@@ -1,0 +1,369 @@
+{
+ "id": "p4-29",
+ "title": "Ihre Grossmutter",
+ "desc": "Ninety one, and sharper than anyone",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "erzählen",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Ihre Grossmutter heisst Hedi.",
+   "e": "Her grandmother is called Hedi."
+  },
+  {
+   "s": "Sie ist einundneunzig.",
+   "e": "She is ninety-one."
+  },
+  {
+   "s": "Sie wohnt allein in einer Wohnung in Kriens.",
+   "e": "She lives alone in a flat in Kriens."
+  },
+  {
+   "s": "Sie kocht selber und sie putzt selber.",
+   "e": "She cooks for herself and cleans for herself."
+  },
+  {
+   "s": "Sie geht jeden Tag einkaufen.",
+   "e": "She goes shopping every day."
+  },
+  {
+   "s": "Jeden Tag für einen Tag.",
+   "e": "Every day for one day."
+  },
+  {
+   "s": "Sie sagt: Sonst gehe ich ja nicht mehr hinaus.",
+   "e": "She says: otherwise I would not go out at all."
+  },
+  {
+   "s": "Das ist der eigentliche Grund und sie sagt ihn selber.",
+   "e": "That is the real reason and she says it herself."
+  },
+  {
+   "s": "Sie redet ein anderes Deutsch als alle anderen.",
+   "e": "She speaks a different German from everybody else."
+  },
+  {
+   "s": "Sie sagt Sie zu Leuten, die sie fünfzig Jahre kennt.",
+   "e": "She says Sie to people she has known for fifty years."
+  },
+  {
+   "s": "Sie sagt ganze Sätze mit einem Anfang und einem Ende.",
+   "e": "She says whole sentences with a beginning and an end."
+  },
+  {
+   "s": "Sie benutzt Wörter, die niemand mehr sagt.",
+   "e": "She uses words nobody says any more."
+  },
+  {
+   "s": "Selina hat mir drei davon übersetzt.",
+   "e": "Selina translated three of them for me."
+  },
+  {
+   "s": "Ich verstehe sie besser als die Freundinnen von Selina.",
+   "e": "I understand her better than Selina's friends."
+  },
+  {
+   "s": "Das ist komisch und es hat einen Grund.",
+   "e": "That is odd and there is a reason."
+  },
+  {
+   "s": "Sie redet langsam und mit vielen Pausen.",
+   "e": "She talks slowly and with a lot of pauses."
+  },
+  {
+   "s": "Sie redet nicht schneller für einen Fremden.",
+   "e": "She does not talk faster for a stranger."
+  },
+  {
+   "s": "Und sie redet nicht langsamer für einen Ausländer.",
+   "e": "And she does not talk more slowly for a foreigner."
+  },
+  {
+   "s": "Sie redet einfach.",
+   "e": "She simply talks."
+  },
+  {
+   "s": "Ich bin im Mai zum ersten Mal allein bei ihr gewesen.",
+   "e": "In May I was at her place alone for the first time."
+  },
+  {
+   "s": "Selina hatte Dienst.",
+   "e": "Selina was on shift."
+  },
+  {
+   "s": "Hedi hat angerufen und gesagt: Kommen Sie am Mittwoch.",
+   "e": "Hedi rang and said: come on Wednesday."
+  },
+  {
+   "s": "Sie hat nicht gefragt.",
+   "e": "She did not ask."
+  },
+  {
+   "s": "Sie hat Kuchen gemacht und den Tisch gedeckt.",
+   "e": "She had made cake and laid the table."
+  },
+  {
+   "s": "Für zwei Leute, mit den guten Tassen.",
+   "e": "For two people, with the good cups."
+  },
+  {
+   "s": "Wir sind drei Stunden gesessen.",
+   "e": "We sat for three hours."
+  },
+  {
+   "s": "Sie hat mir vom Krieg erzählt.",
+   "e": "She told me about the war."
+  },
+  {
+   "s": "Der Krieg war hier nicht.",
+   "e": "The war was not here."
+  },
+  {
+   "s": "Das ist der wichtigste Satz über dieses Land.",
+   "e": "That is the most important sentence about this country."
+  },
+  {
+   "s": "Rundherum war Krieg, sechs Jahre lang.",
+   "e": "All around there was war, for six years."
+  },
+  {
+   "s": "In ihrem Zimmer steht ein Regal mit Fotos.",
+   "e": "In her room there is a shelf of photographs."
+  },
+  {
+   "s": "Auf dem Tisch steht immer eine Kerze.",
+   "e": "There is always a candle on the table."
+  },
+  {
+   "s": "Sie geht am Sonntag in die Kirche im Dorf.",
+   "e": "On Sunday she goes to the church in the village."
+  },
+  {
+   "s": "Sie ist als Kind bei den Kühen gewesen.",
+   "e": "As a child she was up with the cows."
+  },
+  {
+   "s": "Sie geht seit siebzig Jahren abstimmen.",
+   "e": "She has been voting for seventy years."
+  },
+  {
+   "s": "Sie geht nur noch selten zum Arzt.",
+   "e": "She hardly ever goes to the doctor now."
+  },
+  {
+   "s": "Sie sagt: Kommen Sie das nächste Mal wieder mit.",
+   "e": "She says: come along again next time."
+  },
+  {
+   "s": "Hier war kein Krieg und alle haben ihn gesehen.",
+   "e": "Here there was no war and everybody saw it."
+  },
+  {
+   "s": "Sie war neun Jahre alt im Jahr 1943.",
+   "e": "She was nine years old in 1943."
+  },
+  {
+   "s": "Sie hat gesagt: Wir hatten Hunger und nicht so viel.",
+   "e": "She said: we were hungry and not that much."
+  },
+  {
+   "s": "Sie hat gesagt: Es gab Karten für alles.",
+   "e": "She said: there were ration cards for everything."
+  },
+  {
+   "s": "Sie hat gesagt: Für Brot, für Butter, für Schuhe.",
+   "e": "She said: for bread, for butter, for shoes."
+  },
+  {
+   "s": "Sie hat gesagt: Ihr Vater war an der Grenze.",
+   "e": "She said: her father was at the border."
+  },
+  {
+   "s": "Sie hat gesagt: Vier Jahre, mit einem Gewehr.",
+   "e": "She said: four years, with a rifle."
+  },
+  {
+   "s": "Sie hat gesagt: Er hat nie geschossen.",
+   "e": "She said: he never fired it."
+  },
+  {
+   "s": "Dann hat sie eine Pause gemacht.",
+   "e": "Then she made a pause."
+  },
+  {
+   "s": "Dann hat sie etwas anderes gesagt.",
+   "e": "Then she said something else."
+  },
+  {
+   "s": "Sie hat gesagt: An der Grenze standen auch Leute.",
+   "e": "She said: there were people at the border too."
+  },
+  {
+   "s": "Sie hat gesagt: Sie wollten herein.",
+   "e": "She said: they wanted to get in."
+  },
+  {
+   "s": "Sie hat gesagt: Wir haben nicht alle hereingelassen.",
+   "e": "She said: we did not let them all in."
+  },
+  {
+   "s": "Sie hat es sehr genau gesagt.",
+   "e": "She said it very precisely."
+  },
+  {
+   "s": "Sie hat nichts erklärt und nichts entschuldigt.",
+   "e": "She explained nothing and excused nothing."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist wahr und man muss es wissen.",
+   "e": "She said: that is true and you have to know it."
+  },
+  {
+   "s": "Ich habe nichts gesagt.",
+   "e": "I said nothing."
+  },
+  {
+   "s": "Es war das Einzige, was ich machen konnte.",
+   "e": "It was the only thing I could do."
+  },
+  {
+   "s": "Dann hat sie über etwas anderes geredet.",
+   "e": "Then she talked about something else."
+  },
+  {
+   "s": "Sie hat mir von ihrem Mann erzählt.",
+   "e": "She told me about her husband."
+  },
+  {
+   "s": "Er ist vor sechs Jahren gestorben.",
+   "e": "He died six years ago."
+  },
+  {
+   "s": "Sie hat gesagt: Er war ein schwieriger Mensch.",
+   "e": "She said: he was a difficult person."
+  },
+  {
+   "s": "Sie hat gesagt: Und ich habe ihn sehr gern gehabt.",
+   "e": "She said: and I was very fond of him."
+  },
+  {
+   "s": "Sie hat beides in einem Satz gesagt.",
+   "e": "She said both in one sentence."
+  },
+  {
+   "s": "Sie hat mir etwas über Marianne erzählt.",
+   "e": "She told me something about Marianne."
+  },
+  {
+   "s": "Sie hat gesagt: Meine Tochter wollte nach Amerika.",
+   "e": "She said: my daughter wanted to go to America."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe nein gesagt.",
+   "e": "She said: I said no."
+  },
+  {
+   "s": "Sie hat gesagt: Das war ein Fehler.",
+   "e": "She said: that was a mistake."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe es ihr nie gesagt.",
+   "e": "She said: I have never told her."
+  },
+  {
+   "s": "Sie hat mich dabei angeschaut.",
+   "e": "She looked at me as she said it."
+  },
+  {
+   "s": "Ich habe verstanden, dass sie es mir aufgibt.",
+   "e": "I understood that she was handing it to me."
+  },
+  {
+   "s": "Das ist eine sehr schwere Sache.",
+   "e": "That is a very heavy thing."
+  },
+  {
+   "s": "Ich habe es Selina zwei Wochen später gesagt.",
+   "e": "I told Selina two weeks later."
+  },
+  {
+   "s": "Sie hat es nicht gewusst.",
+   "e": "She had not known."
+  },
+  {
+   "s": "Sie hat lange nichts gesagt.",
+   "e": "She said nothing for a long time."
+  },
+  {
+   "s": "Dann hat sie gesagt: Warum sagt sie das dir?",
+   "e": "Then she said: why does she say that to you?"
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss es nicht.",
+   "e": "I said: I do not know."
+  },
+  {
+   "s": "Sie hat gesagt: Doch. Du weisst es.",
+   "e": "She said: yes you do. You know."
+  },
+  {
+   "s": "Sie hat gesagt: Weil du gehst.",
+   "e": "She said: because you might go."
+  },
+  {
+   "s": "Sie hat gesagt: Bei dir ist es keine Familiensache.",
+   "e": "She said: with you it is not a family matter."
+  },
+  {
+   "s": "Das war hart und es hat gestimmt.",
+   "e": "That was hard and it was true."
+  },
+  {
+   "s": "Ein Fremder ist ein sicherer Ort für eine Geschichte.",
+   "e": "A stranger is a safe place for a story."
+  },
+  {
+   "s": "Ich bin seitdem alle zwei Wochen bei ihr.",
+   "e": "Since then I go to her every two weeks."
+  },
+  {
+   "s": "Am Mittwoch, um halb drei.",
+   "e": "On Wednesday, at half past two."
+  },
+  {
+   "s": "Sie macht Kuchen und ich bringe nichts mit.",
+   "e": "She makes cake and I bring nothing."
+  },
+  {
+   "s": "Das haben wir einmal geklärt.",
+   "e": "We settled that once."
+  },
+  {
+   "s": "Sie hat gesagt: Sie bringen die Zeit. Das reicht.",
+   "e": "She said: you bring the time. That is enough."
+  },
+  {
+   "s": "Sie erzählt mir jedes Mal etwas Neues.",
+   "e": "She tells me something new every time."
+  },
+  {
+   "s": "Nach einem Jahr weiss ich mehr über diese Familie als Selina.",
+   "e": "After a year I know more about this family than Selina."
+  },
+  {
+   "s": "Das ist eine sehr komische Sache.",
+   "e": "That is a very odd thing."
+  },
+  {
+   "s": "Ich erzähle Selina alles davon.",
+   "e": "I tell Selina all of it."
+  },
+  {
+   "s": "Fast alles.",
+   "e": "Almost all of it."
+  }
+ ]
+}

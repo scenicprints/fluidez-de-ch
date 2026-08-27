@@ -1,0 +1,109 @@
+{
+ "id": "sc30",
+ "title": "Ich mag dich",
+ "desc": "Three words with months between them",
+ "setting": "A train along the lake, a story about somebody on her ward, and the wrong moment.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Selina",
+   "es": "Ich sitze jeden Abend zehn Minuten bei ihr.",
+   "en": "I sit with her for ten minutes every evening.",
+   "options": [
+    {
+     "es": "Warum?",
+     "en": "Why?",
+     "verdict": "good",
+     "feedback": "Ask. She is telling you something about herself and calling it a story about somebody else."
+    },
+    {
+     "es": "Das ist schön von dir.",
+     "en": "That is kind of you.",
+     "verdict": "ok",
+     "feedback": "It is, and saying so turns her into somebody being praised. She will change the subject."
+    },
+    {
+     "es": "Ich mag dich sehr.",
+     "en": "I like you a lot.",
+     "verdict": "bad",
+     "feedback": "Not wrong, and not now. She is in the middle of something. Wait for the end of it."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Und? Was denkst du?",
+   "en": "And? What do you think?",
+   "options": [
+    {
+     "es": "Ich mag dich sehr.",
+     "en": "I like you a lot.",
+     "verdict": "good",
+     "feedback": "Now. Ich mag dich is the small warm one and it is not small at all when it is said to a person."
+    },
+    {
+     "es": "Ich liebe dich.",
+     "en": "I love you.",
+     "verdict": "bad",
+     "feedback": "Months too early. Here that word is an event, not a goodbye, and using it now spends it."
+    },
+    {
+     "es": "Ich habe dich gern.",
+     "en": "I am fond of you.",
+     "verdict": "good",
+     "feedback": "The step above. It sounds smaller in English and it is bigger in German."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Hm.",
+   "en": "Hm.",
+   "options": [
+    {
+     "es": "Warten.",
+     "en": "Wait.",
+     "verdict": "good",
+     "feedback": "Four seconds. Filling them would be the mistake: she is deciding what to do with what you said."
+    },
+    {
+     "es": "War das zu viel?",
+     "en": "Was that too much?",
+     "verdict": "bad",
+     "feedback": "Now she has to manage your worry instead of her own answer. Let the silence finish."
+    },
+    {
+     "es": "Du musst nichts sagen.",
+     "en": "You do not have to say anything.",
+     "verdict": "ok",
+     "feedback": "Kind, and it takes the answer away from her. She was going to give you one."
+    }
+   ]
+  },
+  {
+   "speaker": "Selina",
+   "es": "Ich dich auch.",
+   "en": "Me too.",
+   "options": [
+    {
+     "es": "Nichts sagen und zuhören.",
+     "en": "Say nothing and listen.",
+     "verdict": "good",
+     "feedback": "She will go back to her story. Going back to the story is the biggest thing she can do: nothing is broken."
+    },
+    {
+     "es": "Wirklich?",
+     "en": "Really?",
+     "verdict": "bad",
+     "feedback": "Yes. Asking makes her say it twice, and here nobody says anything twice."
+    },
+    {
+     "es": "Gut.",
+     "en": "Good.",
+     "verdict": "ok",
+     "feedback": "Small and safe. It also closes something she just opened at some cost."
+    }
+   ]
+  }
+ ]
+}

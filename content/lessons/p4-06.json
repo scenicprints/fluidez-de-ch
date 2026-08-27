@@ -1,0 +1,357 @@
+{
+ "id": "p4-06",
+ "title": "Ihre Wohnung",
+ "desc": "Somebody else's rooms",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Tisch",
+  "alt"
+ ],
+ "sn": [
+  {
+   "s": "Nach vier Monaten war ich das erste Mal dort.",
+   "e": "After four months I was there for the first time."
+  },
+  {
+   "s": "Vier Monate für zwei Zimmer.",
+   "e": "Four months for two rooms."
+  },
+  {
+   "s": "Das ist hier normal und ich habe es gelernt.",
+   "e": "That is normal here and I have learned it."
+  },
+  {
+   "s": "Ihre Wohnung ist im dritten Stock.",
+   "e": "Her flat is on the third floor."
+  },
+  {
+   "s": "Es gibt keinen Lift.",
+   "e": "There is no lift."
+  },
+  {
+   "s": "Im Treppenhaus riecht es nach Putzmittel.",
+   "e": "The stairwell smells of cleaning fluid."
+  },
+  {
+   "s": "An jeder Tür steht ein Name.",
+   "e": "There is a name at every door."
+  },
+  {
+   "s": "An ihrer steht Odermatt.",
+   "e": "Hers says Odermatt."
+  },
+  {
+   "s": "Die Wohnung ist klein und sehr hell.",
+   "e": "The flat is small and very light."
+  },
+  {
+   "s": "Sie hat zwei Zimmer und eine schmale Küche.",
+   "e": "It has two rooms and a narrow kitchen."
+  },
+  {
+   "s": "Das grosse Zimmer geht nach Westen.",
+   "e": "The big room faces west."
+  },
+  {
+   "s": "Am Abend ist es orange darin.",
+   "e": "In the evening it is orange inside."
+  },
+  {
+   "s": "Vor dem Fenster steht ein alter Tisch.",
+   "e": "There is an old table in front of the window."
+  },
+  {
+   "s": "Auf dem alten Tisch steht eine grüne Lampe.",
+   "e": "On the old table is a green lamp."
+  },
+  {
+   "s": "Neben der grünen Lampe liegt ein dickes Buch.",
+   "e": "Next to the green lamp lies a thick book."
+  },
+  {
+   "s": "Hier braucht jedes Adjektiv ein Ende.",
+   "e": "Here every adjective needs an ending."
+  },
+  {
+   "s": "Der alte Tisch. Ein alter Tisch.",
+   "e": "The old table. An old table."
+  },
+  {
+   "s": "Die grüne Lampe. Eine grüne Lampe.",
+   "e": "The green lamp. A green lamp."
+  },
+  {
+   "s": "Das dicke Buch. Ein dickes Buch.",
+   "e": "The thick book. A thick book."
+  },
+  {
+   "s": "Mit dem Artikel ist es e oder en.",
+   "e": "With the article it is e or en."
+  },
+  {
+   "s": "Ohne Artikel muss das Adjektiv mehr arbeiten.",
+   "e": "Without an article the adjective has to work harder."
+  },
+  {
+   "s": "Kaltes Wasser. Guter Kaffee. Frische Luft.",
+   "e": "Cold water. Good coffee. Fresh air."
+  },
+  {
+   "s": "Das Adjektiv sagt dann das Geschlecht.",
+   "e": "The adjective then says the gender."
+  },
+  {
+   "s": "Niemand lernt das aus einer Tabelle.",
+   "e": "Nobody learns that from a table."
+  },
+  {
+   "s": "Man hört es und irgendwann tönt das Falsche falsch.",
+   "e": "You hear it and one day the wrong one sounds wrong."
+  },
+  {
+   "s": "An der Wand steht ein Regal aus hellem Holz.",
+   "e": "On the wall is a shelf of light wood."
+  },
+  {
+   "s": "Im Regal stehen ungefähr vierzig Bücher.",
+   "e": "There are about forty books on the shelf."
+  },
+  {
+   "s": "Vierzig ist nicht viel.",
+   "e": "Forty is not a lot."
+  },
+  {
+   "s": "Ich habe die Rücken angeschaut.",
+   "e": "I looked at the spines."
+  },
+  {
+   "s": "Jeder einzelne ist krumm.",
+   "e": "Every single one is bent."
+  },
+  {
+   "s": "An der Tür hängt ein Schild mit ihrem Namen.",
+   "e": "There is a sign with her name on the door."
+  },
+  {
+   "s": "Im Haus wohnt ein Hund im Erdgeschoss.",
+   "e": "There is a dog living on the ground floor."
+  },
+  {
+   "s": "Die Ruhezeit steht auch hier an der Wand.",
+   "e": "The quiet hours are on the wall here too."
+  },
+  {
+   "s": "Vierzig Bücher und alle sind gelesen.",
+   "e": "Forty books and all of them have been read."
+  },
+  {
+   "s": "Das ist etwas anderes als vierhundert im Regal.",
+   "e": "That is something else from four hundred on a shelf."
+  },
+  {
+   "s": "Auf jedem Fenstersims stehen Pflanzen.",
+   "e": "There are plants on every windowsill."
+  },
+  {
+   "s": "In der Küche vier, im Zimmer sechs.",
+   "e": "Four in the kitchen, six in the room."
+  },
+  {
+   "s": "Im Bad steht auch eine.",
+   "e": "There is one in the bathroom too."
+  },
+  {
+   "s": "Alle sind grün und keine blüht.",
+   "e": "They are all green and none of them flowers."
+  },
+  {
+   "s": "Sie sagt: Blumen gehen kaputt.",
+   "e": "She says: flowers die."
+  },
+  {
+   "s": "Sie sagt: Diese hier gehen nicht kaputt.",
+   "e": "She says: these ones do not."
+  },
+  {
+   "s": "In jeder Wohnung hier stehen Pflanzen am Fenster.",
+   "e": "There are plants in the window of every flat here."
+  },
+  {
+   "s": "Von aussen sieht man sie in jedem Haus.",
+   "e": "From outside you see them in every building."
+  },
+  {
+   "s": "Das habe ich vorher nie gemerkt.",
+   "e": "I had never noticed that before."
+  },
+  {
+   "s": "Jetzt sehe ich es auf jeder Strasse.",
+   "e": "Now I see it on every street."
+  },
+  {
+   "s": "Auf dem Kasten stehen drei Fotos.",
+   "e": "There are three photographs on the cupboard."
+  },
+  {
+   "s": "Eines von einer Berghütte im Schnee.",
+   "e": "One of a mountain hut in the snow."
+  },
+  {
+   "s": "Eines von einem alten Mann mit einer Katze.",
+   "e": "One of an old man with a cat."
+  },
+  {
+   "s": "Und eines von vier Frauen an einem See.",
+   "e": "And one of four women by a lake."
+  },
+  {
+   "s": "Sie hat nichts dazu gesagt.",
+   "e": "She said nothing about them."
+  },
+  {
+   "s": "Ich habe nicht gefragt.",
+   "e": "I did not ask."
+  },
+  {
+   "s": "Beim dritten Mal habe ich gefragt.",
+   "e": "The third time I asked."
+  },
+  {
+   "s": "Der alte Mann ist ihr Grossvater.",
+   "e": "The old man is her grandfather."
+  },
+  {
+   "s": "Er ist vor sechs Jahren gestorben.",
+   "e": "He died six years ago."
+  },
+  {
+   "s": "Die Katze lebt noch und wohnt bei ihrer Grossmutter.",
+   "e": "The cat is still alive and lives with her grandmother."
+  },
+  {
+   "s": "Die vier Frauen sind aus der Schule.",
+   "e": "The four women are from school."
+  },
+  {
+   "s": "Sie kennt sie seit dem vierzehnten Jahr.",
+   "e": "She has known them since she was fourteen."
+  },
+  {
+   "s": "Sie sehen sich immer noch alle sechs Wochen.",
+   "e": "They still see each other every six weeks."
+  },
+  {
+   "s": "Seit fünfzehn Jahren, alle sechs Wochen.",
+   "e": "For fifteen years, every six weeks."
+  },
+  {
+   "s": "Das ist hier nicht besonders.",
+   "e": "That is not unusual here."
+  },
+  {
+   "s": "Bei mir ist es sehr besonders.",
+   "e": "For me it is very unusual."
+  },
+  {
+   "s": "Die Wohnung ist sehr sauber.",
+   "e": "The flat is very clean."
+  },
+  {
+   "s": "Nicht ordentlich. Sauber.",
+   "e": "Not tidy. Clean."
+  },
+  {
+   "s": "Auf dem Tisch liegen Papiere und eine Schere.",
+   "e": "There are papers and a pair of scissors on the table."
+  },
+  {
+   "s": "Auf dem Stuhl hängt eine Jacke.",
+   "e": "There is a jacket over the chair."
+  },
+  {
+   "s": "Aber der Boden ist sauber und die Fenster sind sauber.",
+   "e": "But the floor is clean and the windows are clean."
+  },
+  {
+   "s": "Der Unterschied ist wichtig hier.",
+   "e": "The difference matters here."
+  },
+  {
+   "s": "Unordnung ist privat.",
+   "e": "Untidiness is private."
+  },
+  {
+   "s": "Schmutz ist etwas anderes.",
+   "e": "Dirt is something else."
+  },
+  {
+   "s": "Sie hat Tee gemacht.",
+   "e": "She made tea."
+  },
+  {
+   "s": "Sie hat zwei verschiedene Tassen genommen.",
+   "e": "She took two different cups."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe keine zwei gleichen.",
+   "e": "She said: I do not have two the same."
+  },
+  {
+   "s": "Wir sind am Tisch am Fenster gesessen.",
+   "e": "We sat at the table by the window."
+  },
+  {
+   "s": "Draussen ist es dunkel geworden.",
+   "e": "Outside it got dark."
+  },
+  {
+   "s": "Im Haus gegenüber sind Lichter angegangen.",
+   "e": "Lights came on in the building opposite."
+  },
+  {
+   "s": "In jedem Fenster Pflanzen und ein anderes Licht.",
+   "e": "Plants in every window and a different light."
+  },
+  {
+   "s": "Ich habe gesagt: Bei mir ist es genau gleich.",
+   "e": "I said: it is exactly the same at my place."
+  },
+  {
+   "s": "Sie hat gesagt: Ich weiss. Ich war ja dort.",
+   "e": "She said: I know. I have been there."
+  },
+  {
+   "s": "Sie war zweimal bei mir, kurz, an der Tür.",
+   "e": "She had been to mine twice, briefly, at the door."
+  },
+  {
+   "s": "Sie hat sich alles gemerkt.",
+   "e": "She remembered everything."
+  },
+  {
+   "s": "Sie hat die hässliche gelbe Lampe im Keller erwähnt.",
+   "e": "She mentioned the ugly yellow lamp in the cellar."
+  },
+  {
+   "s": "Ich habe sie ihr nie gezeigt.",
+   "e": "I never showed it to her."
+  },
+  {
+   "s": "Rosmarie hat es ihr erzählt.",
+   "e": "Rosmarie told her."
+  },
+  {
+   "s": "Die zwei haben sich im Treppenhaus getroffen.",
+   "e": "The two of them met in the stairwell."
+  },
+  {
+   "s": "Einmal, für vier Minuten.",
+   "e": "Once, for four minutes."
+  },
+  {
+   "s": "Vier Minuten haben gereicht.",
+   "e": "Four minutes were enough."
+  }
+ ]
+}

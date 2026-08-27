@@ -1,0 +1,362 @@
+{
+ "id": "p4-32",
+ "title": "Zwei Tage nichts",
+ "desc": "Silence, on purpose",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "lang",
+  "Tag",
+  "ander"
+ ],
+ "sn": [
+  {
+   "s": "Am Dienstag ist keine Nachricht gekommen.",
+   "e": "On Tuesday no message came."
+  },
+  {
+   "s": "Am Mittwoch auch nicht.",
+   "e": "On Wednesday none either."
+  },
+  {
+   "s": "Zwei Tage sind hier eine ganz normale Zeit.",
+   "e": "Two days is a completely normal length of time here."
+  },
+  {
+   "s": "Für mich waren es zwei sehr lange Tage.",
+   "e": "For me they were two very long days."
+  },
+  {
+   "s": "Zu Hause redet man am nächsten Morgen.",
+   "e": "At home you talk the next morning."
+  },
+  {
+   "s": "Man ruft an und redet zwei Stunden.",
+   "e": "You call and talk for two hours."
+  },
+  {
+   "s": "Man macht es fertig und dann ist es fertig.",
+   "e": "You finish it and then it is finished."
+  },
+  {
+   "s": "Hier macht man das nicht.",
+   "e": "Here people do not do that."
+  },
+  {
+   "s": "Hier lässt man es liegen.",
+   "e": "Here you leave it lying."
+  },
+  {
+   "s": "Nicht aus Kälte.",
+   "e": "Not out of coldness."
+  },
+  {
+   "s": "Man denkt, dass der andere auch Zeit braucht.",
+   "e": "You think that the other person needs time too."
+  },
+  {
+   "s": "Das ist die ganze Idee dahinter.",
+   "e": "That is the whole idea behind it."
+  },
+  {
+   "s": "Man gibt dem anderen Platz.",
+   "e": "You give the other person space."
+  },
+  {
+   "s": "Und der andere sitzt zu Hause und denkt: es ist vorbei.",
+   "e": "And the other person sits at home and thinks: it is over."
+  },
+  {
+   "s": "Beide meinen es gut und beide leiden.",
+   "e": "Both mean well and both suffer."
+  },
+  {
+   "s": "Ich habe am Dienstag Nuno gefragt.",
+   "e": "On Tuesday I asked Nuno."
+  },
+  {
+   "s": "Er hat gesagt: Warte.",
+   "e": "He said: wait."
+  },
+  {
+   "s": "Ich habe gesagt: Wie lange?",
+   "e": "I said: how long?"
+  },
+  {
+   "s": "Er hat gesagt: Bis sie schreibt.",
+   "e": "He said: until she writes."
+  },
+  {
+   "s": "Ich habe gesagt: Und wenn sie nicht schreibt?",
+   "e": "I said: and if she does not write?"
+  },
+  {
+   "s": "Er hat gesagt: Sie schreibt.",
+   "e": "He said: she will write."
+  },
+  {
+   "s": "Er hat es sehr sicher gesagt.",
+   "e": "He said it very confidently."
+  },
+  {
+   "s": "Er hat gesagt: Sie hat gesagt, sie kann nicht mehr.",
+   "e": "He said: she said she could not do any more."
+  },
+  {
+   "s": "Er hat gesagt: Sie hat nicht gesagt, es ist fertig.",
+   "e": "He said: she did not say it was over."
+  },
+  {
+   "s": "Das ist der Unterschied.",
+   "e": "That is the difference."
+  },
+  {
+   "s": "Er hat gesagt: Hier sagen die Leute genau, was sie meinen.",
+   "e": "He said: here people say exactly what they mean."
+  },
+  {
+   "s": "Er hat gesagt: Auch im Streit.",
+   "e": "He said: in an argument too."
+  },
+  {
+   "s": "Er hat gesagt: Besonders im Streit.",
+   "e": "He said: especially in an argument."
+  },
+  {
+   "s": "Das war das Nützlichste an den zwei Tagen.",
+   "e": "That was the most useful thing about those two days."
+  },
+  {
+   "s": "Am Mittwoch habe ich acht Nachrichten geschrieben.",
+   "e": "On Wednesday I wrote eight messages."
+  },
+  {
+   "s": "Es war zwei Tage lang grau.",
+   "e": "It was grey for two days."
+  },
+  {
+   "s": "Im Haus war Ruhezeit und ich habe nichts gehört.",
+   "e": "In the building it was quiet hours and I heard nothing."
+  },
+  {
+   "s": "Es tut mir leid war zu wenig für diese zwei Tage.",
+   "e": "Es tut mir leid was not enough for those two days."
+  },
+  {
+   "s": "Ich habe wieder keine geschickt.",
+   "e": "Again I sent none."
+  },
+  {
+   "s": "Eine Nachricht in dieser Zeit ist gefährlich.",
+   "e": "A message at a time like that is dangerous."
+  },
+  {
+   "s": "Sie kommt an einem falschen Moment an.",
+   "e": "It arrives at the wrong moment."
+  },
+  {
+   "s": "Sie ist zu kurz oder zu lang.",
+   "e": "It is too short or too long."
+  },
+  {
+   "s": "Und der andere liest einen Ton hinein.",
+   "e": "And the other person reads a tone into it."
+  },
+  {
+   "s": "Das habe ich beim ersten Streit gelernt.",
+   "e": "I learned that in the first argument."
+  },
+  {
+   "s": "Kurze kalte Nachrichten sind das Schlimmste.",
+   "e": "Short cold messages are the worst."
+  },
+  {
+   "s": "Ok. Ja. Verstehe.",
+   "e": "Ok. Yes. I see."
+  },
+  {
+   "s": "Drei Wörter und der ganze Tag ist kaputt.",
+   "e": "Three words and the whole day is ruined."
+  },
+  {
+   "s": "Man schreibt sie und meint nichts.",
+   "e": "You write them and mean nothing."
+  },
+  {
+   "s": "Der andere liest sie und hört alles.",
+   "e": "The other person reads them and hears everything."
+  },
+  {
+   "s": "Ich habe im Büro nicht gut gearbeitet.",
+   "e": "I did not work well in the office."
+  },
+  {
+   "s": "Marco hat gefragt: Alles gut?",
+   "e": "Marco asked: all good?"
+  },
+  {
+   "s": "Ich habe gesagt: Es geht so.",
+   "e": "I said: it is going all right."
+  },
+  {
+   "s": "Er hat gesagt: Aha.",
+   "e": "He said: ah."
+  },
+  {
+   "s": "Er hat nicht weiter gefragt.",
+   "e": "He did not ask further."
+  },
+  {
+   "s": "Am Nachmittag hat er einen Kaffee gebracht.",
+   "e": "In the afternoon he brought a coffee."
+  },
+  {
+   "s": "Das ist bei ihm die ganze Sprache dafür.",
+   "e": "With him that is the whole language for it."
+  },
+  {
+   "s": "Am Mittwochabend habe ich mit Rosmarie geredet.",
+   "e": "On Wednesday evening I talked to Rosmarie."
+  },
+  {
+   "s": "Sie hat mich im Treppenhaus getroffen.",
+   "e": "She met me in the stairwell."
+  },
+  {
+   "s": "Sie hat gesagt: Du siehst schlecht aus.",
+   "e": "She said: you look bad."
+  },
+  {
+   "s": "Sie sagt so etwas direkt.",
+   "e": "She says something like that directly."
+  },
+  {
+   "s": "Ich habe es ihr erzählt.",
+   "e": "I told her about it."
+  },
+  {
+   "s": "Sie hat lange nichts gesagt.",
+   "e": "She said nothing for a long time."
+  },
+  {
+   "s": "Dann hat sie gefragt: Hat sie recht?",
+   "e": "Then she asked: is she right?"
+  },
+  {
+   "s": "Nicht: Was hast du gesagt.",
+   "e": "Not: what did you say."
+  },
+  {
+   "s": "Nicht: Wer hat angefangen.",
+   "e": "Not: who started it."
+  },
+  {
+   "s": "Sondern: Hat sie recht.",
+   "e": "But: is she right."
+  },
+  {
+   "s": "Ich habe gesagt: In einer Sache schon.",
+   "e": "I said: in one thing, yes."
+  },
+  {
+   "s": "Sie hat gesagt: Dann sag ihr das.",
+   "e": "She said: then tell her that."
+  },
+  {
+   "s": "Sie hat gesagt: Nur das eine.",
+   "e": "She said: only that one thing."
+  },
+  {
+   "s": "Sie hat gesagt: Und nichts anderes dazu.",
+   "e": "She said: and nothing else with it."
+  },
+  {
+   "s": "Das war ein sehr guter Rat.",
+   "e": "That was very good advice."
+  },
+  {
+   "s": "Ich habe am Donnerstag um sieben geschrieben.",
+   "e": "On Thursday at seven I wrote."
+  },
+  {
+   "s": "Ich habe geschrieben: Du hast recht wegen dem Englisch.",
+   "e": "I wrote: you are right about the English."
+  },
+  {
+   "s": "Mehr nicht.",
+   "e": "Nothing more."
+  },
+  {
+   "s": "Acht Wörter.",
+   "e": "Eight words."
+  },
+  {
+   "s": "Sie hat nach zwei Stunden geantwortet.",
+   "e": "She answered after two hours."
+  },
+  {
+   "s": "Sie hat geschrieben: Danke.",
+   "e": "She wrote: thank you."
+  },
+  {
+   "s": "Ein Wort.",
+   "e": "One word."
+  },
+  {
+   "s": "Dann nach einer Minute noch eines.",
+   "e": "Then after a minute one more."
+  },
+  {
+   "s": "Sie hat geschrieben: Samstag?",
+   "e": "She wrote: Saturday?"
+  },
+  {
+   "s": "Ein Wort und ein Fragezeichen.",
+   "e": "One word and a question mark."
+  },
+  {
+   "s": "Ich bin am Küchentisch gesessen und habe geheult.",
+   "e": "I sat at the kitchen table and cried."
+  },
+  {
+   "s": "Wegen einem Wort und einem Fragezeichen.",
+   "e": "Because of one word and a question mark."
+  },
+  {
+   "s": "Ich habe geschrieben: Ja.",
+   "e": "I wrote: yes."
+  },
+  {
+   "s": "Zwei Tage und dann vier Wörter zusammen.",
+   "e": "Two days and then four words between us."
+  },
+  {
+   "s": "Das ist die ganze Kommunikation von dieser Woche.",
+   "e": "That is the whole communication of that week."
+  },
+  {
+   "s": "Nuno hat gesagt: Siehst du.",
+   "e": "Nuno said: you see."
+  },
+  {
+   "s": "Ich habe gesagt: Zwei Tage sind zu lang.",
+   "e": "I said: two days is too long."
+  },
+  {
+   "s": "Er hat gesagt: Für dich.",
+   "e": "He said: for you."
+  },
+  {
+   "s": "Er hat gesagt: Für sie waren es zwei Tage denken.",
+   "e": "He said: for her it was two days of thinking."
+  },
+  {
+   "s": "Er hat gesagt: Ihr habt beide gelitten.",
+   "e": "He said: you both suffered."
+  },
+  {
+   "s": "Er hat gesagt: Sie hat nur gewusst, dass es aufhört.",
+   "e": "He said: she just knew that it would stop."
+  }
+ ]
+}

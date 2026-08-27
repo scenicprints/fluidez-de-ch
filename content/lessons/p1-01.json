@@ -5,18 +5,18 @@
  "ph": 1,
  "diff": 2,
  "wu": [
-  "Schlüssel",
   "Kühlschrank",
   "rauchen",
+  "Schlüssel",
   "Bad",
   "Herr",
-  "Miete",
   "Keller",
+  "sauber",
+  "Stock",
+  "Miete",
   "Küche",
   "Wohnung",
-  "Stock",
-  "putzen",
-  "geben"
+  "putzen"
  ],
  "sn": [
   {

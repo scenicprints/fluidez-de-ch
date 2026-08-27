@@ -1,0 +1,348 @@
+{
+ "id": "p4-04",
+ "title": "Ich mag dich",
+ "desc": "Saying a small thing that is not small",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Es gibt hier drei Wörter dafür.",
+   "e": "There are three words for it here."
+  },
+  {
+   "s": "Und man braucht sie sehr genau.",
+   "e": "And you use them very precisely."
+  },
+  {
+   "s": "Ich mag dich.",
+   "e": "I like you."
+  },
+  {
+   "s": "Ich habe dich gern.",
+   "e": "I am fond of you."
+  },
+  {
+   "s": "Ich liebe dich.",
+   "e": "I love you."
+  },
+  {
+   "s": "Zwischen dem ersten und dem dritten liegen Monate.",
+   "e": "Between the first and the third are months."
+  },
+  {
+   "s": "Manchmal Jahre.",
+   "e": "Sometimes years."
+  },
+  {
+   "s": "Ich mag dich ist klein und warm.",
+   "e": "Ich mag dich is small and warm."
+  },
+  {
+   "s": "Man sagt es auch über einen Kollegen.",
+   "e": "You say it about a colleague too."
+  },
+  {
+   "s": "Ich mag den Marco. Ich mag diese Beiz.",
+   "e": "I like Marco. I like this pub."
+  },
+  {
+   "s": "Zu einer Person direkt ist es mehr.",
+   "e": "To a person directly it is more."
+  },
+  {
+   "s": "Ich mag dich heisst: du bist mir wichtig.",
+   "e": "Ich mag dich means: you matter to me."
+  },
+  {
+   "s": "Ich habe dich gern ist wärmer.",
+   "e": "Ich habe dich gern is warmer."
+  },
+  {
+   "s": "Es ist die Stufe davor.",
+   "e": "It is the step before."
+  },
+  {
+   "s": "Es tönt klein und es ist gross.",
+   "e": "It sounds small and it is big."
+  },
+  {
+   "s": "Ich liebe dich sagt man selten.",
+   "e": "Ich liebe dich is said rarely."
+  },
+  {
+   "s": "Man sagt es nicht am Anfang.",
+   "e": "You do not say it at the beginning."
+  },
+  {
+   "s": "Man sagt es nicht am Telefon.",
+   "e": "You do not say it on the phone."
+  },
+  {
+   "s": "Sie sagt lieber wenig als zu viel.",
+   "e": "She would rather say too little than too much."
+  },
+  {
+   "s": "Man sagt es nicht zum Abschied jeden Tag.",
+   "e": "You do not say it as a goodbye every day."
+  },
+  {
+   "s": "Nuno hat gesagt: Bei uns sagt man es immer.",
+   "e": "Nuno said: with us people say it all the time."
+  },
+  {
+   "s": "Er hat gesagt: Hier ist es ein Ereignis.",
+   "e": "He said: here it is an event."
+  },
+  {
+   "s": "Er hat gesagt: Beides ist in Ordnung.",
+   "e": "He said: both are fine."
+  },
+  {
+   "s": "Er hat gesagt: Aber misch sie nicht.",
+   "e": "He said: but do not mix them."
+  },
+  {
+   "s": "Ich habe es am Dienstag gesagt.",
+   "e": "I said it on Tuesday."
+  },
+  {
+   "s": "Nicht das dritte. Das erste.",
+   "e": "Not the third one. The first."
+  },
+  {
+   "s": "Und ich habe es falsch gesagt.",
+   "e": "And I said it wrong."
+  },
+  {
+   "s": "Wir waren im Zug nach Stansstad.",
+   "e": "We were on the train to Stansstad."
+  },
+  {
+   "s": "Sie hat vom Spital erzählt.",
+   "e": "She was telling me about the hospital."
+  },
+  {
+   "s": "Von einer Frau auf ihrer Station.",
+   "e": "About a woman on her ward."
+  },
+  {
+   "s": "Die Frau ist sechsundneunzig und will nicht mehr essen.",
+   "e": "The woman is ninety-six and does not want to eat any more."
+  },
+  {
+   "s": "Selina sitzt jeden Abend zehn Minuten bei ihr.",
+   "e": "Selina sits with her for ten minutes every evening."
+  },
+  {
+   "s": "Nicht für das Essen. Nur so.",
+   "e": "Not for the eating. Just because."
+  },
+  {
+   "s": "Sie hat es ganz normal erzählt.",
+   "e": "She told it quite normally."
+  },
+  {
+   "s": "Ich habe zugehört und dann habe ich es gesagt.",
+   "e": "I listened and then I said it."
+  },
+  {
+   "s": "Ich habe gesagt: Ich mag dich sehr.",
+   "e": "I said: I like you a lot."
+  },
+  {
+   "s": "Mitten in ihrer Geschichte.",
+   "e": "In the middle of her story."
+  },
+  {
+   "s": "Das war der falsche Moment.",
+   "e": "That was the wrong moment."
+  },
+  {
+   "s": "Sie hat aufgehört zu reden.",
+   "e": "She stopped talking."
+  },
+  {
+   "s": "Sie hat aus dem Fenster geschaut.",
+   "e": "She looked out of the window."
+  },
+  {
+   "s": "Draussen war der See und es war grau.",
+   "e": "Outside was the lake and it was grey."
+  },
+  {
+   "s": "Vier Sekunden lang hat sie nichts gesagt.",
+   "e": "For four seconds she said nothing."
+  },
+  {
+   "s": "Vier Sekunden sind sehr viel länger als zwei.",
+   "e": "Four seconds are a great deal longer than two."
+  },
+  {
+   "s": "Dann hat sie gesagt: Ich dich auch.",
+   "e": "Then she said: me too."
+  },
+  {
+   "s": "Drei Wörter.",
+   "e": "Three words."
+  },
+  {
+   "s": "Sie hat mich dabei nicht angeschaut.",
+   "e": "She did not look at me as she said it."
+  },
+  {
+   "s": "Sie hat weiter aus dem Fenster geschaut.",
+   "e": "She went on looking out of the window."
+  },
+  {
+   "s": "Zu Hause ist das eine Katastrophe.",
+   "e": "At home that is a disaster."
+  },
+  {
+   "s": "Hier ist es das Gegenteil.",
+   "e": "Here it is the opposite."
+  },
+  {
+   "s": "Sie hat nicht gelacht und nicht gefragt.",
+   "e": "She did not laugh and did not ask."
+  },
+  {
+   "s": "Sie hat es genommen und zurückgegeben.",
+   "e": "She took it and gave it back."
+  },
+  {
+   "s": "Und dann hat sie ihre Geschichte fertig erzählt.",
+   "e": "And then she finished her story."
+  },
+  {
+   "s": "Das ist hier die grösste Antwort.",
+   "e": "That is the biggest answer here."
+  },
+  {
+   "s": "Weiterreden heisst: es ist nichts kaputt.",
+   "e": "Going on talking means: nothing is broken."
+  },
+  {
+   "s": "Es heisst: du gehörst jetzt dazu.",
+   "e": "It means: you belong here now."
+  },
+  {
+   "s": "Ich habe zwei Tage gebraucht für diesen Gedanken.",
+   "e": "I needed two days for that thought."
+  },
+  {
+   "s": "Am Anfang habe ich gedacht: Sie hat nichts gefühlt.",
+   "e": "At first I thought: she felt nothing."
+  },
+  {
+   "s": "Nuno hat gelacht.",
+   "e": "Nuno laughed."
+  },
+  {
+   "s": "Er hat gesagt: Vier Sekunden Pause.",
+   "e": "He said: four seconds of silence."
+  },
+  {
+   "s": "Er hat gesagt: Und dann ich dich auch.",
+   "e": "He said: and then me too."
+  },
+  {
+   "s": "Er hat gesagt: Mehr bekommst du hier nicht.",
+   "e": "He said: you will not get more than that here."
+  },
+  {
+   "s": "Er hat gesagt: Und mehr brauchst du nicht.",
+   "e": "He said: and you do not need more."
+  },
+  {
+   "s": "Im Zug zurück habe ich es noch einmal versucht.",
+   "e": "On the train back I tried it again."
+  },
+  {
+   "s": "Diesmal am richtigen Ort.",
+   "e": "This time in the right place."
+  },
+  {
+   "s": "Wir sind an der Haltestelle gestanden.",
+   "e": "We were standing at the stop."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe dich gern.",
+   "e": "I said: I am fond of you."
+  },
+  {
+   "s": "Das ist die Stufe darüber.",
+   "e": "That is the step above."
+  },
+  {
+   "s": "Sie hat mich angeschaut und nichts gesagt.",
+   "e": "She looked at me and said nothing."
+  },
+  {
+   "s": "Dann hat sie genickt.",
+   "e": "Then she nodded."
+  },
+  {
+   "s": "Ein Nicken ist hier eine ganze Antwort.",
+   "e": "A nod is a whole answer here."
+  },
+  {
+   "s": "Zwei Wochen später hat sie es zuerst gesagt.",
+   "e": "Two weeks later she said it first."
+  },
+  {
+   "s": "Sie hat es am Telefon gesagt und dann aufgelegt.",
+   "e": "She said it on the phone and then hung up."
+  },
+  {
+   "s": "Sie hat aufgelegt. So musste ich nichts sagen.",
+   "e": "She hung up. That way I did not have to say anything."
+  },
+  {
+   "s": "Das habe ich sehr gut verstanden.",
+   "e": "I understood that very well."
+  },
+  {
+   "s": "Das dritte Wort ist im April gekommen.",
+   "e": "The third word came in April."
+  },
+  {
+   "s": "Nicht in diesem Kapitel.",
+   "e": "Not in this chapter."
+  },
+  {
+   "s": "Man sagt es hier nicht früh.",
+   "e": "People do not say it early here."
+  },
+  {
+   "s": "Man sagt es und dann stimmt es.",
+   "e": "People say it and then it is true."
+  },
+  {
+   "s": "Rosmarie hat es einmal erklärt.",
+   "e": "Rosmarie explained it once."
+  },
+  {
+   "s": "Sie hat gesagt: Wir sagen wenig.",
+   "e": "She said: we say little."
+  },
+  {
+   "s": "Sie hat gesagt: Darum zählt jedes Wort.",
+   "e": "She said: that is why every word counts."
+  },
+  {
+   "s": "Sie hat gesagt: Ihr sagt viel.",
+   "e": "She said: you lot say a lot."
+  },
+  {
+   "s": "Sie hat gesagt: Vielleicht ist das besser. Vielleicht nicht.",
+   "e": "She said: maybe that is better. Maybe not."
+  },
+  {
+   "s": "Sie hat es freundlich gesagt.",
+   "e": "She said it kindly."
+  }
+ ]
+}

@@ -1,0 +1,359 @@
+{
+ "id": "p4-12",
+ "title": "Sonntagessen in Kriens",
+ "desc": "Lunch with the parents",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "reden",
+  "fragen",
+  "stehen",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Die Einladung ist über Selina gekommen.",
+   "e": "The invitation came through Selina."
+  },
+  {
+   "s": "Sie hat gesagt: Meine Mutter fragt, ob du am Sonntag kommst.",
+   "e": "She said: my mother asks if you are coming on Sunday."
+  },
+  {
+   "s": "Fragt, ob ist die höfliche Form für eine Einladung.",
+   "e": "Fragt, ob is the polite form for an invitation."
+  },
+  {
+   "s": "Ob ist wie dass und es bedeutet: vielleicht ja, vielleicht nein.",
+   "e": "Ob is like dass and it means: maybe yes, maybe no."
+  },
+  {
+   "s": "Ich weiss nicht, ob er kommt.",
+   "e": "I do not know if he is coming."
+  },
+  {
+   "s": "Sie fragt, ob es regnet.",
+   "e": "She is asking if it is raining."
+  },
+  {
+   "s": "Das Verb geht auch hier ganz nach hinten.",
+   "e": "The verb goes right to the back here too."
+  },
+  {
+   "s": "Ich habe sofort ja gesagt.",
+   "e": "I said yes at once."
+  },
+  {
+   "s": "Danach habe ich zwei Wochen daran gedacht.",
+   "e": "After that I thought about it for two weeks."
+  },
+  {
+   "s": "Ein Sonntagessen ist hier eine grosse Sache.",
+   "e": "A Sunday lunch is a big thing here."
+  },
+  {
+   "s": "Es ist nicht ein Essen am Sonntag.",
+   "e": "It is not a meal on Sunday."
+  },
+  {
+   "s": "Es ist das Essen am Sonntag.",
+   "e": "It is the meal on Sunday."
+  },
+  {
+   "s": "Es fängt um halb zwölf an.",
+   "e": "It starts at half past eleven."
+  },
+  {
+   "s": "Es hört um fünf auf.",
+   "e": "It finishes at five."
+  },
+  {
+   "s": "Fünf Stunden an einem Tisch.",
+   "e": "Five hours at a table."
+  },
+  {
+   "s": "Das habe ich vorher nicht gewusst.",
+   "e": "I did not know that beforehand."
+  },
+  {
+   "s": "Selina hat mir drei Sachen gesagt.",
+   "e": "Selina told me three things."
+  },
+  {
+   "s": "Erstens: Sie sagen Sie zu dir.",
+   "e": "First: they will say Sie to you."
+  },
+  {
+   "s": "Zweitens: Sag Sie zurück und warte.",
+   "e": "Second: say Sie back and wait."
+  },
+  {
+   "s": "Drittens: Bring Blumen für sie und Wein für ihn.",
+   "e": "Third: bring flowers for her and wine for him."
+  },
+  {
+   "s": "Nicht umgekehrt.",
+   "e": "Not the other way round."
+  },
+  {
+   "s": "Ich habe gefragt: Wie lange sage ich Sie?",
+   "e": "I asked: how long do I say Sie?"
+  },
+  {
+   "s": "Sie hat gesagt: Vielleicht ein Jahr.",
+   "e": "She said: maybe a year."
+  },
+  {
+   "s": "Sie hat gesagt: Vielleicht länger.",
+   "e": "She said: maybe longer."
+  },
+  {
+   "s": "Sie hat gesagt: Meine Mutter entscheidet das.",
+   "e": "She said: my mother decides that."
+  },
+  {
+   "s": "Ich habe gefragt: Und dein Vater?",
+   "e": "I asked: and your father?"
+  },
+  {
+   "s": "Sie hat gelacht.",
+   "e": "She laughed."
+  },
+  {
+   "s": "Sie hat gesagt: Mein Vater sagt zu allen Sie.",
+   "e": "She said: my father says Sie to everybody."
+  },
+  {
+   "s": "Sie hat gesagt: Ausser zu uns und den Kühen.",
+   "e": "She said: except to us and the cows."
+  },
+  {
+   "s": "Am Sonntag bin ich um Viertel nach elf da.",
+   "e": "On Sunday I am there at quarter past eleven."
+  },
+  {
+   "s": "Am Morgen war die Familie in der Kirche.",
+   "e": "In the morning the family had been to church."
+  },
+  {
+   "s": "Nicht alle. Marianne und die Grossmutter.",
+   "e": "Not all of them. Marianne and the grandmother."
+  },
+  {
+   "s": "Am Nachmittag reden sie über ein Fest im Dorf.",
+   "e": "In the afternoon they talk about a village festival."
+  },
+  {
+   "s": "Und über eine Abstimmung im Juni.",
+   "e": "And about a vote in June."
+  },
+  {
+   "s": "Fünfzehn Minuten zu früh.",
+   "e": "Fifteen minutes early."
+  },
+  {
+   "s": "Das ist hier richtig.",
+   "e": "That is right here."
+  },
+  {
+   "s": "Und es war trotzdem zu früh.",
+   "e": "And it was still too early."
+  },
+  {
+   "s": "Ihre Mutter hat die Tür aufgemacht mit nassen Händen.",
+   "e": "Her mother opened the door with wet hands."
+  },
+  {
+   "s": "Sie hat gesagt: Oh! Schon!",
+   "e": "She said: oh! Already!"
+  },
+  {
+   "s": "Sie hat es freundlich gesagt.",
+   "e": "She said it kindly."
+  },
+  {
+   "s": "Und sie war nicht bereit.",
+   "e": "And she was not ready."
+  },
+  {
+   "s": "Fünf Minuten zu früh ist richtig.",
+   "e": "Five minutes early is right."
+  },
+  {
+   "s": "Fünfzehn ist ein bisschen zu viel.",
+   "e": "Fifteen is a little too much."
+  },
+  {
+   "s": "Das lernt man nur so.",
+   "e": "You only learn that this way."
+  },
+  {
+   "s": "Sie heisst Marianne.",
+   "e": "She is called Marianne."
+  },
+  {
+   "s": "Ich habe Frau Odermatt gesagt.",
+   "e": "I said Frau Odermatt."
+  },
+  {
+   "s": "Sie hat nichts korrigiert.",
+   "e": "She did not correct me."
+  },
+  {
+   "s": "Das war die Antwort auf die Frage.",
+   "e": "That was the answer to the question."
+  },
+  {
+   "s": "Das Haus ist von 1974 und es ist sehr sauber.",
+   "e": "The house is from 1974 and it is very clean."
+  },
+  {
+   "s": "Vor der Tür stehen sechs Paar Schuhe.",
+   "e": "There are six pairs of shoes outside the door."
+  },
+  {
+   "s": "Ich habe meine dazugestellt.",
+   "e": "I put mine with them."
+  },
+  {
+   "s": "Im Wohnzimmer steht ein Sofa aus braunem Leder.",
+   "e": "In the living room there is a sofa of brown leather."
+  },
+  {
+   "s": "Es ist älter als ich.",
+   "e": "It is older than I am."
+  },
+  {
+   "s": "Es ist in einem sehr guten Zustand.",
+   "e": "It is in very good condition."
+  },
+  {
+   "s": "Am Fenster stehen Pflanzen.",
+   "e": "There are plants at the window."
+  },
+  {
+   "s": "Natürlich stehen dort Pflanzen.",
+   "e": "Of course there are plants there."
+  },
+  {
+   "s": "Auf dem Tisch liegt eine weisse Decke.",
+   "e": "On the table there is a white cloth."
+  },
+  {
+   "s": "Darauf stehen die guten Teller.",
+   "e": "On it are the good plates."
+  },
+  {
+   "s": "Die guten Teller sind für Gäste und für Weihnachten.",
+   "e": "The good plates are for guests and for Christmas."
+  },
+  {
+   "s": "Es gibt Braten mit Kartoffeln und Bohnen.",
+   "e": "There is a roast with potatoes and beans."
+  },
+  {
+   "s": "Es gibt vorher eine Suppe.",
+   "e": "There is a soup first."
+  },
+  {
+   "s": "Es gibt nachher einen Kuchen.",
+   "e": "There is a cake afterwards."
+  },
+  {
+   "s": "Es gibt dazwischen sehr viele Pausen.",
+   "e": "There are a great many pauses in between."
+  },
+  {
+   "s": "Um zwölf sitzen alle.",
+   "e": "At twelve everybody sits down."
+  },
+  {
+   "s": "Um zwölf Uhr fünf redet niemand.",
+   "e": "At five past twelve nobody is talking."
+  },
+  {
+   "s": "Das ist keine schlechte Stimmung.",
+   "e": "That is not a bad mood."
+  },
+  {
+   "s": "Alle essen und niemand redet dabei.",
+   "e": "Everybody eats and nobody talks while they do."
+  },
+  {
+   "s": "Zwischen den Gängen wird geredet.",
+   "e": "Between the courses there is talking."
+  },
+  {
+   "s": "Das ist der Takt und alle kennen ihn.",
+   "e": "That is the rhythm and everybody knows it."
+  },
+  {
+   "s": "Ich habe zweimal in eine Stille hinein geredet.",
+   "e": "Twice I talked into a silence."
+  },
+  {
+   "s": "Beide Male hat mir jemand freundlich geantwortet.",
+   "e": "Both times somebody answered me kindly."
+  },
+  {
+   "s": "Und dann war es wieder still.",
+   "e": "And then it was quiet again."
+  },
+  {
+   "s": "Um zwei sind wir vom Tisch aufgestanden.",
+   "e": "At two we got up from the table."
+  },
+  {
+   "s": "Um zwei Uhr zwanzig sassen alle wieder.",
+   "e": "At twenty past two everybody was sitting again."
+  },
+  {
+   "s": "Diesmal mit Kaffee, im Wohnzimmer.",
+   "e": "This time with coffee, in the living room."
+  },
+  {
+   "s": "Um vier hat Marianne noch einmal Kuchen gebracht.",
+   "e": "At four Marianne brought cake again."
+  },
+  {
+   "s": "Um halb fünf hat ihr Vater die Zeitung genommen.",
+   "e": "At half past four her father picked up the newspaper."
+  },
+  {
+   "s": "Das ist hier kein schlechtes Zeichen.",
+   "e": "That is not a bad sign here."
+  },
+  {
+   "s": "Das heisst: du bist kein Besuch mehr.",
+   "e": "It means: you are not a visitor any more."
+  },
+  {
+   "s": "Um fünf sind wir gegangen.",
+   "e": "At five we left."
+  },
+  {
+   "s": "An der Tür hat Marianne gesagt: Es war schön.",
+   "e": "At the door Marianne said: it was nice."
+  },
+  {
+   "s": "Sie hat gesagt: Kommen Sie wieder.",
+   "e": "She said: come again."
+  },
+  {
+   "s": "Sie mit einem grossen S.",
+   "e": "Sie with a capital S."
+  },
+  {
+   "s": "Im Bus hat Selina gesagt: Das ist gut gegangen.",
+   "e": "On the bus Selina said: that went well."
+  },
+  {
+   "s": "Ich habe gefragt: Woran merkst du das?",
+   "e": "I asked: how can you tell?"
+  },
+  {
+   "s": "Sie hat gesagt: Der zweite Kuchen.",
+   "e": "She said: the second cake."
+  }
+ ]
+}

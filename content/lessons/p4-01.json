@@ -1,0 +1,356 @@
+{
+ "id": "p4-01",
+ "title": "Nur wir zwei",
+ "desc": "The first time without anybody else",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "erst"
+ ],
+ "sn": [
+  {
+   "s": "Auf der Rigi war Timo nicht dabei.",
+   "e": "On Rigi Timo was not there."
+  },
+  {
+   "s": "Das ist mir erst im Zug aufgefallen.",
+   "e": "I only noticed that on the train."
+  },
+  {
+   "s": "Zum ersten Mal sind wir zu zweit.",
+   "e": "For the first time there are just the two of us."
+  },
+  {
+   "s": "Ohne Timo und ohne einen Grund.",
+   "e": "Without Timo and without a reason."
+  },
+  {
+   "s": "Auf dem Schiff habe ich keine Wörter gehabt.",
+   "e": "On the boat I had no words."
+  },
+  {
+   "s": "Wir haben über den Fahrplan geredet.",
+   "e": "We talked about the timetable."
+  },
+  {
+   "s": "Zehn Minuten über einen Fahrplan.",
+   "e": "Ten minutes about a timetable."
+  },
+  {
+   "s": "Das ist kein gutes Zeichen und es ist auch keines.",
+   "e": "That is not a good sign and it is not a bad one."
+  },
+  {
+   "s": "In der Bahn hinauf hat sie angefangen.",
+   "e": "On the railway up she started."
+  },
+  {
+   "s": "Sie hat gefragt: Was war dein erster Tag hier?",
+   "e": "She asked: what was your first day here like?"
+  },
+  {
+   "s": "Nicht: Wie gefällt es dir.",
+   "e": "Not: how do you like it."
+  },
+  {
+   "s": "Sondern: Der erste Tag.",
+   "e": "Rather: the first day."
+  },
+  {
+   "s": "Ich habe vom Flughafen erzählt.",
+   "e": "I told her about the airport."
+  },
+  {
+   "s": "Von den vierzig Minuten ohne ein Wort.",
+   "e": "About the forty minutes without a word."
+  },
+  {
+   "s": "Sie hat nicht gelacht.",
+   "e": "She did not laugh."
+  },
+  {
+   "s": "Sie hat gesagt: Das kenne ich von Frankreich.",
+   "e": "She said: I know that from France."
+  },
+  {
+   "s": "Dann haben wir vier Stunden geredet.",
+   "e": "Then we talked for four hours."
+  },
+  {
+   "s": "Vier Stunden ist eine lange Zeit.",
+   "e": "Four hours is a long time."
+  },
+  {
+   "s": "Ich kann fast nichts davon wiederholen.",
+   "e": "I can repeat almost none of it."
+  },
+  {
+   "s": "Ich weiss noch drei Sachen.",
+   "e": "I still know three things."
+  },
+  {
+   "s": "Ihr Vater heisst Kurt und redet fast nie.",
+   "e": "Her father is called Kurt and hardly ever talks."
+  },
+  {
+   "s": "Sie hat einen Bruder und der heisst Reto.",
+   "e": "She has a brother and he is called Reto."
+  },
+  {
+   "s": "Sie mag den Nebel lieber als die Sonne.",
+   "e": "She likes fog better than sun."
+  },
+  {
+   "s": "Das ist alles.",
+   "e": "That is all."
+  },
+  {
+   "s": "Vier Stunden und drei Sachen.",
+   "e": "Four hours and three things."
+  },
+  {
+   "s": "Oben sind wir eine Stunde gelaufen.",
+   "e": "At the top we walked for an hour."
+  },
+  {
+   "s": "Am Steg in Vitznau standen zwanzig Leute.",
+   "e": "Twenty people were standing at the landing stage in Vitznau."
+  },
+  {
+   "s": "Vom Steg sieht man die halbe Rigi.",
+   "e": "From the landing stage you can see half of Rigi."
+  },
+  {
+   "s": "Die Rigi ist flach oben und man geht einfach.",
+   "e": "Rigi is flat on top and you just walk."
+  },
+  {
+   "s": "Man muss nicht schauen und nicht aufpassen.",
+   "e": "You do not have to look and you do not have to be careful."
+  },
+  {
+   "s": "Man kann dabei reden.",
+   "e": "You can talk while you do it."
+  },
+  {
+   "s": "Das ist der ganze Grund für einen Spaziergang.",
+   "e": "That is the whole reason for a walk."
+  },
+  {
+   "s": "Hier trifft man sich nicht am Abend.",
+   "e": "Here people do not meet in the evening."
+  },
+  {
+   "s": "Beim ersten Mal trifft man sich am Tag.",
+   "e": "The first time you meet in the daytime."
+  },
+  {
+   "s": "Man geht spazieren oder auf einen Berg.",
+   "e": "You go for a walk or up a mountain."
+  },
+  {
+   "s": "Nicht in ein Lokal mit Kerzen.",
+   "e": "Not to a place with candles."
+  },
+  {
+   "s": "Ein Berg ist einfacher als ein Tisch.",
+   "e": "A mountain is easier than a table."
+  },
+  {
+   "s": "An einem Tisch sitzt man sich gegenüber.",
+   "e": "At a table you sit opposite each other."
+  },
+  {
+   "s": "Auf einem Weg geht man nebeneinander.",
+   "e": "On a path you walk side by side."
+  },
+  {
+   "s": "Man muss sich nicht anschauen.",
+   "e": "You do not have to look at each other."
+  },
+  {
+   "s": "Das habe ich vorher nicht verstanden.",
+   "e": "I did not understand that before."
+  },
+  {
+   "s": "Ich habe gedacht: Sie haben keine Romantik.",
+   "e": "I thought: they have no romance."
+  },
+  {
+   "s": "Sie haben nur eine andere.",
+   "e": "They just have a different one."
+  },
+  {
+   "s": "Um zwei haben wir auf einer Bank gegessen.",
+   "e": "At two we ate on a bench."
+  },
+  {
+   "s": "Sie hatte Brot und Käse dabei.",
+   "e": "She had bread and cheese with her."
+  },
+  {
+   "s": "Ich hatte zwei Gipfeli und Schokolade.",
+   "e": "I had two Gipfeli and chocolate."
+  },
+  {
+   "s": "Alles kam wieder in die Mitte.",
+   "e": "Everything went into the middle again."
+  },
+  {
+   "s": "Ich habe den Kaffee gezahlt.",
+   "e": "I paid for the coffee."
+  },
+  {
+   "s": "Sie hat nichts dazu gesagt.",
+   "e": "She said nothing about it."
+  },
+  {
+   "s": "Beim letzten Mal hat sie die Billette gelöst.",
+   "e": "Last time she got the tickets."
+  },
+  {
+   "s": "So geht das hier: einmal du, einmal ich.",
+   "e": "That is how it works here: once you, once me."
+  },
+  {
+   "s": "Niemand rechnet und alle rechnen.",
+   "e": "Nobody counts and everybody counts."
+  },
+  {
+   "s": "Am Nachmittag ist der Nebel gekommen.",
+   "e": "In the afternoon the fog came."
+  },
+  {
+   "s": "Zuerst nur ein bisschen.",
+   "e": "At first only a little."
+  },
+  {
+   "s": "Dann war der See weg.",
+   "e": "Then the lake was gone."
+  },
+  {
+   "s": "Dann waren die anderen Berge weg.",
+   "e": "Then the other mountains were gone."
+  },
+  {
+   "s": "Wir sind im Nebel gesessen und haben weitergeredet.",
+   "e": "We sat in the fog and went on talking."
+  },
+  {
+   "s": "Man sieht nichts und man hört alles besser.",
+   "e": "You see nothing and you hear everything better."
+  },
+  {
+   "s": "Sie hat gesagt: Ich mag das.",
+   "e": "She said: I like this."
+  },
+  {
+   "s": "Sie hat gesagt: Alle wollen die Aussicht.",
+   "e": "She said: everybody wants the view."
+  },
+  {
+   "s": "Sie hat gesagt: Ich komme für das hier.",
+   "e": "She said: I come for this."
+  },
+  {
+   "s": "Um fünf sind wir hinunter.",
+   "e": "At five we went down."
+  },
+  {
+   "s": "In der Bahn war es voll und laut.",
+   "e": "On the railway it was full and loud."
+  },
+  {
+   "s": "Wir haben nicht mehr geredet.",
+   "e": "We did not talk any more."
+  },
+  {
+   "s": "Es war nicht komisch.",
+   "e": "It was not awkward."
+  },
+  {
+   "s": "Das ist mir erst später aufgefallen.",
+   "e": "I only noticed that later."
+  },
+  {
+   "s": "Auf dem Schiff zurück war es kalt.",
+   "e": "On the boat back it was cold."
+  },
+  {
+   "s": "Wir sind unten gesessen.",
+   "e": "We sat below."
+  },
+  {
+   "s": "Zum ersten Mal bin ich unten gesessen.",
+   "e": "For the first time I sat below."
+  },
+  {
+   "s": "Am Bahnhof hat sie gesagt: Also.",
+   "e": "At the station she said: right."
+  },
+  {
+   "s": "Also heisst hier: es ist fertig.",
+   "e": "Also here means: this is over."
+  },
+  {
+   "s": "Sie hat gesagt: Das war schön.",
+   "e": "She said: that was nice."
+  },
+  {
+   "s": "Schön ist hier ein grosses Wort.",
+   "e": "Schön is a big word here."
+  },
+  {
+   "s": "Ich habe gesagt: Sehr schön.",
+   "e": "I said: very nice."
+  },
+  {
+   "s": "Dann sind wir beide zwei Sekunden gestanden.",
+   "e": "Then we both stood there for two seconds."
+  },
+  {
+   "s": "Zwei Sekunden sind sehr lang.",
+   "e": "Two seconds are very long."
+  },
+  {
+   "s": "Sie hat gesagt: Nächsten Samstag?",
+   "e": "She said: next Saturday?"
+  },
+  {
+   "s": "Ein Wort und ein Tag.",
+   "e": "One word and a day."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Nur ja, und das war genug.",
+   "e": "Just yes, and that was enough."
+  },
+  {
+   "s": "Auf dem Weg nach Hause habe ich versucht, mich zu erinnern.",
+   "e": "On the way home I tried to remember."
+  },
+  {
+   "s": "Vier Stunden Gespräch und ich habe drei Sachen.",
+   "e": "Four hours of conversation and I have three things."
+  },
+  {
+   "s": "Am Abend habe ich es aufgeschrieben.",
+   "e": "In the evening I wrote it down."
+  },
+  {
+   "s": "Kurt. Reto. Nebel.",
+   "e": "Kurt. Reto. Fog."
+  },
+  {
+   "s": "Das ist ein sehr schlechtes Protokoll.",
+   "e": "That is a very bad record."
+  },
+  {
+   "s": "Es ist auch das einzige.",
+   "e": "It is also the only one."
+  }
+ ]
+}

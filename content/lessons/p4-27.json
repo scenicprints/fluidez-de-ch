@@ -1,0 +1,353 @@
+{
+ "id": "p4-27",
+ "title": "Mein Deutsch ist heute schlecht",
+ "desc": "A bad language day, in front of everyone",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Deutsch",
+  "langsam"
+ ],
+ "sn": [
+  {
+   "s": "Es gibt Tage, an denen alles geht.",
+   "e": "There are days when everything works."
+  },
+  {
+   "s": "Und es gibt Tage, an denen nichts geht.",
+   "e": "And there are days when nothing works."
+  },
+  {
+   "s": "Es hat nichts mit dem Lernen zu tun.",
+   "e": "It has nothing to do with studying."
+  },
+  {
+   "s": "Es hat mit Schlaf und Nerven zu tun.",
+   "e": "It has to do with sleep and nerves."
+  },
+  {
+   "s": "Am Sonntag im April war so ein Tag.",
+   "e": "On the Sunday in April it was one of those days."
+  },
+  {
+   "s": "Wir waren zu neunt am Tisch in Kriens.",
+   "e": "There were nine of us at the table in Kriens."
+  },
+  {
+   "s": "Ich habe zwei Nächte schlecht geschlafen.",
+   "e": "I had slept badly for two nights."
+  },
+  {
+   "s": "Und dann kommt kein Satz mehr richtig heraus.",
+   "e": "And then no sentence comes out right any more."
+  },
+  {
+   "s": "Ich habe der und die verwechselt.",
+   "e": "I mixed up der and die."
+  },
+  {
+   "s": "Ich habe Wörter gesucht und nicht gefunden.",
+   "e": "I looked for words and did not find them."
+  },
+  {
+   "s": "Ich habe zweimal mitten im Satz aufgehört.",
+   "e": "Twice I stopped in the middle of a sentence."
+  },
+  {
+   "s": "Es gibt Wörter für diesen Moment.",
+   "e": "There are words for that moment."
+  },
+  {
+   "s": "Ich meine ist das erste.",
+   "e": "Ich meine is the first one."
+  },
+  {
+   "s": "Man sagt etwas Falsches und dann: ich meine.",
+   "e": "You say something wrong and then: ich meine."
+  },
+  {
+   "s": "Und dann sagt man es richtig.",
+   "e": "And then you say it right."
+  },
+  {
+   "s": "Also ist das zweite.",
+   "e": "Also is the second."
+  },
+  {
+   "s": "Also ist ein kleines Wort für eine Pause.",
+   "e": "Also is a small word for a pause."
+  },
+  {
+   "s": "Man sagt also und hat zwei Sekunden Zeit.",
+   "e": "You say also and you get two seconds."
+  },
+  {
+   "s": "Wie sagt man ist das dritte und das beste.",
+   "e": "Wie sagt man is the third and the best."
+  },
+  {
+   "s": "Wie sagt man das auf Deutsch?",
+   "e": "How do you say that in German?"
+  },
+  {
+   "s": "Das ist keine Schwäche.",
+   "e": "That is not a weakness."
+  },
+  {
+   "s": "Das ist eine Frage und Fragen sind erlaubt.",
+   "e": "That is a question and questions are allowed."
+  },
+  {
+   "s": "Ich habe alle drei an diesem Sonntag gebraucht.",
+   "e": "I used all three that Sunday."
+  },
+  {
+   "s": "Nach einer Stunde ist es schlimmer geworden.",
+   "e": "After an hour it got worse."
+  },
+  {
+   "s": "Ich habe angefangen, weniger zu sagen.",
+   "e": "I started saying less."
+  },
+  {
+   "s": "Das ist der Anfang von einem schlechten Nachmittag.",
+   "e": "That is the start of a bad afternoon."
+  },
+  {
+   "s": "Man sagt weniger und dann wird es schwerer.",
+   "e": "You say less and then it gets harder."
+  },
+  {
+   "s": "Und dann sagt man noch weniger.",
+   "e": "And then you say even less."
+  },
+  {
+   "s": "Marianne hat es gemerkt.",
+   "e": "Marianne noticed."
+  },
+  {
+   "s": "Sie hat langsamer geredet.",
+   "e": "She started talking more slowly."
+  },
+  {
+   "s": "Sie hat es freundlich gemacht.",
+   "e": "She did it kindly."
+  },
+  {
+   "s": "Es war sehr freundlich und es war schrecklich.",
+   "e": "It was very kind and it was awful."
+  },
+  {
+   "s": "Man merkt sofort, wenn jemand langsamer redet.",
+   "e": "You notice at once when somebody talks more slowly."
+  },
+  {
+   "s": "Man hört die Freundlichkeit und man hört das andere.",
+   "e": "You hear the kindness and you hear the other thing."
+  },
+  {
+   "s": "Man hört: du kommst gerade nicht mit.",
+   "e": "You hear: you are not keeping up right now."
+  },
+  {
+   "s": "Dann hat Reto etwas gemacht.",
+   "e": "Then Reto did something."
+  },
+  {
+   "s": "Er hat auf Englisch angefangen.",
+   "e": "He started in English."
+  },
+  {
+   "s": "Sein Englisch ist sehr gut.",
+   "e": "His English is very good."
+  },
+  {
+   "s": "Er hat es freundlich gemeint.",
+   "e": "He meant it kindly."
+  },
+  {
+   "s": "Es war das Schlimmste an dem ganzen Tag.",
+   "e": "It was the worst thing about the whole day."
+  },
+  {
+   "s": "Es tut mir leid ist an so einem Tag zu gross.",
+   "e": "Es tut mir leid is too big on a day like that."
+  },
+  {
+   "s": "Auf Englisch bin ich ein anderer Mensch.",
+   "e": "In English I am a different person."
+  },
+  {
+   "s": "Auf Englisch bin ich schnell und lustig.",
+   "e": "In English I am fast and funny."
+  },
+  {
+   "s": "Auf Deutsch bin ich langsam und einfach.",
+   "e": "In German I am slow and simple."
+  },
+  {
+   "s": "Nach einem Jahr will ich der langsame sein.",
+   "e": "After a year I want to be the slow one."
+  },
+  {
+   "s": "Ich habe gesagt: Bitte nicht.",
+   "e": "I said: please do not."
+  },
+  {
+   "s": "Ich habe gesagt: Ich brauche das Deutsch.",
+   "e": "I said: I need the German."
+  },
+  {
+   "s": "Ich habe gesagt: Auch an schlechten Tagen.",
+   "e": "I said: on bad days too."
+  },
+  {
+   "s": "Es war zwei Sekunden still am Tisch.",
+   "e": "The table was quiet for two seconds."
+  },
+  {
+   "s": "Ich habe gedacht, dass ich zu viel gesagt habe.",
+   "e": "I thought that I had said too much."
+  },
+  {
+   "s": "Dann hat Kurt genickt.",
+   "e": "Then Kurt nodded."
+  },
+  {
+   "s": "Er hat gesagt: Richtig.",
+   "e": "He said: right."
+  },
+  {
+   "s": "Ein Wort und der Tisch war wieder normal.",
+   "e": "One word and the table was normal again."
+  },
+  {
+   "s": "Reto hat auf Deutsch weitergeredet.",
+   "e": "Reto went on in German."
+  },
+  {
+   "s": "Er hat nicht langsamer geredet.",
+   "e": "He did not talk more slowly."
+  },
+  {
+   "s": "Er hat ganz normal geredet.",
+   "e": "He talked completely normally."
+  },
+  {
+   "s": "Das war das Beste, was er machen konnte.",
+   "e": "That was the best thing he could have done."
+  },
+  {
+   "s": "Selina hat später etwas dazu gesagt.",
+   "e": "Selina said something about it later."
+  },
+  {
+   "s": "Sie hat gesagt: Sie meinen es gut.",
+   "e": "She said: they mean well."
+  },
+  {
+   "s": "Sie hat gesagt: Sie wissen es nicht.",
+   "e": "She said: they do not know."
+  },
+  {
+   "s": "Sie hat gesagt: Du musst es sagen.",
+   "e": "She said: you have to say it."
+  },
+  {
+   "s": "Sie hat gesagt: Jedes Mal, wenn es passiert.",
+   "e": "She said: every time it happens."
+  },
+  {
+   "s": "Ich habe gesagt: Das ist anstrengend.",
+   "e": "I said: that is exhausting."
+  },
+  {
+   "s": "Sie hat gesagt: Ja. Und es ist deine Arbeit.",
+   "e": "She said: yes. And it is your job."
+  },
+  {
+   "s": "Sie hat gesagt: Niemand macht sie für dich.",
+   "e": "She said: nobody does it for you."
+  },
+  {
+   "s": "Das war hart und es hat gestimmt.",
+   "e": "That was hard and it was true."
+  },
+  {
+   "s": "Nuno hat mir etwas anderes gesagt.",
+   "e": "Nuno told me something else."
+  },
+  {
+   "s": "Er hat gesagt: Nach zwei Jahren hört das auf.",
+   "e": "He said: after two years that stops."
+  },
+  {
+   "s": "Er hat gesagt: Nicht die schlechten Tage.",
+   "e": "He said: not the bad days."
+  },
+  {
+   "s": "Er hat gesagt: Die kommen immer.",
+   "e": "He said: those always come."
+  },
+  {
+   "s": "Er hat gesagt: Aber niemand schaltet mehr um.",
+   "e": "He said: but nobody switches any more."
+  },
+  {
+   "s": "Er hat gesagt: Irgendwann geben sie es auf.",
+   "e": "He said: at some point they give up on it."
+  },
+  {
+   "s": "Er hat gelacht.",
+   "e": "He laughed."
+  },
+  {
+   "s": "Am Montag war es wieder gut.",
+   "e": "On Monday it was fine again."
+  },
+  {
+   "s": "Ich habe im Büro drei Stunden geredet.",
+   "e": "In the office I talked for three hours."
+  },
+  {
+   "s": "Ich habe kein einziges Wort gesucht.",
+   "e": "I did not look for a single word."
+  },
+  {
+   "s": "Zwischen Sonntag und Montag liegt nichts.",
+   "e": "Between Sunday and Monday there is nothing."
+  },
+  {
+   "s": "Nur eine Nacht Schlaf.",
+   "e": "Just one night of sleep."
+  },
+  {
+   "s": "Das ist die ganze Erklärung und sie reicht nicht.",
+   "e": "That is the whole explanation and it is not enough."
+  },
+  {
+   "s": "Ich habe angefangen, an schlechten Tagen etwas zu sagen.",
+   "e": "I have started saying something on bad days."
+  },
+  {
+   "s": "Ich sage: Mein Deutsch ist heute schlecht.",
+   "e": "I say: my German is bad today."
+  },
+  {
+   "s": "Fünf Wörter am Anfang von einem Abend.",
+   "e": "Five words at the start of an evening."
+  },
+  {
+   "s": "Und dann ist es die halbe Sache.",
+   "e": "And then it is half the problem."
+  },
+  {
+   "s": "Niemand redet langsamer und alle wissen es.",
+   "e": "Nobody talks more slowly and everybody knows."
+  },
+  {
+   "s": "Das habe ich von Selina.",
+   "e": "I got that from Selina."
+  }
+ ]
+}

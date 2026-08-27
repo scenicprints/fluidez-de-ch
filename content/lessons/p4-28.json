@@ -1,0 +1,404 @@
+{
+ "id": "p4-28",
+ "title": "Ein guter Tag",
+ "desc": "Nothing happens, at length",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Haus"
+ ],
+ "sn": [
+  {
+   "s": "Am Samstag im Mai ist nichts passiert.",
+   "e": "On the Saturday in May nothing happened."
+  },
+  {
+   "s": "Ich schreibe es trotzdem auf.",
+   "e": "I am writing it down anyway."
+  },
+  {
+   "s": "Es war der beste Tag seit einem Jahr.",
+   "e": "It was the best day in a year."
+  },
+  {
+   "s": "Wir sind um neun aufgestanden.",
+   "e": "We got up at nine."
+  },
+  {
+   "s": "Nicht um sieben und nicht um elf.",
+   "e": "Not at seven and not at eleven."
+  },
+  {
+   "s": "Es hat Kaffee gegeben und Brot vom Vortag.",
+   "e": "There was coffee and bread from the day before."
+  },
+  {
+   "s": "Das Brot vom Vortag ist hier ein eigenes Thema.",
+   "e": "Yesterday's bread is a subject of its own here."
+  },
+  {
+   "s": "Man wirft es nicht weg.",
+   "e": "You do not throw it away."
+  },
+  {
+   "s": "Man macht es kurz heiss und dann geht es wieder.",
+   "e": "You warm it briefly and then it is fine again."
+  },
+  {
+   "s": "Selina hat das von ihrer Grossmutter.",
+   "e": "Selina got that from her grandmother."
+  },
+  {
+   "s": "Um zehn sind wir einkaufen gegangen.",
+   "e": "At ten we went shopping."
+  },
+  {
+   "s": "Am Samstag ist im Laden alles voll.",
+   "e": "On Saturday the shop is completely full."
+  },
+  {
+   "s": "Alle kaufen für zwei Tage ein.",
+   "e": "Everybody is shopping for two days."
+  },
+  {
+   "s": "Am Sonntag ist zu und alle wissen es.",
+   "e": "On Sunday it is shut and everybody knows it."
+  },
+  {
+   "s": "Trotzdem stehen um halb sechs Leute vor der Tür.",
+   "e": "Still, at half past five there are people at the door."
+  },
+  {
+   "s": "Jede Woche die gleichen Leute.",
+   "e": "The same people every week."
+  },
+  {
+   "s": "Wir haben achtundvierzig Franken ausgegeben.",
+   "e": "We spent forty-eight francs."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist wenig.",
+   "e": "She said: that is not much."
+  },
+  {
+   "s": "Ich habe gesagt: Das ist viel.",
+   "e": "I said: that is a lot."
+  },
+  {
+   "s": "Wir haben zwei Minuten darüber geredet.",
+   "e": "We talked about it for two minutes."
+  },
+  {
+   "s": "Das ist ein sehr gutes Gespräch für einen Samstagmorgen.",
+   "e": "That is a very good conversation for a Saturday morning."
+  },
+  {
+   "s": "Um zwölf haben wir gekocht.",
+   "e": "At twelve we cooked."
+  },
+  {
+   "s": "Sie schneidet und ich rühre.",
+   "e": "She cuts and I stir."
+  },
+  {
+   "s": "Das ist seit Februar so und niemand hat es abgemacht.",
+   "e": "That has been the case since February and nobody arranged it."
+  },
+  {
+   "s": "Am Morgen war es grau und um zehn kam die Sonne.",
+   "e": "In the morning it was grey and at ten the sun came."
+  },
+  {
+   "s": "Der Nebel ist um halb elf weggegangen.",
+   "e": "The fog went at half past ten."
+  },
+  {
+   "s": "Am Wasser beim Steg sind wir zwanzig Minuten gestanden.",
+   "e": "We stood for twenty minutes by the water at the landing stage."
+  },
+  {
+   "s": "Es hat kurz geregnet und dann nicht mehr.",
+   "e": "It rained briefly and then stopped."
+  },
+  {
+   "s": "Der Wind kam vom See her.",
+   "e": "The wind came off the lake."
+  },
+  {
+   "s": "Im Sommer ist hier alles voll.",
+   "e": "In summer it is all full here."
+  },
+  {
+   "s": "Nach dem Regen war die Luft ganz klar.",
+   "e": "After the rain the air was completely clear."
+  },
+  {
+   "s": "Wir haben am Mittag eine Suppe gemacht.",
+   "e": "At midday we made a soup."
+  },
+  {
+   "s": "Wir haben lieber zu Hause gegessen.",
+   "e": "We would rather eat at home."
+  },
+  {
+   "s": "Am Nachmittag ist unser Nachbar vorbeigekommen.",
+   "e": "In the afternoon our neighbour came round."
+  },
+  {
+   "s": "Er hat ein Schild für die Waschküche gebracht.",
+   "e": "He brought a sign for the laundry room."
+  },
+  {
+   "s": "Er hat gesagt, dass die Ruhezeit neu an der Tür hängt.",
+   "e": "He said that the quiet hours are on the door now."
+  },
+  {
+   "s": "Sein Hund ist die ganze Zeit im Treppenhaus gesessen.",
+   "e": "His dog sat in the stairwell the whole time."
+  },
+  {
+   "s": "Am Abend habe ich die Lampe angemacht.",
+   "e": "In the evening I turned the lamp on."
+  },
+  {
+   "s": "Selina hat eine Kerze auf den Tisch gestellt.",
+   "e": "Selina put a candle on the table."
+  },
+  {
+   "s": "Timo hat aus der Werkstatt geschrieben.",
+   "e": "Timo wrote from the workshop."
+  },
+  {
+   "s": "Wir haben Teigwaren gemacht mit dem Rest von allem.",
+   "e": "We made pasta with whatever was left."
+  },
+  {
+   "s": "Es war sehr gut und es war nichts Besonderes.",
+   "e": "It was very good and it was nothing special."
+  },
+  {
+   "s": "Nach dem Essen haben wir nichts gemacht.",
+   "e": "After eating we did nothing."
+  },
+  {
+   "s": "Sie hat gelesen.",
+   "e": "She read."
+  },
+  {
+   "s": "Ich bin am Fenster gesessen.",
+   "e": "I sat at the window."
+  },
+  {
+   "s": "Zwei Stunden lang.",
+   "e": "For two hours."
+  },
+  {
+   "s": "Wir haben in zwei Stunden vielleicht acht Sätze gesagt.",
+   "e": "In two hours we said maybe eight sentences."
+  },
+  {
+   "s": "Es war nicht komisch.",
+   "e": "It was not awkward."
+  },
+  {
+   "s": "Das ist die ganze Sache an diesem Tag.",
+   "e": "That is the whole thing about that day."
+  },
+  {
+   "s": "Am Anfang war eine Stille immer eine Frage.",
+   "e": "At the start a silence was always a question."
+  },
+  {
+   "s": "Ist etwas los? Habe ich etwas gesagt?",
+   "e": "Is something wrong? Did I say something?"
+  },
+  {
+   "s": "Man füllt sie und dann ist man müde.",
+   "e": "You fill it and then you are tired."
+  },
+  {
+   "s": "Irgendwann ist eine Stille einfach eine Stille.",
+   "e": "At some point a silence is simply a silence."
+  },
+  {
+   "s": "Ich weiss nicht, wann das passiert ist.",
+   "e": "I do not know when that happened."
+  },
+  {
+   "s": "Es ist irgendwann im Winter passiert.",
+   "e": "It happened some time in the winter."
+  },
+  {
+   "s": "Um vier sind wir spazieren gegangen.",
+   "e": "At four we went for a walk."
+  },
+  {
+   "s": "Der Reuss entlang, wie im Januar.",
+   "e": "Along the Reuss, like in January."
+  },
+  {
+   "s": "Diesmal nur einmal und nicht dreimal.",
+   "e": "This time only once and not three times."
+  },
+  {
+   "s": "Wir sind vier Leuten begegnet.",
+   "e": "We ran into four people."
+  },
+  {
+   "s": "Zwei von ihr, zwei von mir.",
+   "e": "Two of hers, two of mine."
+  },
+  {
+   "s": "Bei jedem sind wir fünf Minuten gestanden.",
+   "e": "With each of them we stopped for five minutes."
+  },
+  {
+   "s": "Fünf Minuten ist genau die richtige Zeit.",
+   "e": "Five minutes is exactly the right length."
+  },
+  {
+   "s": "Am Wasser sind alle draussen gesessen.",
+   "e": "By the water everybody was sitting outside."
+  },
+  {
+   "s": "Es war neunzehn Grad und die erste warme Woche.",
+   "e": "It was nineteen degrees and the first warm week."
+  },
+  {
+   "s": "Die ganze Stadt war am Fluss.",
+   "e": "The whole town was by the river."
+  },
+  {
+   "s": "Wir haben zwei Bier geholt und uns auf die Mauer gesetzt.",
+   "e": "We got two beers and sat down on the wall."
+  },
+  {
+   "s": "Neben uns haben zwei Männer Schach gespielt.",
+   "e": "Next to us two men were playing chess."
+  },
+  {
+   "s": "Sie haben sehr langsam gespielt.",
+   "e": "They played very slowly."
+  },
+  {
+   "s": "Wir haben ihnen zwanzig Minuten zugeschaut.",
+   "e": "We watched them for twenty minutes."
+  },
+  {
+   "s": "Ich verstehe Schach nicht.",
+   "e": "I do not understand chess."
+  },
+  {
+   "s": "Es war trotzdem gut.",
+   "e": "It was good anyway."
+  },
+  {
+   "s": "Um sieben sind wir nach Hause.",
+   "e": "At seven we went home."
+  },
+  {
+   "s": "Wir haben die Reste vom Mittag gegessen.",
+   "e": "We ate the leftovers from lunch."
+  },
+  {
+   "s": "Um neun hat sie gesagt: Ich bin müde.",
+   "e": "At nine she said: I am tired."
+  },
+  {
+   "s": "Um halb zehn sind wir ins Bett.",
+   "e": "At half past nine we went to bed."
+  },
+  {
+   "s": "Das war der ganze Tag.",
+   "e": "That was the whole day."
+  },
+  {
+   "s": "Ich habe am Abend nachgerechnet.",
+   "e": "In the evening I worked it out."
+  },
+  {
+   "s": "Elf Stunden und fast nichts.",
+   "e": "Eleven hours and almost nothing."
+  },
+  {
+   "s": "Kein Berg, kein Fest, keine Leute.",
+   "e": "No mountain, no party, no crowd."
+  },
+  {
+   "s": "Nichts zum Erzählen.",
+   "e": "Nothing to tell anybody."
+  },
+  {
+   "s": "Am Montag hat Marco gefragt: Und? Was hast du gemacht?",
+   "e": "On Monday Marco asked: and? What did you do?"
+  },
+  {
+   "s": "Ich habe gesagt: Nichts.",
+   "e": "I said: nothing."
+  },
+  {
+   "s": "Er hat gesagt: Schön.",
+   "e": "He said: nice."
+  },
+  {
+   "s": "Er hat es ernst gemeint.",
+   "e": "He meant it seriously."
+  },
+  {
+   "s": "Hier ist nichts eine gute Antwort.",
+   "e": "Here nothing is a good answer."
+  },
+  {
+   "s": "Zu Hause ist nichts eine Entschuldigung.",
+   "e": "At home nothing is an apology."
+  },
+  {
+   "s": "Man sagt: Ich war eigentlich nur zu Hause.",
+   "e": "You say: I was really only at home."
+  },
+  {
+   "s": "Man sagt eigentlich und nur und es tönt klein.",
+   "e": "You say really and only and it sounds small."
+  },
+  {
+   "s": "Hier sagt man: Ich war zu Hause.",
+   "e": "Here you say: I was at home."
+  },
+  {
+   "s": "Und niemand fragt weiter.",
+   "e": "And nobody asks any further."
+  },
+  {
+   "s": "Das ist ein sehr grosser Unterschied.",
+   "e": "That is a very big difference."
+  },
+  {
+   "s": "Ich habe ein Jahr gebraucht dafür.",
+   "e": "It took me a year."
+  },
+  {
+   "s": "Am Anfang habe ich jeden Samstag etwas gemacht.",
+   "e": "At the start I did something every Saturday."
+  },
+  {
+   "s": "Ich habe jeden Berg und jedes Museum gemacht.",
+   "e": "I did every mountain and every museum."
+  },
+  {
+   "s": "Ich habe gedacht, dass ich sonst nichts erlebe.",
+   "e": "I thought that otherwise I was not experiencing anything."
+  },
+  {
+   "s": "Jetzt weiss ich, dass elf Stunden auch etwas sind.",
+   "e": "Now I know that eleven hours are something too."
+  },
+  {
+   "s": "Selina hat es in einem Satz gesagt.",
+   "e": "Selina said it in one sentence."
+  },
+  {
+   "s": "Sie hat gesagt: Die guten Tage sind die ohne Geschichte.",
+   "e": "She said: the good days are the ones with no story."
+  }
+ ]
+}

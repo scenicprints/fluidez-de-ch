@@ -659,6 +659,258 @@
    "desc": "Your phone lights up",
    "phase": 3,
    "path": "lessons/p3-21.json"
+  },
+  {
+   "id": "p4-01",
+   "title": "Nur wir zwei",
+   "desc": "The first time without anybody else",
+   "phase": 4,
+   "path": "lessons/p4-01.json"
+  },
+  {
+   "id": "p4-02",
+   "title": "Der Reuss entlang",
+   "desc": "A river through the middle of a town",
+   "phase": 4,
+   "path": "lessons/p4-02.json"
+  },
+  {
+   "id": "p4-03",
+   "title": "Zu lange geredet",
+   "desc": "Missing something on purpose",
+   "phase": 4,
+   "path": "lessons/p4-03.json"
+  },
+  {
+   "id": "p4-04",
+   "title": "Ich mag dich",
+   "desc": "Saying a small thing that is not small",
+   "phase": 4,
+   "path": "lessons/p4-04.json"
+  },
+  {
+   "id": "p4-05",
+   "title": "Was sie macht",
+   "desc": "A whole person you know nothing about",
+   "phase": 4,
+   "path": "lessons/p4-05.json"
+  },
+  {
+   "id": "p4-06",
+   "title": "Ihre Wohnung",
+   "desc": "Somebody else's rooms",
+   "phase": 4,
+   "path": "lessons/p4-06.json"
+  },
+  {
+   "id": "p4-07",
+   "title": "Der erste Streit",
+   "desc": "Something small, badly handled",
+   "phase": 4,
+   "path": "lessons/p4-07.json"
+  },
+  {
+   "id": "p4-08",
+   "title": "Es tut mir leid",
+   "desc": "Apologising when you have the words for it",
+   "phase": 4,
+   "path": "lessons/p4-08.json"
+  },
+  {
+   "id": "p4-09",
+   "title": "Schatz",
+   "desc": "Words you only use on one person",
+   "phase": 4,
+   "path": "lessons/p4-09.json"
+  },
+  {
+   "id": "p4-10",
+   "title": "Nuno weiss es",
+   "desc": "Telling a friend",
+   "phase": 4,
+   "path": "lessons/p4-10.json"
+  },
+  {
+   "id": "p4-11",
+   "title": "Frau Amrein hat es gemerkt",
+   "desc": "The neighbour noticed first",
+   "phase": 4,
+   "path": "lessons/p4-11.json"
+  },
+  {
+   "id": "p4-12",
+   "title": "Sonntagessen in Kriens",
+   "desc": "Lunch with the parents",
+   "phase": 4,
+   "path": "lessons/p4-12.json"
+  },
+  {
+   "id": "p4-13",
+   "title": "Ihr Vater sagt wenig",
+   "desc": "A man who does not fill silences",
+   "phase": 4,
+   "path": "lessons/p4-13.json"
+  },
+  {
+   "id": "p4-14",
+   "title": "Ihre Mutter fragt alles",
+   "desc": "A woman who fills all of them",
+   "phase": 4,
+   "path": "lessons/p4-14.json"
+  },
+  {
+   "id": "p4-15",
+   "title": "Geprüft",
+   "desc": "Being assessed without being told",
+   "phase": 4,
+   "path": "lessons/p4-15.json"
+  },
+  {
+   "id": "p4-16",
+   "title": "Ihr Bruder",
+   "desc": "Somebody who has decided about you already",
+   "phase": 4,
+   "path": "lessons/p4-16.json"
+  },
+  {
+   "id": "p4-17",
+   "title": "Der WK",
+   "desc": "He disappears for three weeks, every year",
+   "phase": 4,
+   "path": "lessons/p4-17.json"
+  },
+  {
+   "id": "p4-18",
+   "title": "Der Samichlaus",
+   "desc": "The sixth of December, and a man with a book",
+   "phase": 4,
+   "path": "lessons/p4-18.json"
+  },
+  {
+   "id": "p4-19",
+   "title": "Weihnachten",
+   "desc": "Christmas with somebody else's family",
+   "phase": 4,
+   "path": "lessons/p4-19.json"
+  },
+  {
+   "id": "p4-20",
+   "title": "Silvester",
+   "desc": "The year turns over",
+   "phase": 4,
+   "path": "lessons/p4-20.json"
+  },
+  {
+   "id": "p4-21",
+   "title": "Eifersucht",
+   "desc": "A feeling with no good version",
+   "phase": 4,
+   "path": "lessons/p4-21.json"
+  },
+  {
+   "id": "p4-22",
+   "title": "Eine schlechte Woche",
+   "desc": "Nothing wrong, everything heavy",
+   "phase": 4,
+   "path": "lessons/p4-22.json"
+  },
+  {
+   "id": "p4-23",
+   "title": "Über Geld reden",
+   "desc": "The conversation nobody wants",
+   "phase": 4,
+   "path": "lessons/p4-23.json"
+  },
+  {
+   "id": "p4-24",
+   "title": "Bleibst du?",
+   "desc": "A question with a country in it",
+   "phase": 4,
+   "path": "lessons/p4-24.json"
+  },
+  {
+   "id": "p4-25",
+   "title": "Die Bewilligung",
+   "desc": "Your life on a piece of plastic",
+   "phase": 4,
+   "path": "lessons/p4-25.json"
+  },
+  {
+   "id": "p4-26",
+   "title": "Ihre alten Freunde",
+   "desc": "People who knew her before you",
+   "phase": 4,
+   "path": "lessons/p4-26.json"
+  },
+  {
+   "id": "p4-27",
+   "title": "Mein Deutsch ist heute schlecht",
+   "desc": "A bad language day, in front of everyone",
+   "phase": 4,
+   "path": "lessons/p4-27.json"
+  },
+  {
+   "id": "p4-28",
+   "title": "Ein guter Tag",
+   "desc": "Nothing happens, at length",
+   "phase": 4,
+   "path": "lessons/p4-28.json"
+  },
+  {
+   "id": "p4-29",
+   "title": "Ihre Grossmutter",
+   "desc": "Ninety one, and sharper than anyone",
+   "phase": 4,
+   "path": "lessons/p4-29.json"
+  },
+  {
+   "id": "p4-30",
+   "title": "Krank",
+   "desc": "Looking after somebody",
+   "phase": 4,
+   "path": "lessons/p4-30.json"
+  },
+  {
+   "id": "p4-31",
+   "title": "Der Streit, der zählt",
+   "desc": "The argument that is about the real thing",
+   "phase": 4,
+   "path": "lessons/p4-31.json"
+  },
+  {
+   "id": "p4-32",
+   "title": "Zwei Tage nichts",
+   "desc": "Silence, on purpose",
+   "phase": 4,
+   "path": "lessons/p4-32.json"
+  },
+  {
+   "id": "p4-33",
+   "title": "Wieder gut",
+   "desc": "Repair, which takes longer than the damage",
+   "phase": 4,
+   "path": "lessons/p4-33.json"
+  },
+  {
+   "id": "p4-34",
+   "title": "Zusammenziehen",
+   "desc": "Two flats, one lease",
+   "phase": 4,
+   "path": "lessons/p4-34.json"
+  },
+  {
+   "id": "p4-35",
+   "title": "Zu Hause anrufen",
+   "desc": "Explaining Switzerland to your own family",
+   "phase": 4,
+   "path": "lessons/p4-35.json"
+  },
+  {
+   "id": "p4-36",
+   "title": "Später einmal",
+   "desc": "A future, said out loud",
+   "phase": 4,
+   "path": "lessons/p4-36.json"
   }
  ],
  "scenarios": [
@@ -857,6 +1109,69 @@
    "desc": "A question that is not a normal question",
    "phase": 3,
    "path": "scenarios/sc28.json"
+  },
+  {
+   "id": "sc29",
+   "title": "Nur wir zwei",
+   "desc": "Four hours, and you will remember three things",
+   "phase": 4,
+   "path": "scenarios/sc29.json"
+  },
+  {
+   "id": "sc30",
+   "title": "Ich mag dich",
+   "desc": "Three words with months between them",
+   "phase": 4,
+   "path": "scenarios/sc30.json"
+  },
+  {
+   "id": "sc31",
+   "title": "Der erste Streit",
+   "desc": "Nobody raises their voice, which is worse",
+   "phase": 4,
+   "path": "scenarios/sc31.json"
+  },
+  {
+   "id": "sc32",
+   "title": "Es tut mir leid",
+   "desc": "An apology has to name the thing",
+   "phase": 4,
+   "path": "scenarios/sc32.json"
+  },
+  {
+   "id": "sc33",
+   "title": "Sonntagessen",
+   "desc": "Half past eleven to five, and the good plates",
+   "phase": 4,
+   "path": "scenarios/sc33.json"
+  },
+  {
+   "id": "sc34",
+   "title": "Mein Deutsch ist heute schlecht",
+   "desc": "The kindness that makes it worse",
+   "phase": 4,
+   "path": "scenarios/sc34.json"
+  },
+  {
+   "id": "sc35",
+   "title": "Der Vierundzwanzigste",
+   "desc": "Nine people, real candles, and a bucket",
+   "phase": 4,
+   "path": "scenarios/sc35.json"
+  },
+  {
+   "id": "sc36",
+   "title": "Wie geht es?",
+   "desc": "There is a whole scale under this",
+   "phase": 4,
+   "path": "scenarios/sc36.json"
+  },
+  {
+   "id": "sc37",
+   "title": "Bleibst du?",
+   "desc": "Asked over potatoes, which is how the big ones arrive",
+   "phase": 4,
+   "path": "scenarios/sc37.json"
   }
  ],
  "momo": "bluemli.json"

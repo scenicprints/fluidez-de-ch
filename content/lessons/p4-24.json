@@ -1,0 +1,342 @@
+{
+ "id": "p4-24",
+ "title": "Bleibst du?",
+ "desc": "A question with a country in it",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Frage",
+  "bleiben",
+  "wollen"
+ ],
+ "sn": [
+  {
+   "s": "Die Frage ist mitten in etwas anderem gekommen.",
+   "e": "The question came in the middle of something else."
+  },
+  {
+   "s": "So kommen hier alle grossen Fragen.",
+   "e": "That is how all the big questions come here."
+  },
+  {
+   "s": "Wir haben am Sonntag Kartoffeln geschält.",
+   "e": "On Sunday we were peeling potatoes."
+  },
+  {
+   "s": "Wir haben über den nächsten Sommer geredet.",
+   "e": "We were talking about next summer."
+  },
+  {
+   "s": "Sie hat gesagt: Im Juli habe ich drei Wochen frei.",
+   "e": "She said: in July I have three weeks off."
+  },
+  {
+   "s": "Sie hat gesagt: Wenn du willst, fahren wir irgendwohin.",
+   "e": "She said: if you want, we could go somewhere."
+  },
+  {
+   "s": "Wenn ist das Wort für eine Bedingung.",
+   "e": "Wenn is the word for a condition."
+  },
+  {
+   "s": "Wenn du willst, dann fahren wir.",
+   "e": "If you want, then we will go."
+  },
+  {
+   "s": "Wenn es regnet, bleiben wir zu Hause.",
+   "e": "If it rains, we will stay at home."
+  },
+  {
+   "s": "Das Verb im ersten Teil geht ans Ende.",
+   "e": "The verb in the first part goes to the end."
+  },
+  {
+   "s": "Und im zweiten Teil kommt es sofort.",
+   "e": "And in the second part it comes straight away."
+  },
+  {
+   "s": "Man kann dann sagen, oder man lässt es weg.",
+   "e": "You can say dann, or you leave it out."
+  },
+  {
+   "s": "Beides ist richtig.",
+   "e": "Both are right."
+  },
+  {
+   "s": "Ich habe gesagt: Gern.",
+   "e": "I said: I would like that."
+  },
+  {
+   "s": "Dann hat sie die nächste Frage gestellt.",
+   "e": "Then she asked the next question."
+  },
+  {
+   "s": "Sie hat gefragt: Und bist du im Juli überhaupt noch da?",
+   "e": "She asked: and will you even still be here in July?"
+  },
+  {
+   "s": "Sie hat dabei weiter Kartoffeln geschält.",
+   "e": "She went on peeling potatoes as she said it."
+  },
+  {
+   "s": "Sie hat mich nicht angeschaut.",
+   "e": "She did not look at me."
+  },
+  {
+   "s": "Das war die eigentliche Frage vom ganzen Winter.",
+   "e": "That was the real question of the whole winter."
+  },
+  {
+   "s": "Sie hat sie über Kartoffeln gestellt.",
+   "e": "She asked it over potatoes."
+  },
+  {
+   "s": "Ich habe zuerst gesagt: Warum nicht?",
+   "e": "At first I said: why not?"
+  },
+  {
+   "s": "Das war eine schlechte Antwort.",
+   "e": "That was a bad answer."
+  },
+  {
+   "s": "Eine Frage gegen eine Frage ist immer eine schlechte Antwort.",
+   "e": "A question against a question is always a bad answer."
+  },
+  {
+   "s": "Sie hat gesagt: Weil dein Vertrag im September ausläuft.",
+   "e": "She said: because your contract runs out in September."
+  },
+  {
+   "s": "Sie hat gesagt: Und weil deine Bewilligung ein Datum hat.",
+   "e": "She said: and because your permit has a date on it."
+  },
+  {
+   "s": "Sie hat das genauer gewusst als ich.",
+   "e": "She knew that more precisely than I did."
+  },
+  {
+   "s": "Ich habe das Datum im Kopf gehabt.",
+   "e": "I had had the date in my head."
+  },
+  {
+   "s": "Ich habe es nie ausgesprochen.",
+   "e": "I had never said it out loud."
+  },
+  {
+   "s": "Bleiben ist hier nicht ein Gefühl.",
+   "e": "Staying here is not a feeling."
+  },
+  {
+   "s": "Bleiben ist ein Vertrag und ein Papier und ein Datum.",
+   "e": "Staying is a contract and a piece of paper and a date."
+  },
+  {
+   "s": "Man kann nicht einfach bleiben.",
+   "e": "You cannot simply stay."
+  },
+  {
+   "s": "Man braucht Arbeit für die Bewilligung.",
+   "e": "You need work for the permit."
+  },
+  {
+   "s": "Man braucht die Bewilligung für die Wohnung.",
+   "e": "You need the permit for the flat."
+  },
+  {
+   "s": "Man braucht beides für alles andere.",
+   "e": "You need both for everything else."
+  },
+  {
+   "s": "Das ist eine Kette und jedes Stück hängt am nächsten.",
+   "e": "That is a chain and every link hangs on the next."
+  },
+  {
+   "s": "Ich habe gesagt: Ich will bleiben.",
+   "e": "I said: I want to stay."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist nicht die Frage.",
+   "e": "She said: that is not the question."
+  },
+  {
+   "s": "Sie hat gesagt: Die Frage ist, ob du es machst.",
+   "e": "She said: the question is whether you will do it."
+  },
+  {
+   "s": "Zwischen wollen und machen liegt hier sehr viel Papier.",
+   "e": "Between wanting and doing there is a great deal of paper here."
+  },
+  {
+   "s": "Ich habe gefragt: Und was willst du?",
+   "e": "I asked: and what do you want?"
+  },
+  {
+   "s": "Sie hat die Kartoffel hingelegt.",
+   "e": "She put the potato down."
+  },
+  {
+   "s": "Sie hat gesagt: Ich frage seit November.",
+   "e": "She said: I have been asking since November."
+  },
+  {
+   "s": "Sie hat gesagt: Du antwortest seit November nicht.",
+   "e": "She said: you have not been answering since November."
+  },
+  {
+   "s": "Das hat gestimmt.",
+   "e": "That was true."
+  },
+  {
+   "s": "Ich habe es dreimal gehört und dreimal nicht verstanden.",
+   "e": "I had heard it three times and three times not understood."
+  },
+  {
+   "s": "Sie hat gefragt: Bleibst du?",
+   "e": "She asked: are you staying?"
+  },
+  {
+   "s": "Zwei Wörter, zum vierten Mal.",
+   "e": "Two words, for the fourth time."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Ich habe es gesagt, bevor ich nachgedacht habe.",
+   "e": "I said it before I had thought about it."
+  },
+  {
+   "s": "Das war das erste Mal seit einem Jahr.",
+   "e": "That was the first time in a year."
+  },
+  {
+   "s": "Dann habe ich zwei Minuten nachgedacht.",
+   "e": "Then I thought about it for two minutes."
+  },
+  {
+   "s": "Und es hat immer noch gestimmt.",
+   "e": "And it was still true."
+  },
+  {
+   "s": "Sie hat nicht gelacht und nicht geweint.",
+   "e": "She did not laugh and did not cry."
+  },
+  {
+   "s": "Sie hat gesagt: Gut.",
+   "e": "She said: good."
+  },
+  {
+   "s": "Dann hat sie gesagt: Dann müssen wir etwas machen.",
+   "e": "Then she said: then we have to do something."
+  },
+  {
+   "s": "Sie hat ein Blatt Papier geholt.",
+   "e": "She got a sheet of paper."
+  },
+  {
+   "s": "Zwanzig Minuten nach der grössten Frage von meinem Leben.",
+   "e": "Twenty minutes after the biggest question of my life."
+  },
+  {
+   "s": "Es stand eine Liste auf dem Papier.",
+   "e": "There was a list on the paper."
+  },
+  {
+   "s": "Vertrag verlängern. Bewilligung. Wohnung.",
+   "e": "Extend the contract. Permit. Flat."
+  },
+  {
+   "s": "Drei Wörter und ein ganzes Jahr Arbeit.",
+   "e": "Three words and a whole year of work."
+  },
+  {
+   "s": "Ich habe gesagt: Das ist sehr romantisch.",
+   "e": "I said: that is very romantic."
+  },
+  {
+   "s": "Sie hat gelacht.",
+   "e": "She laughed."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist es tatsächlich.",
+   "e": "She said: it actually is."
+  },
+  {
+   "s": "Und sie hatte recht.",
+   "e": "And she was right."
+  },
+  {
+   "s": "Eine Liste ist hier eine Liebeserklärung.",
+   "e": "A list here is a declaration of love."
+  },
+  {
+   "s": "Wer eine Liste macht, hat entschieden.",
+   "e": "Somebody who makes a list has decided."
+  },
+  {
+   "s": "Am Abend habe ich Nuno angerufen.",
+   "e": "In the evening I called Nuno."
+  },
+  {
+   "s": "Ich habe gesagt: Ich bleibe.",
+   "e": "I said: I am staying."
+  },
+  {
+   "s": "Er war zwei Sekunden still.",
+   "e": "He was quiet for two seconds."
+  },
+  {
+   "s": "Dann hat er gesagt: Willkommen.",
+   "e": "Then he said: welcome."
+  },
+  {
+   "s": "Nur ein Wort.",
+   "e": "Just one word."
+  },
+  {
+   "s": "Er hat gesagt: Jetzt fängt es erst an.",
+   "e": "He said: now it is only beginning."
+  },
+  {
+   "s": "Er hat gesagt: Die ersten zehn Jahre sind das Papier.",
+   "e": "He said: the first ten years are the paperwork."
+  },
+  {
+   "s": "Er hat gesagt: Danach kommt der Rest.",
+   "e": "He said: after that comes the rest."
+  },
+  {
+   "s": "Ich habe gefragt: Und was ist der Rest?",
+   "e": "I asked: and what is the rest?"
+  },
+  {
+   "s": "Er hat gesagt: Das weiss ich auch nicht.",
+   "e": "He said: I do not know that either."
+  },
+  {
+   "s": "Er hat gesagt: Ich bin seit achtzehn Jahren dran.",
+   "e": "He said: I have been at it for eighteen years."
+  },
+  {
+   "s": "Am nächsten Tag habe ich mit meinem Chef geredet.",
+   "e": "The next day I talked to my boss."
+  },
+  {
+   "s": "Ich habe nach dem Vertrag gefragt.",
+   "e": "I asked about the contract."
+  },
+  {
+   "s": "Er hat gesagt: Das ist kein Problem.",
+   "e": "He said: that is not a problem."
+  },
+  {
+   "s": "Er hat gesagt: Warum haben Sie nicht früher gefragt?",
+   "e": "He said: why did you not ask earlier?"
+  },
+  {
+   "s": "Ich hatte keine gute Antwort darauf.",
+   "e": "I had no good answer to that."
+  }
+ ]
+}

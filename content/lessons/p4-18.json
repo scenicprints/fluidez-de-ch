@@ -1,0 +1,355 @@
+{
+ "id": "p4-18",
+ "title": "Der Samichlaus",
+ "desc": "The sixth of December, and a man with a book",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Samichlaus",
+  "Gedicht",
+  "Nuss",
+  "Kind"
+ ],
+ "sn": [
+  {
+   "s": "Am sechsten Dezember kommt der Samichlaus.",
+   "e": "On the sixth of December the Samichlaus comes."
+  },
+  {
+   "s": "Nicht am Weihnachtsabend.",
+   "e": "Not on Christmas Eve."
+  },
+  {
+   "s": "Am sechsten, und nur am sechsten.",
+   "e": "On the sixth, and only on the sixth."
+  },
+  {
+   "s": "Er ist ein Mann in Rot mit einem weissen Bart.",
+   "e": "He is a man in red with a white beard."
+  },
+  {
+   "s": "Er ist nicht der Mann mit den Geschenken.",
+   "e": "He is not the man with the presents."
+  },
+  {
+   "s": "Die Geschenke kommen am vierundzwanzigsten und von jemand anderem.",
+   "e": "The presents come on the twenty-fourth and from somebody else."
+  },
+  {
+   "s": "Der Samichlaus bringt keine Geschenke.",
+   "e": "The Samichlaus does not bring presents."
+  },
+  {
+   "s": "Er bringt Nüsse und Mandarinen und Schokolade.",
+   "e": "He brings nuts and mandarins and chocolate."
+  },
+  {
+   "s": "Und er bringt ein Buch.",
+   "e": "And he brings a book."
+  },
+  {
+   "s": "Im Buch steht, was jedes Kind das Jahr über gemacht hat.",
+   "e": "In the book is what every child has done over the year."
+  },
+  {
+   "s": "Das Gute und das andere.",
+   "e": "The good and the other."
+  },
+  {
+   "s": "Er liest es vor.",
+   "e": "He reads it out."
+  },
+  {
+   "s": "Er liest es dem Kind ins Gesicht vor.",
+   "e": "He reads it out to the child's face."
+  },
+  {
+   "s": "Das ist die ganze Sache.",
+   "e": "That is the whole thing."
+  },
+  {
+   "s": "Er kommt nicht allein.",
+   "e": "He does not come alone."
+  },
+  {
+   "s": "Neben ihm geht der Schmutzli.",
+   "e": "Beside him walks the Schmutzli."
+  },
+  {
+   "s": "Der Schmutzli ist ganz in Braun und sagt nichts.",
+   "e": "The Schmutzli is all in brown and says nothing."
+  },
+  {
+   "s": "Er hat einen grossen Sack.",
+   "e": "He has a big sack."
+  },
+  {
+   "s": "Früher hat man den Kindern gesagt, dass er sie mitnimmt.",
+   "e": "They used to tell children that he takes them away."
+  },
+  {
+   "s": "Das sagt man heute nicht mehr.",
+   "e": "Nobody says that any more today."
+  },
+  {
+   "s": "Der Sack ist heute für die Nüsse.",
+   "e": "The sack is for the nuts these days."
+  },
+  {
+   "s": "Und der Schmutzli schaut trotzdem sehr ernst.",
+   "e": "And the Schmutzli still looks very serious."
+  },
+  {
+   "s": "Die zwei kommen manchmal mit einem Esel.",
+   "e": "The two of them sometimes come with a donkey."
+  },
+  {
+   "s": "Ein Esel in einem Quartier in Kriens, im Dunkeln.",
+   "e": "A donkey in a neighbourhood in Kriens, in the dark."
+  },
+  {
+   "s": "Das ist ein sehr starkes Bild.",
+   "e": "That is a very strong image."
+  },
+  {
+   "s": "Jedes Kind muss ein Gedicht aufsagen.",
+   "e": "Every child has to recite a poem."
+  },
+  {
+   "s": "Ein Gedicht ist ein kurzer Text mit einem Takt.",
+   "e": "A poem is a short text with a beat."
+  },
+  {
+   "s": "Man lernt es auswendig.",
+   "e": "You learn it by heart."
+  },
+  {
+   "s": "Man sagt es dem Samichlaus auf.",
+   "e": "You say it to the Samichlaus."
+  },
+  {
+   "s": "Dann bekommt man die Nüsse.",
+   "e": "Then you get the nuts."
+  },
+  {
+   "s": "Es ist ein Fest für die Kinder und für sonst niemanden.",
+   "e": "It is a festival for the children and for nobody else."
+  },
+  {
+   "s": "An der Fasnacht ist es genau umgekehrt.",
+   "e": "At Fasnacht it is exactly the other way round."
+  },
+  {
+   "s": "Brav ist das Wort in diesem Zusammenhang.",
+   "e": "Brav is the word in this context."
+  },
+  {
+   "s": "Brav heisst: ein Kind macht, was man sagt.",
+   "e": "Brav means: a child does what it is told."
+  },
+  {
+   "s": "Warst du brav?",
+   "e": "Have you been good?"
+  },
+  {
+   "s": "Das ist die Frage vom Samichlaus.",
+   "e": "That is the Samichlaus's question."
+  },
+  {
+   "s": "Und jedes Kind sagt ja.",
+   "e": "And every child says yes."
+  },
+  {
+   "s": "Und der Samichlaus liest dann aus dem Buch.",
+   "e": "And then the Samichlaus reads from the book."
+  },
+  {
+   "s": "Im Buch stehen die Sachen von den Eltern.",
+   "e": "In the book are the things from the parents."
+  },
+  {
+   "s": "Die Eltern schreiben ihm vorher einen Zettel.",
+   "e": "The parents write him a note beforehand."
+  },
+  {
+   "s": "Das wissen alle Erwachsenen und kein Kind.",
+   "e": "Every adult knows that and no child does."
+  },
+  {
+   "s": "Bei den Odermatts sind zwei Kinder von Nachbarn dabei gewesen.",
+   "e": "At the Odermatts two neighbours' children were there."
+  },
+  {
+   "s": "Sechs und neun Jahre alt.",
+   "e": "Six and nine years old."
+  },
+  {
+   "s": "Das Kind von sechs hat geweint.",
+   "e": "The child of six cried."
+  },
+  {
+   "s": "Das Kind von neun hat sein Gedicht ohne Fehler aufgesagt.",
+   "e": "The child of nine recited his poem without a mistake."
+  },
+  {
+   "s": "Beide haben die Nüsse bekommen.",
+   "e": "Both got the nuts."
+  },
+  {
+   "s": "Dann hat der Samichlaus mich angeschaut.",
+   "e": "Then the Samichlaus looked at me."
+  },
+  {
+   "s": "Er hat gefragt: Und Sie?",
+   "e": "He asked: and you?"
+  },
+  {
+   "s": "Er hat Sie gesagt zu einem Erwachsenen.",
+   "e": "He said Sie to an adult."
+  },
+  {
+   "s": "In einem roten Mantel, mit einem Bart aus Watte.",
+   "e": "In a red coat, with a beard made of cotton wool."
+  },
+  {
+   "s": "Und der ganze Raum hat gewartet.",
+   "e": "And the whole room waited."
+  },
+  {
+   "s": "Ich habe kein Gedicht gehabt.",
+   "e": "I did not have a poem."
+  },
+  {
+   "s": "Ich habe kein einziges deutsches Gedicht gekannt.",
+   "e": "I did not know a single German poem."
+  },
+  {
+   "s": "Es war sehr still.",
+   "e": "It was very quiet."
+  },
+  {
+   "s": "Dann hat Selina angefangen.",
+   "e": "Then Selina started."
+  },
+  {
+   "s": "Sie hat ein Gedicht für Kinder aufgesagt.",
+   "e": "She recited a children's poem."
+  },
+  {
+   "s": "Vier Zeilen, sehr einfach, über Schnee.",
+   "e": "Four lines, very simple, about snow."
+  },
+  {
+   "s": "Sie hat es langsam gesagt.",
+   "e": "She said it slowly."
+  },
+  {
+   "s": "Nach der ersten Zeile habe ich verstanden.",
+   "e": "After the first line I understood."
+  },
+  {
+   "s": "Sie hat es nicht für den Samichlaus gesagt.",
+   "e": "She was not saying it for the Samichlaus."
+  },
+  {
+   "s": "Sie hat es für mich gesagt.",
+   "e": "She was saying it for me."
+  },
+  {
+   "s": "Ich habe die letzten zwei Zeilen mitgesagt.",
+   "e": "I said the last two lines with her."
+  },
+  {
+   "s": "Ich habe sie falsch gesagt.",
+   "e": "I said them wrong."
+  },
+  {
+   "s": "Der Samichlaus hat trotzdem Nüsse gegeben.",
+   "e": "The Samichlaus gave nuts anyway."
+  },
+  {
+   "s": "Kurt hat hinter mir etwas gesagt.",
+   "e": "Kurt said something behind me."
+  },
+  {
+   "s": "Er hat gesagt: Nächstes Jahr können Sie es.",
+   "e": "He said: next year you will know it."
+  },
+  {
+   "s": "Das ist von ihm ein sehr langer Satz.",
+   "e": "For him that is a very long sentence."
+  },
+  {
+   "s": "Der Samichlaus war ein Mann aus dem Quartier.",
+   "e": "The Samichlaus was a man from the neighbourhood."
+  },
+  {
+   "s": "Er macht das seit zwanzig Jahren.",
+   "e": "He has been doing it for twenty years."
+  },
+  {
+   "s": "Er geht an einem Abend zu elf Familien.",
+   "e": "He goes to eleven families in one evening."
+  },
+  {
+   "s": "Er nimmt kein Geld dafür.",
+   "e": "He takes no money for it."
+  },
+  {
+   "s": "Er ist im Verein für den Samichlaus.",
+   "e": "He is in the club for the Samichlaus."
+  },
+  {
+   "s": "Natürlich gibt es einen Verein dafür.",
+   "e": "Of course there is a club for it."
+  },
+  {
+   "s": "In Küssnacht machen sie am fünften etwas anderes.",
+   "e": "In Küssnacht they do something else on the fifth."
+  },
+  {
+   "s": "Es heisst Chlausjagen.",
+   "e": "It is called Chlausjagen."
+  },
+  {
+   "s": "Tausend Männer gehen durch das Dorf.",
+   "e": "A thousand men walk through the village."
+  },
+  {
+   "s": "Sie tragen grosse Hüte aus Papier auf dem Kopf.",
+   "e": "They carry big paper hats on their heads."
+  },
+  {
+   "s": "In den Hüten brennt ein Licht.",
+   "e": "There is a light burning inside the hats."
+  },
+  {
+   "s": "Die Hüte heissen Iffelen und sie sind zwei Meter hoch.",
+   "e": "The hats are called Iffelen and they are two metres high."
+  },
+  {
+   "s": "Jede ist von Hand gemacht.",
+   "e": "Each one is made by hand."
+  },
+  {
+   "s": "Sie machen dazu Lärm mit Glocken und Hörnern.",
+   "e": "They make a noise with bells and horns as they go."
+  },
+  {
+   "s": "Timo hat gesagt: Das musst du einmal sehen.",
+   "e": "Timo said: you have to see that once."
+  },
+  {
+   "s": "Er hat gesagt: Es ist laut und alt und ein bisschen unheimlich.",
+   "e": "He said: it is loud and old and a little eerie."
+  },
+  {
+   "s": "Ich habe es im nächsten Jahr gesehen.",
+   "e": "I saw it the next year."
+  },
+  {
+   "s": "Er hatte in allen drei Punkten recht.",
+   "e": "He was right on all three counts."
+  }
+ ]
+}

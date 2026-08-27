@@ -1,0 +1,337 @@
+{
+ "id": "p4-08",
+ "title": "Es tut mir leid",
+ "desc": "Apologising when you have the words for it",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "geschrieben",
+  "tun"
+ ],
+ "sn": [
+  {
+   "s": "Es gibt zwei Wörter für Entschuldigung.",
+   "e": "There are two words for an apology."
+  },
+  {
+   "s": "Entschuldigung ist das kleine.",
+   "e": "Entschuldigung is the small one."
+  },
+  {
+   "s": "Man sagt es im Bus und im Laden.",
+   "e": "You say it on the bus and in a shop."
+  },
+  {
+   "s": "Man sagt es für einen Fuss und einen Ellbogen.",
+   "e": "You say it for a foot and an elbow."
+  },
+  {
+   "s": "Es tut mir leid ist das andere.",
+   "e": "Es tut mir leid is the other one."
+  },
+  {
+   "s": "Es ist für einen echten Fehler.",
+   "e": "It is for a real mistake."
+  },
+  {
+   "s": "Man sagt es nicht oft.",
+   "e": "You do not say it often."
+  },
+  {
+   "s": "Und man sagt es nicht allgemein.",
+   "e": "And you do not say it in general."
+  },
+  {
+   "s": "Das ist die ganze Sache hier.",
+   "e": "That is the whole thing here."
+  },
+  {
+   "s": "Eine Entschuldigung muss genau sein.",
+   "e": "An apology has to be specific."
+  },
+  {
+   "s": "Es tut mir leid allein ist zu wenig.",
+   "e": "Es tut mir leid on its own is not enough."
+  },
+  {
+   "s": "Es tönt fast wie eine Ausrede.",
+   "e": "It sounds almost like an excuse."
+  },
+  {
+   "s": "Man muss sagen: Es tut mir leid für was.",
+   "e": "You have to say: sorry for what."
+  },
+  {
+   "s": "Ich habe zwei Tage gewartet.",
+   "e": "I waited two days."
+  },
+  {
+   "s": "Zwei Tage sind hier viel.",
+   "e": "Two days are a lot here."
+  },
+  {
+   "s": "Nuno hat gesagt: Frag am gleichen Tag.",
+   "e": "Nuno said: ask on the same day."
+  },
+  {
+   "s": "Er hat es mir vor Monaten gesagt.",
+   "e": "He told me that months ago."
+  },
+  {
+   "s": "Ich habe es wieder falsch gemacht.",
+   "e": "I got it wrong again."
+  },
+  {
+   "s": "Am Sonntag habe ich geschrieben.",
+   "e": "On Sunday I wrote."
+  },
+  {
+   "s": "Ich habe geschrieben: Hast du eine halbe Stunde?",
+   "e": "I wrote: do you have half an hour?"
+  },
+  {
+   "s": "Sie hat geschrieben: Um vier. Bei der Brücke.",
+   "e": "She wrote: at four. At the bridge."
+  },
+  {
+   "s": "Sie hat keinen Ton dazu geschrieben.",
+   "e": "She wrote no tone with it."
+  },
+  {
+   "s": "Vier Wörter und ein Ort.",
+   "e": "Four words and a place."
+  },
+  {
+   "s": "Beim ersten Mal habe ich es falsch gemacht.",
+   "e": "The first time I got it wrong."
+  },
+  {
+   "s": "Ich habe gesagt: Es tut mir leid.",
+   "e": "I said: I am sorry."
+  },
+  {
+   "s": "Sie hat gewartet.",
+   "e": "She waited."
+  },
+  {
+   "s": "Ich habe gesagt: Es tut mir leid wegen dem Samstag.",
+   "e": "I said: I am sorry about the Saturday."
+  },
+  {
+   "s": "Sie hat wieder gewartet.",
+   "e": "She waited again."
+  },
+  {
+   "s": "Das war immer noch das Falsche.",
+   "e": "That was still the wrong thing."
+  },
+  {
+   "s": "Der Samstag war nicht das Problem.",
+   "e": "The Saturday was not the problem."
+  },
+  {
+   "s": "Der Samstag war die kleine Sache.",
+   "e": "The Saturday was the small thing."
+  },
+  {
+   "s": "Ich habe drei Minuten gebraucht.",
+   "e": "I needed three minutes."
+  },
+  {
+   "s": "Dann habe ich es richtig gesagt.",
+   "e": "Then I said it right."
+  },
+  {
+   "s": "Ich habe gesagt: Es tut mir leid für die zwei Tage.",
+   "e": "I said: I am sorry about the two days."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe es nicht gesagt und das war eine Entscheidung.",
+   "e": "I said: I did not tell you and that was a decision."
+  },
+  {
+   "s": "Sie hat genickt.",
+   "e": "She nodded."
+  },
+  {
+   "s": "Ein Nicken und die Sache war anders.",
+   "e": "A nod and the thing was different."
+  },
+  {
+   "s": "Ich war im Unrecht ist der grösste Satz davon.",
+   "e": "Ich war im Unrecht is the biggest sentence of them."
+  },
+  {
+   "s": "Im Unrecht sein heisst: ich hatte nicht recht.",
+   "e": "To be in the wrong means: I was not right."
+  },
+  {
+   "s": "Man sagt es sehr selten.",
+   "e": "People say it very rarely."
+  },
+  {
+   "s": "Ich habe es an diesem Tag gesagt.",
+   "e": "I said it that day."
+  },
+  {
+   "s": "Sie hat gesagt: Ich weiss.",
+   "e": "She said: I know."
+  },
+  {
+   "s": "Nicht: Es ist nicht schlimm.",
+   "e": "Not: it is not bad."
+  },
+  {
+   "s": "Nicht: Vergiss es.",
+   "e": "Not: forget it."
+  },
+  {
+   "s": "Sondern: Ich weiss.",
+   "e": "But: I know."
+  },
+  {
+   "s": "Das ist die ehrlichste Antwort von allen.",
+   "e": "That is the most honest answer of all."
+  },
+  {
+   "s": "Sie nimmt die Entschuldigung und macht sie nicht kleiner.",
+   "e": "She takes the apology and does not make it smaller."
+  },
+  {
+   "s": "Zu Hause sagt man sofort: Ist schon gut.",
+   "e": "At home people say at once: it is fine."
+  },
+  {
+   "s": "Das ist nett und es macht alles kleiner.",
+   "e": "That is kind and it makes everything smaller."
+  },
+  {
+   "s": "Hier lässt man es stehen.",
+   "e": "Here people let it stand."
+  },
+  {
+   "s": "Dann hat sie auch etwas gesagt.",
+   "e": "Then she said something too."
+  },
+  {
+   "s": "Sie hat gesagt: Ich war auch zu still.",
+   "e": "She said: I was too quiet too."
+  },
+  {
+   "s": "Sie hat gesagt: Ich mache das immer.",
+   "e": "She said: I always do that."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist nicht besser.",
+   "e": "She said: that is not better."
+  },
+  {
+   "s": "Das war für sie sehr viel.",
+   "e": "That was a lot for her."
+  },
+  {
+   "s": "Wir sind an der Reuss gestanden.",
+   "e": "We stood by the Reuss."
+  },
+  {
+   "s": "Das Wasser hat viel Lärm gemacht.",
+   "e": "The water made a lot of noise."
+  },
+  {
+   "s": "Wir haben laut geredet und dabei ruhig.",
+   "e": "We talked loudly and calmly at the same time."
+  },
+  {
+   "s": "Nach einer halben Stunde hat sie gefragt: Kaffee?",
+   "e": "After half an hour she asked: coffee?"
+  },
+  {
+   "s": "Das war das Ende davon.",
+   "e": "That was the end of it."
+  },
+  {
+   "s": "Kein grosser Satz, kein Kuss, keine Musik.",
+   "e": "No big sentence, no kiss, no music."
+  },
+  {
+   "s": "Nur: Kaffee?",
+   "e": "Just: coffee?"
+  },
+  {
+   "s": "Und dann sind wir Kaffee trinken gegangen.",
+   "e": "And then we went for a coffee."
+  },
+  {
+   "s": "Nuno hat später etwas Gutes gesagt.",
+   "e": "Nuno said something good later."
+  },
+  {
+   "s": "Er hat gesagt: Bei uns ist eine Entschuldigung ein Gefühl.",
+   "e": "He said: with us an apology is a feeling."
+  },
+  {
+   "s": "Er hat gesagt: Hier ist sie eine Liste.",
+   "e": "He said: here it is a list."
+  },
+  {
+   "s": "Er hat gesagt: Das war für mich zehn Jahre schwer.",
+   "e": "He said: that was hard for me for ten years."
+  },
+  {
+   "s": "Er hat gesagt: Dann habe ich es verstanden.",
+   "e": "He said: then I understood it."
+  },
+  {
+   "s": "Er hat gesagt: Eine Liste kann man abarbeiten.",
+   "e": "He said: you can work through a list."
+  },
+  {
+   "s": "Er hat gesagt: Ein Gefühl bleibt einfach da.",
+   "e": "He said: a feeling just stays there."
+  },
+  {
+   "s": "Das war die beste Erklärung bis jetzt.",
+   "e": "That was the best explanation so far."
+  },
+  {
+   "s": "Am Abend hat sie mir geschrieben.",
+   "e": "In the evening she wrote to me."
+  },
+  {
+   "s": "Sie hat geschrieben: Nächsten Samstag bin ich frei.",
+   "e": "She wrote: next Saturday I am free."
+  },
+  {
+   "s": "Ein Datum ist hier eine ganze Versöhnung.",
+   "e": "A date here is a whole reconciliation."
+  },
+  {
+   "s": "Ich habe geschrieben: Ich auch.",
+   "e": "I wrote: me too."
+  },
+  {
+   "s": "Ich habe auch etwas gelernt.",
+   "e": "I learned something too."
+  },
+  {
+   "s": "Ich sage jetzt die Sachen am gleichen Tag.",
+   "e": "I say things on the same day now."
+  },
+  {
+   "s": "Nicht immer. Aber meistens.",
+   "e": "Not always. But mostly."
+  },
+  {
+   "s": "Es ist einfacher und es fühlt sich schlimmer an.",
+   "e": "It is easier and it feels worse."
+  },
+  {
+   "s": "Am gleichen Tag ist alles noch klein.",
+   "e": "On the same day everything is still small."
+  },
+  {
+   "s": "Nach drei Tagen ist es eine Geschichte.",
+   "e": "After three days it is a story."
+  }
+ ]
+}

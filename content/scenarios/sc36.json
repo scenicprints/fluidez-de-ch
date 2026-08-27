@@ -1,0 +1,109 @@
+{
+ "id": "sc36",
+ "title": "Wie geht es?",
+ "desc": "There is a whole scale under this",
+ "setting": "An office in Kriens in February, sixteen days of fog, and a colleague who has stopped typing.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Marco",
+   "es": "Und? Alles gut?",
+   "en": "And? All good?",
+   "options": [
+    {
+     "es": "Es geht so.",
+     "en": "It is going all right.",
+     "verdict": "good",
+     "feedback": "Two words and the whole afternoon changes. Es geht is the answer that says: ask again."
+    },
+    {
+     "es": "Gut, danke.",
+     "en": "Good, thank you.",
+     "verdict": "ok",
+     "feedback": "The greeting with more words in it. Nothing wrong with it and nothing happens after it."
+    },
+    {
+     "es": "Mies.",
+     "en": "Lousy.",
+     "verdict": "ok",
+     "feedback": "The bottom of the scale. It is honest and it is a lot to hand somebody at ten in the morning."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Was ist?",
+   "en": "What is it?",
+   "options": [
+    {
+     "es": "Nichts. Der Nebel.",
+     "en": "Nothing. The fog.",
+     "verdict": "good",
+     "feedback": "Small and true. He will not push and he will know exactly what you mean, because he has it too."
+    },
+    {
+     "es": "Es ist kompliziert.",
+     "en": "It is complicated.",
+     "verdict": "ok",
+     "feedback": "He turned round in his chair for this. Kompliziert sends him back to the screen."
+    },
+    {
+     "es": "Alles. Ich weiss nicht mehr, was ich hier mache.",
+     "en": "Everything. I do not know what I am doing here any more.",
+     "verdict": "ok",
+     "feedback": "That is the real answer. It is also more than the question was built to carry, and he will listen anyway."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Ja. Der Februar ist der schlimmste.",
+   "en": "Yes. February is the worst.",
+   "options": [
+    {
+     "es": "Auch für dich?",
+     "en": "For you too?",
+     "verdict": "good",
+     "feedback": "Ask. The useful part is not the sympathy, it is finding out that everybody here is like this in February."
+    },
+    {
+     "es": "Es wird bald besser.",
+     "en": "It will get better soon.",
+     "verdict": "bad",
+     "feedback": "He was not asking to be reassured. He was telling you something, and it was the useful thing."
+    },
+    {
+     "es": "Ich dachte, das liegt an mir.",
+     "en": "I thought it was just me.",
+     "verdict": "good",
+     "feedback": "Honest, and it is why he said it. Alle sind so is the whole medicine here."
+    }
+   ]
+  },
+  {
+   "speaker": "Marco",
+   "es": "Hier.",
+   "en": "Here.",
+   "options": [
+    {
+     "es": "Merci.",
+     "en": "Thanks.",
+     "verdict": "good",
+     "feedback": "One word. With him that is the entire language for this and anything longer would spoil it."
+    },
+    {
+     "es": "Das musst du doch nicht.",
+     "en": "You did not have to.",
+     "verdict": "bad",
+     "feedback": "He knows. Refusing a small kindness here makes the other person carry it back."
+    },
+    {
+     "es": "Nichts sagen und weiterarbeiten.",
+     "en": "Say nothing and get back to work.",
+     "verdict": "ok",
+     "feedback": "Fine, and a merci costs nothing. He brought it across the room."
+    }
+   ]
+  }
+ ]
+}

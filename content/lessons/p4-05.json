@@ -1,0 +1,338 @@
+{
+ "id": "p4-05",
+ "title": "Was sie macht",
+ "desc": "A whole person you know nothing about",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "lang",
+  "Frau",
+  "Tag"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe drei Monate gebraucht für ihren Beruf.",
+   "e": "It took me three months to understand her job."
+  },
+  {
+   "s": "Sie hat es zweimal erklärt.",
+   "e": "She explained it twice."
+  },
+  {
+   "s": "Beim ersten Mal habe ich genickt.",
+   "e": "The first time I nodded."
+  },
+  {
+   "s": "Nicken ist billig und es hilft nicht.",
+   "e": "Nodding is cheap and it does not help."
+  },
+  {
+   "s": "Sie ist Pflegefachfrau.",
+   "e": "She is a qualified nurse."
+  },
+  {
+   "s": "Das Wort ist lang und es sagt viel.",
+   "e": "The word is long and it says a lot."
+  },
+  {
+   "s": "Pflege ist die Arbeit mit kranken Menschen.",
+   "e": "Pflege is the work with sick people."
+  },
+  {
+   "s": "Eine Fachfrau ist eine Frau mit einer Ausbildung.",
+   "e": "A Fachfrau is a woman with a qualification."
+  },
+  {
+   "s": "Nicht eine Helferin. Eine Fachfrau.",
+   "e": "Not a helper. A qualified professional."
+  },
+  {
+   "s": "Der Unterschied ist hier gross.",
+   "e": "The difference is big here."
+  },
+  {
+   "s": "Sie hat drei Jahre Ausbildung gemacht.",
+   "e": "She did three years of training."
+  },
+  {
+   "s": "Danach noch zwei Jahre weiter.",
+   "e": "Then another two years after that."
+  },
+  {
+   "s": "Sie kann Sachen und ich habe keine Wörter dafür.",
+   "e": "She can do things and I have no words for them."
+  },
+  {
+   "s": "Sie arbeitet auf einer Station mit vierundzwanzig Betten.",
+   "e": "She works on a ward with twenty-four beds."
+  },
+  {
+   "s": "Sie arbeitet am Tag oder in der Nacht.",
+   "e": "She works days or nights."
+  },
+  {
+   "s": "Die Nacht dauert von sieben bis sieben.",
+   "e": "The night lasts from seven to seven."
+  },
+  {
+   "s": "Das sind zwölf Stunden.",
+   "e": "That is twelve hours."
+  },
+  {
+   "s": "Sie macht drei oder vier Nächte hintereinander.",
+   "e": "She does three or four nights in a row."
+  },
+  {
+   "s": "Danach hat sie zwei Tage frei.",
+   "e": "After that she has two days off."
+  },
+  {
+   "s": "Am ersten freien Tag schläft sie.",
+   "e": "On the first free day she sleeps."
+  },
+  {
+   "s": "Am zweiten geht sie auf einen Berg.",
+   "e": "On the second she goes up a mountain."
+  },
+  {
+   "s": "Das ist ihr ganzer Plan und er funktioniert.",
+   "e": "That is her whole plan and it works."
+  },
+  {
+   "s": "Beim zweiten Mal habe ich nachgefragt.",
+   "e": "The second time I asked more."
+  },
+  {
+   "s": "Nachfragen ist die ganze Kunst.",
+   "e": "Asking more is the whole art."
+  },
+  {
+   "s": "Man sagt: Und dann? Und danach?",
+   "e": "You say: and then? And after that?"
+  },
+  {
+   "s": "Man sagt: Und wie geht das genau?",
+   "e": "You say: and how does that work exactly?"
+  },
+  {
+   "s": "Vier kleine Wörter und man bekommt alles.",
+   "e": "Four small words and you get everything."
+  },
+  {
+   "s": "Ich habe gefragt: Wie fängt eine Nacht an?",
+   "e": "I asked: how does a night start?"
+  },
+  {
+   "s": "Sie hat zwanzig Minuten geredet.",
+   "e": "She talked for twenty minutes."
+  },
+  {
+   "s": "Um sieben kommt die Übergabe.",
+   "e": "At seven comes the handover."
+  },
+  {
+   "s": "Die Übergabe ist die Information vom Tag an die Nacht.",
+   "e": "The handover is the information from the day shift to the night shift."
+  },
+  {
+   "s": "Jedes Zimmer, jeder Mensch, jede Sache.",
+   "e": "Every room, every person, every detail."
+  },
+  {
+   "s": "Das dauert dreissig Minuten.",
+   "e": "That takes thirty minutes."
+  },
+  {
+   "s": "Dann sind zwei Leute allein mit vierundzwanzig Menschen.",
+   "e": "Then two people are alone with twenty-four people."
+  },
+  {
+   "s": "Zwölf Stunden lang.",
+   "e": "For twelve hours."
+  },
+  {
+   "s": "Ich habe gefragt: Und bei einem Problem?",
+   "e": "I asked: and if there is a problem?"
+  },
+  {
+   "s": "Sie hat gesagt: Dann passiert etwas.",
+   "e": "She said: then something happens."
+  },
+  {
+   "s": "Sie hat gesagt: Dafür ist man ja da.",
+   "e": "She said: that is what you are there for."
+  },
+  {
+   "s": "Sie hat es ohne Drama gesagt.",
+   "e": "She said it without drama."
+  },
+  {
+   "s": "Um zwei Uhr in der Nacht ist es still.",
+   "e": "At two in the morning it is quiet."
+  },
+  {
+   "s": "Sie sagt: Das ist die beste Zeit.",
+   "e": "She says: that is the best time."
+  },
+  {
+   "s": "Sie sagt: Dann reden die Leute.",
+   "e": "She says: that is when people talk."
+  },
+  {
+   "s": "Am Tag redet niemand über die wichtigen Sachen.",
+   "e": "In the daytime nobody talks about the important things."
+  },
+  {
+   "s": "Um zwei Uhr schon.",
+   "e": "At two in the morning they do."
+  },
+  {
+   "s": "Sie hat gesagt: Ich weiss Sachen von alten Männern.",
+   "e": "She said: I know things about old men."
+  },
+  {
+   "s": "Sie hat gesagt: Ihre Frauen wissen sie nicht.",
+   "e": "She said: their wives do not know them."
+  },
+  {
+   "s": "Dann hat sie nichts mehr gesagt.",
+   "e": "Then she said nothing more."
+  },
+  {
+   "s": "Sie erzählt nie etwas Konkretes.",
+   "e": "She never tells anything specific."
+  },
+  {
+   "s": "Kein Name, kein Zimmer, keine Krankheit.",
+   "e": "No name, no room, no illness."
+  },
+  {
+   "s": "Das ist die Regel und sie hält sie.",
+   "e": "That is the rule and she keeps it."
+  },
+  {
+   "s": "In diesem Land ist ein Beruf lang.",
+   "e": "In this country a career is long."
+  },
+  {
+   "s": "Man macht eine Ausbildung und bleibt darin.",
+   "e": "You do a training and you stay in it."
+  },
+  {
+   "s": "Man wechselt den Betrieb und nicht den Beruf.",
+   "e": "You change the employer and not the trade."
+  },
+  {
+   "s": "Man sagt nicht: Ich arbeite gerade im Spital.",
+   "e": "You do not say: I am working in a hospital at the moment."
+  },
+  {
+   "s": "Man sagt: Ich bin Pflegefachfrau.",
+   "e": "You say: I am a nurse."
+  },
+  {
+   "s": "Der Beruf ist eine Antwort auf die Frage: Wer bist du?",
+   "e": "The trade is an answer to the question: who are you?"
+  },
+  {
+   "s": "Nicht auf die Frage: Was tust du im Moment?",
+   "e": "Not to the question: what are you doing right now?"
+  },
+  {
+   "s": "Das habe ich lange nicht gehört.",
+   "e": "I did not hear that for a long time."
+  },
+  {
+   "s": "Timo ist Schreiner und nicht ein Mann in einer Werkstatt.",
+   "e": "Timo is a carpenter and not a man in a workshop."
+  },
+  {
+   "s": "Marco hat eine Lehre gemacht und ist das immer noch.",
+   "e": "Marco did an apprenticeship and he still is that."
+  },
+  {
+   "s": "Nuno ist Koch geworden ohne Ausbildung.",
+   "e": "Nuno became a cook without training."
+  },
+  {
+   "s": "Das hat achtzehn Jahre gedauert.",
+   "e": "That took eighteen years."
+  },
+  {
+   "s": "Er sagt: Ohne Papier dauert alles dreimal so lang.",
+   "e": "He says: without a certificate everything takes three times as long."
+  },
+  {
+   "s": "Ich habe Selina gefragt: Und ich?",
+   "e": "I asked Selina: and me?"
+  },
+  {
+   "s": "Sie hat gesagt: Du machst Zahlen und Briefe.",
+   "e": "She said: you do numbers and letters."
+  },
+  {
+   "s": "Genau die Wörter von Timo.",
+   "e": "Exactly Timo's words."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist keine schlechte Antwort.",
+   "e": "She said: that is not a bad answer."
+  },
+  {
+   "s": "Sie hat gesagt: Es ist einfach noch keine.",
+   "e": "She said: it is simply not an answer yet."
+  },
+  {
+   "s": "Das hat mich zwei Wochen beschäftigt.",
+   "e": "That occupied me for two weeks."
+  },
+  {
+   "s": "Am Ende habe ich sie noch etwas gefragt.",
+   "e": "In the end I asked her one more thing."
+  },
+  {
+   "s": "Ich habe gefragt: Machst du das noch lange?",
+   "e": "I asked: are you doing this for much longer?"
+  },
+  {
+   "s": "Sie hat gesagt: Bis sechzig.",
+   "e": "She said: until sixty."
+  },
+  {
+   "s": "Sie hat es ohne Nachdenken gesagt.",
+   "e": "She said it without thinking."
+  },
+  {
+   "s": "Sie ist neunundzwanzig.",
+   "e": "She is twenty-nine."
+  },
+  {
+   "s": "Einunddreissig Jahre, in einem Satz von vier Wörtern.",
+   "e": "Thirty-one years, in a sentence of four words."
+  },
+  {
+   "s": "Ich habe gefragt: Wirklich?",
+   "e": "I asked: really?"
+  },
+  {
+   "s": "Sie hat gefragt: Warum nicht?",
+   "e": "She asked: why not?"
+  },
+  {
+   "s": "Ich hatte keine Antwort darauf.",
+   "e": "I had no answer to that."
+  },
+  {
+   "s": "Zu Hause wechselt man alle vier Jahre.",
+   "e": "At home people change every four years."
+  },
+  {
+   "s": "Hier wechselt man einmal oder gar nie.",
+   "e": "Here people change once or never at all."
+  },
+  {
+   "s": "Ich weiss immer noch nicht: was ist besser?",
+   "e": "I still do not know: which is better?"
+  }
+ ]
+}

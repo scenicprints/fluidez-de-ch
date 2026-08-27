@@ -240,13 +240,22 @@ instruction: *"The phases should be unique to each language."*
 | 2 | Making Friends | perfect tense, dative | 27 |
 | 3 | Getting About | separable verbs, two-way prepositions | 21 |
 | 4 | **Close to the Heart** | the emotional register | **36** |
-| 5 | Hard Things | subordinate clauses, Konjunktiv II | 26 |
+| 5 | Hard Things | Konjunktiv II, subordinate clauses in full | 26 |
 | 6 | Sounding Swiss | Modalpartikeln: halt, eben, doch, mal | 26 |
 | 7 | Belonging | passive, idiom, the long tail | 18 |
 
 **The order is Kevin's**, and it is narrative: you land, you settle into a
 flat, you make friends, and only then do you go out and see the country, with
 them. It replaced an earlier order that had Getting About at position 1.
+
+**Subordinate clauses moved to phase 4 (2026-08-27), and the row above says so
+now.** The spine asks for `dass` in `p4-10`, `wenn/dann` in `p4-24` and
+"subordinate clauses under pressure" in `p4-31`, and phase 4 is arguments and
+apologies: *I thought you meant something else* cannot be written without one.
+Phases 0 to 3 and `p4-01` to `p4-09` stay clean, so the `dass` in `p4-10`
+arrives as an event and is named on the page. **Konjunktiv II did not move**
+and is still phase 5's, along with the full treatment. `NEXT.md` §19 carries
+the reasoning; it is reversible by rewriting nine stories.
 
 **Do not reorder it.** Three things depend on it:
 

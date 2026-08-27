@@ -1,0 +1,356 @@
+{
+ "id": "p4-21",
+ "title": "Eifersucht",
+ "desc": "A feeling with no good version",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "reden"
+ ],
+ "sn": [
+  {
+   "s": "Es hat mit einem Namen angefangen.",
+   "e": "It started with a name."
+  },
+  {
+   "s": "Der Name ist Fabian.",
+   "e": "The name is Fabian."
+  },
+  {
+   "s": "Er kommt in ihren Geschichten dreimal im Monat vor.",
+   "e": "He comes up in her stories three times a month."
+  },
+  {
+   "s": "Er arbeitet mit ihr auf der Station.",
+   "e": "He works with her on the ward."
+  },
+  {
+   "s": "Sie machen zusammen Nachtdienst.",
+   "e": "They do night shifts together."
+  },
+  {
+   "s": "Zwölf Stunden, zu zweit, in einem stillen Haus.",
+   "e": "Twelve hours, the two of them, in a quiet building."
+  },
+  {
+   "s": "Ich habe das drei Monate lang nicht gemerkt.",
+   "e": "I did not notice that for three months."
+  },
+  {
+   "s": "Dann habe ich es einen Monat lang gemerkt.",
+   "e": "Then I noticed it for a month."
+  },
+  {
+   "s": "Eifersucht ist das Wort dafür.",
+   "e": "Eifersucht is the word for it."
+  },
+  {
+   "s": "Eifersüchtig sein heisst: man will etwas allein haben.",
+   "e": "To be jealous means: you want something for yourself."
+  },
+  {
+   "s": "Es ist kein schönes Wort und es gibt kein besseres.",
+   "e": "It is not a nice word and there is no better one."
+  },
+  {
+   "s": "Es gibt Wörter daneben und sie helfen.",
+   "e": "There are words next to it and they help."
+  },
+  {
+   "s": "Unsicher heisst: ich weiss meinen Platz nicht.",
+   "e": "Unsicher means: I do not know where I stand."
+  },
+  {
+   "s": "Verletzt heisst: etwas hat weh getan.",
+   "e": "Verletzt means: something hurt."
+  },
+  {
+   "s": "Beide sind kleiner als eifersüchtig.",
+   "e": "Both are smaller than jealous."
+  },
+  {
+   "s": "Beide sind leichter zu sagen.",
+   "e": "Both are easier to say."
+  },
+  {
+   "s": "Und beide sind meistens ehrlicher.",
+   "e": "And both are mostly more honest."
+  },
+  {
+   "s": "Ich habe vierzehn Tage nichts gesagt.",
+   "e": "I said nothing for fourteen days."
+  },
+  {
+   "s": "Ich habe in diesen vierzehn Tagen mehr gefragt.",
+   "e": "In those fourteen days I asked more questions."
+  },
+  {
+   "s": "Nicht direkt. Daneben.",
+   "e": "Not directly. Around the edge."
+  },
+  {
+   "s": "Ich habe gefragt: Und? Wer hat am Freitag Dienst?",
+   "e": "I asked: and? Who is on duty on Friday?"
+  },
+  {
+   "s": "Das ist eine kleine Frage und sie ist nicht klein.",
+   "e": "That is a small question and it is not small."
+  },
+  {
+   "s": "Selina hat es nach vier Tagen gemerkt.",
+   "e": "Selina noticed after four days."
+  },
+  {
+   "s": "Sie hat zehn Tage nichts gesagt.",
+   "e": "She said nothing for ten days."
+  },
+  {
+   "s": "Das ist hier die normale Reaktion.",
+   "e": "That is the normal reaction here."
+  },
+  {
+   "s": "Man schaut zuerst zu.",
+   "e": "First you watch."
+  },
+  {
+   "s": "Man sagt erst etwas, wenn es sicher ist.",
+   "e": "You only say something when you are sure."
+  },
+  {
+   "s": "Am elften Tag hat sie gefragt.",
+   "e": "On the eleventh day she asked."
+  },
+  {
+   "s": "Sie hat gefragt: Was ist mit Fabian?",
+   "e": "She asked: what is it with Fabian?"
+  },
+  {
+   "s": "Vier Wörter, ohne Warnung, am Küchentisch.",
+   "e": "Four words, with no warning, at the kitchen table."
+  },
+  {
+   "s": "Sie redet nie über die Namen von den Leuten.",
+   "e": "She never talks about people's names."
+  },
+  {
+   "s": "Auch der Arzt auf der Station redet nicht darüber.",
+   "e": "The doctor on the ward does not talk about it either."
+  },
+  {
+   "s": "Sie hat einen Hund gewollt und keine Zeit dafür.",
+   "e": "She wanted a dog and had no time for one."
+  },
+  {
+   "s": "Ich habe zuerst gesagt: Nichts.",
+   "e": "At first I said: nothing."
+  },
+  {
+   "s": "Das war eine Lüge und wir haben es beide gewusst.",
+   "e": "That was a lie and we both knew it."
+  },
+  {
+   "s": "Sie hat gewartet.",
+   "e": "She waited."
+  },
+  {
+   "s": "Sie ist sehr gut im Warten.",
+   "e": "She is very good at waiting."
+  },
+  {
+   "s": "Nach einer Minute habe ich es gesagt.",
+   "e": "After a minute I said it."
+  },
+  {
+   "s": "Ich habe gesagt: Ich bin unsicher.",
+   "e": "I said: I feel unsure."
+  },
+  {
+   "s": "Nicht: Ich bin eifersüchtig.",
+   "e": "Not: I am jealous."
+  },
+  {
+   "s": "Das kleinere Wort zuerst.",
+   "e": "The smaller word first."
+  },
+  {
+   "s": "Sie hat gefragt: Wegen ihm oder wegen mir?",
+   "e": "She asked: because of him or because of me?"
+  },
+  {
+   "s": "Das ist die beste Frage in diesem Gespräch.",
+   "e": "That is the best question in that conversation."
+  },
+  {
+   "s": "Ich habe lange gebraucht.",
+   "e": "I took a long time."
+  },
+  {
+   "s": "Dann habe ich gesagt: Wegen mir.",
+   "e": "Then I said: because of me."
+  },
+  {
+   "s": "Das war wahr und es war schwer.",
+   "e": "That was true and it was hard."
+  },
+  {
+   "s": "Sie hat dann etwas Unerwartetes gemacht.",
+   "e": "Then she did something unexpected."
+  },
+  {
+   "s": "Sie hat nicht gesagt: Da ist nichts.",
+   "e": "She did not say: there is nothing there."
+  },
+  {
+   "s": "Sie hat nicht gesagt: Du bist verrückt.",
+   "e": "She did not say: you are being mad."
+  },
+  {
+   "s": "Sie hat gesagt: Gut. Jetzt weiss ich es.",
+   "e": "She said: good. Now I know."
+  },
+  {
+   "s": "Dann hat sie mir von Fabian erzählt.",
+   "e": "Then she told me about Fabian."
+  },
+  {
+   "s": "Zehn Minuten, ganz genau, ohne Verteidigung.",
+   "e": "Ten minutes, very precisely, with no defence."
+  },
+  {
+   "s": "Er ist siebenunddreissig und hat zwei Kinder.",
+   "e": "He is thirty-seven and has two children."
+  },
+  {
+   "s": "Er redet die ganze Nacht über seine Kinder.",
+   "e": "He talks about his children the whole night."
+  },
+  {
+   "s": "Sie hat gesagt: Er ist ein guter Kollege.",
+   "e": "She said: he is a good colleague."
+  },
+  {
+   "s": "Sie hat gesagt: Mehr ist da nicht.",
+   "e": "She said: there is nothing more there."
+  },
+  {
+   "s": "Und dann hat sie gesagt: Und das musst du glauben.",
+   "e": "And then she said: and you have to believe that."
+  },
+  {
+   "s": "Sie hat gesagt: Ich kann es nicht beweisen.",
+   "e": "She said: I cannot prove it."
+  },
+  {
+   "s": "Sie hat gesagt: Ich sage es dir nur.",
+   "e": "She said: I am only telling you."
+  },
+  {
+   "s": "Das ist der ganze Handel bei so etwas.",
+   "e": "That is the whole bargain with something like this."
+  },
+  {
+   "s": "Ich habe gesagt: Ich glaube dir.",
+   "e": "I said: I believe you."
+  },
+  {
+   "s": "Ich habe es gesagt und ich habe es zwei Tage später auch gefühlt.",
+   "e": "I said it and two days later I felt it too."
+  },
+  {
+   "s": "Zwischen den zwei liegt die ganze Arbeit.",
+   "e": "Between the two lies all the work."
+  },
+  {
+   "s": "Am Schluss hat sie noch etwas gesagt.",
+   "e": "At the end she said something else."
+  },
+  {
+   "s": "Sie hat gesagt: Vierzehn Tage sind zu lang.",
+   "e": "She said: fourteen days is too long."
+  },
+  {
+   "s": "Sie hat gesagt: Sag es am zweiten Tag.",
+   "e": "She said: say it on the second day."
+  },
+  {
+   "s": "Genau der Satz von Nuno.",
+   "e": "Exactly Nuno's sentence."
+  },
+  {
+   "s": "Zwei Menschen aus zwei Ländern und der gleiche Satz.",
+   "e": "Two people from two countries and the same sentence."
+  },
+  {
+   "s": "Vielleicht ist es doch keine Sache von diesem Land.",
+   "e": "Maybe it is not a thing about this country after all."
+  },
+  {
+   "s": "Vielleicht ist es einfach so.",
+   "e": "Maybe it is simply so."
+  },
+  {
+   "s": "Über Gefühle reden ist hier trotzdem schwer.",
+   "e": "Talking about feelings is still hard here."
+  },
+  {
+   "s": "Man macht es und man macht es kurz.",
+   "e": "People do it and they do it briefly."
+  },
+  {
+   "s": "Man sagt ein Wort und wartet.",
+   "e": "You say one word and wait."
+  },
+  {
+   "s": "Man macht keine Rede.",
+   "e": "You do not make a speech."
+  },
+  {
+   "s": "Timo hat später etwas dazu gesagt.",
+   "e": "Timo said something about it later."
+  },
+  {
+   "s": "Er hat gesagt: Bei uns redet man nicht viel darüber.",
+   "e": "He said: with us people do not talk about it much."
+  },
+  {
+   "s": "Er hat gesagt: Das heisst nicht, dass es niemanden gibt.",
+   "e": "He said: that does not mean there is nobody."
+  },
+  {
+   "s": "Er hat gesagt: Man redet mit einem Menschen.",
+   "e": "He said: you talk to one person."
+  },
+  {
+   "s": "Er hat gesagt: Nicht mit sechs.",
+   "e": "He said: not with six."
+  },
+  {
+   "s": "Das ist die Regel und sie ist streng.",
+   "e": "That is the rule and it is strict."
+  },
+  {
+   "s": "Ich habe seitdem einmal mit Nuno geredet.",
+   "e": "Since then I have talked to Nuno once."
+  },
+  {
+   "s": "Und einmal mit Rosmarie.",
+   "e": "And once with Rosmarie."
+  },
+  {
+   "s": "Rosmarie hat gesagt: Walter war auch eifersüchtig.",
+   "e": "Rosmarie said: Walter was jealous too."
+  },
+  {
+   "s": "Sie hat gesagt: Dreiundvierzig Jahre lang, ein bisschen.",
+   "e": "She said: for forty-three years, a little."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist nicht das Schlimmste.",
+   "e": "She said: that is not the worst thing."
+  },
+  {
+   "s": "Sie hat gesagt: Das Schlimmste ist, wenn es niemandem auffällt.",
+   "e": "She said: the worst thing is when nobody notices."
+  }
+ ]
+}

@@ -1,0 +1,342 @@
+{
+ "id": "p4-17",
+ "title": "Der WK",
+ "desc": "He disappears for three weeks, every year",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "WK",
+  "Woche",
+  "machen"
+ ],
+ "sn": [
+  {
+   "s": "Im März hat Reto beim Essen etwas gesagt.",
+   "e": "In March Reto said something at the table."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe ab Montag WK.",
+   "e": "He said: I have WK from Monday."
+  },
+  {
+   "s": "Niemand hat etwas gefragt.",
+   "e": "Nobody asked anything."
+  },
+  {
+   "s": "Marianne hat gesagt: Aha. Wo?",
+   "e": "Marianne said: ah. Where?"
+  },
+  {
+   "s": "Er hat einen Ort im Osten gesagt.",
+   "e": "He said a place in the east."
+  },
+  {
+   "s": "Dann war das Thema fertig.",
+   "e": "Then the subject was finished."
+  },
+  {
+   "s": "Ich habe drei Tage später gefragt.",
+   "e": "I asked three days later."
+  },
+  {
+   "s": "WK heisst Wiederholungskurs.",
+   "e": "WK means refresher course."
+  },
+  {
+   "s": "Es ist Militär.",
+   "e": "It is the army."
+  },
+  {
+   "s": "Fast jeder Mann hier war im Militär.",
+   "e": "Almost every man here has been in the army."
+  },
+  {
+   "s": "Man geht mit zwanzig für achtzehn Wochen.",
+   "e": "You go at twenty for eighteen weeks."
+  },
+  {
+   "s": "Das heisst die Rekrutenschule.",
+   "e": "That is called recruit school."
+  },
+  {
+   "s": "Und danach kommt jedes Jahr ein WK.",
+   "e": "And after that there is a WK every year."
+  },
+  {
+   "s": "Ein WK dauert drei Wochen.",
+   "e": "A WK lasts three weeks."
+  },
+  {
+   "s": "Man macht sechs oder sieben davon.",
+   "e": "You do six or seven of them."
+  },
+  {
+   "s": "Dann ist man fertig, mit ungefähr dreissig.",
+   "e": "Then you are done, at about thirty."
+  },
+  {
+   "s": "Reto macht dieses Jahr den letzten.",
+   "e": "Reto is doing his last one this year."
+  },
+  {
+   "s": "Er hat gesagt: Endlich.",
+   "e": "He said: at last."
+  },
+  {
+   "s": "Er hat es ohne grosses Gefühl gesagt.",
+   "e": "He said it without much feeling."
+  },
+  {
+   "s": "Einrücken ist das Wort für den Anfang.",
+   "e": "Einrücken is the word for the start."
+  },
+  {
+   "s": "Er rückt am Montag ein.",
+   "e": "He reports for duty on Monday."
+  },
+  {
+   "s": "Er ist eingerückt.",
+   "e": "He has reported for duty."
+  },
+  {
+   "s": "Es ist wieder ein Verb mit zwei Teilen.",
+   "e": "It is another verb with two parts."
+  },
+  {
+   "s": "Am Sonntag hat er die Uniform aus dem Schrank geholt.",
+   "e": "On Sunday he got the uniform out of the cupboard."
+  },
+  {
+   "s": "Die Uniform hängt bei ihm zu Hause.",
+   "e": "The uniform hangs at his home."
+  },
+  {
+   "s": "Nicht in einer Kaserne.",
+   "e": "Not in a barracks."
+  },
+  {
+   "s": "Zu Hause, im Schrank, das ganze Jahr.",
+   "e": "At home, in a cupboard, all year round."
+  },
+  {
+   "s": "Und das Gewehr auch.",
+   "e": "And the rifle as well."
+  },
+  {
+   "s": "Das habe ich zweimal gefragt.",
+   "e": "I asked that twice."
+  },
+  {
+   "s": "Das Gewehr steht im Schrank bei ihm in der Wohnung.",
+   "e": "The rifle stands in a cupboard in his flat."
+  },
+  {
+   "s": "Ohne Munition. Die ist seit 2007 nicht mehr zu Hause.",
+   "e": "Without ammunition. That has not been at home since 2007."
+  },
+  {
+   "s": "Aber das Gewehr schon.",
+   "e": "But the rifle is."
+  },
+  {
+   "s": "Für mich war das ein Schock.",
+   "e": "For me that was a shock."
+  },
+  {
+   "s": "Für alle am Tisch war es ein Möbelstück.",
+   "e": "For everybody at the table it was a piece of furniture."
+  },
+  {
+   "s": "Marianne hat gesagt: Es ist hinten links.",
+   "e": "Marianne said: it is at the back on the left."
+  },
+  {
+   "s": "Sie hat es gesagt wie über einen Schirm.",
+   "e": "She said it the way you would say it about an umbrella."
+  },
+  {
+   "s": "Selina hat mir das später erklärt.",
+   "e": "Selina explained it to me later."
+  },
+  {
+   "s": "Sie hat gesagt: Das Land hat keine grosse Armee.",
+   "e": "She said: the country has no big army."
+  },
+  {
+   "s": "Sie hat gesagt: Das Land ist die Armee.",
+   "e": "She said: the country is the army."
+  },
+  {
+   "s": "Jeder Mann ist Soldat und arbeitet normal.",
+   "e": "Every man is a soldier and works normally."
+  },
+  {
+   "s": "Auf dem Weg zur Kaserne fährt er an den Kühen vorbei.",
+   "e": "On the way to the barracks he drives past the cows."
+  },
+  {
+   "s": "Er geht drei Wochen im Jahr weg.",
+   "e": "He goes away for three weeks a year."
+  },
+  {
+   "s": "Und dann kommt er zurück ins Büro.",
+   "e": "And then he comes back to the office."
+  },
+  {
+   "s": "Die Firma muss ihn nehmen.",
+   "e": "The employer has to take him."
+  },
+  {
+   "s": "Die Firma zahlt weiter.",
+   "e": "The employer keeps paying."
+  },
+  {
+   "s": "Der Staat zahlt einen Teil zurück.",
+   "e": "The state pays part of it back."
+  },
+  {
+   "s": "Alles ist geregelt und niemand redet darüber.",
+   "e": "Everything is regulated and nobody talks about it."
+  },
+  {
+   "s": "Im Büro hat Marco im Mai drei Wochen gefehlt.",
+   "e": "In the office Marco was away for three weeks in May."
+  },
+  {
+   "s": "Ich habe gefragt: Ist er krank?",
+   "e": "I asked: is he ill?"
+  },
+  {
+   "s": "Eine Frau hat gesagt: Nein, WK.",
+   "e": "A woman said: no, WK."
+  },
+  {
+   "s": "Zwei Buchstaben und alle wissen alles.",
+   "e": "Two letters and everybody knows everything."
+  },
+  {
+   "s": "Marco ist vierundvierzig.",
+   "e": "Marco is forty-four."
+  },
+  {
+   "s": "Er macht es nicht mehr.",
+   "e": "He does not do it any more."
+  },
+  {
+   "s": "Es war sein Sohn.",
+   "e": "It was his son."
+  },
+  {
+   "s": "Ich habe das falsch verstanden und niemand hat gelacht.",
+   "e": "I got that wrong and nobody laughed."
+  },
+  {
+   "s": "Timo war auch im Militär.",
+   "e": "Timo was in the army too."
+  },
+  {
+   "s": "Er redet nicht gern darüber.",
+   "e": "He does not like talking about it."
+  },
+  {
+   "s": "Er hat gesagt: Es war kalt und langweilig.",
+   "e": "He said: it was cold and boring."
+  },
+  {
+   "s": "Er hat gesagt: Und ich kenne dadurch Leute aus dem ganzen Land.",
+   "e": "He said: and because of it I know people from all over the country."
+  },
+  {
+   "s": "Das ist der eigentliche Punkt davon.",
+   "e": "That is the actual point of it."
+  },
+  {
+   "s": "Ein Mann aus Genf und ein Mann aus Stans in einem Zimmer.",
+   "e": "A man from Geneva and a man from Stans in one room."
+  },
+  {
+   "s": "Drei Wochen lang, mit vierzehn anderen.",
+   "e": "For three weeks, with fourteen others."
+  },
+  {
+   "s": "Das passiert sonst nirgends in diesem Land.",
+   "e": "That happens nowhere else in this country."
+  },
+  {
+   "s": "Selina hat gesagt: Frauen machen es nicht.",
+   "e": "Selina said: women do not do it."
+  },
+  {
+   "s": "Sie hat gesagt: Man kann freiwillig.",
+   "e": "She said: you can volunteer."
+  },
+  {
+   "s": "Sie hat gesagt: Sehr wenige machen das.",
+   "e": "She said: very few do."
+  },
+  {
+   "s": "Sie hat gesagt: Und darum fehlt uns das Netz.",
+   "e": "She said: and that is why we do not have that network."
+  },
+  {
+   "s": "Sie hat es ohne Ärger gesagt.",
+   "e": "She said it without irritation."
+  },
+  {
+   "s": "Sie hat gesagt: So ist es einfach.",
+   "e": "She said: that is simply how it is."
+  },
+  {
+   "s": "Reto ist am Montag um sechs eingerückt.",
+   "e": "Reto reported for duty at six on Monday."
+  },
+  {
+   "s": "Er ist nach drei Wochen zurückgekommen.",
+   "e": "He came back after three weeks."
+  },
+  {
+   "s": "Er war braun und sehr müde.",
+   "e": "He was brown and very tired."
+  },
+  {
+   "s": "Er hat beim Essen nichts darüber gesagt.",
+   "e": "He said nothing about it at the table."
+  },
+  {
+   "s": "Er hat nur gesagt: Fertig.",
+   "e": "He only said: done."
+  },
+  {
+   "s": "Kurt hat genickt.",
+   "e": "Kurt nodded."
+  },
+  {
+   "s": "Kurt hat sieben WK gemacht.",
+   "e": "Kurt did seven WKs."
+  },
+  {
+   "s": "Sein Vater hat im Krieg an der Grenze gestanden.",
+   "e": "His father stood at the border in the war."
+  },
+  {
+   "s": "Drei Generationen und niemand hat je geschossen.",
+   "e": "Three generations and none of them ever fired."
+  },
+  {
+   "s": "Das ist hier der ganze Sinn davon.",
+   "e": "That is the whole point of it here."
+  },
+  {
+   "s": "Man macht es, damit man es nicht braucht.",
+   "e": "You do it so that you do not need it."
+  },
+  {
+   "s": "Timo hat das in einem Satz gesagt.",
+   "e": "Timo said it in one sentence."
+  },
+  {
+   "s": "Er hat gesagt: Es ist teuer und langweilig und wir behalten es.",
+   "e": "He said: it is expensive and boring and we are keeping it."
+  }
+ ]
+}

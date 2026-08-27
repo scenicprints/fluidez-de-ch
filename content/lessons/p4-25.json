@@ -1,0 +1,369 @@
+{
+ "id": "p4-25",
+ "title": "Die Bewilligung",
+ "desc": "Your life on a piece of plastic",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "verlängern",
+  "Gemeinde",
+  "Datum",
+  "Papier",
+  "Jahr",
+  "brauchen"
+ ],
+ "sn": [
+  {
+   "s": "Meine Bewilligung ist eine Karte aus Plastik.",
+   "e": "My permit is a plastic card."
+  },
+  {
+   "s": "Sie ist so gross wie eine Bankkarte.",
+   "e": "It is the size of a bank card."
+  },
+  {
+   "s": "Darauf steht mein Foto und ein Buchstabe.",
+   "e": "On it are my photograph and a letter."
+  },
+  {
+   "s": "Der Buchstabe ist B.",
+   "e": "The letter is B."
+  },
+  {
+   "s": "Und darunter steht: gültig bis.",
+   "e": "And underneath it says: valid until."
+  },
+  {
+   "s": "Zwei Wörter und ein Datum.",
+   "e": "Two words and a date."
+  },
+  {
+   "s": "Ich habe die Karte ein Jahr lang im Portemonnaie gehabt.",
+   "e": "I had the card in my wallet for a year."
+  },
+  {
+   "s": "Ich habe das Datum nicht angeschaut.",
+   "e": "I did not look at the date."
+  },
+  {
+   "s": "Im Februar habe ich es angeschaut.",
+   "e": "In February I looked at it."
+  },
+  {
+   "s": "Es hat sich anders angefühlt als vorher.",
+   "e": "It felt different from before."
+  },
+  {
+   "s": "Es gibt hier mehrere Bewilligungen.",
+   "e": "There are several kinds of permit here."
+  },
+  {
+   "s": "Die B ist die normale für Leute mit Arbeit.",
+   "e": "The B is the normal one for people with a job."
+  },
+  {
+   "s": "Sie gilt ein Jahr und man verlängert sie jedes Jahr.",
+   "e": "It is valid for a year and you extend it every year."
+  },
+  {
+   "s": "Verlängern heisst: länger machen.",
+   "e": "Verlängern means: to make longer."
+  },
+  {
+   "s": "Ich verlängere die Bewilligung.",
+   "e": "I am extending the permit."
+  },
+  {
+   "s": "Ich habe sie verlängert.",
+   "e": "I have extended it."
+  },
+  {
+   "s": "Man macht es mit einem Formular bei der Gemeinde.",
+   "e": "You do it with a form at the commune."
+  },
+  {
+   "s": "Man braucht den Vertrag von der Arbeit.",
+   "e": "You need your employment contract."
+  },
+  {
+   "s": "Man braucht den Mietvertrag.",
+   "e": "You need your tenancy agreement."
+  },
+  {
+   "s": "Man braucht ein Papier von der Krankenkasse.",
+   "e": "You need a paper from your health insurer."
+  },
+  {
+   "s": "Und man braucht ein Papier über die Steuern.",
+   "e": "And you need a paper about your taxes."
+  },
+  {
+   "s": "Vier Papiere und niemand hat sie alle beisammen.",
+   "e": "Four papers and nobody has all of them together."
+  },
+  {
+   "s": "Nach fünf Jahren kann man die C beantragen.",
+   "e": "After five years you can apply for the C."
+  },
+  {
+   "s": "Beantragen heisst: fragen mit einem Formular.",
+   "e": "Beantragen means: to ask with a form."
+  },
+  {
+   "s": "Die C gilt für immer.",
+   "e": "The C is permanent."
+  },
+  {
+   "s": "Man muss sie nicht mehr verlängern.",
+   "e": "You do not have to extend it any more."
+  },
+  {
+   "s": "Man kann die Arbeit wechseln ohne zu fragen.",
+   "e": "You can change jobs without asking."
+  },
+  {
+   "s": "Man kann umziehen, wohin man will.",
+   "e": "You can move wherever you like."
+  },
+  {
+   "s": "Für die C braucht man Deutsch.",
+   "e": "For the C you need German."
+  },
+  {
+   "s": "Man muss eine Prüfung machen.",
+   "e": "You have to take an exam."
+  },
+  {
+   "s": "Im Rathaus hängt ein Schild mit den Öffnungszeiten.",
+   "e": "In the town hall there is a sign with the opening hours."
+  },
+  {
+   "s": "Hinter dem Schalter steht ein Regal mit Ordnern.",
+   "e": "Behind the counter is a shelf of files."
+  },
+  {
+   "s": "Für ein Arztzeugnis geht man zum Arzt.",
+   "e": "For a doctor's certificate you go to the doctor."
+  },
+  {
+   "s": "Man muss zeigen, dass man reden und lesen kann.",
+   "e": "You have to show that you can speak and read."
+  },
+  {
+   "s": "Für manche Kantone reicht ein Papier von einer Schule.",
+   "e": "For some cantons a certificate from a school is enough."
+  },
+  {
+   "s": "Für andere muss man wirklich hin.",
+   "e": "For others you really have to go."
+  },
+  {
+   "s": "Fünf Jahre für ein anderes Stück Plastik.",
+   "e": "Five years for a different piece of plastic."
+  },
+  {
+   "s": "Zehn oder zwölf Jahre für den Pass.",
+   "e": "Ten or twelve years for the passport."
+  },
+  {
+   "s": "Und der Pass ist wieder etwas ganz anderes.",
+   "e": "And the passport is another thing altogether."
+  },
+  {
+   "s": "Für den Pass entscheidet die Gemeinde mit.",
+   "e": "For the passport the commune has a say."
+  },
+  {
+   "s": "In manchen Gemeinden stimmen die Leute darüber ab.",
+   "e": "In some communes the people vote on it."
+  },
+  {
+   "s": "Nicht mehr überall und immer noch irgendwo.",
+   "e": "Not everywhere any more and still somewhere."
+  },
+  {
+   "s": "Nuno hat es nach elf Jahren bekommen.",
+   "e": "Nuno got it after eleven years."
+  },
+  {
+   "s": "Er hat gesagt: Sie haben mich gefragt, wie viele Kantone es gibt.",
+   "e": "He said: they asked me how many cantons there are."
+  },
+  {
+   "s": "Er hat gesagt: Und wie das Lied vom Land geht.",
+   "e": "He said: and how the national anthem goes."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe es gewusst.",
+   "e": "He said: I knew it."
+  },
+  {
+   "s": "Er hat gesagt: Der Mann neben mir hat es nicht gewusst.",
+   "e": "He said: the man next to me did not."
+  },
+  {
+   "s": "Ich habe gefragt: Und dann?",
+   "e": "I asked: and then?"
+  },
+  {
+   "s": "Er hat gesagt: Er hat noch zwei Jahre gewartet.",
+   "e": "He said: he waited another two years."
+  },
+  {
+   "s": "Im März bin ich zur Gemeinde gegangen.",
+   "e": "In March I went to the commune."
+  },
+  {
+   "s": "Ich habe die vier Papiere gehabt.",
+   "e": "I had the four papers."
+  },
+  {
+   "s": "Selina hat mir eine Liste gemacht.",
+   "e": "Selina made me a list."
+  },
+  {
+   "s": "Sie hat alle vier auf dem Tisch kontrolliert.",
+   "e": "She checked all four on the table."
+  },
+  {
+   "s": "Sie hat gesagt: Das Datum auf dem Vertrag stimmt nicht.",
+   "e": "She said: the date on the contract is wrong."
+  },
+  {
+   "s": "Sie hatte recht.",
+   "e": "She was right."
+  },
+  {
+   "s": "Mein Chef hat einen neuen geschrieben.",
+   "e": "My boss wrote a new one."
+  },
+  {
+   "s": "Das hat zwei Tage gedauert und niemand hat sich geärgert.",
+   "e": "That took two days and nobody was annoyed."
+  },
+  {
+   "s": "Bei der Gemeinde habe ich elf Minuten gewartet.",
+   "e": "At the commune I waited eleven minutes."
+  },
+  {
+   "s": "Genau wie beim ersten Mal.",
+   "e": "Exactly like the first time."
+  },
+  {
+   "s": "Die Frau am Schalter hat die Papiere angeschaut.",
+   "e": "The woman at the counter looked at the papers."
+  },
+  {
+   "s": "Sie hat nichts gefragt.",
+   "e": "She asked nothing."
+  },
+  {
+   "s": "Sie hat einen Stempel genommen.",
+   "e": "She took a stamp."
+  },
+  {
+   "s": "Sie hat gesagt: In drei Wochen kommt die Karte.",
+   "e": "She said: the card will come in three weeks."
+  },
+  {
+   "s": "Das war alles.",
+   "e": "That was all."
+  },
+  {
+   "s": "Ein Jahr von meinem Leben in elf Minuten.",
+   "e": "A year of my life in eleven minutes."
+  },
+  {
+   "s": "Draussen bin ich zwei Minuten gestanden.",
+   "e": "Outside I stood for two minutes."
+  },
+  {
+   "s": "Ich habe nichts Bestimmtes gefühlt.",
+   "e": "I did not feel anything in particular."
+  },
+  {
+   "s": "Am Abend habe ich es Selina gesagt.",
+   "e": "In the evening I told Selina."
+  },
+  {
+   "s": "Sie hat gefragt: Bis wann jetzt?",
+   "e": "She asked: until when now?"
+  },
+  {
+   "s": "Ich habe das neue Datum gesagt.",
+   "e": "I said the new date."
+  },
+  {
+   "s": "Sie hat gesagt: Gut. Ein Jahr mehr.",
+   "e": "She said: good. One more year."
+  },
+  {
+   "s": "Dann hat sie etwas Schwieriges gesagt.",
+   "e": "Then she said something difficult."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist jedes Jahr so.",
+   "e": "She said: it is like this every year."
+  },
+  {
+   "s": "Sie hat gesagt: Für mich auch.",
+   "e": "She said: for me too."
+  },
+  {
+   "s": "Ich habe gefragt: Wieso für dich?",
+   "e": "I asked: why for you?"
+  },
+  {
+   "s": "Sie hat gesagt: Weil ich jedes Jahr warte.",
+   "e": "She said: because I wait every year too."
+  },
+  {
+   "s": "Das hatte ich nicht gesehen.",
+   "e": "I had not seen that."
+  },
+  {
+   "s": "Ich habe die ganze Zeit an mein Papier gedacht.",
+   "e": "I had been thinking about my paper the whole time."
+  },
+  {
+   "s": "Sie hat an das gleiche Datum gedacht.",
+   "e": "She had been thinking about the same date."
+  },
+  {
+   "s": "Von der anderen Seite.",
+   "e": "From the other side."
+  },
+  {
+   "s": "Rosmarie hat später etwas Hartes gesagt.",
+   "e": "Rosmarie said something hard later."
+  },
+  {
+   "s": "Sie hat gesagt: Bei uns hat man das früher schlecht gemacht.",
+   "e": "She said: we used to do that badly here."
+  },
+  {
+   "s": "Sie hat von den Italienern in den sechziger Jahren geredet.",
+   "e": "She talked about the Italians in the sixties."
+  },
+  {
+   "s": "Sie hat gesagt: Die Männer durften kommen.",
+   "e": "She said: the men were allowed to come."
+  },
+  {
+   "s": "Sie hat gesagt: Die Frauen und die Kinder nicht.",
+   "e": "She said: the wives and the children were not."
+  },
+  {
+   "s": "Sie hat gesagt: Manche Kinder waren jahrelang versteckt.",
+   "e": "She said: some children were hidden for years."
+  },
+  {
+   "s": "Sie hat gesagt: Das war bei uns. Nicht irgendwo.",
+   "e": "She said: that was here. Not somewhere else."
+  },
+  {
+   "s": "Sie hat es gesagt und nichts dazu erklärt.",
+   "e": "She said it and explained nothing about it."
+  }
+ ]
+}

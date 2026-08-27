@@ -885,6 +885,110 @@
     "liegen"
    ],
    "min": 2
+  },
+  {
+   "id": "w-schatz",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Grüezi, Schatz",
+   "en": "Hello, treasure",
+   "trigger": [
+    "Schatz"
+   ],
+   "min": 1
+  },
+  {
+   "id": "b-vermisst",
+   "when": "back",
+   "state": "cheer",
+   "say": "Du hast gefehlt",
+   "en": "You were missed",
+   "trigger": [
+    "fehlen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "p-glueck",
+   "when": "poke",
+   "state": "happy",
+   "say": "Bist du glücklich?",
+   "en": "Are you happy?",
+   "trigger": [
+    "glücklich"
+   ],
+   "min": 1
+  },
+  {
+   "id": "p-esgeht",
+   "when": "poke",
+   "state": "happy",
+   "say": "Bei mir geht es so",
+   "en": "With me it is all right",
+   "trigger": [
+    "gehen",
+    "so"
+   ],
+   "min": 2
+  },
+  {
+   "id": "g-fein2",
+   "when": "great",
+   "state": "cheer",
+   "say": "Das war schön",
+   "en": "That was nice",
+   "trigger": [
+    "schön"
+   ],
+   "min": 1
+  },
+  {
+   "id": "x-leid",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Es tut mir leid",
+   "en": "I am sorry",
+   "trigger": [
+    "leid",
+    "tun"
+   ],
+   "min": 2
+  },
+  {
+   "id": "z-wiedergut",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Wieder gut",
+   "en": "Fine again",
+   "trigger": [
+    "wieder",
+    "gut"
+   ],
+   "min": 2
+  },
+  {
+   "id": "m-dass",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Das Verb kommt zuletzt",
+   "en": "The verb comes last",
+   "trigger": [
+    "dass",
+    "Verb"
+   ],
+   "min": 2
+  },
+  {
+   "id": "s-morgenwieder",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Bis morgen dann",
+   "en": "See you tomorrow then",
+   "trigger": [
+    "morgen",
+    "wieder"
+   ],
+   "min": 2
   }
  ]
 }

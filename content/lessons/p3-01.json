@@ -5,11 +5,10 @@
  "ph": 3,
  "diff": 4,
  "wu": [
-  "gültig",
   "Halbtax",
+  "gültig",
   "Strecke",
-  "Billett",
-  "Karte"
+  "Billett"
  ],
  "sn": [
   {

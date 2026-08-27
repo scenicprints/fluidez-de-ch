@@ -1,0 +1,364 @@
+{
+ "id": "p4-36",
+ "title": "Später einmal",
+ "desc": "A future, said out loud",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "putzen"
+ ],
+ "sn": [
+  {
+   "s": "Man redet hier nicht über die Zukunft.",
+   "e": "People do not talk about the future here."
+  },
+  {
+   "s": "Man macht Pläne für den zwölften März.",
+   "e": "They make plans for the twelfth of March."
+  },
+  {
+   "s": "Man macht keine Pläne für in fünf Jahren.",
+   "e": "They do not make plans for five years' time."
+  },
+  {
+   "s": "Das ist der Unterschied und er ist gross.",
+   "e": "That is the difference and it is big."
+  },
+  {
+   "s": "Ein Datum in drei Wochen ist normal.",
+   "e": "A date three weeks away is normal."
+  },
+  {
+   "s": "Ein Satz über in zehn Jahren ist fast unhöflich.",
+   "e": "A sentence about ten years' time is almost rude."
+  },
+  {
+   "s": "Es tönt nach einer Entscheidung.",
+   "e": "It sounds like a decision already made."
+  },
+  {
+   "s": "Für den anderen mit.",
+   "e": "For the other person too."
+  },
+  {
+   "s": "Es gibt trotzdem Formen dafür.",
+   "e": "There are forms for it anyway."
+  },
+  {
+   "s": "Werden ist die richtige.",
+   "e": "Werden is the correct one."
+  },
+  {
+   "s": "Ich werde bleiben.",
+   "e": "I will stay."
+  },
+  {
+   "s": "Wir werden umziehen.",
+   "e": "We will move."
+  },
+  {
+   "s": "Es wird schwierig.",
+   "e": "It will be difficult."
+  },
+  {
+   "s": "Werden steht an zweiter Stelle und das Verb geht ans Ende.",
+   "e": "Werden stands in second place and the verb goes to the end."
+  },
+  {
+   "s": "Man braucht es fast nie für die Zukunft.",
+   "e": "You hardly ever use it for the future."
+  },
+  {
+   "s": "Man braucht das Präsens mit einer Zeit davor.",
+   "e": "You use the present with a time in front."
+  },
+  {
+   "s": "Im Frühling ziehen wir um.",
+   "e": "In the spring we are moving."
+  },
+  {
+   "s": "Nächstes Jahr fahren wir nach Portugal.",
+   "e": "Next year we are going to Portugal."
+  },
+  {
+   "s": "Beides ist Zukunft und beides tönt sicher.",
+   "e": "Both are the future and both sound certain."
+  },
+  {
+   "s": "Werden braucht man für etwas anderes.",
+   "e": "Werden is used for something else."
+  },
+  {
+   "s": "Man braucht es, wenn man nicht sicher ist.",
+   "e": "You use it when you are not certain."
+  },
+  {
+   "s": "Es wird wohl regnen.",
+   "e": "It will probably rain."
+  },
+  {
+   "s": "Das wird nicht klappen.",
+   "e": "That will not work."
+  },
+  {
+   "s": "Dann ist es keine Zukunft. Es ist eine Vermutung.",
+   "e": "Then it is not a future. It is a guess."
+  },
+  {
+   "s": "Für weit weg gibt es zwei kleine Wörter.",
+   "e": "For far away there are two small words."
+  },
+  {
+   "s": "Irgendwann heisst: einmal, ohne Datum.",
+   "e": "Irgendwann means: some day, with no date."
+  },
+  {
+   "s": "Später einmal heisst fast das Gleiche.",
+   "e": "Später einmal means almost the same."
+  },
+  {
+   "s": "Beide sind sehr vorsichtig.",
+   "e": "Both are very careful."
+  },
+  {
+   "s": "Beide sagen: ich denke daran und ich verlange nichts.",
+   "e": "Both say: I am thinking about it and I am asking for nothing."
+  },
+  {
+   "s": "Im November hat Selina einen Satz gesagt.",
+   "e": "In November Selina said a sentence."
+  },
+  {
+   "s": "Draussen lag Nebel und in der Wohnung war es hell.",
+   "e": "Outside there was fog and in the flat it was light."
+  },
+  {
+   "s": "Die Sonne kommt hier am Abend ins Zimmer.",
+   "e": "The sun comes into the room here in the evening."
+  },
+  {
+   "s": "Die alte Lampe steht schon in der Ecke.",
+   "e": "The old lamp is already in the corner."
+  },
+  {
+   "s": "Der Vertrag ist seit Montag unterschrieben.",
+   "e": "The contract has been signed since Monday."
+  },
+  {
+   "s": "Wir waren in der neuen Wohnung.",
+   "e": "We were in the new flat."
+  },
+  {
+   "s": "Wir haben den Boden geputzt.",
+   "e": "We were cleaning the floor."
+  },
+  {
+   "s": "Sie hat gesagt: In fünf Jahren machen wir hier eine Wand weg.",
+   "e": "She said: in five years we will take a wall out here."
+  },
+  {
+   "s": "In fünf Jahren.",
+   "e": "In five years."
+  },
+  {
+   "s": "Sie hat es beim Putzen gesagt.",
+   "e": "She said it while cleaning."
+  },
+  {
+   "s": "So kommen hier die grossen Sätze.",
+   "e": "That is how the big sentences come here."
+  },
+  {
+   "s": "Immer bei etwas anderem.",
+   "e": "Always in the middle of something else."
+  },
+  {
+   "s": "Immer im Präsens, mit einer Zeit davor.",
+   "e": "Always in the present, with a time in front."
+  },
+  {
+   "s": "Ich bin mit dem Lappen in der Hand gestanden.",
+   "e": "I stood there with the cloth in my hand."
+  },
+  {
+   "s": "Ich habe gesagt: In fünf Jahren.",
+   "e": "I said: in five years."
+  },
+  {
+   "s": "Sie hat gesagt: Ja. Ungefähr.",
+   "e": "She said: yes. Roughly."
+  },
+  {
+   "s": "Dann hat sie weiter geputzt.",
+   "e": "Then she went on cleaning."
+  },
+  {
+   "s": "Ich habe zwei Minuten nichts gesagt.",
+   "e": "I said nothing for two minutes."
+  },
+  {
+   "s": "Dann habe ich meinen eigenen Satz gesagt.",
+   "e": "Then I said my own sentence."
+  },
+  {
+   "s": "Ich habe gesagt: Und in zehn Jahren?",
+   "e": "I said: and in ten years?"
+  },
+  {
+   "s": "Sie hat aufgehört zu putzen.",
+   "e": "She stopped cleaning."
+  },
+  {
+   "s": "Das war das Zeichen.",
+   "e": "That was the signal."
+  },
+  {
+   "s": "Sie hat gesagt: Was willst du hören?",
+   "e": "She said: what do you want to hear?"
+  },
+  {
+   "s": "Ich habe gesagt: Nichts Bestimmtes.",
+   "e": "I said: nothing in particular."
+  },
+  {
+   "s": "Sie hat gesagt: Dann frag nicht.",
+   "e": "She said: then do not ask."
+  },
+  {
+   "s": "Das war hart und es war auch fair.",
+   "e": "That was hard and it was also fair."
+  },
+  {
+   "s": "Dann hat sie eine Minute nachgedacht.",
+   "e": "Then she thought for a minute."
+  },
+  {
+   "s": "Dann hat sie geantwortet.",
+   "e": "Then she answered."
+  },
+  {
+   "s": "Sie hat gesagt: In zehn Jahren wohnen wir wahrscheinlich nicht hier.",
+   "e": "She said: in ten years we probably will not live here."
+  },
+  {
+   "s": "Sie hat gesagt: Wahrscheinlich weiter draussen.",
+   "e": "She said: probably further out."
+  },
+  {
+   "s": "Sie hat gesagt: Vielleicht mit einem Kind.",
+   "e": "She said: maybe with a child."
+  },
+  {
+   "s": "Sie hat gesagt: Vielleicht auch nicht.",
+   "e": "She said: maybe not."
+  },
+  {
+   "s": "Sie hat gesagt: Ich weiss es nicht.",
+   "e": "She said: I do not know."
+  },
+  {
+   "s": "Und dann hat sie den Satz gesagt.",
+   "e": "And then she said the sentence."
+  },
+  {
+   "s": "Sie hat gesagt: Aber du bist dabei.",
+   "e": "She said: but you are in it."
+  },
+  {
+   "s": "Fünf Wörter.",
+   "e": "Five words."
+  },
+  {
+   "s": "Sie hat es beim Putzen gesagt.",
+   "e": "She said it while cleaning."
+  },
+  {
+   "s": "Sie hat mich nicht angeschaut.",
+   "e": "She did not look at me."
+  },
+  {
+   "s": "Ich kenne diesen Ton jetzt.",
+   "e": "I know that tone now."
+  },
+  {
+   "s": "Vor einem Jahr habe ich ihn nicht gehört.",
+   "e": "A year ago I did not hear it."
+  },
+  {
+   "s": "Vor einem Jahr habe ich auf ein Gesicht gewartet.",
+   "e": "A year ago I waited for a face."
+  },
+  {
+   "s": "Jetzt höre ich es an den Wörtern.",
+   "e": "Now I hear it in the words."
+  },
+  {
+   "s": "Ich habe gesagt: Gut.",
+   "e": "I said: good."
+  },
+  {
+   "s": "Nur gut.",
+   "e": "Just good."
+  },
+  {
+   "s": "Sie hat weiter geputzt.",
+   "e": "She went on cleaning."
+  },
+  {
+   "s": "Nach zwei Minuten hat sie gelacht.",
+   "e": "After two minutes she laughed."
+  },
+  {
+   "s": "Sie hat gesagt: Du bist jetzt sehr schweizerisch.",
+   "e": "She said: you have become very Swiss."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe zwei Jahre gebraucht.",
+   "e": "I said: it took me two years."
+  },
+  {
+   "s": "Sie hat gesagt: Wir hatten dreissig.",
+   "e": "She said: we had thirty."
+  },
+  {
+   "s": "Am Abend habe ich alles aufgeschrieben.",
+   "e": "In the evening I wrote it all down."
+  },
+  {
+   "s": "Das habe ich seit dem ersten Tag gemacht.",
+   "e": "I have done that since the first day."
+  },
+  {
+   "s": "Am ersten Tag waren es drei Wörter.",
+   "e": "On the first day it was three words."
+  },
+  {
+   "s": "Grüezi. Gleis. Koffer.",
+   "e": "Grüezi. Platform. Suitcase."
+  },
+  {
+   "s": "Heute war es ein ganzer Satz.",
+   "e": "Today it was a whole sentence."
+  },
+  {
+   "s": "Ich habe geschrieben: In zehn Jahren, und ich bin dabei.",
+   "e": "I wrote: in ten years, and I am in it."
+  },
+  {
+   "s": "Auf Deutsch.",
+   "e": "In German."
+  },
+  {
+   "s": "Das ist der eigentliche Satz von diesem Jahr.",
+   "e": "That is the real sentence of that year."
+  },
+  {
+   "s": "Nicht was sie gesagt hat.",
+   "e": "Not what she said."
+  },
+  {
+   "s": "Sondern in welcher Sprache ich es aufgeschrieben habe.",
+   "e": "But which language I wrote it down in."
+  }
+ ]
+}

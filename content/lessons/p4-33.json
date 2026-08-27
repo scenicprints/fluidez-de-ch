@@ -1,0 +1,366 @@
+{
+ "id": "p4-33",
+ "title": "Wieder gut",
+ "desc": "Repair, which takes longer than the damage",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "machen",
+  "fragen",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Am Samstag um zwei bin ich zu ihr gegangen.",
+   "e": "On Saturday at two I went to her place."
+  },
+  {
+   "s": "Ich habe nichts mitgebracht.",
+   "e": "I brought nothing."
+  },
+  {
+   "s": "Keine Blumen und keine Schokolade.",
+   "e": "No flowers and no chocolate."
+  },
+  {
+   "s": "Das war richtig.",
+   "e": "That was right."
+  },
+  {
+   "s": "Blumen nach einem Streit sind hier falsch.",
+   "e": "Flowers after an argument are wrong here."
+  },
+  {
+   "s": "Sie machen aus einem Gespräch eine Entschuldigung.",
+   "e": "They turn a conversation into an apology."
+  },
+  {
+   "s": "Und es war kein Gespräch für eine Entschuldigung.",
+   "e": "And it was not a conversation for an apology."
+  },
+  {
+   "s": "Sie hat die Tür aufgemacht und gesagt: Hoi.",
+   "e": "She opened the door and said: hi."
+  },
+  {
+   "s": "Nur hoi.",
+   "e": "Just hi."
+  },
+  {
+   "s": "Wir haben uns nicht umarmt.",
+   "e": "We did not hug."
+  },
+  {
+   "s": "Wir haben uns an den Tisch gesetzt.",
+   "e": "We sat down at the table."
+  },
+  {
+   "s": "Sie hatte schon Tee gemacht.",
+   "e": "She had already made tea."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe nachgedacht.",
+   "e": "She said: I have been thinking."
+  },
+  {
+   "s": "Ich habe nachgedacht ist hier der Anfang von einer Versöhnung.",
+   "e": "Ich habe nachgedacht is the beginning of a reconciliation here."
+  },
+  {
+   "s": "Es heisst: ich habe nicht nur gewartet.",
+   "e": "It means: I have not only been waiting."
+  },
+  {
+   "s": "Es heisst: ich komme mit etwas.",
+   "e": "It means: I am coming with something."
+  },
+  {
+   "s": "Sie hat drei Sachen gesagt.",
+   "e": "She said three things."
+  },
+  {
+   "s": "Die erste war: Ich habe zu wenig gefragt.",
+   "e": "The first was: I have asked too little."
+  },
+  {
+   "s": "Die zweite war: Ich habe Angst und das ist nicht dein Problem.",
+   "e": "The second was: I am afraid and that is not your problem."
+  },
+  {
+   "s": "Die dritte war: Und ich mache es trotzdem zu deinem.",
+   "e": "The third was: and I make it yours anyway."
+  },
+  {
+   "s": "Das war sehr ehrlich und es war schwer für sie.",
+   "e": "That was very honest and it was hard for her."
+  },
+  {
+   "s": "Ich habe zwei Sachen gesagt.",
+   "e": "I said two things."
+  },
+  {
+   "s": "Ich habe gesagt: Du hast recht mit dem Englisch.",
+   "e": "I said: you are right about the English."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiche aus, wenn es schwierig wird.",
+   "e": "I said: I dodge when things get difficult."
+  },
+  {
+   "s": "Ich habe gesagt: Nicht nur auf Englisch.",
+   "e": "I said: not only in English."
+  },
+  {
+   "s": "Das war der wahre Satz und er hat mich zwei Tage gekostet.",
+   "e": "That was the true sentence and it cost me two days."
+  },
+  {
+   "s": "Wir haben zwei Stunden geredet.",
+   "e": "We talked for two hours."
+  },
+  {
+   "s": "Danach war es nicht gelöst.",
+   "e": "Afterwards it was not solved."
+  },
+  {
+   "s": "Es war benannt.",
+   "e": "It was named."
+  },
+  {
+   "s": "Das ist etwas anderes und es ist genug.",
+   "e": "That is something else and it is enough."
+  },
+  {
+   "s": "Sie hat eine Kerze angezündet, ohne etwas zu sagen.",
+   "e": "She lit a candle without saying anything."
+  },
+  {
+   "s": "Am Abend davor war ich bei Timo in der Werkstatt.",
+   "e": "The evening before I had been at Timo's workshop."
+  },
+  {
+   "s": "Wir sind am Steg gestanden und haben nichts geredet.",
+   "e": "We stood at the landing stage and said nothing."
+  },
+  {
+   "s": "Um vier hat sie gefragt: Willst du bleiben?",
+   "e": "At four she asked: do you want to stay?"
+  },
+  {
+   "s": "Es tut mir leid ist an diesem Tag nicht gefallen.",
+   "e": "Es tut mir leid was not said that day."
+  },
+  {
+   "s": "Sie hat gemeint: zum Essen.",
+   "e": "She meant: for dinner."
+  },
+  {
+   "s": "Sie hat auch das andere gemeint.",
+   "e": "She also meant the other thing."
+  },
+  {
+   "s": "Ich habe ja gesagt.",
+   "e": "I said yes."
+  },
+  {
+   "s": "Dann haben wir zusammen gekocht.",
+   "e": "Then we cooked together."
+  },
+  {
+   "s": "Sie schneidet und ich rühre, wie immer.",
+   "e": "She cuts and I stir, as always."
+  },
+  {
+   "s": "Wir haben beim Kochen über nichts geredet.",
+   "e": "While we cooked we talked about nothing."
+  },
+  {
+   "s": "Über den Laden und über das Wetter.",
+   "e": "About the shop and about the weather."
+  },
+  {
+   "s": "Das war der eigentliche Moment.",
+   "e": "That was the actual moment."
+  },
+  {
+   "s": "Nicht das Gespräch. Das Kochen danach.",
+   "e": "Not the conversation. The cooking afterwards."
+  },
+  {
+   "s": "Zwei Menschen machen eine kleine Sache zusammen.",
+   "e": "Two people do a small thing together."
+  },
+  {
+   "s": "Und dann ist es wieder gut.",
+   "e": "And then it is fine again."
+  },
+  {
+   "s": "Niemand hat noch einmal Entschuldigung gesagt.",
+   "e": "Nobody said sorry again."
+  },
+  {
+   "s": "Nicht an dem Abend und nicht später.",
+   "e": "Not that evening and not later."
+  },
+  {
+   "s": "Das ist hier so und es hat mich zuerst gestört.",
+   "e": "That is how it is here and at first it bothered me."
+  },
+  {
+   "s": "Ich habe ein Ende gewollt.",
+   "e": "I wanted an ending."
+  },
+  {
+   "s": "Ich habe einen Satz gewollt: Jetzt ist es wieder gut.",
+   "e": "I wanted a sentence: now it is fine again."
+  },
+  {
+   "s": "Den Satz sagt hier niemand.",
+   "e": "Nobody says that sentence here."
+  },
+  {
+   "s": "Es hört einfach auf.",
+   "e": "It simply stops."
+  },
+  {
+   "s": "Man merkt es am nächsten Morgen.",
+   "e": "You notice the next morning."
+  },
+  {
+   "s": "Sie hat um sieben Kaffee gemacht für zwei.",
+   "e": "At seven she made coffee for two."
+  },
+  {
+   "s": "Sie hat meine Tasse genommen.",
+   "e": "She took my cup."
+  },
+  {
+   "s": "Ich habe eine Tasse in ihrer Küche.",
+   "e": "I have a cup in her kitchen."
+  },
+  {
+   "s": "Das ist seit April so.",
+   "e": "That has been the case since April."
+  },
+  {
+   "s": "An diesem Morgen habe ich es zum ersten Mal gesehen.",
+   "e": "That morning I saw it for the first time."
+  },
+  {
+   "s": "Nuno hat später etwas Gutes gesagt.",
+   "e": "Nuno said something good later."
+  },
+  {
+   "s": "Er hat gesagt: Bei uns dauert der Streit drei Stunden.",
+   "e": "He said: with us the argument lasts three hours."
+  },
+  {
+   "s": "Er hat gesagt: Und dann ist es fertig und alle umarmen sich.",
+   "e": "He said: and then it is over and everybody hugs."
+  },
+  {
+   "s": "Er hat gesagt: Hier dauert der Streit zwanzig Minuten.",
+   "e": "He said: here the argument lasts twenty minutes."
+  },
+  {
+   "s": "Er hat gesagt: Und dann dauert das Reparieren zwei Wochen.",
+   "e": "He said: and then the repairing takes two weeks."
+  },
+  {
+   "s": "Er hat gesagt: Ich weiss nicht, welches besser ist.",
+   "e": "He said: I do not know which is better."
+  },
+  {
+   "s": "Er hat gesagt: Ich weiss nur, das hier hält länger.",
+   "e": "He said: I only know this one lasts longer."
+  },
+  {
+   "s": "Rosmarie hat mich am Sonntag im Treppenhaus gefragt.",
+   "e": "On Sunday Rosmarie asked me in the stairwell."
+  },
+  {
+   "s": "Sie hat gefragt: Und?",
+   "e": "She asked: and?"
+  },
+  {
+   "s": "Ich habe gesagt: Wieder gut.",
+   "e": "I said: fine again."
+  },
+  {
+   "s": "Sie hat genickt.",
+   "e": "She nodded."
+  },
+  {
+   "s": "Sie hat gesagt: Das erste Mal ist das schwerste.",
+   "e": "She said: the first time is the hardest."
+  },
+  {
+   "s": "Sie hat gesagt: Beim zehnten Mal weisst du, dass es aufhört.",
+   "e": "She said: by the tenth time you know that it stops."
+  },
+  {
+   "s": "Sie hat gesagt: Und dann ist es nur noch anstrengend.",
+   "e": "She said: and then it is only tiring."
+  },
+  {
+   "s": "Sie hat gesagt: Anstrengend ist besser als Angst.",
+   "e": "She said: tiring is better than fear."
+  },
+  {
+   "s": "Sie hat dreiundvierzig Jahre mit Walter gehabt.",
+   "e": "She had forty-three years with Walter."
+  },
+  {
+   "s": "Sie weiss, wovon sie redet.",
+   "e": "She knows what she is talking about."
+  },
+  {
+   "s": "Zwei Wochen später war alles wieder normal.",
+   "e": "Two weeks later everything was normal again."
+  },
+  {
+   "s": "Nicht gleich wie vorher.",
+   "e": "Not the same as before."
+  },
+  {
+   "s": "Normal, aber ein Stück weiter.",
+   "e": "Normal, but a step further on."
+  },
+  {
+   "s": "Ich frage seitdem öfter.",
+   "e": "Since then I ask more often."
+  },
+  {
+   "s": "Sie fragt seitdem auch öfter.",
+   "e": "Since then she asks more often too."
+  },
+  {
+   "s": "Wir sind beide schlecht darin.",
+   "e": "We are both bad at it."
+  },
+  {
+   "s": "Wir machen es trotzdem.",
+   "e": "We do it anyway."
+  },
+  {
+   "s": "Im Herbst bin ich zwei Wochen nach Hause gefahren.",
+   "e": "In the autumn I went home for two weeks."
+  },
+  {
+   "s": "Sie hat mich zum Flughafen gebracht.",
+   "e": "She took me to the airport."
+  },
+  {
+   "s": "Sie hat gesagt: Komm zurück.",
+   "e": "She said: come back."
+  },
+  {
+   "s": "Sie hat es als Spass gesagt.",
+   "e": "She said it as a joke."
+  },
+  {
+   "s": "Sie hat es nicht als Spass gemeint.",
+   "e": "She did not mean it as a joke."
+  }
+ ]
+}

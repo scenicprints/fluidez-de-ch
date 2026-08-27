@@ -1,0 +1,362 @@
+{
+ "id": "p4-20",
+ "title": "Silvester",
+ "desc": "The year turns over",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Jahr",
+  "fragen",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Silvester heisst der einunddreissigste Dezember.",
+   "e": "Silvester is the thirty-first of December."
+  },
+  {
+   "s": "Das Wort kommt von einem Heiligen.",
+   "e": "The word comes from a saint."
+  },
+  {
+   "s": "Niemand denkt dabei an einen Heiligen.",
+   "e": "Nobody thinks about a saint."
+  },
+  {
+   "s": "Alle sagen einfach Silvester.",
+   "e": "Everybody simply says Silvester."
+  },
+  {
+   "s": "Timo hat gefragt, ob wir zu ihm kommen.",
+   "e": "Timo asked whether we would come to his place."
+  },
+  {
+   "s": "Es waren elf Leute in seiner Wohnung.",
+   "e": "There were eleven people in his flat."
+  },
+  {
+   "s": "Elf Leute in einer Wohnung mit zwei Zimmern.",
+   "e": "Eleven people in a two-room flat."
+  },
+  {
+   "s": "Jeder hat etwas mitgebracht.",
+   "e": "Everybody brought something."
+  },
+  {
+   "s": "Niemand hat etwas organisiert.",
+   "e": "Nobody organised anything."
+  },
+  {
+   "s": "Es hat trotzdem funktioniert.",
+   "e": "It worked anyway."
+  },
+  {
+   "s": "Es gab drei Salate und keinen Löffel dafür.",
+   "e": "There were three salads and no spoon for them."
+  },
+  {
+   "s": "Andrea hat einen aus der Küche geholt.",
+   "e": "Andrea got one from the kitchen."
+  },
+  {
+   "s": "Um elf sind alle auf die Strasse gegangen.",
+   "e": "At eleven everybody went out into the street."
+  },
+  {
+   "s": "Von Timos Strasse sieht man den See.",
+   "e": "From Timo's street you can see the lake."
+  },
+  {
+   "s": "Um Mitternacht gibt es Feuerwerk über dem Wasser.",
+   "e": "At midnight there are fireworks over the water."
+  },
+  {
+   "s": "Es dauert zwölf Minuten.",
+   "e": "It lasts twelve minutes."
+  },
+  {
+   "s": "Die Stadt macht es und alle schauen zu.",
+   "e": "The town does it and everybody watches."
+  },
+  {
+   "s": "Zwischen den Bergen tönt es doppelt.",
+   "e": "Between the mountains it sounds twice."
+  },
+  {
+   "s": "Man hört jeden Knall zweimal.",
+   "e": "You hear every bang twice."
+  },
+  {
+   "s": "Das ist das Beste daran.",
+   "e": "That is the best part of it."
+  },
+  {
+   "s": "Um Mitternacht sagt man Prosit Neujahr.",
+   "e": "At midnight people say Prosit Neujahr."
+  },
+  {
+   "s": "Oder einfach: Ein gutes Neues.",
+   "e": "Or simply: ein gutes Neues."
+  },
+  {
+   "s": "Auf Dialekt tönt es ganz anders.",
+   "e": "In dialect it sounds completely different."
+  },
+  {
+   "s": "Und man versteht es trotzdem sofort.",
+   "e": "And you understand it at once anyway."
+  },
+  {
+   "s": "Man stösst mit jedem einzeln an.",
+   "e": "You clink glasses with each person separately."
+  },
+  {
+   "s": "Elf Leute, elf Mal, mit dem Namen.",
+   "e": "Eleven people, eleven times, with the name."
+  },
+  {
+   "s": "Das habe ich diesmal von Anfang an richtig gemacht.",
+   "e": "This time I got it right from the start."
+  },
+  {
+   "s": "Selina hat es gesehen.",
+   "e": "Selina saw it."
+  },
+  {
+   "s": "Sie hat nichts gesagt.",
+   "e": "She said nothing."
+  },
+  {
+   "s": "Nach dem Feuerwerk sind alle wieder hineingegangen.",
+   "e": "After the fireworks everybody went back in."
+  },
+  {
+   "s": "Es ist das lauteste Fest im ganzen Jahr.",
+   "e": "It is the loudest festival of the whole year."
+  },
+  {
+   "s": "Lauter als die Fasnacht, für zwölf Minuten.",
+   "e": "Louder than Fasnacht, for twelve minutes."
+  },
+  {
+   "s": "Im Frühling ist wieder eine Abstimmung.",
+   "e": "In the spring there is another vote."
+  },
+  {
+   "s": "Um halb eins hat jemand die Musik leiser gemacht.",
+   "e": "At half past twelve somebody turned the music down."
+  },
+  {
+   "s": "Im März gehen wir zusammen abstimmen.",
+   "e": "In March we are going to vote together."
+  },
+  {
+   "s": "Da fängt hier ein anderer Teil vom Abend an.",
+   "e": "That is where a different part of the evening begins here."
+  },
+  {
+   "s": "Die Leute sitzen und reden ernster.",
+   "e": "People sit down and talk more seriously."
+  },
+  {
+   "s": "Über das Jahr davor und über das nächste.",
+   "e": "About the year before and about the next one."
+  },
+  {
+   "s": "Es gibt hier keine guten Vorsätze.",
+   "e": "There are no new year's resolutions here."
+  },
+  {
+   "s": "Niemand sagt: Nächstes Jahr mache ich Sport.",
+   "e": "Nobody says: next year I will do sport."
+  },
+  {
+   "s": "Das findet man hier ein bisschen peinlich.",
+   "e": "People here find that a little embarrassing."
+  },
+  {
+   "s": "Man sagt etwas Kleines oder man sagt nichts.",
+   "e": "You say something small or you say nothing."
+  },
+  {
+   "s": "Für die Zukunft braucht man hier oft das Präsens.",
+   "e": "For the future here you often use the present tense."
+  },
+  {
+   "s": "Nächstes Jahr fahre ich nach Portugal.",
+   "e": "Next year I am going to Portugal."
+  },
+  {
+   "s": "Ab Januar arbeite ich weniger.",
+   "e": "From January I am working less."
+  },
+  {
+   "s": "Im Sommer ziehen wir um.",
+   "e": "In the summer we are moving."
+  },
+  {
+   "s": "Alles im Präsens, mit einer Zeit davor.",
+   "e": "All in the present, with a time in front."
+  },
+  {
+   "s": "Die Zeit macht die Zukunft und nicht das Verb.",
+   "e": "The time makes the future and not the verb."
+  },
+  {
+   "s": "Es gibt auch werden für die Zukunft.",
+   "e": "There is also werden for the future."
+  },
+  {
+   "s": "Ich werde nach Portugal fahren.",
+   "e": "I will go to Portugal."
+  },
+  {
+   "s": "Das ist richtig und man sagt es fast nie.",
+   "e": "That is correct and people hardly ever say it."
+  },
+  {
+   "s": "Es tönt schwer und wie aus einem Brief.",
+   "e": "It sounds heavy and like something out of a letter."
+  },
+  {
+   "s": "Timo hat gesagt: Ich baue im Frühling eine Werkstatt aus.",
+   "e": "Timo said: in the spring I am extending a workshop."
+  },
+  {
+   "s": "Andrea hat gesagt: Ich höre bei der Post auf.",
+   "e": "Andrea said: I am leaving the post office."
+  },
+  {
+   "s": "Beide im Präsens, beide ohne grosse Worte.",
+   "e": "Both in the present, both without big words."
+  },
+  {
+   "s": "Dann hat mich jemand gefragt.",
+   "e": "Then somebody asked me."
+  },
+  {
+   "s": "Eine Frau aus dem Turnverein hat gefragt: Und du?",
+   "e": "A woman from the gymnastics club asked: and you?"
+  },
+  {
+   "s": "Sie hat gefragt: Was willst du vom Jahr?",
+   "e": "She asked: what do you want from the year?"
+  },
+  {
+   "s": "Das ist eine sehr grosse Frage um ein Uhr.",
+   "e": "That is a very big question at one in the morning."
+  },
+  {
+   "s": "Ich habe zuerst etwas Kleines gesagt.",
+   "e": "At first I said something small."
+  },
+  {
+   "s": "Ich habe gesagt: Besser Deutsch.",
+   "e": "I said: better German."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist keine Antwort.",
+   "e": "She said: that is not an answer."
+  },
+  {
+   "s": "Sie hatte recht.",
+   "e": "She was right."
+  },
+  {
+   "s": "Ich habe eine Minute nachgedacht.",
+   "e": "I thought for a minute."
+  },
+  {
+   "s": "Dann habe ich die wahre Antwort gesagt.",
+   "e": "Then I said the true answer."
+  },
+  {
+   "s": "Ich habe gesagt: Ich will wissen, ob ich bleibe.",
+   "e": "I said: I want to know whether I am staying."
+  },
+  {
+   "s": "Am Tisch ist es kurz still geworden.",
+   "e": "The table went quiet for a moment."
+  },
+  {
+   "s": "Selina ist neben mir gesessen.",
+   "e": "Selina was sitting next to me."
+  },
+  {
+   "s": "Sie hat nichts gesagt und nicht geschaut.",
+   "e": "She said nothing and did not look."
+  },
+  {
+   "s": "Die Frau hat genickt.",
+   "e": "The woman nodded."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist eine ehrliche Antwort.",
+   "e": "She said: that is an honest answer."
+  },
+  {
+   "s": "Genau die Wörter von Kurt.",
+   "e": "Exactly Kurt's words."
+  },
+  {
+   "s": "Dann hat sie über etwas anderes geredet.",
+   "e": "Then she talked about something else."
+  },
+  {
+   "s": "Um drei sind wir gegangen.",
+   "e": "At three we left."
+  },
+  {
+   "s": "Draussen war es sehr kalt und ganz still.",
+   "e": "Outside it was very cold and completely quiet."
+  },
+  {
+   "s": "Auf der Strasse lag Papier vom Feuerwerk.",
+   "e": "There was paper from the fireworks in the street."
+  },
+  {
+   "s": "Am nächsten Morgen war es weg.",
+   "e": "The next morning it was gone."
+  },
+  {
+   "s": "Am ersten Januar um acht Uhr putzt jemand die Strasse.",
+   "e": "On the first of January at eight o'clock somebody cleans the street."
+  },
+  {
+   "s": "Das überrascht mich nicht mehr.",
+   "e": "That does not surprise me any more."
+  },
+  {
+   "s": "Auf dem Weg nach Hause hat Selina etwas gesagt.",
+   "e": "On the way home Selina said something."
+  },
+  {
+   "s": "Sie hat gesagt: Die Frage vorhin.",
+   "e": "She said: that question earlier."
+  },
+  {
+   "s": "Sie hat gesagt: Frag mich das auch einmal.",
+   "e": "She said: ask me that some time too."
+  },
+  {
+   "s": "Ich habe gefragt: Jetzt?",
+   "e": "I asked: now?"
+  },
+  {
+   "s": "Sie hat gesagt: Nein. Nicht um drei Uhr.",
+   "e": "She said: no. Not at three in the morning."
+  },
+  {
+   "s": "Sie hat gesagt: Aber einmal.",
+   "e": "She said: but some time."
+  },
+  {
+   "s": "Ich habe drei Wochen gewartet.",
+   "e": "I waited three weeks."
+  },
+  {
+   "s": "Das war ungefähr zwei Wochen zu lang.",
+   "e": "That was about two weeks too long."
+  }
+ ]
+}

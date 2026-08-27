@@ -1,0 +1,341 @@
+{
+ "id": "p4-09",
+ "title": "Schatz",
+ "desc": "Words you only use on one person",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Schatz",
+  "Wort"
+ ],
+ "sn": [
+  {
+   "s": "Sie hat mich am Dienstag etwas genannt.",
+   "e": "On Tuesday she called me something."
+  },
+  {
+   "s": "Sie hat es ganz nebenbei gesagt.",
+   "e": "She said it completely in passing."
+  },
+  {
+   "s": "Sie hat gesagt: Schatz, machst du das Licht an?",
+   "e": "She said: Schatz, will you put the light on?"
+  },
+  {
+   "s": "Ich habe das Wort nicht gekannt.",
+   "e": "I did not know the word."
+  },
+  {
+   "s": "Ich habe gefragt: Was heisst das?",
+   "e": "I asked: what does that mean?"
+  },
+  {
+   "s": "Das war nicht der schönste Moment für die Frage.",
+   "e": "That was not the loveliest moment for that question."
+  },
+  {
+   "s": "Sie hat gelacht.",
+   "e": "She laughed."
+  },
+  {
+   "s": "Ein Schatz ist etwas sehr Wertvolles.",
+   "e": "A Schatz is something very valuable."
+  },
+  {
+   "s": "Gold in einer Kiste unter der Erde.",
+   "e": "Gold in a box under the ground."
+  },
+  {
+   "s": "Und es ist das normale Wort für einen Menschen.",
+   "e": "And it is the normal word for a person."
+  },
+  {
+   "s": "Das ist ein sehr grosses Bild für ein sehr kleines Wort.",
+   "e": "That is a very big picture for a very small word."
+  },
+  {
+   "s": "Es gibt mehrere davon.",
+   "e": "There are several of them."
+  },
+  {
+   "s": "Schatz ist das häufigste.",
+   "e": "Schatz is the commonest."
+  },
+  {
+   "s": "Liebling gibt es auch und es tönt älter.",
+   "e": "Liebling exists too and it sounds older."
+  },
+  {
+   "s": "Rosmarie sagt Liebling. Selina sagt Schatz.",
+   "e": "Rosmarie says Liebling. Selina says Schatz."
+  },
+  {
+   "s": "Dann gibt es die kleinen Formen.",
+   "e": "Then there are the little forms."
+  },
+  {
+   "s": "Aus Schatz wird Schätzli.",
+   "e": "Schatz becomes Schätzli."
+  },
+  {
+   "s": "Aus Maus wird Mäusli.",
+   "e": "Maus becomes Mäusli."
+  },
+  {
+   "s": "Das li am Ende macht alles klein und warm.",
+   "e": "The li on the end makes everything small and warm."
+  },
+  {
+   "s": "Es geht mit fast allem.",
+   "e": "It works with almost anything."
+  },
+  {
+   "s": "Ein Bier wird ein Bierli.",
+   "e": "A beer becomes a Bierli."
+  },
+  {
+   "s": "Ein Kaffee wird ein Kafi.",
+   "e": "A coffee becomes a Kafi."
+  },
+  {
+   "s": "Ein Moment wird ein Momentli.",
+   "e": "A moment becomes a Momentli."
+  },
+  {
+   "s": "Das ist keine Kindersprache.",
+   "e": "That is not baby talk."
+  },
+  {
+   "s": "Erwachsene Männer sagen das den ganzen Tag.",
+   "e": "Grown men say it all day."
+  },
+  {
+   "s": "Ruedi Zemp sagt Momentli und er ist sechzig.",
+   "e": "Ruedi Zemp says Momentli and he is sixty."
+  },
+  {
+   "s": "Aber Schatz sagt man nur zu einer Person.",
+   "e": "But Schatz you say to only one person."
+  },
+  {
+   "s": "Und fast nie vor anderen Leuten.",
+   "e": "And almost never in front of other people."
+  },
+  {
+   "s": "Das ist die eigentliche Regel.",
+   "e": "That is the actual rule."
+  },
+  {
+   "s": "Am Tisch mit Timo sagt sie meinen Namen.",
+   "e": "At the table with Timo she says my name."
+  },
+  {
+   "s": "Allein in der Küche sagt sie Schatz.",
+   "e": "Alone in the kitchen she says Schatz."
+  },
+  {
+   "s": "Zwei Wörter für die gleiche Person.",
+   "e": "Two words for the same person."
+  },
+  {
+   "s": "Eines für draussen und eines für drinnen.",
+   "e": "One for outside and one for inside."
+  },
+  {
+   "s": "Zu Hause ist das anders.",
+   "e": "At home it is different."
+  },
+  {
+   "s": "Zu Hause sagt man es auf der Strasse.",
+   "e": "At home people say it in the street."
+  },
+  {
+   "s": "Hier ist das fast unangenehm für die anderen.",
+   "e": "Here that is almost uncomfortable for other people."
+  },
+  {
+   "s": "Man hält so etwas privat.",
+   "e": "You keep something like that private."
+  },
+  {
+   "s": "Nicht aus Kälte. Aus Höflichkeit.",
+   "e": "Not out of coldness. Out of politeness."
+  },
+  {
+   "s": "Nuno hat das genau umgekehrt gelernt.",
+   "e": "Nuno learned it exactly the other way round."
+  },
+  {
+   "s": "Er sagt zu Sofia alles vor allen.",
+   "e": "He says everything to Sofia in front of everybody."
+  },
+  {
+   "s": "Die Schweizer am Tisch schauen dann auf den Teller.",
+   "e": "The Swiss people at the table then look at their plates."
+  },
+  {
+   "s": "Sie finden es nicht schlecht.",
+   "e": "They do not find it bad."
+  },
+  {
+   "s": "Sie schauen dann einfach weg.",
+   "e": "They simply look away."
+  },
+  {
+   "s": "Ich habe zwei Wochen gebraucht.",
+   "e": "I needed two weeks."
+  },
+  {
+   "s": "Dann habe ich es zum ersten Mal gesagt.",
+   "e": "Then I said it for the first time."
+  },
+  {
+   "s": "Ich habe gesagt: Schatz, wo ist mein Schlüssel?",
+   "e": "I said: Schatz, where is my key?"
+  },
+  {
+   "s": "Ein sehr kleiner Satz für ein sehr grosses Wort.",
+   "e": "A very small sentence for a very big word."
+  },
+  {
+   "s": "Sie hat aus der Küche geantwortet.",
+   "e": "She answered from the kitchen."
+  },
+  {
+   "s": "Sie hat gesagt: Auf dem Tisch.",
+   "e": "She said: on the table."
+  },
+  {
+   "s": "Sie hat nichts zum Schatz gesagt.",
+   "e": "She said nothing about the Schatz."
+  },
+  {
+   "s": "Das war die richtige Antwort.",
+   "e": "That was the right answer."
+  },
+  {
+   "s": "Ein Wort ohne Kommentar bleibt stehen.",
+   "e": "A word with no comment stays where it is."
+  },
+  {
+   "s": "Am Abend hat sie es zweimal gesagt.",
+   "e": "In the evening she said it twice."
+  },
+  {
+   "s": "Es gibt noch ein Wort und das ist schwierig.",
+   "e": "There is one more word and it is difficult."
+  },
+  {
+   "s": "Man sagt zu einer Frau oder einem Mann: mein Schatz.",
+   "e": "You say to a woman or a man: mein Schatz."
+  },
+  {
+   "s": "Aber man sagt nicht: meine Frau.",
+   "e": "But you do not say: meine Frau."
+  },
+  {
+   "s": "Meine Frau heisst wirklich Ehefrau.",
+   "e": "Meine Frau really means wife."
+  },
+  {
+   "s": "Mein Mann heisst wirklich Ehemann.",
+   "e": "Mein Mann really means husband."
+  },
+  {
+   "s": "Für alles davor gibt es Freund und Freundin.",
+   "e": "For everything before that there is Freund and Freundin."
+  },
+  {
+   "s": "Und da ist die Falle.",
+   "e": "And there is the trap."
+  },
+  {
+   "s": "Ein Freund ist ein Freund.",
+   "e": "Ein Freund is a friend."
+  },
+  {
+   "s": "Mein Freund ist etwas anderes.",
+   "e": "Mein Freund is something else."
+  },
+  {
+   "s": "Ein Freund von mir ist wieder ein Freund.",
+   "e": "Ein Freund von mir is a friend again."
+  },
+  {
+   "s": "Drei kleine Wörter und drei verschiedene Sachen.",
+   "e": "Three small words and three different things."
+  },
+  {
+   "s": "Ich habe im Büro gesagt: Ich gehe mit einer Freundin essen.",
+   "e": "In the office I said: I am going to eat with a friend."
+  },
+  {
+   "s": "Marco hat den Kopf gehoben.",
+   "e": "Marco lifted his head."
+  },
+  {
+   "s": "Er hat gefragt: Mit einer Freundin oder mit deiner Freundin?",
+   "e": "He asked: with a friend or with your girlfriend?"
+  },
+  {
+   "s": "Ich habe gesagt: Mit meiner.",
+   "e": "I said: with mine."
+  },
+  {
+   "s": "Er hat gesagt: Aha.",
+   "e": "He said: ah."
+  },
+  {
+   "s": "Er hat sonst nichts gesagt.",
+   "e": "He said nothing else."
+  },
+  {
+   "s": "Am nächsten Tag hat das ganze Büro es gewusst.",
+   "e": "The next day the whole office knew."
+  },
+  {
+   "s": "Niemand hat mich gefragt.",
+   "e": "Nobody asked me."
+  },
+  {
+   "s": "Zwei Leute haben mich anders gegrüsst.",
+   "e": "Two people greeted me differently."
+  },
+  {
+   "s": "So funktioniert eine Neuigkeit hier.",
+   "e": "That is how news works here."
+  },
+  {
+   "s": "Nie über eine Frage.",
+   "e": "Never through a question."
+  },
+  {
+   "s": "Immer über ein einzelnes Wort.",
+   "e": "Always through a single word."
+  },
+  {
+   "s": "Selina hat es am Abend gewusst.",
+   "e": "Selina knew by the evening."
+  },
+  {
+   "s": "Ihre Kollegin im Spital kennt Marcos Frau.",
+   "e": "Her colleague at the hospital knows Marco's wife."
+  },
+  {
+   "s": "Sie hat gesagt: Also sind wir jetzt offiziell.",
+   "e": "She said: so we are official now."
+  },
+  {
+   "s": "Sie hat gelacht.",
+   "e": "She laughed."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe nur ein Wort gesagt.",
+   "e": "I said: I only said one word."
+  },
+  {
+   "s": "Sie hat gesagt: Genau.",
+   "e": "She said: exactly."
+  }
+ ]
+}

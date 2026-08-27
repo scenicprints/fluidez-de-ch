@@ -1,0 +1,338 @@
+{
+ "id": "p4-15",
+ "title": "Geprüft",
+ "desc": "Being assessed without being told",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Mensch",
+  "wissen",
+  "Satz"
+ ],
+ "sn": [
+  {
+   "s": "Nach dem dritten Sonntag habe ich Selina gefragt.",
+   "e": "After the third Sunday I asked Selina."
+  },
+  {
+   "s": "Ich habe gefragt: Und? Was sagen sie?",
+   "e": "I asked: and? What do they say?"
+  },
+  {
+   "s": "Sie hat gesagt: Nichts.",
+   "e": "She said: nothing."
+  },
+  {
+   "s": "Ich habe gesagt: Gar nichts?",
+   "e": "I said: nothing at all?"
+  },
+  {
+   "s": "Sie hat gesagt: Gar nichts.",
+   "e": "She said: nothing at all."
+  },
+  {
+   "s": "Das ist hier normal und es ist trotzdem schwer.",
+   "e": "That is normal here and it is still hard."
+  },
+  {
+   "s": "Man wird geprüft und man bekommt kein Resultat.",
+   "e": "You are assessed and you get no result."
+  },
+  {
+   "s": "Prüfen heisst: genau anschauen.",
+   "e": "Prüfen means: to look at closely."
+  },
+  {
+   "s": "Man prüft eine Rechnung, ein Auto, einen Menschen.",
+   "e": "You check a bill, a car, a person."
+  },
+  {
+   "s": "Die Prüfung dauert Monate.",
+   "e": "The assessment takes months."
+  },
+  {
+   "s": "Und niemand sagt, dass sie läuft.",
+   "e": "And nobody says that it is running."
+  },
+  {
+   "s": "Ich habe es zuerst nicht gemerkt.",
+   "e": "At first I did not notice it."
+  },
+  {
+   "s": "Dann habe ich die kleinen Wörter gehört.",
+   "e": "Then I heard the small words."
+  },
+  {
+   "s": "Eigentlich, eher, vielleicht, an sich.",
+   "e": "Eigentlich, eher, vielleicht, an sich."
+  },
+  {
+   "s": "Diese Wörter machen jeden Satz weicher.",
+   "e": "These words make every sentence softer."
+  },
+  {
+   "s": "Und sie sagen fast immer das Gegenteil.",
+   "e": "And they almost always say the opposite."
+  },
+  {
+   "s": "Das ist eigentlich gut heisst: es ist nicht ganz gut.",
+   "e": "Das ist eigentlich gut means: it is not entirely good."
+  },
+  {
+   "s": "Er ist eher ruhig heisst: er redet fast nie.",
+   "e": "Er ist eher ruhig means: he hardly ever talks."
+  },
+  {
+   "s": "Das ist an sich richtig heisst: aber.",
+   "e": "Das ist an sich richtig means: but."
+  },
+  {
+   "s": "Und ein aber kommt nie.",
+   "e": "And a but never comes."
+  },
+  {
+   "s": "Das aber steht im eigentlich drin.",
+   "e": "The but is inside the eigentlich."
+  },
+  {
+   "s": "Marianne hat einmal gesagt: Er ist eher still.",
+   "e": "Marianne once said: he is rather quiet."
+  },
+  {
+   "s": "Sie hat über mich geredet.",
+   "e": "She was talking about me."
+  },
+  {
+   "s": "Sie hat es zu Selina gesagt und ich war im Zimmer.",
+   "e": "She said it to Selina and I was in the room."
+  },
+  {
+   "s": "Das ist die normale Form.",
+   "e": "That is the normal form."
+  },
+  {
+   "s": "Man redet über einen Menschen vor dem Menschen.",
+   "e": "People talk about a person in front of the person."
+  },
+  {
+   "s": "Nicht hinter dem Rücken. Vor den Augen.",
+   "e": "Not behind their back. In front of their eyes."
+  },
+  {
+   "s": "Es ist eine Prüfung und ein Teil davon.",
+   "e": "It is a test and part of the test."
+  },
+  {
+   "s": "Ich habe nichts gesagt.",
+   "e": "I said nothing."
+  },
+  {
+   "s": "Das war offenbar richtig.",
+   "e": "That was apparently right."
+  },
+  {
+   "s": "Selina hat mir nachher gesagt, dass das gut war.",
+   "e": "Selina told me afterwards that that had been good."
+  },
+  {
+   "s": "Sie hat gesagt: Wer sich verteidigt, hat schon verloren.",
+   "e": "She said: whoever defends himself has already lost."
+  },
+  {
+   "s": "Drei Wochen später ist das Resultat gekommen.",
+   "e": "Three weeks later the result came."
+  },
+  {
+   "s": "Es ist nicht zu mir gekommen.",
+   "e": "It did not come to me."
+  },
+  {
+   "s": "Es ist über drei Menschen gekommen.",
+   "e": "It came through three people."
+  },
+  {
+   "s": "Marianne hat es zu ihrer Schwester gesagt.",
+   "e": "Marianne said it to her sister."
+  },
+  {
+   "s": "Ihre Schwester hat es zu Selinas Grossmutter gesagt.",
+   "e": "Her sister said it to Selina's grandmother."
+  },
+  {
+   "s": "Die Grossmutter hat es zu Selina gesagt.",
+   "e": "The grandmother said it to Selina."
+  },
+  {
+   "s": "Selina hat es mir am Telefon gesagt.",
+   "e": "Selina told me on the phone."
+  },
+  {
+   "s": "Vier Menschen und drei Wochen.",
+   "e": "Four people and three weeks."
+  },
+  {
+   "s": "Das Resultat war ein Satz.",
+   "e": "The result was one sentence."
+  },
+  {
+   "s": "Der Satz war: Er passt gut zu ihr.",
+   "e": "The sentence was: he suits her well."
+  },
+  {
+   "s": "Fünf Wörter.",
+   "e": "Five words."
+  },
+  {
+   "s": "Ich bin am Küchentisch gesessen und habe nichts gesagt.",
+   "e": "I sat at the kitchen table and said nothing."
+  },
+  {
+   "s": "Selina hat gefragt: Bist du noch da?",
+   "e": "Selina asked: are you still there?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist viel, weisst du.",
+   "e": "She said: that is a lot, you know."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss.",
+   "e": "I said: I know."
+  },
+  {
+   "s": "Ich habe es wirklich gewusst.",
+   "e": "I really did know."
+  },
+  {
+   "s": "Nach neun Monaten hier verstehe ich die Grössen.",
+   "e": "After nine months here I understand the sizes."
+  },
+  {
+   "s": "Zu Hause ist das nichts.",
+   "e": "At home that is nothing."
+  },
+  {
+   "s": "Zu Hause sagt eine Mutter am ersten Abend: Er ist wunderbar!",
+   "e": "At home a mother says on the first evening: he is wonderful!"
+  },
+  {
+   "s": "Und man weiss nicht, ob es stimmt.",
+   "e": "And you do not know if it is true."
+  },
+  {
+   "s": "Hier wartet man drei Monate.",
+   "e": "Here you wait three months."
+  },
+  {
+   "s": "Und dann kommt ein Satz über vier Leute.",
+   "e": "And then one sentence comes through four people."
+  },
+  {
+   "s": "Und der Satz stimmt.",
+   "e": "And the sentence is true."
+  },
+  {
+   "s": "Das ist der ganze Handel.",
+   "e": "That is the whole bargain."
+  },
+  {
+   "s": "Wenig und selten und wahr.",
+   "e": "Little and rare and true."
+  },
+  {
+   "s": "Statt viel und schnell und vielleicht.",
+   "e": "Instead of a lot and fast and maybe."
+  },
+  {
+   "s": "Ich weiss immer noch nicht, welches besser ist.",
+   "e": "I still do not know which is better."
+  },
+  {
+   "s": "Ich weiss nur, dass ich mich hier auf jedes Wort verlasse.",
+   "e": "I only know that here I rely on every word."
+  },
+  {
+   "s": "Am nächsten Sonntag war alles gleich.",
+   "e": "On the next Sunday everything was the same."
+  },
+  {
+   "s": "Kurt hat zwei Fragen gestellt.",
+   "e": "Kurt asked two questions."
+  },
+  {
+   "s": "Marianne hat vierzig gestellt.",
+   "e": "Marianne asked forty."
+  },
+  {
+   "s": "Niemand hat den Satz erwähnt.",
+   "e": "Nobody mentioned the sentence."
+  },
+  {
+   "s": "Aber Marianne hat mir zuerst Kuchen gegeben.",
+   "e": "But Marianne gave me cake first."
+  },
+  {
+   "s": "Vor Selina und vor Reto.",
+   "e": "Before Selina and before Reto."
+  },
+  {
+   "s": "Das war das ganze Zeichen.",
+   "e": "That was the whole signal."
+  },
+  {
+   "s": "Selina hat es gesehen und gelacht.",
+   "e": "Selina saw it and laughed."
+  },
+  {
+   "s": "Sie hat gesagt: Da. Jetzt gehörst du dazu.",
+   "e": "She said: there. Now you belong."
+  },
+  {
+   "s": "Ein Stück Kuchen in einer bestimmten Reihenfolge.",
+   "e": "A piece of cake in a particular order."
+  },
+  {
+   "s": "Das ist hier eine Urkunde.",
+   "e": "That is a certificate here."
+  },
+  {
+   "s": "Nuno hat sehr gelacht.",
+   "e": "Nuno laughed a lot."
+  },
+  {
+   "s": "Er hat gesagt: Bei uns umarmen sie dich am ersten Tag.",
+   "e": "He said: with us they hug you on the first day."
+  },
+  {
+   "s": "Er hat gesagt: Und in zwei Jahren weisst du immer noch nichts.",
+   "e": "He said: and in two years you still know nothing."
+  },
+  {
+   "s": "Er hat gesagt: Hier weisst du es nach drei Monaten.",
+   "e": "He said: here you know after three months."
+  },
+  {
+   "s": "Er hat gesagt: Und dann weisst du es für immer.",
+   "e": "He said: and then you know it forever."
+  },
+  {
+   "s": "Das war wieder die beste Erklärung.",
+   "e": "That was the best explanation again."
+  },
+  {
+   "s": "Er hat achtzehn Jahre gebraucht für diese Sätze.",
+   "e": "He needed eighteen years for those sentences."
+  },
+  {
+   "s": "Ich bekomme sie in einem Winter.",
+   "e": "I am getting them in one winter."
+  },
+  {
+   "s": "Das ist nicht fair und ich nehme es trotzdem.",
+   "e": "That is not fair and I take it anyway."
+  }
+ ]
+}

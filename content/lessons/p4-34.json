@@ -1,0 +1,378 @@
+{
+ "id": "p4-34",
+ "title": "Zusammenziehen",
+ "desc": "Two flats, one lease",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Wohnung",
+  "Mal",
+  "kommen"
+ ],
+ "sn": [
+  {
+   "s": "Im September haben wir angefangen zu suchen.",
+   "e": "In September we started looking."
+  },
+  {
+   "s": "Zusammenziehen heisst: in eine Wohnung zusammen.",
+   "e": "Zusammenziehen means: into one flat together."
+  },
+  {
+   "s": "Es ist ein Verb mit zwei Teilen.",
+   "e": "It is a verb with two parts."
+  },
+  {
+   "s": "Wir ziehen im Frühling zusammen.",
+   "e": "We are moving in together in the spring."
+  },
+  {
+   "s": "Wir sind zusammengezogen.",
+   "e": "We have moved in together."
+  },
+  {
+   "s": "Das zusammen steht am Ende.",
+   "e": "The zusammen stands at the end."
+  },
+  {
+   "s": "Der Anfang war ein Gespräch über Geld.",
+   "e": "The beginning was a conversation about money."
+  },
+  {
+   "s": "Natürlich war es das.",
+   "e": "Of course it was."
+  },
+  {
+   "s": "Zwei Wohnungen kosten zusammen zweitausendvierhundert.",
+   "e": "Two flats cost two thousand four hundred together."
+  },
+  {
+   "s": "Eine Wohnung für zwei kostet ungefähr sechzehnhundert.",
+   "e": "One flat for two costs about sixteen hundred."
+  },
+  {
+   "s": "Das sind achthundert Franken im Monat.",
+   "e": "That is eight hundred francs a month."
+  },
+  {
+   "s": "Selina hat es auf ein Blatt gerechnet.",
+   "e": "Selina worked it out on a sheet of paper."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist nicht der Grund.",
+   "e": "She said: that is not the reason."
+  },
+  {
+   "s": "Sie hat gesagt: Aber es ist ein guter Grund dazu.",
+   "e": "She said: but it is a good reason on top."
+  },
+  {
+   "s": "Beides ist wahr und beides zählt.",
+   "e": "Both are true and both count."
+  },
+  {
+   "s": "Eine Wohnung finden ist hier sehr schwer.",
+   "e": "Finding a flat is very hard here."
+  },
+  {
+   "s": "In Luzern sind fast keine frei.",
+   "e": "In Luzern almost none are free."
+  },
+  {
+   "s": "Man sagt: ein Prozent.",
+   "e": "They say: one per cent."
+  },
+  {
+   "s": "Von hundert Wohnungen ist eine frei.",
+   "e": "Of a hundred flats, one is free."
+  },
+  {
+   "s": "Bei einer guten Wohnung kommen achtzig Leute schauen.",
+   "e": "For a good flat eighty people come to look."
+  },
+  {
+   "s": "Achtzig Leute an einem Samstagmorgen.",
+   "e": "Eighty people on a Saturday morning."
+  },
+  {
+   "s": "Sie stehen im Treppenhaus in einer Reihe.",
+   "e": "They stand in the stairwell in a line."
+  },
+  {
+   "s": "Alle haben die gleiche Mappe unter dem Arm.",
+   "e": "They all have the same folder under their arm."
+  },
+  {
+   "s": "In der Mappe sind die gleichen sechs Papiere.",
+   "e": "In the folder are the same six papers."
+  },
+  {
+   "s": "Man braucht einen Auszug vom Betreibungsregister.",
+   "e": "You need an extract from the debt register."
+  },
+  {
+   "s": "Das ist ein Papier über Schulden.",
+   "e": "That is a paper about debts."
+  },
+  {
+   "s": "Es sagt, ob man je Rechnungen nicht bezahlt hat.",
+   "e": "It says whether you have ever failed to pay bills."
+  },
+  {
+   "s": "Man holt es bei der Gemeinde für siebzehn Franken.",
+   "e": "You get it from the commune for seventeen francs."
+  },
+  {
+   "s": "Man braucht drei Lohnabrechnungen.",
+   "e": "You need three payslips."
+  },
+  {
+   "s": "Man braucht eine Kopie vom Ausweis.",
+   "e": "You need a copy of your identity card."
+  },
+  {
+   "s": "In der ersten Wohnung war ein Regal an der Wand.",
+   "e": "In the first flat there was a shelf on the wall."
+  },
+  {
+   "s": "In der zweiten hing ein Schild von der Vermieterin.",
+   "e": "In the second there was a sign from the landlady."
+  },
+  {
+   "s": "In der dritten war die Strecke zum Spital zu lang.",
+   "e": "In the third the route to the hospital was too long."
+  },
+  {
+   "s": "Selina wollte lieber eine alte Wohnung als eine neue.",
+   "e": "Selina would rather have an old flat than a new one."
+  },
+  {
+   "s": "Der Vertrag ist acht Seiten lang.",
+   "e": "The contract is eight pages long."
+  },
+  {
+   "s": "Wir gehen jetzt zusammen einkaufen.",
+   "e": "We go shopping together now."
+  },
+  {
+   "s": "Der Nachbar unten hat eine Werkstatt im Keller.",
+   "e": "The neighbour downstairs has a workshop in the cellar."
+  },
+  {
+   "s": "Wir ziehen im Sommer um.",
+   "e": "We are moving in the summer."
+  },
+  {
+   "s": "Im Zimmer hinten hängt eine Lampe von 1970.",
+   "e": "In the back room hangs a lamp from 1970."
+  },
+  {
+   "s": "Man braucht die Bewilligung.",
+   "e": "You need the permit."
+  },
+  {
+   "s": "Und man braucht ein Schreiben vom alten Vermieter.",
+   "e": "And you need a letter from your old landlord."
+  },
+  {
+   "s": "Und dann bekommt man die Wohnung trotzdem nicht.",
+   "e": "And then you still do not get the flat."
+  },
+  {
+   "s": "Wir haben elf Wohnungen angeschaut.",
+   "e": "We looked at eleven flats."
+  },
+  {
+   "s": "Wir haben elf Mal alles abgegeben.",
+   "e": "Eleven times we handed everything in."
+  },
+  {
+   "s": "Wir haben elf Mal nichts gehört.",
+   "e": "Eleven times we heard nothing."
+  },
+  {
+   "s": "Manchmal kommt eine Absage.",
+   "e": "Sometimes a rejection comes."
+  },
+  {
+   "s": "Meistens kommt gar nichts.",
+   "e": "Mostly nothing comes at all."
+  },
+  {
+   "s": "Beim vierten Mal habe ich gefragt, ob es an mir liegt.",
+   "e": "The fourth time I asked whether it was because of me."
+  },
+  {
+   "s": "An der Bewilligung, am Namen, am Akzent.",
+   "e": "Because of the permit, the name, the accent."
+  },
+  {
+   "s": "Selina hat gesagt: Vielleicht.",
+   "e": "Selina said: maybe."
+  },
+  {
+   "s": "Sie hat nicht nein gesagt.",
+   "e": "She did not say no."
+  },
+  {
+   "s": "Das war ehrlich und es war nicht schön.",
+   "e": "That was honest and it was not nice."
+  },
+  {
+   "s": "Sie hat gesagt: Beim nächsten Mal schreibe ich allein.",
+   "e": "She said: next time I will write on my own."
+  },
+  {
+   "s": "Sie hat gesagt: Und dann kommst du mit.",
+   "e": "She said: and then you come along."
+  },
+  {
+   "s": "Das hat mich zwei Tage geärgert.",
+   "e": "That annoyed me for two days."
+  },
+  {
+   "s": "Dann habe ich verstanden, dass sie recht hat.",
+   "e": "Then I understood that she was right."
+  },
+  {
+   "s": "Man nimmt das Werkzeug, das funktioniert.",
+   "e": "You take the tool that works."
+  },
+  {
+   "s": "Bei der zwölften hat es geklappt.",
+   "e": "With the twelfth it worked."
+  },
+  {
+   "s": "Klappen heisst: es hat funktioniert.",
+   "e": "Klappen means: it worked."
+  },
+  {
+   "s": "Es hat geklappt ist ein sehr häufiger Satz.",
+   "e": "Es hat geklappt is a very common sentence."
+  },
+  {
+   "s": "Die Wohnung ist im zweiten Stock in einem alten Haus.",
+   "e": "The flat is on the second floor of an old building."
+  },
+  {
+   "s": "Sie hat drei Zimmer und eine Küche mit einem Fenster.",
+   "e": "It has three rooms and a kitchen with a window."
+  },
+  {
+   "s": "Sie kostet sechzehnhundertfünfzig.",
+   "e": "It costs one thousand six hundred and fifty."
+  },
+  {
+   "s": "Sie ist zehn Minuten vom Spital.",
+   "e": "It is ten minutes from the hospital."
+  },
+  {
+   "s": "Sie ist zwanzig Minuten von meinem Bus nach Kriens.",
+   "e": "It is twenty minutes from my bus to Kriens."
+  },
+  {
+   "s": "Das ist nicht fair und wir haben beide ja gesagt.",
+   "e": "That is not fair and we both said yes."
+  },
+  {
+   "s": "Die Vermieterin hat uns angerufen.",
+   "e": "The landlady called us."
+  },
+  {
+   "s": "Sie hat gesagt: Sie haben die Wohnung.",
+   "e": "She said: you have the flat."
+  },
+  {
+   "s": "Selina hat das Telefon weggelegt und nichts gesagt.",
+   "e": "Selina put the phone down and said nothing."
+  },
+  {
+   "s": "Dann hat sie gesagt: Also.",
+   "e": "Then she said: right."
+  },
+  {
+   "s": "Also heisst hier: es ist entschieden.",
+   "e": "Also here means: it is decided."
+  },
+  {
+   "s": "Danach kommt der ganze Rest.",
+   "e": "After that comes all the rest."
+  },
+  {
+   "s": "Man kündigt die alte Wohnung.",
+   "e": "You give notice on the old flat."
+  },
+  {
+   "s": "Man kündigt drei Monate vorher.",
+   "e": "You give notice three months beforehand."
+  },
+  {
+   "s": "Man kündigt auf einen Termin.",
+   "e": "You give notice for a fixed date."
+  },
+  {
+   "s": "Es gibt nur vier Termine im Jahr.",
+   "e": "There are only four dates in the year."
+  },
+  {
+   "s": "Das habe ich zweimal falsch gemacht.",
+   "e": "I got that wrong twice."
+  },
+  {
+   "s": "Man meldet sich bei der Gemeinde ab und wieder an.",
+   "e": "You deregister at the commune and register again."
+  },
+  {
+   "s": "Man meldet den Strom und das Internet und die Post.",
+   "e": "You notify the electricity and the internet and the post office."
+  },
+  {
+   "s": "Man meldet die Krankenkasse und die Bank und die Steuern.",
+   "e": "You notify the health insurer and the bank and the tax office."
+  },
+  {
+   "s": "Es gibt eine Liste dafür und sie hat vierzehn Punkte.",
+   "e": "There is a list for it and it has fourteen items."
+  },
+  {
+   "s": "Selina hat sie im Internet gefunden.",
+   "e": "Selina found it on the internet."
+  },
+  {
+   "s": "Natürlich gibt es eine Liste.",
+   "e": "Of course there is a list."
+  },
+  {
+   "s": "Am Abend sind wir in der leeren Wohnung gestanden.",
+   "e": "In the evening we stood in the empty flat."
+  },
+  {
+   "s": "Wir hatten den Schlüssel für zehn Minuten.",
+   "e": "We had the key for ten minutes."
+  },
+  {
+   "s": "Die Vermieterin hat unten gewartet.",
+   "e": "The landlady waited downstairs."
+  },
+  {
+   "s": "Drei leere Zimmer und ein Fenster nach Westen.",
+   "e": "Three empty rooms and a window facing west."
+  },
+  {
+   "s": "Selina ist in der Mitte gestanden.",
+   "e": "Selina stood in the middle."
+  },
+  {
+   "s": "Sie hat gesagt: Da kommt der Tisch hin.",
+   "e": "She said: the table goes there."
+  },
+  {
+   "s": "Sie hat auf einen leeren Boden gezeigt.",
+   "e": "She pointed at an empty floor."
+  },
+  {
+   "s": "Ich habe den Tisch sofort gesehen.",
+   "e": "I saw the table at once."
+  }
+ ]
+}

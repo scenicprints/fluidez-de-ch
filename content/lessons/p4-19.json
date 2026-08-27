@@ -1,0 +1,394 @@
+{
+ "id": "p4-19",
+ "title": "Weihnachten",
+ "desc": "Christmas with somebody else's family",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "Geschenk",
+  "geben",
+  "stehen"
+ ],
+ "sn": [
+  {
+   "s": "Weihnachten ist hier am vierundzwanzigsten.",
+   "e": "Christmas here is on the twenty-fourth."
+  },
+  {
+   "s": "Am Abend, nicht am Morgen.",
+   "e": "In the evening, not in the morning."
+  },
+  {
+   "s": "Der fünfundzwanzigste ist auch frei.",
+   "e": "The twenty-fifth is a holiday too."
+  },
+  {
+   "s": "Aber der Abend davor ist das Fest.",
+   "e": "But the evening before is the celebration."
+  },
+  {
+   "s": "Das habe ich zwei Wochen vorher gefragt.",
+   "e": "I asked that two weeks beforehand."
+  },
+  {
+   "s": "Selina hat gesagt: Am Vierundzwanzigsten um sechs.",
+   "e": "Selina said: on the twenty-fourth at six."
+  },
+  {
+   "s": "Sie hat gesagt: Und du kommst.",
+   "e": "She said: and you are coming."
+  },
+  {
+   "s": "Sie hat es nicht als Frage gesagt.",
+   "e": "She did not say it as a question."
+  },
+  {
+   "s": "Ich habe gefragt, was ich mitbringen soll.",
+   "e": "I asked what I should bring."
+  },
+  {
+   "s": "Sie hat gesagt: Für jeden etwas Kleines.",
+   "e": "She said: something small for everybody."
+  },
+  {
+   "s": "Jeder heisst: neun Leute.",
+   "e": "Everybody means: nine people."
+  },
+  {
+   "s": "Die Eltern, Reto, seine Frau, zwei Kinder.",
+   "e": "The parents, Reto, his wife, two children."
+  },
+  {
+   "s": "Die Grossmutter, eine Tante, ein Onkel.",
+   "e": "The grandmother, an aunt, an uncle."
+  },
+  {
+   "s": "Neun Geschenke für Leute, die ich fast nicht kenne.",
+   "e": "Nine presents for people I hardly know."
+  },
+  {
+   "s": "Ich habe drei Wochen daran gedacht.",
+   "e": "I thought about it for three weeks."
+  },
+  {
+   "s": "Ich habe Selina gefragt, wie teuer.",
+   "e": "I asked Selina how expensive."
+  },
+  {
+   "s": "Sie hat gesagt: Zwanzig Franken. Mehr nicht.",
+   "e": "She said: twenty francs. No more."
+  },
+  {
+   "s": "Sie hat gesagt: Sonst ist es unangenehm.",
+   "e": "She said: otherwise it is uncomfortable."
+  },
+  {
+   "s": "Ein zu grosses Geschenk macht Druck.",
+   "e": "A present that is too big makes pressure."
+  },
+  {
+   "s": "Das habe ich schon bei Marcos Geburtstag gelernt.",
+   "e": "I already learned that at Marco's birthday."
+  },
+  {
+   "s": "Ich habe für Kurt einen alten Schraubenzieher gekauft.",
+   "e": "For Kurt I bought an old screwdriver."
+  },
+  {
+   "s": "Im Brockenhaus, für acht Franken.",
+   "e": "In the Brockenhaus, for eight francs."
+  },
+  {
+   "s": "Selina hat gesagt, dass das zu wenig ist.",
+   "e": "Selina said that that was too little."
+  },
+  {
+   "s": "Sie hatte nicht recht.",
+   "e": "She was wrong."
+  },
+  {
+   "s": "Am vierundzwanzigsten waren alle um sechs da.",
+   "e": "On the twenty-fourth everybody was there at six."
+  },
+  {
+   "s": "Alle. Um sechs. Nicht um zehn nach.",
+   "e": "Everybody. At six. Not at ten past."
+  },
+  {
+   "s": "Es gibt zuerst kein Essen.",
+   "e": "There is no food first."
+  },
+  {
+   "s": "Es gibt zuerst die Geschenke.",
+   "e": "There are the presents first."
+  },
+  {
+   "s": "Alle sitzen im Wohnzimmer.",
+   "e": "Everybody sits in the living room."
+  },
+  {
+   "s": "Der Baum steht in der Ecke.",
+   "e": "The tree stands in the corner."
+  },
+  {
+   "s": "Am Baum brennen echte Kerzen.",
+   "e": "There are real candles burning on the tree."
+  },
+  {
+   "s": "Nicht Lichter aus dem Laden. Kerzen.",
+   "e": "Not lights from a shop. Candles."
+  },
+  {
+   "s": "Daneben steht ein Eimer mit Wasser.",
+   "e": "Next to it stands a bucket of water."
+  },
+  {
+   "s": "Das ist hier normal und es hat mich erschreckt.",
+   "e": "That is normal here and it startled me."
+  },
+  {
+   "s": "Ein Kind macht das Licht aus.",
+   "e": "A child turns the light off."
+  },
+  {
+   "s": "Dann ist der Raum nur noch vom Baum hell.",
+   "e": "Then the room is lit only by the tree."
+  },
+  {
+   "s": "Und dann singen alle.",
+   "e": "And then everybody sings."
+  },
+  {
+   "s": "Neun Menschen singen ein Lied im Halbdunkel.",
+   "e": "Nine people sing a song in the half dark."
+  },
+  {
+   "s": "Sie singen nicht gut und sie singen alle mit.",
+   "e": "They do not sing well and they all join in."
+  },
+  {
+   "s": "Die Grossmutter am lautesten.",
+   "e": "The grandmother loudest."
+  },
+  {
+   "s": "Am Morgen sind viele Leute in der Kirche.",
+   "e": "In the morning a lot of people are in church."
+  },
+  {
+   "s": "Draussen liegt Nebel über dem ganzen Tal.",
+   "e": "Outside there is fog over the whole valley."
+  },
+  {
+   "s": "Oben auf den Bergen ist Sonne.",
+   "e": "Up on the mountains there is sun."
+  },
+  {
+   "s": "Am Morgen sind wir noch einkaufen gegangen.",
+   "e": "In the morning we had still gone shopping."
+  },
+  {
+   "s": "Im Regen ist niemand draussen.",
+   "e": "In the rain nobody is outside."
+  },
+  {
+   "s": "Marianne schneidet die Kartoffeln ganz dünn.",
+   "e": "Marianne cuts the potatoes very thin."
+  },
+  {
+   "s": "Die Einladung ist im November gekommen.",
+   "e": "The invitation came in November."
+  },
+  {
+   "s": "Eine Kuh von Timos Vater steht auf einem Bild an der Wand.",
+   "e": "One of Timo's father's cows is in a picture on the wall."
+  },
+  {
+   "s": "Ich habe nur gestanden und zugehört.",
+   "e": "I just stood and listened."
+  },
+  {
+   "s": "Es hat ungefähr zwei Minuten gedauert.",
+   "e": "It lasted about two minutes."
+  },
+  {
+   "s": "Danach hat niemand darüber geredet.",
+   "e": "Afterwards nobody talked about it."
+  },
+  {
+   "s": "Dann kommen die Geschenke.",
+   "e": "Then come the presents."
+  },
+  {
+   "s": "Eines nach dem anderen, nicht alle zusammen.",
+   "e": "One after the other, not all at once."
+  },
+  {
+   "s": "Jeder schaut zu.",
+   "e": "Everybody watches."
+  },
+  {
+   "s": "Jeder sagt etwas dazu.",
+   "e": "Everybody says something about it."
+  },
+  {
+   "s": "Das dauert eine Stunde für neun Leute.",
+   "e": "That takes an hour for nine people."
+  },
+  {
+   "s": "Kurt hat den Schraubenzieher lange angeschaut.",
+   "e": "Kurt looked at the screwdriver for a long time."
+  },
+  {
+   "s": "Er hat ihn umgedreht.",
+   "e": "He turned it over."
+  },
+  {
+   "s": "Er hat gesagt: Der ist von vor dem Krieg.",
+   "e": "He said: that is from before the war."
+  },
+  {
+   "s": "Er hat gesagt: Den gibt es heute nicht mehr.",
+   "e": "He said: they do not make those any more."
+  },
+  {
+   "s": "Das war der längste Satz von ihm an dem Abend.",
+   "e": "That was the longest sentence from him that evening."
+  },
+  {
+   "s": "Marianne hat mir gesagt, dass er ihn noch braucht.",
+   "e": "Marianne told me that he still uses it."
+  },
+  {
+   "s": "Sie hat es im Februar gesagt.",
+   "e": "She said it in February."
+  },
+  {
+   "s": "Zwei Monate später und ganz beiläufig.",
+   "e": "Two months later and completely in passing."
+  },
+  {
+   "s": "Ich habe von der Grossmutter Socken bekommen.",
+   "e": "I got socks from the grandmother."
+  },
+  {
+   "s": "Sie hat sie selber gestrickt.",
+   "e": "She knitted them herself."
+  },
+  {
+   "s": "Sie hat gesagt: Grau. Für einen Mann geht nur grau.",
+   "e": "She said: grey. For a man only grey will do."
+  },
+  {
+   "s": "Sie hat sie im Oktober angefangen.",
+   "e": "She started them in October."
+  },
+  {
+   "s": "Im Oktober hat sie mich noch nicht gekannt.",
+   "e": "In October she did not know me yet."
+  },
+  {
+   "s": "Sie hat sie trotzdem angefangen.",
+   "e": "She started them anyway."
+  },
+  {
+   "s": "Nach den Geschenken kommt das Essen.",
+   "e": "After the presents comes the food."
+  },
+  {
+   "s": "Es gibt kein grosses Essen.",
+   "e": "There is no big meal."
+  },
+  {
+   "s": "Es gibt Fondue chinoise.",
+   "e": "There is fondue chinoise."
+  },
+  {
+   "s": "Jeder kocht sein eigenes Fleisch in einem Topf mit heisser Suppe.",
+   "e": "Everybody cooks their own meat in a pot of hot broth."
+  },
+  {
+   "s": "Es dauert drei Stunden.",
+   "e": "It takes three hours."
+  },
+  {
+   "s": "Das ist der Sinn davon.",
+   "e": "That is the point of it."
+  },
+  {
+   "s": "Man sitzt sehr lange und niemand ist fertig.",
+   "e": "You sit for a very long time and nobody is finished."
+  },
+  {
+   "s": "Um zehn ist die Grossmutter müde geworden.",
+   "e": "At ten the grandmother got tired."
+  },
+  {
+   "s": "Reto hat sie nach Hause gefahren.",
+   "e": "Reto drove her home."
+  },
+  {
+   "s": "Um elf sind die Kinder eingeschlafen.",
+   "e": "At eleven the children fell asleep."
+  },
+  {
+   "s": "Um Mitternacht haben wir aufgeräumt.",
+   "e": "At midnight we tidied up."
+  },
+  {
+   "s": "Alle haben aufgeräumt.",
+   "e": "Everybody tidied up."
+  },
+  {
+   "s": "Auch der Onkel und auch Reto.",
+   "e": "The uncle too and Reto too."
+  },
+  {
+   "s": "In zwanzig Minuten war alles weg.",
+   "e": "In twenty minutes everything was gone."
+  },
+  {
+   "s": "Die Küche war sauber wie am Morgen.",
+   "e": "The kitchen was as clean as in the morning."
+  },
+  {
+   "s": "Am fünfundzwanzigsten passiert nichts.",
+   "e": "On the twenty-fifth nothing happens."
+  },
+  {
+   "s": "Man schläft und isst die Reste.",
+   "e": "You sleep and eat the leftovers."
+  },
+  {
+   "s": "Es ist der ruhigste Tag im ganzen Jahr.",
+   "e": "It is the quietest day of the whole year."
+  },
+  {
+   "s": "Alles ist zu und niemand ist draussen.",
+   "e": "Everything is shut and nobody is outside."
+  },
+  {
+   "s": "Ich habe am Nachmittag nach Hause telefoniert.",
+   "e": "In the afternoon I phoned home."
+  },
+  {
+   "s": "Bei ihnen war es Mittag und laut.",
+   "e": "Where they are it was midday and loud."
+  },
+  {
+   "s": "Ich habe von den Kerzen am Baum erzählt.",
+   "e": "I told them about the candles on the tree."
+  },
+  {
+   "s": "Meine Mutter hat gesagt: Und es brennt nie?",
+   "e": "My mother said: and it never catches fire?"
+  },
+  {
+   "s": "Ich habe gesagt: Es steht ein Eimer daneben.",
+   "e": "I said: there is a bucket next to it."
+  },
+  {
+   "s": "Sie hat gelacht und ich habe es ernst gemeint.",
+   "e": "She laughed and I meant it seriously."
+  }
+ ]
+}

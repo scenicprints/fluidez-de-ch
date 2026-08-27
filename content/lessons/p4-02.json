@@ -1,0 +1,355 @@
+{
+ "id": "p4-02",
+ "title": "Der Reuss entlang",
+ "desc": "A river through the middle of a town",
+ "ph": 4,
+ "diff": 5,
+ "wu": [
+  "gehen",
+  "machen",
+  "Minute",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Am Samstag hat es geregnet.",
+   "e": "On Saturday it rained."
+  },
+  {
+   "s": "Also kein Berg.",
+   "e": "So no mountain."
+  },
+  {
+   "s": "Sie hat geschrieben: Dann laufen wir in der Stadt.",
+   "e": "She wrote: then we will walk in the town."
+  },
+  {
+   "s": "Wir haben uns bei der Brücke getroffen.",
+   "e": "We met at the bridge."
+  },
+  {
+   "s": "Durch Luzern geht ein Fluss.",
+   "e": "A river runs through Luzern."
+  },
+  {
+   "s": "Der Fluss heisst Reuss.",
+   "e": "The river is called the Reuss."
+  },
+  {
+   "s": "Er kommt aus dem See und geht nach Norden.",
+   "e": "It comes out of the lake and goes north."
+  },
+  {
+   "s": "Er ist grün und schnell.",
+   "e": "It is green and fast."
+  },
+  {
+   "s": "Er ist sehr schnell für einen Fluss in einer Stadt.",
+   "e": "It is very fast for a river in a town."
+  },
+  {
+   "s": "Er kommt vom Schnee und darum ist er kalt.",
+   "e": "It comes from snow and that is why it is cold."
+  },
+  {
+   "s": "Man geht dem Fluss entlang.",
+   "e": "You walk along the river."
+  },
+  {
+   "s": "Entlang heisst: die ganze Zeit daneben.",
+   "e": "Entlang means: alongside the whole way."
+  },
+  {
+   "s": "Man geht der Reuss entlang bis zur nächsten Brücke.",
+   "e": "You walk along the Reuss to the next bridge."
+  },
+  {
+   "s": "Dann geht man über die Brücke.",
+   "e": "Then you go over the bridge."
+  },
+  {
+   "s": "Und dann geht man auf der anderen Seite zurück.",
+   "e": "And then you walk back on the other side."
+  },
+  {
+   "s": "Das ist der ganze Spaziergang.",
+   "e": "That is the whole walk."
+  },
+  {
+   "s": "Er dauert vierzig Minuten.",
+   "e": "It takes forty minutes."
+  },
+  {
+   "s": "Wir haben ihn dreimal gemacht.",
+   "e": "We did it three times."
+  },
+  {
+   "s": "Dreimal die gleichen vierzig Minuten.",
+   "e": "Three times the same forty minutes."
+  },
+  {
+   "s": "Ich habe es erst beim dritten Mal gemerkt.",
+   "e": "I only noticed the third time."
+  },
+  {
+   "s": "Sie hat es auch nicht gesagt.",
+   "e": "She did not say anything either."
+  },
+  {
+   "s": "Über die Reuss gehen mehrere Brücken.",
+   "e": "Several bridges cross the Reuss."
+  },
+  {
+   "s": "Zwei davon sind aus Holz.",
+   "e": "Two of them are made of wood."
+  },
+  {
+   "s": "Die eine ist die Kapellbrücke.",
+   "e": "One is the Kapellbrücke."
+  },
+  {
+   "s": "Die kennt jeder und alle machen dort ein Foto.",
+   "e": "Everybody knows it and everybody takes a photograph there."
+  },
+  {
+   "s": "Die andere heisst Spreuerbrücke.",
+   "e": "The other is called the Spreuerbrücke."
+  },
+  {
+   "s": "Sie ist kleiner und älter und leer.",
+   "e": "It is smaller and older and empty."
+  },
+  {
+   "s": "Auf der Spreuerbrücke ist fast nie jemand.",
+   "e": "There is almost never anybody on the Spreuerbrücke."
+  },
+  {
+   "s": "Im Dach hängen Bilder.",
+   "e": "There are paintings in the roof."
+  },
+  {
+   "s": "Die Bilder sind vom Tod.",
+   "e": "The paintings are about death."
+  },
+  {
+   "s": "Auf jedem Bild tanzt der Tod mit einem Menschen.",
+   "e": "In every picture death is dancing with a person."
+  },
+  {
+   "s": "Mit einem König, mit einem Kind, mit einem Bauern.",
+   "e": "With a king, with a child, with a farmer."
+  },
+  {
+   "s": "Es sind fünfundvierzig Bilder.",
+   "e": "There are forty-five pictures."
+  },
+  {
+   "s": "Sie sind vierhundert Jahre alt.",
+   "e": "They are four hundred years old."
+  },
+  {
+   "s": "Sie hängen über den Leuten auf dem Weg zur Arbeit.",
+   "e": "They hang above people on their way to work."
+  },
+  {
+   "s": "Selina ist stehen geblieben.",
+   "e": "Selina stopped."
+  },
+  {
+   "s": "Sie hat auf ein Bild gezeigt.",
+   "e": "She pointed at one picture."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist mein Bild.",
+   "e": "She said: that is my picture."
+  },
+  {
+   "s": "Auf dem Bild tanzt der Tod mit einer alten Frau.",
+   "e": "In the picture death is dancing with an old woman."
+  },
+  {
+   "s": "Die alte Frau schaut ihn ruhig an.",
+   "e": "The old woman is looking at him calmly."
+  },
+  {
+   "s": "Sie hat keine Angst.",
+   "e": "She is not afraid."
+  },
+  {
+   "s": "Sie hat gesagt: Sie hat schon lange gewartet.",
+   "e": "She said: she has been waiting a long time."
+  },
+  {
+   "s": "Sie arbeitet im Spital und sie sagt so etwas ruhig.",
+   "e": "She works in the hospital and she says something like that calmly."
+  },
+  {
+   "s": "Unter der Brücke ist ein Wehr.",
+   "e": "There is a weir under the bridge."
+  },
+  {
+   "s": "Ein Wehr macht das Wasser höher oder tiefer.",
+   "e": "A weir makes the water higher or lower."
+  },
+  {
+   "s": "Es hat grosse Bretter aus Holz.",
+   "e": "It has big boards made of wood."
+  },
+  {
+   "s": "Ein Mann macht sie von Hand auf und zu.",
+   "e": "A man opens and closes them by hand."
+  },
+  {
+   "s": "Immer noch von Hand, jeden Tag.",
+   "e": "Still by hand, every day."
+  },
+  {
+   "s": "So bleibt der See immer gleich hoch.",
+   "e": "That is how the lake stays at the same level."
+  },
+  {
+   "s": "Der ganze See hängt an diesen Brettern.",
+   "e": "The whole lake depends on those boards."
+  },
+  {
+   "s": "Das habe ich zuerst nicht geglaubt.",
+   "e": "At first I did not believe that."
+  },
+  {
+   "s": "Wir sind zehn Minuten dort gestanden.",
+   "e": "We stood there for ten minutes."
+  },
+  {
+   "s": "Das Wasser macht viel Lärm.",
+   "e": "The water makes a lot of noise."
+  },
+  {
+   "s": "Man muss laut reden.",
+   "e": "You have to talk loudly."
+  },
+  {
+   "s": "Also haben wir nicht geredet.",
+   "e": "So we did not talk."
+  },
+  {
+   "s": "Weiter unten sitzen im Sommer alle am Wasser.",
+   "e": "Further down everybody sits by the water in summer."
+  },
+  {
+   "s": "Im Regen im Februar sitzt niemand dort.",
+   "e": "In the rain in February nobody sits there."
+  },
+  {
+   "s": "Nur zwei Männer mit einem Hund.",
+   "e": "Only two men with a dog."
+  },
+  {
+   "s": "Und ein Mann wirft Brot ins Wasser.",
+   "e": "And a man is throwing bread into the water."
+  },
+  {
+   "s": "Für die Vögel.",
+   "e": "For the birds."
+  },
+  {
+   "s": "Selina hat gesagt: Das darf man nicht.",
+   "e": "Selina said: you are not allowed to do that."
+  },
+  {
+   "s": "Sie hat es nicht zu ihm gesagt.",
+   "e": "She did not say it to him."
+  },
+  {
+   "s": "Sie hat es zu mir gesagt.",
+   "e": "She said it to me."
+  },
+  {
+   "s": "So macht man das hier.",
+   "e": "That is how it is done here."
+  },
+  {
+   "s": "Beim dritten Mal über die Brücke hat sie gefragt.",
+   "e": "The third time across the bridge she asked."
+  },
+  {
+   "s": "Sie hat gefragt: Merkst du etwas?",
+   "e": "She asked: do you notice something?"
+  },
+  {
+   "s": "Ich habe gesagt: Wir laufen im Kreis.",
+   "e": "I said: we are walking in a circle."
+  },
+  {
+   "s": "Sie hat gesagt: Seit einer Stunde.",
+   "e": "She said: for an hour."
+  },
+  {
+   "s": "Dann haben wir beide gelacht.",
+   "e": "Then we both laughed."
+  },
+  {
+   "s": "Sie hat gesagt: Wollen wir einen Kaffee?",
+   "e": "She said: shall we have a coffee?"
+  },
+  {
+   "s": "Im Lokal war es warm und die Fenster waren nass.",
+   "e": "In the café it was warm and the windows were wet."
+  },
+  {
+   "s": "Wir sind zwei Stunden gesessen.",
+   "e": "We sat for two hours."
+  },
+  {
+   "s": "Draussen ist es dunkel geworden.",
+   "e": "Outside it got dark."
+  },
+  {
+   "s": "Um sechs hat sie auf die Uhr geschaut.",
+   "e": "At six she looked at her watch."
+  },
+  {
+   "s": "Sie hat gesagt: Ich muss um sieben ins Spital.",
+   "e": "She said: I have to be at the hospital at seven."
+  },
+  {
+   "s": "Sie arbeitet in der Nacht.",
+   "e": "She works nights."
+  },
+  {
+   "s": "Sie geht vor der Nacht nicht ins Bett.",
+   "e": "She does not go to bed before a night shift."
+  },
+  {
+   "s": "Sie sagt: Sonst bin ich um drei Uhr wach und tot.",
+   "e": "She says: otherwise I am awake and dead at three."
+  },
+  {
+   "s": "Ich habe sie bis zum Spital gebracht.",
+   "e": "I walked her to the hospital."
+  },
+  {
+   "s": "Das sind zwölf Minuten der Reuss entlang.",
+   "e": "That is twelve minutes along the Reuss."
+  },
+  {
+   "s": "Vor dem Spital hat sie gesagt: Ade.",
+   "e": "In front of the hospital she said: bye."
+  },
+  {
+   "s": "Sie hat mir kurz die Hand auf den Arm gelegt.",
+   "e": "She put her hand on my arm briefly."
+  },
+  {
+   "s": "Dann ist sie durch die Tür gegangen.",
+   "e": "Then she went through the door."
+  },
+  {
+   "s": "Ich bin die zwölf Minuten wieder zurück.",
+   "e": "I walked the twelve minutes back."
+  },
+  {
+   "s": "Ich habe den Weg nicht gemerkt.",
+   "e": "I did not notice the way."
+  }
+ ]
+}

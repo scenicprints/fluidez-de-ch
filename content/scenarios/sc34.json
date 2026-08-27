@@ -1,0 +1,109 @@
+{
+ "id": "sc34",
+ "title": "Mein Deutsch ist heute schlecht",
+ "desc": "The kindness that makes it worse",
+ "setting": "The same table, a bad night's sleep, and nine people talking at ordinary speed.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Marianne",
+   "es": "Und was machen Sie beruflich, also genau?",
+   "en": "And what do you do for work, exactly?",
+   "options": [
+    {
+     "es": "Wie sagt man das auf Deutsch?",
+     "en": "How do you say that in German?",
+     "verdict": "good",
+     "feedback": "A question, not a weakness. It is the single most useful sentence in the language."
+    },
+    {
+     "es": "Also. Ich mache... Zahlen und Briefe.",
+     "en": "So. I do... numbers and letters.",
+     "verdict": "good",
+     "feedback": "Also buys you two seconds and everybody uses it. The answer that follows is the true one anyway."
+    },
+    {
+     "es": "Das ist schwierig zu erklären.",
+     "en": "That is hard to explain.",
+     "verdict": "ok",
+     "feedback": "It is. It is also the sentence that ends the conversation instead of opening it."
+    }
+   ]
+  },
+  {
+   "speaker": "Reto",
+   "es": "Soll ich es auf Englisch erklären?",
+   "en": "Shall I explain it in English?",
+   "options": [
+    {
+     "es": "Bitte nicht. Ich brauche das Deutsch.",
+     "en": "Please do not. I need the German.",
+     "verdict": "good",
+     "feedback": "Say it. He means well and he does not know, and nobody will do this part for you."
+    },
+    {
+     "es": "Danke, das ist einfacher.",
+     "en": "Thank you, that is easier.",
+     "verdict": "bad",
+     "feedback": "It is easier and it is the wrong direction. In English you are a different person, and they will meet that one instead."
+    },
+    {
+     "es": "Nein danke.",
+     "en": "No thank you.",
+     "verdict": "ok",
+     "feedback": "Clear and slightly cold. One more sentence saying why turns a refusal into a reason."
+    }
+   ]
+  },
+  {
+   "speaker": "Marianne",
+   "es": "Ich rede einfach langsamer.",
+   "en": "I will just talk more slowly.",
+   "options": [
+    {
+     "es": "Sie können normal reden. Ich frage, wenn etwas fehlt.",
+     "en": "You can talk normally. I will ask if I miss something.",
+     "verdict": "good",
+     "feedback": "Kind and it hands the job back to you, which is where it belongs. She will do it, too."
+    },
+    {
+     "es": "Merci, das hilft.",
+     "en": "Thank you, that helps.",
+     "verdict": "ok",
+     "feedback": "Sometimes it does. It also tells the table you are not keeping up, which is the part that stings."
+    },
+    {
+     "es": "Ich verstehe schon alles.",
+     "en": "I understand everything.",
+     "verdict": "bad",
+     "feedback": "Today you do not. Pretending puts you back in the same position in twenty minutes."
+    }
+   ]
+  },
+  {
+   "speaker": "Kurt",
+   "es": "Richtig.",
+   "en": "Right.",
+   "options": [
+    {
+     "es": "Nichts sagen.",
+     "en": "Say nothing.",
+     "verdict": "good",
+     "feedback": "He said one word to a table of nine and it settled the matter. Nothing more is needed from you."
+    },
+    {
+     "es": "Danke.",
+     "en": "Thank you.",
+     "verdict": "ok",
+     "feedback": "Fine. He did not do it as a favour, he did it because he agreed."
+    },
+    {
+     "es": "Ja, genau, ich finde auch...",
+     "en": "Yes, exactly, I also think...",
+     "verdict": "bad",
+     "feedback": "He closed it. Reopening it to agree with him is the one thing that could unclose it."
+    }
+   ]
+  }
+ ]
+}
