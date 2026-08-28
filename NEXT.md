@@ -402,6 +402,66 @@ Two smaller ones fixed at the same time:
   reading "0 more words to go" and stay locked until a lesson happened to be
   read next. `answerScene` calls `checkPatterns()` now.
 
+## 20. The download banner that would not go away — FIXED 2026-08-27
+
+Reported by a tester on Chrome: *"the banner saying there's lessons to download
+keeps popping up"*, and a weird message when he tried. Two separate faults in
+the app, and they end in the same place — **the version on the device never
+advances, so the app offers the same download again forever.**
+
+**1. The pack was written to local storage twice.** `applyBundle` copied
+`bundle.lessons` and `bundle.scenarios` into the `manifest` it stored, on top
+of the reshaped copies it also stored. Nothing has ever read either field: the
+only things anything reads out of a cached manifest are `version`, `features`
+and the phrasebook. The cost, measured rather than guessed:
+
+| stored pack | was | is |
+|---|---|---|
+| de-ch | 4.34 MB | **2.43 MB** |
+| es-ni | 5.99 MB | 3.49 MB |
+
+Those are UTF-16 bytes, which is how a browser counts its quota. **The Spanish
+course alone was over a 5 MB limit.** When the write failed, `cacheWrite`
+returned false, the setup screen said *"Downloaded, but this browser would not
+keep it offline"* — the tester's weird message — and nothing was kept, so the
+banner came back on the next launch, forever.
+
+**2. The file-by-file fallback cached a course with no version at all.** If
+`pack.json` does not come down — 1.7 MB against a 20 second timeout on a phone,
+or a 429 from raw.githubusercontent — the app assembles the course from 160
+separate files and stored `manifest.json` as its manifest. **Neither course has
+ever had a `version` in `manifest.json`**, so `packVersion()` answered null and
+null can never equal the live version. That path now takes its version from
+`content/version.json`, the same sidecar the update check reads.
+
+### What is in the app now
+
+- **The version stamp is its own key**, `fl:c:ver:<code>`, about forty bytes,
+  and it is written **only when the pack write actually succeeded**. A version
+  we did not manage to store is a version we do not have. It also means the
+  "anything new?" question on every launch stopped parsing two megabytes.
+- **A pack that will not fit evicts the OTHER course's pack and retries.** The
+  course you are not reading costs one download to get back.
+- **If it still will not fit, the version is recorded in `fl:c:nofit:<code>`
+  and the banner stops offering it.** A banner you cannot dismiss by doing what
+  it asks is the worst thing a banner can be. Settings still checks and
+  downloads on request, because that is the learner asking.
+- **A partial download is not stamped.** The fallback drops a file it cannot
+  fetch rather than failing the lot, which is right, but stamping the version
+  on it would tell the app it is up to date with stories it has never seen.
+- **The phrasebook is fetched on the fallback path too.** `manifest.emergency`
+  is a path there and the data in the bundle, and only the data was ever read,
+  so a course assembled file by file showed the Emergency tile with nothing
+  behind it.
+
+`docs/js/content.test.mjs` covers all of it, including a storage stub that
+throws over a byte budget, and CI runs it. **The one thing not verified in a
+real browser is the eviction**: the Browser pane's local storage swallowed 51
+MB without complaining, so the quota path cannot be provoked there. It is
+asserted in the test and reasoned from the code, not watched happening.
+
+**Do not put anything back in the stored manifest that no screen reads.**
+
 ## 19. Phase 4 — Close to the Heart, 36 stories, DONE 2026-08-27
 
 The largest phase in the course and the one `HANDOFF.md` §1 says the whole
