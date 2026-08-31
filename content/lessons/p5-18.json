@@ -1,0 +1,364 @@
+{
+ "id": "p5-18",
+ "title": "Beat holt dich raus",
+ "desc": "Somebody makes you leave the flat",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Verein"
+ ],
+ "sn": [
+  {
+   "s": "Beat hat am Donnerstag angerufen.",
+   "e": "Beat called on Thursday."
+  },
+  {
+   "s": "Ich habe ihn nicht gekannt.",
+   "e": "I did not know him."
+  },
+  {
+   "s": "Er hat gesagt: Ich bin der Beat. Vom Turnverein.",
+   "e": "He said: I am Beat. From the gymnastics club."
+  },
+  {
+   "s": "Er hat gesagt: Der Timo hat mir deine Nummer gegeben.",
+   "e": "He said: Timo gave me your number."
+  },
+  {
+   "s": "Ich bin seit zwei Jahren in diesem Verein.",
+   "e": "I have been in that club for two years."
+  },
+  {
+   "s": "Timo hat mich angemeldet und ich gehe alle zwei Wochen.",
+   "e": "Timo signed me up and I go every other week."
+  },
+  {
+   "s": "Beat habe ich dort sicher zwanzigmal gesehen.",
+   "e": "I have certainly seen Beat there twenty times."
+  },
+  {
+   "s": "Ich habe seinen Namen nicht gewusst.",
+   "e": "I did not know his name."
+  },
+  {
+   "s": "Er ist ungefähr fünfzig und er redet laut.",
+   "e": "He is about fifty and he talks loudly."
+  },
+  {
+   "s": "Er hat gesagt: Am Samstag ist Probe. Ich hole dich um sieben ab.",
+   "e": "He said: on Saturday there is a rehearsal. I will pick you up at seven."
+  },
+  {
+   "s": "Nicht: kommst du?",
+   "e": "Not: are you coming?"
+  },
+  {
+   "s": "Nicht: hättest du Zeit?",
+   "e": "Not: would you have time?"
+  },
+  {
+   "s": "Er hat gesagt, wann er kommt.",
+   "e": "He said when he was coming."
+  },
+  {
+   "s": "Ich habe gesagt: Was für eine Probe?",
+   "e": "I said: what kind of rehearsal?"
+  },
+  {
+   "s": "Er hat gesagt: Guggenmusik. Du musst nichts können.",
+   "e": "He said: Guggenmusik. You do not have to be able to do anything."
+  },
+  {
+   "s": "Er hat gesagt: Komm mal mit und dann schaust du.",
+   "e": "He said: come along and then you can have a look."
+  },
+  {
+   "s": "Er hat gesagt: Das ist der Punkt bei uns.",
+   "e": "He said: that is the point with us."
+  },
+  {
+   "s": "Dann hat er aufgelegt.",
+   "e": "Then he hung up."
+  },
+  {
+   "s": "Das ganze Gespräch war eine Minute.",
+   "e": "The whole conversation was one minute."
+  },
+  {
+   "s": "Er hat nicht gefragt, wie es mir geht.",
+   "e": "He did not ask how I was."
+  },
+  {
+   "s": "Er hat nicht gesagt, dass es ihm leid tut.",
+   "e": "He did not say that he was sorry."
+  },
+  {
+   "s": "Er hat mit keinem Wort gesagt, warum er anruft.",
+   "e": "He did not say with one word why he was calling."
+  },
+  {
+   "s": "Das habe ich zuerst komisch gefunden.",
+   "e": "At first I found that odd."
+  },
+  {
+   "s": "Ich habe es zwei Tage später verstanden.",
+   "e": "I understood it two days later."
+  },
+  {
+   "s": "Es gibt hier zwei Arten, wie Leute helfen.",
+   "e": "There are two ways people help here."
+  },
+  {
+   "s": "Die erste ist: Wie geht es dir? Willst du reden?",
+   "e": "The first is: how are you? Do you want to talk?"
+  },
+  {
+   "s": "Die zweite ist: Am Samstag um sieben. Zieh etwas Warmes an.",
+   "e": "The second is: Saturday at seven. Put something warm on."
+  },
+  {
+   "s": "Die erste macht eine Tür auf und man muss selber durch.",
+   "e": "The first opens a door and you have to go through it yourself."
+  },
+  {
+   "s": "Die zweite nimmt einen am Arm.",
+   "e": "The second takes you by the arm."
+  },
+  {
+   "s": "Für die erste braucht man Kraft.",
+   "e": "For the first you need strength."
+  },
+  {
+   "s": "Für die zweite braucht man nichts.",
+   "e": "For the second you need nothing."
+  },
+  {
+   "s": "Man muss nur um sieben unten stehen.",
+   "e": "You only have to be downstairs at seven."
+  },
+  {
+   "s": "Am Samstag hat es geregnet und ich wollte nicht.",
+   "e": "On Saturday it rained and I did not want to."
+  },
+  {
+   "s": "Ich habe eine Nachricht geschrieben und nicht geschickt.",
+   "e": "I wrote a message and did not send it."
+  },
+  {
+   "s": "Um zehn vor sieben ist ein Auto unten gestanden.",
+   "e": "At ten to seven a car was standing downstairs."
+  },
+  {
+   "s": "Er hat nicht geklingelt und er hat nicht geschrieben.",
+   "e": "He did not ring and he did not text."
+  },
+  {
+   "s": "Er ist einfach dort gestanden, mit dem Licht an.",
+   "e": "He simply stood there, with the lights on."
+  },
+  {
+   "s": "Nach vier Minuten bin ich hinunter.",
+   "e": "After four minutes I went down."
+  },
+  {
+   "s": "Er hat gesagt: Hoi.",
+   "e": "He said: hoi."
+  },
+  {
+   "s": "Er hat über das Wetter geredet und über eine Baustelle.",
+   "e": "He talked about the weather and about some roadworks."
+  },
+  {
+   "s": "Er hat sieben Minuten über eine Baustelle geredet.",
+   "e": "He talked about roadworks for seven minutes."
+  },
+  {
+   "s": "Ich habe in diesen sieben Minuten nichts sagen müssen.",
+   "e": "In those seven minutes I did not have to say anything."
+  },
+  {
+   "s": "Das war der Sinn von den sieben Minuten.",
+   "e": "That was the point of those seven minutes."
+  },
+  {
+   "s": "Die Probe ist in einem Keller unter einem Restaurant.",
+   "e": "The rehearsal is in a cellar under a restaurant."
+  },
+  {
+   "s": "Es sind dort ungefähr fünfundzwanzig Leute.",
+   "e": "There are about twenty-five people there."
+  },
+  {
+   "s": "Der jüngste ist sechzehn und der älteste ist über siebzig.",
+   "e": "The youngest is sixteen and the oldest is over seventy."
+  },
+  {
+   "s": "Es ist sehr laut und es ist sehr schlecht.",
+   "e": "It is very loud and it is very bad."
+  },
+  {
+   "s": "Das ist bei einer Guggenmusik keine Kritik.",
+   "e": "With a Guggenmusik that is not a criticism."
+  },
+  {
+   "s": "Ich habe zwei Stunden ein Instrument gehalten, das ich nicht spielen kann.",
+   "e": "For two hours I held an instrument I cannot play."
+  },
+  {
+   "s": "Beat hat mir eine Trommel gegeben.",
+   "e": "Beat gave me a drum."
+  },
+  {
+   "s": "Er hat gesagt: Auf zwei und auf vier. Sonst nichts.",
+   "e": "He said: on two and on four. Nothing else."
+  },
+  {
+   "s": "Er hat es einmal erklärt.",
+   "e": "He explained it once."
+  },
+  {
+   "s": "Er hat mich zwei Stunden lang nicht mehr angeschaut.",
+   "e": "He did not look at me again for two hours."
+  },
+  {
+   "s": "Er hat mir keine Zeit gegeben, in der ich denken kann.",
+   "e": "He gave me no time in which I could think."
+  },
+  {
+   "s": "Zwei Stunden lang habe ich nicht an Rosmarie gedacht.",
+   "e": "For two hours I did not think about Rosmarie."
+  },
+  {
+   "s": "Das war das erste Mal seit fünf Wochen.",
+   "e": "That was the first time in five weeks."
+  },
+  {
+   "s": "Nach der Probe gibt es den Hock.",
+   "e": "After the rehearsal there is the Hock."
+  },
+  {
+   "s": "Der Hock ist das Zusammensitzen nach etwas.",
+   "e": "The Hock is the sitting together after something."
+  },
+  {
+   "s": "Man geht hinauf ins Restaurant und man trinkt eins.",
+   "e": "You go up into the restaurant and you have one drink."
+  },
+  {
+   "s": "Der Hock ist bei vielen der eigentliche Grund für den Verein.",
+   "e": "For a lot of people the Hock is the real reason for the club."
+  },
+  {
+   "s": "Der Verein ist hier eine sehr starke Sache.",
+   "e": "The club is a very strong thing here."
+  },
+  {
+   "s": "Es hat einen für alles.",
+   "e": "There is one for everything."
+  },
+  {
+   "s": "Turnen, Musik, Feuerwehr, Schwingen, Schiessen.",
+   "e": "Gymnastics, music, the fire brigade, wrestling, shooting."
+  },
+  {
+   "s": "Man ist zwanzig Jahre im gleichen und dann noch zwanzig.",
+   "e": "You are in the same one for twenty years and then twenty more."
+  },
+  {
+   "s": "Von aussen ist es ein Hobby.",
+   "e": "From the outside it is a hobby."
+  },
+  {
+   "s": "Von innen ist es ein Netz.",
+   "e": "From the inside it is a net."
+  },
+  {
+   "s": "Wenn jemandem etwas passiert, merkt es der Verein.",
+   "e": "If something happens to somebody, the club notices."
+  },
+  {
+   "s": "Niemand redet darüber und alle machen es.",
+   "e": "Nobody talks about it and everybody does it."
+  },
+  {
+   "s": "Beim Hock ist ein Mann neben mich gesessen.",
+   "e": "At the Hock a man sat down next to me."
+  },
+  {
+   "s": "Er hat gefragt, ob ich der bin, der bei der Frau Amrein nebenan wohnt.",
+   "e": "He asked whether I was the one who lives next door to Frau Amrein."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Er hat gesagt: Meine Mutter hat mit ihr in der Fabrik gearbeitet.",
+   "e": "He said: my mother worked with her in the factory."
+  },
+  {
+   "s": "Er hat gesagt: Das ist schade.",
+   "e": "He said: that is a shame."
+  },
+  {
+   "s": "Schade ist hier ein schweres Wort.",
+   "e": "Schade is a heavy word here."
+  },
+  {
+   "s": "Es tönt klein und es ist nicht klein.",
+   "e": "It sounds small and it is not small."
+  },
+  {
+   "s": "Dann hat er über das Wetter geredet.",
+   "e": "Then he talked about the weather."
+  },
+  {
+   "s": "Ich bin um halb zwölf heim.",
+   "e": "I got home at half past eleven."
+  },
+  {
+   "s": "Beat hat mich vor der Tür abgesetzt.",
+   "e": "Beat dropped me off in front of the door."
+  },
+  {
+   "s": "Er hat gesagt: In zwei Wochen wieder.",
+   "e": "He said: again in two weeks."
+  },
+  {
+   "s": "Wieder keine Frage.",
+   "e": "Again not a question."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Er hat gesagt: Gut.",
+   "e": "He said: good."
+  },
+  {
+   "s": "Und dann hat er einen einzigen Satz gesagt.",
+   "e": "And then he said one single sentence."
+  },
+  {
+   "s": "Er hat gesagt: Der Timo hat gesagt, dass es dir nicht gut geht.",
+   "e": "He said: Timo said that you were not doing well."
+  },
+  {
+   "s": "Er hat nicht auf eine Antwort gewartet.",
+   "e": "He did not wait for an answer."
+  },
+  {
+   "s": "Er ist weggefahren.",
+   "e": "He drove off."
+  },
+  {
+   "s": "Ich bin die Treppe hinauf und an ihrer Tür vorbei.",
+   "e": "I went up the stairs and past her door."
+  },
+  {
+   "s": "An dem Abend bin ich nicht stehen geblieben.",
+   "e": "That evening I did not stop."
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "id": "p5-05",
+ "title": "Sie redet von ihm",
+ "desc": "Fifty two years, told out of order",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "damals",
+  "erzählen",
+  "anfangen",
+  "Zeit",
+  "Mal"
+ ],
+ "sn": [
+  {
+   "s": "Nach dem Donnerstag hat sie angefangen zu erzählen.",
+   "e": "After the Thursday she began to tell stories."
+  },
+  {
+   "s": "Zu Hause hat sie beim Erzählen immer das Radio leise laufen lassen.",
+   "e": "At home she always had the radio running quietly while she talked."
+  },
+  {
+   "s": "Nicht sofort und nicht jeden Abend.",
+   "e": "Not immediately and not every evening."
+  },
+  {
+   "s": "Aber öfter und länger.",
+   "e": "But more often and for longer."
+  },
+  {
+   "s": "Sie hat von Walter geredet.",
+   "e": "She talked about Walter."
+  },
+  {
+   "s": "Ich habe die Geschichte schon gekannt.",
+   "e": "I already knew the story."
+  },
+  {
+   "s": "Sie hat sie mir vor zwei Jahren erzählt.",
+   "e": "She told it to me two years ago."
+  },
+  {
+   "s": "Ich habe nichts gesagt.",
+   "e": "I said nothing."
+  },
+  {
+   "s": "Wer erzählt, will nicht hören, dass er es schon erzählt hat.",
+   "e": "Whoever is telling something does not want to hear that they have told it before."
+  },
+  {
+   "s": "Er will es noch einmal erzählen und das ist der Sinn.",
+   "e": "They want to tell it again and that is the point."
+  },
+  {
+   "s": "Sie hat es diesmal in einer anderen Reihenfolge erzählt.",
+   "e": "This time she told it in a different order."
+  },
+  {
+   "s": "Beim ersten Mal ist sie beim Anfang angefangen.",
+   "e": "The first time she started at the beginning."
+  },
+  {
+   "s": "Diesmal hat sie mitten drin angefangen.",
+   "e": "This time she started in the middle."
+  },
+  {
+   "s": "Sie hat mit einem Sonntag im Jahr sechsundsechzig angefangen.",
+   "e": "She started with a Sunday in the year sixty-six."
+  },
+  {
+   "s": "Damals sind sie in den anderen Stock gezogen.",
+   "e": "Back then they moved to the other floor."
+  },
+  {
+   "s": "Damals heisst: in der Zeit, von der ich rede.",
+   "e": "Damals means: in the time I am talking about."
+  },
+  {
+   "s": "Damals gab es hier keine Waschmaschine.",
+   "e": "Back then there was no washing machine here."
+  },
+  {
+   "s": "Damals hat man am Fluss noch gebadet.",
+   "e": "Back then people still swam in the river."
+  },
+  {
+   "s": "Sie hat das Wort zwölfmal an einem Abend gebraucht.",
+   "e": "She used the word twelve times in one evening."
+  },
+  {
+   "s": "Ich habe mitgezählt, weil ich nicht weinen wollte.",
+   "e": "I counted, because I did not want to cry."
+  },
+  {
+   "s": "Für die Geschichten braucht sie zwei kleine Wörter.",
+   "e": "For the stories she needs two small words."
+  },
+  {
+   "s": "Als und während.",
+   "e": "Als and während."
+  },
+  {
+   "s": "Als heisst: einmal, in einem Moment.",
+   "e": "Als means: once, at one moment."
+  },
+  {
+   "s": "Als wir geheiratet haben, hat es geregnet.",
+   "e": "When we got married, it rained."
+  },
+  {
+   "s": "Als er gestorben ist, war es sieben Uhr am Morgen.",
+   "e": "When he died, it was seven in the morning."
+  },
+  {
+   "s": "Als ich hierher gekommen bin, war ich achtunddreissig.",
+   "e": "When I came here, I was thirty-eight."
+  },
+  {
+   "s": "Bei als geht das Verb ans Ende.",
+   "e": "With als the verb goes to the end."
+  },
+  {
+   "s": "Und wenn man mit als anfängt, kommt danach gleich das andere Verb.",
+   "e": "And if you start with als, the other verb comes straight afterwards."
+  },
+  {
+   "s": "Als wir geheiratet haben, hat es geregnet.",
+   "e": "When we got married, it rained."
+  },
+  {
+   "s": "Zwei Verben in der Mitte, direkt nebeneinander.",
+   "e": "Two verbs in the middle, right next to each other."
+  },
+  {
+   "s": "Das tönt komisch und es ist richtig.",
+   "e": "That sounds odd and it is correct."
+  },
+  {
+   "s": "Während heisst: die ganze Zeit von etwas.",
+   "e": "Während means: throughout the time of something."
+  },
+  {
+   "s": "Während er gearbeitet hat, war ich in der Wohnung.",
+   "e": "While he was working, I was in the flat."
+  },
+  {
+   "s": "Während dem Krieg war sie ein Kind.",
+   "e": "During the war she was a child."
+  },
+  {
+   "s": "Während ist der lange Zeitraum und als ist der Punkt.",
+   "e": "Während is the long stretch and als is the point."
+  },
+  {
+   "s": "Sie haben im Jahr einundsechzig geheiratet.",
+   "e": "They got married in the year sixty-one."
+  },
+  {
+   "s": "Sie war damals dreiundzwanzig.",
+   "e": "She was twenty-three then."
+  },
+  {
+   "s": "Sie haben zweiundfünfzig Jahre zusammen gelebt.",
+   "e": "They lived together for fifty-two years."
+  },
+  {
+   "s": "Beim ersten Mal hat sie dreiundvierzig Jahre gesagt.",
+   "e": "The first time she said forty-three years."
+  },
+  {
+   "s": "Ich habe nachgerechnet und beide Zahlen sind richtig.",
+   "e": "I did the sums and both numbers are right."
+  },
+  {
+   "s": "Dreiundvierzig Jahre in dieser Wohnung.",
+   "e": "Forty-three years in this flat."
+  },
+  {
+   "s": "Zweiundfünfzig Jahre zusammen.",
+   "e": "Fifty-two years together."
+  },
+  {
+   "s": "Neun Jahre davon woanders und die habe ich nie gehört.",
+   "e": "Nine years of them somewhere else and I never heard about those."
+  },
+  {
+   "s": "Ich habe diesmal gefragt.",
+   "e": "This time I asked."
+  },
+  {
+   "s": "Sie hat gesagt: In Emmen. Zwei Zimmer.",
+   "e": "She said: in Emmen. Two rooms."
+  },
+  {
+   "s": "Sie hat gesagt: Wir wollten weg und dann sind wir geblieben.",
+   "e": "She said: we wanted to leave and then we stayed."
+  },
+  {
+   "s": "Sie hat gesagt, dass sie sich an einer Hochzeit kennengelernt haben.",
+   "e": "She said that they met at a wedding."
+  },
+  {
+   "s": "Nicht an ihrer Hochzeit.",
+   "e": "Not at their wedding."
+  },
+  {
+   "s": "An der Hochzeit von jemand anderem.",
+   "e": "At somebody else's wedding."
+  },
+  {
+   "s": "Er hat dort gearbeitet, weil er den Strom gemacht hat.",
+   "e": "He was working there, because he did the electrics."
+  },
+  {
+   "s": "Sie war eine Freundin von der Braut.",
+   "e": "She was a friend of the bride."
+  },
+  {
+   "s": "Er ist auf einer Leiter gestanden und hat nichts gesagt.",
+   "e": "He was standing on a ladder and said nothing."
+  },
+  {
+   "s": "Sie hat gesagt: Er hat drei Stunden nichts gesagt.",
+   "e": "She said: he said nothing for three hours."
+  },
+  {
+   "s": "Sie hat gesagt: Und dann hat er gefragt, ob ich Durst habe.",
+   "e": "She said: and then he asked whether I was thirsty."
+  },
+  {
+   "s": "Das war der ganze Anfang.",
+   "e": "That was the whole beginning."
+  },
+  {
+   "s": "Vier Wörter von einer Leiter herunter.",
+   "e": "Four words down from a ladder."
+  },
+  {
+   "s": "Sie hat gelacht, als sie das erzählt hat.",
+   "e": "She laughed when she told that."
+  },
+  {
+   "s": "Sie hat gesagt: So sind sie damals gewesen.",
+   "e": "She said: that is how they were back then."
+  },
+  {
+   "s": "Ich habe gefragt: Wie meinst du das?",
+   "e": "I asked: how do you mean?"
+  },
+  {
+   "s": "Sie hat gesagt: Man hat nicht gefragt, ob es passt.",
+   "e": "She said: you did not ask whether it fitted."
+  },
+  {
+   "s": "Sie hat gesagt: Man hat geheiratet und dann hat man geschaut.",
+   "e": "She said: you got married and then you had a look."
+  },
+  {
+   "s": "Sie hat gesagt: Bei uns ist es gegangen.",
+   "e": "She said: with us it worked."
+  },
+  {
+   "s": "Sie hat gesagt: Bei meiner Schwester nicht.",
+   "e": "She said: with my sister it did not."
+  },
+  {
+   "s": "Das war das erste Mal, dass eine Schwester vorgekommen ist.",
+   "e": "That was the first time a sister came up."
+  },
+  {
+   "s": "Ich habe zwei Jahre lang keine Schwester gehört.",
+   "e": "For two years I had heard of no sister."
+  },
+  {
+   "s": "Ich habe nicht nachgefragt.",
+   "e": "I did not ask further."
+  },
+  {
+   "s": "Man fragt nicht zuerst.",
+   "e": "You do not ask first."
+  },
+  {
+   "s": "Das habe ich von ihr.",
+   "e": "I got that from her."
+  },
+  {
+   "s": "Sie hat vom Sterben von Walter geredet, aber anders als beim ersten Mal.",
+   "e": "She talked about Walter's dying, but differently from the first time."
+  },
+  {
+   "s": "Beim ersten Mal hat sie den Tag und die Zeit gesagt.",
+   "e": "The first time she said the day and the time."
+  },
+  {
+   "s": "Diesmal hat sie gesagt, was sie danach gemacht hat.",
+   "e": "This time she said what she did afterwards."
+  },
+  {
+   "s": "Sie hat gesagt: Ich bin nach Hause und habe die Wäsche gemacht.",
+   "e": "She said: I went home and did the washing."
+  },
+  {
+   "s": "Sie hat gesagt: Um zehn am Morgen, die Wäsche.",
+   "e": "She said: at ten in the morning, the washing."
+  },
+  {
+   "s": "Sie hat gesagt: Man muss etwas machen mit den Händen.",
+   "e": "She said: you have to do something with your hands."
+  },
+  {
+   "s": "Ich habe diesen Satz behalten.",
+   "e": "I kept that sentence."
+  },
+  {
+   "s": "Ich habe ihn zwei Monate später gebraucht.",
+   "e": "I needed it two months later."
+  },
+  {
+   "s": "An einem Abend hat sie das Foto vom Berg erwähnt.",
+   "e": "One evening she mentioned the photo of the mountain."
+  },
+  {
+   "s": "Das Foto, auf dem sie vierzig ist und lacht.",
+   "e": "The photo where she is forty and laughing."
+  },
+  {
+   "s": "Sie hat gesagt: Das hat er gemacht.",
+   "e": "She said: he took that one."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist das einzige gute Foto von mir.",
+   "e": "She said: that is the only good photo of me."
+  },
+  {
+   "s": "Sie hat gesagt: Und ich schaue nicht in die Kamera.",
+   "e": "She said: and I am not looking at the camera."
+  },
+  {
+   "s": "Sie hat gesagt: Darum ist es gut.",
+   "e": "She said: that is why it is good."
+  },
+  {
+   "s": "Am Ende von jedem Abend hat sie das Gleiche gemacht.",
+   "e": "At the end of every evening she did the same thing."
+  },
+  {
+   "s": "Sie hat aufgehört mitten in einem Satz.",
+   "e": "She stopped in the middle of a sentence."
+  },
+  {
+   "s": "Sie hat gesagt: So. Jetzt reicht es.",
+   "e": "She said: right. That is enough now."
+  },
+  {
+   "s": "Und dann hat sie über das Essen im Spital geschimpft.",
+   "e": "And then she complained about the hospital food."
+  },
+  {
+   "s": "Das war jeden Abend der Schluss.",
+   "e": "That was the end every evening."
+  },
+  {
+   "s": "Zuerst zweiundfünfzig Jahre und dann die Suppe.",
+   "e": "First fifty-two years and then the soup."
+  },
+  {
+   "s": "Sie hat gesagt: Diese Suppe ist ein Skandal.",
+   "e": "She said: that soup is a scandal."
+  },
+  {
+   "s": "Ich habe jedes Mal darüber gelacht.",
+   "e": "I laughed at it every time."
+  },
+  {
+   "s": "Ich lache heute nicht mehr über Suppe.",
+   "e": "I do not laugh about soup any more."
+  }
+ ]
+}

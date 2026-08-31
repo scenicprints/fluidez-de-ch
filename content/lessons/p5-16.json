@@ -1,0 +1,372 @@
+{
+ "id": "p5-16",
+ "title": "Anders trauern",
+ "desc": "Two people, two speeds",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "reden"
+ ],
+ "sn": [
+  {
+   "s": "Selina hat es schneller gemacht als ich.",
+   "e": "Selina did it faster than I did."
+  },
+  {
+   "s": "Sie hat drei Tage sehr traurig gewesen und dann hat sie geredet.",
+   "e": "She was very sad for three days and then she talked."
+  },
+  {
+   "s": "Sie hat mit ihrer Mutter geredet und mit einer Freundin.",
+   "e": "She talked to her mother and to a friend."
+  },
+  {
+   "s": "Sie hat mit mir geredet.",
+   "e": "She talked to me."
+  },
+  {
+   "s": "Sie hat gefragt und erzählt und geweint und dann war es besser.",
+   "e": "She asked and told and cried and then it was better."
+  },
+  {
+   "s": "Nicht fertig. Besser.",
+   "e": "Not finished. Better."
+  },
+  {
+   "s": "So macht sie das und so hat sie es immer gemacht.",
+   "e": "That is how she does it and how she has always done it."
+  },
+  {
+   "s": "Ich habe es anders gemacht.",
+   "e": "I did it differently."
+  },
+  {
+   "s": "Ich habe nichts gesagt und ich habe gearbeitet.",
+   "e": "I said nothing and I worked."
+  },
+  {
+   "s": "Ich bin drei Wochen sehr freundlich gewesen.",
+   "e": "For three weeks I was very friendly."
+  },
+  {
+   "s": "Ich habe gekocht und geputzt und Witze gemacht.",
+   "e": "I cooked and cleaned and made jokes."
+  },
+  {
+   "s": "Ich war einfacher im Umgang als sonst.",
+   "e": "I was easier to be around than usual."
+  },
+  {
+   "s": "Das ist das Zeichen und ich habe es selber nicht gesehen.",
+   "e": "That is the sign and I did not see it myself."
+  },
+  {
+   "s": "Trauern ist das Verb für diese Zeit.",
+   "e": "Trauern is the verb for this time."
+  },
+  {
+   "s": "Ich trauere. Sie trauert.",
+   "e": "I am grieving. She is grieving."
+  },
+  {
+   "s": "Man braucht es selten, weil man es nicht sagt.",
+   "e": "You seldom need it, because you do not say it."
+  },
+  {
+   "s": "Man sagt es fast nur über andere Leute.",
+   "e": "You almost only say it about other people."
+  },
+  {
+   "s": "Sie trauert noch.",
+   "e": "She is still grieving."
+  },
+  {
+   "s": "Er trauert auf seine Art.",
+   "e": "He is grieving in his own way."
+  },
+  {
+   "s": "Über sich selber sagt man es hier nicht.",
+   "e": "About yourself you do not say it here."
+  },
+  {
+   "s": "Man sagt: Es geht schon.",
+   "e": "You say: it is all right."
+  },
+  {
+   "s": "Nach vier Wochen hat Selina angefangen zu fragen.",
+   "e": "After four weeks Selina began to ask."
+  },
+  {
+   "s": "Sie hat gefragt: Wie geht es dir damit?",
+   "e": "She asked: how are you with it?"
+  },
+  {
+   "s": "Sie hat es am Abend gefragt, beim Abwasch.",
+   "e": "She asked it in the evening, at the washing-up."
+  },
+  {
+   "s": "Sie hat es gut gefragt.",
+   "e": "She asked it well."
+  },
+  {
+   "s": "Sie hat es an einem guten Ort und zu einer guten Zeit gefragt.",
+   "e": "She asked it in a good place and at a good time."
+  },
+  {
+   "s": "Ich habe gesagt: Gut.",
+   "e": "I said: fine."
+  },
+  {
+   "s": "Sie hat gesagt: Das glaube ich nicht.",
+   "e": "She said: I do not believe that."
+  },
+  {
+   "s": "Ich habe gesagt: Doch.",
+   "e": "I said: yes really."
+  },
+  {
+   "s": "Sie hat den Teller hingestellt und mich angeschaut.",
+   "e": "She put the plate down and looked at me."
+  },
+  {
+   "s": "Sie hat gesagt: Du redest seit vier Wochen nicht von ihr.",
+   "e": "She said: you have not talked about her for four weeks."
+  },
+  {
+   "s": "Sie hat gesagt: Du hast ihr Foto in die Küche gestellt.",
+   "e": "She said: you put her photo up in the kitchen."
+  },
+  {
+   "s": "Sie hat gesagt: Und du sagst kein Wort.",
+   "e": "She said: and you say not one word."
+  },
+  {
+   "s": "Beides war wahr.",
+   "e": "Both were true."
+  },
+  {
+   "s": "Ich habe gesagt: Ich kann jetzt nicht.",
+   "e": "I said: I cannot right now."
+  },
+  {
+   "s": "Ich kann nicht ist ein guter Satz und ein schwerer Satz.",
+   "e": "Ich kann nicht is a good sentence and a hard sentence."
+  },
+  {
+   "s": "Er ist ehrlich und er macht eine Tür zu.",
+   "e": "It is honest and it shuts a door."
+  },
+  {
+   "s": "Ich brauche noch Zeit.",
+   "e": "I need more time."
+  },
+  {
+   "s": "Lass mich noch.",
+   "e": "Leave me a bit longer."
+  },
+  {
+   "s": "Ich kann darüber noch nicht reden.",
+   "e": "I cannot talk about it yet."
+  },
+  {
+   "s": "Alle drei Sätze sind richtig und alle drei kosten etwas.",
+   "e": "All three sentences are correct and all three cost something."
+  },
+  {
+   "s": "Sie kosten den anderen, der wartet.",
+   "e": "They cost the other person, who is waiting."
+  },
+  {
+   "s": "Selina hat gesagt: Gut.",
+   "e": "Selina said: fine."
+  },
+  {
+   "s": "Sie hat es gesagt und sie hat es nicht so gemeint.",
+   "e": "She said it and she did not mean it that way."
+  },
+  {
+   "s": "Ich habe das gehört und ich habe nichts gemacht.",
+   "e": "I heard that and I did nothing."
+  },
+  {
+   "s": "Da ist der Abstand entstanden.",
+   "e": "That is where the distance came from."
+  },
+  {
+   "s": "Nicht bei dem Streit später.",
+   "e": "Not at the argument later."
+  },
+  {
+   "s": "An einem Abend beim Abwasch, bei drei Sätzen.",
+   "e": "On one evening at the washing-up, over three sentences."
+  },
+  {
+   "s": "In den nächsten zwei Wochen war alles gut und alles falsch.",
+   "e": "In the next two weeks everything was fine and everything was wrong."
+  },
+  {
+   "s": "Wir waren freundlich zueinander.",
+   "e": "We were friendly to each other."
+  },
+  {
+   "s": "Wir haben in diesen zwei Wochen kein einziges Mal geschrien.",
+   "e": "In those two weeks we did not shout once."
+  },
+  {
+   "s": "Wir haben über den Tag geredet und über die Wohnung.",
+   "e": "We talked about the day and about the flat."
+  },
+  {
+   "s": "Wir haben über alles geredet, das nichts kostet.",
+   "e": "We talked about everything that costs nothing."
+  },
+  {
+   "s": "Sie hat gedacht, dass sie mir Ruhe gibt.",
+   "e": "She thought that she was giving me peace."
+  },
+  {
+   "s": "Ich habe gedacht, dass ich sie schone.",
+   "e": "I thought that I was sparing her."
+  },
+  {
+   "s": "Beide haben wir dem anderen etwas geschenkt, das er nicht wollte.",
+   "e": "Both of us gave the other something they did not want."
+  },
+  {
+   "s": "Das ist der teuerste Fehler von dieser Zeit.",
+   "e": "That is the most expensive mistake of that time."
+  },
+  {
+   "s": "Es gibt einen Unterschied zwischen zwei Sachen.",
+   "e": "There is a difference between two things."
+  },
+  {
+   "s": "Der eine ist: Ich will jetzt nicht reden.",
+   "e": "One is: I do not want to talk right now."
+  },
+  {
+   "s": "Der andere ist: Ich will nie darüber reden.",
+   "e": "The other is: I never want to talk about it."
+  },
+  {
+   "s": "Der erste braucht ein Datum.",
+   "e": "The first needs a date."
+  },
+  {
+   "s": "Man muss sagen: Nicht heute, aber am Sonntag.",
+   "e": "You have to say: not today, but on Sunday."
+  },
+  {
+   "s": "Dann ist es keine Tür, sondern ein Termin.",
+   "e": "Then it is not a door, but an appointment."
+  },
+  {
+   "s": "Das habe ich nicht gemacht.",
+   "e": "I did not do that."
+  },
+  {
+   "s": "Ich habe nur den ersten Teil gesagt.",
+   "e": "I only said the first part."
+  },
+  {
+   "s": "Für sie hat es getönt wie der zweite.",
+   "e": "For her it sounded like the second."
+  },
+  {
+   "s": "Sie hat mich in dieser Zeit zweimal gefragt, ob wir am Wochenende weggehen.",
+   "e": "In that time she asked me twice whether we should go away at the weekend."
+  },
+  {
+   "s": "Beide Male habe ich gesagt: Vielleicht.",
+   "e": "Both times I said: maybe."
+  },
+  {
+   "s": "Vielleicht ist hier kein freundliches Wort.",
+   "e": "Vielleicht is not a friendly word here."
+  },
+  {
+   "s": "Es heisst nein und es lässt den anderen warten.",
+   "e": "It means no and it leaves the other person waiting."
+  },
+  {
+   "s": "Ein Nein wäre besser gewesen.",
+   "e": "A no would have been better."
+  },
+  {
+   "s": "Am Freitag hat sie es anders probiert.",
+   "e": "On Friday she tried it differently."
+  },
+  {
+   "s": "Sie hat nicht gefragt, wie es mir geht.",
+   "e": "She did not ask how I was."
+  },
+  {
+   "s": "Sie hat von ihrer Grossmutter geredet.",
+   "e": "She talked about her grandmother."
+  },
+  {
+   "s": "Sie hat gesagt: Wenn Hedi stirbt, weiss ich nicht, was ich mache.",
+   "e": "She said: when Hedi dies, I do not know what I will do."
+  },
+  {
+   "s": "Das war klug und es war ehrlich.",
+   "e": "That was clever and it was honest."
+  },
+  {
+   "s": "Sie hat mir eine Tür aufgemacht, ohne zu fragen.",
+   "e": "She opened a door for me without asking."
+  },
+  {
+   "s": "Ich habe gesagt: Sie ist einundneunzig und sie ist gesund.",
+   "e": "I said: she is ninety-one and she is healthy."
+  },
+  {
+   "s": "Das ist die schlechteste Antwort von diesem Jahr.",
+   "e": "That is the worst answer of that year."
+  },
+  {
+   "s": "Sie hat zwei Sekunden gewartet.",
+   "e": "She waited two seconds."
+  },
+  {
+   "s": "Dann hat sie gesagt: Ja. Sicher.",
+   "e": "Then she said: yes. Of course."
+  },
+  {
+   "s": "Dann ist sie ins Bad und hat die Tür zugemacht.",
+   "e": "Then she went into the bathroom and shut the door."
+  },
+  {
+   "s": "Nicht laut.",
+   "e": "Not loudly."
+  },
+  {
+   "s": "Sie macht nie eine Tür laut zu.",
+   "e": "She never shuts a door loudly."
+  },
+  {
+   "s": "Ich bin in der Küche gestanden und habe das Foto angeschaut.",
+   "e": "I stood in the kitchen and looked at the photo."
+  },
+  {
+   "s": "Ich habe genau gewusst, was ich gemacht habe.",
+   "e": "I knew exactly what I had done."
+  },
+  {
+   "s": "Ich bin trotzdem stehen geblieben.",
+   "e": "I stayed standing there anyway."
+  },
+  {
+   "s": "Zwölf Tage später hat es wegen dem Geschirrspüler einen Streit gegeben.",
+   "e": "Twelve days later there was an argument about the dishwasher."
+  },
+  {
+   "s": "Der Streit hat nicht am Freitag angefangen.",
+   "e": "The argument did not start on the Friday."
+  },
+  {
+   "s": "Er hat beim Abwasch angefangen, vier Wochen vorher.",
+   "e": "It started at the washing-up, four weeks earlier."
+  }
+ ]
+}

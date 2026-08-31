@@ -1,0 +1,352 @@
+{
+ "id": "p5-19",
+ "title": "Woher kommst du wirklich?",
+ "desc": "A question asked of somebody born here",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Fatlum ist beim Hock neben mich gesessen.",
+   "e": "Fatlum sat down next to me at the Hock."
+  },
+  {
+   "s": "Er ist neunundzwanzig und er spielt Trompete.",
+   "e": "He is twenty-nine and he plays the trumpet."
+  },
+  {
+   "s": "Er ist in Luzern geboren.",
+   "e": "He was born in Luzern."
+  },
+  {
+   "s": "Er hat hier die Schule gemacht und eine Lehre.",
+   "e": "He did school here and an apprenticeship."
+  },
+  {
+   "s": "Er arbeitet bei der Gemeinde.",
+   "e": "He works for the local council."
+  },
+  {
+   "s": "Er hat den roten Pass.",
+   "e": "He has the red passport."
+  },
+  {
+   "s": "Er redet Dialekt wie Timo und schneller als Timo.",
+   "e": "He speaks dialect like Timo and faster than Timo."
+  },
+  {
+   "s": "Sein Vater ist 1991 aus dem Kosovo gekommen.",
+   "e": "His father came from Kosovo in 1991."
+  },
+  {
+   "s": "Am Tisch hat ein Mann eine Frage gestellt.",
+   "e": "At the table a man asked a question."
+  },
+  {
+   "s": "Nicht böse. Freundlich.",
+   "e": "Not nastily. In a friendly way."
+  },
+  {
+   "s": "Er hat gefragt: Und woher kommst du?",
+   "e": "He asked: and where are you from?"
+  },
+  {
+   "s": "Fatlum hat gesagt: Von hier.",
+   "e": "Fatlum said: from here."
+  },
+  {
+   "s": "Der Mann hat gesagt: Ja, aber ursprünglich?",
+   "e": "The man said: yes, but originally?"
+  },
+  {
+   "s": "Das ist das Wort.",
+   "e": "That is the word."
+  },
+  {
+   "s": "Ursprünglich heisst: am Anfang, ganz zuerst.",
+   "e": "Ursprünglich means: at the beginning, right at the start."
+  },
+  {
+   "s": "Es hat noch zwei Geschwister.",
+   "e": "It has two siblings."
+  },
+  {
+   "s": "Eigentlich und wirklich.",
+   "e": "Eigentlich and wirklich."
+  },
+  {
+   "s": "Woher kommst du eigentlich?",
+   "e": "Where are you actually from?"
+  },
+  {
+   "s": "Woher kommst du wirklich?",
+   "e": "Where are you really from?"
+  },
+  {
+   "s": "Woher kommst du ursprünglich?",
+   "e": "Where are you originally from?"
+  },
+  {
+   "s": "Alle drei Wörter machen das Gleiche.",
+   "e": "All three words do the same thing."
+  },
+  {
+   "s": "Sie sagen: Deine erste Antwort war nicht die richtige.",
+   "e": "They say: your first answer was not the right one."
+  },
+  {
+   "s": "Sie sind sonst gute Wörter.",
+   "e": "Otherwise they are good words."
+  },
+  {
+   "s": "Eigentlich wollte ich früher gehen.",
+   "e": "Actually I wanted to leave earlier."
+  },
+  {
+   "s": "Das ist wirklich gut.",
+   "e": "That is really good."
+  },
+  {
+   "s": "Ursprünglich war das ein Bauernhaus.",
+   "e": "Originally that was a farmhouse."
+  },
+  {
+   "s": "In dieser einen Frage machen sie etwas anderes.",
+   "e": "In that one question they do something else."
+  },
+  {
+   "s": "Fatlum hat gesagt: Meine Eltern sind aus dem Kosovo.",
+   "e": "Fatlum said: my parents are from Kosovo."
+  },
+  {
+   "s": "Er hat es freundlich gesagt und ohne Pause.",
+   "e": "He said it in a friendly way and without a pause."
+  },
+  {
+   "s": "Er hat es gesagt wie eine Adresse.",
+   "e": "He said it like an address."
+  },
+  {
+   "s": "Der Mann hat gesagt: Aha. Schönes Land.",
+   "e": "The man said: aha. Beautiful country."
+  },
+  {
+   "s": "Er war nicht dort und er hat es freundlich gemeint.",
+   "e": "He has not been there and he meant it kindly."
+  },
+  {
+   "s": "Dann hat er über etwas anderes geredet.",
+   "e": "Then he talked about something else."
+  },
+  {
+   "s": "Später bin ich mit Fatlum hinaus.",
+   "e": "Later I went outside with Fatlum."
+  },
+  {
+   "s": "Er hat geraucht und ich bin daneben gestanden.",
+   "e": "He smoked and I stood beside him."
+  },
+  {
+   "s": "Ich habe gefragt: Wie oft kommt das?",
+   "e": "I asked: how often does that happen?"
+  },
+  {
+   "s": "Er hat gesagt: Jede Woche.",
+   "e": "He said: every week."
+  },
+  {
+   "s": "Er hat gesagt: Seit ich sechs bin.",
+   "e": "He said: since I was six."
+  },
+  {
+   "s": "Er hat gerechnet und er hat gesagt: Vier- oder fünftausendmal.",
+   "e": "He worked it out and he said: four or five thousand times."
+  },
+  {
+   "s": "Er hat gelacht, als er das gesagt hat.",
+   "e": "He laughed when he said it."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe drei Antworten.",
+   "e": "He said: I have three answers."
+  },
+  {
+   "s": "Die erste ist von hier.",
+   "e": "The first one is from here."
+  },
+  {
+   "s": "Die zweite ist meine Eltern sind aus dem Kosovo.",
+   "e": "The second one is my parents are from Kosovo."
+  },
+  {
+   "s": "Die dritte ist die lange.",
+   "e": "The third one is the long one."
+  },
+  {
+   "s": "Ich habe gefragt: Wann nimmst du welche?",
+   "e": "I asked: when do you take which one?"
+  },
+  {
+   "s": "Er hat gesagt: Die erste immer.",
+   "e": "He said: the first one always."
+  },
+  {
+   "s": "Er hat gesagt: Die zweite, wenn sie nochmals fragen.",
+   "e": "He said: the second one if they ask again."
+  },
+  {
+   "s": "Er hat gesagt: Die dritte fast nie.",
+   "e": "He said: the third one almost never."
+  },
+  {
+   "s": "Ich habe gefragt: Und stört es dich?",
+   "e": "I asked: and does it bother you?"
+  },
+  {
+   "s": "Er hat lange nichts gesagt.",
+   "e": "He said nothing for a long time."
+  },
+  {
+   "s": "Dann hat er gesagt: Es stört mich nicht bei dem Mann da drin.",
+   "e": "Then he said: it does not bother me with that man in there."
+  },
+  {
+   "s": "Er hat gesagt: Der meint es gut und der ist siebzig.",
+   "e": "He said: he means well and he is seventy."
+  },
+  {
+   "s": "Er hat gesagt: Es stört mich, wenn ich eine Wohnung suche.",
+   "e": "He said: it bothers me when I am looking for a flat."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe für die letzte Wohnung neun Monate gebraucht.",
+   "e": "He said: it took me nine months to get my last flat."
+  },
+  {
+   "s": "Er hat gesagt: Ein Kollege hat mit dem gleichen Lohn zwei Wochen gebraucht.",
+   "e": "He said: a colleague with the same wage took two weeks."
+  },
+  {
+   "s": "Er hat gesagt: Das kann man nicht beweisen.",
+   "e": "He said: you cannot prove that."
+  },
+  {
+   "s": "Er hat gesagt: Und man weiss es trotzdem.",
+   "e": "He said: and you know it all the same."
+  },
+  {
+   "s": "Ich habe nichts Gutes zu sagen gewusst.",
+   "e": "I did not know anything good to say."
+  },
+  {
+   "s": "Ich habe gesagt: Das ist mies.",
+   "e": "I said: that is lousy."
+  },
+  {
+   "s": "Er hat gesagt: Ja.",
+   "e": "He said: yes."
+  },
+  {
+   "s": "Dann hat er gefragt: Und bei dir?",
+   "e": "Then he asked: and with you?"
+  },
+  {
+   "s": "Ich habe gesagt: Bei mir fragen sie auch.",
+   "e": "I said: they ask me too."
+  },
+  {
+   "s": "Er hat gesagt: Ja. Aber bei dir hört es auf.",
+   "e": "He said: yes. But with you it stops."
+  },
+  {
+   "s": "Er hat gesagt: Du redest in zehn Jahren wie der Timo.",
+   "e": "He said: in ten years you will talk like Timo."
+  },
+  {
+   "s": "Er hat gesagt: Dann fragt dich niemand mehr.",
+   "e": "He said: then nobody will ask you any more."
+  },
+  {
+   "s": "Er hat auf sein Gesicht gezeigt.",
+   "e": "He pointed at his face."
+  },
+  {
+   "s": "Er hat gesagt: Bei mir hört es nie auf.",
+   "e": "He said: with me it never stops."
+  },
+  {
+   "s": "Er hat es ohne Wut gesagt.",
+   "e": "He said it without anger."
+  },
+  {
+   "s": "Er hat es gesagt wie einen Fahrplan.",
+   "e": "He said it like a timetable."
+  },
+  {
+   "s": "Ich habe an Nuno gedacht.",
+   "e": "I thought about Nuno."
+  },
+  {
+   "s": "Nuno hat vor zwei Jahren fast das Gleiche gesagt.",
+   "e": "Nuno said almost the same thing two years ago."
+  },
+  {
+   "s": "Er hat gesagt: Meine Tochter sagt: Aus Luzern.",
+   "e": "He said: my daughter says: from Luzern."
+  },
+  {
+   "s": "Er hat gesagt: Das bleibt so.",
+   "e": "He said: that stays like that."
+  },
+  {
+   "s": "Damals habe ich das als eine Sache über Kinder verstanden.",
+   "e": "Back then I understood that as a thing about children."
+  },
+  {
+   "s": "Jetzt ist das Kind neunundzwanzig und steht neben mir.",
+   "e": "Now the child is twenty-nine and standing next to me."
+  },
+  {
+   "s": "Fatlum hat gesagt: Am schlimmsten ist es an der Grenze.",
+   "e": "Fatlum said: it is worst at the border."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe den Pass und ich zeige ihn öfter.",
+   "e": "He said: I have the passport and I show it more often."
+  },
+  {
+   "s": "Er hat gesagt: Der Timo zeigt ihn nie.",
+   "e": "He said: Timo never shows it."
+  },
+  {
+   "s": "Ich habe gefragt: Und was sagst du dann?",
+   "e": "I asked: and what do you say then?"
+  },
+  {
+   "s": "Er hat gesagt: Nichts. Ich zeige den Pass.",
+   "e": "He said: nothing. I show the passport."
+  },
+  {
+   "s": "Er hat gesagt: Der Pass ist die kürzeste Antwort.",
+   "e": "He said: the passport is the shortest answer."
+  },
+  {
+   "s": "Dann sind wir hinein und er hat weiter Trompete gespielt.",
+   "e": "Then we went back in and he went on playing the trumpet."
+  },
+  {
+   "s": "Ich habe seither zweimal gehört, wie ihn jemand fragt.",
+   "e": "Since then I have twice heard somebody ask him."
+  },
+  {
+   "s": "Beide Male hat er gesagt: Von hier.",
+   "e": "Both times he said: from here."
+  },
+  {
+   "s": "Beide Male ist danach die zweite Frage gekommen.",
+   "e": "Both times the second question came after it."
+  }
+ ]
+}

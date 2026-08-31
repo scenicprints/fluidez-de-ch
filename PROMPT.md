@@ -6,7 +6,7 @@ create a second copy to go stale.
 
 ---
 
-You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0 to 4 written, 122 of 192). You're on the German one.
+You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0 to 5 written, 148 of 192). You're on the German one.
 
 **Read these first, in this order.** They carry every decision and the reasoning, so nothing gets relitigated by somebody arriving cold:
 
@@ -17,13 +17,15 @@ You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses
 
 Local clones, all on GitHub under `scenicprints`: `fluidez` (the app), `fluidez-de-ch` (German course), `fluidez-es-ni` (Spanish course), `fluidez-languages` (registry).
 
-**Where it stands.** **Phases 0 to 4 are written and every script is built.** 122 stories, 1,905 dictionary words, 386 verbs, 44 patterns, 37 scenes, 90 Blüemli lines, an emergency phrasebook, 98.5% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
+**Where it stands.** **Phases 0 to 5 are written and every script is built.** 148 stories, 2,075 dictionary words, 430 verbs, 53 patterns, 45 scenes, 99 Blüemli lines, an emergency phrasebook, 98.5% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
 
-**Next job: phase 5, Hard Things, twenty-six stories,** `p5-01` to `p5-26`. Illness, goodbyes, money, saying the difficult thing. **Frau Amrein dies in this phase**, after roughly 130 stories of correcting your recycling and feeding you anyway — that was planned from the start and `HANDOFF.md` §5 says why. **Beat**, **Fatlum** and **Vreni** arrive. The grammar is Konjunktiv II, which is still untouched, plus the systematic treatment of the subordinate clauses phase 4 introduced.
+**Next job: phase 6, Sounding Swiss, twenty-six stories,** `p6-01` to `p6-26`. The Modalpartikeln — halt, eben, doch, mal — then understatement, dry humour, being teased, and Fasnacht from inside a Guggenmusik (`p6-10` to `p6-16`). **Beat and his Verein are already in place**: he arrives in `p5-18`, drives you to a rehearsal in a cellar and hands you a drum, and phase 6 is where that pays off. Fatlum plays trumpet in the same band.
 
-**Subordinate clauses now arrive at `p4-10`, not phase 5.** The spine asked for them in three phase 4 stories and the content required them; phases 0 to 3 and `p4-01` to `p4-09` are still clean, so the `dass` lands as an event. Konjunktiv II was kept out entirely and is phase 5's to teach. `NEXT.md` §19 carries the reasoning and it is reversible.
+**Phase 5 is done (2026-08-28) and Frau Amrein is dead.** She dies in `p5-07`; `p5-01` to `p5-14` are one continuous thread and the rest of the phase is grief, money, work, saying no, and a first warm day in May. Vreni, Beat and Fatlum arrived. Konjunktiv II landed in `p5-06` and gets its full treatment in `p5-25`. `NEXT.md` §21 has the numbers and everything the phase taught.
 
-**Three things every phase has now taught, in the same order.** RETURN judges the previous phase's vocabulary the moment the new one lands and takes warm-up cards away: 44, then 28, then 32 across a phase half again as long. **Budget the recycling sweep as part of writing the phase.** Every sweep then breaks one or two words that relied on being one-scene, so re-run the check after it, every time — three for three so far. And adding a word can break one that already resolved, by making a form ambiguous.
+**Do not resurrect her and do not have anybody dwell on it.** Phase 6 is the light phase after the heavy one, exactly the way phase 3 sat between two others. She can be mentioned; she is not the subject.
+
+**Three things every phase has now taught, in the same order.** RETURN judges the previous phase's vocabulary the moment the new one lands and takes warm-up cards away: 44, then 28, then 32, then **10**. **Budget the recycling sweep as part of writing the phase**; it falls when the writing carries the last phase forward on purpose, and it will never reach zero. Every sweep then breaks one or two words that relied on being one-scene, so re-run the check after it, every time — phase 5 was the first time it came back clean, which is not a reason to skip it. And adding a word can break one that already resolved, by making a form ambiguous: `ansprechen` cost `spricht` and `ausladen` cost `lädt`, both pinned now. **Read the AMBIGUOUS list, not only the unmapped one.**
 
 **The hard rules:**
 

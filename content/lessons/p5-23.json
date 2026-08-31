@@ -1,0 +1,365 @@
+{
+ "id": "p5-23",
+ "title": "Sie trennen sich",
+ "desc": "Friends, coming apart",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Trennung",
+  "Haus"
+ ],
+ "sn": [
+  {
+   "s": "Nuno hat es mir im Mai gesagt, in der Küche vom Restaurant.",
+   "e": "Nuno told me in May, in the restaurant kitchen."
+  },
+  {
+   "s": "Er hat weiter geschnitten, während er es gesagt hat.",
+   "e": "He went on chopping while he said it."
+  },
+  {
+   "s": "Er hat gesagt: Die Sofia ist ausgezogen.",
+   "e": "He said: Sofia has moved out."
+  },
+  {
+   "s": "Er hat gesagt: Seit drei Wochen.",
+   "e": "He said: three weeks ago."
+  },
+  {
+   "s": "Ich habe drei Wochen nichts gemerkt.",
+   "e": "I had noticed nothing for three weeks."
+  },
+  {
+   "s": "Ich war bei ihnen zu Hause im März essen.",
+   "e": "I ate at their place in March."
+  },
+  {
+   "s": "Ich habe nichts gesehen.",
+   "e": "I saw nothing."
+  },
+  {
+   "s": "Sich trennen ist das Verb.",
+   "e": "Sich trennen is the verb."
+  },
+  {
+   "s": "Sie trennen sich. Sie haben sich getrennt.",
+   "e": "They are separating. They have separated."
+  },
+  {
+   "s": "Die Trennung ist das Nomen.",
+   "e": "Die Trennung is the noun."
+  },
+  {
+   "s": "Es ist nicht das Gleiche wie die Scheidung.",
+   "e": "It is not the same as a divorce."
+  },
+  {
+   "s": "Die Scheidung ist die Sache beim Gericht, mit Papieren.",
+   "e": "A divorce is the thing at court, with papers."
+  },
+  {
+   "s": "Die Trennung ist vorher und die Trennung ist das Eigentliche.",
+   "e": "The separation comes before and the separation is the real thing."
+  },
+  {
+   "s": "Man sagt hier meistens getrennt und nicht geschieden.",
+   "e": "Here people mostly say separated and not divorced."
+  },
+  {
+   "s": "Auch nach Jahren.",
+   "e": "Even after years."
+  },
+  {
+   "s": "Sofia hat mir zwei Tage später geschrieben.",
+   "e": "Sofia wrote to me two days later."
+  },
+  {
+   "s": "Sie hat gefragt, ob wir einen Kaffee trinken.",
+   "e": "She asked whether we would have a coffee."
+  },
+  {
+   "s": "Ich habe zwei Stunden gebraucht, um zu antworten.",
+   "e": "It took me two hours to answer."
+  },
+  {
+   "s": "Ich habe ja geschrieben, weil nein feige gewesen wäre.",
+   "e": "I wrote yes, because no would have been cowardly."
+  },
+  {
+   "s": "Nuno hat mir seine Version erzählt.",
+   "e": "Nuno told me his version."
+  },
+  {
+   "s": "Sofia hat mir ihre Version erzählt.",
+   "e": "Sofia told me her version."
+  },
+  {
+   "s": "Beide Versionen sind gut.",
+   "e": "Both versions are good."
+  },
+  {
+   "s": "Beide haben einen Anfang, eine Mitte und einen Grund.",
+   "e": "Both have a beginning, a middle and a reason."
+  },
+  {
+   "s": "Beide sind ehrlich.",
+   "e": "Both are honest."
+  },
+  {
+   "s": "Ich habe beide geglaubt und das war keine Schwäche.",
+   "e": "I believed both and that was not weakness."
+  },
+  {
+   "s": "Zwei Menschen leben achtzehn Jahre im gleichen Haus.",
+   "e": "Two people live in the same house for eighteen years."
+  },
+  {
+   "s": "Sie leben nicht im gleichen Jahr.",
+   "e": "They do not live in the same year."
+  },
+  {
+   "s": "Nuno hat gesagt: Sie war nie da.",
+   "e": "Nuno said: she was never there."
+  },
+  {
+   "s": "Er hat gesagt: Wir haben nie geschrien. Das ist fast das Schlimmste.",
+   "e": "He said: we never shouted. That is almost the worst of it."
+  },
+  {
+   "s": "Sofia hat gesagt: Er hat immer gearbeitet.",
+   "e": "Sofia said: he always worked."
+  },
+  {
+   "s": "Das ist das gleiche Haus von zwei Seiten.",
+   "e": "That is the same house from two sides."
+  },
+  {
+   "s": "Ich habe zu keinem etwas über den anderen gesagt.",
+   "e": "I said nothing about either of them to the other."
+  },
+  {
+   "s": "Das war schwerer als es tönt.",
+   "e": "That was harder than it sounds."
+  },
+  {
+   "s": "Beide haben eine Frage gestellt, die klein getönt hat.",
+   "e": "Both asked a question that sounded small."
+  },
+  {
+   "s": "Nuno hat gefragt: Und, hast du sie gesehen?",
+   "e": "Nuno asked: and, have you seen her?"
+  },
+  {
+   "s": "Sofia hat gefragt: Wie geht es ihm?",
+   "e": "Sofia asked: how is he?"
+  },
+  {
+   "s": "Beide Fragen sind Türen.",
+   "e": "Both questions are doors."
+  },
+  {
+   "s": "Man kann durchgehen und dann ist man drin.",
+   "e": "You can go through and then you are in it."
+  },
+  {
+   "s": "Ich habe bei beiden gesagt: Frag ihn selber.",
+   "e": "With both of them I said: ask them yourself."
+  },
+  {
+   "s": "Das war nicht elegant und es war richtig.",
+   "e": "That was not elegant and it was right."
+  },
+  {
+   "s": "Hier nimmt man keine Seite.",
+   "e": "Here you do not take a side."
+  },
+  {
+   "s": "Das ist eine sehr starke Regel und niemand sagt sie laut.",
+   "e": "That is a very strong rule and nobody says it out loud."
+  },
+  {
+   "s": "Bei einer Trennung reden die Leute nicht über die Schuld.",
+   "e": "With a separation people do not talk about the blame."
+  },
+  {
+   "s": "Sie fragen: Und wo wohnen die Kinder jetzt?",
+   "e": "They ask: and where are the children living now?"
+  },
+  {
+   "s": "Sie fragen: Und wie ist es mit der Wohnung?",
+   "e": "They ask: and what is happening with the flat?"
+  },
+  {
+   "s": "Sie fragen nach dem Praktischen und nicht nach dem Grund.",
+   "e": "They ask about the practical and not about the reason."
+  },
+  {
+   "s": "Am Anfang habe ich das für Kälte gehalten.",
+   "e": "At first I thought that was coldness."
+  },
+  {
+   "s": "Es ist das Gegenteil.",
+   "e": "It is the opposite."
+  },
+  {
+   "s": "Wer nach dem Grund fragt, macht eine Geschichte daraus.",
+   "e": "Whoever asks for the reason turns it into a story."
+  },
+  {
+   "s": "Wer nach der Wohnung fragt, hilft.",
+   "e": "Whoever asks about the flat helps."
+  },
+  {
+   "s": "Es hat trotzdem Leute gegeben, die eine Seite genommen haben.",
+   "e": "There were people all the same who took a side."
+  },
+  {
+   "s": "Zwei aus der Küche haben mit Nuno geredet und nicht mehr mit Sofia.",
+   "e": "Two from the kitchen talked to Nuno and no longer to Sofia."
+  },
+  {
+   "s": "Eine Frau aus dem Quartier hat es umgekehrt gemacht.",
+   "e": "A woman from the neighbourhood did it the other way round."
+  },
+  {
+   "s": "Nach einem halben Jahr sind vier Leute weg gewesen.",
+   "e": "After six months four people were gone."
+  },
+  {
+   "s": "Das ist die zweite Sache, die bei einer Trennung verloren geht.",
+   "e": "That is the second thing that gets lost in a separation."
+  },
+  {
+   "s": "Zuerst die Ehe und dann ungefähr ein Drittel von den Leuten.",
+   "e": "First the marriage and then about a third of the people."
+  },
+  {
+   "s": "Nuno hat mich im Juni gefragt, ob ich am Donnerstag essen komme.",
+   "e": "In June Nuno asked me whether I would come and eat on Thursday."
+  },
+  {
+   "s": "Ich bin gegangen.",
+   "e": "I went."
+  },
+  {
+   "s": "Er hat für vier gekocht und wir waren zu zweit.",
+   "e": "He cooked for four and there were two of us."
+  },
+  {
+   "s": "Er hat es nicht gemerkt.",
+   "e": "He did not notice."
+  },
+  {
+   "s": "Er hat achtzehn Jahre für vier gekocht.",
+   "e": "He cooked for four for eighteen years."
+  },
+  {
+   "s": "Wir haben über den Fussball geredet und über die Miete.",
+   "e": "We talked about the football and about the rent."
+  },
+  {
+   "s": "Nach zwei Stunden hat er einen Satz gesagt.",
+   "e": "After two hours he said one sentence."
+  },
+  {
+   "s": "Er hat gesagt: Weisst du, was das Schlimmste ist?",
+   "e": "He said: do you know what the worst thing is?"
+  },
+  {
+   "s": "Er hat gesagt: Ich muss es jetzt zu Hause erzählen.",
+   "e": "He said: now I have to tell them at home."
+  },
+  {
+   "s": "Zu Hause heisst bei ihm Portugal.",
+   "e": "Zu Hause with him means Portugal."
+  },
+  {
+   "s": "Er hat gesagt: Meine Mutter ist zweiundachtzig.",
+   "e": "He said: my mother is eighty-two."
+  },
+  {
+   "s": "Er hat gesagt: Sie versteht das nicht.",
+   "e": "He said: she will not understand it."
+  },
+  {
+   "s": "Er hat gesagt: Sie fragt mich seit drei Wochen nach Sofia.",
+   "e": "He said: she has been asking me about Sofia for three weeks."
+  },
+  {
+   "s": "Er hat gesagt: Und ich sage jedes Mal, dass sie gerade einkaufen ist.",
+   "e": "He said: and every time I say that she is out shopping."
+  },
+  {
+   "s": "Das war der einzige Moment, in dem er fast nicht weitergeredet hat.",
+   "e": "That was the only moment when he almost did not go on."
+  },
+  {
+   "s": "Sofia habe ich seither dreimal getroffen.",
+   "e": "I have met Sofia three times since."
+  },
+  {
+   "s": "Immer im gleichen Café und immer am Samstag.",
+   "e": "Always in the same café and always on a Saturday."
+  },
+  {
+   "s": "Sie erzählt von der Arbeit und von der neuen Wohnung.",
+   "e": "She talks about work and about the new flat."
+  },
+  {
+   "s": "Sie hat nach vier Monaten wieder gelacht.",
+   "e": "After four months she laughed again."
+  },
+  {
+   "s": "Sie hat mich einmal gefragt, ob es komisch ist.",
+   "e": "She asked me once whether it was strange."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat gesagt: Für mich auch.",
+   "e": "She said: for me too."
+  },
+  {
+   "s": "Sie hat gesagt: Und trotzdem, oder?",
+   "e": "She said: and all the same, right?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja. Trotzdem.",
+   "e": "I said: yes. All the same."
+  },
+  {
+   "s": "Das war die ganze Abmachung und wir haben sie nie anders gemacht.",
+   "e": "That was the whole arrangement and we never made it any other way."
+  },
+  {
+   "s": "Ich habe in diesem Jahr zwei Sachen über Freundschaft gelernt.",
+   "e": "That year I learnt two things about friendship."
+  },
+  {
+   "s": "Die erste ist, dass sie Arbeit ist.",
+   "e": "The first is that it is work."
+  },
+  {
+   "s": "Man muss zweimal kochen und zweimal Kaffee trinken.",
+   "e": "You have to cook twice and drink coffee twice."
+  },
+  {
+   "s": "Die zweite ist schwerer.",
+   "e": "The second is harder."
+  },
+  {
+   "s": "Man kann zwei Leuten glauben, die sich widersprechen.",
+   "e": "You can believe two people who contradict each other."
+  },
+  {
+   "s": "Zu Hause hätte ich mich entschieden.",
+   "e": "At home I would have decided."
+  },
+  {
+   "s": "Hier habe ich gelernt, dass man das nicht muss.",
+   "e": "Here I have learnt that you do not have to."
+  }
+ ]
+}

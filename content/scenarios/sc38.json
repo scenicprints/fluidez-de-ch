@@ -1,0 +1,109 @@
+{
+ "id": "sc38",
+ "title": "Station C",
+ "desc": "Four people, and none of them is the one who knows",
+ "setting": "The reception desk of a hospital at ten past seven in the evening, and a name you have said out loud only in a stairwell.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Am Empfang",
+   "es": "Grüezi. Wie heisst die Patientin?",
+   "en": "Hello. What is the patient's name?",
+   "options": [
+    {
+     "es": "Amrein. Rosmarie Amrein.",
+     "en": "Amrein. Rosmarie Amrein.",
+     "verdict": "good",
+     "feedback": "The surname first, then both. That is what she needs to type and it is all she needs."
+    },
+    {
+     "es": "Sie ist meine Nachbarin.",
+     "en": "She is my neighbour.",
+     "verdict": "ok",
+     "feedback": "True, and it is the answer to the next question, not this one. She asked for a name."
+    },
+    {
+     "es": "Ich suche eine alte Frau.",
+     "en": "I am looking for an old woman.",
+     "verdict": "bad",
+     "feedback": "There are four hundred people in this building. Give her the name."
+    }
+   ]
+  },
+  {
+   "speaker": "Am Empfang",
+   "es": "Sind Sie Familie?",
+   "en": "Are you family?",
+   "options": [
+    {
+     "es": "Ich bin der Nachbar.",
+     "en": "I am the neighbour.",
+     "verdict": "good",
+     "feedback": "Say it plainly. It is not nothing here, and it is enough to be told the ward."
+    },
+    {
+     "es": "Ja, ich bin der Sohn.",
+     "en": "Yes, I am the son.",
+     "verdict": "bad",
+     "feedback": "It would work. It is also a lie that somebody will repeat back to you in a corridor."
+    },
+    {
+     "es": "Ist das wichtig?",
+     "en": "Does that matter?",
+     "verdict": "ok",
+     "feedback": "It does, and she is not being nosy. She has to decide what she is allowed to tell you."
+    }
+   ]
+  },
+  {
+   "speaker": "Eine Pflegerin",
+   "es": "Zu wem möchten Sie? Die Besuchszeit ist bald vorbei.",
+   "en": "Who would you like to see? Visiting time is nearly over.",
+   "options": [
+    {
+     "es": "Zu Frau Amrein. Ich weiss, es ist spät.",
+     "en": "To Frau Amrein. I know it is late.",
+     "verdict": "good",
+     "feedback": "Naming the problem yourself is what gets you the ten minutes."
+    },
+    {
+     "es": "Nur ganz kurz.",
+     "en": "Only very briefly.",
+     "verdict": "ok",
+     "feedback": "Fine, and she still does not know who you want."
+    },
+    {
+     "es": "Ich komme morgen wieder.",
+     "en": "I will come back tomorrow.",
+     "verdict": "ok",
+     "feedback": "Nobody sent you away. Ten minutes are something too."
+    }
+   ]
+  },
+  {
+   "speaker": "Eine Pflegerin",
+   "es": "Zimmer dreihundertzwölf. Aber wirklich nur kurz.",
+   "en": "Room three hundred and twelve. But really only briefly.",
+   "options": [
+    {
+     "es": "Merci vielmal.",
+     "en": "Thank you very much.",
+     "verdict": "good",
+     "feedback": "Two words, and they are the right two."
+    },
+    {
+     "es": "Wie geht es ihr?",
+     "en": "How is she?",
+     "verdict": "ok",
+     "feedback": "You will not get an answer, and she will not hold it against you. Ask the doctor or ask her."
+    },
+    {
+     "es": "Muss ich mich anmelden?",
+     "en": "Do I have to register?",
+     "verdict": "ok",
+     "feedback": "You just did. Go up."
+    }
+   ]
+  }
+ ]
+}

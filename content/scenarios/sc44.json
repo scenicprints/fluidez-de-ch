@@ -1,0 +1,109 @@
+{
+ "id": "sc44",
+ "title": "Ich hätte eine Bitte",
+ "desc": "Four messages, two hours, and four yeses",
+ "setting": "A Monday evening, a phone, and a Saturday you have been planning to do alone for three weeks.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Timo",
+   "es": "Hoi. Was gibt es?",
+   "en": "Hoi. What is it?",
+   "options": [
+    {
+     "es": "Ich hätte eine Bitte.",
+     "en": "I have a favour to ask.",
+     "verdict": "good",
+     "feedback": "The opening. It warns him something is coming and it gives him room to say no."
+    },
+    {
+     "es": "Nichts, ich frage nur so.",
+     "en": "Nothing, I am just asking.",
+     "verdict": "bad",
+     "feedback": "Two hours to write the message and then you take it back in five words."
+    },
+    {
+     "es": "Bist du am Samstag da?",
+     "en": "Are you around on Saturday?",
+     "verdict": "ok",
+     "feedback": "Fine, and it makes him say yes before he knows to what. Say the thing."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Sag.",
+   "en": "Go on.",
+   "options": [
+    {
+     "es": "Könntest du mir am Samstag beim Umzug helfen?",
+     "en": "Could you help me with the move on Saturday?",
+     "verdict": "good",
+     "feedback": "What, and when. Nothing else belongs in this sentence."
+    },
+    {
+     "es": "Ich weiss, du hast sicher viel zu tun, aber...",
+     "en": "I know you have a lot on, but...",
+     "verdict": "ok",
+     "feedback": "You are arguing against yourself before he has said anything."
+    },
+    {
+     "es": "Kennst du jemanden mit einem Camion?",
+     "en": "Do you know anybody with a van?",
+     "verdict": "ok",
+     "feedback": "Asking sideways. He will answer the question you asked and not the one you have."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Klar. Um wie viel Uhr?",
+   "en": "Sure. What time?",
+   "options": [
+    {
+     "es": "Um acht. Es gibt Pizza.",
+     "en": "At eight. There is pizza.",
+     "verdict": "good",
+     "feedback": "A time and the payment. That is the whole arrangement and everybody here knows it."
+    },
+    {
+     "es": "Bist du sicher? Es ist ein ganzer Tag.",
+     "en": "Are you sure? It is a whole day.",
+     "verdict": "bad",
+     "feedback": "He said klar. Asking again makes him say it twice and helps nobody."
+    },
+    {
+     "es": "Ich zahle dir etwas.",
+     "en": "I will pay you something.",
+     "verdict": "bad",
+     "feedback": "Money for this is an insult. Food and drink, and that is not a joke."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Und? Was ist mit dem Rücken?",
+   "en": "And? What about your back?",
+   "options": [
+    {
+     "es": "Der ist noch nicht gut.",
+     "en": "It is still not good.",
+     "verdict": "good",
+     "feedback": "Say it. Nobody will mention it again and nobody will let you near the cupboard."
+    },
+    {
+     "es": "Geht schon.",
+     "en": "It is fine.",
+     "verdict": "ok",
+     "feedback": "He will not believe it and he will hand you a carton anyway."
+    },
+    {
+     "es": "Ich trage einfach vorsichtig.",
+     "en": "I will just carry carefully.",
+     "verdict": "ok",
+     "feedback": "Nobody is going to let you. Beat decides that at nine in the morning."
+    }
+   ]
+  }
+ ]
+}

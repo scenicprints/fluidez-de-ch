@@ -989,6 +989,107 @@
     "wieder"
    ],
    "min": 2
+  },
+  {
+   "id": "p-koennte",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Frag mit könnte",
+   "en": "Ask with könnte",
+   "trigger": [
+    "bitten",
+    "Bitte"
+   ],
+   "min": 2
+  },
+  {
+   "id": "p-passiv",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Es wird gemacht",
+   "en": "It is being done",
+   "trigger": [
+    "räumen",
+    "werden"
+   ],
+   "min": 2
+  },
+  {
+   "id": "o-nichtheute",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Nicht heute",
+   "en": "Not today",
+   "trigger": [
+    "heute"
+   ],
+   "min": 1
+  },
+  {
+   "id": "o-esgeht",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Es ist gegangen",
+   "en": "It was all right",
+   "trigger": [
+    "gehen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "b-still",
+   "when": "back",
+   "state": "happy",
+   "say": "Es war still hier",
+   "en": "It has been quiet here",
+   "trigger": [
+    "still"
+   ],
+   "min": 1
+  },
+  {
+   "id": "k-allmaehlich",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Allmählich, ja",
+   "en": "Gradually, yes",
+   "trigger": [
+    "allmählich"
+   ],
+   "min": 1
+  },
+  {
+   "id": "k-reicht",
+   "when": "goal",
+   "state": "happy",
+   "say": "Das reicht für heute",
+   "en": "That is enough for today",
+   "trigger": [
+    "reichen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "y-mütze",
+   "when": "poke",
+   "state": "happy",
+   "say": "Ich habe keine Mütze",
+   "en": "I have no cap",
+   "trigger": [
+    "Mütze"
+   ],
+   "min": 1
+  },
+  {
+   "id": "s-morgenradio",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Zehn nach sechs",
+   "en": "Ten past six",
+   "trigger": [
+    "Radio"
+   ],
+   "min": 1
   }
  ]
 }

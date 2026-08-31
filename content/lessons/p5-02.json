@@ -1,0 +1,370 @@
+{
+ "id": "p5-02",
+ "title": "Im Spital",
+ "desc": "A hospital, and the words it needs",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Spital",
+  "Blume",
+  "Frau"
+ ],
+ "sn": [
+  {
+   "s": "Ich bin am Abend ins Spital gefahren.",
+   "e": "I went to the hospital in the evening."
+  },
+  {
+   "s": "Spital ist das Wort hier.",
+   "e": "Spital is the word here."
+  },
+  {
+   "s": "In Deutschland sagt man ein anderes und hier sagt es niemand.",
+   "e": "In Germany they say a different one and here nobody says it."
+  },
+  {
+   "s": "Das Spital in Luzern ist gross.",
+   "e": "The hospital in Luzern is big."
+  },
+  {
+   "s": "Es ist grösser als das Dorf, in dem meine Mutter wohnt.",
+   "e": "It is bigger than the village my mother lives in."
+  },
+  {
+   "s": "Es hat mehrere Häuser und jedes hat einen Buchstaben.",
+   "e": "It has several buildings and each one has a letter."
+  },
+  {
+   "s": "Ich habe an dem Abend vier Leute gefragt.",
+   "e": "I asked four people that evening."
+  },
+  {
+   "s": "Beim ersten war ich noch höflich und langsam.",
+   "e": "With the first one I was still polite and slow."
+  },
+  {
+   "s": "Beim vierten habe ich nur noch den Namen gesagt.",
+   "e": "By the fourth I only said the name."
+  },
+  {
+   "s": "Die erste Frau war am Empfang.",
+   "e": "The first woman was at reception."
+  },
+  {
+   "s": "Der Empfang ist der Ort, wo man zuerst fragt.",
+   "e": "Reception is the place where you ask first."
+  },
+  {
+   "s": "Sie hat gefragt: Wie heisst die Patientin?",
+   "e": "She asked: what is the patient's name?"
+  },
+  {
+   "s": "Ich habe gesagt: Amrein. Rosmarie Amrein.",
+   "e": "I said: Amrein. Rosmarie Amrein."
+  },
+  {
+   "s": "Sie hat gefragt: Sind Sie Familie?",
+   "e": "She asked: are you family?"
+  },
+  {
+   "s": "Sie hat noch nach der Karte von der Krankenkasse gefragt.",
+   "e": "She also asked for the health insurance card."
+  },
+  {
+   "s": "Bei einer Frau von achtundsiebzig ist die Franchise im Januar schon bezahlt.",
+   "e": "With a woman of seventy-eight the excess is already paid by January."
+  },
+  {
+   "s": "Das ist die Frage, auf die ich nicht vorbereitet war.",
+   "e": "That is the question I was not prepared for."
+  },
+  {
+   "s": "Ich habe gesagt: Ich bin der Nachbar.",
+   "e": "I said: I am the neighbour."
+  },
+  {
+   "s": "Sie hat einen Moment nichts gesagt.",
+   "e": "She said nothing for a moment."
+  },
+  {
+   "s": "Dann hat sie gesagt: Station C, dritter Stock.",
+   "e": "Then she said: ward C, third floor."
+  },
+  {
+   "s": "Eine Station ist ein Teil vom Spital.",
+   "e": "A ward is a part of the hospital."
+  },
+  {
+   "s": "Jede Station hat einen Buchstaben und eine Nummer.",
+   "e": "Every ward has a letter and a number."
+  },
+  {
+   "s": "Die Leute sagen den Buchstaben und alle wissen es.",
+   "e": "People say the letter and everybody knows."
+  },
+  {
+   "s": "Ich habe nicht gewusst, wo der dritte Stock ist.",
+   "e": "I did not know where the third floor was."
+  },
+  {
+   "s": "Ich habe den zweiten Mann gefragt.",
+   "e": "I asked the second man."
+  },
+  {
+   "s": "Er hat einen weissen Kittel getragen und einen Becher Kaffee.",
+   "e": "He was wearing a white coat and carrying a cup of coffee."
+  },
+  {
+   "s": "Er hat gesagt: Da hinten, dann links, dann der Lift.",
+   "e": "He said: back there, then left, then the lift."
+  },
+  {
+   "s": "Ich bin da hinten und dann links und dann geradeaus.",
+   "e": "I went back there and then left and then straight on."
+  },
+  {
+   "s": "Es gibt keinen Lift, der geradeaus ist.",
+   "e": "There is no lift that is straight on."
+  },
+  {
+   "s": "Die dritte war eine Frau mit einem Wagen.",
+   "e": "The third was a woman with a trolley."
+  },
+  {
+   "s": "Sie hat das Essen verteilt.",
+   "e": "She was handing out the food."
+  },
+  {
+   "s": "Sie hat mich zwanzig Meter mitgenommen und auf eine Tür gezeigt.",
+   "e": "She took me twenty metres with her and pointed at a door."
+  },
+  {
+   "s": "Sie hat gesagt: Da. Aber Sie müssen fragen.",
+   "e": "She said: there. But you have to ask."
+  },
+  {
+   "s": "Vor der Station ist ein kleines Büro.",
+   "e": "In front of the ward there is a small office."
+  },
+  {
+   "s": "Dort sitzt jemand und dort fragt man.",
+   "e": "Somebody sits there and that is where you ask."
+  },
+  {
+   "s": "Die vierte war eine Pflegerin.",
+   "e": "The fourth was a nurse."
+  },
+  {
+   "s": "Sie hat gefragt: Zu wem möchten Sie?",
+   "e": "She asked: who would you like to see?"
+  },
+  {
+   "s": "Ich habe den Namen gesagt.",
+   "e": "I said the name."
+  },
+  {
+   "s": "Sie hat auf den Bildschirm geschaut.",
+   "e": "She looked at the screen."
+  },
+  {
+   "s": "Sie hat gesagt: Zimmer dreihundertzwölf. Aber nur kurz.",
+   "e": "She said: room three hundred and twelve. But only briefly."
+  },
+  {
+   "s": "Die Besuchszeit war fast vorbei.",
+   "e": "Visiting time was almost over."
+  },
+  {
+   "s": "Die Besuchszeit ist die Zeit, in der man kommen darf.",
+   "e": "Visiting time is the time when you are allowed to come."
+  },
+  {
+   "s": "Hier ist sie von zwei bis acht.",
+   "e": "Here it is from two until eight."
+  },
+  {
+   "s": "Am Eingang hängt ein Schild damit.",
+   "e": "There is a sign with it at the entrance."
+  },
+  {
+   "s": "Ich bin um zehn vor acht gekommen.",
+   "e": "I arrived at ten to eight."
+  },
+  {
+   "s": "Niemand hat mich weggeschickt.",
+   "e": "Nobody sent me away."
+  },
+  {
+   "s": "Sie hat gesagt: Zehn Minuten sind auch etwas.",
+   "e": "She said: ten minutes are something too."
+  },
+  {
+   "s": "Auf dem Weg habe ich sechs Türen gesehen.",
+   "e": "On the way I saw six doors."
+  },
+  {
+   "s": "Neben jeder Tür steht ein Name.",
+   "e": "Beside every door there is a name."
+  },
+  {
+   "s": "Die Namen stehen klein und gerade.",
+   "e": "The names are written small and straight."
+  },
+  {
+   "s": "Bei drei Zimmern stehen drei Namen.",
+   "e": "At three rooms there are three names."
+  },
+  {
+   "s": "Bei einem stand nur einer.",
+   "e": "At one there was only one."
+  },
+  {
+   "s": "Ich habe im Gang etwas gelernt, das ich nicht lernen wollte.",
+   "e": "I learnt something in the corridor that I did not want to learn."
+  },
+  {
+   "s": "Alle bringen Blumen.",
+   "e": "Everybody brings flowers."
+  },
+  {
+   "s": "Alle. Ohne Ausnahme.",
+   "e": "Everybody. Without exception."
+  },
+  {
+   "s": "Es kommt eine Familie und einer trägt die Blumen.",
+   "e": "A family arrives and one of them carries the flowers."
+  },
+  {
+   "s": "Es kommt ein Mann allein und er trägt Blumen.",
+   "e": "A man comes alone and he is carrying flowers."
+  },
+  {
+   "s": "Ich hatte nichts dabei.",
+   "e": "I had nothing with me."
+  },
+  {
+   "s": "Ich bin zurück und habe unten Blumen gekauft.",
+   "e": "I went back and bought flowers downstairs."
+  },
+  {
+   "s": "Es gibt im Spital einen Laden dafür.",
+   "e": "There is a shop for it in the hospital."
+  },
+  {
+   "s": "Der Laden ist genau dort, wo man ihn braucht.",
+   "e": "The shop is exactly where you need it."
+  },
+  {
+   "s": "Die Frau im Laden hat gefragt: Für wen?",
+   "e": "The woman in the shop asked: who for?"
+  },
+  {
+   "s": "Ich habe gesagt: Für eine Frau von achtundsiebzig.",
+   "e": "I said: for a woman of seventy-eight."
+  },
+  {
+   "s": "Sie hat gesagt: Dann nicht die roten.",
+   "e": "She said: not the red ones then."
+  },
+  {
+   "s": "Sie hat mir gelbe gegeben.",
+   "e": "She gave me yellow ones."
+  },
+  {
+   "s": "Sie hat gesagt: Und keine dreizehn.",
+   "e": "She said: and not thirteen of them."
+  },
+  {
+   "s": "Ich habe gefragt: Warum?",
+   "e": "I asked: why?"
+  },
+  {
+   "s": "Sie hat gesagt: Man nimmt eine ungerade Zahl. Aber nicht dreizehn.",
+   "e": "She said: you take an odd number. But not thirteen."
+  },
+  {
+   "s": "Sie hat es gesagt, wie man eine Regel sagt.",
+   "e": "She said it the way you state a rule."
+  },
+  {
+   "s": "Nicht als Aberglaube.",
+   "e": "Not as a superstition."
+  },
+  {
+   "s": "Ich habe elf gelbe Blumen gehabt und drei Franken zurück.",
+   "e": "I had eleven yellow flowers and three francs change."
+  },
+  {
+   "s": "Vor Zimmer dreihundertzwölf bin ich stehen geblieben.",
+   "e": "I stopped in front of room three hundred and twelve."
+  },
+  {
+   "s": "Das habe ich nicht geplant.",
+   "e": "I had not planned that."
+  },
+  {
+   "s": "Man geht in ein Spital hinein und man wird langsamer.",
+   "e": "You go into a hospital and you get slower."
+  },
+  {
+   "s": "Der Boden ist sehr sauber und alles hat einen Geruch.",
+   "e": "The floor is very clean and everything has a smell."
+  },
+  {
+   "s": "Es riecht nicht schlecht.",
+   "e": "It does not smell bad."
+  },
+  {
+   "s": "Es riecht nach nichts, und das ist der Geruch.",
+   "e": "It smells of nothing, and that is the smell."
+  },
+  {
+   "s": "Drinnen war es hell und sehr warm.",
+   "e": "Inside it was bright and very warm."
+  },
+  {
+   "s": "Zwei Betten und ein Fenster nach Osten.",
+   "e": "Two beds and a window facing east."
+  },
+  {
+   "s": "Im ersten Bett hat eine Frau geschlafen.",
+   "e": "In the first bed a woman was asleep."
+  },
+  {
+   "s": "Im zweiten ist Rosmarie gesessen.",
+   "e": "In the second Rosmarie was sitting up."
+  },
+  {
+   "s": "Sie ist gesessen und nicht gelegen.",
+   "e": "She was sitting and not lying."
+  },
+  {
+   "s": "Das hat sie sicher extra gemacht.",
+   "e": "She had certainly done that on purpose."
+  },
+  {
+   "s": "Sie hat die Haare gemacht gehabt.",
+   "e": "She had done her hair."
+  },
+  {
+   "s": "Im Spital, mit einem Schlauch am Arm, die Haare gemacht.",
+   "e": "In hospital, with a tube in her arm, her hair done."
+  },
+  {
+   "s": "Sie hat mich gesehen und sie hat sofort etwas gesagt.",
+   "e": "She saw me and she said something immediately."
+  },
+  {
+   "s": "Sie hat gesagt: Du hast Blumen gekauft. Das musst du nicht.",
+   "e": "She said: you bought flowers. You do not have to."
+  },
+  {
+   "s": "Das war der erste Satz.",
+   "e": "That was the first sentence."
+  },
+  {
+   "s": "Und dann hat sie geschaut, wo man sie hinstellen kann.",
+   "e": "And then she looked for where they could be put."
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "id": "p5-25",
+ "title": "Um Hilfe bitten",
+ "desc": "Asking, which you have avoided",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Samstag",
+  "fragen"
+ ],
+ "sn": [
+  {
+   "s": "Der Umzug war am achtundzwanzigsten Juni.",
+   "e": "The move was on the twenty-eighth of June."
+  },
+  {
+   "s": "Ein Samstag.",
+   "e": "A Saturday."
+  },
+  {
+   "s": "Zwei Wohnungen in eine, drei Stockwerke, kein Lift.",
+   "e": "Two flats into one, three floors, no lift."
+  },
+  {
+   "s": "Und ein Rücken, der seit vier Wochen drückt.",
+   "e": "And a back that has been pressing for four weeks."
+  },
+  {
+   "s": "Ich habe drei Wochen lang geplant, wie ich das allein mache.",
+   "e": "For three weeks I planned how I would do it alone."
+  },
+  {
+   "s": "Ich habe gerechnet: sechs Fahrten mit einem gemieteten Camion.",
+   "e": "I worked it out: six trips with a hired van."
+  },
+  {
+   "s": "Ich habe gerechnet: zwei Tage, wenn ich um sechs anfange.",
+   "e": "I worked it out: two days, if I start at six."
+  },
+  {
+   "s": "Ich habe nie gerechnet: ich frage jemanden.",
+   "e": "I never worked out: I ask somebody."
+  },
+  {
+   "s": "Das ist das Thema von diesem ganzen Jahr.",
+   "e": "That is the theme of this whole year."
+  },
+  {
+   "s": "Ich habe es erst im Juni gesehen.",
+   "e": "I only saw it in June."
+  },
+  {
+   "s": "Rosmarie hat es mir vor zwei Jahren gesagt.",
+   "e": "Rosmarie told me two years ago."
+  },
+  {
+   "s": "Sie hat gesagt: Die Leute hier fragen nicht.",
+   "e": "She said: people here do not ask."
+  },
+  {
+   "s": "Sie hat gesagt: Nicht aus Kälte. Aus Höflichkeit.",
+   "e": "She said: not out of coldness. Out of politeness."
+  },
+  {
+   "s": "Sie hat gesagt: Sie warten auf dich.",
+   "e": "She said: they are waiting for you."
+  },
+  {
+   "s": "Ich habe das damals über das Erzählen verstanden.",
+   "e": "Back then I understood that as being about telling stories."
+  },
+  {
+   "s": "Es gilt für alles.",
+   "e": "It goes for everything."
+  },
+  {
+   "s": "Es gilt besonders für Hilfe.",
+   "e": "It goes especially for help."
+  },
+  {
+   "s": "Niemand fragt hier: Brauchst du Hilfe?",
+   "e": "Nobody here asks: do you need help?"
+  },
+  {
+   "s": "Das wäre fast unhöflich.",
+   "e": "That would be almost impolite."
+  },
+  {
+   "s": "Es heisst: Ich sehe, dass du es nicht schaffst.",
+   "e": "It means: I can see that you are not managing."
+  },
+  {
+   "s": "Man wartet, bis der andere fragt.",
+   "e": "You wait until the other person asks."
+  },
+  {
+   "s": "Und dann sagen alle sofort ja.",
+   "e": "And then everybody says yes immediately."
+  },
+  {
+   "s": "Die Formen dafür sind einfach.",
+   "e": "The forms for it are simple."
+  },
+  {
+   "s": "Ich hätte eine Bitte.",
+   "e": "I have a favour to ask."
+  },
+  {
+   "s": "Das ist der Anfang und er ist sehr gut.",
+   "e": "That is the beginning and it is very good."
+  },
+  {
+   "s": "Er sagt: jetzt kommt etwas, und du kannst nein sagen.",
+   "e": "It says: something is coming now, and you can say no."
+  },
+  {
+   "s": "Könntest du mir am Samstag helfen?",
+   "e": "Could you help me on Saturday?"
+  },
+  {
+   "s": "Hättest du am Samstag Zeit?",
+   "e": "Would you have time on Saturday?"
+  },
+  {
+   "s": "Wäre das möglich?",
+   "e": "Would that be possible?"
+  },
+  {
+   "s": "Ich würde dich um etwas bitten.",
+   "e": "I would like to ask you for something."
+  },
+  {
+   "s": "Das sind die vier Verben von vorher.",
+   "e": "Those are the four verbs from before."
+  },
+  {
+   "s": "Hätte, wäre, könnte, würde.",
+   "e": "Hätte, wäre, könnte, würde."
+  },
+  {
+   "s": "Sie sind zusammen die höflichste Sache in dieser Sprache.",
+   "e": "Together they are the politest thing in this language."
+  },
+  {
+   "s": "Sie machen aus einer Forderung eine Frage.",
+   "e": "They turn a demand into a question."
+  },
+  {
+   "s": "Ich habe am Montag vier Leute gefragt.",
+   "e": "On Monday I asked four people."
+  },
+  {
+   "s": "Ich habe zwei Stunden gebraucht für vier Nachrichten.",
+   "e": "It took me two hours to write four messages."
+  },
+  {
+   "s": "Timo hat nach vier Minuten geantwortet: Klar. Um wie viel Uhr?",
+   "e": "Timo answered after four minutes: sure. What time?"
+  },
+  {
+   "s": "Beat hat geantwortet: Ich komme mit dem Anhänger.",
+   "e": "Beat answered: I will come with the trailer."
+  },
+  {
+   "s": "Er hat den Anhänger am Freitagabend bei seinem Bruder abgeholt.",
+   "e": "He collected the trailer from his brother on Friday evening."
+  },
+  {
+   "s": "Ich habe nicht nach einem Anhänger gefragt.",
+   "e": "I had not asked for a trailer."
+  },
+  {
+   "s": "Nuno hat geschrieben: Samstag ist gut. Ich bringe Marek mit.",
+   "e": "Nuno wrote: Saturday is good. I will bring Marek."
+  },
+  {
+   "s": "Ich habe auch nicht nach Marek gefragt.",
+   "e": "I had not asked for Marek either."
+  },
+  {
+   "s": "Fatlum hat geschrieben: Ja. Und mein Bruder hat einen Camion.",
+   "e": "Fatlum wrote: yes. And my brother has a van."
+  },
+  {
+   "s": "Vier Fragen und vier Ja.",
+   "e": "Four questions and four yeses."
+  },
+  {
+   "s": "Keiner hat gefragt, warum ich nicht früher gefragt habe.",
+   "e": "None of them asked why I had not asked earlier."
+  },
+  {
+   "s": "Keiner hat gefragt, ob ich es nicht selber kann.",
+   "e": "None of them asked whether I could not do it myself."
+  },
+  {
+   "s": "Sie haben alle in unter zehn Minuten geantwortet.",
+   "e": "They all answered in under ten minutes."
+  },
+  {
+   "s": "Ich bin am Montagabend in der Küche gestanden und habe mich sehr dumm gefühlt.",
+   "e": "I stood in the kitchen on Monday evening and felt very stupid."
+  },
+  {
+   "s": "Drei Wochen geplant.",
+   "e": "Three weeks of planning."
+  },
+  {
+   "s": "Zwei Stunden für vier Nachrichten.",
+   "e": "Two hours for four messages."
+  },
+  {
+   "s": "Zehn Minuten für vier Ja.",
+   "e": "Ten minutes for four yeses."
+  },
+  {
+   "s": "Am Samstag waren um acht sieben Leute da.",
+   "e": "On Saturday there were seven people there at eight."
+  },
+  {
+   "s": "Sieben, weil zwei jemanden mitgebracht haben.",
+   "e": "Seven, because two of them brought somebody."
+  },
+  {
+   "s": "Der Bruder von Fatlum heisst Arben und redet fast nichts.",
+   "e": "Fatlum's brother is called Arben and says almost nothing."
+  },
+  {
+   "s": "Er hat den ganzen Tag getragen und um vier ist er gegangen.",
+   "e": "He carried things all day and at four he left."
+  },
+  {
+   "s": "Ich habe ihn nie wieder gesehen.",
+   "e": "I never saw him again."
+  },
+  {
+   "s": "Es war um halb eins fertig.",
+   "e": "It was finished at half past twelve."
+  },
+  {
+   "s": "Ich habe für zwei Tage gerechnet.",
+   "e": "I had calculated two days."
+  },
+  {
+   "s": "Es hat viereinhalb Stunden gedauert.",
+   "e": "It took four and a half hours."
+  },
+  {
+   "s": "Es hat eine Regel gegeben und sie hat niemand gesagt.",
+   "e": "There was one rule and nobody said it."
+  },
+  {
+   "s": "Ich habe nichts Schweres getragen.",
+   "e": "I carried nothing heavy."
+  },
+  {
+   "s": "Beat hat einmal gesagt: Du machst die Kisten.",
+   "e": "Beat said once: you do the boxes."
+  },
+  {
+   "s": "Timo hat mir einen Karton gegeben, als ich nach dem Kasten gegriffen habe.",
+   "e": "Timo handed me a carton when I reached for the cupboard."
+  },
+  {
+   "s": "Sie haben es nicht besprochen.",
+   "e": "They had not discussed it."
+  },
+  {
+   "s": "Ich habe ihnen von dem Rücken erzählt und sie haben nichts dazu gesagt.",
+   "e": "I had told them about my back and they had said nothing about it."
+  },
+  {
+   "s": "Sie haben nur den ganzen Tag zwischen mir und den schweren Sachen gestanden.",
+   "e": "They simply stood between me and the heavy things all day."
+  },
+  {
+   "s": "Um eins habe ich für alle Pizza bestellt.",
+   "e": "At one I ordered pizza for everybody."
+  },
+  {
+   "s": "Das ist hier die Bezahlung und sie ist nicht verhandelbar.",
+   "e": "That is the payment here and it is not negotiable."
+  },
+  {
+   "s": "Wer beim Umzug hilft, bekommt zu essen und zu trinken.",
+   "e": "Whoever helps with a move gets food and drink."
+  },
+  {
+   "s": "Geld wäre eine Beleidigung.",
+   "e": "Money would be an insult."
+  },
+  {
+   "s": "Ein Geschenk wäre auch falsch.",
+   "e": "A present would be wrong too."
+  },
+  {
+   "s": "Am Nachmittag ist Vreni gekommen.",
+   "e": "In the afternoon Vreni came."
+  },
+  {
+   "s": "Sie hat nicht getragen, sie ist siebzig.",
+   "e": "She did not carry anything, she is seventy."
+  },
+  {
+   "s": "Sie hat in der Küche die Kisten ausgepackt und alles eingeräumt.",
+   "e": "She unpacked the boxes in the kitchen and put everything away."
+  },
+  {
+   "s": "Sie hat gesagt: Ihr macht das sonst um Mitternacht.",
+   "e": "She said: otherwise you will be doing that at midnight."
+  },
+  {
+   "s": "Sie hat recht gehabt.",
+   "e": "She was right."
+  },
+  {
+   "s": "Ich habe sie nicht gefragt.",
+   "e": "I had not asked her."
+  },
+  {
+   "s": "Sie hat am Mittwoch angerufen und gesagt: Ich komme am Samstag.",
+   "e": "She called on Wednesday and said: I am coming on Saturday."
+  },
+  {
+   "s": "Sie ist die Einzige gewesen, die nicht gewartet hat, bis ich frage.",
+   "e": "She was the only one who did not wait until I asked."
+  },
+  {
+   "s": "Am Abend waren wir zu neunt in einer Wohnung mit Kartons.",
+   "e": "In the evening there were nine of us in a flat full of cartons."
+  },
+  {
+   "s": "Alle sind auf dem Boden gesessen.",
+   "e": "Everybody sat on the floor."
+  },
+  {
+   "s": "Timo hat gesagt: Es hat noch keinen Tisch.",
+   "e": "Timo said: there is no table yet."
+  },
+  {
+   "s": "Beat hat gesagt: Dann geht es schneller.",
+   "e": "Beat said: then it goes faster."
+  },
+  {
+   "s": "Um zehn sind alle gegangen und die Wohnung war fast fertig.",
+   "e": "At ten everybody left and the flat was almost finished."
+  },
+  {
+   "s": "Es hatte kein Brot und keine Milch und wir haben nicht daran gedacht.",
+   "e": "There was no bread and no milk and we had not thought of it."
+  },
+  {
+   "s": "Selina hat in der Küche gestanden und das Foto ausgepackt.",
+   "e": "Selina stood in the kitchen and unpacked the photo."
+  },
+  {
+   "s": "Sie hat es neben die Kaffeemaschine gestellt, ohne zu fragen.",
+   "e": "She put it beside the coffee machine, without asking."
+  },
+  {
+   "s": "Genau dorthin, wo es in der alten Wohnung war.",
+   "e": "Exactly where it was in the old flat."
+  },
+  {
+   "s": "Ich habe nichts gesagt.",
+   "e": "I said nothing."
+  },
+  {
+   "s": "Ich bin in der Tür gestanden und ich habe es angeschaut.",
+   "e": "I stood in the doorway and looked at it."
+  },
+  {
+   "s": "Ich habe an dem Tag um vier Sachen gebeten und vier bekommen.",
+   "e": "That day I asked for four things and got four."
+  }
+ ]
+}

@@ -257,6 +257,12 @@ arrives as an event and is named on the page. **Konjunktiv II did not move**
 and is still phase 5's, along with the full treatment. `NEXT.md` §19 carries
 the reasoning; it is reversible by rewriting nine stories.
 
+**Konjunktiv II landed in `p5-06` (2026-08-28)**, in the story where a woman
+who does not ask for anything asks for something. `p5-01` to `p5-05` are clean
+of it and that was checked by scanning rather than by reading. It is taught as
+what leaves the other person room to say no, not as politeness decoration, and
+the full treatment is `p5-25`. See `NEXT.md` §21.
+
 **Do not reorder it.** Three things depend on it:
 
 - **Two-way prepositions need both cases first.** *In die Stadt* versus *in
@@ -284,16 +290,16 @@ story 17 is the thing this app exists to do.
 
 | Who | Arrives | What they are |
 |---|---|---|
-| **Frau Amrein** | Phase 1 | Seventies, the flat across the landing. Explains the Hausordnung whether you asked or not, judges your recycling, feeds you anyway. The building's newspaper. **Dies in phase 5**, after roughly 130 stories. |
+| **Frau Amrein** | Phase 1 | Seventies, the flat across the landing. Explains the Hausordnung whether you asked or not, judges your recycling, feeds you anyway. The building's newspaper. **Died in `p5-07`**, at seventy-eight, after 128 stories. Rosmarie Amrein-Zurfluh; her husband Walter, forty years an electrician, went nine years before her. |
 | **Ruedi Zemp** | Phase 1 | The Hauswart. Rules are rules. Thaws at about one degree per phase and the learner notices the exact moment. |
 | **Lea** | Phase 0 | Mid twenties, works the café. First person your own age who speaks to you like a person. |
 | **Nuno** | Phase 1 | Portuguese, eighteen years in Luzern, kitchen work. Cheerfully wrong about cases. Your first real friend, because he remembers arriving. A quarter of Switzerland was born somewhere else and pretending otherwise would be a lie. |
 | **Timo** | Phase 2 | Your age, from Stans. Owns Getting About. |
 | **Selina** | Phase 3 | Comes along on one of Timo's trips. Phase 4 is her. |
 | **The Odermatts** | Phase 4 | Her parents, in Kriens. Sunday lunch, and being assessed. |
-| **Beat** | Phase 5 | Guggenmusik and a Verein. Pulls you back out of grief without asking how you are. |
-| **Fatlum** | Phase 5 | Born in Luzern, Kosovar name, Swiss in every way that counts, still gets asked where he is really from. |
-| **Vreni** | Phase 5 | Frau Amrein's sister. Turns up after, and is not a replacement. |
+| **Beat** | Phase 5 | Guggenmusik and a Verein, about fifty. Arrives in `p5-18`, says when he is coming and hangs up, and never once asks how you are. Carries into phase 6. |
+| **Fatlum** | Phase 5 | Twenty-nine, born in Luzern, Kosovar name, works for the Gemeinde, plays trumpet. `p5-19`. Has three answers to the question and uses the first one every time. |
+| **Vreni** | Phase 5 | Seventy, in Emmen, twenty minutes away and twice a year. Arrives in `p5-13` with the same voice, and is the only person who does not wait to be asked. |
 | **Anna** | Phase 7 | The next arrival. You hand her the notebook. |
 
 **The protagonist has no backstory and needs none.** An early draft asked

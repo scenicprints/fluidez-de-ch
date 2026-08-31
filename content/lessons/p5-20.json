@@ -1,0 +1,373 @@
+{
+ "id": "p5-20",
+ "title": "Es reicht nicht",
+ "desc": "Money, and running out of it",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "reichen",
+  "Geld",
+  "Rechnung",
+  "zahlen",
+  "Monat",
+  "Jahr"
+ ],
+ "sn": [
+  {
+   "s": "Es ist im März zusammengekommen.",
+   "e": "It all came together in March."
+  },
+  {
+   "s": "Drei Sachen in vier Wochen.",
+   "e": "Three things in four weeks."
+  },
+  {
+   "s": "Jede einzelne wäre kein Problem gewesen.",
+   "e": "Each single one would have been no problem."
+  },
+  {
+   "s": "Die erste war das Depot für die neue Wohnung.",
+   "e": "The first was the deposit for the new flat."
+  },
+  {
+   "s": "Ein Depot ist Geld, das man beim Anfang hinterlegt.",
+   "e": "A deposit is money you lodge at the start."
+  },
+  {
+   "s": "Man bekommt es am Schluss zurück, wenn alles in Ordnung ist.",
+   "e": "You get it back at the end, if everything is in order."
+  },
+  {
+   "s": "Es sind hier drei Monatsmieten.",
+   "e": "Here it is three months' rent."
+  },
+  {
+   "s": "Bei sechzehnhundert im Monat sind das viertausendachthundert Franken.",
+   "e": "At sixteen hundred a month that is four thousand eight hundred francs."
+  },
+  {
+   "s": "Es liegt auf einem eigenen Konto und niemand kommt daran.",
+   "e": "It sits in a separate account and nobody can touch it."
+  },
+  {
+   "s": "Es ist nicht weg und es ist auch nicht da.",
+   "e": "It is not gone and it is not there either."
+  },
+  {
+   "s": "Die zweite war die Steuerrechnung.",
+   "e": "The second was the tax bill."
+  },
+  {
+   "s": "Die Steuern werden hier nicht vom Lohn abgezogen.",
+   "e": "Here the taxes are not taken off the wage."
+  },
+  {
+   "s": "Man bekommt sie als Rechnung, im Jahr danach.",
+   "e": "You get them as a bill, in the year afterwards."
+  },
+  {
+   "s": "Das habe ich im ersten Jahr nicht verstanden.",
+   "e": "I did not understand that in the first year."
+  },
+  {
+   "s": "Im ersten Jahr war die Rechnung klein, weil ich vier Monate gearbeitet habe.",
+   "e": "In the first year the bill was small, because I had worked four months."
+  },
+  {
+   "s": "Dieses Jahr war sie für zwölf Monate.",
+   "e": "This year it was for twelve months."
+  },
+  {
+   "s": "Die dritte war die Prämie von der Krankenkasse.",
+   "e": "The third was the health insurance premium."
+  },
+  {
+   "s": "Sie steigt jedes Jahr im Januar.",
+   "e": "It goes up every year in January."
+  },
+  {
+   "s": "Dieses Jahr sind es dreiundzwanzig Franken mehr im Monat.",
+   "e": "This year it is twenty-three francs more a month."
+  },
+  {
+   "s": "Dreiundzwanzig Franken sind nichts.",
+   "e": "Twenty-three francs are nothing."
+  },
+  {
+   "s": "Dreiundzwanzig Franken auf zwölf Monate sind zweihundertsechsundsiebzig.",
+   "e": "Twenty-three francs over twelve months are two hundred and seventy-six."
+  },
+  {
+   "s": "Ich bin an einem Dienstag um eins am Küchentisch gesessen.",
+   "e": "I sat at the kitchen table at one o'clock on a Tuesday."
+  },
+  {
+   "s": "Ich habe ein Blatt genommen und alles aufgeschrieben.",
+   "e": "I took a sheet of paper and wrote everything down."
+  },
+  {
+   "s": "Links, was hereinkommt.",
+   "e": "On the left, what comes in."
+  },
+  {
+   "s": "Rechts, was hinausgeht.",
+   "e": "On the right, what goes out."
+  },
+  {
+   "s": "Die zwei Zahlen sind nicht weit auseinander gewesen.",
+   "e": "The two numbers were not far apart."
+  },
+  {
+   "s": "Die rechte war grösser.",
+   "e": "The right one was bigger."
+  },
+  {
+   "s": "Reichen ist das Verb dafür.",
+   "e": "Reichen is the verb for it."
+  },
+  {
+   "s": "Es reicht. Es reicht nicht.",
+   "e": "It is enough. It is not enough."
+  },
+  {
+   "s": "Das Geld reicht bis am Zwanzigsten.",
+   "e": "The money lasts until the twentieth."
+  },
+  {
+   "s": "Es reicht knapp.",
+   "e": "It just about does."
+  },
+  {
+   "s": "Knapp ist ein Wort, das man hier oft hört und selten über Geld.",
+   "e": "Knapp is a word you hear here often and seldom about money."
+  },
+  {
+   "s": "Es hat mich zwei Stunden gekostet und ich habe drei Sachen gemacht.",
+   "e": "It cost me two hours and I did three things."
+  },
+  {
+   "s": "Ich habe bei der Steuerverwaltung angerufen.",
+   "e": "I called the tax office."
+  },
+  {
+   "s": "Ich habe gefragt, ob man in Raten zahlen kann.",
+   "e": "I asked whether you can pay in instalments."
+  },
+  {
+   "s": "Eine Rate ist ein Teil von einer Rechnung.",
+   "e": "An instalment is a part of a bill."
+  },
+  {
+   "s": "Man zahlt nicht alles auf einmal, sondern jeden Monat einen Teil.",
+   "e": "You do not pay everything at once, but a part each month."
+  },
+  {
+   "s": "Die Frau am Telefon hat gesagt: Ja, natürlich.",
+   "e": "The woman on the telephone said: yes, of course."
+  },
+  {
+   "s": "Sie hat gesagt: Wie viele Raten möchten Sie?",
+   "e": "She said: how many instalments would you like?"
+  },
+  {
+   "s": "Sie hat es gefragt, wie man nach dem Kaffee fragt.",
+   "e": "She asked it the way you ask about coffee."
+  },
+  {
+   "s": "Es ist eine ganz normale Sache und sehr viele machen es.",
+   "e": "It is a completely normal thing and a great many people do it."
+  },
+  {
+   "s": "Ich habe zwei Stunden Angst vor diesem Anruf gehabt.",
+   "e": "I had been afraid of that call for two hours."
+  },
+  {
+   "s": "Der Anruf hat vier Minuten gedauert.",
+   "e": "The call lasted four minutes."
+  },
+  {
+   "s": "Das ist bei fast allem hier so.",
+   "e": "That is the case with almost everything here."
+  },
+  {
+   "s": "Die Sache ist geregelt, wenn man fragt.",
+   "e": "The thing is sorted out when you ask."
+  },
+  {
+   "s": "Sie ist ein Problem, solange man nicht fragt.",
+   "e": "It is a problem as long as you do not ask."
+  },
+  {
+   "s": "Dann habe ich bei der Krankenkasse die Franchise angeschaut.",
+   "e": "Then I looked at the excess on the health insurance."
+  },
+  {
+   "s": "Eine hohe Franchise heisst eine tiefere Prämie.",
+   "e": "A high excess means a lower premium."
+  },
+  {
+   "s": "Man zahlt dann jeden Monat weniger und beim Arzt mehr.",
+   "e": "You then pay less each month and more at the doctor."
+  },
+  {
+   "s": "Das ist eine Wette auf das eigene Jahr.",
+   "e": "That is a bet on your own year."
+  },
+  {
+   "s": "Ich habe die Wette dieses Jahr gemacht und ich habe sie verloren.",
+   "e": "I made the bet this year and I lost it."
+  },
+  {
+   "s": "Das kommt später.",
+   "e": "That comes later."
+  },
+  {
+   "s": "Die dritte Sache war die schwerste.",
+   "e": "The third thing was the hardest."
+  },
+  {
+   "s": "Ich habe es Selina gesagt.",
+   "e": "I told Selina."
+  },
+  {
+   "s": "Ich habe zwei Tage gewartet und dann habe ich es gesagt.",
+   "e": "I waited two days and then I said it."
+  },
+  {
+   "s": "Ich habe gesagt: Ich kann das Depot im April nicht zahlen.",
+   "e": "I said: I cannot pay the deposit in April."
+  },
+  {
+   "s": "Ich habe gesagt: Ich brauche bis im Juni.",
+   "e": "I said: I need until June."
+  },
+  {
+   "s": "Sie hat gefragt: Wie viel fehlt?",
+   "e": "She asked: how much is missing?"
+  },
+  {
+   "s": "Nicht: warum hast du nichts gesagt.",
+   "e": "Not: why did you say nothing."
+  },
+  {
+   "s": "Nicht: das hätte man planen können.",
+   "e": "Not: that could have been planned."
+  },
+  {
+   "s": "Wie viel fehlt.",
+   "e": "How much is missing."
+  },
+  {
+   "s": "Ich habe die Zahl gesagt.",
+   "e": "I said the number."
+  },
+  {
+   "s": "Sie hat gesagt: Gut. Dann ziehen wir im Juni um.",
+   "e": "She said: fine. Then we move in June."
+  },
+  {
+   "s": "Sie hat gesagt: Ich sage es der Vermieterin am Montag.",
+   "e": "She said: I will tell the landlady on Monday."
+  },
+  {
+   "s": "Und dann hat sie den Satz gesagt, der wichtig ist.",
+   "e": "And then she said the sentence that matters."
+  },
+  {
+   "s": "Sie hat gesagt: Sag es beim nächsten Mal früher.",
+   "e": "She said: say it earlier next time."
+  },
+  {
+   "s": "Sie hat gesagt: Nicht wegen dem Geld.",
+   "e": "She said: not because of the money."
+  },
+  {
+   "s": "Sie hat gesagt: Weil du zwei Wochen nicht geschlafen hast.",
+   "e": "She said: because you did not sleep for two weeks."
+  },
+  {
+   "s": "Über Geld redet hier niemand.",
+   "e": "Nobody here talks about money."
+  },
+  {
+   "s": "Man weiss nicht, was der Kollege verdient.",
+   "e": "You do not know what your colleague earns."
+  },
+  {
+   "s": "Man fragt es nicht und man sagt es nicht.",
+   "e": "You do not ask it and you do not say it."
+  },
+  {
+   "s": "Man sieht auch nicht, wer wenig hat.",
+   "e": "You also do not see who has little."
+  },
+  {
+   "s": "Die Leute haben saubere Kleider und ein Auto von zwölf Jahren.",
+   "e": "People have clean clothes and a twelve-year-old car."
+  },
+  {
+   "s": "Es hat hier arme Leute und man sieht sie nicht.",
+   "e": "There are poor people here and you do not see them."
+  },
+  {
+   "s": "Es gibt einen Satz, den man dafür sagt.",
+   "e": "There is a sentence people say for it."
+  },
+  {
+   "s": "Man sagt: Das liegt nicht drin.",
+   "e": "You say: das liegt nicht drin."
+  },
+  {
+   "s": "Es heisst: das geht nicht, es hat nicht Platz dafür.",
+   "e": "It means: that does not work, there is no room for it."
+  },
+  {
+   "s": "Man sagt es über Geld und man sagt nicht das Wort Geld.",
+   "e": "You say it about money and you do not say the word money."
+  },
+  {
+   "s": "Man sagt: Dieses Jahr liegt kein Skilager drin.",
+   "e": "You say: this year a ski camp is not in it."
+  },
+  {
+   "s": "Alle verstehen es und niemand muss etwas erklären.",
+   "e": "Everybody understands it and nobody has to explain anything."
+  },
+  {
+   "s": "Timo hat es einmal am Tisch gesagt und alle haben genickt.",
+   "e": "Timo said it once at the table and everybody nodded."
+  },
+  {
+   "s": "Niemand hat gefragt, warum.",
+   "e": "Nobody asked why."
+  },
+  {
+   "s": "Das ist die Höflichkeit dazu.",
+   "e": "That is the politeness that goes with it."
+  },
+  {
+   "s": "Am Ende habe ich die Rechnung in vier Raten gezahlt.",
+   "e": "In the end I paid the bill in four instalments."
+  },
+  {
+   "s": "Ich habe nichts geliehen und ich habe nichts verkauft.",
+   "e": "I borrowed nothing and I sold nothing."
+  },
+  {
+   "s": "Ich habe zwei Monate ganz genau gelebt.",
+   "e": "For two months I lived very precisely."
+  },
+  {
+   "s": "Es ist gegangen.",
+   "e": "It was all right."
+  },
+  {
+   "s": "Und ich habe an dem Küchentisch etwas gelernt.",
+   "e": "And at that kitchen table I learnt something."
+  },
+  {
+   "s": "Ich habe zwei Wochen nicht geschlafen wegen einer Sache, die vier Minuten gedauert hat.",
+   "e": "I did not sleep for two weeks because of a thing that took four minutes."
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "id": "p5-15",
+ "title": "Ein ganz normaler Dienstag",
+ "desc": "Grief on a day with nothing in it",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Suppe",
+  "Regal",
+  "kommen"
+ ],
+ "sn": [
+  {
+   "s": "Nach zwei Wochen war alles wieder normal.",
+   "e": "After two weeks everything was normal again."
+  },
+  {
+   "s": "Das ist hier so und es ist auch richtig.",
+   "e": "That is how it is here and it is right too."
+  },
+  {
+   "s": "Man geht am Mittwoch zur Abdankung und am Donnerstag zur Arbeit.",
+   "e": "You go to the funeral on Wednesday and to work on Thursday."
+  },
+  {
+   "s": "Niemand fragt nach zwei Wochen noch etwas.",
+   "e": "After two weeks nobody asks anything any more."
+  },
+  {
+   "s": "Das tönt hart und es ist nicht hart gemeint.",
+   "e": "That sounds hard and it is not meant to be hard."
+  },
+  {
+   "s": "Die Leute denken, dass sie einem Ruhe geben.",
+   "e": "People think that they are giving you peace."
+  },
+  {
+   "s": "Sie fragen nicht, weil eine Frage einen zurückholt.",
+   "e": "They do not ask, because a question pulls you back."
+  },
+  {
+   "s": "Das ist eine Rechnung mit einem Fehler drin.",
+   "e": "That is a calculation with a mistake in it."
+  },
+  {
+   "s": "Aber sie machen es nicht aus Kälte.",
+   "e": "But they do not do it out of coldness."
+  },
+  {
+   "s": "Marco hat mich in der zweiten Woche einmal gefragt.",
+   "e": "Marco asked me once in the second week."
+  },
+  {
+   "s": "Er hat gefragt: Und, geht es?",
+   "e": "He asked: and, are you all right?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Er hat genickt und weitergearbeitet.",
+   "e": "He nodded and went on working."
+  },
+  {
+   "s": "Er hat mir zwei Tage später einen Kaffee gebracht, ohne zu fragen.",
+   "e": "Two days later he brought me a coffee without asking."
+  },
+  {
+   "s": "Das war seine Antwort auf mein Ja.",
+   "e": "That was his answer to my yes."
+  },
+  {
+   "s": "Er hat es nicht geglaubt und er hat es stehen lassen.",
+   "e": "He did not believe it and he let it stand."
+  },
+  {
+   "s": "Am Dienstag ist nichts gewesen.",
+   "e": "On the Tuesday nothing happened."
+  },
+  {
+   "s": "Das ist wichtig.",
+   "e": "That is important."
+  },
+  {
+   "s": "Es war ein Dienstag ohne alles.",
+   "e": "It was a Tuesday with nothing in it."
+  },
+  {
+   "s": "Kein Datum, kein Termin, kein Wetter.",
+   "e": "No date, no appointment, no weather."
+  },
+  {
+   "s": "Im Kalender ist an dem Tag nichts gestanden.",
+   "e": "There was nothing in the calendar that day."
+  },
+  {
+   "s": "Ich bin um sechs aufgestanden und ich war um acht im Büro.",
+   "e": "I got up at six and I was in the office at eight."
+  },
+  {
+   "s": "Ich habe an dem Tag gut gearbeitet.",
+   "e": "I worked well that day."
+  },
+  {
+   "s": "Ich habe zwei Sachen fertig gemacht, die drei Wochen gelegen sind.",
+   "e": "I finished two things that had been lying around for three weeks."
+  },
+  {
+   "s": "Um halb sechs bin ich einkaufen gegangen.",
+   "e": "At half past five I went shopping."
+  },
+  {
+   "s": "In den Laden, in den ich zweimal in der Woche gehe.",
+   "e": "To the shop I go to twice a week."
+  },
+  {
+   "s": "Ich habe eine Liste gehabt.",
+   "e": "I had a list."
+  },
+  {
+   "s": "Milch, Brot, Rüebli, Käse.",
+   "e": "Milk, bread, carrots, cheese."
+  },
+  {
+   "s": "Ich bin durch den Gang mit den Konserven.",
+   "e": "I went through the aisle with the tins."
+  },
+  {
+   "s": "Das ist nicht mein Weg.",
+   "e": "That is not my route."
+  },
+  {
+   "s": "Ich gehe sonst aussen herum, weil es schneller ist.",
+   "e": "I usually go round the outside, because it is faster."
+  },
+  {
+   "s": "An dem Dienstag bin ich innen durch.",
+   "e": "On that Tuesday I went through the middle."
+  },
+  {
+   "s": "Im Regal ist die Suppe gestanden.",
+   "e": "The soup was standing on the shelf."
+  },
+  {
+   "s": "Zwei Sorten, ganz unten im Regal.",
+   "e": "Two kinds, right at the bottom of the shelf."
+  },
+  {
+   "s": "Es ist die Suppe, über die sie geschimpft hat.",
+   "e": "It is the soup she complained about."
+  },
+  {
+   "s": "Nicht die gleiche.",
+   "e": "Not the same one."
+  },
+  {
+   "s": "Es ist nicht einmal die gleiche Suppe.",
+   "e": "It is not even the same soup."
+  },
+  {
+   "s": "Es ist irgendeine Suppe in einem Regal.",
+   "e": "It is some soup on a shelf."
+  },
+  {
+   "s": "Ich bin dort stehen geblieben.",
+   "e": "I stopped there."
+  },
+  {
+   "s": "Ich bin ungefähr vierzig Sekunden gestanden.",
+   "e": "I stood there for about forty seconds."
+  },
+  {
+   "s": "Ich habe die Suppe angeschaut und ich habe nichts gedacht.",
+   "e": "I looked at the soup and I thought nothing."
+  },
+  {
+   "s": "Dann ist es gekommen.",
+   "e": "Then it came."
+  },
+  {
+   "s": "Es ist mitten am Tag gekommen, in einem Laden, wegen einer Suppe.",
+   "e": "It came in the middle of the day, in a shop, because of a soup."
+  },
+  {
+   "s": "Plötzlich heisst: schnell und ohne Warnung.",
+   "e": "Plötzlich means: quickly and without warning."
+  },
+  {
+   "s": "Plötzlich ist mir alles gekommen.",
+   "e": "Suddenly it all came."
+  },
+  {
+   "s": "Es kommt plötzlich und dann ist es wieder weg.",
+   "e": "It comes suddenly and then it is gone again."
+  },
+  {
+   "s": "Mitten am Tag. Mitten im Satz. Mitten in der Arbeit.",
+   "e": "In the middle of the day. In the middle of a sentence. In the middle of work."
+  },
+  {
+   "s": "Mitten heisst: nicht am Anfang und nicht am Schluss.",
+   "e": "Mitten means: not at the beginning and not at the end."
+  },
+  {
+   "s": "Einfach so heisst: ohne Grund, den man sagen kann.",
+   "e": "Einfach so means: for no reason you can name."
+  },
+  {
+   "s": "Es ist einfach so gekommen.",
+   "e": "It just came."
+  },
+  {
+   "s": "Die drei Wörter braucht man für diese Sache.",
+   "e": "Those three words are what you need for this thing."
+  },
+  {
+   "s": "Ich habe keine anderen gefunden, auch auf Englisch nicht.",
+   "e": "I found no others, not in English either."
+  },
+  {
+   "s": "Ich habe nicht geweint.",
+   "e": "I did not cry."
+  },
+  {
+   "s": "Ich bin gestanden und ich habe geatmet und es ist vorbeigegangen.",
+   "e": "I stood and I breathed and it went past."
+  },
+  {
+   "s": "Dann habe ich die Milch geholt und bezahlt.",
+   "e": "Then I fetched the milk and paid."
+  },
+  {
+   "s": "An der Kasse hat mich die Frau gefragt, ob ich einen Sack brauche.",
+   "e": "At the till the woman asked whether I needed a bag."
+  },
+  {
+   "s": "Ich habe gesagt: Nein, merci.",
+   "e": "I said: no, merci."
+  },
+  {
+   "s": "Meine Stimme war ganz normal.",
+   "e": "My voice was completely normal."
+  },
+  {
+   "s": "Das hat mich am meisten erschreckt.",
+   "e": "That startled me most of all."
+  },
+  {
+   "s": "Draussen war es hell und es hat nach Regen gerochen.",
+   "e": "Outside it was light and it smelled of rain."
+  },
+  {
+   "s": "Ich bin nicht sofort heim.",
+   "e": "I did not go straight home."
+  },
+  {
+   "s": "Ich habe eine Runde um den Block gemacht.",
+   "e": "I walked round the block."
+  },
+  {
+   "s": "Sieben Minuten.",
+   "e": "Seven minutes."
+  },
+  {
+   "s": "Das mache ich seither manchmal und ich weiss nicht, warum es hilft.",
+   "e": "I sometimes do that now and I do not know why it helps."
+  },
+  {
+   "s": "Es kommt nicht bei den grossen Sachen.",
+   "e": "It does not come with the big things."
+  },
+  {
+   "s": "An der Abdankung ist es nicht gekommen.",
+   "e": "At the funeral it did not come."
+  },
+  {
+   "s": "Als die Wohnung leer war, ist es nicht gekommen.",
+   "e": "When the flat was empty, it did not come."
+  },
+  {
+   "s": "Bei den grossen Sachen hat man etwas zu tun.",
+   "e": "With the big things you have something to do."
+  },
+  {
+   "s": "Man trägt einen Stuhl oder man gibt eine Hand.",
+   "e": "You carry a chair or you give somebody your hand."
+  },
+  {
+   "s": "Es kommt bei einer Suppe im Regal.",
+   "e": "It comes with a soup on a shelf."
+  },
+  {
+   "s": "Es kommt, wenn zwei Zeitungen im Briefkasten sind und beide für mich.",
+   "e": "It comes when there are two newspapers in the letterbox and both are for me."
+  },
+  {
+   "s": "Es kommt am Sonntag um zehn nach sechs.",
+   "e": "It comes on Sunday at ten past six."
+  },
+  {
+   "s": "Am Sonntag stelle ich das Radio an.",
+   "e": "On Sunday I turn the radio on."
+  },
+  {
+   "s": "Nicht meines. Das im Bad, das man durch die Wand hört.",
+   "e": "Not mine. The one in the bathroom, the one you hear through the wall."
+  },
+  {
+   "s": "Das ist eine dumme Sache und ich mache sie trotzdem.",
+   "e": "That is a stupid thing and I do it anyway."
+  },
+  {
+   "s": "Ich habe an dem Abend Selina nichts gesagt.",
+   "e": "I said nothing to Selina that evening."
+  },
+  {
+   "s": "Ich habe gedacht, dass eine Suppe zu klein ist.",
+   "e": "I thought that a soup was too small."
+  },
+  {
+   "s": "Ich habe gedacht, dass sie es nicht versteht.",
+   "e": "I thought that she would not understand it."
+  },
+  {
+   "s": "Beides war falsch und das habe ich zwei Wochen später gemerkt.",
+   "e": "Both were wrong and I noticed that two weeks later."
+  },
+  {
+   "s": "Das Land hat mit dem Zurück an die Arbeit recht.",
+   "e": "The country is right about going back to work."
+  },
+  {
+   "s": "Man kann nicht drei Monate zu Hause sitzen.",
+   "e": "You cannot sit at home for three months."
+  },
+  {
+   "s": "Die Arbeit hält den Tag zusammen.",
+   "e": "Work holds the day together."
+  },
+  {
+   "s": "Man steht auf, weil man muss, und das ist gut.",
+   "e": "You get up because you have to, and that is good."
+  },
+  {
+   "s": "Nur ist die Rechnung nicht ganz fertig.",
+   "e": "Only the calculation is not quite finished."
+  },
+  {
+   "s": "Es ist nicht vorbei, wenn man wieder arbeitet.",
+   "e": "It is not over when you are working again."
+  },
+  {
+   "s": "Es ist nur nicht mehr sichtbar.",
+   "e": "It is only not visible any more."
+  },
+  {
+   "s": "Und dann steht man an einem normalen Dienstag vor einem Regal.",
+   "e": "And then you are standing on a normal Tuesday in front of a shelf."
+  }
+ ]
+}

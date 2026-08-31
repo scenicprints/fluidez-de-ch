@@ -1,0 +1,109 @@
+{
+ "id": "sc41",
+ "title": "Herzliches Beileid",
+ "desc": "A queue, and the same two words forty times",
+ "setting": "The door of a church on a Tuesday afternoon, four hundred people, and rain that nobody is putting an umbrella up against.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Vreni",
+   "es": "Danke, dass Sie gekommen sind.",
+   "en": "Thank you for coming.",
+   "options": [
+    {
+     "es": "Herzliches Beileid.",
+     "en": "My sincere condolences.",
+     "verdict": "good",
+     "feedback": "The formula, and the hand, one second longer. Nothing else is needed and nothing else is wanted."
+    },
+    {
+     "es": "Sie war ein besonderer Mensch für mich.",
+     "en": "She was a special person to me.",
+     "verdict": "ok",
+     "feedback": "True, and it asks her for a reply she has already given two hundred times today."
+    },
+    {
+     "es": "Ich weiss, wie Sie sich fühlen.",
+     "en": "I know how you feel.",
+     "verdict": "bad",
+     "feedback": "You do not, and it is the one sentence that is wrong in every language."
+    }
+   ]
+  },
+  {
+   "speaker": "Ein alter Mann",
+   "es": "Und Sie sind?",
+   "en": "And you are?",
+   "options": [
+    {
+     "es": "Ich bin der Nachbar.",
+     "en": "I am the neighbour.",
+     "verdict": "good",
+     "feedback": "The whole answer. Everybody here places you with it immediately."
+    },
+    {
+     "es": "Ein Freund von ihr.",
+     "en": "A friend of hers.",
+     "verdict": "ok",
+     "feedback": "Also true, and it makes him work out where you fit. Neighbour is the word they use."
+    },
+    {
+     "es": "Niemand Wichtiges.",
+     "en": "Nobody important.",
+     "verdict": "bad",
+     "feedback": "Modesty that makes the other person carry it. She talked about you."
+    }
+   ]
+  },
+  {
+   "speaker": "Herr Bucher",
+   "es": "Herzliches Beileid.",
+   "en": "My sincere condolences.",
+   "options": [
+    {
+     "es": "Ihnen auch.",
+     "en": "To you too.",
+     "verdict": "good",
+     "feedback": "He lived below her for eleven years. He lost something as well and he just told you so."
+    },
+    {
+     "es": "Danke.",
+     "en": "Thank you.",
+     "verdict": "ok",
+     "feedback": "Not wrong. It just takes the thing he offered you and keeps it."
+    },
+    {
+     "es": "Ja, es ist sehr traurig.",
+     "en": "Yes, it is very sad.",
+     "verdict": "ok",
+     "feedback": "True and it fills the space he left for the two of you."
+    }
+   ]
+  },
+  {
+   "speaker": "Vreni",
+   "es": "Wenn Sie etwas brauchen, melden Sie sich.",
+   "en": "If you need anything, get in touch.",
+   "options": [
+    {
+     "es": "Und wenn ich etwas machen kann, sagen Sie es.",
+     "en": "And if I can do anything, tell me.",
+     "verdict": "good",
+     "feedback": "Only say it if you mean it, because she will come back to you on it. Two days later she does."
+    },
+    {
+     "es": "Danke, das ist lieb.",
+     "en": "Thank you, that is kind.",
+     "verdict": "ok",
+     "feedback": "Fine, and it ends the exchange one step early."
+    },
+    {
+     "es": "Sie haben jetzt genug zu tun.",
+     "en": "You have enough to do now.",
+     "verdict": "ok",
+     "feedback": "Meant kindly. It also decides for her what she can manage."
+    }
+   ]
+  }
+ ]
+}

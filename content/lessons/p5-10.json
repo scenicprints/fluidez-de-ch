@@ -1,0 +1,379 @@
+{
+ "id": "p5-10",
+ "title": "Die Abdankung",
+ "desc": "A funeral, in a church you have walked past",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Abdankung",
+  "Kirche",
+  "kennen",
+  "Leute"
+ ],
+ "sn": [
+  {
+   "s": "Die Abdankung war am Dienstag um zwei.",
+   "e": "The funeral service was on Tuesday at two."
+  },
+  {
+   "s": "Die Abdankung ist die Feier für einen Toten.",
+   "e": "The Abdankung is the service for somebody who has died."
+  },
+  {
+   "s": "Das ist das Schweizer Wort dafür.",
+   "e": "That is the Swiss word for it."
+  },
+  {
+   "s": "Man sagt auch Beerdigung und man sagt auch Trauerfeier.",
+   "e": "People also say Beerdigung and they also say Trauerfeier."
+  },
+  {
+   "s": "In der Zeitung steht Abdankung.",
+   "e": "In the newspaper it says Abdankung."
+  },
+  {
+   "s": "Die Kirche ist die, an der ich zweimal am Tag vorbeilaufe.",
+   "e": "The church is the one I walk past twice a day."
+  },
+  {
+   "s": "Ich bin zwei Jahre daran vorbeigelaufen.",
+   "e": "I walked past it for two years."
+  },
+  {
+   "s": "Ich war nie drin.",
+   "e": "I was never inside."
+  },
+  {
+   "s": "Am Dienstag war ich zum ersten Mal drin.",
+   "e": "On Tuesday I was inside for the first time."
+  },
+  {
+   "s": "Ich bin um Viertel vor zwei gekommen.",
+   "e": "I arrived at quarter to two."
+  },
+  {
+   "s": "Das war zu spät.",
+   "e": "That was too late."
+  },
+  {
+   "s": "Die Kirche war schon halb voll.",
+   "e": "The church was already half full."
+  },
+  {
+   "s": "Hier kommt man zwanzig Minuten früher.",
+   "e": "Here you come twenty minutes early."
+  },
+  {
+   "s": "Das habe ich zwei Jahre lang gelernt und an dem Tag vergessen.",
+   "e": "I had learnt that over two years and forgot it on that day."
+  },
+  {
+   "s": "Vorne sitzt die Familie.",
+   "e": "The family sits at the front."
+  },
+  {
+   "s": "Die erste Reihe ist für die nächsten Leute.",
+   "e": "The first row is for the closest people."
+  },
+  {
+   "s": "Dahinter die anderen von der Familie.",
+   "e": "Behind that the others from the family."
+  },
+  {
+   "s": "Dann die Nachbarn und die Kollegen und alle anderen.",
+   "e": "Then the neighbours and the colleagues and everybody else."
+  },
+  {
+   "s": "Niemand sagt einem, wo man sitzen soll.",
+   "e": "Nobody tells you where to sit."
+  },
+  {
+   "s": "Alle wissen es.",
+   "e": "Everybody knows."
+  },
+  {
+   "s": "Ich bin in die sechste Reihe.",
+   "e": "I went into the sixth row."
+  },
+  {
+   "s": "Herr Bucher ist in der siebten gesessen.",
+   "e": "Herr Bucher sat in the seventh."
+  },
+  {
+   "s": "Ruedi Zemp ist ganz hinten gestanden.",
+   "e": "Ruedi Zemp stood right at the back."
+  },
+  {
+   "s": "Er ist die ganze Stunde gestanden, obwohl es Platz gehabt hat.",
+   "e": "He stood for the whole hour, although there was room."
+  },
+  {
+   "s": "Es waren ungefähr vierhundert Leute da.",
+   "e": "There were about four hundred people there."
+  },
+  {
+   "s": "Ich habe neun davon gekannt.",
+   "e": "I knew nine of them."
+  },
+  {
+   "s": "Ich habe sie in der Pause gezählt, weil ich etwas machen musste.",
+   "e": "I counted them in the pause, because I had to do something."
+  },
+  {
+   "s": "Vierhundert Leute für eine Frau, die ich für allein gehalten habe.",
+   "e": "Four hundred people for a woman I had thought was alone."
+  },
+  {
+   "s": "Das war die erste Sache, die mich an dem Tag umgeworfen hat.",
+   "e": "That was the first thing that knocked me over that day."
+  },
+  {
+   "s": "Ich habe zwei Jahre gedacht: Sie hat keine Familie und wenig Leute.",
+   "e": "For two years I thought: she has no family and few people."
+  },
+  {
+   "s": "Sie hat die halbe Stadt gekannt.",
+   "e": "She knew half the town."
+  },
+  {
+   "s": "Sie hat es mir nur nie erzählt.",
+   "e": "She simply never told me."
+  },
+  {
+   "s": "Man erzählt hier nicht, wie viele Leute man kennt.",
+   "e": "Here you do not tell people how many people you know."
+  },
+  {
+   "s": "Vorne ist die Urne gestanden.",
+   "e": "The urn stood at the front."
+  },
+  {
+   "s": "Kein Sarg.",
+   "e": "No coffin."
+  },
+  {
+   "s": "Die meisten hier werden verbrannt.",
+   "e": "Most people here are cremated."
+  },
+  {
+   "s": "Die Urne ist klein und sie steht auf einem Tisch.",
+   "e": "The urn is small and it stands on a table."
+  },
+  {
+   "s": "Daneben ein Foto und vier Kränze.",
+   "e": "Beside it a photo and four wreaths."
+  },
+  {
+   "s": "Auf dem Foto ist sie ungefähr siebzig.",
+   "e": "In the photo she is about seventy."
+  },
+  {
+   "s": "Es ist nicht das Foto vom Berg.",
+   "e": "It is not the photo from the mountain."
+  },
+  {
+   "s": "Das habe ich sofort gesehen und ich habe nicht gewusst, warum es mich stört.",
+   "e": "I saw that immediately and I did not know why it bothered me."
+  },
+  {
+   "s": "Der Pfarrer ist ein Mann von ungefähr fünfzig.",
+   "e": "The pastor is a man of about fifty."
+  },
+  {
+   "s": "Der Pfarrer ist der Mann, der die Feier macht.",
+   "e": "The pastor is the man who conducts the service."
+  },
+  {
+   "s": "Er hat sie gekannt.",
+   "e": "He knew her."
+  },
+  {
+   "s": "Das hat man in den ersten dreissig Sekunden gehört.",
+   "e": "You could hear that in the first thirty seconds."
+  },
+  {
+   "s": "Er hat gesagt, dass sie jeden Sonntag hier war.",
+   "e": "He said that she was here every Sunday."
+  },
+  {
+   "s": "Er hat gesagt, dass sie immer in der gleichen Reihe gesessen ist.",
+   "e": "He said that she always sat in the same row."
+  },
+  {
+   "s": "Er hat gesagt: Und wenn jemand auf ihrem Platz war, hat sie nichts gesagt.",
+   "e": "He said: and if somebody was in her place, she said nothing."
+  },
+  {
+   "s": "Alle haben gelacht.",
+   "e": "Everybody laughed."
+  },
+  {
+   "s": "In einer Kirche, an einer Abdankung, haben vierhundert Leute gelacht.",
+   "e": "In a church, at a funeral, four hundred people laughed."
+  },
+  {
+   "s": "Damit hatte ich nicht gerechnet.",
+   "e": "I had not reckoned with that."
+  },
+  {
+   "s": "Die ganze Feier hat fünfzig Minuten gedauert.",
+   "e": "The whole service lasted fifty minutes."
+  },
+  {
+   "s": "Zu Hause dauert das drei Stunden.",
+   "e": "At home that takes three hours."
+  },
+  {
+   "s": "Hier ist es kurz und es ist genau.",
+   "e": "Here it is short and it is precise."
+  },
+  {
+   "s": "Es hat zwei Lieder gehabt und die Orgel.",
+   "e": "There were two hymns and the organ."
+  },
+  {
+   "s": "Die Orgel ist das grosse Instrument in der Kirche.",
+   "e": "The organ is the big instrument in the church."
+  },
+  {
+   "s": "Es hat drei Reden gegeben und keine war lang.",
+   "e": "There were three speeches and none of them was long."
+  },
+  {
+   "s": "Der Pfarrer, dann Vreni, dann eine Frau von der Kirche.",
+   "e": "The pastor, then Vreni, then a woman from the church."
+  },
+  {
+   "s": "Vreni hat vier Minuten geredet und einmal aufgehört.",
+   "e": "Vreni spoke for four minutes and stopped once."
+  },
+  {
+   "s": "Sie hat aufgehört und gewartet und dann weitergeredet.",
+   "e": "She stopped and waited and then went on."
+  },
+  {
+   "s": "Niemand hat sich bewegt, während sie gewartet hat.",
+   "e": "Nobody moved while she waited."
+  },
+  {
+   "s": "Vierhundert Leute und kein Geräusch.",
+   "e": "Four hundred people and no sound."
+  },
+  {
+   "s": "Sie hat von einem Sommer im Jahr neunundfünfzig erzählt.",
+   "e": "She talked about a summer in the year fifty-nine."
+  },
+  {
+   "s": "Sie hat gesagt: Sie war die Ältere und sie hat immer alles gewusst.",
+   "e": "She said: she was the older one and she always knew everything."
+  },
+  {
+   "s": "Sie hat gesagt: Auch wenn sie es nicht gewusst hat.",
+   "e": "She said: even when she did not know it."
+  },
+  {
+   "s": "Am Schluss sind alle hinaus auf den Friedhof.",
+   "e": "At the end everybody went out to the cemetery."
+  },
+  {
+   "s": "Der Friedhof ist gleich neben der Kirche.",
+   "e": "The cemetery is right beside the church."
+  },
+  {
+   "s": "Man geht zu Fuss und man geht langsam.",
+   "e": "You walk and you walk slowly."
+  },
+  {
+   "s": "Die Urne kommt in das Grab von Walter.",
+   "e": "The urn goes into Walter's grave."
+  },
+  {
+   "s": "Das Grab, wo ich vor zwei Wochen die Blumen gegossen habe.",
+   "e": "The grave where I watered the flowers two weeks ago."
+  },
+  {
+   "s": "Der Platz auf dem Stein ist jetzt nicht mehr leer.",
+   "e": "The space on the stone is not empty any more."
+  },
+  {
+   "s": "Der Name kommt später, das macht ein Steinmetz.",
+   "e": "The name comes later, a stonemason does that."
+  },
+  {
+   "s": "Es hat ungefähr zehn Minuten gedauert.",
+   "e": "It took about ten minutes."
+  },
+  {
+   "s": "Es hat geregnet und niemand hat einen Schirm aufgemacht.",
+   "e": "It rained and nobody opened an umbrella."
+  },
+  {
+   "s": "Ich habe zwei Leute mit Schirm gesehen und beide haben ihn zugemacht.",
+   "e": "I saw two people with umbrellas and both closed them."
+  },
+  {
+   "s": "Danach gibt es das Leidmahl.",
+   "e": "Afterwards there is the Leidmahl."
+  },
+  {
+   "s": "Das ist das Essen nach einer Abdankung.",
+   "e": "That is the meal after a funeral service."
+  },
+  {
+   "s": "Man geht in ein Restaurant und man isst zusammen.",
+   "e": "You go to a restaurant and you eat together."
+  },
+  {
+   "s": "Es ist nicht traurig.",
+   "e": "It is not sad."
+  },
+  {
+   "s": "Es ist fast das Gegenteil.",
+   "e": "It is almost the opposite."
+  },
+  {
+   "s": "Die Leute reden laut und sie essen viel.",
+   "e": "People talk loudly and they eat a lot."
+  },
+  {
+   "s": "Ich bin eine Stunde geblieben.",
+   "e": "I stayed for an hour."
+  },
+  {
+   "s": "Zwei Frauen haben mich gefragt, ob ich der Nachbar bin.",
+   "e": "Two women asked me whether I was the neighbour."
+  },
+  {
+   "s": "Sie haben gesagt: Sie hat von Ihnen erzählt.",
+   "e": "They said: she talked about you."
+  },
+  {
+   "s": "Beide haben das gesagt und sie kennen sich nicht.",
+   "e": "Both of them said that and they do not know each other."
+  },
+  {
+   "s": "Ich bin um fünf gegangen und zu Fuss heim.",
+   "e": "I left at five and walked home."
+  },
+  {
+   "s": "Es war noch hell und der Regen hat aufgehört.",
+   "e": "It was still light and the rain had stopped."
+  },
+  {
+   "s": "Zu Hause bin ich vor ihrer Tür gestanden.",
+   "e": "At home I stood in front of her door."
+  },
+  {
+   "s": "Das habe ich seit dem Mittwoch jeden Tag gemacht.",
+   "e": "I had done that every day since the Wednesday."
+  },
+  {
+   "s": "Zwei Sekunden, im Vorbeigehen.",
+   "e": "Two seconds, in passing."
+  },
+  {
+   "s": "An dem Tag habe ich zum ersten Mal gemerkt, dass ich es mache.",
+   "e": "That day I noticed for the first time that I was doing it."
+  }
+ ]
+}

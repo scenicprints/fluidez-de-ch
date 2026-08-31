@@ -1,0 +1,391 @@
+{
+ "id": "p5-04",
+ "title": "Was der Arzt sagt",
+ "desc": "Understanding something you do not want to",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "leider",
+  "Arzt",
+  "können",
+  "Wort"
+ ],
+ "sn": [
+  {
+   "s": "Am Donnerstag ist der Arzt ins Zimmer gekommen.",
+   "e": "On Thursday the doctor came into the room."
+  },
+  {
+   "s": "Ich war zufällig da.",
+   "e": "I happened to be there."
+  },
+  {
+   "s": "Er hat mich angeschaut und er hat Rosmarie angeschaut.",
+   "e": "He looked at me and he looked at Rosmarie."
+  },
+  {
+   "s": "Er hat gefragt: Soll ich später kommen?",
+   "e": "He asked: shall I come back later?"
+  },
+  {
+   "s": "Rosmarie hat gesagt: Nein. Er kann bleiben.",
+   "e": "Rosmarie said: no. He can stay."
+  },
+  {
+   "s": "Das war eine Entscheidung von ihr und ich habe sie erst später verstanden.",
+   "e": "That was a decision of hers and I only understood it later."
+  },
+  {
+   "s": "Der Arzt ist jung.",
+   "e": "The doctor is young."
+  },
+  {
+   "s": "Er ist jünger als ich.",
+   "e": "He is younger than I am."
+  },
+  {
+   "s": "Er hat sich hingesetzt, bevor er geredet hat.",
+   "e": "He sat down before he spoke."
+  },
+  {
+   "s": "Das machen sie hier alle.",
+   "e": "They all do that here."
+  },
+  {
+   "s": "Wer im Stehen redet, sagt eine kleine Sache.",
+   "e": "Whoever talks standing up is saying a small thing."
+  },
+  {
+   "s": "Wer sich hinsetzt, sagt eine grosse.",
+   "e": "Whoever sits down is saying a big one."
+  },
+  {
+   "s": "Er hat mit den Wörtern angefangen, die man erklären kann.",
+   "e": "He started with the words that can be explained."
+  },
+  {
+   "s": "Er hat gesagt: Wir haben eine Untersuchung gemacht.",
+   "e": "He said: we have done an examination."
+  },
+  {
+   "s": "Eine Untersuchung ist, wenn man den Körper anschaut und misst.",
+   "e": "An examination is when the body is looked at and measured."
+  },
+  {
+   "s": "Er hat gesagt: Das Herz ist schwach.",
+   "e": "He said: the heart is weak."
+  },
+  {
+   "s": "Er hat gesagt: Es ist seit längerem schwach.",
+   "e": "He said: it has been weak for some time."
+  },
+  {
+   "s": "Er hat gesagt: Am Sonntag ist es zu wenig geworden.",
+   "e": "He said: on Sunday it became too little."
+  },
+  {
+   "s": "Dann hat er einen Satz gesagt, den ich ganz verstanden habe.",
+   "e": "Then he said a sentence that I understood completely."
+  },
+  {
+   "s": "Er hat gesagt: Es wird nicht mehr besser.",
+   "e": "He said: it will not get better again."
+  },
+  {
+   "s": "Fünf Wörter.",
+   "e": "Five words."
+  },
+  {
+   "s": "Kein einziges davon war schwierig.",
+   "e": "Not a single one of them was difficult."
+  },
+  {
+   "s": "Ich habe an dem Nachmittag im Büro ein Wort nachgeschaut.",
+   "e": "That afternoon in the office I had looked up a word."
+  },
+  {
+   "s": "Ich habe zehn Minuten gebraucht für einen Satz über eine Rechnung.",
+   "e": "I needed ten minutes for a sentence about an invoice."
+  },
+  {
+   "s": "Und hier war jedes Wort einfach.",
+   "e": "And here every word was easy."
+  },
+  {
+   "s": "Das ist mir an dem Tag zum ersten Mal passiert.",
+   "e": "That happened to me for the first time that day."
+  },
+  {
+   "s": "Ich habe alles verstanden und ich wollte weniger verstehen.",
+   "e": "I understood everything and I wanted to understand less."
+  },
+  {
+   "s": "Er hat viel im Passiv geredet.",
+   "e": "He talked a lot in the passive."
+  },
+  {
+   "s": "Das Passiv ist, wenn man nicht sagt, wer etwas macht.",
+   "e": "The passive is when you do not say who does something."
+  },
+  {
+   "s": "Es wird gemacht. Es wird gemessen. Es wird kontrolliert.",
+   "e": "It is done. It is measured. It is checked."
+  },
+  {
+   "s": "Man nimmt werden und das Verb ans Ende.",
+   "e": "You take werden and the verb at the end."
+  },
+  {
+   "s": "Sie wird jeden Tag untersucht.",
+   "e": "She is examined every day."
+  },
+  {
+   "s": "Das Herz wird kontrolliert.",
+   "e": "The heart is monitored."
+  },
+  {
+   "s": "Die Medikamente werden angepasst.",
+   "e": "The medication is adjusted."
+  },
+  {
+   "s": "In diesen Sätzen kommt niemand vor.",
+   "e": "In those sentences nobody appears."
+  },
+  {
+   "s": "Das ist zuerst kalt.",
+   "e": "At first that is cold."
+  },
+  {
+   "s": "Später habe ich gemerkt, warum sie so reden.",
+   "e": "Later I noticed why they talk like that."
+  },
+  {
+   "s": "Ein Arzt darf nicht sagen: Ich mache das schon.",
+   "e": "A doctor may not say: I will sort it out."
+  },
+  {
+   "s": "Er kann nur sagen, was gemacht wird.",
+   "e": "He can only say what is being done."
+  },
+  {
+   "s": "Das Passiv ist hier nicht Kälte.",
+   "e": "The passive here is not coldness."
+  },
+  {
+   "s": "Es ist Ehrlichkeit.",
+   "e": "It is honesty."
+  },
+  {
+   "s": "Dann hat er das Wort leider gebraucht.",
+   "e": "Then he used the word leider."
+  },
+  {
+   "s": "Leider heisst: es tut mir leid, und es ist trotzdem so.",
+   "e": "Leider means: I am sorry, and it is so anyway."
+  },
+  {
+   "s": "Es steht hier vor der schlechten Nachricht.",
+   "e": "It comes here before the bad news."
+  },
+  {
+   "s": "Leider können wir nichts mehr machen.",
+   "e": "Unfortunately we can do nothing more."
+  },
+  {
+   "s": "Leider ist es zu spät für eine Operation.",
+   "e": "Unfortunately it is too late for an operation."
+  },
+  {
+   "s": "Wenn ein Schweizer leider sagt, kommt danach die Wahrheit.",
+   "e": "When a Swiss person says leider, the truth comes after it."
+  },
+  {
+   "s": "Rosmarie hat eine einzige Frage gestellt.",
+   "e": "Rosmarie asked a single question."
+  },
+  {
+   "s": "Sie hat gefragt: Wie lange noch?",
+   "e": "She asked: how much longer?"
+  },
+  {
+   "s": "Sie hat es ruhig gefragt.",
+   "e": "She asked it calmly."
+  },
+  {
+   "s": "Sie hat es gefragt, wie man nach dem Zug fragt.",
+   "e": "She asked it the way you ask about a train."
+  },
+  {
+   "s": "Der Arzt hat nicht ausgewichen.",
+   "e": "The doctor did not dodge."
+  },
+  {
+   "s": "Er hat gesagt: Das weiss ich nicht genau.",
+   "e": "He said: I do not know exactly."
+  },
+  {
+   "s": "Er hat gesagt: Wochen. Vielleicht Monate.",
+   "e": "He said: weeks. Maybe months."
+  },
+  {
+   "s": "Er hat gesagt: Es kann auch schnell gehen.",
+   "e": "He said: it can also go quickly."
+  },
+  {
+   "s": "Drei Sätze und alle drei waren wahr.",
+   "e": "Three sentences and all three were true."
+  },
+  {
+   "s": "Zu Hause sagt man das nicht beim ersten Besuch.",
+   "e": "At home you do not say that on the first visit."
+  },
+  {
+   "s": "Zu Hause redet man zuerst zwei Wochen um alles herum.",
+   "e": "At home you talk around everything for two weeks first."
+  },
+  {
+   "s": "Man sagt: Wir schauen mal.",
+   "e": "You say: we will see."
+  },
+  {
+   "s": "Man sagt: Es gibt noch Möglichkeiten.",
+   "e": "You say: there are still possibilities."
+  },
+  {
+   "s": "Hier bekommt man die Wahrheit am Donnerstag um vier.",
+   "e": "Here you get the truth on Thursday at four."
+  },
+  {
+   "s": "Ich habe gedacht, dass das hart ist.",
+   "e": "I thought that was hard."
+  },
+  {
+   "s": "Rosmarie hat es anders gesehen.",
+   "e": "Rosmarie saw it differently."
+  },
+  {
+   "s": "Sie hat nach dem Arzt gesagt: Gut, dass er es sagt.",
+   "e": "After the doctor she said: good that he says it."
+  },
+  {
+   "s": "Sie hat gesagt: Sonst muss ich raten.",
+   "e": "She said: otherwise I have to guess."
+  },
+  {
+   "s": "Sie hat gesagt: Raten ist schlimmer.",
+   "e": "She said: guessing is worse."
+  },
+  {
+   "s": "Der Arzt hat gefragt, ob sie noch etwas wissen will.",
+   "e": "The doctor asked whether she wanted to know anything else."
+  },
+  {
+   "s": "Über Geld hat er nichts gesagt und danach hat auch niemand gefragt.",
+   "e": "He said nothing about money and afterwards nobody asked either."
+  },
+  {
+   "s": "Ich habe eine Sekunde an die Franchise gedacht und mich sofort dafür geschämt.",
+   "e": "For a second I thought about the excess and was immediately ashamed of it."
+  },
+  {
+   "s": "Sie hat gefragt, ob sie noch nach Hause kann.",
+   "e": "She asked whether she could still go home."
+  },
+  {
+   "s": "Er hat gesagt: Wahrscheinlich nicht mehr.",
+   "e": "He said: probably not any more."
+  },
+  {
+   "s": "Sie hat genickt.",
+   "e": "She nodded."
+  },
+  {
+   "s": "Sie hat gesagt: Dann muss ich etwas regeln.",
+   "e": "She said: then I have to sort something out."
+  },
+  {
+   "s": "Das war der ganze Rest von dem Gespräch.",
+   "e": "That was the whole rest of the conversation."
+  },
+  {
+   "s": "Der Arzt ist aufgestanden und hat ihr die Hand gegeben.",
+   "e": "The doctor stood up and gave her his hand."
+  },
+  {
+   "s": "Er hat auch mir die Hand gegeben.",
+   "e": "He gave me his hand as well."
+  },
+  {
+   "s": "Er hat gesagt: Kommen Sie weiter am Abend. Das ist gut für sie.",
+   "e": "He said: keep coming in the evening. That is good for her."
+  },
+  {
+   "s": "Dann ist er ins nächste Zimmer.",
+   "e": "Then he went into the next room."
+  },
+  {
+   "s": "Ich bin danach im Gang gestanden.",
+   "e": "Afterwards I stood in the corridor."
+  },
+  {
+   "s": "Ich habe an dem Fenster gestanden und auf den Parkplatz geschaut.",
+   "e": "I stood at the window and looked at the car park."
+  },
+  {
+   "s": "Unten sind Leute ein- und ausgestiegen.",
+   "e": "People were getting in and out of cars below."
+  },
+  {
+   "s": "Es ist mir vorgekommen, als ob draussen etwas anderes läuft.",
+   "e": "It seemed to me as if something different was going on outside."
+  },
+  {
+   "s": "Nach zehn Minuten bin ich zurück ins Zimmer.",
+   "e": "After ten minutes I went back into the room."
+  },
+  {
+   "s": "Rosmarie hat die Zeitung gelesen.",
+   "e": "Rosmarie was reading the newspaper."
+  },
+  {
+   "s": "Sie hat gesagt: Der Nebel geht am Wochenende weg.",
+   "e": "She said: the fog will go at the weekend."
+  },
+  {
+   "s": "Sie hat weitergelesen.",
+   "e": "She went on reading."
+  },
+  {
+   "s": "Und ich habe gemerkt, dass jetzt ich derjenige bin, der nicht reden kann.",
+   "e": "And I noticed that now I was the one who could not talk."
+  },
+  {
+   "s": "Sie hat es zwei Tage vor mir gewusst.",
+   "e": "She had known it two days before me."
+  },
+  {
+   "s": "Sie hat den Arzt am Dienstag schon gehört.",
+   "e": "She had already heard the doctor on Tuesday."
+  },
+  {
+   "s": "Sie hat ihn am Donnerstag noch einmal kommen lassen.",
+   "e": "She had him come again on Thursday."
+  },
+  {
+   "s": "Damit ich dabei bin.",
+   "e": "So that I would be there."
+  },
+  {
+   "s": "Sie hat mir die Nachricht nicht selber sagen wollen.",
+   "e": "She did not want to tell me the news herself."
+  },
+  {
+   "s": "Sie hat es so eingerichtet, dass ein Arzt es macht.",
+   "e": "She arranged it so that a doctor did it."
+  },
+  {
+   "s": "So etwas hat noch nie jemand für mich gemacht.",
+   "e": "Nobody has ever done anything like that for me."
+  }
+ ]
+}

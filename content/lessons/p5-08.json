@@ -1,0 +1,356 @@
+{
+ "id": "p5-08",
+ "title": "Herr Zemp klopft",
+ "desc": "The Hauswart at your door",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Mütze"
+ ],
+ "sn": [
+  {
+   "s": "Am Donnerstagabend hat es geklopft.",
+   "e": "On Thursday evening there was a knock."
+  },
+  {
+   "s": "Zweimal, nicht laut.",
+   "e": "Twice, not loudly."
+  },
+  {
+   "s": "Genau so, wie ich vor drei Wochen geklopft habe.",
+   "e": "Exactly the way I had knocked three weeks before."
+  },
+  {
+   "s": "Vor der Tür ist Ruedi Zemp gestanden.",
+   "e": "Ruedi Zemp was standing in front of the door."
+  },
+  {
+   "s": "Er hat die Mütze in der Hand gehabt.",
+   "e": "He was holding his cap in his hand."
+  },
+  {
+   "s": "Das habe ich zuerst gesehen.",
+   "e": "That was the first thing I saw."
+  },
+  {
+   "s": "Ich habe ihn zwei Jahre lang nie ohne Mütze gesehen.",
+   "e": "In two years I had never seen him without his cap."
+  },
+  {
+   "s": "Er trägt sie im Keller und im Regen und im Juli.",
+   "e": "He wears it in the cellar and in the rain and in July."
+  },
+  {
+   "s": "Ich habe gesagt: Guten Abend, Herr Zemp.",
+   "e": "I said: good evening, Herr Zemp."
+  },
+  {
+   "s": "Er hat gesagt: Guten Abend.",
+   "e": "He said: good evening."
+  },
+  {
+   "s": "Dann ist es still gewesen.",
+   "e": "Then it was quiet."
+  },
+  {
+   "s": "Er ist im Türrahmen gestanden.",
+   "e": "He stood in the doorway."
+  },
+  {
+   "s": "Der Türrahmen ist das Holz um die Tür herum.",
+   "e": "The Türrahmen is the wood around the door."
+  },
+  {
+   "s": "Man steht dort, wenn man nicht hineingeht und nicht geht.",
+   "e": "You stand there when you are not coming in and not leaving."
+  },
+  {
+   "s": "Er ist sehr lange dort gestanden.",
+   "e": "He stood there for a very long time."
+  },
+  {
+   "s": "Ich habe gefragt, ob er hereinkommen will.",
+   "e": "I asked whether he wanted to come in."
+  },
+  {
+   "s": "Er hat gesagt: Nein, nein.",
+   "e": "He said: no, no."
+  },
+  {
+   "s": "Zweimal nein heisst hier nein.",
+   "e": "Twice no means no here."
+  },
+  {
+   "s": "Einmal nein heisst manchmal etwas anderes.",
+   "e": "Once no sometimes means something else."
+  },
+  {
+   "s": "Zweimal nein ist die Antwort.",
+   "e": "Twice no is the answer."
+  },
+  {
+   "s": "Er hat die Mütze in beiden Händen gehalten.",
+   "e": "He held the cap in both hands."
+  },
+  {
+   "s": "Er hat sie langsam gedreht.",
+   "e": "He turned it slowly."
+  },
+  {
+   "s": "Das machen die Männer hier, wenn sie nicht reden können.",
+   "e": "That is what the men here do when they cannot talk."
+  },
+  {
+   "s": "Sie machen etwas mit den Händen.",
+   "e": "They do something with their hands."
+  },
+  {
+   "s": "Sie halten ein Werkzeug oder eine Mütze oder ein Glas.",
+   "e": "They hold a tool or a cap or a glass."
+  },
+  {
+   "s": "Dann geht es besser.",
+   "e": "Then it goes better."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss es schon.",
+   "e": "I said: I already know."
+  },
+  {
+   "s": "Ich habe gesagt: Ihre Schwester hat mir geschrieben.",
+   "e": "I said: her sister wrote to me."
+  },
+  {
+   "s": "Er hat genickt.",
+   "e": "He nodded."
+  },
+  {
+   "s": "Er hat gesagt: Ja.",
+   "e": "He said: yes."
+  },
+  {
+   "s": "Und dann wieder nichts.",
+   "e": "And then nothing again."
+  },
+  {
+   "s": "Ich habe in diesen Sekunden etwas verstanden.",
+   "e": "In those seconds I understood something."
+  },
+  {
+   "s": "Er ist nicht gekommen, um es mir zu sagen.",
+   "e": "He had not come to tell me."
+  },
+  {
+   "s": "Er hat gewusst, dass ich es weiss.",
+   "e": "He knew that I knew."
+  },
+  {
+   "s": "Er ist aus einem anderen Grund gekommen.",
+   "e": "He had come for another reason."
+  },
+  {
+   "s": "Er hat den Grund nicht sagen können.",
+   "e": "He could not say the reason."
+  },
+  {
+   "s": "Nach einer Minute hat er einen Satz gesagt.",
+   "e": "After a minute he said one sentence."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe sie am Sonntag hinuntergetragen.",
+   "e": "He said: I carried her down on Sunday."
+  },
+  {
+   "s": "Er hat auf die Treppe geschaut, während er das gesagt hat.",
+   "e": "He looked at the stairs while he said it."
+  },
+  {
+   "s": "Nicht zu mir.",
+   "e": "Not at me."
+  },
+  {
+   "s": "Die Treppe in diesem Haus ist eng und macht zwei Kurven.",
+   "e": "The staircase in this building is narrow and turns twice."
+  },
+  {
+   "s": "Sie ist von 1904 und niemand hat damals an so etwas gedacht.",
+   "e": "It is from 1904 and nobody thought about anything like that back then."
+  },
+  {
+   "s": "Zwei Männer und eine Trage gehen dort nicht um die Kurve.",
+   "e": "Two men and a stretcher do not get round the corner there."
+  },
+  {
+   "s": "Also hat sie einer getragen.",
+   "e": "So one man carried her."
+  },
+  {
+   "s": "Um vier Uhr in der Nacht.",
+   "e": "At four in the morning."
+  },
+  {
+   "s": "Er ist sechzig und sie war achtundsiebzig.",
+   "e": "He is sixty and she was seventy-eight."
+  },
+  {
+   "s": "Ich habe nichts gesagt.",
+   "e": "I said nothing."
+  },
+  {
+   "s": "Ich hätte fast danke gesagt und das wäre falsch gewesen.",
+   "e": "I nearly said thank you and that would have been wrong."
+  },
+  {
+   "s": "Danke ist für etwas, das jemand für mich macht.",
+   "e": "Thank you is for something somebody does for me."
+  },
+  {
+   "s": "Das war nicht für mich.",
+   "e": "That was not for me."
+  },
+  {
+   "s": "Ich habe gesagt: Das war schwer.",
+   "e": "I said: that was hard."
+  },
+  {
+   "s": "Er hat gesagt: Es ist gegangen.",
+   "e": "He said: it was all right."
+  },
+  {
+   "s": "Es ist gegangen ist hier die Antwort auf alles.",
+   "e": "Es ist gegangen is the answer to everything here."
+  },
+  {
+   "s": "Es heisst nicht, dass es leicht war.",
+   "e": "It does not mean that it was easy."
+  },
+  {
+   "s": "Es heisst, dass man es gemacht hat.",
+   "e": "It means that you did it."
+  },
+  {
+   "s": "Dann hat er die Mütze wieder aufgesetzt.",
+   "e": "Then he put the cap back on."
+  },
+  {
+   "s": "Damit war das Gespräch fertig und wir haben es beide gewusst.",
+   "e": "With that the conversation was over and we both knew it."
+  },
+  {
+   "s": "Er hat noch etwas Praktisches gesagt, weil er gehen wollte.",
+   "e": "He said one more practical thing, because he wanted to go."
+  },
+  {
+   "s": "Er hat gesagt: Die Abdankung ist am Dienstag um zwei.",
+   "e": "He said: the funeral service is on Tuesday at two."
+  },
+  {
+   "s": "Er hat gesagt: In der Kirche oben.",
+   "e": "He said: in the church up there."
+  },
+  {
+   "s": "Er hat gesagt: Die Schwester regelt alles.",
+   "e": "He said: the sister is sorting everything out."
+  },
+  {
+   "s": "Dann hat er gesagt: Die Wohnung wird nächste Woche geräumt.",
+   "e": "Then he said: the flat will be cleared next week."
+  },
+  {
+   "s": "Er hat gesagt: Am Donnerstag holt eine Firma die Möbel ab.",
+   "e": "He said: on Thursday a firm is collecting the furniture."
+  },
+  {
+   "s": "Er hat gesagt: Wenn Sie helfen wollen, sagen Sie es mir.",
+   "e": "He said: if you want to help, tell me."
+  },
+  {
+   "s": "Er hat es sehr schnell gesagt und ist die Treppe hinunter.",
+   "e": "He said it very quickly and went down the stairs."
+  },
+  {
+   "s": "Er hat die Antwort nicht abgewartet.",
+   "e": "He did not wait for the answer."
+  },
+  {
+   "s": "Das war Absicht.",
+   "e": "That was on purpose."
+  },
+  {
+   "s": "Man fragt hier so, dass der andere nicht sofort antworten muss.",
+   "e": "Here you ask in a way that means the other person does not have to answer at once."
+  },
+  {
+   "s": "Am Freitag habe ich ihm im Keller gesagt, dass ich helfe.",
+   "e": "On Friday I told him in the cellar that I would help."
+  },
+  {
+   "s": "Er hat genickt und weitergearbeitet.",
+   "e": "He nodded and went on working."
+  },
+  {
+   "s": "Er hat gesagt: Am Donnerstag um acht.",
+   "e": "He said: Thursday at eight."
+  },
+  {
+   "s": "Dann hat er noch etwas gesagt, ohne aufzuschauen.",
+   "e": "Then he said one more thing, without looking up."
+  },
+  {
+   "s": "Er hat gesagt: Sie hat oft von Ihnen geredet.",
+   "e": "He said: she often talked about you."
+  },
+  {
+   "s": "Ich habe gefragt: Was hat sie gesagt?",
+   "e": "I asked: what did she say?"
+  },
+  {
+   "s": "Er hat gesagt: Dass Sie am Anfang alles falsch gemacht haben.",
+   "e": "He said: that you did everything wrong at the beginning."
+  },
+  {
+   "s": "Er hat gesagt: Und dass Sie es dann gelernt haben.",
+   "e": "He said: and that you then learnt it."
+  },
+  {
+   "s": "Dann hat er den Besen genommen.",
+   "e": "Then he picked up the broom."
+  },
+  {
+   "s": "Ich bin die Treppe hinauf und ich habe an dem Abend nichts gegessen.",
+   "e": "I went up the stairs and I ate nothing that evening."
+  },
+  {
+   "s": "Ruedi Zemp siezt mich immer noch.",
+   "e": "Ruedi Zemp still says Sie to me."
+  },
+  {
+   "s": "Er hat mich in zwei Jahren nie geduzt.",
+   "e": "In two years he has never said du to me."
+  },
+  {
+   "s": "Ich habe früher gedacht, dass das Distanz ist.",
+   "e": "I used to think that was distance."
+  },
+  {
+   "s": "An diesem Abend ist ein Mann von sechzig in meinem Türrahmen gestanden.",
+   "e": "That evening a man of sixty stood in my doorway."
+  },
+  {
+   "s": "Er hat die Mütze in der Hand gehabt und vier Minuten gebraucht für einen Satz.",
+   "e": "He had his cap in his hand and needed four minutes for one sentence."
+  },
+  {
+   "s": "Das war keine Distanz.",
+   "e": "That was not distance."
+  },
+  {
+   "s": "Das Sie ist einfach das Wort, das er hat.",
+   "e": "The Sie is simply the word he has."
+  },
+  {
+   "s": "Alles andere hat er trotzdem gesagt.",
+   "e": "Everything else he said anyway."
+  }
+ ]
+}

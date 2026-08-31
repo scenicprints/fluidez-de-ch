@@ -1,0 +1,380 @@
+{
+ "id": "p5-06",
+ "title": "Sie bittet dich um etwas",
+ "desc": "A favour, from somebody who does not ask",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Sonntag"
+ ],
+ "sn": [
+  {
+   "s": "Am elften Abend hat sie mich um etwas gebeten.",
+   "e": "On the eleventh evening she asked me for something."
+  },
+  {
+   "s": "Es hat vier Minuten gedauert.",
+   "e": "It took four minutes."
+  },
+  {
+   "s": "Danach hat es mich zehn gekostet.",
+   "e": "Afterwards it cost me ten."
+  },
+  {
+   "s": "Das ist das Verhältnis bei diesen Leuten.",
+   "e": "That is the ratio with these people."
+  },
+  {
+   "s": "Sie fragen lange und sie brauchen wenig.",
+   "e": "They ask for a long time and they need little."
+  },
+  {
+   "s": "Bitten heisst: jemanden um etwas fragen, das er machen soll.",
+   "e": "Bitten means: to ask somebody for something you want them to do."
+  },
+  {
+   "s": "Ich bitte dich um Hilfe.",
+   "e": "I am asking you for help."
+  },
+  {
+   "s": "Sie hat mich um etwas gebeten.",
+   "e": "She asked me for something."
+  },
+  {
+   "s": "Es ist nicht das gleiche Wort wie fragen.",
+   "e": "It is not the same word as fragen."
+  },
+  {
+   "s": "Fragen will eine Antwort.",
+   "e": "Fragen wants an answer."
+  },
+  {
+   "s": "Bitten will, dass jemand etwas macht.",
+   "e": "Bitten wants somebody to do something."
+  },
+  {
+   "s": "Sie hat mit dem Wetter angefangen.",
+   "e": "She started with the weather."
+  },
+  {
+   "s": "Dann ist sie zum Sonntag gekommen.",
+   "e": "Then she got to Sunday."
+  },
+  {
+   "s": "Sie hat gesagt: Am Sonntag gehe ich immer auf den Friedhof.",
+   "e": "She said: on Sunday I always go to the cemetery."
+  },
+  {
+   "s": "Das habe ich gewusst.",
+   "e": "I knew that."
+  },
+  {
+   "s": "Jeden Sonntag nach der Kirche, mit Wasser und Blumen.",
+   "e": "Every Sunday after church, with water and flowers."
+  },
+  {
+   "s": "Sie hat gesagt: Jetzt geht das nicht.",
+   "e": "She said: that does not work now."
+  },
+  {
+   "s": "Dann war eine Pause.",
+   "e": "Then there was a pause."
+  },
+  {
+   "s": "Dann hat sie gesagt: Es ist nicht wichtig.",
+   "e": "Then she said: it is not important."
+  },
+  {
+   "s": "Das ist der Satz, mit dem hier eine Bitte anfängt.",
+   "e": "That is the sentence a request starts with here."
+  },
+  {
+   "s": "Wenn jemand sagt, dass es nicht wichtig ist, dann kommt etwas Wichtiges.",
+   "e": "When somebody says that it is not important, something important is coming."
+  },
+  {
+   "s": "Dann hat sie gesagt: Du hast sicher keine Zeit.",
+   "e": "Then she said: you certainly have no time."
+  },
+  {
+   "s": "Das ist der zweite Satz.",
+   "e": "That is the second sentence."
+  },
+  {
+   "s": "Man macht dem anderen zuerst einen Weg hinaus.",
+   "e": "First you give the other person a way out."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe Zeit.",
+   "e": "I said: I have time."
+  },
+  {
+   "s": "Sie hat gesagt: Am Sonntag willst du sicher etwas anderes machen.",
+   "e": "She said: on Sunday you will certainly want to do something else."
+  },
+  {
+   "s": "Ich habe gesagt: Nein.",
+   "e": "I said: no."
+  },
+  {
+   "s": "Und dann hat sie es gesagt.",
+   "e": "And then she said it."
+  },
+  {
+   "s": "Sie hat gesagt: Könntest du am Sonntag hingehen?",
+   "e": "She said: could you go there on Sunday?"
+  },
+  {
+   "s": "Könntest du.",
+   "e": "Could you."
+  },
+  {
+   "s": "Das ist eine neue Form und sie ist genau für so etwas.",
+   "e": "That is a new form and it is exactly for something like this."
+  },
+  {
+   "s": "Man nimmt sie, wenn man höflich sein will.",
+   "e": "You take it when you want to be polite."
+  },
+  {
+   "s": "Kannst du das machen? ist normal.",
+   "e": "Kannst du das machen? is normal."
+  },
+  {
+   "s": "Könntest du das machen? ist weicher.",
+   "e": "Könntest du das machen? is softer."
+  },
+  {
+   "s": "Es lässt dem anderen mehr Platz für ein Nein.",
+   "e": "It leaves the other person more room for a no."
+  },
+  {
+   "s": "Die Formen sind nicht viele und man braucht sie jeden Tag.",
+   "e": "The forms are not many and you need them every day."
+  },
+  {
+   "s": "Ich könnte. Du könntest. Sie könnte.",
+   "e": "I could. You could. She could."
+  },
+  {
+   "s": "Ich hätte. Du hättest. Er hätte.",
+   "e": "I would have. You would have. He would have."
+  },
+  {
+   "s": "Ich wäre. Du wärst. Es wäre.",
+   "e": "I would be. You would be. It would be."
+  },
+  {
+   "s": "Ich würde. Du würdest. Wir würden.",
+   "e": "I would. You would. We would."
+  },
+  {
+   "s": "Vier Verben und der Rest geht mit würde.",
+   "e": "Four verbs and the rest goes with würde."
+  },
+  {
+   "s": "Würdest du mir helfen?",
+   "e": "Would you help me?"
+  },
+  {
+   "s": "Würden Sie das bitte kontrollieren?",
+   "e": "Would you check that, please?"
+  },
+  {
+   "s": "Ich würde gern etwas fragen.",
+   "e": "I would like to ask something."
+  },
+  {
+   "s": "Man hört diese Formen hier den ganzen Tag.",
+   "e": "You hear these forms here all day long."
+  },
+  {
+   "s": "Am Schalter, im Büro, an der Tür.",
+   "e": "At the counter, in the office, at the door."
+  },
+  {
+   "s": "Ich habe sie zwei Jahre gehört und nie gebraucht.",
+   "e": "I heard them for two years and never used them."
+  },
+  {
+   "s": "Rosmarie hat weitergeredet.",
+   "e": "Rosmarie went on."
+  },
+  {
+   "s": "Sie hat gesagt: Es hat eine Kanne beim Brunnen.",
+   "e": "She said: there is a watering can at the fountain."
+  },
+  {
+   "s": "Sie hat gesagt: Das Grab ist in der dritten Reihe.",
+   "e": "She said: the grave is in the third row."
+  },
+  {
+   "s": "Sie hat gesagt: Man sieht es sofort, es hat einen kleinen Stein.",
+   "e": "She said: you see it straight away, it has a small stone."
+  },
+  {
+   "s": "Sie hat gesagt: Die Blumen musst du nicht kaufen.",
+   "e": "She said: you do not have to buy the flowers."
+  },
+  {
+   "s": "Sie hat gesagt: Wasser reicht.",
+   "e": "She said: water is enough."
+  },
+  {
+   "s": "Jeder Satz war eine Erleichterung für mich.",
+   "e": "Every sentence was a relief for me."
+  },
+  {
+   "s": "Sie hat mir die ganze Arbeit weggenommen, während sie darum gebeten hat.",
+   "e": "She was taking the whole job away from me while she was asking for it."
+  },
+  {
+   "s": "Dann hat sie noch etwas gesagt.",
+   "e": "Then she said one more thing."
+  },
+  {
+   "s": "Sie hat gesagt: Und sag ihm Grüezi von mir.",
+   "e": "She said: and say Grüezi to him from me."
+  },
+  {
+   "s": "Sie hat es ganz normal gesagt.",
+   "e": "She said it completely normally."
+  },
+  {
+   "s": "Wie man einen Gruss an einen Nachbarn gibt.",
+   "e": "The way you send a greeting to a neighbour."
+  },
+  {
+   "s": "Ich habe gesagt: Mache ich.",
+   "e": "I said: I will."
+  },
+  {
+   "s": "Mehr habe ich nicht gesagt, weil mehr nicht gegangen ist.",
+   "e": "I did not say more, because more was not possible."
+  },
+  {
+   "s": "Am Sonntag hat es geregnet.",
+   "e": "On Sunday it rained."
+  },
+  {
+   "s": "Der Friedhof ist gross und ganz gerade.",
+   "e": "The cemetery is big and completely straight."
+  },
+  {
+   "s": "Alle Wege gehen im rechten Winkel.",
+   "e": "All the paths go at right angles."
+  },
+  {
+   "s": "Es ist der sauberste Ort in der Stadt.",
+   "e": "It is the cleanest place in the town."
+  },
+  {
+   "s": "Ich habe das Grab in der dritten Reihe sofort gefunden.",
+   "e": "I found the grave in the third row straight away."
+  },
+  {
+   "s": "Auf dem Stein stehen zwei Namen.",
+   "e": "There are two names on the stone."
+  },
+  {
+   "s": "Der obere ist Walter und darunter ist Platz.",
+   "e": "The upper one is Walter and below it there is room."
+  },
+  {
+   "s": "Der Platz ist nicht leer.",
+   "e": "The space is not empty."
+  },
+  {
+   "s": "Er ist für jemanden.",
+   "e": "It is for somebody."
+  },
+  {
+   "s": "Das habe ich vorher nie so gesehen.",
+   "e": "I had never seen it like that before."
+  },
+  {
+   "s": "Die Kanne war beim Brunnen, genau wie sie gesagt hat.",
+   "e": "The watering can was at the fountain, exactly as she had said."
+  },
+  {
+   "s": "Es hat zwanzig Kannen und alle sind gleich.",
+   "e": "There are twenty cans and they are all the same."
+  },
+  {
+   "s": "Man nimmt eine, man macht sie voll, man stellt sie zurück.",
+   "e": "You take one, you fill it, you put it back."
+  },
+  {
+   "s": "Niemand kontrolliert das und alle machen es.",
+   "e": "Nobody checks it and everybody does it."
+  },
+  {
+   "s": "Ich habe das Wasser auf die Blumen von jemand anderem gegossen.",
+   "e": "I poured the water onto somebody else's flowers."
+  },
+  {
+   "s": "Sie waren vom letzten Sonntag und sie waren fast trocken.",
+   "e": "They were from last Sunday and they were almost dry."
+  },
+  {
+   "s": "Vom letzten Sonntag, als sie noch selber gegangen ist.",
+   "e": "From last Sunday, when she still went herself."
+  },
+  {
+   "s": "Ich bin dann eine Minute gestanden.",
+   "e": "Then I stood there for a minute."
+  },
+  {
+   "s": "Es war niemand in der Nähe.",
+   "e": "There was nobody nearby."
+  },
+  {
+   "s": "Ich habe mich trotzdem sehr dumm gefühlt.",
+   "e": "All the same I felt very stupid."
+  },
+  {
+   "s": "Und dann habe ich es gemacht.",
+   "e": "And then I did it."
+  },
+  {
+   "s": "Ich habe leise gesagt: Grüezi. Von der Rosmarie.",
+   "e": "I said quietly: Grüezi. From Rosmarie."
+  },
+  {
+   "s": "Ich bin danach schnell gegangen.",
+   "e": "I left quickly afterwards."
+  },
+  {
+   "s": "Am Abend habe ich es ihr gesagt.",
+   "e": "I told her about it in the evening."
+  },
+  {
+   "s": "Ich habe gesagt: Ich war dort. Die Kanne hat es gehabt.",
+   "e": "I said: I was there. The can was there."
+  },
+  {
+   "s": "Sie hat gefragt: Und die Blumen?",
+   "e": "She asked: and the flowers?"
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe sie gegossen.",
+   "e": "I said: I watered them."
+  },
+  {
+   "s": "Sie hat genickt und aus dem Fenster geschaut.",
+   "e": "She nodded and looked out of the window."
+  },
+  {
+   "s": "Sie hat gesagt: Merci.",
+   "e": "She said: merci."
+  },
+  {
+   "s": "Einmal, in der normalen Lautstärke.",
+   "e": "Once, at normal volume."
+  },
+  {
+   "s": "Und dann hat sie über die Suppe geschimpft.",
+   "e": "And then she complained about the soup."
+  }
+ ]
+}

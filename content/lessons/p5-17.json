@@ -1,0 +1,374 @@
+{
+ "id": "p5-17",
+ "title": "Aus Trauer gestritten",
+ "desc": "A fight about something else entirely",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Satz",
+  "Minute",
+  "gehen"
+ ],
+ "sn": [
+  {
+   "s": "Der Streit war wegen dem Geschirrspüler.",
+   "e": "The argument was about the dishwasher."
+  },
+  {
+   "s": "Ich schreibe das hin und es tönt schon dumm.",
+   "e": "I write that down and it already sounds stupid."
+  },
+  {
+   "s": "Es war auch dumm.",
+   "e": "It was stupid too."
+  },
+  {
+   "s": "Es hat zwanzig Minuten gedauert und ich habe geschrien.",
+   "e": "It lasted twenty minutes and I shouted."
+  },
+  {
+   "s": "Ich habe in zwei Jahren hier nie geschrien.",
+   "e": "In two years here I had never shouted."
+  },
+  {
+   "s": "Nicht einmal.",
+   "e": "Not once."
+  },
+  {
+   "s": "Man schreit hier nicht und ich habe mich daran gewöhnt.",
+   "e": "People do not shout here and I had got used to it."
+  },
+  {
+   "s": "An dem Mittwoch habe ich geschrien.",
+   "e": "On that Wednesday I shouted."
+  },
+  {
+   "s": "Sie hat die Teller falsch eingeräumt.",
+   "e": "She had put the plates in wrongly."
+  },
+  {
+   "s": "Falsch heisst: nicht so, wie ich es mache.",
+   "e": "Wrongly means: not the way I do it."
+  },
+  {
+   "s": "Die grossen unten, die kleinen oben, die Gläser hinten.",
+   "e": "The big ones at the bottom, the small ones at the top, the glasses at the back."
+  },
+  {
+   "s": "Sie macht es anders und sie hat es immer anders gemacht.",
+   "e": "She does it differently and she has always done it differently."
+  },
+  {
+   "s": "Seit dem Zusammenziehen sehe ich es jeden Tag.",
+   "e": "Since moving in together I see it every day."
+  },
+  {
+   "s": "Es hat mich vorher nie gestört.",
+   "e": "It had never bothered me before."
+  },
+  {
+   "s": "Ich habe gesagt: Warum machst du das immer so?",
+   "e": "I said: why do you always do it like that?"
+  },
+  {
+   "s": "Ich habe es nicht freundlich gesagt.",
+   "e": "I did not say it in a friendly way."
+  },
+  {
+   "s": "Sie hat gesagt: Weil es geht.",
+   "e": "She said: because it works."
+  },
+  {
+   "s": "Das war die richtige Antwort und sie hat mich wütend gemacht.",
+   "e": "That was the right answer and it made me angry."
+  },
+  {
+   "s": "Wütend ist mehr als böse.",
+   "e": "Wütend is more than angry."
+  },
+  {
+   "s": "Die Wut ist das Nomen dazu.",
+   "e": "Die Wut is the noun for it."
+  },
+  {
+   "s": "Ich habe angefangen zu reden und ich habe nicht mehr aufgehört.",
+   "e": "I started talking and I did not stop."
+  },
+  {
+   "s": "Ich habe über den Geschirrspüler geredet.",
+   "e": "I talked about the dishwasher."
+  },
+  {
+   "s": "Dann über die Schuhe im Gang.",
+   "e": "Then about the shoes in the hall."
+  },
+  {
+   "s": "Dann darüber, dass sie am Sonntag immer zu ihren Eltern will.",
+   "e": "Then about the fact that she always wants to go to her parents on Sunday."
+  },
+  {
+   "s": "Dann darüber, dass sie zu allem sofort etwas sagt.",
+   "e": "Then about the fact that she says something about everything straight away."
+  },
+  {
+   "s": "Es waren vier Themen in elf Minuten.",
+   "e": "It was four subjects in eleven minutes."
+  },
+  {
+   "s": "Alle vier waren wahr und keines war der Grund.",
+   "e": "All four were true and none of them was the reason."
+  },
+  {
+   "s": "So geht dieser Streit.",
+   "e": "That is how this argument goes."
+  },
+  {
+   "s": "Er nimmt alles, was in der Nähe liegt.",
+   "e": "It takes everything lying nearby."
+  },
+  {
+   "s": "Die Wut kommt aus einer anderen Richtung und sie braucht ein Ziel.",
+   "e": "The anger comes from another direction and it needs a target."
+  },
+  {
+   "s": "Das Ziel ist der Mensch, der da ist.",
+   "e": "The target is the person who is there."
+  },
+  {
+   "s": "Nicht der Mensch, der schuld ist.",
+   "e": "Not the person who is at fault."
+  },
+  {
+   "s": "Es gibt keinen Menschen, der schuld ist.",
+   "e": "There is no person who is at fault."
+  },
+  {
+   "s": "Genau das ist das Problem.",
+   "e": "That is exactly the problem."
+  },
+  {
+   "s": "Man kann nicht mit einem Herz streiten, das aufgehört hat.",
+   "e": "You cannot argue with a heart that has stopped."
+  },
+  {
+   "s": "Also streitet man mit dem Geschirrspüler.",
+   "e": "So you argue with the dishwasher."
+  },
+  {
+   "s": "Selina hat zuerst geantwortet.",
+   "e": "At first Selina answered."
+  },
+  {
+   "s": "Sie hat auf jedes Thema etwas gesagt.",
+   "e": "She said something to each subject."
+  },
+  {
+   "s": "Sie hat gute Antworten gegeben und das hat es schlimmer gemacht.",
+   "e": "She gave good answers and that made it worse."
+  },
+  {
+   "s": "Nach acht Minuten hat sie aufgehört zu antworten.",
+   "e": "After eight minutes she stopped answering."
+  },
+  {
+   "s": "Sie ist am Tisch gesessen und hat mich angeschaut.",
+   "e": "She sat at the table and looked at me."
+  },
+  {
+   "s": "Ich bin gestanden und ich bin lauter geworden.",
+   "e": "I was standing and I got louder."
+  },
+  {
+   "s": "Wer steht, redet lauter.",
+   "e": "Whoever is standing talks louder."
+  },
+  {
+   "s": "Das ist eine Sache vom Körper und nicht vom Kopf.",
+   "e": "That is a thing of the body and not of the head."
+  },
+  {
+   "s": "Am Schluss habe ich einen Satz gesagt, den ich nicht mehr wegnehmen kann.",
+   "e": "At the end I said a sentence I cannot take back."
+  },
+  {
+   "s": "Ich habe gesagt: Du hast sie sowieso nicht gekannt.",
+   "e": "I said: you did not know her anyway."
+  },
+  {
+   "s": "Dann war es still.",
+   "e": "Then it was quiet."
+  },
+  {
+   "s": "Ganz still.",
+   "e": "Completely quiet."
+  },
+  {
+   "s": "Sie hat sie zwölfmal getroffen.",
+   "e": "She had met her twelve times."
+  },
+  {
+   "s": "Sie hat mit ihr über Kriens geredet und über Leute von 1970.",
+   "e": "She had talked to her about Kriens and about people from 1970."
+  },
+  {
+   "s": "Sie ist an der Abdankung neben mir gesessen.",
+   "e": "She sat next to me at the funeral."
+  },
+  {
+   "s": "Sie hat den ganzen Tag meine Hand gehalten und nichts gesagt.",
+   "e": "She held my hand the whole day and said nothing."
+  },
+  {
+   "s": "Selina hat nach zehn Sekunden gesagt: Nein.",
+   "e": "After ten seconds Selina said: no."
+  },
+  {
+   "s": "Sie hat gesagt: Das stimmt.",
+   "e": "She said: that is true."
+  },
+  {
+   "s": "Sie hat gesagt: Und darum geht es nicht.",
+   "e": "She said: and that is not what this is about."
+  },
+  {
+   "s": "Das ist ihr Satz und ich habe ihn schon einmal gehört.",
+   "e": "That is her sentence and I have heard it before."
+  },
+  {
+   "s": "Im Juli, beim anderen Streit.",
+   "e": "In July, at the other argument."
+  },
+  {
+   "s": "Diesmal hat sie ihn ruhig gesagt.",
+   "e": "This time she said it calmly."
+  },
+  {
+   "s": "Sie hat gesagt: Du bist nicht wütend wegen den Tellern.",
+   "e": "She said: you are not angry about the plates."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss.",
+   "e": "I said: I know."
+  },
+  {
+   "s": "Und dann bin ich auf den Boden geschaut.",
+   "e": "And then I looked at the floor."
+  },
+  {
+   "s": "Zwanzig Minuten Streit und die Lösung ist in zwei Sätzen.",
+   "e": "Twenty minutes of arguing and the solution is in two sentences."
+  },
+  {
+   "s": "Und die zwei Sätze helfen nicht sofort.",
+   "e": "And the two sentences do not help immediately."
+  },
+  {
+   "s": "Das ist der Teil, den ich vorher nicht gewusst habe.",
+   "e": "That is the part I did not know before."
+  },
+  {
+   "s": "Man weiss, worum es geht, und es ist trotzdem nicht besser.",
+   "e": "You know what it is about, and it is still not better."
+  },
+  {
+   "s": "Wissen ist der Anfang und nicht das Ende.",
+   "e": "Knowing is the beginning and not the end."
+  },
+  {
+   "s": "Ich habe mich entschuldigt.",
+   "e": "I apologised."
+  },
+  {
+   "s": "Ich habe es richtig gemacht, weil ich es in der Zwischenzeit gelernt habe.",
+   "e": "I did it properly, because I had learnt it in the meantime."
+  },
+  {
+   "s": "Ich habe die Sache benannt.",
+   "e": "I named the thing."
+  },
+  {
+   "s": "Ich habe gesagt: Es tut mir leid, dass ich das mit ihr gesagt habe.",
+   "e": "I said: I am sorry that I said that about her."
+  },
+  {
+   "s": "Ich habe nicht gesagt: Es tut mir leid, wenn du das falsch verstanden hast.",
+   "e": "I did not say: I am sorry if you took it the wrong way."
+  },
+  {
+   "s": "Der zweite Satz ist keine Entschuldigung.",
+   "e": "The second sentence is not an apology."
+  },
+  {
+   "s": "Das habe ich letztes Jahr gelernt und es hat mich viel gekostet.",
+   "e": "I learnt that a year ago and it cost me a lot."
+  },
+  {
+   "s": "Sie hat gesagt: Ich weiss.",
+   "e": "She said: I know."
+  },
+  {
+   "s": "Sie hat gesagt: Es ist gut.",
+   "e": "She said: it is fine."
+  },
+  {
+   "s": "Und danach ist es zwei Tage nicht gut gewesen.",
+   "e": "And after that it was not fine for two days."
+  },
+  {
+   "s": "Am zweiten Abend hat sie sich neben mich gesetzt.",
+   "e": "On the second evening she sat down next to me."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe eine Frage und du musst nicht antworten.",
+   "e": "She said: I have a question and you do not have to answer."
+  },
+  {
+   "s": "Sie hat gefragt: Was hast du am meisten verloren?",
+   "e": "She asked: what have you lost most?"
+  },
+  {
+   "s": "Nicht: wie geht es dir.",
+   "e": "Not: how are you."
+  },
+  {
+   "s": "Eine Frage, auf die es eine Antwort gibt.",
+   "e": "A question that has an answer."
+  },
+  {
+   "s": "Ich habe eine Minute gebraucht.",
+   "e": "I needed a minute."
+  },
+  {
+   "s": "Dann habe ich gesagt: Es hat niemanden mehr, der mich jeden Tag sieht.",
+   "e": "Then I said: there is nobody left who sees me every day."
+  },
+  {
+   "s": "Ich habe gesagt: Du siehst mich am Abend.",
+   "e": "I said: you see me in the evening."
+  },
+  {
+   "s": "Ich habe gesagt: Sie hat mich am Morgen gesehen. Jeden Morgen.",
+   "e": "I said: she saw me in the morning. Every morning."
+  },
+  {
+   "s": "Ich habe gesagt: Sie hat gewusst, wann ich das Haus verlasse.",
+   "e": "I said: she knew when I leave the house."
+  },
+  {
+   "s": "Selina hat nichts gesagt.",
+   "e": "Selina said nothing."
+  },
+  {
+   "s": "Sie hat den Kopf an meine Schulter gelegt.",
+   "e": "She put her head on my shoulder."
+  },
+  {
+   "s": "Das war das erste Mal seit vier Wochen, dass es leichter geworden ist.",
+   "e": "That was the first time in four weeks that it got lighter."
+  },
+  {
+   "s": "Wegen einer Frage, die nicht wie geht es dir heisst.",
+   "e": "Because of a question that is not how are you."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc43",
+ "title": "Ich möchte etwas ansprechen",
+ "desc": "Twenty minutes, asked for two days in advance",
+ "setting": "A small meeting room at two o'clock, and four sentences written down the night before.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Simon",
+   "es": "Du wolltest reden?",
+   "en": "You wanted to talk?",
+   "options": [
+    {
+     "es": "Ich möchte etwas ansprechen.",
+     "en": "I would like to raise something.",
+     "verdict": "good",
+     "feedback": "The sentence it starts with. He now knows this is the thing and not small talk."
+    },
+    {
+     "es": "Es ist nichts Schlimmes.",
+     "en": "It is nothing bad.",
+     "verdict": "ok",
+     "feedback": "Kind, and it makes the next sentence harder to say."
+    },
+    {
+     "es": "Hast du kurz Zeit?",
+     "en": "Do you have a minute?",
+     "verdict": "bad",
+     "feedback": "You asked on Tuesday and he is sitting here. Start."
+    }
+   ]
+  },
+  {
+   "speaker": "Simon",
+   "es": "Wegen den Sitzungen?",
+   "en": "About the meetings?",
+   "options": [
+    {
+     "es": "Ja. Letzte Woche ist es zweimal passiert.",
+     "en": "Yes. It happened twice last week.",
+     "verdict": "good",
+     "feedback": "A number and an example. That makes it a matter and not a quarrel."
+    },
+    {
+     "es": "Ja. Du machst das immer.",
+     "en": "Yes. You always do that.",
+     "verdict": "bad",
+     "feedback": "Immer is a word about a person. He will defend himself and you will lose the point."
+    },
+    {
+     "es": "Ja, aber es ist nicht so schlimm.",
+     "en": "Yes, but it is not that bad.",
+     "verdict": "bad",
+     "feedback": "You have just taken it back. He will believe you and nothing changes."
+    }
+   ]
+  },
+  {
+   "speaker": "Simon",
+   "es": "Das tut mir leid. Ich rede zu viel, ich mache das bei allen.",
+   "en": "I am sorry. I talk too much, I do it to everybody.",
+   "options": [
+    {
+     "es": "Bei mir öfter.",
+     "en": "With me more often.",
+     "verdict": "good",
+     "feedback": "Sachlich and true. He says it himself thirty seconds later, and it is better if he does."
+    },
+    {
+     "es": "Ist schon gut.",
+     "en": "It is fine.",
+     "verdict": "ok",
+     "feedback": "Then it was not worth two days of not sleeping."
+    },
+    {
+     "es": "Ja, das stimmt, bei allen.",
+     "en": "Yes, that is right, with everybody.",
+     "verdict": "ok",
+     "feedback": "Generous, and it lets the actual thing go by."
+    }
+   ]
+  },
+  {
+   "speaker": "Simon",
+   "es": "Und wie machen wir es jetzt?",
+   "en": "And how do we do it now?",
+   "options": [
+    {
+     "es": "Ich möchte meine Sachen selber sagen.",
+     "en": "I would like to say my own things myself.",
+     "verdict": "good",
+     "feedback": "The fourth sentence you wrote down. Plain, and it asks for one thing."
+    },
+    {
+     "es": "Unterbrich mich einfach nicht.",
+     "en": "Just do not interrupt me.",
+     "verdict": "ok",
+     "feedback": "The same thing, aimed at him instead of at the situation."
+    },
+    {
+     "es": "Weiss ich auch nicht.",
+     "en": "I do not know either.",
+     "verdict": "bad",
+     "feedback": "You asked for the meeting. Bring the answer to that question with you."
+    }
+   ]
+  }
+ ]
+}

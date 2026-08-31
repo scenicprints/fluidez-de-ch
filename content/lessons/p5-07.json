@@ -1,0 +1,373 @@
+{
+ "id": "p5-07",
+ "title": "Sie ist gestorben",
+ "desc": "Three words, and then nothing",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "sterben",
+  "Morgen"
+ ],
+ "sn": [
+  {
+   "s": "Es ist an einem Mittwoch passiert.",
+   "e": "It happened on a Wednesday."
+  },
+  {
+   "s": "Am Morgen um zwanzig nach neun.",
+   "e": "In the morning at twenty past nine."
+  },
+  {
+   "s": "Ich war im Büro und ich habe an einer Tabelle gearbeitet.",
+   "e": "I was in the office and I was working on a spreadsheet."
+  },
+  {
+   "s": "Das Handy hat auf dem Tisch gelegen.",
+   "e": "The phone was lying on the desk."
+  },
+  {
+   "s": "Es hat einmal kurz gemacht.",
+   "e": "It buzzed once, briefly."
+  },
+  {
+   "s": "Eine Nachricht von einer Nummer, die ich nicht gekannt habe.",
+   "e": "A message from a number I did not know."
+  },
+  {
+   "s": "Es waren vier Wörter.",
+   "e": "It was four words."
+  },
+  {
+   "s": "Frau Amrein ist heute Morgen gestorben.",
+   "e": "Frau Amrein died this morning."
+  },
+  {
+   "s": "Darunter stand: Vreni, ihre Schwester.",
+   "e": "Underneath it said: Vreni, her sister."
+  },
+  {
+   "s": "Ich habe die Nachricht dreimal gelesen.",
+   "e": "I read the message three times."
+  },
+  {
+   "s": "Beim dritten Mal habe ich das Wort Schwester gesehen.",
+   "e": "The third time I saw the word sister."
+  },
+  {
+   "s": "Sterben ist das Verb.",
+   "e": "Sterben is the verb."
+  },
+  {
+   "s": "Er stirbt. Er ist gestorben.",
+   "e": "He dies. He has died."
+  },
+  {
+   "s": "Es geht mit sein und nicht mit haben.",
+   "e": "It goes with sein and not with haben."
+  },
+  {
+   "s": "Sie ist gestorben. Er ist gestorben. Sie sind gestorben.",
+   "e": "She has died. He has died. They have died."
+  },
+  {
+   "s": "Tot ist das Adjektiv.",
+   "e": "Tot is the adjective."
+  },
+  {
+   "s": "Er ist tot. Sie ist tot.",
+   "e": "He is dead. She is dead."
+  },
+  {
+   "s": "Der Tod ist das Nomen und man braucht es fast nie.",
+   "e": "Der Tod is the noun and you almost never need it."
+  },
+  {
+   "s": "Die Leute sagen gestorben.",
+   "e": "People say gestorben."
+  },
+  {
+   "s": "Sie sagen selten tot.",
+   "e": "They seldom say tot."
+  },
+  {
+   "s": "Sie sagen fast nie den Tod.",
+   "e": "They almost never say der Tod."
+  },
+  {
+   "s": "Es gibt weichere Wörter und die habe ich in dieser Woche alle gehört.",
+   "e": "There are softer words and I heard all of them that week."
+  },
+  {
+   "s": "Sie ist eingeschlafen.",
+   "e": "She fell asleep."
+  },
+  {
+   "s": "Sie hat es hinter sich.",
+   "e": "She has it behind her."
+  },
+  {
+   "s": "Sie ist von uns gegangen.",
+   "e": "She has gone from us."
+  },
+  {
+   "s": "Wir haben sie verloren.",
+   "e": "We have lost her."
+  },
+  {
+   "s": "Ich habe an dem Morgen keines davon gebraucht.",
+   "e": "I did not need any of them that morning."
+  },
+  {
+   "s": "Ich bin aufgestanden und in den Gang.",
+   "e": "I stood up and went into the corridor."
+  },
+  {
+   "s": "Ich weiss nicht, warum ich aufgestanden bin.",
+   "e": "I do not know why I stood up."
+  },
+  {
+   "s": "Der Körper macht etwas und man schaut zu.",
+   "e": "The body does something and you watch."
+  },
+  {
+   "s": "Im Gang ist niemand gewesen.",
+   "e": "There was nobody in the corridor."
+  },
+  {
+   "s": "Ich bin bis zum Fenster am Ende gelaufen.",
+   "e": "I walked to the window at the end."
+  },
+  {
+   "s": "Draussen hat ein Mann einen Lieferwagen ausgeladen.",
+   "e": "Outside a man was unloading a delivery van."
+  },
+  {
+   "s": "Er hat vier Kisten getragen und ist zweimal gegangen.",
+   "e": "He carried four boxes and went twice."
+  },
+  {
+   "s": "Ich habe ihm zwei Minuten zugeschaut.",
+   "e": "I watched him for two minutes."
+  },
+  {
+   "s": "Das ist mir seither geblieben.",
+   "e": "That has stayed with me since."
+  },
+  {
+   "s": "Der Mann mit den Kisten.",
+   "e": "The man with the boxes."
+  },
+  {
+   "s": "Von diesem Morgen weiss ich sonst fast nichts mehr.",
+   "e": "Of that morning I otherwise remember almost nothing."
+  },
+  {
+   "s": "Marco ist gekommen und hat gefragt, ob etwas ist.",
+   "e": "Marco came and asked whether something was up."
+  },
+  {
+   "s": "Ich habe gesagt: Meine Nachbarin ist gestorben.",
+   "e": "I said: my neighbour has died."
+  },
+  {
+   "s": "Ich habe es auf Deutsch gesagt.",
+   "e": "I said it in German."
+  },
+  {
+   "s": "Ich habe zuerst gedacht, dass ich es auf Englisch sagen muss.",
+   "e": "At first I thought I would have to say it in English."
+  },
+  {
+   "s": "Aber die Sache ist auf Deutsch passiert.",
+   "e": "But the thing had happened in German."
+  },
+  {
+   "s": "Zwei Jahre auf Deutsch.",
+   "e": "Two years in German."
+  },
+  {
+   "s": "Es hat kein englisches Wort dafür gegeben.",
+   "e": "There was no English word for it."
+  },
+  {
+   "s": "Marco hat nicht gefragt, wer sie war.",
+   "e": "Marco did not ask who she was."
+  },
+  {
+   "s": "Er hat gesagt: Das tut mir leid.",
+   "e": "He said: I am sorry."
+  },
+  {
+   "s": "Er hat gesagt: Geh nach Hause.",
+   "e": "He said: go home."
+  },
+  {
+   "s": "Ich habe gesagt: Es geht schon.",
+   "e": "I said: it is all right."
+  },
+  {
+   "s": "Er hat gesagt: Ich weiss. Geh trotzdem.",
+   "e": "He said: I know. Go anyway."
+  },
+  {
+   "s": "Dann ist er zum Chef gegangen und hat es geregelt.",
+   "e": "Then he went to the boss and sorted it out."
+  },
+  {
+   "s": "Er hat mich nicht gefragt, ob er das darf.",
+   "e": "He did not ask me whether he was allowed to."
+  },
+  {
+   "s": "Ich bin um halb elf am Bahnhof gestanden.",
+   "e": "I was standing at the station at half past ten."
+  },
+  {
+   "s": "Um halb elf am Morgen ist der Bahnhof fast leer.",
+   "e": "At half past ten in the morning the station is almost empty."
+  },
+  {
+   "s": "Es fahren trotzdem alle vier Minuten Züge.",
+   "e": "All the same there are trains every four minutes."
+  },
+  {
+   "s": "Ich bin nicht sofort heim.",
+   "e": "I did not go straight home."
+  },
+  {
+   "s": "Ich bin eine Station zu weit gefahren und zurückgelaufen.",
+   "e": "I rode one stop too far and walked back."
+  },
+  {
+   "s": "Zu Hause bin ich vor ihrer Tür gestanden.",
+   "e": "At home I stood in front of her door."
+  },
+  {
+   "s": "Die Tür war zu, genau wie seit drei Wochen.",
+   "e": "The door was shut, exactly as it had been for three weeks."
+  },
+  {
+   "s": "Nebenan hat niemand gewohnt und das war seit drei Wochen so.",
+   "e": "Nobody was living next door and it had been like that for three weeks."
+  },
+  {
+   "s": "Es hat sich nichts geändert und alles war anders.",
+   "e": "Nothing had changed and everything was different."
+  },
+  {
+   "s": "Ich habe an dem Nachmittag drei Sachen gemacht.",
+   "e": "I did three things that afternoon."
+  },
+  {
+   "s": "Ich habe die Wohnung geputzt, die schon sauber war.",
+   "e": "I cleaned the flat, which was already clean."
+  },
+  {
+   "s": "Ich habe die Wäsche gemacht.",
+   "e": "I did the washing."
+  },
+  {
+   "s": "Erst als sie in der Maschine war, habe ich es gemerkt.",
+   "e": "Only when it was in the machine did I notice."
+  },
+  {
+   "s": "Man muss etwas machen mit den Händen.",
+   "e": "You have to do something with your hands."
+  },
+  {
+   "s": "Sie hat es mir vier Tage vorher gesagt.",
+   "e": "She had told me four days before."
+  },
+  {
+   "s": "Am Abend habe ich Selina angerufen.",
+   "e": "In the evening I called Selina."
+  },
+  {
+   "s": "Ich habe gesagt: Rosmarie ist gestorben.",
+   "e": "I said: Rosmarie has died."
+  },
+  {
+   "s": "Sie hat gefragt: Wann?",
+   "e": "She asked: when?"
+  },
+  {
+   "s": "Ich habe gesagt: Heute Morgen um zwanzig nach neun.",
+   "e": "I said: this morning at twenty past nine."
+  },
+  {
+   "s": "Ich habe die Zeit gewusst und nicht gewusst, woher.",
+   "e": "I knew the time and did not know from where."
+  },
+  {
+   "s": "Vreni hat sie in der Nachricht geschrieben.",
+   "e": "Vreni had written it in the message."
+  },
+  {
+   "s": "Ich habe die Nachricht dreimal gelesen und die Zeit nicht bemerkt.",
+   "e": "I read the message three times and did not notice the time."
+  },
+  {
+   "s": "Selina hat gesagt: Ich komme.",
+   "e": "Selina said: I am coming."
+  },
+  {
+   "s": "Sie hat nicht gefragt, ob sie kommen soll.",
+   "e": "She did not ask whether she should come."
+  },
+  {
+   "s": "Sie war um sieben da.",
+   "e": "She was there at seven."
+  },
+  {
+   "s": "Sie hat nichts mitgebracht und nichts gesagt.",
+   "e": "She brought nothing and said nothing."
+  },
+  {
+   "s": "Sie ist neben mir gesessen und hat den Fernseher angemacht.",
+   "e": "She sat next to me and turned the television on."
+  },
+  {
+   "s": "Wir haben eine Sendung über Häuser geschaut.",
+   "e": "We watched a programme about houses."
+  },
+  {
+   "s": "Ich könnte nicht sagen, was darin passiert ist.",
+   "e": "I could not say what happened in it."
+  },
+  {
+   "s": "Um elf hat sie gefragt: Willst du reden?",
+   "e": "At eleven she asked: do you want to talk?"
+  },
+  {
+   "s": "Ich habe gesagt: Nein.",
+   "e": "I said: no."
+  },
+  {
+   "s": "Sie hat gesagt: Gut.",
+   "e": "She said: good."
+  },
+  {
+   "s": "Sie ist geblieben.",
+   "e": "She stayed."
+  },
+  {
+   "s": "In der Nacht bin ich einmal aufgewacht.",
+   "e": "In the night I woke once."
+  },
+  {
+   "s": "Ich habe auf das Radio gewartet.",
+   "e": "I was waiting for the radio."
+  },
+  {
+   "s": "Um zehn nach sechs.",
+   "e": "At ten past six."
+  },
+  {
+   "s": "Es ist nichts gekommen und ich bin liegen geblieben.",
+   "e": "Nothing came and I stayed lying there."
+  },
+  {
+   "s": "Das war der erste Morgen von der neuen Zeit.",
+   "e": "That was the first morning of the new time."
+  }
+ ]
+}

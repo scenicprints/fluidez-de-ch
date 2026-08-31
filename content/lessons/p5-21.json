@@ -1,0 +1,375 @@
+{
+ "id": "p5-21",
+ "title": "Probleme bei der Arbeit",
+ "desc": "Something going wrong at work",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Sitzung",
+  "ansprechen",
+  "Sache",
+  "machen"
+ ],
+ "sn": [
+  {
+   "s": "Es hat im April bei der Arbeit angefangen.",
+   "e": "It started at work in April."
+  },
+  {
+   "s": "Es ist ein neuer Mann gekommen.",
+   "e": "A new man came."
+  },
+  {
+   "s": "Er heisst Simon und er ist so alt wie ich.",
+   "e": "He is called Simon and he is the same age as me."
+  },
+  {
+   "s": "Er ist gut in seiner Arbeit und er redet gern.",
+   "e": "He is good at his job and he likes talking."
+  },
+  {
+   "s": "Am Anfang war alles in Ordnung.",
+   "e": "At the beginning everything was fine."
+  },
+  {
+   "s": "Nach drei Wochen hat er angefangen, meine Sachen zu erklären.",
+   "e": "After three weeks he started explaining my things."
+  },
+  {
+   "s": "In einer Sitzung sagt jemand etwas zu meiner Arbeit.",
+   "e": "In a meeting somebody says something about my work."
+  },
+  {
+   "s": "Ich fange an zu antworten.",
+   "e": "I start to answer."
+  },
+  {
+   "s": "Nach vier Wörtern redet Simon weiter.",
+   "e": "After four words Simon goes on talking."
+  },
+  {
+   "s": "Er sagt das Gleiche, das ich sagen wollte.",
+   "e": "He says the same thing I was going to say."
+  },
+  {
+   "s": "Er sagt es schneller und mit mehr Wörtern.",
+   "e": "He says it faster and with more words."
+  },
+  {
+   "s": "Er macht es nicht böse.",
+   "e": "He does not do it nastily."
+  },
+  {
+   "s": "Ich habe drei Wochen geschaut und ich bin sicher.",
+   "e": "I watched for three weeks and I am sure."
+  },
+  {
+   "s": "Er denkt, dass er mir hilft.",
+   "e": "He thinks he is helping me."
+  },
+  {
+   "s": "Er hört, dass ich langsam bin, und er macht es schneller.",
+   "e": "He hears that I am slow and he makes it faster."
+  },
+  {
+   "s": "Das ist das Schlimmste daran.",
+   "e": "That is the worst thing about it."
+  },
+  {
+   "s": "Bei einem bösen Menschen weiss man, was man macht.",
+   "e": "With a nasty person you know what to do."
+  },
+  {
+   "s": "Es ist viermal passiert, bis ich etwas gemacht habe.",
+   "e": "It happened four times before I did something."
+  },
+  {
+   "s": "Beim vierten Mal ist es um eine Zahl gegangen, die falsch war.",
+   "e": "The fourth time it was about a number that was wrong."
+  },
+  {
+   "s": "Er hat sie erklärt und die Erklärung war falsch.",
+   "e": "He explained it and the explanation was wrong."
+  },
+  {
+   "s": "Ich habe es gewusst und ich habe nichts gesagt.",
+   "e": "I knew it and I said nothing."
+  },
+  {
+   "s": "Das war mein Fehler und es war der grössere von den beiden.",
+   "e": "That was my mistake and it was the bigger of the two."
+  },
+  {
+   "s": "Am Abend habe ich mit Marco geredet.",
+   "e": "In the evening I talked to Marco."
+  },
+  {
+   "s": "Er hat gesagt: Sag mal, stört dich das eigentlich?",
+   "e": "He said: tell me, does that actually bother you?"
+  },
+  {
+   "s": "Ich habe gefragt, ob er es merkt.",
+   "e": "I asked whether he noticed it."
+  },
+  {
+   "s": "Er hat gesagt: Ja. Alle merken es.",
+   "e": "He said: yes. Everybody notices it."
+  },
+  {
+   "s": "Ich habe gefragt: Und warum sagt niemand etwas?",
+   "e": "I asked: and why does nobody say anything?"
+  },
+  {
+   "s": "Er hat gesagt: Weil es dich betrifft.",
+   "e": "He said: because it concerns you."
+  },
+  {
+   "s": "Er hat gesagt: Das musst du selber machen.",
+   "e": "He said: you have to do that yourself."
+  },
+  {
+   "s": "Er hat gesagt: Sonst wird es eine Sache über dich.",
+   "e": "He said: otherwise it becomes a thing about you."
+  },
+  {
+   "s": "Das ist eine Regel und ich habe sie vorher nicht gekannt.",
+   "e": "That is a rule and I did not know it before."
+  },
+  {
+   "s": "Man redet hier nicht für einen anderen.",
+   "e": "Here you do not speak for somebody else."
+  },
+  {
+   "s": "Man redet auch nicht über ihn.",
+   "e": "You also do not talk about them."
+  },
+  {
+   "s": "Wer ein Problem hat, spricht es selber an.",
+   "e": "Whoever has a problem raises it themselves."
+  },
+  {
+   "s": "Ansprechen ist das Wort.",
+   "e": "Ansprechen is the word."
+  },
+  {
+   "s": "Etwas ansprechen heisst: es sagen, obwohl es unangenehm ist.",
+   "e": "To raise something means: to say it, although it is unpleasant."
+  },
+  {
+   "s": "Ich möchte etwas ansprechen.",
+   "e": "I would like to raise something."
+  },
+  {
+   "s": "Das ist der Satz, mit dem es anfängt.",
+   "e": "That is the sentence it starts with."
+  },
+  {
+   "s": "Man sagt ihn und dann sagt man die Sache.",
+   "e": "You say it and then you say the thing."
+  },
+  {
+   "s": "Man macht es nicht im Gang und nicht in der Pause.",
+   "e": "You do not do it in the corridor and not in the break."
+  },
+  {
+   "s": "Man fragt nach einem Termin.",
+   "e": "You ask for an appointment."
+  },
+  {
+   "s": "Das ist der Teil, den ich fast falsch gemacht hätte.",
+   "e": "That is the part I nearly got wrong."
+  },
+  {
+   "s": "Zu Hause redet man einfach los.",
+   "e": "At home you simply start talking."
+  },
+  {
+   "s": "Man geht zu jemandem hin und sagt es.",
+   "e": "You go up to somebody and say it."
+  },
+  {
+   "s": "Hier fragt man vorher.",
+   "e": "Here you ask first."
+  },
+  {
+   "s": "Man schreibt: Hast du am Donnerstag zwanzig Minuten?",
+   "e": "You write: do you have twenty minutes on Thursday?"
+  },
+  {
+   "s": "Der andere weiss dann, dass etwas kommt.",
+   "e": "The other person then knows that something is coming."
+  },
+  {
+   "s": "Er kann sich vorbereiten und er wird nicht überrascht.",
+   "e": "They can prepare and they are not surprised."
+  },
+  {
+   "s": "Überraschen ist hier nicht freundlich.",
+   "e": "Surprising somebody is not friendly here."
+  },
+  {
+   "s": "Ich habe Simon geschrieben.",
+   "e": "I wrote to Simon."
+  },
+  {
+   "s": "Ich habe geschrieben: Hast du am Donnerstag zwanzig Minuten?",
+   "e": "I wrote: do you have twenty minutes on Thursday?"
+  },
+  {
+   "s": "Er hat geschrieben: Klar. Um zwei?",
+   "e": "He wrote: sure. At two?"
+  },
+  {
+   "s": "Ich habe es sofort in den Kalender geschrieben.",
+   "e": "I wrote it in the calendar straight away."
+  },
+  {
+   "s": "Dann hatte ich zwei Tage Zeit und das war zu viel.",
+   "e": "Then I had two days and that was too much."
+  },
+  {
+   "s": "Ich habe am Mittwochabend vier Sätze aufgeschrieben.",
+   "e": "On Wednesday evening I wrote down four sentences."
+  },
+  {
+   "s": "Ich habe sie zwanzigmal gelesen.",
+   "e": "I read them twenty times."
+  },
+  {
+   "s": "Der erste war: Ich möchte etwas ansprechen.",
+   "e": "The first was: I would like to raise something."
+  },
+  {
+   "s": "Der zweite war: In den Sitzungen redest du oft für mich weiter.",
+   "e": "The second was: in meetings you often carry on talking for me."
+  },
+  {
+   "s": "Der dritte war: Ich glaube nicht, dass du das absichtlich machst.",
+   "e": "The third was: I do not think that you do it on purpose."
+  },
+  {
+   "s": "Der vierte war: Ich möchte meine Sachen selber sagen.",
+   "e": "The fourth was: I would like to say my own things myself."
+  },
+  {
+   "s": "Am Donnerstag um zwei habe ich einen gebraucht.",
+   "e": "On Thursday at two I needed one."
+  },
+  {
+   "s": "Ich habe gesagt: Ich möchte etwas ansprechen.",
+   "e": "I said: I would like to raise something."
+  },
+  {
+   "s": "Dann hat er gesagt: Wegen den Sitzungen?",
+   "e": "Then he said: about the meetings?"
+  },
+  {
+   "s": "Er hat es sofort gewusst.",
+   "e": "He knew it straight away."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe es letzte Woche selber gemerkt.",
+   "e": "He said: I noticed it myself last week."
+  },
+  {
+   "s": "Er hat gesagt: Es tut mir leid.",
+   "e": "He said: I am sorry."
+  },
+  {
+   "s": "Er hat gesagt: Ich rede zu viel und ich mache das bei allen.",
+   "e": "He said: I talk too much and I do it to everybody."
+  },
+  {
+   "s": "Dann hat er noch etwas gesagt, das ehrlich war.",
+   "e": "Then he said something else that was honest."
+  },
+  {
+   "s": "Er hat gesagt: Bei dir mache ich es öfter. Das ist nicht in Ordnung.",
+   "e": "He said: with you I do it more often. That is not all right."
+  },
+  {
+   "s": "Er hat nicht gefragt, ob es an der Sprache liegt.",
+   "e": "He did not ask whether it was to do with the language."
+  },
+  {
+   "s": "Er hat es gesagt.",
+   "e": "He said it."
+  },
+  {
+   "s": "Ich habe die anderen drei Sätze nicht gebraucht.",
+   "e": "I did not need the other three sentences."
+  },
+  {
+   "s": "Das Gespräch hat sechs Minuten gedauert.",
+   "e": "The conversation lasted six minutes."
+  },
+  {
+   "s": "Danach ist er zum Kaffee gegangen und ich bin sitzen geblieben.",
+   "e": "Afterwards he went for a coffee and I stayed sitting."
+  },
+  {
+   "s": "Ich bin fünf Minuten dort gesessen.",
+   "e": "I sat there for five minutes."
+  },
+  {
+   "s": "Ich habe zwei Tage nicht geschlafen wegen sechs Minuten.",
+   "e": "I had not slept for two days because of six minutes."
+  },
+  {
+   "s": "Es ist die zweite Sache in diesem Monat mit dieser Rechnung.",
+   "e": "It is the second thing this month with that arithmetic."
+  },
+  {
+   "s": "Wichtig ist, wie man es sagt.",
+   "e": "What matters is how you say it."
+  },
+  {
+   "s": "Man sagt es sachlich.",
+   "e": "You say it factually."
+  },
+  {
+   "s": "Sachlich heisst: über die Sache und nicht über den Menschen.",
+   "e": "Sachlich means: about the thing and not about the person."
+  },
+  {
+   "s": "Nicht: Du bist unhöflich.",
+   "e": "Not: you are rude."
+  },
+  {
+   "s": "Sondern: In den Sitzungen passiert das und das.",
+   "e": "But: in the meetings this and this happens."
+  },
+  {
+   "s": "Nicht: Du machst das immer.",
+   "e": "Not: you always do that."
+  },
+  {
+   "s": "Sondern: Es ist letzte Woche zweimal passiert.",
+   "e": "But: it happened twice last week."
+  },
+  {
+   "s": "Man nimmt eine Zahl und ein Beispiel.",
+   "e": "You take a number and an example."
+  },
+  {
+   "s": "Dann wird es eine Sache und kein Streit.",
+   "e": "Then it becomes a matter and not a quarrel."
+  },
+  {
+   "s": "In den Sitzungen danach hat er es zweimal fast gemacht.",
+   "e": "In the meetings afterwards he nearly did it twice."
+  },
+  {
+   "s": "Beide Male hat er aufgehört und gesagt: Sag du.",
+   "e": "Both times he stopped and said: you say it."
+  },
+  {
+   "s": "Beim ersten Mal war es unangenehm für alle im Raum.",
+   "e": "The first time it was awkward for everybody in the room."
+  },
+  {
+   "s": "Beim zweiten Mal hat es niemand mehr gemerkt.",
+   "e": "The second time nobody noticed any more."
+  }
+ ]
+}

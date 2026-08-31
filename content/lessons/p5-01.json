@@ -1,0 +1,389 @@
+{
+ "id": "p5-01",
+ "title": "Ihre Tür ist zu",
+ "desc": "A door that is always open, closed",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Tür",
+  "Tag"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe es am Dienstag gemerkt.",
+   "e": "I noticed it on Tuesday."
+  },
+  {
+   "s": "Nicht am Sonntag und nicht am Montag.",
+   "e": "Not on Sunday and not on Monday."
+  },
+  {
+   "s": "Am Dienstag.",
+   "e": "On Tuesday."
+  },
+  {
+   "s": "Ihre Tür war zu.",
+   "e": "Her door was shut."
+  },
+  {
+   "s": "Nebenan war es seit zwei Tagen still.",
+   "e": "Next door it had been quiet for two days."
+  },
+  {
+   "s": "Das tönt nach nichts.",
+   "e": "That sounds like nothing."
+  },
+  {
+   "s": "Für dieses Haus ist es viel.",
+   "e": "For this building it is a lot."
+  },
+  {
+   "s": "Rosmarie macht die Tür am Morgen einen Spalt auf.",
+   "e": "Rosmarie opens the door a crack in the morning."
+  },
+  {
+   "s": "Ein Spalt ist eine kleine Öffnung.",
+   "e": "A crack is a small opening."
+  },
+  {
+   "s": "Die Tür ist dann nicht offen und nicht zu.",
+   "e": "The door is then not open and not shut."
+  },
+  {
+   "s": "Sie macht das seit vierzig Jahren.",
+   "e": "She has been doing that for forty years."
+  },
+  {
+   "s": "Sie sagt, dass die Wohnung dann Luft bekommt.",
+   "e": "She says that the flat gets air that way."
+  },
+  {
+   "s": "Das ist nicht der ganze Grund.",
+   "e": "That is not the whole reason."
+  },
+  {
+   "s": "Durch einen Spalt hört man das Treppenhaus.",
+   "e": "Through a crack you can hear the stairwell."
+  },
+  {
+   "s": "Man hört, wer kommt und wer geht.",
+   "e": "You hear who comes and who goes."
+  },
+  {
+   "s": "Sie hat es einmal selber gesagt.",
+   "e": "She said it herself once."
+  },
+  {
+   "s": "Sie hat gesagt: Ich bin nicht neugierig. Ich bin einfach da.",
+   "e": "She said: I am not nosy. I am simply here."
+  },
+  {
+   "s": "Am Dienstag war die Tür ganz zu.",
+   "e": "On Tuesday the door was completely shut."
+  },
+  {
+   "s": "Ich bin daran vorbeigegangen und dann stehen geblieben.",
+   "e": "I walked past it and then stopped."
+  },
+  {
+   "s": "Zwei Schritte weiter.",
+   "e": "Two steps further on."
+  },
+  {
+   "s": "So merkt man etwas.",
+   "e": "That is how you notice something."
+  },
+  {
+   "s": "Zuerst geht man weiter und dann bleibt man stehen.",
+   "e": "First you walk on and then you stop."
+  },
+  {
+   "s": "Ich habe an dem Morgen noch etwas gesehen.",
+   "e": "I saw something else that morning."
+  },
+  {
+   "s": "Im Briefkasten waren zwei Zeitungen.",
+   "e": "There were two newspapers in the letterbox."
+  },
+  {
+   "s": "Zwei Zeitungen heisst zwei Tage.",
+   "e": "Two newspapers means two days."
+  },
+  {
+   "s": "Rosmarie holt die Zeitung jeden Morgen um Viertel nach sechs.",
+   "e": "Rosmarie fetches the paper every morning at quarter past six."
+  },
+  {
+   "s": "Vor dem Radio und nach dem Kaffee.",
+   "e": "Before the radio and after the coffee."
+  },
+  {
+   "s": "Ihr Radio läuft jeden Morgen um zehn nach sechs.",
+   "e": "Her radio is on every morning at ten past six."
+  },
+  {
+   "s": "Man hört es leise durch die Wand.",
+   "e": "You can hear it quietly through the wall."
+  },
+  {
+   "s": "Ich habe es zwei Jahre lang jeden Tag gehört.",
+   "e": "I heard it every day for two years."
+  },
+  {
+   "s": "Am Dienstag habe ich nichts gehört.",
+   "e": "On Tuesday I heard nothing."
+  },
+  {
+   "s": "Ich habe es gehört, weil nichts da war.",
+   "e": "I heard it because nothing was there."
+  },
+  {
+   "s": "Das ist eine komische Sache.",
+   "e": "That is an odd thing."
+  },
+  {
+   "s": "Ein Geräusch merkt man erst, wenn es aufhört.",
+   "e": "You only notice a sound when it stops."
+  },
+  {
+   "s": "Ich habe geklopft.",
+   "e": "I knocked."
+  },
+  {
+   "s": "Zweimal, nicht laut.",
+   "e": "Twice, not loudly."
+  },
+  {
+   "s": "Ich habe gewartet und ich habe noch einmal geklopft.",
+   "e": "I waited and I knocked again."
+  },
+  {
+   "s": "Dann habe ich ihren Namen gesagt.",
+   "e": "Then I said her name."
+  },
+  {
+   "s": "Nicht laut, weil es sieben Uhr am Morgen war.",
+   "e": "Not loudly, because it was seven in the morning."
+  },
+  {
+   "s": "Es ist nichts gekommen.",
+   "e": "Nothing came."
+  },
+  {
+   "s": "Kein Schritt, kein Stuhl, nichts.",
+   "e": "No footstep, no chair, nothing."
+  },
+  {
+   "s": "Ich bin eine Minute vor der Tür gestanden.",
+   "e": "I stood in front of the door for a minute."
+  },
+  {
+   "s": "In dieser Minute habe ich alles Mögliche gedacht.",
+   "e": "In that minute I thought of everything possible."
+  },
+  {
+   "s": "Dann bin ich hinunter zu Herrn Bucher.",
+   "e": "Then I went down to Herr Bucher."
+  },
+  {
+   "s": "Herr Bucher wohnt unter ihr.",
+   "e": "Herr Bucher lives below her."
+  },
+  {
+   "s": "Er macht sofort auf, auch um sieben.",
+   "e": "He opens straight away, even at seven."
+  },
+  {
+   "s": "Ich habe gefragt: Haben Sie Frau Amrein gesehen?",
+   "e": "I asked: have you seen Frau Amrein?"
+  },
+  {
+   "s": "Er hat gesagt: Seit wann?",
+   "e": "He said: since when?"
+  },
+  {
+   "s": "Ich habe gesagt: Seit zwei Tagen.",
+   "e": "I said: for two days."
+  },
+  {
+   "s": "Seit heisst: von damals bis jetzt.",
+   "e": "Seit means: from then until now."
+  },
+  {
+   "s": "Seit gestern. Seit zwei Tagen. Seit Sonntag.",
+   "e": "Since yesterday. For two days. Since Sunday."
+  },
+  {
+   "s": "Man nimmt den Dativ und man nimmt das Präsens.",
+   "e": "You take the dative and you take the present tense."
+  },
+  {
+   "s": "Nicht: ich habe zwei Tage gewartet.",
+   "e": "Not: I waited two days."
+  },
+  {
+   "s": "Sondern: ich warte seit zwei Tagen.",
+   "e": "But: I have been waiting for two days."
+  },
+  {
+   "s": "Herr Bucher hat sein Gesicht geändert.",
+   "e": "Herr Bucher's face changed."
+  },
+  {
+   "s": "Er hat gesagt: Fragen Sie den Zemp.",
+   "e": "He said: ask Zemp."
+  },
+  {
+   "s": "Er hat es zu schnell gesagt.",
+   "e": "He said it too quickly."
+  },
+  {
+   "s": "Er hat gewusst, dass etwas ist.",
+   "e": "He knew that something was up."
+  },
+  {
+   "s": "Er hat es mir nicht sagen wollen.",
+   "e": "He did not want to be the one to tell me."
+  },
+  {
+   "s": "Das habe ich erst später verstanden.",
+   "e": "I only understood that later."
+  },
+  {
+   "s": "Herr Zemp ist im Keller gewesen.",
+   "e": "Herr Zemp was in the cellar."
+  },
+  {
+   "s": "Er ist immer vor acht im Keller.",
+   "e": "He is always in the cellar before eight."
+  },
+  {
+   "s": "Ich habe gesagt: Herr Zemp, ihre Tür ist seit zwei Tagen zu.",
+   "e": "I said: Herr Zemp, her door has been shut for two days."
+  },
+  {
+   "s": "Er hat den Besen hingestellt.",
+   "e": "He put the broom down."
+  },
+  {
+   "s": "Er hat gesagt: Momentli.",
+   "e": "He said: momentli."
+  },
+  {
+   "s": "Dann hat er nichts gesagt.",
+   "e": "Then he said nothing."
+  },
+  {
+   "s": "Ruedi Zemp braucht für alles drei Sekunden.",
+   "e": "Ruedi Zemp takes three seconds for everything."
+  },
+  {
+   "s": "Diesmal waren es mehr.",
+   "e": "This time it was more."
+  },
+  {
+   "s": "Er hat gesagt: Sie ist am Sonntag ins Spital.",
+   "e": "He said: she went into hospital on Sunday."
+  },
+  {
+   "s": "Er hat gesagt: In der Nacht auf Sonntag.",
+   "e": "He said: in the night before Sunday."
+  },
+  {
+   "s": "Er hat gesagt: Um vier ist die Ambulanz gekommen.",
+   "e": "He said: the ambulance came at four."
+  },
+  {
+   "s": "Man sagt hier Ambulanz.",
+   "e": "Here people say Ambulanz."
+  },
+  {
+   "s": "Krankenwagen versteht auch jeder.",
+   "e": "Everybody understands Krankenwagen too."
+  },
+  {
+   "s": "Ich habe gefragt: Und was ist?",
+   "e": "I asked: and what is it?"
+  },
+  {
+   "s": "Er hat gesagt: Das Herz.",
+   "e": "He said: the heart."
+  },
+  {
+   "s": "Zwei Wörter und dann hat er den Besen wieder genommen.",
+   "e": "Two words and then he picked the broom up again."
+  },
+  {
+   "s": "Ich habe gefragt: Warum hat niemand etwas gesagt?",
+   "e": "I asked: why did nobody say anything?"
+  },
+  {
+   "s": "Er hat mich angeschaut.",
+   "e": "He looked at me."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe es Ihnen jetzt gesagt.",
+   "e": "He said: I have told you now."
+  },
+  {
+   "s": "Das war die ganze Antwort und sie war nicht falsch.",
+   "e": "That was the whole answer and it was not wrong."
+  },
+  {
+   "s": "Niemand ruft hier um vier Uhr im Haus herum.",
+   "e": "Nobody calls round the building here at four in the morning."
+  },
+  {
+   "s": "Man macht keinen Lärm mit einer schlechten Nachricht.",
+   "e": "You do not make a noise with bad news."
+  },
+  {
+   "s": "Man sagt es dem, der fragt.",
+   "e": "You tell whoever asks."
+  },
+  {
+   "s": "Ich war am Sonntag bei Selina.",
+   "e": "I was at Selina's on Sunday."
+  },
+  {
+   "s": "Ich war am Montag den ganzen Tag im Büro.",
+   "e": "I was in the office all day on Monday."
+  },
+  {
+   "s": "Zwei Tage lang war ich nicht in diesem Haus.",
+   "e": "For two days I was not in this building."
+  },
+  {
+   "s": "Und ich bin der, der neben ihr wohnt.",
+   "e": "And I am the one who lives next to her."
+  },
+  {
+   "s": "Herr Zemp hat gesagt: Sie ist auf der Station C.",
+   "e": "Herr Zemp said: she is on ward C."
+  },
+  {
+   "s": "Er hat es gesagt, ohne dass ich gefragt habe.",
+   "e": "He said it without my asking."
+  },
+  {
+   "s": "Das war seine ganze Freundlichkeit.",
+   "e": "That was the whole of his kindness."
+  },
+  {
+   "s": "Ich bin an dem Morgen zu spät ins Büro gekommen.",
+   "e": "I got to the office late that morning."
+  },
+  {
+   "s": "Marco hat gefragt, ob alles in Ordnung ist.",
+   "e": "Marco asked whether everything was all right."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Das war das erste falsche Ja von dieser Zeit.",
+   "e": "That was the first false yes of that time."
+  }
+ ]
+}

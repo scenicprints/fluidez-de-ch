@@ -1,0 +1,389 @@
+{
+ "id": "p5-03",
+ "title": "Besuch",
+ "desc": "Sitting with somebody",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Wetter",
+  "Abend"
+ ],
+ "sn": [
+  {
+   "s": "Ich bin dann jeden Tag gegangen.",
+   "e": "I went every day after that."
+  },
+  {
+   "s": "Nach dem Büro, um Viertel nach sechs.",
+   "e": "After the office, at quarter past six."
+  },
+  {
+   "s": "Das war eine Entscheidung von einem Tag.",
+   "e": "That was a decision made in one day."
+  },
+  {
+   "s": "Ich habe sie nicht lange überlegt.",
+   "e": "I did not think about it for long."
+  },
+  {
+   "s": "Ein Besuch im Spital ist eine eigene Sache.",
+   "e": "A hospital visit is a thing of its own."
+  },
+  {
+   "s": "Man muss dabei drei Sachen wissen.",
+   "e": "You have to know three things for it."
+  },
+  {
+   "s": "Das habe ich in der ersten Woche gelernt.",
+   "e": "I learnt that in the first week."
+  },
+  {
+   "s": "Die erste Sache ist: was man mitnimmt.",
+   "e": "The first thing is: what you take."
+  },
+  {
+   "s": "Blumen sind immer richtig.",
+   "e": "Flowers are always right."
+  },
+  {
+   "s": "Ein Geschenk ist im Spital fast immer falsch.",
+   "e": "A present is almost always wrong in hospital."
+  },
+  {
+   "s": "Beim zweiten Mal ist es fast zu viel.",
+   "e": "The second time it is almost too much."
+  },
+  {
+   "s": "Dann nimmt man etwas anderes.",
+   "e": "Then you take something else."
+  },
+  {
+   "s": "Ich habe ihr die Zeitung mitgenommen.",
+   "e": "I took her the newspaper."
+  },
+  {
+   "s": "Den Kaffee im Spital trinkt sie ohne Milch, weil er sonst nach nichts schmeckt.",
+   "e": "She drinks the hospital coffee without milk, because otherwise it tastes of nothing."
+  },
+  {
+   "s": "Die Zeitung von unserem Briefkasten.",
+   "e": "The paper from our letterbox."
+  },
+  {
+   "s": "Ich habe sie am Morgen unten abgeholt und am Abend mitgebracht.",
+   "e": "I collected it downstairs in the morning and brought it in the evening."
+  },
+  {
+   "s": "Das war die beste Idee von der ganzen Woche.",
+   "e": "That was the best idea of the whole week."
+  },
+  {
+   "s": "Sie hat sie jeden Tag gelesen, ganz durch.",
+   "e": "She read it every day, all the way through."
+  },
+  {
+   "s": "Sie hat gesagt: Sonst weiss ich ja nicht, wer gestorben ist.",
+   "e": "She said: otherwise I do not know who has died."
+  },
+  {
+   "s": "Ein Radio hat es im Zimmer nicht gehabt.",
+   "e": "There was no radio in the room."
+  },
+  {
+   "s": "Sie hat es gesagt und dann hat sie gelacht.",
+   "e": "She said it and then she laughed."
+  },
+  {
+   "s": "Und ich habe auch gelacht, zwei Sekunden zu spät.",
+   "e": "And I laughed too, two seconds too late."
+  },
+  {
+   "s": "Die zweite Sache ist: wie lange man bleibt.",
+   "e": "The second thing is: how long you stay."
+  },
+  {
+   "s": "Zu kurz ist nicht gut.",
+   "e": "Too short is not good."
+  },
+  {
+   "s": "Zu lang ist schlechter.",
+   "e": "Too long is worse."
+  },
+  {
+   "s": "Ein Besuch dauert zwanzig Minuten.",
+   "e": "A visit lasts twenty minutes."
+  },
+  {
+   "s": "Bei guten Tagen eine halbe Stunde.",
+   "e": "On good days half an hour."
+  },
+  {
+   "s": "Dann ist der andere müde und sagt es nicht.",
+   "e": "Then the other person is tired and does not say so."
+  },
+  {
+   "s": "Man muss selber gehen, bevor es so weit ist.",
+   "e": "You have to leave yourself, before it gets to that."
+  },
+  {
+   "s": "Das ist schwer, weil man bleiben möchte.",
+   "e": "That is hard, because you want to stay."
+  },
+  {
+   "s": "Bleiben ist für einen selber.",
+   "e": "Staying is for yourself."
+  },
+  {
+   "s": "Gehen ist für den anderen.",
+   "e": "Leaving is for the other person."
+  },
+  {
+   "s": "Die dritte Sache ist die schwerste.",
+   "e": "The third thing is the hardest."
+  },
+  {
+   "s": "Es geht darum, worüber man redet.",
+   "e": "It is about what you talk about."
+  },
+  {
+   "s": "Ich bin am zweiten Abend mit einem Plan gekommen.",
+   "e": "I came on the second evening with a plan."
+  },
+  {
+   "s": "Ich wollte die richtigen Fragen stellen.",
+   "e": "I wanted to ask the right questions."
+  },
+  {
+   "s": "Ich habe gefragt: Wie fühlst du dich?",
+   "e": "I asked: how are you feeling?"
+  },
+  {
+   "s": "Sie hat gesagt: Gut.",
+   "e": "She said: fine."
+  },
+  {
+   "s": "Ich habe gefragt: Und was sagt der Arzt?",
+   "e": "I asked: and what does the doctor say?"
+  },
+  {
+   "s": "Sie hat gesagt: Der sagt auch etwas.",
+   "e": "She said: he says something too."
+  },
+  {
+   "s": "Ich habe gefragt: Hast du Schmerzen?",
+   "e": "I asked: are you in pain?"
+  },
+  {
+   "s": "Sie hat aus dem Fenster geschaut.",
+   "e": "She looked out of the window."
+  },
+  {
+   "s": "Sie hat gesagt: Es hat den ganzen Tag Nebel gehabt.",
+   "e": "She said: there was fog all day."
+  },
+  {
+   "s": "Das war die Antwort und ich habe sie zuerst nicht verstanden.",
+   "e": "That was the answer and at first I did not understand it."
+  },
+  {
+   "s": "Ich habe noch zwei Fragen gestellt.",
+   "e": "I asked two more questions."
+  },
+  {
+   "s": "Beide waren gut gemeint.",
+   "e": "Both were well meant."
+  },
+  {
+   "s": "Beide waren falsch.",
+   "e": "Both were wrong."
+  },
+  {
+   "s": "Dann bin ich still gewesen.",
+   "e": "Then I was quiet."
+  },
+  {
+   "s": "Und dann hat sie angefangen zu reden.",
+   "e": "And then she started to talk."
+  },
+  {
+   "s": "Sie hat vom Wetter geredet.",
+   "e": "She talked about the weather."
+  },
+  {
+   "s": "Sie hat gesagt, dass der Nebel dieses Jahr früh gekommen ist.",
+   "e": "She said that the fog came early this year."
+  },
+  {
+   "s": "Sie hat gesagt, dass es im Januar zwei Wochen keine Sonne hatte.",
+   "e": "She said that in January there were two weeks with no sun."
+  },
+  {
+   "s": "Sie hat gesagt, dass es oben auf dem Berg schön war.",
+   "e": "She said that it was beautiful up on the mountain."
+  },
+  {
+   "s": "Sie hat vom Nebelmeer geredet, das sie seit Jahren nicht gesehen hat.",
+   "e": "She talked about the sea of fog that she has not seen for years."
+  },
+  {
+   "s": "Zwanzig Minuten über das Wetter.",
+   "e": "Twenty minutes about the weather."
+  },
+  {
+   "s": "Zu Hause habe ich so etwas für nichts gehalten.",
+   "e": "At home I took something like that for nothing."
+  },
+  {
+   "s": "Hier war es alles.",
+   "e": "Here it was everything."
+  },
+  {
+   "s": "Sie hat mit dem Wetter geredet, weil sie reden wollte.",
+   "e": "She talked with the weather because she wanted to talk."
+  },
+  {
+   "s": "Nicht über das Wetter. Mit dem Wetter.",
+   "e": "Not about the weather. With the weather."
+  },
+  {
+   "s": "Das Thema war nur das Fahrzeug.",
+   "e": "The subject was only the vehicle."
+  },
+  {
+   "s": "Sie wollte, dass jemand da ist und dass eine Stimme läuft.",
+   "e": "She wanted somebody to be there and a voice to be running."
+  },
+  {
+   "s": "Sie wollte nicht gefragt werden, wie es ihr geht.",
+   "e": "She did not want to be asked how she was."
+  },
+  {
+   "s": "Sie weiss, wie es ihr geht.",
+   "e": "She knows how she is."
+  },
+  {
+   "s": "Sie ist die Einzige im Zimmer, die es genau weiss.",
+   "e": "She is the only one in the room who knows exactly."
+  },
+  {
+   "s": "Am dritten Abend habe ich nichts gefragt.",
+   "e": "On the third evening I asked nothing."
+  },
+  {
+   "s": "Ich habe von meinem Tag erzählt.",
+   "e": "I talked about my day."
+  },
+  {
+   "s": "Vom Büro, von Marco, von einem Formular mit vierzehn Punkten.",
+   "e": "About the office, about Marco, about a form with fourteen points."
+  },
+  {
+   "s": "Sie hat zugehört und dazu genickt.",
+   "e": "She listened and nodded to it."
+  },
+  {
+   "s": "Einmal hat sie gesagt: Erzähl das noch einmal.",
+   "e": "Once she said: tell that again."
+  },
+  {
+   "s": "Einmal hat sie gesagt: Schau mal hinaus, ob es noch regnet.",
+   "e": "Once she said: have a look out, whether it is still raining."
+  },
+  {
+   "s": "Nicht weil sie es nicht verstanden hat.",
+   "e": "Not because she had not understood it."
+  },
+  {
+   "s": "Weil sie noch eine Stimme wollte.",
+   "e": "Because she wanted more voice."
+  },
+  {
+   "s": "Das habe ich sofort gemacht.",
+   "e": "I did that immediately."
+  },
+  {
+   "s": "Am vierten Abend ist ein Stuhl neben ihrem Bett gestanden.",
+   "e": "On the fourth evening a chair was standing beside her bed."
+  },
+  {
+   "s": "Am ersten Abend hatte es keinen.",
+   "e": "On the first evening there had not been one."
+  },
+  {
+   "s": "Jemand hat ihn geholt und hingestellt.",
+   "e": "Somebody had fetched it and put it there."
+  },
+  {
+   "s": "Wir haben nie darüber geredet.",
+   "e": "We never talked about it."
+  },
+  {
+   "s": "Ich bin sechzehn Abende auf diesem Stuhl gesessen.",
+   "e": "I sat on that chair for sixteen evenings."
+  },
+  {
+   "s": "Die Frau im ersten Bett heisst Frau Kaufmann.",
+   "e": "The woman in the first bed is called Frau Kaufmann."
+  },
+  {
+   "s": "Sie ist zweiundachtzig und sie hört alles.",
+   "e": "She is eighty-two and she hears everything."
+  },
+  {
+   "s": "Nach vier Tagen hat sie mich gegrüsst.",
+   "e": "After four days she greeted me."
+  },
+  {
+   "s": "Nach acht Tagen hat sie gefragt, ob ich der Sohn bin.",
+   "e": "After eight days she asked whether I was the son."
+  },
+  {
+   "s": "Rosmarie hat gesagt: Nein. Der Nachbar.",
+   "e": "Rosmarie said: no. The neighbour."
+  },
+  {
+   "s": "Sie hat es laut und deutlich gesagt.",
+   "e": "She said it loudly and clearly."
+  },
+  {
+   "s": "Frau Kaufmann hat gesagt: Aha.",
+   "e": "Frau Kaufmann said: aha."
+  },
+  {
+   "s": "Sie hat es so gesagt, dass es etwas heisst.",
+   "e": "She said it in a way that means something."
+  },
+  {
+   "s": "Am Abend im Lift habe ich es noch einmal gehört.",
+   "e": "In the lift that evening I heard it again."
+  },
+  {
+   "s": "Der Nachbar.",
+   "e": "The neighbour."
+  },
+  {
+   "s": "Zwei Jahre und ein Wort.",
+   "e": "Two years and one word."
+  },
+  {
+   "s": "Es hat gereicht, damit sie den Stuhl bringen.",
+   "e": "It was enough for them to bring the chair."
+  },
+  {
+   "s": "Am fünften Abend hat sie über den Sommer geredet.",
+   "e": "On the fifth evening she talked about the summer."
+  },
+  {
+   "s": "Über den Sommer, der noch kommt.",
+   "e": "About the summer that is still coming."
+  },
+  {
+   "s": "Ich habe nichts dazu gesagt.",
+   "e": "I said nothing to that."
+  },
+  {
+   "s": "Ich habe zugehört und ich habe gehofft.",
+   "e": "I listened and I hoped."
+  }
+ ]
+}

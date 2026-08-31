@@ -1,0 +1,370 @@
+{
+ "id": "p5-14",
+ "title": "Sie hat dir etwas hinterlassen",
+ "desc": "Something small, chosen on purpose",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "hinterlassen",
+  "Umschlag",
+  "Foto"
+ ],
+ "sn": [
+  {
+   "s": "Am Donnerstag um vier hat Vreni mir etwas gegeben.",
+   "e": "On Thursday at four Vreni gave me something."
+  },
+  {
+   "s": "Die Wohnung war leer und alle anderen sind schon gegangen.",
+   "e": "The flat was empty and everybody else had gone."
+  },
+  {
+   "s": "Sie hat gewartet, bis wir zwei allein waren.",
+   "e": "She waited until the two of us were alone."
+  },
+  {
+   "s": "Das war auch geplant.",
+   "e": "That was planned too."
+  },
+  {
+   "s": "Sie hat einen Umschlag aus der Tasche genommen.",
+   "e": "She took an envelope out of her bag."
+  },
+  {
+   "s": "Ein Umschlag ist das Papier um einen Brief herum.",
+   "e": "An envelope is the paper around a letter."
+  },
+  {
+   "s": "Er war nicht zugeklebt.",
+   "e": "It was not sealed."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist für dich.",
+   "e": "She said: this is for you."
+  },
+  {
+   "s": "Sie hat gesagt: Das hat sie mir im Spital gegeben.",
+   "e": "She said: she gave me that in the hospital."
+  },
+  {
+   "s": "Hinterlassen heisst: etwas dalassen, wenn man geht.",
+   "e": "Hinterlassen means: to leave something behind when you go."
+  },
+  {
+   "s": "Sie hat mir etwas hinterlassen.",
+   "e": "She left me something."
+  },
+  {
+   "s": "Man braucht das Wort fast nur in diesem einen Fall.",
+   "e": "You almost only need the word in this one case."
+  },
+  {
+   "s": "Es gibt noch ein zweites Wort dafür.",
+   "e": "There is a second word for it."
+  },
+  {
+   "s": "Vermachen.",
+   "e": "Vermachen."
+  },
+  {
+   "s": "Das steht in den Papieren und beim Notar.",
+   "e": "That is what is in the papers and at the notary."
+  },
+  {
+   "s": "Vermachen ist für Häuser und für Geld.",
+   "e": "Vermachen is for houses and for money."
+  },
+  {
+   "s": "Hinterlassen ist für alles andere.",
+   "e": "Hinterlassen is for everything else."
+  },
+  {
+   "s": "Im Umschlag war ein Foto.",
+   "e": "In the envelope there was a photo."
+  },
+  {
+   "s": "Nur ein Foto und sonst nichts.",
+   "e": "Only a photo and nothing else."
+  },
+  {
+   "s": "Es ist das Foto vom Berg.",
+   "e": "It is the photo from the mountain."
+  },
+  {
+   "s": "Das eine von den sieben, auf dem Walter nicht ist.",
+   "e": "The one of the seven that Walter is not in."
+  },
+  {
+   "s": "Sie ist dort vierzig Jahre alt und sie lacht.",
+   "e": "In it she is forty years old and she is laughing."
+  },
+  {
+   "s": "Sie schaut nicht in die Kamera.",
+   "e": "She is not looking at the camera."
+  },
+  {
+   "s": "Sie schaut irgendwohin nach links, und da ist nichts.",
+   "e": "She is looking somewhere to the left, and there is nothing there."
+  },
+  {
+   "s": "Er hat es gemacht und sie hat gelacht, weil er etwas gesagt hat.",
+   "e": "He took it and she was laughing because he had said something."
+  },
+  {
+   "s": "Man sieht nicht, was er gesagt hat, und man sieht es trotzdem.",
+   "e": "You cannot see what he said, and you can see it anyway."
+  },
+  {
+   "s": "Ich habe im Spital einmal von diesem Foto geredet.",
+   "e": "In the hospital I talked about that photo once."
+  },
+  {
+   "s": "Nicht lange. Zwei Sätze.",
+   "e": "Not for long. Two sentences."
+  },
+  {
+   "s": "Ich habe gesagt: Das ist das beste von den sieben.",
+   "e": "I said: that is the best of the seven."
+  },
+  {
+   "s": "Sie hat gesagt: Ja, das ist es.",
+   "e": "She said: yes, it is."
+  },
+  {
+   "s": "Und mehr ist an dem Abend nicht passiert.",
+   "e": "And nothing more happened that evening."
+  },
+  {
+   "s": "Zwei Wochen später ist es in einem Umschlag mit meinem Namen.",
+   "e": "Two weeks later it is in an envelope with my name on it."
+  },
+  {
+   "s": "Auf der Rückseite steht etwas mit Bleistift.",
+   "e": "On the back there is something in pencil."
+  },
+  {
+   "s": "Die Rückseite ist die Seite hinten.",
+   "e": "The Rückseite is the side at the back."
+  },
+  {
+   "s": "Der Bleistift ist grau und man kann ihn wegmachen.",
+   "e": "A pencil is grey and you can rub it out."
+  },
+  {
+   "s": "Sie hat für so etwas immer den Bleistift genommen.",
+   "e": "She always took the pencil for something like that."
+  },
+  {
+   "s": "Es steht ein Datum dort und ein Name.",
+   "e": "There is a date there and a name."
+  },
+  {
+   "s": "Juli 1985 und der Name von einem Berg.",
+   "e": "July 1985 and the name of a mountain."
+  },
+  {
+   "s": "Es ist einer von den vier Wegen, die sie jeden Sommer gelaufen sind.",
+   "e": "It is one of the four paths they walked every summer."
+  },
+  {
+   "s": "Vreni hat gesagt: Sie hat gesagt, du sollst da einmal hinauf.",
+   "e": "Vreni said: she said you should go up there sometime."
+  },
+  {
+   "s": "Sie hat gesagt: Genau so hat sie es gesagt.",
+   "e": "She said: that is exactly how she said it."
+  },
+  {
+   "s": "Sie hat gesagt: Nicht: er soll. Sondern: du sollst.",
+   "e": "She said: not: he should. But: you should."
+  },
+  {
+   "s": "Das Foto ist nichts wert.",
+   "e": "The photo is worth nothing."
+  },
+  {
+   "s": "Es hat keinen Wert für einen anderen Menschen.",
+   "e": "It has no value for another person."
+  },
+  {
+   "s": "Man kann es nicht verkaufen und man kann es nicht zeigen.",
+   "e": "You cannot sell it and you cannot show it."
+  },
+  {
+   "s": "Es ist ein Foto von einer Frau, die niemand kennt.",
+   "e": "It is a photo of a woman nobody knows."
+  },
+  {
+   "s": "Ich werde es mein ganzes Leben behalten.",
+   "e": "I will keep it my whole life."
+  },
+  {
+   "s": "Ich habe Vreni gefragt, ob sie es nicht will.",
+   "e": "I asked Vreni whether she did not want it."
+  },
+  {
+   "s": "Ich habe gefragt, weil man das fragen muss.",
+   "e": "I asked because you have to ask that."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe zweihundert Fotos von ihr.",
+   "e": "She said: I have two hundred photos of her."
+  },
+  {
+   "s": "Sie hat gesagt: Sie hat eines für dich ausgesucht.",
+   "e": "She said: she picked one out for you."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist der ganze Punkt.",
+   "e": "She said: that is the whole point."
+  },
+  {
+   "s": "Ich habe hier gelernt, was man einem Nachbarn hinterlässt.",
+   "e": "Here I have learnt what you leave a neighbour."
+  },
+  {
+   "s": "Man hinterlässt ihm kein Geld.",
+   "e": "You do not leave them money."
+  },
+  {
+   "s": "Das wäre fast eine Beleidigung.",
+   "e": "That would almost be an insult."
+  },
+  {
+   "s": "Man hinterlässt ihm auch nichts Wertvolles.",
+   "e": "You do not leave them anything valuable either."
+  },
+  {
+   "s": "Das wäre eine Rechnung, die er nicht zahlen kann.",
+   "e": "That would be a bill they cannot pay."
+  },
+  {
+   "s": "Man hinterlässt ihm etwas, das nur zwischen den zweien etwas heisst.",
+   "e": "You leave them something that only means something between the two of them."
+  },
+  {
+   "s": "Ein Bild. Ein Buch. Eine Tasse.",
+   "e": "A picture. A book. A cup."
+  },
+  {
+   "s": "Es kostet nichts und es sagt alles.",
+   "e": "It costs nothing and it says everything."
+  },
+  {
+   "s": "Ein Geschenk gibt man selber und man schaut zu.",
+   "e": "A present you give yourself and you watch."
+  },
+  {
+   "s": "Es sagt: Ich habe an dich gedacht, als ich Zeit gehabt habe.",
+   "e": "It says: I thought about you when I had time."
+  },
+  {
+   "s": "Und es sagt: Du gehörst nicht zur Familie und du gehörst dazu.",
+   "e": "And it says: you are not family and you belong."
+  },
+  {
+   "s": "Beides in einem Umschlag.",
+   "e": "Both in one envelope."
+  },
+  {
+   "s": "Ich bin an dem Abend mit dem Foto in der Hand gesessen.",
+   "e": "I sat that evening with the photo in my hand."
+  },
+  {
+   "s": "Ich habe es zuerst nicht hingestellt.",
+   "e": "At first I did not put it up."
+  },
+  {
+   "s": "Ich habe es drei Tage in dem Umschlag gelassen.",
+   "e": "I left it in the envelope for three days."
+  },
+  {
+   "s": "Dann habe ich einen Rahmen gekauft.",
+   "e": "Then I bought a frame."
+  },
+  {
+   "s": "Ich bin dafür in die Stadt gefahren, obwohl es hier einen Laden hat.",
+   "e": "I went into town for it, although there is a shop here."
+  },
+  {
+   "s": "So macht man Sachen, wenn man nicht weiss, wohin mit sich.",
+   "e": "That is how you do things when you do not know what to do with yourself."
+  },
+  {
+   "s": "Der Rahmen hat neun Franken gekostet.",
+   "e": "The frame cost nine francs."
+  },
+  {
+   "s": "Er ist zu gross und ich habe ihn trotzdem genommen.",
+   "e": "It is too big and I took it anyway."
+  },
+  {
+   "s": "Das Foto steht jetzt in meiner Küche.",
+   "e": "The photo is now in my kitchen."
+  },
+  {
+   "s": "Es steht dort, wo ich am Morgen den Kaffee mache.",
+   "e": "It stands where I make the coffee in the morning."
+  },
+  {
+   "s": "Selina hat es angeschaut und lange nichts gesagt.",
+   "e": "Selina looked at it and said nothing for a long time."
+  },
+  {
+   "s": "Dann hat sie gefragt: Ist das sie?",
+   "e": "Then she asked: is that her?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja. Mit vierzig.",
+   "e": "I said: yes. At forty."
+  },
+  {
+   "s": "Sie hat gesagt: Sie sieht aus wie jemand, den man kennen möchte.",
+   "e": "She said: she looks like somebody you would want to know."
+  },
+  {
+   "s": "Sie hat sie zwölfmal getroffen.",
+   "e": "She had met her twelve times."
+  },
+  {
+   "s": "Sie hat sie nie so gesehen.",
+   "e": "She had never seen her like that."
+  },
+  {
+   "s": "Das Foto zeigt einen Menschen, den ich nie gekannt habe.",
+   "e": "The photo shows a person I never knew."
+  },
+  {
+   "s": "Eine Frau von vierzig auf einem Berg im Juli.",
+   "e": "A woman of forty on a mountain in July."
+  },
+  {
+   "s": "Und trotzdem ist es genau sie.",
+   "e": "And all the same it is exactly her."
+  },
+  {
+   "s": "Es ist das gleiche Gesicht wie im Treppenhaus.",
+   "e": "It is the same face as in the stairwell."
+  },
+  {
+   "s": "Ich habe das damals gedacht, als sie es mir gezeigt hat.",
+   "e": "I thought that back then, when she showed it to me."
+  },
+  {
+   "s": "Ich habe gesagt: Ich erkenne dich sofort.",
+   "e": "I said: I recognise you straight away."
+  },
+  {
+   "s": "Sie hat gesagt: Ja. Das bleibt.",
+   "e": "She said: yes. That stays."
+  },
+  {
+   "s": "Sie hat es damals über das Gesicht gesagt.",
+   "e": "Back then she said it about the face."
+  },
+  {
+   "s": "Ich verstehe es jetzt anders.",
+   "e": "I understand it differently now."
+  }
+ ]
+}

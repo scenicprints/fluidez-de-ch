@@ -1,0 +1,109 @@
+{
+ "id": "sc45",
+ "title": "Im Mai geht es nicht",
+ "desc": "Saying no to somebody who is allowed to ask",
+ "setting": "A Sunday telephone call at six, and a date that has stopped being far away.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Deine Mutter",
+   "es": "Die zweite Woche im Mai. Zehn Tage. Ich habe schon geschaut.",
+   "en": "The second week in May. Ten days. I have already had a look.",
+   "options": [
+    {
+     "es": "Im Mai geht es nicht.",
+     "en": "May does not work.",
+     "verdict": "good",
+     "feedback": "Plain, and first. Everything else comes after it and none of it is an excuse."
+    },
+    {
+     "es": "Im Mai habe ich sehr viel im Büro.",
+     "en": "In May I have a lot on at the office.",
+     "verdict": "bad",
+     "feedback": "Almost true, which is what makes it an excuse. She will come back to it."
+    },
+    {
+     "es": "Zehn Tage sind lang.",
+     "en": "Ten days is a long time.",
+     "verdict": "ok",
+     "feedback": "It is the real problem and it lands as a complaint about her."
+    }
+   ]
+  },
+  {
+   "speaker": "Deine Mutter",
+   "es": "Warum geht es nicht?",
+   "en": "Why does it not work?",
+   "options": [
+    {
+     "es": "Seit Januar ist zu viel passiert.",
+     "en": "Since January too much has happened.",
+     "verdict": "good",
+     "feedback": "The truth, in six words. She is sixty-seven and she understands it immediately."
+    },
+    {
+     "es": "Die Wohnung ist zu klein.",
+     "en": "The flat is too small.",
+     "verdict": "bad",
+     "feedback": "The second excuse in one call. Now the first one is not believed either."
+    },
+    {
+     "es": "Das kann ich nicht erklären.",
+     "en": "I cannot explain that.",
+     "verdict": "ok",
+     "feedback": "Honest, and it leaves her holding a no with nothing in it."
+    }
+   ]
+  },
+  {
+   "speaker": "Deine Mutter",
+   "es": "Also gut.",
+   "en": "All right then.",
+   "options": [
+    {
+     "es": "Komm im September.",
+     "en": "Come in September.",
+     "verdict": "good",
+     "feedback": "A no with a date is an appointment. A no without one is a door."
+    },
+    {
+     "es": "Vielleicht im Herbst.",
+     "en": "Maybe in the autumn.",
+     "verdict": "bad",
+     "feedback": "Vielleicht means no here, and it leaves her waiting for it."
+    },
+    {
+     "es": "Ich melde mich, wenn es besser geht.",
+     "en": "I will let you know when things are better.",
+     "verdict": "ok",
+     "feedback": "Kind, and it puts the whole thing back on your side of the table."
+    }
+   ]
+  },
+  {
+   "speaker": "Deine Mutter",
+   "es": "Und? Geht es der Selina gut?",
+   "en": "And? Is Selina all right?",
+   "options": [
+    {
+     "es": "Ja. Sie fragt jede Woche nach dir.",
+     "en": "Yes. She asks about you every week.",
+     "verdict": "good",
+     "feedback": "She changed the subject, which means it is settled. Go with her."
+    },
+    {
+     "es": "Bist du jetzt beleidigt?",
+     "en": "Are you offended now?",
+     "verdict": "bad",
+     "feedback": "She is not. Asking makes the no into something that has to be defended."
+    },
+    {
+     "es": "Es tut mir wirklich leid wegen dem Mai.",
+     "en": "I am really sorry about May.",
+     "verdict": "ok",
+     "feedback": "Once was enough. Twice starts taking it back."
+    }
+   ]
+  }
+ ]
+}

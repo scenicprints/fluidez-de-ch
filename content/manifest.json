@@ -911,6 +911,188 @@
    "desc": "A future, said out loud",
    "phase": 4,
    "path": "lessons/p4-36.json"
+  },
+  {
+   "id": "p5-01",
+   "title": "Ihre Tür ist zu",
+   "desc": "A door that is always open, closed",
+   "phase": 5,
+   "path": "lessons/p5-01.json"
+  },
+  {
+   "id": "p5-02",
+   "title": "Im Spital",
+   "desc": "A hospital, and the words it needs",
+   "phase": 5,
+   "path": "lessons/p5-02.json"
+  },
+  {
+   "id": "p5-03",
+   "title": "Besuch",
+   "desc": "Sitting with somebody",
+   "phase": 5,
+   "path": "lessons/p5-03.json"
+  },
+  {
+   "id": "p5-04",
+   "title": "Was der Arzt sagt",
+   "desc": "Understanding something you do not want to",
+   "phase": 5,
+   "path": "lessons/p5-04.json"
+  },
+  {
+   "id": "p5-05",
+   "title": "Sie redet von ihm",
+   "desc": "Fifty two years, told out of order",
+   "phase": 5,
+   "path": "lessons/p5-05.json"
+  },
+  {
+   "id": "p5-06",
+   "title": "Sie bittet dich um etwas",
+   "desc": "A favour, from somebody who does not ask",
+   "phase": 5,
+   "path": "lessons/p5-06.json"
+  },
+  {
+   "id": "p5-07",
+   "title": "Sie ist gestorben",
+   "desc": "Three words, and then nothing",
+   "phase": 5,
+   "path": "lessons/p5-07.json"
+  },
+  {
+   "id": "p5-08",
+   "title": "Herr Zemp klopft",
+   "desc": "The Hauswart at your door",
+   "phase": 5,
+   "path": "lessons/p5-08.json"
+  },
+  {
+   "id": "p5-09",
+   "title": "Herzliches Beileid",
+   "desc": "The words people actually use",
+   "phase": 5,
+   "path": "lessons/p5-09.json"
+  },
+  {
+   "id": "p5-10",
+   "title": "Die Abdankung",
+   "desc": "A funeral, in a church you have walked past",
+   "phase": 5,
+   "path": "lessons/p5-10.json"
+  },
+  {
+   "id": "p5-11",
+   "title": "Die Todesanzeige",
+   "desc": "Her name in the newspaper",
+   "phase": 5,
+   "path": "lessons/p5-11.json"
+  },
+  {
+   "id": "p5-12",
+   "title": "Die Wohnung wird geräumt",
+   "desc": "Fifty years, into a van",
+   "phase": 5,
+   "path": "lessons/p5-12.json"
+  },
+  {
+   "id": "p5-13",
+   "title": "Vreni",
+   "desc": "A sister you did not know existed",
+   "phase": 5,
+   "path": "lessons/p5-13.json"
+  },
+  {
+   "id": "p5-14",
+   "title": "Sie hat dir etwas hinterlassen",
+   "desc": "Something small, chosen on purpose",
+   "phase": 5,
+   "path": "lessons/p5-14.json"
+  },
+  {
+   "id": "p5-15",
+   "title": "Ein ganz normaler Dienstag",
+   "desc": "Grief on a day with nothing in it",
+   "phase": 5,
+   "path": "lessons/p5-15.json"
+  },
+  {
+   "id": "p5-16",
+   "title": "Anders trauern",
+   "desc": "Two people, two speeds",
+   "phase": 5,
+   "path": "lessons/p5-16.json"
+  },
+  {
+   "id": "p5-17",
+   "title": "Aus Trauer gestritten",
+   "desc": "A fight about something else entirely",
+   "phase": 5,
+   "path": "lessons/p5-17.json"
+  },
+  {
+   "id": "p5-18",
+   "title": "Beat holt dich raus",
+   "desc": "Somebody makes you leave the flat",
+   "phase": 5,
+   "path": "lessons/p5-18.json"
+  },
+  {
+   "id": "p5-19",
+   "title": "Woher kommst du wirklich?",
+   "desc": "A question asked of somebody born here",
+   "phase": 5,
+   "path": "lessons/p5-19.json"
+  },
+  {
+   "id": "p5-20",
+   "title": "Es reicht nicht",
+   "desc": "Money, and running out of it",
+   "phase": 5,
+   "path": "lessons/p5-20.json"
+  },
+  {
+   "id": "p5-21",
+   "title": "Probleme bei der Arbeit",
+   "desc": "Something going wrong at work",
+   "phase": 5,
+   "path": "lessons/p5-21.json"
+  },
+  {
+   "id": "p5-22",
+   "title": "Nein sagen",
+   "desc": "Refusing somebody you love",
+   "phase": 5,
+   "path": "lessons/p5-22.json"
+  },
+  {
+   "id": "p5-23",
+   "title": "Sie trennen sich",
+   "desc": "Friends, coming apart",
+   "phase": 5,
+   "path": "lessons/p5-23.json"
+  },
+  {
+   "id": "p5-24",
+   "title": "Selber krank",
+   "desc": "Your own body, letting you down",
+   "phase": 5,
+   "path": "lessons/p5-24.json"
+  },
+  {
+   "id": "p5-25",
+   "title": "Um Hilfe bitten",
+   "desc": "Asking, which you have avoided",
+   "phase": 5,
+   "path": "lessons/p5-25.json"
+  },
+  {
+   "id": "p5-26",
+   "title": "Es wird leichter",
+   "desc": "Not better, lighter",
+   "phase": 5,
+   "path": "lessons/p5-26.json"
   }
  ],
  "scenarios": [
@@ -1172,6 +1354,62 @@
    "desc": "Asked over potatoes, which is how the big ones arrive",
    "phase": 4,
    "path": "scenarios/sc37.json"
+  },
+  {
+   "id": "sc38",
+   "title": "Station C",
+   "desc": "Four people, and none of them is the one who knows",
+   "phase": 5,
+   "path": "scenarios/sc38.json"
+  },
+  {
+   "id": "sc39",
+   "title": "Zwanzig Minuten",
+   "desc": "Sitting with somebody, and getting the questions wrong",
+   "phase": 5,
+   "path": "scenarios/sc39.json"
+  },
+  {
+   "id": "sc40",
+   "title": "Es ist nicht wichtig",
+   "desc": "A request, taking four minutes to arrive",
+   "phase": 5,
+   "path": "scenarios/sc40.json"
+  },
+  {
+   "id": "sc41",
+   "title": "Herzliches Beileid",
+   "desc": "A queue, and the same two words forty times",
+   "phase": 5,
+   "path": "scenarios/sc41.json"
+  },
+  {
+   "id": "sc42",
+   "title": "Zwei Kisten",
+   "desc": "A flat in a morning, and what goes in the boxes",
+   "phase": 5,
+   "path": "scenarios/sc42.json"
+  },
+  {
+   "id": "sc43",
+   "title": "Ich möchte etwas ansprechen",
+   "desc": "Twenty minutes, asked for two days in advance",
+   "phase": 5,
+   "path": "scenarios/sc43.json"
+  },
+  {
+   "id": "sc44",
+   "title": "Ich hätte eine Bitte",
+   "desc": "Four messages, two hours, and four yeses",
+   "phase": 5,
+   "path": "scenarios/sc44.json"
+  },
+  {
+   "id": "sc45",
+   "title": "Im Mai geht es nicht",
+   "desc": "Saying no to somebody who is allowed to ask",
+   "phase": 5,
+   "path": "scenarios/sc45.json"
   }
  ],
  "momo": "bluemli.json"

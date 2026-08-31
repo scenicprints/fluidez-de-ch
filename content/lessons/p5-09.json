@@ -1,0 +1,380 @@
+{
+ "id": "p5-09",
+ "title": "Herzliches Beileid",
+ "desc": "The words people actually use",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Beileid",
+  "Formel",
+  "herzlich",
+  "Hand",
+  "geben"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe es an einem Nachmittag elfmal gesagt.",
+   "e": "I said it eleven times in one afternoon."
+  },
+  {
+   "s": "Es ist eine Formel und ich habe sie zuerst nicht gemocht.",
+   "e": "It is a formula and at first I did not like it."
+  },
+  {
+   "s": "Am Schluss war ich sehr froh darüber.",
+   "e": "In the end I was very glad of it."
+  },
+  {
+   "s": "Die Formel heisst: Herzliches Beileid.",
+   "e": "The formula is: herzliches Beileid."
+  },
+  {
+   "s": "Das Beileid ist das Mitgefühl bei einem Tod.",
+   "e": "Beileid is sympathy at a death."
+  },
+  {
+   "s": "Herzlich heisst: von Herzen.",
+   "e": "Herzlich means: from the heart."
+  },
+  {
+   "s": "Man sagt: Herzliches Beileid.",
+   "e": "You say: herzliches Beileid."
+  },
+  {
+   "s": "Man sagt auch: Mein Beileid.",
+   "e": "You also say: mein Beileid."
+  },
+  {
+   "s": "Man sagt auch: Mein herzliches Beileid.",
+   "e": "You also say: mein herzliches Beileid."
+  },
+  {
+   "s": "Alle drei sind richtig und alle drei sind gleich.",
+   "e": "All three are correct and all three are the same."
+  },
+  {
+   "s": "Es gibt noch eine, die etwas höher ist.",
+   "e": "There is one more that is a little higher."
+  },
+  {
+   "s": "Herzliche Anteilnahme.",
+   "e": "Herzliche Anteilnahme."
+  },
+  {
+   "s": "Die steht in den Briefen und in der Zeitung.",
+   "e": "That one is in letters and in the newspaper."
+  },
+  {
+   "s": "Am Grab sagt man Beileid.",
+   "e": "At the grave you say Beileid."
+  },
+  {
+   "s": "Man sagt es und man gibt die Hand.",
+   "e": "You say it and you give your hand."
+  },
+  {
+   "s": "Die Hand ist wichtiger als die Wörter.",
+   "e": "The hand is more important than the words."
+  },
+  {
+   "s": "Man hält sie einen Moment länger als sonst.",
+   "e": "You hold it a moment longer than usual."
+  },
+  {
+   "s": "Nicht viel länger. Eine Sekunde.",
+   "e": "Not much longer. One second."
+  },
+  {
+   "s": "Diese eine Sekunde ist die ganze Sache.",
+   "e": "That one second is the whole thing."
+  },
+  {
+   "s": "Zu Hause macht man das anders.",
+   "e": "At home it is done differently."
+  },
+  {
+   "s": "Zu Hause sucht man eigene Wörter.",
+   "e": "At home you look for your own words."
+  },
+  {
+   "s": "Man sagt, wie besonders der Mensch war.",
+   "e": "You say how special the person was."
+  },
+  {
+   "s": "Man erzählt eine kleine Geschichte.",
+   "e": "You tell a small story."
+  },
+  {
+   "s": "Man umarmt sich und man weint auch.",
+   "e": "You hug each other and you cry too."
+  },
+  {
+   "s": "Hier nicht.",
+   "e": "Not here."
+  },
+  {
+   "s": "Hier gibt es zwei Wörter und eine Hand.",
+   "e": "Here there are two words and a hand."
+  },
+  {
+   "s": "Niemand schreit und niemand weint laut.",
+   "e": "Nobody screams and nobody cries loudly."
+  },
+  {
+   "s": "Ich habe das lange für kalt gehalten.",
+   "e": "For a long time I thought that was cold."
+  },
+  {
+   "s": "Ich halte es jetzt für das Gegenteil.",
+   "e": "I now think it is the opposite."
+  },
+  {
+   "s": "Am Dienstag habe ich verstanden, warum es die Formel gibt.",
+   "e": "On Tuesday I understood why the formula exists."
+  },
+  {
+   "s": "Ich bin nach der Abdankung an der Reihe gestanden.",
+   "e": "After the service I stood in the queue."
+  },
+  {
+   "s": "Vor mir waren ungefähr vierzig Leute.",
+   "e": "There were about forty people in front of me."
+  },
+  {
+   "s": "Alle haben Vreni die Hand gegeben und zwei Wörter gesagt.",
+   "e": "Everybody gave Vreni their hand and said two words."
+  },
+  {
+   "s": "Vreni hat zweihundertmal die gleiche Antwort gegeben.",
+   "e": "Vreni gave the same answer two hundred times."
+  },
+  {
+   "s": "Sie hat gesagt: Danke. Merci vielmal.",
+   "e": "She said: thank you. Merci vielmal."
+  },
+  {
+   "s": "Stellen Sie sich das mit eigenen Wörtern vor.",
+   "e": "Imagine that with your own words."
+  },
+  {
+   "s": "Zweihundert Leute, die alle etwas Persönliches sagen.",
+   "e": "Two hundred people all saying something personal."
+  },
+  {
+   "s": "Zweihundert kleine Geschichten an einem Nachmittag.",
+   "e": "Two hundred small stories in one afternoon."
+  },
+  {
+   "s": "Der Mensch am Ende von der Reihe wäre nach einer Stunde am Boden.",
+   "e": "The person at the end of the queue would be on the floor after an hour."
+  },
+  {
+   "s": "Die Formel schützt den, der trauert.",
+   "e": "The formula protects the one who is grieving."
+  },
+  {
+   "s": "Er muss nichts finden, was er antwortet.",
+   "e": "They do not have to find anything to answer."
+  },
+  {
+   "s": "Er muss nur danke sagen und die Hand halten.",
+   "e": "They only have to say thank you and hold the hand."
+  },
+  {
+   "s": "Und der andere muss nichts erfinden.",
+   "e": "And the other person does not have to invent anything."
+  },
+  {
+   "s": "Das ist das zweite, was die Formel macht.",
+   "e": "That is the second thing the formula does."
+  },
+  {
+   "s": "Ich habe elfmal gewusst, was ich sage.",
+   "e": "Eleven times I knew what I was saying."
+  },
+  {
+   "s": "Ohne die Formel hätte ich elfmal etwas Falsches gesagt.",
+   "e": "Without the formula I would have said something wrong eleven times."
+  },
+  {
+   "s": "Ich habe es an dem Tag zu ganz verschiedenen Leuten gesagt.",
+   "e": "I said it that day to completely different people."
+  },
+  {
+   "s": "Zu Vreni am Ausgang von der Kirche.",
+   "e": "To Vreni at the exit of the church."
+  },
+  {
+   "s": "Zu zwei Frauen, die ich nie gesehen habe.",
+   "e": "To two women I had never seen."
+  },
+  {
+   "s": "Zu einem Mann von neunzig mit einem Stock.",
+   "e": "To a man of ninety with a stick."
+  },
+  {
+   "s": "Zu Herrn Bucher, der drei Meter neben mir gestanden ist.",
+   "e": "To Herr Bucher, who was standing three metres from me."
+  },
+  {
+   "s": "Herr Bucher hat gesagt: Ihnen auch.",
+   "e": "Herr Bucher said: to you too."
+  },
+  {
+   "s": "Das habe ich nicht erwartet.",
+   "e": "I had not expected that."
+  },
+  {
+   "s": "Ich habe gedacht, dass ich nur der Nachbar bin.",
+   "e": "I had thought that I was only the neighbour."
+  },
+  {
+   "s": "Für ihn war ich auch jemand, der etwas verloren hat.",
+   "e": "For him I was also somebody who had lost something."
+  },
+  {
+   "s": "Es gibt Sachen, die man nicht sagt.",
+   "e": "There are things you do not say."
+  },
+  {
+   "s": "Man sagt nicht: Sie hat ein schönes Leben gehabt.",
+   "e": "You do not say: she had a good life."
+  },
+  {
+   "s": "Man sagt nicht: Jetzt hat sie es hinter sich.",
+   "e": "You do not say: now she has it behind her."
+  },
+  {
+   "s": "Man sagt nicht: Sie ist jetzt bei ihm.",
+   "e": "You do not say: she is with him now."
+  },
+  {
+   "s": "Man bringt auch kein Geschenk mit.",
+   "e": "You also do not bring a present."
+  },
+  {
+   "s": "Das darf die Familie sagen.",
+   "e": "The family may say that."
+  },
+  {
+   "s": "Ein anderer darf es nicht.",
+   "e": "Somebody else may not."
+  },
+  {
+   "s": "Man sagt auch nicht: Ich weiss, wie du dich fühlst.",
+   "e": "You also do not say: I know how you feel."
+  },
+  {
+   "s": "Das ist überall falsch und hier besonders.",
+   "e": "That is wrong everywhere and here especially."
+  },
+  {
+   "s": "Man fragt auch nicht, woran sie gestorben ist.",
+   "e": "You also do not ask what she died of."
+  },
+  {
+   "s": "Wenn die Familie es sagen will, sagt sie es selber.",
+   "e": "If the family wants to say it, they say it themselves."
+  },
+  {
+   "s": "Es gibt einen Satz, den man dazu sagen darf.",
+   "e": "There is one sentence you are allowed to add."
+  },
+  {
+   "s": "Man darf sagen: Wenn ich etwas machen kann, sagen Sie es.",
+   "e": "You may say: if I can do anything, tell me."
+  },
+  {
+   "s": "Aber nur, wenn man es meint.",
+   "e": "But only if you mean it."
+  },
+  {
+   "s": "Hier prüft man solche Sätze.",
+   "e": "Here people check sentences like that."
+  },
+  {
+   "s": "Ich habe es zu Vreni gesagt und sie hat mich angeschaut.",
+   "e": "I said it to Vreni and she looked at me."
+  },
+  {
+   "s": "Sie hat gesagt: Gut. Ich komme darauf zurück.",
+   "e": "She said: good. I will come back to you on that."
+  },
+  {
+   "s": "Und sie ist zwei Tage später darauf zurückgekommen.",
+   "e": "And she came back to me on it two days later."
+  },
+  {
+   "s": "Am Telefon habe ich es anders gesagt.",
+   "e": "On the telephone I said it differently."
+  },
+  {
+   "s": "Mein Chef hat am Mittwoch angerufen.",
+   "e": "My boss called on Wednesday."
+  },
+  {
+   "s": "Er hat gesagt: Marco hat es mir gesagt. Mein Beileid.",
+   "e": "He said: Marco told me. My condolences."
+  },
+  {
+   "s": "Er hat gefragt, ob ich den Dienstag frei brauche.",
+   "e": "He asked whether I needed the Tuesday off."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Er hat gesagt: Ist geregelt.",
+   "e": "He said: it is sorted."
+  },
+  {
+   "s": "Das ganze Gespräch hat vierzig Sekunden gedauert.",
+   "e": "The whole conversation lasted forty seconds."
+  },
+  {
+   "s": "Es war genug und es war richtig.",
+   "e": "It was enough and it was right."
+  },
+  {
+   "s": "Am Abend hat mir Nuno geschrieben.",
+   "e": "In the evening Nuno wrote to me."
+  },
+  {
+   "s": "Er hat geschrieben: Ich habe es gehört. Komm am Donnerstag essen.",
+   "e": "He wrote: I heard. Come and eat on Thursday."
+  },
+  {
+   "s": "Kein Beileid.",
+   "e": "No condolences."
+  },
+  {
+   "s": "Nuno macht es anders und Nuno ist auch nicht von hier.",
+   "e": "Nuno does it differently and Nuno is not from here either."
+  },
+  {
+   "s": "Bei ihm heisst Beileid: Komm essen.",
+   "e": "With him condolences mean: come and eat."
+  },
+  {
+   "s": "Ich bin gegangen und Sofia hat zu viel gekocht.",
+   "e": "I went and Sofia cooked too much."
+  },
+  {
+   "s": "Sie haben mich gefragt, wer sie war.",
+   "e": "They asked me who she was."
+  },
+  {
+   "s": "Ich habe eine Stunde von ihr erzählt.",
+   "e": "I talked about her for an hour."
+  },
+  {
+   "s": "Das ist an dem ganzen Tag nur dort passiert.",
+   "e": "In the whole of that day that only happened there."
+  },
+  {
+   "s": "Beides ist richtig und ich habe an dem Tag beides gebraucht.",
+   "e": "Both are right and I needed both that day."
+  }
+ ]
+}

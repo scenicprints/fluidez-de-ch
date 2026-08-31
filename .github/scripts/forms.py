@@ -406,6 +406,20 @@ def build(dictionary, texts, verbs=None, overrides=None):
                     claim(bucket, part.split(u" ")[0], owner)
             for f in past_forms(v):
                 claim(bucket, f.split(u" ")[0], owner)
+
+            # And a subordinate clause puts the two halves back together:
+            # *weil er am Montag anfängt*, *dass es mich betrifft*. That form
+            # belongs to the separable verb itself and not to its base, because
+            # the prefix is right there on the word. Phase 5 is where this
+            # started to matter - it is the phase that teaches the subordinate
+            # clause, and before it these joined forms barely occurred.
+            for part in (v.get("pres2"), v.get("pres3"), v.get("imp")):
+                if part:
+                    claim(stated, pre + part.split(u" ")[0], inf)
+            for f in past_forms(v):
+                claim(stated, pre + f.split(u" ")[0], inf)
+            for f in present_forms(inf, {}):
+                claim(ruled, f if f.startswith(pre) else pre + f, inf)
             continue
 
         for f in present_forms(inf, v):
@@ -423,6 +437,12 @@ def build(dictionary, texts, verbs=None, overrides=None):
             for f in noun_forms(lemma, entry):
                 claim(ruled, f, lemma)
         elif pos in ("adj", "adv"):
+            for f in adj_forms(lemma):
+                claim(ruled, f, lemma)
+        elif pos == "num" and lemma.endswith(u"t"):
+            # An ordinal is stored as its stem - viert, sechst, zwanzigst - and
+            # declines exactly like an adjective: der vierte, am zwanzigsten.
+            # Genuinely regular, so it is ruled rather than written out.
             for f in adj_forms(lemma):
                 claim(ruled, f, lemma)
             if lemma in COMPARATIVES:

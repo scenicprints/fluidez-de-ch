@@ -1,0 +1,109 @@
+{
+ "id": "sc42",
+ "title": "Zwei Kisten",
+ "desc": "A flat in a morning, and what goes in the boxes",
+ "setting": "Three rooms, six people, and a van outside with the back doors open.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Vreni",
+   "es": "Das kommt alles ins Brockenhaus. Ausser was in die Kisten geht.",
+   "en": "That is all going to the second-hand shop. Except what goes in the boxes.",
+   "options": [
+    {
+     "es": "Was soll in die Kisten?",
+     "en": "What should go in the boxes?",
+     "verdict": "good",
+     "feedback": "Ask before you decide. It is her sister and they are her two boxes."
+    },
+    {
+     "es": "Die Fotos nehme ich.",
+     "en": "I will take the photos.",
+     "verdict": "bad",
+     "feedback": "Nobody has offered you anything yet. Two hours later she does."
+    },
+    {
+     "es": "Das ist sehr schnell.",
+     "en": "That is very fast.",
+     "verdict": "ok",
+     "feedback": "It is, and the rent runs on either way. She will tell you the arithmetic if you let her."
+    }
+   ]
+  },
+  {
+   "speaker": "Vreni",
+   "es": "Die Fotos vom Kasten. Legst du sie hinein?",
+   "en": "The photos from the sideboard. Will you put them in?",
+   "options": [
+    {
+     "es": "Ja.",
+     "en": "Yes.",
+     "verdict": "good",
+     "feedback": "Say yes and put them in one at a time. She is watching, and that is the job."
+    },
+    {
+     "es": "Willst du sie nicht selber?",
+     "en": "Do you not want to do it yourself?",
+     "verdict": "ok",
+     "feedback": "She asked you on purpose. She has been doing this since seven in the morning."
+    },
+    {
+     "es": "Der da ist ihr Mann, oder?",
+     "en": "That one is her husband, isn't it?",
+     "verdict": "ok",
+     "feedback": "It is, and now is not the hour for it. Ask her in a café in three weeks."
+    }
+   ]
+  },
+  {
+   "speaker": "Ruedi Zemp",
+   "es": "Nehmen Sie vorne, ich nehme hinten.",
+   "en": "You take the front, I will take the back.",
+   "options": [
+    {
+     "es": "Gut.",
+     "en": "All right.",
+     "verdict": "good",
+     "feedback": "He has carried furniture down this staircase for twenty years. Take the end you are given."
+    },
+    {
+     "es": "Ich kann auch hinten.",
+     "en": "I can take the back as well.",
+     "verdict": "ok",
+     "feedback": "You cannot, and he knows the second turn better than you do."
+    },
+    {
+     "es": "Sollen wir zu dritt?",
+     "en": "Should we do it with three?",
+     "verdict": "ok",
+     "feedback": "Sensible for the cupboard. For a table it makes the stairs worse."
+    }
+   ]
+  },
+  {
+   "speaker": "Vreni",
+   "es": "So. Das war es. Kaffee?",
+   "en": "Right. That was it. Coffee?",
+   "options": [
+    {
+     "es": "Gern.",
+     "en": "Gladly.",
+     "verdict": "good",
+     "feedback": "Stay for it. Standing in an empty kitchen with a paper cup is most of what today was for."
+    },
+    {
+     "es": "Ich muss noch arbeiten.",
+     "en": "I still have to work.",
+     "verdict": "ok",
+     "feedback": "You took the day off. She knows, because you told her at eight."
+    },
+    {
+     "es": "Wie halten Sie das aus?",
+     "en": "How are you bearing up?",
+     "verdict": "bad",
+     "feedback": "Sie, still, after a morning of this. And it is a very large question for a paper cup."
+    }
+   ]
+  }
+ ]
+}

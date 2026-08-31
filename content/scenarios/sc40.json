@@ -1,0 +1,109 @@
+{
+ "id": "sc40",
+ "title": "Es ist nicht wichtig",
+ "desc": "A request, taking four minutes to arrive",
+ "setting": "The eleventh evening on the same chair, and a Sunday she cannot get to.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Rosmarie",
+   "es": "Am Sonntag gehe ich immer auf den Friedhof. Jetzt geht das nicht.",
+   "en": "On Sunday I always go to the cemetery. That does not work now.",
+   "options": [
+    {
+     "es": "Soll ich hingehen?",
+     "en": "Shall I go?",
+     "verdict": "ok",
+     "feedback": "Kind, and it takes the asking away from her. Sometimes right. Not with her."
+    },
+    {
+     "es": "Seit wann machst du das?",
+     "en": "How long have you been doing that?",
+     "verdict": "ok",
+     "feedback": "A real question, and it sends her somewhere else. She was going somewhere."
+    },
+    {
+     "es": "Mmh.",
+     "en": "Mmh.",
+     "verdict": "good",
+     "feedback": "Say nothing and leave the room open. She needs the four minutes and she will use them."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Es ist nicht wichtig. Du hast sicher keine Zeit.",
+   "en": "It is not important. You certainly have no time.",
+   "options": [
+    {
+     "es": "Ich habe Zeit.",
+     "en": "I have time.",
+     "verdict": "good",
+     "feedback": "Take the way out away, once, and wait. She will get there."
+    },
+    {
+     "es": "Was ist nicht wichtig?",
+     "en": "What is not important?",
+     "verdict": "ok",
+     "feedback": "Honest, and it makes her start the whole approach again."
+    },
+    {
+     "es": "Am Sonntag ist schlecht.",
+     "en": "Sunday is bad.",
+     "verdict": "bad",
+     "feedback": "She built you an exit out of politeness and you walked through it."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Könntest du am Sonntag hingehen? Die Blumen musst du nicht kaufen.",
+   "en": "Could you go there on Sunday? You do not have to buy the flowers.",
+   "options": [
+    {
+     "es": "Mache ich.",
+     "en": "I will.",
+     "verdict": "good",
+     "feedback": "Two words. Anything longer makes her feel the size of what she asked."
+    },
+    {
+     "es": "Natürlich, gern, überhaupt kein Problem.",
+     "en": "Of course, gladly, no problem at all.",
+     "verdict": "ok",
+     "feedback": "Warm, and three times too much. It tells her the favour was big."
+    },
+    {
+     "es": "Und was mache ich dort genau?",
+     "en": "And what exactly do I do there?",
+     "verdict": "ok",
+     "feedback": "Fair, and she has already told you: the can is at the fountain, third row."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Und sag ihm Grüezi von mir.",
+   "en": "And say Grüezi to him from me.",
+   "options": [
+    {
+     "es": "Mache ich.",
+     "en": "I will.",
+     "verdict": "good",
+     "feedback": "She said it the way you send a greeting to a neighbour. Take it the same way."
+    },
+    {
+     "es": "Das ist schön.",
+     "en": "That is lovely.",
+     "verdict": "bad",
+     "feedback": "Now it is a moment, and she was trying very hard for it not to be one."
+    },
+    {
+     "es": "Meinst du das ernst?",
+     "en": "Do you mean that seriously?",
+     "verdict": "bad",
+     "feedback": "She talks to him every morning. She told you that two years ago."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,381 @@
+{
+ "id": "p5-26",
+ "title": "Es wird leichter",
+ "desc": "Not better, lighter",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "lachen",
+  "erst"
+ ],
+ "sn": [
+  {
+   "s": "Es ist am ersten warmen Samstag passiert.",
+   "e": "It happened on the first warm Saturday."
+  },
+  {
+   "s": "Der erste warme Tag ist hier ein Ereignis.",
+   "e": "The first warm day is an event here."
+  },
+  {
+   "s": "Er kommt nicht im Kalender.",
+   "e": "It does not come in the calendar."
+  },
+  {
+   "s": "Er kommt an einem Tag im Mai, plötzlich, und alle wissen es gleichzeitig.",
+   "e": "It comes on a day in May, suddenly, and everybody knows at the same time."
+  },
+  {
+   "s": "Am Morgen sind schon alle draussen.",
+   "e": "In the morning everybody is already outside."
+  },
+  {
+   "s": "Jeder Platz am Wasser ist besetzt.",
+   "e": "Every place by the water is taken."
+  },
+  {
+   "s": "Unten am Wasser schreien die Kinder und niemand sagt etwas dazu.",
+   "e": "Down by the water the children are shrieking and nobody says anything about it."
+  },
+  {
+   "s": "Die Leute sitzen auf der Mauer und die Beine hängen hinunter.",
+   "e": "People sit on the wall with their legs hanging down."
+  },
+  {
+   "s": "In den Beizen stehen die Tische zum ersten Mal draussen.",
+   "e": "In the pubs the tables are outside for the first time."
+  },
+  {
+   "s": "Alle reden lauter als im Februar.",
+   "e": "Everybody talks louder than in February."
+  },
+  {
+   "s": "Es ist das gleiche Land und es sind andere Leute.",
+   "e": "It is the same country and they are different people."
+  },
+  {
+   "s": "Wir sind mit Timo und Selina am Fluss gesessen.",
+   "e": "We sat by the river with Timo and Selina."
+  },
+  {
+   "s": "Ich habe Selina vorher bei der Arbeit abgeholt.",
+   "e": "I had picked Selina up from work beforehand."
+  },
+  {
+   "s": "Es war halb sieben am Abend und es war noch warm.",
+   "e": "It was half past six in the evening and it was still warm."
+  },
+  {
+   "s": "Timo hat eine Geschichte erzählt von einer Kuh und einem Zaun.",
+   "e": "Timo told a story about a cow and a fence."
+  },
+  {
+   "s": "Die Geschichte ist nicht besonders.",
+   "e": "The story is not special."
+  },
+  {
+   "s": "Er erzählt sie schlecht und er lacht selber zu früh.",
+   "e": "He tells it badly and he laughs too early himself."
+  },
+  {
+   "s": "Ich habe gelacht.",
+   "e": "I laughed."
+  },
+  {
+   "s": "Nicht höflich. Richtig.",
+   "e": "Not politely. Properly."
+  },
+  {
+   "s": "Mitten im Lachen habe ich mich selber gehört.",
+   "e": "In the middle of the laugh I heard myself."
+  },
+  {
+   "s": "Ich bin fast erschrocken.",
+   "e": "I was almost startled."
+  },
+  {
+   "s": "Es war das erste richtige Lachen seit vier Monaten.",
+   "e": "It was the first proper laugh in four months."
+  },
+  {
+   "s": "Und dann ist der zweite Gedanke gekommen.",
+   "e": "And then the second thought came."
+  },
+  {
+   "s": "Der zweite Gedanke ist der schwerere.",
+   "e": "The second thought is the harder one."
+  },
+  {
+   "s": "Man denkt: Ich darf das nicht.",
+   "e": "You think: I am not allowed to."
+  },
+  {
+   "s": "Man denkt: Es ist erst vier Monate her.",
+   "e": "You think: it has only been four months."
+  },
+  {
+   "s": "Das ist eine dumme Rechnung und alle machen sie.",
+   "e": "That is a stupid calculation and everybody makes it."
+  },
+  {
+   "s": "Selina hat es gemerkt.",
+   "e": "Selina noticed it."
+  },
+  {
+   "s": "Sie hat nichts gesagt.",
+   "e": "She said nothing."
+  },
+  {
+   "s": "Sie hat mir unter dem Tisch die Hand auf das Knie gelegt.",
+   "e": "She put her hand on my knee under the table."
+  },
+  {
+   "s": "Zwei Sekunden.",
+   "e": "Two seconds."
+  },
+  {
+   "s": "Das ist der ganze Satz gewesen.",
+   "e": "That was the whole sentence."
+  },
+  {
+   "s": "Es wird nicht besser.",
+   "e": "It does not get better."
+  },
+  {
+   "s": "Das ist das falsche Wort und alle brauchen es.",
+   "e": "That is the wrong word and everybody uses it."
+  },
+  {
+   "s": "Besser heisst, dass etwas kaputt war und jetzt ganz ist.",
+   "e": "Better means that something was broken and is now whole."
+  },
+  {
+   "s": "So ist es nicht.",
+   "e": "It is not like that."
+  },
+  {
+   "s": "Es wird leichter.",
+   "e": "It gets lighter."
+  },
+  {
+   "s": "Das ist das richtige Wort.",
+   "e": "That is the right word."
+  },
+  {
+   "s": "Es ist gleich gross und man trägt es besser.",
+   "e": "It is just as big and you carry it better."
+  },
+  {
+   "s": "Man wird stärker und die Sache bleibt.",
+   "e": "You get stronger and the thing stays."
+  },
+  {
+   "s": "Es gibt drei Wörter für diese Zeit.",
+   "e": "There are three words for this time."
+  },
+  {
+   "s": "Langsam. Mit der Zeit. Allmählich.",
+   "e": "Langsam. Mit der Zeit. Allmählich."
+  },
+  {
+   "s": "Langsam wird es leichter.",
+   "e": "Slowly it gets lighter."
+  },
+  {
+   "s": "Mit der Zeit geht es.",
+   "e": "With time it gets all right."
+  },
+  {
+   "s": "Allmählich ist das Wort für ganz kleine Schritte.",
+   "e": "Allmählich is the word for very small steps."
+  },
+  {
+   "s": "Es ist ein bisschen alt und ich mag es.",
+   "e": "It is a little old-fashioned and I like it."
+  },
+  {
+   "s": "Man hört es hier bei Leuten über sechzig.",
+   "e": "You hear it here from people over sixty."
+  },
+  {
+   "s": "Vreni hat es im Juli am Telefon gesagt.",
+   "e": "Vreni said it on the phone in July."
+  },
+  {
+   "s": "Sie hat gefragt, wie es mir geht.",
+   "e": "She asked how I was."
+  },
+  {
+   "s": "Ich habe gesagt: Allmählich.",
+   "e": "I said: allmählich."
+  },
+  {
+   "s": "Sie hat gelacht und gesagt: Genau.",
+   "e": "She laughed and said: exactly."
+  },
+  {
+   "s": "Ich habe im Juni das Jahr fertig gehabt.",
+   "e": "In June I had finished the year."
+  },
+  {
+   "s": "Nicht das Kalenderjahr.",
+   "e": "Not the calendar year."
+  },
+  {
+   "s": "Ein Jahr von hier, von Winter zu Winter.",
+   "e": "A year from here, from winter to winter."
+  },
+  {
+   "s": "Es fängt im November mit dem Nebel an.",
+   "e": "It starts in November with the fog."
+  },
+  {
+   "s": "Dann die Woche mit den Lichtern und dem Samichlaus.",
+   "e": "Then the week with the lights and the Samichlaus."
+  },
+  {
+   "s": "Dann Weihnachten und Silvester und dann der lange Teil.",
+   "e": "Then Christmas and New Year and then the long part."
+  },
+  {
+   "s": "Januar und Februar sind hier grau und es hört nicht auf.",
+   "e": "January and February are grey here and it does not stop."
+  },
+  {
+   "s": "Dann kommt die Fasnacht mitten hinein und macht drei Tage Lärm.",
+   "e": "Then Fasnacht comes into the middle of it and makes three days of noise."
+  },
+  {
+   "s": "Dann ist es wieder grau und dann kommt der erste warme Tag.",
+   "e": "Then it is grey again and then the first warm day comes."
+  },
+  {
+   "s": "Dann sind alle draussen bis im September.",
+   "e": "Then everybody is outside until September."
+  },
+  {
+   "s": "Dann der Alpabzug und der erste Schnee auf dem Pilatus.",
+   "e": "Then the Alpabzug and the first snow on the Pilatus."
+  },
+  {
+   "s": "Und dann wieder der Nebel.",
+   "e": "And then the fog again."
+  },
+  {
+   "s": "Das ist der Kreis und ich kenne ihn jetzt.",
+   "e": "That is the circle and I know it now."
+  },
+  {
+   "s": "Ich weiss im November, dass der Februar kommt.",
+   "e": "In November I know that February is coming."
+  },
+  {
+   "s": "Ich weiss im Februar, dass der Mai kommt.",
+   "e": "In February I know that May is coming."
+  },
+  {
+   "s": "Das ist der Unterschied zwischen dem ersten Jahr und dem dritten.",
+   "e": "That is the difference between the first year and the third."
+  },
+  {
+   "s": "Im ersten Jahr ist der Nebel eine Nachricht.",
+   "e": "In the first year the fog is news."
+  },
+  {
+   "s": "Im dritten Jahr ist er ein Monat.",
+   "e": "In the third year it is a month."
+  },
+  {
+   "s": "Rosmarie hat den Kreis achtundsiebzigmal gemacht.",
+   "e": "Rosmarie went round the circle seventy-eight times."
+  },
+  {
+   "s": "Sie hat im Spital vom Sommer geredet, der noch kommt.",
+   "e": "In the hospital she talked about the summer that was still coming."
+  },
+  {
+   "s": "Sie hat gewusst, dass sie ihn nicht sieht.",
+   "e": "She knew that she would not see it."
+  },
+  {
+   "s": "Sie hat trotzdem davon geredet.",
+   "e": "She talked about it all the same."
+  },
+  {
+   "s": "Das habe ich damals nicht verstanden.",
+   "e": "I did not understand that at the time."
+  },
+  {
+   "s": "Ich habe gedacht, dass sie sich etwas vormacht.",
+   "e": "I thought that she was fooling herself."
+  },
+  {
+   "s": "Jetzt sitze ich im Mai an dem Fluss.",
+   "e": "Now I am sitting by the river in May."
+  },
+  {
+   "s": "Sie hat von diesem Abend geredet.",
+   "e": "She was talking about this evening."
+  },
+  {
+   "s": "Nicht von ihrem.",
+   "e": "Not about hers."
+  },
+  {
+   "s": "Sie hat gewusst, wer im Mai am Wasser sitzt.",
+   "e": "She knew who would be sitting by the water in May."
+  },
+  {
+   "s": "Ich gehe seit April jeden zweiten Sonntag auf den Friedhof.",
+   "e": "Since April I have gone to the cemetery every other Sunday."
+  },
+  {
+   "s": "Nicht jeden. Jeden zweiten.",
+   "e": "Not every. Every other one."
+  },
+  {
+   "s": "Ich hole die Kanne beim Brunnen.",
+   "e": "I fetch the can at the fountain."
+  },
+  {
+   "s": "Auf dem Stein stehen jetzt zwei Namen.",
+   "e": "There are two names on the stone now."
+  },
+  {
+   "s": "Der Steinmetz hat im April gearbeitet.",
+   "e": "The stonemason did the work in April."
+  },
+  {
+   "s": "Der neue Name ist heller als der alte.",
+   "e": "The new name is lighter than the old one."
+  },
+  {
+   "s": "In zehn Jahren sind sie gleich.",
+   "e": "In ten years they will be the same."
+  },
+  {
+   "s": "Ich sage nichts, wenn ich dort bin.",
+   "e": "I say nothing when I am there."
+  },
+  {
+   "s": "Einmal habe ich Grüezi gesagt.",
+   "e": "Once I said Grüezi."
+  },
+  {
+   "s": "Seit dem Umzug stelle ich am Sonntag kein Radio mehr an.",
+   "e": "Since the move I do not turn a radio on any more on Sunday."
+  },
+  {
+   "s": "Das war im Mai, an dem Sonntag nach dem Umzug.",
+   "e": "That was in May, on the Sunday after the move."
+  },
+  {
+   "s": "Es ist mir herausgerutscht, wie zu einem Nachbarn im Treppenhaus.",
+   "e": "It slipped out of me, like to a neighbour in the stairwell."
+  },
+  {
+   "s": "Genau so hat sie es gemeint.",
+   "e": "That is exactly how she meant it."
+  }
+ ]
+}

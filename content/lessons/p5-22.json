@@ -1,0 +1,374 @@
+{
+ "id": "p5-22",
+ "title": "Nein sagen",
+ "desc": "Refusing somebody you love",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Ausrede",
+  "Mai",
+  "nein"
+ ],
+ "sn": [
+  {
+   "s": "Meine Mutter hat im April gefragt, ob sie kommen kann.",
+   "e": "In April my mother asked whether she could come."
+  },
+  {
+   "s": "Sie hat es im Dezember zum ersten Mal gefragt.",
+   "e": "She asked it for the first time in December."
+  },
+  {
+   "s": "Damals habe ich gesagt: Ja, unbedingt.",
+   "e": "Back then I said: yes, definitely."
+  },
+  {
+   "s": "Damals war es weit weg.",
+   "e": "Back then it was far away."
+  },
+  {
+   "s": "Jetzt hat sie ein Datum gehabt.",
+   "e": "Now she had a date."
+  },
+  {
+   "s": "Sie hat gesagt: Die zweite Woche im Mai.",
+   "e": "She said: the second week in May."
+  },
+  {
+   "s": "Sie hat gesagt: Zehn Tage. Ich habe schon geschaut.",
+   "e": "She said: ten days. I have already had a look."
+  },
+  {
+   "s": "Ich bin am Telefon gestanden und ich habe nichts gesagt.",
+   "e": "I stood at the telephone and I said nothing."
+  },
+  {
+   "s": "In diesen zwei Sekunden habe ich alles gerechnet.",
+   "e": "In those two seconds I calculated everything."
+  },
+  {
+   "s": "Im Mai ziehe ich um.",
+   "e": "In May I am moving."
+  },
+  {
+   "s": "Im Mai zahle ich die dritte Rate.",
+   "e": "In May I pay the third instalment."
+  },
+  {
+   "s": "Im Mai bin ich seit vier Monaten müde.",
+   "e": "In May I have been tired for four months."
+  },
+  {
+   "s": "Zehn Tage.",
+   "e": "Ten days."
+  },
+  {
+   "s": "Meine Wohnung hat ein Zimmer und ein Sofa.",
+   "e": "My flat has one room and a sofa."
+  },
+  {
+   "s": "Ich habe zuerst eine Ausrede gesucht.",
+   "e": "At first I looked for an excuse."
+  },
+  {
+   "s": "Eine Ausrede ist ein Grund, der nicht der Grund ist.",
+   "e": "An excuse is a reason that is not the reason."
+  },
+  {
+   "s": "Ich habe drei gefunden in zehn Sekunden.",
+   "e": "I found three in ten seconds."
+  },
+  {
+   "s": "Ich habe im Mai viel zu tun im Büro.",
+   "e": "I have a lot on at the office in May."
+  },
+  {
+   "s": "Die Wohnung ist zu klein für Gäste.",
+   "e": "The flat is too small for guests."
+  },
+  {
+   "s": "Im Mai regnet es hier immer.",
+   "e": "It always rains here in May."
+  },
+  {
+   "s": "Alle drei waren fast wahr.",
+   "e": "All three were almost true."
+  },
+  {
+   "s": "Das ist das Gefährliche an einer Ausrede.",
+   "e": "That is the dangerous thing about an excuse."
+  },
+  {
+   "s": "Sie ist meistens fast wahr.",
+   "e": "It is usually almost true."
+  },
+  {
+   "s": "Ich habe hier gelernt, dass eine Ausrede nicht gut ankommt.",
+   "e": "Here I have learnt that an excuse does not go down well."
+  },
+  {
+   "s": "Sie ist nicht unhöflich.",
+   "e": "It is not impolite."
+  },
+  {
+   "s": "Sie ist etwas Schlimmeres.",
+   "e": "It is something worse."
+  },
+  {
+   "s": "Sie ist unehrlich, und Unehrlichkeit ist hier das Ende von allem.",
+   "e": "It is dishonest, and dishonesty is the end of everything here."
+  },
+  {
+   "s": "Ein Nein ist hier billig.",
+   "e": "A no is cheap here."
+  },
+  {
+   "s": "Eine Ausrede ist teuer.",
+   "e": "An excuse is expensive."
+  },
+  {
+   "s": "Zu Hause ist es genau umgekehrt.",
+   "e": "At home it is exactly the other way round."
+  },
+  {
+   "s": "Zu Hause sagt man nie nur nein.",
+   "e": "At home you never just say no."
+  },
+  {
+   "s": "Man sagt: Ich würde ja gern, aber leider.",
+   "e": "You say: I would love to, but unfortunately."
+  },
+  {
+   "s": "Dann kommt eine Geschichte mit drei Teilen.",
+   "e": "Then comes a story with three parts."
+  },
+  {
+   "s": "Die Geschichte ist die Höflichkeit.",
+   "e": "The story is the politeness."
+  },
+  {
+   "s": "Hier ist die Geschichte der Fehler.",
+   "e": "Here the story is the mistake."
+  },
+  {
+   "s": "Wenn du hier einen Grund erfindest, prüft ihn jemand.",
+   "e": "If you invent a reason here, somebody checks it."
+  },
+  {
+   "s": "Nicht aus Misstrauen.",
+   "e": "Not out of mistrust."
+  },
+  {
+   "s": "Sie hören genau zu, weil sie davon ausgehen, dass es stimmt.",
+   "e": "They listen carefully, because they assume that it is true."
+  },
+  {
+   "s": "Und dann kommen sie eine Woche später darauf zurück.",
+   "e": "And then they come back to it a week later."
+  },
+  {
+   "s": "Ich habe zu meiner Mutter gesagt: Im Mai geht es nicht.",
+   "e": "I said to my mother: May does not work."
+  },
+  {
+   "s": "Ich habe nichts dazu erfunden.",
+   "e": "I invented nothing to go with it."
+  },
+  {
+   "s": "Dann war es zwei Sekunden still.",
+   "e": "Then it was quiet for two seconds."
+  },
+  {
+   "s": "Dann habe ich den zweiten Teil gesagt.",
+   "e": "Then I said the second part."
+  },
+  {
+   "s": "Das ist der Teil, der die Sache rettet.",
+   "e": "That is the part that saves the thing."
+  },
+  {
+   "s": "Ich habe gesagt: Komm im September.",
+   "e": "I said: come in September."
+  },
+  {
+   "s": "Sie hat das Datum in ihren Kalender geschrieben, während wir geredet haben.",
+   "e": "She wrote the date in her calendar while we were talking."
+  },
+  {
+   "s": "Ein Nein ohne Datum ist eine Tür.",
+   "e": "A no without a date is a door."
+  },
+  {
+   "s": "Ein Nein mit einem Datum ist ein Termin.",
+   "e": "A no with a date is an appointment."
+  },
+  {
+   "s": "Es ist der gleiche Satz wie bei Selina im Februar.",
+   "e": "It is the same sentence as with Selina in February."
+  },
+  {
+   "s": "Im Februar habe ich es nicht gemacht und es hat vier Wochen gekostet.",
+   "e": "In February I did not do it and it cost four weeks."
+  },
+  {
+   "s": "Diesmal habe ich es gemacht.",
+   "e": "This time I did it."
+  },
+  {
+   "s": "Meine Mutter hat gefragt: Warum geht es nicht?",
+   "e": "My mother asked: why does it not work?"
+  },
+  {
+   "s": "Das ist die schwerste Frage.",
+   "e": "That is the hardest question."
+  },
+  {
+   "s": "Ich habe die Wahrheit gesagt.",
+   "e": "I told the truth."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe nichts mehr.",
+   "e": "I said: I have nothing left."
+  },
+  {
+   "s": "Ich habe gesagt: Seit Januar ist zu viel passiert.",
+   "e": "I said: since January too much has happened."
+  },
+  {
+   "s": "Ich habe gesagt: Ich könnte dir nichts geben, wenn du kommst.",
+   "e": "I said: I could not give you anything if you came."
+  },
+  {
+   "s": "Ich habe gesagt: Und ich möchte dir etwas geben können.",
+   "e": "I said: and I want to be able to give you something."
+  },
+  {
+   "s": "Das war der ehrlichste Satz von diesem Jahr.",
+   "e": "That was the most honest sentence of that year."
+  },
+  {
+   "s": "Sie hat lange nichts gesagt.",
+   "e": "She said nothing for a long time."
+  },
+  {
+   "s": "Dann hat sie gesagt: Gut.",
+   "e": "Then she said: fine."
+  },
+  {
+   "s": "Dann hat sie gefragt, ob es Selina gut geht.",
+   "e": "Then she asked whether Selina was all right."
+  },
+  {
+   "s": "Das ist die Art von meiner Mutter, das Thema zu wechseln.",
+   "e": "That is my mother's way of changing the subject."
+  },
+  {
+   "s": "Sie war nicht beleidigt.",
+   "e": "She was not offended."
+  },
+  {
+   "s": "Sie hat es zwei Tage später am Telefon nochmals angesprochen.",
+   "e": "She raised it again on the phone two days later."
+  },
+  {
+   "s": "Sie hat gesagt: Es ist gut so mit dem September.",
+   "e": "She said: it is good like that with September."
+  },
+  {
+   "s": "Sie hat gefragt, ob sie im September ein Geschenk mitbringen soll.",
+   "e": "She asked whether she should bring a present in September."
+  },
+  {
+   "s": "Sie hat gesagt: Im Mai hätte ich dich nur müde gesehen.",
+   "e": "She said: in May I would only have seen you tired."
+  },
+  {
+   "s": "Sie ist siebenundsechzig und sie hat mich sofort verstanden.",
+   "e": "She is sixty-seven and she understood me straight away."
+  },
+  {
+   "s": "Ich habe zwei Wochen Angst vor diesem Gespräch gehabt.",
+   "e": "I had been afraid of that conversation for two weeks."
+  },
+  {
+   "s": "Das ist die dritte Sache in diesem Frühling mit dieser Rechnung.",
+   "e": "That is the third thing that spring with that arithmetic."
+  },
+  {
+   "s": "Es gibt hier ein paar Formen für ein Nein.",
+   "e": "There are a few forms for a no here."
+  },
+  {
+   "s": "Die kürzeste ist: Nein, das geht nicht.",
+   "e": "The shortest is: no, that does not work."
+  },
+  {
+   "s": "Die höflichere ist: Leider nein.",
+   "e": "The more polite one is: unfortunately no."
+  },
+  {
+   "s": "Bei einer Einladung sagt man: Ich kann leider nicht.",
+   "e": "For an invitation you say: unfortunately I cannot."
+  },
+  {
+   "s": "Bei etwas Grösserem sagt man: Das liegt bei mir nicht drin.",
+   "e": "For something bigger you say: that is not possible for me."
+  },
+  {
+   "s": "Alle vier sind fertig.",
+   "e": "All four are finished."
+  },
+  {
+   "s": "Es kommt kein aber danach.",
+   "e": "No but comes after them."
+  },
+  {
+   "s": "Man darf danach still sein.",
+   "e": "You are allowed to be quiet afterwards."
+  },
+  {
+   "s": "Das ist der schwerste Teil und der wichtigste.",
+   "e": "That is the hardest part and the most important."
+  },
+  {
+   "s": "Nach einem Nein wartet man.",
+   "e": "After a no you wait."
+  },
+  {
+   "s": "Wer wartet, hat nein gesagt.",
+   "e": "Whoever waits has said no."
+  },
+  {
+   "s": "Wer weiterredet, nimmt es zurück.",
+   "e": "Whoever goes on talking takes it back."
+  },
+  {
+   "s": "Ich habe in dem Monat noch dreimal nein gesagt.",
+   "e": "That month I said no three more times."
+  },
+  {
+   "s": "Einmal zu Beat, für eine Probe.",
+   "e": "Once to Beat, for a rehearsal."
+  },
+  {
+   "s": "Er hat gesagt: Ja gut. Dann das nächste Mal.",
+   "e": "He said: fine. Then next time."
+  },
+  {
+   "s": "Einmal zu Marianne, für einen Sonntag.",
+   "e": "Once to Marianne, for a Sunday."
+  },
+  {
+   "s": "Sie hat gefragt, ob alles in Ordnung ist, und dann war es gut.",
+   "e": "She asked whether everything was all right, and then it was fine."
+  },
+  {
+   "s": "Einmal im Büro, für eine Arbeit, die nicht meine ist.",
+   "e": "Once at the office, for a job that is not mine."
+  },
+  {
+   "s": "Da war es am schwersten und da hat es am wenigsten gekostet.",
+   "e": "That was where it was hardest and where it cost least."
+  }
+ ]
+}

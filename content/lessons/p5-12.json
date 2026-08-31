@@ -1,0 +1,399 @@
+{
+ "id": "p5-12",
+ "title": "Die Wohnung wird geräumt",
+ "desc": "Fifty years, into a van",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Kiste",
+  "Kasten",
+  "leer",
+  "Stuhl"
+ ],
+ "sn": [
+  {
+   "s": "Am Donnerstag um acht ist der Camion vor dem Haus gestanden.",
+   "e": "On Thursday at eight the van was standing in front of the building."
+  },
+  {
+   "s": "Es war Ende Februar und es hat den ganzen Tag geregnet.",
+   "e": "It was the end of February and it rained all day."
+  },
+  {
+   "s": "Ich habe frei genommen.",
+   "e": "I took the day off."
+  },
+  {
+   "s": "Ich habe gesagt, dass ich einen Termin habe.",
+   "e": "I said that I had an appointment."
+  },
+  {
+   "s": "Das ist das erste Mal, dass ich hier gelogen habe.",
+   "e": "That is the first time I have lied here."
+  },
+  {
+   "s": "Ich hätte auch die Wahrheit sagen können.",
+   "e": "I could also have told the truth."
+  },
+  {
+   "s": "Mein Chef hätte es sofort verstanden.",
+   "e": "My boss would have understood immediately."
+  },
+  {
+   "s": "Ich wollte es einfach niemandem erklären.",
+   "e": "I simply did not want to explain it to anybody."
+  },
+  {
+   "s": "Eine Wohnung wird hier schnell geräumt.",
+   "e": "A flat is cleared quickly here."
+  },
+  {
+   "s": "Räumen heisst: alles hinausnehmen, bis es leer ist.",
+   "e": "Räumen means: take everything out until it is empty."
+  },
+  {
+   "s": "Die Wohnung wird geräumt.",
+   "e": "The flat is being cleared."
+  },
+  {
+   "s": "Sie wurde am Donnerstag geräumt.",
+   "e": "It was cleared on Thursday."
+  },
+  {
+   "s": "Die Möbel werden abgeholt.",
+   "e": "The furniture is being collected."
+  },
+  {
+   "s": "Der Vertrag wurde auf Ende Monat gekündigt.",
+   "e": "The lease was given notice for the end of the month."
+  },
+  {
+   "s": "In diesen Sätzen kommt niemand vor und das ist genau richtig.",
+   "e": "In these sentences nobody appears and that is exactly right."
+  },
+  {
+   "s": "Es macht auch niemand.",
+   "e": "Nobody is doing it either."
+  },
+  {
+   "s": "Es passiert einfach, weil es passieren muss.",
+   "e": "It simply happens, because it has to happen."
+  },
+  {
+   "s": "Ich habe zuerst gedacht, dass es zu schnell geht.",
+   "e": "At first I thought it was going too fast."
+  },
+  {
+   "s": "Sie ist am Mittwoch gestorben und zwei Wochen später ist die Wohnung leer.",
+   "e": "She died on a Wednesday and two weeks later the flat is empty."
+  },
+  {
+   "s": "Zu Hause bleibt so eine Wohnung ein Jahr, wie sie ist.",
+   "e": "At home a flat like that stays as it is for a year."
+  },
+  {
+   "s": "Vreni hat es mir am Donnerstag erklärt.",
+   "e": "Vreni explained it to me on the Thursday."
+  },
+  {
+   "s": "Sie hat gesagt: Die Miete läuft weiter.",
+   "e": "She said: the rent goes on running."
+  },
+  {
+   "s": "Sie hat gesagt: Jeden Monat sechshundert Franken für leere Zimmer.",
+   "e": "She said: six hundred francs a month for empty rooms."
+  },
+  {
+   "s": "Sie hat gesagt: Das hätte sie nie erlaubt.",
+   "e": "She said: she would never have allowed that."
+  },
+  {
+   "s": "Und das hat gestimmt.",
+   "e": "And that was true."
+  },
+  {
+   "s": "Rosmarie hat wegen zwei Franken beim Kassier reklamiert.",
+   "e": "Rosmarie complained to the cashier over two francs."
+  },
+  {
+   "s": "Sechs Monate leer wäre für sie schlimmer gewesen als alles andere.",
+   "e": "Six months empty would have been worse for her than anything else."
+  },
+  {
+   "s": "Es waren sechs Leute da.",
+   "e": "There were six people there."
+  },
+  {
+   "s": "Vreni und ihr Sohn.",
+   "e": "Vreni and her son."
+  },
+  {
+   "s": "Zwei Männer von der Firma, die das macht.",
+   "e": "Two men from the firm that does this."
+  },
+  {
+   "s": "Ruedi Zemp.",
+   "e": "Ruedi Zemp."
+  },
+  {
+   "s": "Und ich.",
+   "e": "And me."
+  },
+  {
+   "s": "Herr Bucher ist um zehn heraufgekommen und hat zwei Stunden geholfen.",
+   "e": "Herr Bucher came up at ten and helped for two hours."
+  },
+  {
+   "s": "Er hat nichts gesagt und er hat mehr getragen als ich.",
+   "e": "He said nothing and he carried more than I did."
+  },
+  {
+   "s": "Die Wohnung hat drei Zimmer.",
+   "e": "The flat has three rooms."
+  },
+  {
+   "s": "Ich war zweimal drin, beide Male in der Küche.",
+   "e": "I had been inside twice, both times in the kitchen."
+  },
+  {
+   "s": "An dem Donnerstag habe ich das Schlafzimmer gesehen.",
+   "e": "On that Thursday I saw the bedroom."
+  },
+  {
+   "s": "Es war ganz klein und sehr sauber.",
+   "e": "It was very small and very clean."
+  },
+  {
+   "s": "Auf dem Tisch ist ein Glas gestanden.",
+   "e": "There was a glass standing on the table."
+  },
+  {
+   "s": "Im Kühlschrank ist eine Flasche Milch gestanden.",
+   "e": "There was a bottle of milk in the fridge."
+  },
+  {
+   "s": "Es steht dort seit dem Sonntag um vier.",
+   "e": "It had been standing there since Sunday at four."
+  },
+  {
+   "s": "Alles wird sortiert und alles kommt an drei Orte.",
+   "e": "Everything gets sorted and everything goes to three places."
+  },
+  {
+   "s": "Was gut ist, kommt ins Brockenhaus.",
+   "e": "What is good goes to the second-hand shop."
+  },
+  {
+   "s": "Was kaputt ist, kommt auf die Sammelstelle.",
+   "e": "What is broken goes to the collection point."
+  },
+  {
+   "s": "Was von der Familie ist, kommt in Kisten.",
+   "e": "What belongs to the family goes into boxes."
+  },
+  {
+   "s": "Vreni hat sehr wenig in Kisten getan.",
+   "e": "Vreni put very little into boxes."
+  },
+  {
+   "s": "In der zweiten Kiste ist ein Geschenk von mir gelegen, von vor zwei Jahren.",
+   "e": "In the second box there was a present from me, from two years ago."
+  },
+  {
+   "s": "Zwei Kisten für zweiundfünfzig Jahre.",
+   "e": "Two boxes for fifty-two years."
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe selber zu viel.",
+   "e": "She said: I have too much myself."
+  },
+  {
+   "s": "Sie hat es ohne Kälte gesagt.",
+   "e": "She said it without coldness."
+  },
+  {
+   "s": "Sie hat bei jedem zweiten Ding zehn Sekunden gewartet.",
+   "e": "With every second thing she waited ten seconds."
+  },
+  {
+   "s": "Ich habe die sieben Fotos vom Kasten in eine Kiste gelegt.",
+   "e": "I put the seven photos from the sideboard into a box."
+  },
+  {
+   "s": "Ich habe sie einzeln hineingelegt.",
+   "e": "I put them in one at a time."
+  },
+  {
+   "s": "Vreni hat zugeschaut und nichts gesagt.",
+   "e": "Vreni watched and said nothing."
+  },
+  {
+   "s": "Um elf haben wir die Möbel hinuntergetragen.",
+   "e": "At eleven we carried the furniture down."
+  },
+  {
+   "s": "Die Treppe ist eng und sie macht zwei Kurven.",
+   "e": "The staircase is narrow and it turns twice."
+  },
+  {
+   "s": "Ein Kasten geht dort nur schief um die Ecke.",
+   "e": "A cupboard only gets round the corner at an angle."
+  },
+  {
+   "s": "Ich habe mit dem Sohn von Vreni den Tisch getragen.",
+   "e": "I carried the table with Vreni's son."
+  },
+  {
+   "s": "Dann die zwei Stühle und dann den Kasten.",
+   "e": "Then the two chairs and then the cupboard."
+  },
+  {
+   "s": "Beim vierten Mal bin ich mit einem Stuhl allein gegangen.",
+   "e": "The fourth time I went alone with a chair."
+  },
+  {
+   "s": "Ein Stuhl ist leicht.",
+   "e": "A chair is light."
+  },
+  {
+   "s": "Er hat vielleicht vier Kilo.",
+   "e": "It weighs maybe four kilos."
+  },
+  {
+   "s": "Ich bin auf halber Treppe stehen geblieben.",
+   "e": "I stopped halfway down the stairs."
+  },
+  {
+   "s": "Genau an der zweiten Kurve.",
+   "e": "Exactly at the second turn."
+  },
+  {
+   "s": "Es ist der Ort, an dem ein Kasten nicht durchgeht.",
+   "e": "It is the place where a cupboard does not fit through."
+  },
+  {
+   "s": "Ich bin dort ungefähr eine Minute gestanden.",
+   "e": "I stood there for about a minute."
+  },
+  {
+   "s": "Ich habe an Ruedi Zemp gedacht.",
+   "e": "I thought about Ruedi Zemp."
+  },
+  {
+   "s": "Ich habe an vier Uhr in der Nacht gedacht.",
+   "e": "I thought about four in the morning."
+  },
+  {
+   "s": "Ich habe daran gedacht, dass er hier nicht stehen bleiben konnte.",
+   "e": "I thought about the fact that he could not stop here."
+  },
+  {
+   "s": "Von unten hat jemand gefragt, ob alles gut ist.",
+   "e": "From below somebody asked whether everything was all right."
+  },
+  {
+   "s": "Ich habe gesagt: Ja, der Stuhl bleibt hängen.",
+   "e": "I said: yes, the chair is getting stuck."
+  },
+  {
+   "s": "Der Stuhl ist nirgends hängen geblieben.",
+   "e": "The chair was not stuck on anything."
+  },
+  {
+   "s": "Um halb eins haben wir Pause gemacht.",
+   "e": "At half past twelve we took a break."
+  },
+  {
+   "s": "Die zwei Männer von der Firma haben auf der Treppe gegessen.",
+   "e": "The two men from the firm ate on the stairs."
+  },
+  {
+   "s": "Vreni hat für alle Kaffee geholt.",
+   "e": "Vreni fetched coffee for everybody."
+  },
+  {
+   "s": "Wir sind in einer leeren Küche gestanden und haben aus Bechern getrunken.",
+   "e": "We stood in an empty kitchen and drank out of paper cups."
+  },
+  {
+   "s": "Ruedi Zemp hat gesagt: Sie hat guten Kaffee gemacht.",
+   "e": "Ruedi Zemp said: she made good coffee."
+  },
+  {
+   "s": "Das war der einzige Satz an dem ganzen Tag über sie.",
+   "e": "That was the only sentence about her in the whole day."
+  },
+  {
+   "s": "Um drei war die Wohnung leer.",
+   "e": "At three the flat was empty."
+  },
+  {
+   "s": "Eine leere Wohnung tönt anders.",
+   "e": "An empty flat sounds different."
+  },
+  {
+   "s": "Jeder Schritt kommt zurück.",
+   "e": "Every step comes back."
+  },
+  {
+   "s": "Man hört sich selber atmen.",
+   "e": "You hear yourself breathing."
+  },
+  {
+   "s": "An den Wänden sind hellere Flecken, wo die Möbel waren.",
+   "e": "On the walls there are lighter patches where the furniture was."
+  },
+  {
+   "s": "Der Kasten war vierzig Jahre am gleichen Platz.",
+   "e": "The cupboard was in the same place for forty years."
+  },
+  {
+   "s": "Man sieht ihn immer noch, ohne dass er da ist.",
+   "e": "You can still see it, without it being there."
+  },
+  {
+   "s": "Am Schluss wird geputzt.",
+   "e": "At the end it gets cleaned."
+  },
+  {
+   "s": "Eine Wohnung wird hier sehr genau abgegeben.",
+   "e": "A flat is handed back very precisely here."
+  },
+  {
+   "s": "Es kommt jemand vom Vermieter und schaut alles an.",
+   "e": "Somebody comes from the landlord and looks at everything."
+  },
+  {
+   "s": "Vreni hat dafür eine Firma bestellt.",
+   "e": "Vreni booked a firm for that."
+  },
+  {
+   "s": "Sie hat gesagt: Das mache ich sicher nicht selber.",
+   "e": "She said: I am certainly not doing that myself."
+  },
+  {
+   "s": "Um vier bin ich als Letzter hinaus.",
+   "e": "At four I was the last one out."
+  },
+  {
+   "s": "Ich habe in der leeren Wohnung gestanden und die Tür in der Hand gehabt.",
+   "e": "I stood in the empty flat with the door in my hand."
+  },
+  {
+   "s": "Draussen im Treppenhaus war alles wie immer.",
+   "e": "Outside in the stairwell everything was as always."
+  },
+  {
+   "s": "Ich habe die Tür zugemacht.",
+   "e": "I shut the door."
+  },
+  {
+   "s": "Sie ist jetzt zu und das ist jetzt normal.",
+   "e": "It is shut now and that is normal now."
+  },
+  {
+   "s": "Nebenan wohnt ab dem ersten April eine Familie mit zwei Kindern.",
+   "e": "From the first of April a family with two children is living next door."
+  }
+ ]
+}

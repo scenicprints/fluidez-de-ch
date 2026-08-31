@@ -1,0 +1,376 @@
+{
+ "id": "p5-13",
+ "title": "Vreni",
+ "desc": "A sister you did not know existed",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "gleich"
+ ],
+ "sn": [
+  {
+   "s": "Vreni hat am Freitag angerufen.",
+   "e": "Vreni called on Friday."
+  },
+  {
+   "s": "Zwei Tage nach der Nachricht.",
+   "e": "Two days after the message."
+  },
+  {
+   "s": "Ich habe abgenommen und ich bin sofort erschrocken.",
+   "e": "I answered and I was immediately startled."
+  },
+  {
+   "s": "Sie hat die gleiche Stimme.",
+   "e": "She has the same voice."
+  },
+  {
+   "s": "Nicht ähnlich. Die gleiche.",
+   "e": "Not similar. The same."
+  },
+  {
+   "s": "Die gleiche Höhe und das gleiche kurze Ende an den Sätzen.",
+   "e": "The same pitch and the same short ending on the sentences."
+  },
+  {
+   "s": "Ich habe zwei Sekunden lang nichts gesagt.",
+   "e": "For two seconds I said nothing."
+  },
+  {
+   "s": "Sie hat gesagt: Sie sind der Nachbar.",
+   "e": "She said: you are the neighbour."
+  },
+  {
+   "s": "Keine Frage. Ein Satz.",
+   "e": "Not a question. A statement."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat gesagt: Ich bin die Vreni. Ihre Schwester.",
+   "e": "She said: I am Vreni. Her sister."
+  },
+  {
+   "s": "Wir haben zuerst Sie gesagt.",
+   "e": "At first we said Sie to each other."
+  },
+  {
+   "s": "Sie hat gesagt: Können wir uns am Sonntag treffen?",
+   "e": "She said: can we meet on Sunday?"
+  },
+  {
+   "s": "Sie hat gesagt: Es geht um die Wohnung und noch um etwas.",
+   "e": "She said: it is about the flat and about something else."
+  },
+  {
+   "s": "Noch um etwas.",
+   "e": "And about something else."
+  },
+  {
+   "s": "Ich habe die ganze Nacht an diesen drei Wörtern gehängt.",
+   "e": "I hung on those three words all night."
+  },
+  {
+   "s": "Wir haben uns am Sonntag um zehn in einem Café getroffen.",
+   "e": "We met on Sunday at ten in a café."
+  },
+  {
+   "s": "Sie ist vier Minuten zu früh gekommen.",
+   "e": "She arrived four minutes early."
+  },
+  {
+   "s": "Sie ist siebzig und sie ist kleiner als Rosmarie.",
+   "e": "She is seventy and she is smaller than Rosmarie."
+  },
+  {
+   "s": "Sie sieht ihr nicht besonders ähnlich.",
+   "e": "She does not look particularly like her."
+  },
+  {
+   "s": "Und wenn sie redet, ist es die gleiche Person.",
+   "e": "And when she talks, it is the same person."
+  },
+  {
+   "s": "Ich habe eine Stunde gebraucht, um daran nicht mehr zu denken.",
+   "e": "I needed an hour to stop thinking about it."
+  },
+  {
+   "s": "Sie wohnt in Emmen.",
+   "e": "She lives in Emmen."
+  },
+  {
+   "s": "Das sind zwanzig Minuten mit dem Bus.",
+   "e": "That is twenty minutes by bus."
+  },
+  {
+   "s": "Zwanzig Minuten und sie haben sich zweimal im Jahr gesehen.",
+   "e": "Twenty minutes and they saw each other twice a year."
+  },
+  {
+   "s": "Ich habe das nicht gefragt.",
+   "e": "I did not ask that."
+  },
+  {
+   "s": "Sie hat es von selber gesagt.",
+   "e": "She said it herself."
+  },
+  {
+   "s": "Sie hat gesagt: Wir haben nicht gestritten.",
+   "e": "She said: we had not quarrelled."
+  },
+  {
+   "s": "Sie hat gesagt: Es hat sich einfach so ergeben.",
+   "e": "She said: it just turned out that way."
+  },
+  {
+   "s": "Sie hat gesagt: Man denkt, man hat noch Zeit.",
+   "e": "She said: you think you still have time."
+  },
+  {
+   "s": "Danach ist es zwei Minuten still gewesen.",
+   "e": "After that it was quiet for two minutes."
+  },
+  {
+   "s": "Sie hat den Kaffee gerührt, der schon lange gerührt war.",
+   "e": "She stirred the coffee that had long been stirred."
+  },
+  {
+   "s": "Ich habe nichts gesagt, weil man dazu nichts sagt.",
+   "e": "I said nothing, because there is nothing to say to that."
+  },
+  {
+   "s": "Dann hat sie den Kopf gehoben und gefragt: Und Sie?",
+   "e": "Then she lifted her head and asked: and you?"
+  },
+  {
+   "s": "Sie hat gefragt: Wie oft waren Sie bei ihr?",
+   "e": "She asked: how often were you at her place?"
+  },
+  {
+   "s": "Ich habe nachgerechnet, während ich geredet habe.",
+   "e": "I worked it out while I was talking."
+  },
+  {
+   "s": "Jeden Sonntag Kaffee. Zweimal im Monat Essen.",
+   "e": "Coffee every Sunday. Dinner twice a month."
+  },
+  {
+   "s": "Im Treppenhaus jeden Tag.",
+   "e": "In the stairwell every day."
+  },
+  {
+   "s": "Sie hat gefragt: Zwei Jahre lang?",
+   "e": "She asked: for two years?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat wieder in den Kaffee geschaut.",
+   "e": "She looked into the coffee again."
+  },
+  {
+   "s": "Ich habe in dem Moment gedacht, dass sie böse ist.",
+   "e": "In that moment I thought she was angry."
+  },
+  {
+   "s": "Ich habe gedacht: Jetzt kommt etwas.",
+   "e": "I thought: now something is coming."
+  },
+  {
+   "s": "Sie hat gesagt: Gut.",
+   "e": "She said: good."
+  },
+  {
+   "s": "Sie hat gesagt: Dann war sie nicht allein.",
+   "e": "She said: then she was not alone."
+  },
+  {
+   "s": "Sie hat es gesagt und dabei genickt, mehr zu sich selber.",
+   "e": "She said it and nodded to herself while she did."
+  },
+  {
+   "s": "Ich habe verstanden, dass ich sie falsch gelesen habe.",
+   "e": "I understood that I had read her wrongly."
+  },
+  {
+   "s": "Es war keine Kontrolle.",
+   "e": "It was not a check."
+  },
+  {
+   "s": "Es war eine Frage, auf die sie eine gute Antwort gebraucht hat.",
+   "e": "It was a question she needed a good answer to."
+  },
+  {
+   "s": "Sie hat mir dann Sachen erzählt, die ich nicht gewusst habe.",
+   "e": "Then she told me things I had not known."
+  },
+  {
+   "s": "Rosmarie hat vierzig Jahre in einer Fabrik gearbeitet.",
+   "e": "Rosmarie worked in a factory for forty years."
+  },
+  {
+   "s": "Sie hat dort die Löhne gerechnet.",
+   "e": "She calculated the wages there."
+  },
+  {
+   "s": "Sie hat mit sechzig aufgehört, im gleichen Jahr wie Walter.",
+   "e": "She stopped at sixty, in the same year as Walter."
+  },
+  {
+   "s": "Sie wollten dann zusammen reisen.",
+   "e": "They wanted to travel together then."
+  },
+  {
+   "s": "Sie sind zweimal gereist.",
+   "e": "They travelled twice."
+  },
+  {
+   "s": "Dann war er krank und dann war es vorbei.",
+   "e": "Then he was ill and then it was over."
+  },
+  {
+   "s": "Vreni hat gesagt: Sie hat nie darüber geredet.",
+   "e": "Vreni said: she never talked about it."
+  },
+  {
+   "s": "Ich habe gesagt: Zu mir auch nicht.",
+   "e": "I said: not to me either."
+  },
+  {
+   "s": "Das war das erste, was uns verbunden hat.",
+   "e": "That was the first thing that connected us."
+  },
+  {
+   "s": "Beide haben wir etwas nicht gewusst.",
+   "e": "Both of us had not known something."
+  },
+  {
+   "s": "Nach ungefähr einer Stunde hat sie es gemacht.",
+   "e": "After about an hour she did it."
+  },
+  {
+   "s": "Sie hat gesagt: Wir können auch du sagen.",
+   "e": "She said: we can also say du."
+  },
+  {
+   "s": "Sie hat gesagt: Ich bin die Vreni.",
+   "e": "She said: I am Vreni."
+  },
+  {
+   "s": "Genau der gleiche Satz wie bei ihrer Schwester.",
+   "e": "Exactly the same sentence as with her sister."
+  },
+  {
+   "s": "Rosmarie hat fünf Wochen gebraucht.",
+   "e": "Rosmarie needed five weeks."
+  },
+  {
+   "s": "Vreni hat eine Stunde gebraucht.",
+   "e": "Vreni needed an hour."
+  },
+  {
+   "s": "Das hat nichts mit ihnen zu tun.",
+   "e": "That has nothing to do with them."
+  },
+  {
+   "s": "Es hat damit zu tun, was zwischen zwei Menschen liegt.",
+   "e": "It has to do with what lies between two people."
+  },
+  {
+   "s": "Nach einem Tod geht das schneller.",
+   "e": "After a death it goes faster."
+  },
+  {
+   "s": "Alle Formen werden für eine Weile kürzer.",
+   "e": "All the forms get shorter for a while."
+  },
+  {
+   "s": "Ich habe gesagt: Gern.",
+   "e": "I said: gladly."
+  },
+  {
+   "s": "Und dann habe ich sie in den nächsten zehn Minuten zweimal gesiezt.",
+   "e": "And then in the next ten minutes I said Sie to her twice."
+  },
+  {
+   "s": "Sie hat beide Male nichts gesagt.",
+   "e": "Both times she said nothing."
+  },
+  {
+   "s": "Beim dritten Mal habe ich es selber gemerkt.",
+   "e": "The third time I noticed it myself."
+  },
+  {
+   "s": "Sie hat gesagt: Es kommt schon.",
+   "e": "She said: it will come."
+  },
+  {
+   "s": "Sie hat gefragt, ob ich weiss, wie hoch ihre Franchise war.",
+   "e": "She asked whether I knew how high her excess had been."
+  },
+  {
+   "s": "Am Schluss hat sie gesagt, dass die Wohnung am Donnerstag geräumt wird.",
+   "e": "At the end she said that the flat would be cleared on Thursday."
+  },
+  {
+   "s": "Sie hat gefragt, ob ich helfen kann.",
+   "e": "She asked whether I could help."
+  },
+  {
+   "s": "Sie hat gesagt, dass sie mich am Donnerstag um acht unten abholt.",
+   "e": "She said that she would pick me up downstairs at eight on Thursday."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat gesagt: Und dann ist da noch etwas.",
+   "e": "She said: and then there is something else."
+  },
+  {
+   "s": "Sie hat gesagt: Aber das mache ich am Donnerstag.",
+   "e": "She said: but I will do that on Thursday."
+  },
+  {
+   "s": "Sie hat gezahlt, bevor ich das Portemonnaie gehabt habe.",
+   "e": "She paid before I had my wallet out."
+  },
+  {
+   "s": "Sie hat gesagt: Das nächste Mal du.",
+   "e": "She said: next time you."
+  },
+  {
+   "s": "Beim Hinausgehen hat sie meinen Arm genommen.",
+   "e": "On the way out she took my arm."
+  },
+  {
+   "s": "Sie hat nichts dazu gesagt.",
+   "e": "She said nothing about it."
+  },
+  {
+   "s": "Sie ist so die Treppe hinunter und dann hat sie losgelassen.",
+   "e": "She went down the steps like that and then let go."
+  },
+  {
+   "s": "Vreni ist nicht ihre Schwester und sie ist nicht Ersatz.",
+   "e": "Vreni is not her sister and she is not a replacement."
+  },
+  {
+   "s": "Sie ist eine Frau von siebzig, die ich seit einer Stunde kenne.",
+   "e": "She is a woman of seventy whom I have known for an hour."
+  },
+  {
+   "s": "Sie hat nur die gleiche Stimme.",
+   "e": "She simply has the same voice."
+  },
+  {
+   "s": "Und das ist an manchen Tagen zu viel.",
+   "e": "And on some days that is too much."
+  }
+ ]
+}

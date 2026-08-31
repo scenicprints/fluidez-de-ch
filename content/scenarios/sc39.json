@@ -1,0 +1,109 @@
+{
+ "id": "sc39",
+ "title": "Zwanzig Minuten",
+ "desc": "Sitting with somebody, and getting the questions wrong",
+ "setting": "A hospital room with two beds, a window facing east, and a chair that somebody fetched.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Rosmarie",
+   "es": "Du hast Blumen gekauft. Das musst du nicht.",
+   "en": "You bought flowers. You do not have to.",
+   "options": [
+    {
+     "es": "Ich habe die Zeitung auch dabei.",
+     "en": "I have the newspaper with me too.",
+     "verdict": "good",
+     "feedback": "Move past it. The paper is the better present anyway and she will read it right through."
+    },
+    {
+     "es": "Doch, das muss ich.",
+     "en": "Yes I do.",
+     "verdict": "ok",
+     "feedback": "Warm, and it keeps the fuss going for another minute she does not want."
+    },
+    {
+     "es": "Sie waren im Angebot.",
+     "en": "They were on offer.",
+     "verdict": "bad",
+     "feedback": "An excuse, and an invented one. She will remember it."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Es hat den ganzen Tag Nebel gehabt.",
+   "en": "There was fog all day.",
+   "options": [
+    {
+     "es": "Ja, unten am See war es grau.",
+     "en": "Yes, down by the lake it was grey.",
+     "verdict": "good",
+     "feedback": "The weather is the vehicle, not the subject. Get in and let her drive."
+    },
+    {
+     "es": "Aber wie fühlst du dich?",
+     "en": "But how are you feeling?",
+     "verdict": "bad",
+     "feedback": "She knows how she is. She is the only person in the room who knows exactly."
+    },
+    {
+     "es": "Was sagt der Arzt?",
+     "en": "What does the doctor say?",
+     "verdict": "bad",
+     "feedback": "Twice now you have asked past what she offered you."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "Und? Was war bei dir heute?",
+   "en": "And? What happened with you today?",
+   "options": [
+    {
+     "es": "Ein Formular mit vierzehn Punkten.",
+     "en": "A form with fourteen points.",
+     "verdict": "good",
+     "feedback": "Ordinary, small, and exactly what she asked for. She wants a voice running."
+    },
+    {
+     "es": "Nichts Besonderes.",
+     "en": "Nothing special.",
+     "verdict": "bad",
+     "feedback": "That closes the only door she opened."
+    },
+    {
+     "es": "Erzähl du lieber.",
+     "en": "You tell me instead.",
+     "verdict": "ok",
+     "feedback": "Kind, and it hands her the work she was trying to hand you."
+    }
+   ]
+  },
+  {
+   "speaker": "Rosmarie",
+   "es": "So. Jetzt reicht es. Diese Suppe ist ein Skandal.",
+   "en": "Right. That is enough now. That soup is a scandal.",
+   "options": [
+    {
+     "es": "Was war es heute?",
+     "en": "What was it today?",
+     "verdict": "good",
+     "feedback": "Follow her out. That is how she ends every evening and it is how you know to go."
+    },
+    {
+     "es": "Soll ich dir etwas mitbringen?",
+     "en": "Shall I bring you something?",
+     "verdict": "ok",
+     "feedback": "She will say no. Bring it on Thursday anyway."
+    },
+    {
+     "es": "Du hast doch vorher noch geredet.",
+     "en": "But you were still talking.",
+     "verdict": "bad",
+     "feedback": "She stopped on purpose. Twenty minutes is the visit."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "id": "p5-11",
+ "title": "Die Todesanzeige",
+ "desc": "Her name in the newspaper",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Familie",
+  "Seite",
+  "Name",
+  "wissen",
+  "stehen"
+ ],
+ "sn": [
+  {
+   "s": "Am Freitag ist es in der Zeitung gestanden.",
+   "e": "On Friday it was in the newspaper."
+  },
+  {
+   "s": "Die Todesanzeige ist der Text in der Zeitung, wenn jemand gestorben ist.",
+   "e": "The Todesanzeige is the text in the newspaper when somebody has died."
+  },
+  {
+   "s": "Die Familie schreibt ihn und die Familie zahlt ihn.",
+   "e": "The family writes it and the family pays for it."
+  },
+  {
+   "s": "Er steht auf einer eigenen Seite.",
+   "e": "It is on a page of its own."
+  },
+  {
+   "s": "Er ist schwarz umrandet.",
+   "e": "It has a black border."
+  },
+  {
+   "s": "Die Seite ist jeden Tag da.",
+   "e": "The page is there every day."
+  },
+  {
+   "s": "Ich habe sie zwei Jahre lang umgeblättert.",
+   "e": "For two years I turned past it."
+  },
+  {
+   "s": "Alle über sechzig lesen sie zuerst.",
+   "e": "Everybody over sixty reads it first."
+  },
+  {
+   "s": "Rosmarie hat es mir einmal gesagt und ich habe gedacht, dass sie einen Witz macht.",
+   "e": "Rosmarie told me that once and I thought she was making a joke."
+  },
+  {
+   "s": "Sie hat gesagt: Zuerst die Toten, dann das Wetter.",
+   "e": "She said: first the dead, then the weather."
+  },
+  {
+   "s": "Es war kein Witz.",
+   "e": "It was not a joke."
+  },
+  {
+   "s": "Es ist die einzige Nachricht, die für einen persönlich ist.",
+   "e": "It is the only news that is personal to you."
+  },
+  {
+   "s": "Wer in diesem Alter ist, kennt jede Woche jemanden auf dieser Seite.",
+   "e": "Whoever is at that age knows somebody on that page every week."
+  },
+  {
+   "s": "Ihre Anzeige ist links unten gestanden.",
+   "e": "Her notice was at the bottom left."
+  },
+  {
+   "s": "Sie war nicht die grösste und nicht die kleinste.",
+   "e": "It was not the biggest and not the smallest."
+  },
+  {
+   "s": "Oben steht ein Satz, den die Familie wählt.",
+   "e": "At the top there is a sentence the family chooses."
+  },
+  {
+   "s": "Bei ihr stand: Traurig nehmen wir Abschied von.",
+   "e": "Hers said: sadly we take our leave of."
+  },
+  {
+   "s": "Andere nehmen: In stiller Trauer.",
+   "e": "Others take: in quiet mourning."
+  },
+  {
+   "s": "Andere nehmen einen Satz aus der Bibel.",
+   "e": "Others take a sentence from the Bible."
+  },
+  {
+   "s": "Andere nehmen zwei Zeilen von einem Gedicht.",
+   "e": "Others take two lines of a poem."
+  },
+  {
+   "s": "Danach kommt der Name, gross und in der Mitte.",
+   "e": "After that comes the name, large and in the middle."
+  },
+  {
+   "s": "Rosmarie Amrein-Zurfluh.",
+   "e": "Rosmarie Amrein-Zurfluh."
+  },
+  {
+   "s": "Das habe ich nicht gewusst.",
+   "e": "I did not know that."
+  },
+  {
+   "s": "Zwei Jahre und ich habe den halben Namen nicht gewusst.",
+   "e": "Two years and I did not know half the name."
+  },
+  {
+   "s": "Der zweite Name ist der Name von vorher.",
+   "e": "The second name is the name from before."
+  },
+  {
+   "s": "Die Frauen von dieser Generation schreiben beide.",
+   "e": "The women of that generation write both."
+  },
+  {
+   "s": "Zuerst den Namen vom Mann, dann den eigenen.",
+   "e": "First the husband's name, then their own."
+  },
+  {
+   "s": "Der eigene steht hinten und er steht trotzdem da.",
+   "e": "Their own comes second and it is there all the same."
+  },
+  {
+   "s": "Darunter stehen zwei Zahlen.",
+   "e": "Below that there are two numbers."
+  },
+  {
+   "s": "Der Tag von der Geburt und der Tag vom Tod.",
+   "e": "The day of birth and the day of death."
+  },
+  {
+   "s": "Dazwischen ein Strich.",
+   "e": "A dash in between."
+  },
+  {
+   "s": "Der Strich ist achtundsiebzig Jahre lang.",
+   "e": "The dash is seventy-eight years long."
+  },
+  {
+   "s": "Ich habe lange auf diesen Strich geschaut.",
+   "e": "I looked at that dash for a long time."
+  },
+  {
+   "s": "Dann kommen drei oder vier Zeilen über den Menschen.",
+   "e": "Then come three or four lines about the person."
+  },
+  {
+   "s": "Bei ihr waren es zwei.",
+   "e": "With her there were two."
+  },
+  {
+   "s": "Es ist gestanden, dass sie nach einer kurzen Krankheit gestorben ist.",
+   "e": "It said that she died after a short illness."
+  },
+  {
+   "s": "Es ist gestanden, dass sie zu Hause gepflegt werden wollte.",
+   "e": "It said that she had wanted to be cared for at home."
+  },
+  {
+   "s": "Nach einer kurzen Krankheit ist auch eine Formel.",
+   "e": "After a short illness is also a formula."
+  },
+  {
+   "s": "Sie heisst: es ist schnell gegangen.",
+   "e": "It means: it went quickly."
+  },
+  {
+   "s": "Bei einer langen Krankheit schreibt man: nach langer Krankheit.",
+   "e": "With a long illness you write: after a long illness."
+  },
+  {
+   "s": "Dann weiss jeder, wie es war, und niemand hat etwas Privates geschrieben.",
+   "e": "Then everybody knows how it was, and nobody has written anything private."
+  },
+  {
+   "s": "Danach kommen die Namen von der Familie.",
+   "e": "After that come the names of the family."
+  },
+  {
+   "s": "Das ist der Teil, den man zweimal liest.",
+   "e": "That is the part you read twice."
+  },
+  {
+   "s": "Zuerst Vreni, mit ihrem ganzen Namen.",
+   "e": "First Vreni, with her full name."
+  },
+  {
+   "s": "Dann zwei Namen, die ich nicht gekannt habe.",
+   "e": "Then two names I did not know."
+  },
+  {
+   "s": "Es sind die Kinder von Vreni.",
+   "e": "They are Vreni's children."
+  },
+  {
+   "s": "Dann steht: und Anverwandte.",
+   "e": "Then it says: and relatives."
+  },
+  {
+   "s": "Das heisst: alle anderen, die dazugehören.",
+   "e": "That means: everybody else who belongs."
+  },
+  {
+   "s": "Mein Name steht dort nicht.",
+   "e": "My name is not there."
+  },
+  {
+   "s": "Ich habe es dreimal gelesen und er ist nicht dort.",
+   "e": "I read it three times and it is not there."
+  },
+  {
+   "s": "Und er soll auch nicht dort stehen.",
+   "e": "And it should not be there either."
+  },
+  {
+   "s": "Das ist die Liste von der Familie und ich bin nicht die Familie.",
+   "e": "That is the family's list and I am not the family."
+  },
+  {
+   "s": "Ich habe zwei Minuten gebraucht, um das in Ordnung zu finden.",
+   "e": "I needed two minutes to be all right with that."
+  },
+  {
+   "s": "In diesen zwei Minuten habe ich gemerkt, was ich erwartet habe.",
+   "e": "In those two minutes I noticed what I had been expecting."
+  },
+  {
+   "s": "Das war mir vorher nicht klar.",
+   "e": "That had not been clear to me before."
+  },
+  {
+   "s": "Am Schluss steht, wann die Abdankung ist.",
+   "e": "At the end it says when the funeral service is."
+  },
+  {
+   "s": "Bei ihr ist es zu spät gestanden.",
+   "e": "With her it appeared too late."
+  },
+  {
+   "s": "Die Anzeige ist am Freitag gekommen und die Abdankung war am Dienstag.",
+   "e": "The notice came on Friday and the service was on Tuesday."
+  },
+  {
+   "s": "Also drei Tage vorher.",
+   "e": "So three days beforehand."
+  },
+  {
+   "s": "So ist es normal.",
+   "e": "That is how it normally is."
+  },
+  {
+   "s": "Wer es früher wissen muss, weiss es sowieso.",
+   "e": "Whoever needs to know earlier knows anyway."
+  },
+  {
+   "s": "Die Anzeige ist für die anderen.",
+   "e": "The notice is for the others."
+  },
+  {
+   "s": "Für die zweihundert, die eine Frau vor dreissig Jahren gekannt haben.",
+   "e": "For the two hundred who knew a woman thirty years ago."
+  },
+  {
+   "s": "Ganz unten steht die Traueradresse.",
+   "e": "Right at the bottom is the address for condolences."
+  },
+  {
+   "s": "Das ist die Adresse, wohin man einen Brief schickt.",
+   "e": "That is the address where you send a letter."
+  },
+  {
+   "s": "Es ist die Adresse von Vreni.",
+   "e": "It is Vreni's address."
+  },
+  {
+   "s": "Und dann steht ein Satz mit anstelle.",
+   "e": "And then there is a sentence with anstelle."
+  },
+  {
+   "s": "Anstelle von Blumen denke man an die Spitex.",
+   "e": "Instead of flowers please think of the Spitex."
+  },
+  {
+   "s": "Anstelle heisst: nicht das eine, sondern das andere.",
+   "e": "Anstelle means: not the one thing, but the other."
+  },
+  {
+   "s": "Man schickt kein Geld für Blumen.",
+   "e": "You do not send money for flowers."
+  },
+  {
+   "s": "Man gibt es dorthin, wo es etwas macht.",
+   "e": "You give it where it does something."
+  },
+  {
+   "s": "Die Spitex ist die Pflege, die zu den Leuten nach Hause kommt.",
+   "e": "The Spitex is the care that comes to people at home."
+  },
+  {
+   "s": "Sie waren bei ihr, im letzten Jahr, zweimal in der Woche.",
+   "e": "They were with her, in the last year, twice a week."
+  },
+  {
+   "s": "Das kostet, und bei ihr war die Franchise seit dem Januar bezahlt.",
+   "e": "That costs money, and with her the excess had been paid since January."
+  },
+  {
+   "s": "Das habe ich auch nicht gewusst.",
+   "e": "I did not know that either."
+  },
+  {
+   "s": "Ich habe an diesem Freitag drei Sachen über sie gelernt.",
+   "e": "I learnt three things about her that Friday."
+  },
+  {
+   "s": "Alle drei aus einem Text mit hundert Wörtern.",
+   "e": "All three from a text with a hundred words."
+  },
+  {
+   "s": "Ich habe die Seite ausgeschnitten.",
+   "e": "I cut the page out."
+  },
+  {
+   "s": "Ich habe nicht gewusst, warum ich das mache.",
+   "e": "I did not know why I was doing it."
+  },
+  {
+   "s": "Ich habe es gemacht, weil man etwas machen muss.",
+   "e": "I did it because you have to do something."
+  },
+  {
+   "s": "Sie liegt in dem Buch, in dem ich die neuen Wörter aufschreibe.",
+   "e": "It is in the book in which I write down the new words."
+  },
+  {
+   "s": "Auf der Seite von diesem Tag stehen vier Wörter.",
+   "e": "On the page for that day there are four words."
+  },
+  {
+   "s": "Abdankung. Beileid. Anverwandte. Anstelle.",
+   "e": "Abdankung. Beileid. Anverwandte. Anstelle."
+  },
+  {
+   "s": "Ich habe an dem Tag mehr Deutsch gelernt als in einem Monat.",
+   "e": "I learnt more German that day than in a month."
+  },
+  {
+   "s": "Das ist ein schlechter Handel.",
+   "e": "That is a bad bargain."
+  },
+  {
+   "s": "Ich hätte gern die vier Wörter nicht gehabt.",
+   "e": "I would rather not have had the four words."
+  }
+ ]
+}

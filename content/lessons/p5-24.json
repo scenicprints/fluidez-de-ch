@@ -1,0 +1,364 @@
+{
+ "id": "p5-24",
+ "title": "Selber krank",
+ "desc": "Your own body, letting you down",
+ "ph": 5,
+ "diff": 6,
+ "wu": [
+  "Woche"
+ ],
+ "sn": [
+  {
+   "s": "Im Juni hat mein Rücken angefangen.",
+   "e": "In June my back started."
+  },
+  {
+   "s": "Zuerst am Morgen und nach zehn Minuten weg.",
+   "e": "First in the morning and gone after ten minutes."
+  },
+  {
+   "s": "Nach zwei Wochen den ganzen Tag.",
+   "e": "After two weeks all day."
+  },
+  {
+   "s": "Nach drei Wochen in der Nacht.",
+   "e": "After three weeks at night."
+  },
+  {
+   "s": "Ich habe fünf Wochen gewartet.",
+   "e": "I waited five weeks."
+  },
+  {
+   "s": "Das war dumm und ich habe einen Grund dafür gehabt.",
+   "e": "That was stupid and I had a reason for it."
+  },
+  {
+   "s": "Ich habe im Januar die hohe Franchise genommen.",
+   "e": "In January I took the high excess."
+  },
+  {
+   "s": "Bei einer hohen Franchise zahlt man die ersten zweitausendfünfhundert selber.",
+   "e": "With a high excess you pay the first two and a half thousand yourself."
+  },
+  {
+   "s": "Danach zahlt die Kasse.",
+   "e": "After that the insurance pays."
+  },
+  {
+   "s": "Ich habe im Januar gerechnet, dass ich gesund bin.",
+   "e": "In January I calculated that I was healthy."
+  },
+  {
+   "s": "Im Juni war die Rechnung falsch.",
+   "e": "In June the calculation was wrong."
+  },
+  {
+   "s": "Das ist die Wette und man macht sie jedes Jahr im Herbst.",
+   "e": "That is the bet and you make it every year in the autumn."
+  },
+  {
+   "s": "Man wettet gegen das eigene Jahr.",
+   "e": "You bet against your own year."
+  },
+  {
+   "s": "Der Hausarzt ist der Anfang.",
+   "e": "The family doctor is the beginning."
+  },
+  {
+   "s": "Man geht nicht direkt zum Spezialisten.",
+   "e": "You do not go straight to a specialist."
+  },
+  {
+   "s": "Man geht zum Hausarzt und der schickt einen weiter.",
+   "e": "You go to the family doctor and they send you on."
+  },
+  {
+   "s": "Das Papier dafür heisst Überweisung.",
+   "e": "The paper for that is called an Überweisung."
+  },
+  {
+   "s": "Überweisen heisst hier: weiterschicken.",
+   "e": "Überweisen here means: to send on."
+  },
+  {
+   "s": "Das gleiche Wort braucht man auch beim Geld.",
+   "e": "You need the same word for money as well."
+  },
+  {
+   "s": "Man überweist Geld und man überweist einen Patienten.",
+   "e": "You transfer money and you refer a patient."
+  },
+  {
+   "s": "Ich habe am Montag angerufen.",
+   "e": "I called on Monday."
+  },
+  {
+   "s": "Die Frau in der Praxis hat gefragt, worum es geht.",
+   "e": "The woman at the practice asked what it was about."
+  },
+  {
+   "s": "Die Praxis ist der Ort, wo ein Arzt arbeitet.",
+   "e": "The practice is the place where a doctor works."
+  },
+  {
+   "s": "Es ist nicht das Spital.",
+   "e": "It is not the hospital."
+  },
+  {
+   "s": "Es sind meistens drei Zimmer im ersten Stock von einem Haus.",
+   "e": "It is usually three rooms on the first floor of a building."
+  },
+  {
+   "s": "Sie hat gesagt: Der nächste Termin ist am Donnerstag.",
+   "e": "She said: the next appointment is on Thursday."
+  },
+  {
+   "s": "Drei Tage.",
+   "e": "Three days."
+  },
+  {
+   "s": "Ich habe im Wartzimmer eine Sache gelernt, die mir vorher niemand gesagt hat.",
+   "e": "In the waiting room I learnt something nobody had told me before."
+  },
+  {
+   "s": "Man muss den Schmerz beschreiben.",
+   "e": "You have to describe the pain."
+  },
+  {
+   "s": "Das ist die ganze Arbeit beim Arzt.",
+   "e": "That is the whole job at the doctor's."
+  },
+  {
+   "s": "Er sieht nichts.",
+   "e": "He sees nothing."
+  },
+  {
+   "s": "Er hat nur, was ich sage.",
+   "e": "He only has what I say."
+  },
+  {
+   "s": "Und ich habe Deutsch für ein Büro gelernt.",
+   "e": "And I learnt German for an office."
+  },
+  {
+   "s": "Ich habe Deutsch für einen Bahnhof gelernt und für ein Sonntagessen.",
+   "e": "I learnt German for a station and for a Sunday lunch."
+  },
+  {
+   "s": "Ich habe es nicht dafür gelernt.",
+   "e": "I did not learn it for this."
+  },
+  {
+   "s": "Der Arzt hat gefragt: Wo genau?",
+   "e": "The doctor asked: where exactly?"
+  },
+  {
+   "s": "Ich habe auf den Rücken gezeigt.",
+   "e": "I pointed at my back."
+  },
+  {
+   "s": "Er hat gefragt: Ist es scharf oder dumpf?",
+   "e": "He asked: is it sharp or dull?"
+  },
+  {
+   "s": "Dumpf habe ich nicht gekannt.",
+   "e": "I did not know dumpf."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss nicht.",
+   "e": "I said: I do not know."
+  },
+  {
+   "s": "Er hat gesagt: Sticht es, oder drückt es?",
+   "e": "He said: does it stab, or does it press?"
+  },
+  {
+   "s": "Das habe ich verstanden.",
+   "e": "That I understood."
+  },
+  {
+   "s": "Es drückt.",
+   "e": "It presses."
+  },
+  {
+   "s": "Zwei Verben und plötzlich hat es funktioniert.",
+   "e": "Two verbs and suddenly it worked."
+  },
+  {
+   "s": "Er hat gefragt: Strahlt es aus?",
+   "e": "He asked: does it radiate?"
+  },
+  {
+   "s": "Er hat mit der Hand ein Bein hinunter gezeigt.",
+   "e": "He showed a leg going down with his hand."
+  },
+  {
+   "s": "Ich habe genickt.",
+   "e": "I nodded."
+  },
+  {
+   "s": "Er hat gefragt: Wie lange schon?",
+   "e": "He asked: how long now?"
+  },
+  {
+   "s": "Ich habe gesagt: Fünf Wochen.",
+   "e": "I said: five weeks."
+  },
+  {
+   "s": "Er hat mich angeschaut und nichts gesagt.",
+   "e": "He looked at me and said nothing."
+  },
+  {
+   "s": "Er hat es aufgeschrieben.",
+   "e": "He wrote it down."
+  },
+  {
+   "s": "Ich habe die Wörter danach aufgeschrieben.",
+   "e": "I wrote the words down afterwards."
+  },
+  {
+   "s": "Es sind nicht viele und sie sind alle wichtig.",
+   "e": "There are not many and they are all important."
+  },
+  {
+   "s": "Es sticht. Es drückt. Es brennt. Es zieht.",
+   "e": "It stabs. It presses. It burns. It pulls."
+  },
+  {
+   "s": "Es ist scharf. Es ist dumpf.",
+   "e": "It is sharp. It is dull."
+  },
+  {
+   "s": "Es strahlt aus.",
+   "e": "It radiates."
+  },
+  {
+   "s": "Es ist besser, wenn ich liege.",
+   "e": "It is better when I lie down."
+  },
+  {
+   "s": "Es ist schlimmer am Morgen.",
+   "e": "It is worse in the morning."
+  },
+  {
+   "s": "Ich habe seit fünf Wochen Schmerzen.",
+   "e": "I have had pain for five weeks."
+  },
+  {
+   "s": "Vierzehn Sätze, und mit denen kann man zu jedem Arzt gehen.",
+   "e": "Fourteen sentences, and with those you can go to any doctor."
+  },
+  {
+   "s": "Ich habe sie in ein Buch geschrieben und in die Küche gehängt.",
+   "e": "I wrote them in a book and hung it in the kitchen."
+  },
+  {
+   "s": "Selina hat gefragt, ob ich einen Kurs mache.",
+   "e": "Selina asked whether I was doing a course."
+  },
+  {
+   "s": "Ich habe eine Überweisung bekommen.",
+   "e": "I got a referral."
+  },
+  {
+   "s": "Für einen Termin im August.",
+   "e": "For an appointment in August."
+  },
+  {
+   "s": "Ich habe gefragt: So lange?",
+   "e": "I asked: that long?"
+  },
+  {
+   "s": "Er hat gesagt: Ja, so lange.",
+   "e": "He said: yes, that long."
+  },
+  {
+   "s": "Er hat gesagt: Wenn es schlimmer wird, rufen Sie an.",
+   "e": "He said: if it gets worse, call."
+  },
+  {
+   "s": "Er hat gesagt: Dann geht es schneller.",
+   "e": "He said: then it goes faster."
+  },
+  {
+   "s": "So funktioniert das hier.",
+   "e": "That is how it works here."
+  },
+  {
+   "s": "Es ist gut und es ist langsam.",
+   "e": "It is good and it is slow."
+  },
+  {
+   "s": "Wer wirklich krank ist, kommt sofort dran.",
+   "e": "Whoever is really ill gets seen immediately."
+  },
+  {
+   "s": "Wer einen Rücken hat, wartet acht Wochen.",
+   "e": "Whoever has a back waits eight weeks."
+  },
+  {
+   "s": "Das ist die richtige Reihenfolge und man merkt es nur, wenn man der zweite ist.",
+   "e": "That is the right order and you only notice it when you are the second one."
+  },
+  {
+   "s": "Die Rechnung ist zwei Wochen später gekommen.",
+   "e": "The bill came two weeks later."
+  },
+  {
+   "s": "Zweihundertzwanzig Franken für zwanzig Minuten.",
+   "e": "Two hundred and twenty francs for twenty minutes."
+  },
+  {
+   "s": "Ich habe sie selber gezahlt wegen der Franchise.",
+   "e": "I paid it myself because of the excess."
+  },
+  {
+   "s": "Die Physiotherapie hat vierhundert gekostet.",
+   "e": "The physiotherapy cost four hundred."
+  },
+  {
+   "s": "Ich habe im Herbst die Franchise wieder tiefer genommen.",
+   "e": "In the autumn I took the excess lower again."
+  },
+  {
+   "s": "Ich bin an dem Donnerstag aus der Praxis auf die Strasse.",
+   "e": "That Thursday I came out of the practice onto the street."
+  },
+  {
+   "s": "Es war halb sechs und sehr warm.",
+   "e": "It was half past five and very warm."
+  },
+  {
+   "s": "Ich bin die Strasse hinunter zum Fluss.",
+   "e": "I went down the street to the river."
+  },
+  {
+   "s": "Ich bin dort eine halbe Stunde gesessen.",
+   "e": "I sat there for half an hour."
+  },
+  {
+   "s": "Ich habe an Rosmarie gedacht, aber nicht traurig.",
+   "e": "I thought about Rosmarie, but not sadly."
+  },
+  {
+   "s": "Ich habe daran gedacht, wie sie im Spital gesessen ist.",
+   "e": "I thought about how she sat in the hospital."
+  },
+  {
+   "s": "Sie ist gesessen und nicht gelegen und sie hat die Haare gemacht gehabt.",
+   "e": "She was sitting and not lying and she had done her hair."
+  },
+  {
+   "s": "Ich habe zum ersten Mal verstanden, was das war.",
+   "e": "For the first time I understood what that was."
+  },
+  {
+   "s": "Es war keine Eitelkeit.",
+   "e": "It was not vanity."
+  },
+  {
+   "s": "Sie hat entschieden, wie viel der Körper von ihr bekommt.",
+   "e": "She decided how much of her the body was going to get."
+  }
+ ]
+}

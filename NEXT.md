@@ -1,6 +1,6 @@
 # START HERE — where the German course stands
 
-**Phases 0 to 4 are written. The plan is finished and it is not up for
+**Phases 0 to 5 are written. The plan is finished and it is not up for
 relitigating.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
@@ -10,9 +10,9 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **192** | 8 phases, **122 written** (phases 0 to 4 complete) |
-| App support | **shipped** | v2.8.25, mascot + palette + English interface + switcher |
-| Stories on people | **62** | phases 4 and 5, a third of the course |
+| Stories planned | **192** | 8 phases, **148 written** (phases 0 to 5 complete) |
+| App support | **shipped** | v2.8.38, mascot + palette + English interface + switcher |
+| Stories on people | **62** | phases 4 and 5, a third of the course, both written |
 
 ---
 
@@ -401,6 +401,93 @@ Two smaller ones fixed at the same time:
   scene could push a pattern over its threshold and the pattern would sit
   reading "0 more words to go" and stay locked until a lesson happened to be
   read next. `answerScene` calls `checkPatterns()` now.
+
+## 21. Phase 5 — Hard Things, 26 stories, DONE 2026-08-28
+
+The phase the cast was planned around. **Frau Amrein dies in `p5-07`**, after
+128 stories of correcting your recycling and feeding you anyway, and the
+fourteen stories from `p5-01` to `p5-14` are one continuous thread: the shut
+door, the ward, the visits, the doctor, the favour, the death, the Hauswart in
+the doorway, the condolences, the Abdankung, the notice in the paper, the flat
+emptied in a morning, the sister, and one photograph in an envelope.
+
+| | | |
+|---|---|---|
+| Stories | **148** total | 26 new, 17,713 running words |
+| Dictionary | **2,075** | +170 |
+| Verbs | **430** | +44, every form stated, Konjunktiv II on six more |
+| Patterns | **53** | +9 |
+| Scenes | **45** | +8 |
+| Blüemli | **99** lines | +9 |
+| Tappable | **98.5%** whole course | |
+| Warm-ups | 440 words, 0 stories with none | |
+
+**Beat**, **Fatlum** and **Vreni** arrive. Beat rings once, says when he is
+coming and hangs up, which is the second way people help here and the one that
+costs the person being helped nothing. Fatlum has answered *woher kommst du
+wirklich* four thousand times and answers it again. Vreni has the same voice as
+her sister, lives twenty minutes away, and saw her twice a year.
+
+### The grammar, and where it lands
+
+**Konjunktiv II arrives in `p5-06`**, in the story where a woman who does not
+ask for anything takes four minutes to ask for something. That is the whole
+argument for putting it there: hätte, wäre, könnte and würde are not politeness
+decoration, they are **what leaves the other person room to say no**, and the
+first time you meet them should be the time somebody needs them.
+
+`p5-01` to `p5-05` are clean of it, checked by a scan rather than by reading.
+The rest of the phase uses it freely, and `p5-25` is the full treatment.
+
+The **passive** is `p5-12`, where a flat is emptied and nobody is named, and
+`p5-04`, where a doctor can only say what is being done. Subordinate clauses
+run through the whole phase, which is what phase 4's `p4-10` opened the door
+for.
+
+### What the phase taught about writing the next one
+
+- **The recycling sweep was 10 cards, against 44, 28 and 32.** Not because the
+  gate relaxed — because this phase was written knowing it was coming, and
+  carried the flat, the building, the Zeitung and the Friedhof forward on
+  purpose. 36 sentences closed it. The number falls when the writing does the
+  work, exactly as phase 3 predicted.
+- **And the sweep broke nothing this time.** Three phases running it took one
+  or two words down with it; this is the first time re-running it came back
+  zero. Re-run it anyway. It costs one command.
+- **A phase full of subordinate clauses exposed a real hole in `forms.py`.**
+  A separable verb goes back together at the end of a subordinate clause —
+  *weil er anfängt*, *dass es mich betrifft* — and the joined form was emitted
+  nowhere, so it resolved to nothing. It is generated now, from the stated
+  parts, and claimed for the separable verb rather than its base, because the
+  prefix is right there on the word. Same class of bug as phase 1's epenthetic
+  e: a rule that was right for the shapes the course happened to contain, until
+  the course contained a new shape.
+- **Ordinals declined nowhere either.** `viert`, `sechst`, `zwanzigst` are
+  stored as stems and *der vierte* is genuinely regular, so it is ruled now.
+- **Adding two verbs cost two words their mapping**, exactly as `meinen` cost
+  `meine` in phase 2. `ansprechen` made `spricht` ambiguous with `aussprechen`,
+  and `ausladen` made `lädt` ambiguous with `einladen`. Both are pinned. **Read
+  the AMBIGUOUS list after every batch**, three phases running now.
+- **The course teaches `reden` and not `sprechen`**, which came out of that
+  check: `sprechen` has never had a dictionary entry and `spricht` occurs once
+  in 148 stories. That is Swiss and it looks deliberate. Left alone.
+
+### Known, and worth flagging
+
+- **`Abdankung` is what the spine asked for and it is the word in the notices.**
+  It is used across Switzerland; it is more at home in a Reformed parish than a
+  Catholic one, and Rosmarie goes to church every Sunday in Catholic Luzern.
+  `p5-10` names **Beerdigung** and **Trauerfeier** in the same breath, so the
+  learner has all three. **Below certain, and flagged rather than asserted.**
+- **`Leidmahl`** for the meal afterwards, **`Hock`** for the sit-down after a
+  rehearsal, and **`Ambulanz`** beside Krankenwagen are the same class of call:
+  attested, ordinary, and unverifiable from here.
+- **Eleven flowers and never thirteen**, from the shop in the hospital. Stated
+  as a rule rather than as superstition because that is how it was described.
+  Nobody in the project can check it.
+- **`aufpassen` and `aufwachen` have now gone five phases at one use each.**
+  Phase 6 or drop them. This is the fifth time this line has been written.
+- **`Stock` is still a floor and a ski pole.**
 
 ## 20. The download banner that would not go away — FIXED 2026-08-27
 
