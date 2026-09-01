@@ -1,0 +1,351 @@
+{
+ "id": "p7-11",
+ "title": "Warum Grüezi",
+ "desc": "The first word, explained last",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "grüssen",
+  "Grüezi",
+  "kennen",
+  "erst"
+ ],
+ "sn": [
+  {
+   "s": "Anna hat mich im Dezember gefragt, warum alle Grüezi sagen.",
+   "e": "In December Anna asked me why everybody says Grüezi."
+  },
+  {
+   "s": "Nicht was es heisst. Warum.",
+   "e": "Not what it means. Why."
+  },
+  {
+   "s": "Das ist eine bessere Frage und ich habe sie nie gestellt.",
+   "e": "That is a better question and I never asked it."
+  },
+  {
+   "s": "Ich habe im ersten Monat gelernt, was es heisst, und dann habe ich aufgehört zu fragen.",
+   "e": "In my first month I learnt what it means, and then I stopped asking."
+  },
+  {
+   "s": "Ich habe es zwei Wochen lang vor dem Spiegel geübt, im ersten Monat.",
+   "e": "For two weeks I practised it in front of the mirror, in my first month."
+  },
+  {
+   "s": "Um über Sprache zu reden, braucht man ein paar Wendungen.",
+   "e": "To talk about language you need a few turns of phrase."
+  },
+  {
+   "s": "Man sagt hier.",
+   "e": "You say here."
+  },
+  {
+   "s": "Das heisst ungefähr.",
+   "e": "That means roughly."
+  },
+  {
+   "s": "Das braucht man nur, wenn.",
+   "e": "You only need that when."
+  },
+  {
+   "s": "Es ist schwierig zu übersetzen.",
+   "e": "It is difficult to translate."
+  },
+  {
+   "s": "Man kann in einer Sprache über die Sprache reden und das ist eine eigene Stufe.",
+   "e": "You can talk about the language in the language and that is a level of its own."
+  },
+  {
+   "s": "Ich habe es zum ersten Mal an dem Abend gemacht, in einem Restaurant, mit Anna.",
+   "e": "I did it for the first time that evening, in a restaurant, with Anna."
+  },
+  {
+   "s": "Ich habe ihr gesagt, was ich weiss, und ich habe zweimal gesagt, dass ich es nicht genau weiss.",
+   "e": "I told her what I know, and I twice said that I do not know exactly."
+  },
+  {
+   "s": "Grüezi kommt von einer alten Form von Gott grüsse Euch.",
+   "e": "Grüezi comes from an old form of God greet you."
+  },
+  {
+   "s": "Das ist deutsch und es ist trotzdem nicht Deutsch, wie man es in Deutschland sagt.",
+   "e": "That is German and it is still not the German they say in Germany."
+  },
+  {
+   "s": "Es ist über Jahrhunderte kürzer geworden, bis nichts mehr davon zu hören ist.",
+   "e": "It has got shorter over centuries, until nothing of it can be heard any more."
+  },
+  {
+   "s": "Das ist der Teil, den man in einem Buch nachlesen kann.",
+   "e": "That is the part you can look up in a book."
+  },
+  {
+   "s": "Der andere Teil ist wichtiger und der steht nirgends.",
+   "e": "The other part is more important and it is nowhere."
+  },
+  {
+   "s": "Man sagt es zu Leuten, die man nicht kennt.",
+   "e": "You say it to people you do not know."
+  },
+  {
+   "s": "Im Treppenhaus, im Lift, im Laden, auf einem Wanderweg.",
+   "e": "In the stairwell, in the lift, in the shop, on a hiking path."
+  },
+  {
+   "s": "Man sagt es zum Kassier, bevor man etwas anderes sagt.",
+   "e": "You say it to the cashier before you say anything else."
+  },
+  {
+   "s": "Man sagt es zu jemandem, den man auf einem Weg kreuzt, wenn sonst niemand da ist.",
+   "e": "You say it to somebody you cross on a path, if nobody else is there."
+  },
+  {
+   "s": "Das Letzte ist die Regel, an der man einen Fremden erkennt.",
+   "e": "The last is the rule you recognise a foreigner by."
+  },
+  {
+   "s": "In der Stadt grüsst man nicht auf der Strasse.",
+   "e": "In town you do not greet people in the street."
+  },
+  {
+   "s": "Auf einem Berg grüsst man jeden.",
+   "e": "On a mountain you greet everybody."
+  },
+  {
+   "s": "Man wirft im Vorbeigehen ein Wort hin und geht weiter.",
+   "e": "You throw a word out in passing and walk on."
+  },
+  {
+   "s": "Die Grenze liegt ungefähr dort, wo man den anderen sonst ignorieren müsste.",
+   "e": "The border lies about where you would otherwise have to ignore the other person."
+  },
+  {
+   "s": "Wenn zwei Leute allein auf einem Weg sind, ist das Nichtgrüssen eine Sache.",
+   "e": "When two people are alone on a path, not greeting is a thing."
+  },
+  {
+   "s": "Wenn dreihundert Leute in einer Gasse sind, ist es keine.",
+   "e": "When three hundred people are in a lane, it is not."
+  },
+  {
+   "s": "Ich habe das an dem Abend zum ersten Mal in Worte gefasst.",
+   "e": "That evening I put that into words for the first time."
+  },
+  {
+   "s": "Ich habe es fünf Jahre gemacht und nie gewusst, dass ich eine Regel habe.",
+   "e": "I had been doing it for five years and never knew that I have a rule."
+  },
+  {
+   "s": "Anna hat gefragt, warum es so wichtig ist.",
+   "e": "Anna asked why it is so important."
+  },
+  {
+   "s": "Sie hat vorher zwei Wochen über den Abfall geredet und dann über ein Wort.",
+   "e": "For two weeks beforehand she had talked about the rubbish and then about one word."
+  },
+  {
+   "s": "Sie hat gesagt: Es ist ja nur ein Wort.",
+   "e": "She said: it is only a word."
+  },
+  {
+   "s": "Das ist genau der Satz, den ich vor fünf Jahren gesagt habe.",
+   "e": "That is exactly the sentence I said five years ago."
+  },
+  {
+   "s": "Ich habe drei Minuten gebraucht, um die Antwort zu bauen.",
+   "e": "I needed three minutes to build the answer."
+  },
+  {
+   "s": "Ich habe gesagt: Es ist nicht wichtig, weil es viel heisst.",
+   "e": "I said: it is not important because it means a lot."
+  },
+  {
+   "s": "Ich habe gesagt: Es ist wichtig, weil es nichts heisst.",
+   "e": "I said: it is important because it means nothing."
+  },
+  {
+   "s": "Ein Gruss ist hier keine Nachricht.",
+   "e": "A greeting here is not a message."
+  },
+  {
+   "s": "Er ist ein Zeichen, dass man die Regeln kennt.",
+   "e": "It is a sign that you know the rules."
+  },
+  {
+   "s": "Wer grüsst, sagt: ich weiss, wie es hier geht, und ich mache mit.",
+   "e": "Whoever greets says: I know how it goes here, and I am joining in."
+  },
+  {
+   "s": "Wer nicht grüsst, sagt gar nichts, und das ist genau das Problem.",
+   "e": "Whoever does not greet says nothing at all, and that is exactly the problem."
+  },
+  {
+   "s": "Es kostet nichts und es dauert eine halbe Sekunde.",
+   "e": "It costs nothing and it takes half a second."
+  },
+  {
+   "s": "Und deshalb heisst es sehr viel, wenn jemand es nicht macht.",
+   "e": "And that is why it means a great deal when somebody does not do it."
+  },
+  {
+   "s": "Ich habe ihr erzählt, was mir im ersten Monat passiert ist.",
+   "e": "I told her what happened to me in my first month."
+  },
+  {
+   "s": "Ich bin an einer Frau vorbei, im Treppenhaus, und habe nichts gesagt.",
+   "e": "I walked past a woman in the stairwell and said nothing."
+  },
+  {
+   "s": "Nicht aus Unhöflichkeit. Ich habe sie nicht gekannt.",
+   "e": "Not out of rudeness. I did not know her."
+  },
+  {
+   "s": "Bei mir zu Hause grüsst man Leute, die man nicht kennt, nicht.",
+   "e": "Where I come from you do not greet people you do not know."
+  },
+  {
+   "s": "Sie hat zwei Tage später mit mir geredet und mir das erklärt.",
+   "e": "Two days later she talked to me and explained that to me."
+  },
+  {
+   "s": "Sie hat gesagt: Man sagt hier Grüezi. Auch zu Leuten, die man nicht kennt.",
+   "e": "She said: here you say Grüezi. Even to people you do not know."
+  },
+  {
+   "s": "Sie hat gesagt: Sonst denken die Leute, Sie sind unfreundlich.",
+   "e": "She said: otherwise people think you are unfriendly."
+  },
+  {
+   "s": "Sie hat es nicht böse gesagt und ich habe es damals als Kritik gehört.",
+   "e": "She did not say it nastily and back then I heard it as criticism."
+  },
+  {
+   "s": "Es war keine Kritik.",
+   "e": "It was not criticism."
+  },
+  {
+   "s": "Es war die erste Sache, die mir hier jemand beigebracht hat.",
+   "e": "It was the first thing anybody taught me here."
+  },
+  {
+   "s": "Ich habe Anna den Namen von der Frau gesagt.",
+   "e": "I told Anna the woman's name."
+  },
+  {
+   "s": "Das war das erste Mal, dass ich ihn zu jemandem gesagt habe, der sie nicht kennt.",
+   "e": "That was the first time I said it to somebody who does not know her."
+  },
+  {
+   "s": "Anna hat gefragt, ob sie noch dort wohnt.",
+   "e": "Anna asked whether she still lives there."
+  },
+  {
+   "s": "Ich habe gesagt: Nein. Sie ist gestorben.",
+   "e": "I said: no. She died."
+  },
+  {
+   "s": "Und dann habe ich das Thema gewechselt, weil ich es an dem Abend nicht wollte.",
+   "e": "And then I changed the subject, because I did not want it that evening."
+  },
+  {
+   "s": "Es hat noch drei andere Grüsse und Anna hat sie inzwischen alle.",
+   "e": "There are three other greetings and by now Anna has all of them."
+  },
+  {
+   "s": "Hoi ist für Leute, die man duzt.",
+   "e": "Hoi is for people you say du to."
+  },
+  {
+   "s": "Hoi zäme ist für mehrere.",
+   "e": "Hoi zäme is for several."
+  },
+  {
+   "s": "Sali ist das Gleiche wie Hoi und tönt etwas jünger.",
+   "e": "Sali is the same as Hoi and sounds a bit younger."
+  },
+  {
+   "s": "Und Grüezi ist für alle, die man siezt, und für alle, die man nicht kennt.",
+   "e": "And Grüezi is for everybody you say Sie to, and everybody you do not know."
+  },
+  {
+   "s": "Man kann sich mit diesen vier Wörtern durch ein ganzes Leben bewegen.",
+   "e": "You can move through a whole life with those four words."
+  },
+  {
+   "s": "Beim Weggehen ist es einfacher.",
+   "e": "On leaving it is simpler."
+  },
+  {
+   "s": "Ade oder Uf Wiederluege oder Tschüss, je nachdem, wie gut man sich kennt.",
+   "e": "Ade or Uf Wiederluege or Tschüss, depending on how well you know each other."
+  },
+  {
+   "s": "Anna hat am Schluss etwas gefragt, an das ich nicht gedacht habe.",
+   "e": "At the end Anna asked something I had not thought of."
+  },
+  {
+   "s": "Sie hat gefragt: Und wann hast du gemerkt, dass es normal geworden ist?",
+   "e": "She asked: and when did you notice that it had become normal?"
+  },
+  {
+   "s": "Ich habe es ihr sagen können, weil ich es genau weiss.",
+   "e": "I could tell her, because I know exactly."
+  },
+  {
+   "s": "Es war in meinem dritten Jahr, an einem Bahnhof, in einem anderen Land.",
+   "e": "It was in my third year, at a station, in another country."
+  },
+  {
+   "s": "Ich bin an einer Frau vorbei und habe Grüezi gesagt.",
+   "e": "I walked past a woman and said Grüezi."
+  },
+  {
+   "s": "Sie hat mich angeschaut, als ob ich verrückt wäre.",
+   "e": "She looked at me as though I were mad."
+  },
+  {
+   "s": "In dem Moment habe ich gewusst, dass ich etwas mitgenommen habe.",
+   "e": "In that moment I knew that I had taken something with me."
+  },
+  {
+   "s": "Anna hat gelacht und dann hat sie nichts mehr gesagt.",
+   "e": "Anna laughed and then she said nothing more."
+  },
+  {
+   "s": "Ich habe nach zwei Tagen gemerkt, warum sie still geworden ist.",
+   "e": "After two days I noticed why she had gone quiet."
+  },
+  {
+   "s": "Sie hat gerechnet, wie lange drei Jahre sind.",
+   "e": "She was working out how long three years is."
+  },
+  {
+   "s": "Ich habe an dem Abend ungefähr zwanzig Minuten geredet.",
+   "e": "That evening I talked for about twenty minutes."
+  },
+  {
+   "s": "Über ein Wort mit sechs Buchstaben, das ich am ersten Tag gelernt habe.",
+   "e": "About a word with six letters that I learnt on the first day."
+  },
+  {
+   "s": "Ich habe es besser erklärt, als es mir jemals jemand erklärt hat.",
+   "e": "I explained it better than anybody ever explained it to me."
+  },
+  {
+   "s": "Das ist nicht, weil ich klug bin.",
+   "e": "That is not because I am clever."
+  },
+  {
+   "s": "Es ist, weil ich es einmal nicht gewusst habe.",
+   "e": "It is because I once did not know it."
+  },
+  {
+   "s": "Ein Schweizer kann das nicht erklären und es ist nicht seine Schuld.",
+   "e": "A Swiss person cannot explain that and it is not their fault."
+  },
+  {
+   "s": "Man kann nur erklären, was man einmal gelernt hat.",
+   "e": "You can only explain what you once learnt."
+  }
+ ]
+}

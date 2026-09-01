@@ -1,0 +1,109 @@
+{
+ "id": "sc55",
+ "title": "An deiner Stelle",
+ "desc": "Talking somebody out of a lamp",
+ "setting": "The second floor of the Brockenhaus on a Saturday morning, and the first thing she has seen.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Anna",
+   "es": "Die nehme ich. Die ist schön.",
+   "en": "I will take that one. It is nice.",
+   "options": [
+    {
+     "es": "An deiner Stelle würde ich noch warten.",
+     "en": "In your place I would wait a bit.",
+     "verdict": "good",
+     "feedback": "Advice from beside her rather than in front of her. She can still say no to it."
+    },
+    {
+     "es": "Die ist viel zu gross.",
+     "en": "That is far too big.",
+     "verdict": "ok",
+     "feedback": "True, and it decides for her. She will take it anyway and it will annoy her for three years."
+    },
+    {
+     "es": "Wenn sie dir gefällt, nimm sie.",
+     "en": "If you like it, take it.",
+     "verdict": "ok",
+     "feedback": "Kind, and she asked you along for a reason."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Warum nicht? Sie kostet nur fünfundvierzig.",
+   "en": "Why not? It only costs forty-five.",
+   "options": [
+    {
+     "es": "Es hat noch zwei Stöcke.",
+     "en": "There are two more floors.",
+     "verdict": "good",
+     "feedback": "The real reason, and it is about the shop and not about her taste."
+    },
+    {
+     "es": "Die Fassung gibt es nicht mehr zu kaufen.",
+     "en": "You cannot buy that fitting any more.",
+     "verdict": "good",
+     "feedback": "A fact she cannot know and would find out in a week. This is what she brought you for."
+    },
+    {
+     "es": "Fünfundvierzig ist viel für eine Lampe.",
+     "en": "Forty-five is a lot for a lamp.",
+     "verdict": "bad",
+     "feedback": "It is not, and it makes it about money when it is about the room."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Aber die Wohnung ist so leer.",
+   "en": "But the flat is so empty.",
+   "options": [
+    {
+     "es": "Ich weiss. Ich habe damals einen zu kleinen Tisch gekauft.",
+     "en": "I know. Back then I bought a table that was too small.",
+     "verdict": "good",
+     "feedback": "Now the story helps, because it is the same mistake and she is standing in front of it."
+    },
+    {
+     "es": "Das ist kein Grund.",
+     "en": "That is not a reason.",
+     "verdict": "bad",
+     "feedback": "It is the reason, and everybody who has stood in an empty flat knows it."
+    },
+    {
+     "es": "In zwei Wochen ist sie voll.",
+     "en": "In two weeks it will be full.",
+     "verdict": "ok",
+     "feedback": "Probably true and it does not touch what she just said."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Also gut. Dann schauen wir noch oben.",
+   "en": "All right then. Then we will look upstairs too.",
+   "options": [
+    {
+     "es": "Und wenn oben nichts ist, kommen wir zurück.",
+     "en": "And if there is nothing upstairs, we will come back.",
+     "verdict": "good",
+     "feedback": "Leave her the way back. That is what makes it advice instead of a veto."
+    },
+    {
+     "es": "Gut. Die wäre sowieso falsch gewesen.",
+     "en": "Good. That one would have been wrong anyway.",
+     "verdict": "bad",
+     "feedback": "You have won. Saying so is the one thing that turns advice into being told."
+    },
+    {
+     "es": "Wie du willst.",
+     "en": "As you like.",
+     "verdict": "ok",
+     "feedback": "Neutral to the point of being cold, after she has just taken your advice."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc52",
+ "title": "Wie komme ich zum Bahnhof",
+ "desc": "Being the one who knows",
+ "setting": "A junction in April, a woman with a suitcase held the way you once held one, and two seconds to answer.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Eine Frau mit Koffer",
+   "es": "Entschuldigung, wie komme ich zum Bahnhof?",
+   "en": "Excuse me, how do I get to the station?",
+   "options": [
+    {
+     "es": "Da vorne links, dann über die Brücke.",
+     "en": "Left up there, then over the bridge.",
+     "verdict": "good",
+     "feedback": "Two landmarks and no more. That is what somebody with a suitcase can hold."
+    },
+    {
+     "es": "Das ist kompliziert. Ich zeige es Ihnen auf dem Handy.",
+     "en": "That is complicated. I will show you on my phone.",
+     "verdict": "ok",
+     "feedback": "Kind, and it is four minutes long. It is a five minute walk."
+    },
+    {
+     "es": "Sorry, do you speak English?",
+     "en": "Sorry, do you speak English?",
+     "verdict": "bad",
+     "feedback": "She asked you in German. Answering in English is exactly the thing that was done to you for years."
+    }
+   ]
+  },
+  {
+   "speaker": "Eine Frau mit Koffer",
+   "es": "Ist es weit?",
+   "en": "Is it far?",
+   "options": [
+    {
+     "es": "Fünf Minuten.",
+     "en": "Five minutes.",
+     "verdict": "good",
+     "feedback": "A number. With a suitcase that is the only part of the answer that matters."
+    },
+    {
+     "es": "Nein, überhaupt nicht.",
+     "en": "No, not at all.",
+     "verdict": "ok",
+     "feedback": "Reassuring and useless. She is carrying something and wants to know how long."
+    },
+    {
+     "es": "Kommt darauf an, wie schnell Sie gehen.",
+     "en": "Depends how fast you walk.",
+     "verdict": "bad",
+     "feedback": "Technically true. She is standing at a junction with a suitcase."
+    }
+   ]
+  },
+  {
+   "speaker": "Eine Frau mit Koffer",
+   "es": "Und der Zug nach Zürich, wissen Sie das auch?",
+   "en": "And the train to Zurich, do you know that too?",
+   "options": [
+    {
+     "es": "Die fahren etwa alle halbe Stunde.",
+     "en": "They go about every half hour.",
+     "verdict": "good",
+     "feedback": "Roughly right, said as roughly right. Nobody expects a timetable out of a stranger."
+    },
+    {
+     "es": "Um zwölf nach und um zweiundvierzig nach.",
+     "en": "At twelve past and at forty-two past.",
+     "verdict": "ok",
+     "feedback": "You do actually know this. It is also more than she asked for and she will not remember it."
+    },
+    {
+     "es": "Das müssen Sie am Schalter fragen.",
+     "en": "You will have to ask at the counter.",
+     "verdict": "ok",
+     "feedback": "Correct and it hands her back to the machine she is trying to avoid."
+    }
+   ]
+  },
+  {
+   "speaker": "Eine Frau mit Koffer",
+   "es": "Merci vielmal. Sie sind sehr freundlich.",
+   "en": "Thank you very much. You are very kind.",
+   "options": [
+    {
+     "es": "Gern geschehen. Guete Weg.",
+     "en": "You are welcome. Safe journey.",
+     "verdict": "good",
+     "feedback": "Take it and let her go. She has a train to catch and you have said the useful things."
+    },
+    {
+     "es": "Ich war auch mal neu hier.",
+     "en": "I was new here once too.",
+     "verdict": "ok",
+     "feedback": "True, and it makes the moment about you. She has a suitcase."
+    },
+    {
+     "es": "Kein Problem, ich hatte am Anfang die gleichen Probleme.",
+     "en": "No problem, I had the same problems at the beginning.",
+     "verdict": "bad",
+     "feedback": "Two sentences about yourself to somebody who asked for a direction."
+    }
+   ]
+  }
+ ]
+}

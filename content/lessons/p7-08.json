@@ -1,0 +1,328 @@
+{
+ "id": "p7-08",
+ "title": "Anna",
+ "desc": "Somebody newer than you",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "wechseln",
+  "Englisch",
+  "langsam",
+  "reden",
+  "lang"
+ ],
+ "sn": [
+  {
+   "s": "Anna hat im September bei uns angefangen.",
+   "e": "Anna started with us in September."
+  },
+  {
+   "s": "Sie ist seit drei Wochen im Land und sie sitzt zwei Tische weiter.",
+   "e": "She has been in the country for three weeks and she sits two desks away."
+  },
+  {
+   "s": "Ich habe es am ersten Morgen gesehen, bevor sie etwas gesagt hat.",
+   "e": "I saw it on the first morning, before she had said anything."
+  },
+  {
+   "s": "Es gibt einen Blick, den man nach drei Wochen hier hat.",
+   "e": "There is a look you have after three weeks here."
+  },
+  {
+   "s": "Man wirft einen Blick auf jedes Schild und liest es zweimal.",
+   "e": "You cast a glance at every sign and read it twice."
+  },
+  {
+   "s": "Ich kann ihn beschreiben, weil ich ihn zwei Jahre lang gehabt habe.",
+   "e": "I can describe it, because I had it for two years."
+  },
+  {
+   "s": "Man schaut eine Sekunde zu lang auf alles.",
+   "e": "You look at everything a second too long."
+  },
+  {
+   "s": "Auf ein Schild, auf einen Automaten, auf zwei Leute, die reden.",
+   "e": "At a sign, at a machine, at two people talking."
+  },
+  {
+   "s": "Man ist die ganze Zeit am Rechnen und man ist deshalb immer ein bisschen müde.",
+   "e": "You are calculating the whole time and that is why you are always a little tired."
+  },
+  {
+   "s": "Und man lacht eine halbe Sekunde zu spät, weil man den Witz erst übersetzt.",
+   "e": "And you laugh half a second too late, because you translate the joke first."
+  },
+  {
+   "s": "Diese halbe Sekunde sieht man von aussen und niemand sagt es einem.",
+   "e": "That half second is visible from the outside and nobody tells you."
+  },
+  {
+   "s": "Sie hat mich am dritten Tag etwas gefragt.",
+   "e": "She asked me something on the third day."
+  },
+  {
+   "s": "Sie hat gefragt: Weisst du, wohin der Abfall kommt?",
+   "e": "She asked: do you know where the rubbish goes?"
+  },
+  {
+   "s": "Ich habe vierzig Minuten geredet.",
+   "e": "I talked for forty minutes."
+  },
+  {
+   "s": "Ich habe es erst danach gemerkt, als sie den Mantel geholt hat.",
+   "e": "I only noticed afterwards, when she fetched her coat."
+  },
+  {
+   "s": "Sie hat eine Frage gestellt, die man mit zwei Sätzen beantworten kann.",
+   "e": "She asked a question you can answer in two sentences."
+  },
+  {
+   "s": "Ich habe ihr das ganze System erklärt, mit den Gebühren und den Säcken.",
+   "e": "I explained the whole system to her, with the charges and the bags."
+  },
+  {
+   "s": "Ich habe ihr erklärt, warum ein Gebührensack zwei Franken kostet.",
+   "e": "I explained to her why a charged rubbish bag costs two francs."
+  },
+  {
+   "s": "Ich habe von der Sammelstelle geredet und von den Öffnungszeiten.",
+   "e": "I talked about the collection point and about the opening hours."
+  },
+  {
+   "s": "Ich habe ihr erzählt, was mir vor fünf Jahren passiert ist.",
+   "e": "I told her what happened to me five years ago."
+  },
+  {
+   "s": "Sie hat höflich zugehört und nach zehn Minuten aufgehört zu fragen.",
+   "e": "She listened politely and after ten minutes stopped asking."
+  },
+  {
+   "s": "Das ist ein Fehler und er hat einen Namen, den ich mir selber gegeben habe.",
+   "e": "That is a mistake and it has a name I gave it myself."
+  },
+  {
+   "s": "Man erzählt dem Neuen die eigene Geschichte statt der Antwort.",
+   "e": "You tell the new person your own story instead of the answer."
+  },
+  {
+   "s": "Man macht es nicht, um anzugeben.",
+   "e": "You do not do it to show off."
+  },
+  {
+   "s": "Man macht es, weil man endlich jemanden hat, der versteht, wie es war.",
+   "e": "You do it because you finally have somebody who understands what it was like."
+  },
+  {
+   "s": "Fünf Jahre lang hat niemand gewusst, wovon ich rede.",
+   "e": "For five years nobody knew what I was talking about."
+  },
+  {
+   "s": "Für die Leute hier ist ein Sack ein Sack.",
+   "e": "For the people here a bag is a bag."
+  },
+  {
+   "s": "Für Anna ist es das gleiche Problem, das ich gehabt habe, und zwar jetzt.",
+   "e": "For Anna it is the same problem I had, and it is now."
+  },
+  {
+   "s": "Das ist ein Geschenk und ich habe es an dem Tag zu schnell aufgemacht.",
+   "e": "That is a present and I opened it too quickly that day."
+  },
+  {
+   "s": "Es gibt eine Art, mit jemandem zu reden, der neu ist, und sie ist schwierig.",
+   "e": "There is a way of talking to somebody who is new and it is difficult."
+  },
+  {
+   "s": "Man muss langsamer reden, ohne langsam zu tönen.",
+   "e": "You have to talk more slowly, without sounding slow."
+  },
+  {
+   "s": "Man muss einfache Wörter nehmen, ohne einfach zu tönen.",
+   "e": "You have to take simple words, without sounding simple."
+  },
+  {
+   "s": "Der Unterschied liegt nicht in der Sprache, er liegt im Gesicht.",
+   "e": "The difference does not lie in the language, it lies in the face."
+  },
+  {
+   "s": "Wer langsam redet und dabei freundlich schaut, hilft.",
+   "e": "Whoever talks slowly and looks friendly while doing it helps."
+  },
+  {
+   "s": "Wer langsam redet und dabei wartet, macht den anderen klein.",
+   "e": "Whoever talks slowly and waits while doing it makes the other person small."
+  },
+  {
+   "s": "Ich habe beides bekommen, hundertmal, und ich weiss genau, wie sich beides anfühlt.",
+   "e": "I got both, a hundred times, and I know exactly how both feel."
+  },
+  {
+   "s": "Die Leute, die mir am meisten geholfen haben, haben eines gemeinsam gehabt.",
+   "e": "The people who helped me most had one thing in common."
+  },
+  {
+   "s": "Sie haben nicht gewartet, bis ich fertig bin.",
+   "e": "They did not wait until I had finished."
+  },
+  {
+   "s": "Sie haben weitergeredet und mich mitgenommen.",
+   "e": "They carried on talking and took me with them."
+  },
+  {
+   "s": "Nuno hat das gemacht, vom ersten Tag an.",
+   "e": "Nuno did that, from the first day."
+  },
+  {
+   "s": "Er hat nie langsamer geredet und er hat mir nie ein Wort erklärt.",
+   "e": "He never talked more slowly and he never explained a word to me."
+  },
+  {
+   "s": "Er hat einfach immer wieder gesagt: Komm essen.",
+   "e": "He simply kept saying: come and eat."
+  },
+  {
+   "s": "Das war der beste Unterricht, den ich hier bekommen habe.",
+   "e": "That was the best teaching I have had here."
+  },
+  {
+   "s": "Anna redet Englisch und ich rede Englisch, und das ist das Problem.",
+   "e": "Anna speaks English and I speak English, and that is the problem."
+  },
+  {
+   "s": "Ihr Deutsch ist nach drei Wochen ungefähr so, wie meines nach drei Monaten war.",
+   "e": "Her German after three weeks is about what mine was after three months."
+  },
+  {
+   "s": "Es ist sehr einfach, mit ihr Englisch zu reden.",
+   "e": "It is very easy to speak English with her."
+  },
+  {
+   "s": "Es geht schneller, es ist genauer, und wir sind beide besser darin.",
+   "e": "It is faster, it is more precise, and we are both better at it."
+  },
+  {
+   "s": "Am ersten Tag haben wir Englisch geredet, den ganzen Tag.",
+   "e": "On the first day we spoke English, all day."
+  },
+  {
+   "s": "Am zweiten Tag auch.",
+   "e": "On the second day too."
+  },
+  {
+   "s": "Am dritten Tag habe ich es gemerkt und es hat mir nicht gefallen.",
+   "e": "On the third day I noticed it and I did not like it."
+  },
+  {
+   "s": "Ich habe fünf Jahre lang gehofft, dass die Leute nicht wechseln.",
+   "e": "For five years I hoped that people would not switch."
+  },
+  {
+   "s": "Und dann sitzt jemand neben mir und ich wechsle sofort.",
+   "e": "And then somebody sits next to me and I switch immediately."
+  },
+  {
+   "s": "Ich habe zwei Tage überlegt und dann habe ich es ihr gesagt.",
+   "e": "I thought about it for two days and then I told her."
+  },
+  {
+   "s": "Ich habe gesagt: Wollen wir Deutsch reden?",
+   "e": "I said: shall we speak German?"
+  },
+  {
+   "s": "Ich habe gesagt: Ich wechsle, wenn es nicht mehr geht.",
+   "e": "I said: I will switch when it stops working."
+  },
+  {
+   "s": "Sie hat sofort ja gesagt und dann hat sie etwas gesagt, das mich überrascht hat.",
+   "e": "She said yes immediately and then she said something that surprised me."
+  },
+  {
+   "s": "Sie hat gesagt: Danke. Alle anderen wechseln auch.",
+   "e": "She said: thank you. Everybody else switches too."
+  },
+  {
+   "s": "Das ist genau die Sache, über die ich mich fünf Jahre lang geärgert habe.",
+   "e": "That is exactly the thing I was annoyed about for five years."
+  },
+  {
+   "s": "Und ich habe drei Tage gebraucht, um sie selber zu machen.",
+   "e": "And it took me three days to do it myself."
+  },
+  {
+   "s": "Ich verstehe die Leute hier seitdem besser.",
+   "e": "I understand the people here better since then."
+  },
+  {
+   "s": "Sie wechseln nicht, weil sie einen nicht ernst nehmen.",
+   "e": "They do not switch because they are not taking you seriously."
+  },
+  {
+   "s": "Sie wechseln, weil es freundlich gemeint ist und weil es einfacher ist.",
+   "e": "They switch because it is meant kindly and because it is easier."
+  },
+  {
+   "s": "Und weil sie es können, und das ist der eigentliche Grund.",
+   "e": "And because they can, and that is the real reason."
+  },
+  {
+   "s": "Ein Land, in dem alle Englisch können, ist für einen Lernenden schwierig.",
+   "e": "A country where everybody speaks English is difficult for a learner."
+  },
+  {
+   "s": "Das steht in keinem Buch und es ist die grösste Sache von allen.",
+   "e": "That is in no book and it is the biggest thing of all."
+  },
+  {
+   "s": "Seit dem dritten Tag reden wir Deutsch, meistens.",
+   "e": "Since the third day we speak German, mostly."
+  },
+  {
+   "s": "Ungefähr eine Stunde am Tag wechseln wir, wenn etwas kompliziert ist.",
+   "e": "For about an hour a day we switch, when something is complicated."
+  },
+  {
+   "s": "Sie sagt dann: Kurz auf Englisch.",
+   "e": "She then says: briefly in English."
+  },
+  {
+   "s": "Sie meldet sich, wenn etwas nicht geht, und das ist nicht selbstverständlich.",
+   "e": "She gets in touch when something is not working, and that is not a given."
+  },
+  {
+   "s": "Und danach gehen wir zurück, ohne dass jemand etwas sagt.",
+   "e": "And afterwards we go back, without anybody saying anything."
+  },
+  {
+   "s": "Das ist eine gute Abmachung und wir haben sie nie besprochen.",
+   "e": "That is a good arrangement and we never discussed it."
+  },
+  {
+   "s": "Nach drei Wochen hat sie mir gesagt, dass es besser wird.",
+   "e": "After three weeks she told me that it is getting better."
+  },
+  {
+   "s": "Nach sechs hat sie gesagt, dass sie am Abend Kopfweh hat.",
+   "e": "After six she said that she has a headache in the evening."
+  },
+  {
+   "s": "Ich habe gesagt: Das dauert ungefähr ein Jahr.",
+   "e": "I said: that lasts about a year."
+  },
+  {
+   "s": "Sie hat gesagt: Ein Jahr?",
+   "e": "She said: a year?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Ich habe nicht gesagt, dass es bei mir länger gedauert hat.",
+   "e": "I did not say that it took longer with me."
+  },
+  {
+   "s": "Das war die erste Sache, die ich in diesem Herbst richtig gemacht habe.",
+   "e": "That was the first thing I got right that autumn."
+  }
+ ]
+}

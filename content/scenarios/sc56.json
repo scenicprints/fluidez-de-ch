@@ -1,0 +1,109 @@
+{
+ "id": "sc56",
+ "title": "Und? Bleiben Sie?",
+ "desc": "The question you were once asked",
+ "setting": "A Sunday in Kriens, the table laid, and a new person answering a question you got wrong six years ago.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Kurt",
+   "es": "Und? Bleiben Sie?",
+   "en": "And? Are you staying?",
+   "options": [
+    {
+     "es": "Ich weiss es noch nicht.",
+     "en": "I do not know yet.",
+     "verdict": "good",
+     "feedback": "Honest, short, finished. He will nod and ask nothing else, and that is the whole exam."
+    },
+    {
+     "es": "Ja, auf jeden Fall.",
+     "en": "Yes, definitely.",
+     "verdict": "ok",
+     "feedback": "After four months that is a promise nobody asked for, and he will remember it."
+    },
+    {
+     "es": "Das kommt darauf an, wie es mit der Arbeit läuft, und dann ist da noch die Wohnung.",
+     "en": "That depends how things go with the job, and then there is the flat as well.",
+     "verdict": "bad",
+     "feedback": "Three sentences where he left room for four words. He asked once."
+    }
+   ]
+  },
+  {
+   "speaker": "Marianne",
+   "es": "Selina sagt, Sie spielen in einer Guggenmusik.",
+   "en": "Selina says you play in a Guggenmusik.",
+   "options": [
+    {
+     "es": "Ich spiele Trommel. Auf zwei und auf vier.",
+     "en": "I play the drum. On two and on four.",
+     "verdict": "good",
+     "feedback": "The joke every single person at this table knows, told flat. Kurt will laugh into his plate."
+    },
+    {
+     "es": "Ja, seit vier Jahren.",
+     "en": "Yes, for four years.",
+     "verdict": "ok",
+     "feedback": "Fine, and it answers a question that was really an invitation."
+    },
+    {
+     "es": "Naja, spielen ist zu viel gesagt.",
+     "en": "Well, playing is putting it too strongly.",
+     "verdict": "ok",
+     "feedback": "The deflection is right and this is the second one this afternoon."
+    }
+   ]
+  },
+  {
+   "speaker": "Marianne",
+   "es": "Und Ihre Familie? Kommt die auch mal?",
+   "en": "And your family? Do they come sometimes too?",
+   "options": [
+    {
+     "es": "Meine Mutter kommt im September.",
+     "en": "My mother is coming in September.",
+     "verdict": "good",
+     "feedback": "A date. That is the answer that lets her ask about it again at Christmas."
+    },
+    {
+     "es": "Das ist kompliziert.",
+     "en": "That is complicated.",
+     "verdict": "ok",
+     "feedback": "It closes a door she opened kindly, and she will not open it again."
+    },
+    {
+     "es": "Sie waren noch nie hier.",
+     "en": "They have never been here.",
+     "verdict": "ok",
+     "feedback": "Honest and a bit heavy for a Sunday table. Say when, not what has not happened."
+    }
+   ]
+  },
+  {
+   "speaker": "Marianne",
+   "es": "So. Jetzt essen wir.",
+   "en": "Right. Now we will eat.",
+   "options": [
+    {
+     "es": "Soll ich das Brot schneiden?",
+     "en": "Shall I cut the bread?",
+     "verdict": "good",
+     "feedback": "You brought it. Doing something with your hands is how you sit at this table."
+    },
+    {
+     "es": "Kann ich helfen?",
+     "en": "Can I help?",
+     "verdict": "ok",
+     "feedback": "Everybody says it and it gets a no. Pick a job instead of asking for one."
+    },
+    {
+     "es": "Danke für die Einladung.",
+     "en": "Thank you for the invitation.",
+     "verdict": "ok",
+     "feedback": "Right in the first year. In the sixth it puts you back outside the door."
+    }
+   ]
+  }
+ ]
+}

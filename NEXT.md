@@ -1,7 +1,7 @@
 # START HERE — where the German course stands
 
-**Phases 0 to 6 are written. The plan is finished and it is not up for
-relitigating.** `content/plan/spine.json` holds all 192 stories across 8
+**THE COURSE IS WRITTEN. All 192 stories, phases 0 to 7, finished
+2026-09-01.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
 reasoning behind it. This file is the short version and says what to do next.
@@ -10,7 +10,7 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **192** | 8 phases, **174 written** (phases 0 to 6 complete) |
+| Stories written | **192 of 192** | 8 phases, 117,863 running words, all complete |
 | App support | **shipped** | v2.8.38, mascot + palette + English interface + switcher |
 | Stories on people | **62** | phases 4 and 5, a third of the course, both written |
 
@@ -401,6 +401,85 @@ Two smaller ones fixed at the same time:
   scene could push a pattern over its threshold and the pattern would sit
   reading "0 more words to go" and stay locked until a lesson happened to be
   read next. `answerScene` calls `checkPatterns()` now.
+
+## 23. Phase 7 — Belonging, 18 stories, DONE 2026-09-01. The course is written.
+
+**192 of 192.** 117,863 running words, 2,420 dictionary words, 530 verbs, 67
+patterns, 56 scenes, 117 Blüemli lines, 484 warm-up words, 98.5% of the page
+tappable, every gate clean.
+
+| | | |
+|---|---|---|
+| Stories | **192** total | 18 new, 14,469 running words |
+| Dictionary | **2,420** | +104 |
+| Verbs | **530** | +36 |
+| Patterns | **67** | +5 |
+| Scenes | **56** | +5 |
+| Blüemli | **117** lines | +9 |
+
+Five years on. You give somebody directions without thinking about it, you say
+a whole paragraph and afterwards cannot remember which language it was in, and
+you make a pun that only works in German. Kurt asks your opinion about
+something that matters to him, because you are the only person in that family
+who wants nothing from him. Timo gets married and you give a speech in German
+with two grammar mistakes in it that nobody notices.
+
+Then **Anna arrives**, three weeks into the country, and the second half of the
+phase is the whole course handed over: the rubbish, the laundry rota, why
+Grüezi matters, why nobody has invited her yet and how long that takes, an
+evening telling her about Frau Amrein, and a lamp in the Brockenhaus that she
+does not buy. In `p7-16` you give her your first notebook, and about a third of
+it is wrong.
+
+**`p7-18` is the ending the plan has had since 2026-08-24.** Five people at a
+table on a warm evening and nobody switches to English all night. Nobody
+announces it. The protagonist does not say it out loud, because saying it would
+put them all back to watching for it.
+
+### What the last phase taught
+
+- **The final sweep was 11 cards** — 44, 28, 32, 10, 16, 11. It is the last one,
+  because there is no phase 8 to judge phase 7's vocabulary. **Phase 7's own
+  words have never been through RETURN and never will be.** That is a real hole
+  and it is structural: anything introduced in the last eighteen stories is
+  taught once and not tested by the gate. If the course is ever extended, run
+  the sweep again first.
+- **Anna is the mechanism that made the phase writable.** Half of what the
+  learner has been taught can only be said out loud by explaining it to
+  somebody newer. `p7-09` to `p7-11` are the earlier phases said back, and the
+  protagonist catches himself defending a laundry rota he spent two years
+  complaining about.
+- **The two puns are real German and they pay off phase 3.** *umfahren* and
+  *übersetzen* mean opposite things depending on whether the prefix comes off,
+  which is exactly the separable-verb rule the course has taught since `p3-01`.
+- **The famous dialect word for a kitchen cupboard is deliberately not
+  written.** `p7-03` names the situation, says foreigners are asked to say it,
+  and refuses to spell it. Rule 4 has no exceptions and the story is better for
+  the refusal.
+
+### Known, and worth flagging
+
+- **`würde` opens the card for `werden`** in the reader, glossed "to become".
+  It is correct — würde is werden's Konjunktiv II — and it reads oddly the
+  first time. The `an_deiner_stelle` pattern card carries the explanation. Not
+  worth a second entry.
+- **`Zivilstandsamt`, `Trauzeuge` and the two-part wedding** are the usual
+  class of unverifiable detail. So is the claim in `p7-07` that the church
+  ceremony is now often skipped.
+- **`aufpassen` and `aufwachen` finished the course at one use each**, seven
+  phases running. They are in the dictionary and they are effectively untaught.
+  Either drop them or find them a home if the course is ever extended.
+
+### What is left
+
+The writing is done. What is not done:
+
+1. **Nobody has fact-checked the Swiss German.** This is the same open item it
+   was on day one and it is now 117,863 words long. Everything flagged in these
+   sections is a judgement call by somebody who cannot verify it.
+2. **A full read-through by a learner.** The gates check shape, vocabulary,
+   recycling and Swissness. Nothing checks whether a story is good.
+3. **Phase 7's vocabulary is untested by RETURN**, as above.
 
 ## 22. Phase 6 — Sounding Swiss, 26 stories, DONE 2026-08-31
 

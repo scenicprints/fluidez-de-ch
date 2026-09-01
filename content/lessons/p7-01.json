@@ -1,0 +1,366 @@
+{
+ "id": "p7-01",
+ "title": "Jahre später",
+ "desc": "Time, measured backwards",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "inzwischen",
+  "neu",
+  "Jahr"
+ ],
+ "sn": [
+  {
+   "s": "Eine Frau hat mich im April nach dem Weg gefragt.",
+   "e": "In April a woman asked me the way."
+  },
+  {
+   "s": "Sie hat gesagt: Entschuldigung, wie komme ich zum Bahnhof?",
+   "e": "She said: excuse me, how do I get to the station?"
+  },
+  {
+   "s": "Ich habe es ihr erklärt.",
+   "e": "I explained it to her."
+  },
+  {
+   "s": "Ich habe gesagt: Da vorne links, dann über die Brücke, dann sehen Sie ihn.",
+   "e": "I said: left up there, then over the bridge, then you will see it."
+  },
+  {
+   "s": "Ich habe zwei Sekunden gebraucht und ich habe nicht überlegt.",
+   "e": "I took two seconds and I did not think about it."
+  },
+  {
+   "s": "Sie hat merci gesagt und ist gegangen.",
+   "e": "She said merci and left."
+  },
+  {
+   "s": "Ich bin dann noch eine Weile dort gestanden.",
+   "e": "I stood there for a while afterwards."
+  },
+  {
+   "s": "Beim ersten Mal hier hat mich das jemand anderer gefragt.",
+   "e": "The first time here somebody else asked me that."
+  },
+  {
+   "s": "Damals habe ich den Kopf geschüttelt und nichts gesagt.",
+   "e": "Back then I shook my head and said nothing."
+  },
+  {
+   "s": "Ich habe die Frage nicht verstanden und ich habe nicht sagen können, dass ich sie nicht verstehe.",
+   "e": "I did not understand the question and I could not say that I did not understand it."
+  },
+  {
+   "s": "Das ist inzwischen fünf Jahre her.",
+   "e": "That was five years ago now."
+  },
+  {
+   "s": "Inzwischen ist ein gutes Wort und man braucht es in diesem Jahr oft.",
+   "e": "Inzwischen is a good word and you need it a lot this year."
+  },
+  {
+   "s": "Es heisst: in der Zeit dazwischen, und jetzt ist es anders.",
+   "e": "It means: in the time in between, and now it is different."
+  },
+  {
+   "s": "Inzwischen wohne ich fünf Jahre hier.",
+   "e": "By now I have been living here for five years."
+  },
+  {
+   "s": "Inzwischen kenne ich die Namen von den Bergen.",
+   "e": "By now I know the names of the mountains."
+  },
+  {
+   "s": "Inzwischen frage ich nicht mehr, wo der Karton hinkommt.",
+   "e": "By now I no longer ask where the cardboard goes."
+  },
+  {
+   "s": "Für lange Zeit gibt es drei Wörter und man verwechselt sie leicht.",
+   "e": "For long stretches of time there are three words and they are easy to confuse."
+  },
+  {
+   "s": "Seit ist von damals bis jetzt.",
+   "e": "Seit is from then until now."
+  },
+  {
+   "s": "Ich wohne seit fünf Jahren hier.",
+   "e": "I have been living here for five years."
+  },
+  {
+   "s": "Vor ist ein Punkt in der Vergangenheit.",
+   "e": "Vor is a point in the past."
+  },
+  {
+   "s": "Vor fünf Jahren bin ich gekommen.",
+   "e": "Five years ago I came."
+  },
+  {
+   "s": "Und inzwischen ist der Weg zwischen den beiden.",
+   "e": "And inzwischen is the way between the two."
+  },
+  {
+   "s": "Es hat noch eine Zeitform dafür und die kommt spät, weil man sie selten braucht.",
+   "e": "There is one more tense for it and it comes late, because you rarely need it."
+  },
+  {
+   "s": "Sie heisst Plusquamperfekt und der Name ist das Schwierigste daran.",
+   "e": "It is called the pluperfect and the name is the hardest thing about it."
+  },
+  {
+   "s": "Man nimmt hatte oder war und dann das Verb am Ende.",
+   "e": "You take hatte or war and then the verb at the end."
+  },
+  {
+   "s": "Ich hatte das nicht gewusst.",
+   "e": "I had not known that."
+  },
+  {
+   "s": "Sie war schon gegangen, als ich gekommen bin.",
+   "e": "She had already left when I arrived."
+  },
+  {
+   "s": "Er hatte den Brief zweimal gelesen.",
+   "e": "He had read the letter twice."
+  },
+  {
+   "s": "Man braucht es nur an einer Stelle.",
+   "e": "You only need it in one place."
+  },
+  {
+   "s": "Wenn man von der Vergangenheit erzählt und dann noch weiter zurück will.",
+   "e": "When you are telling something in the past and want to go further back still."
+  },
+  {
+   "s": "Zwei Schritte zurück statt einem.",
+   "e": "Two steps back instead of one."
+  },
+  {
+   "s": "Am Abend habe ich gerechnet, was in fünf Jahren anders geworden ist.",
+   "e": "In the evening I worked out what had changed in five years."
+  },
+  {
+   "s": "In dieser Stadt ist die Antwort fast nichts.",
+   "e": "In this town the answer is almost nothing."
+  },
+  {
+   "s": "Der Bäcker unten hat aufgehört und jetzt ist dort auch ein Bäcker.",
+   "e": "The baker downstairs stopped and now there is another baker there."
+  },
+  {
+   "s": "Eine Strasse ist zwei Jahre lang eine Baustelle gewesen und jetzt ist sie fertig.",
+   "e": "One street was a building site for two years and now it is finished."
+  },
+  {
+   "s": "Es hat einen neuen Bus, der alle sieben Minuten fährt statt alle zehn.",
+   "e": "There is a new bus that goes every seven minutes instead of every ten."
+  },
+  {
+   "s": "Der Zug um sieben Uhr zwölf fährt immer noch um sieben Uhr zwölf.",
+   "e": "The train at seven twelve still goes at seven twelve."
+  },
+  {
+   "s": "Das ist das Erstaunliche und ich habe fünf Jahre gebraucht, um es zu sehen.",
+   "e": "That is the astonishing thing and it took me five years to see it."
+  },
+  {
+   "s": "Zu Hause ändert sich in fünf Jahren die halbe Stadt.",
+   "e": "At home half the town changes in five years."
+  },
+  {
+   "s": "Hier ändert sich eine Bushaltestelle und alle reden zwei Wochen darüber.",
+   "e": "Here one bus stop changes and everybody talks about it for two weeks."
+  },
+  {
+   "s": "Ich habe das am Anfang für Langeweile gehalten.",
+   "e": "At the beginning I took that for boredom."
+  },
+  {
+   "s": "Es ist keine Langeweile.",
+   "e": "It is not boredom."
+  },
+  {
+   "s": "Es heisst, dass man Sachen planen kann, die länger dauern als ein Jahr.",
+   "e": "It means that you can plan things that take longer than a year."
+  },
+  {
+   "s": "Bei mir hat sich in fünf Jahren mehr geändert als in der Stadt.",
+   "e": "With me more has changed in five years than in the town."
+  },
+  {
+   "s": "Ich wohne in einer anderen Wohnung, mit Selina, seit zweieinhalb Jahren.",
+   "e": "I live in another flat, with Selina, for two and a half years now."
+  },
+  {
+   "s": "Ich arbeite noch im gleichen Büro und mache etwas anderes darin.",
+   "e": "I still work in the same office and do something different in it."
+  },
+  {
+   "s": "Ich spiele in einer Gugge, was ich vor fünf Jahren nicht hätte glauben können.",
+   "e": "I play in a Guggenmusik, which I could not have believed five years ago."
+  },
+  {
+   "s": "Ich habe eine Frau von achtundsiebzig begraben und ihre Schwester besuche ich alle zwei Wochen.",
+   "e": "I have buried a woman of seventy-eight and I visit her sister every other week."
+  },
+  {
+   "s": "Ich habe zweimal die Krankenkasse gewechselt und einmal die Wohnung.",
+   "e": "I have changed health insurer twice and flat once."
+  },
+  {
+   "s": "Ich habe fünf Steuerrechnungen bezahlt und bei zweien in Raten.",
+   "e": "I have paid five tax bills and two of them in instalments."
+  },
+  {
+   "s": "Das ist ein Leben und es ist von aussen nicht interessant.",
+   "e": "That is a life and from the outside it is not interesting."
+  },
+  {
+   "s": "Genau das ist der Punkt.",
+   "e": "That is exactly the point."
+  },
+  {
+   "s": "Am Anfang ist hier alles ein Ereignis.",
+   "e": "At the beginning everything here is an event."
+  },
+  {
+   "s": "Ein Brief ist ein Ereignis. Ein Einkauf ist ein Ereignis.",
+   "e": "A letter is an event. Doing the shopping is an event."
+  },
+  {
+   "s": "Man kommt am Abend heim und ist müde von einem Tag, an dem nichts passiert ist.",
+   "e": "You come home in the evening tired from a day in which nothing happened."
+  },
+  {
+   "s": "Das hört irgendwann auf und man merkt nicht, wann.",
+   "e": "That stops at some point and you do not notice when."
+  },
+  {
+   "s": "Es gibt keinen Tag, an dem es aufhört.",
+   "e": "There is no day on which it stops."
+  },
+  {
+   "s": "Es gibt nur einen Tag, an dem man merkt, dass es schon lange aufgehört hat.",
+   "e": "There is only a day on which you notice that it stopped a long time ago."
+  },
+  {
+   "s": "Bei mir war das im April, an einer Kreuzung, wegen einer Frau mit einem Koffer.",
+   "e": "With me that was in April, at a junction, because of a woman with a suitcase."
+  },
+  {
+   "s": "Sie hatte einen Koffer dabei und sie hatte ihn falsch gehalten.",
+   "e": "She had a suitcase with her and she was holding it wrongly."
+  },
+  {
+   "s": "Man hält einen Koffer anders, wenn man weiss, wie weit man noch muss.",
+   "e": "You hold a suitcase differently when you know how far you still have to go."
+  },
+  {
+   "s": "Ich habe genau gewusst, wie sie sich fühlt, und ich habe es ihr nicht gesagt.",
+   "e": "I knew exactly how she felt, and I did not tell her."
+  },
+  {
+   "s": "Ich habe ihr nur den Weg erklärt, weil sie nach dem Weg gefragt hat.",
+   "e": "I only explained the way to her, because she had asked about the way."
+  },
+  {
+   "s": "Das ist mir am Abend noch einmal gekommen.",
+   "e": "That came back to me again in the evening."
+  },
+  {
+   "s": "Sie hätte nichts damit anfangen können.",
+   "e": "She could not have done anything with it."
+  },
+  {
+   "s": "Als ich neu war, hat mir niemand gesagt, dass es aufhört.",
+   "e": "When I was new, nobody told me that it stops."
+  },
+  {
+   "s": "Es hätte mir auch nichts genützt.",
+   "e": "It would not have helped me either."
+  },
+  {
+   "s": "Man glaubt es erst, wenn es passiert ist.",
+   "e": "You only believe it once it has happened."
+  },
+  {
+   "s": "Ich habe an dem Abend etwas gemacht, das ich seit dem ersten Tag mache.",
+   "e": "That evening I did something I have done since the first day."
+  },
+  {
+   "s": "Ich habe die neuen Wörter aufgeschrieben.",
+   "e": "I wrote down the new words."
+  },
+  {
+   "s": "Am ersten Tag waren es drei.",
+   "e": "On the first day there were three."
+  },
+  {
+   "s": "Grüezi. Gleis. Koffer.",
+   "e": "Grüezi. Gleis. Koffer."
+  },
+  {
+   "s": "An dem Abend im April war es keines.",
+   "e": "That evening in April there was not one."
+  },
+  {
+   "s": "Es war der erste Tag seit fünf Jahren ohne ein neues Wort.",
+   "e": "It was the first day in five years without a new word."
+  },
+  {
+   "s": "Ich habe die Seite trotzdem aufgemacht und das Datum hingeschrieben.",
+   "e": "I opened the page anyway and wrote the date."
+  },
+  {
+   "s": "Dann habe ich darunter geschrieben: heute nichts.",
+   "e": "Then underneath I wrote: nothing today."
+  },
+  {
+   "s": "Das war kein trauriger Satz.",
+   "e": "That was not a sad sentence."
+  },
+  {
+   "s": "Es hat trotzdem ungefähr zehn Minuten gedauert, bis ich das Heft zugemacht habe.",
+   "e": "It still took about ten minutes before I shut the notebook."
+  },
+  {
+   "s": "Selina hat gefragt, was ich schreibe.",
+   "e": "Selina asked what I was writing."
+  },
+  {
+   "s": "Ich habe gesagt: Nichts. Das ist das Neue.",
+   "e": "I said: nothing. That is the new thing."
+  },
+  {
+   "s": "Sie hat nicht verstanden, was ich meine, und sie hat nicht nachgefragt.",
+   "e": "She did not understand what I meant, and she did not ask further."
+  },
+  {
+   "s": "Sie fragt seit fünf Jahren nicht nach, wenn ich einen komischen Satz sage.",
+   "e": "For five years she has not asked further when I say an odd sentence."
+  },
+  {
+   "s": "Sie wartet, und meistens erkläre ich es zwei Tage später.",
+   "e": "She waits, and mostly I explain it two days later."
+  },
+  {
+   "s": "Diesmal habe ich es nicht erklärt.",
+   "e": "This time I did not explain it."
+  },
+  {
+   "s": "Man kann nicht erklären, dass ein Tag nichts Besonderes war.",
+   "e": "You cannot explain that a day was nothing special."
+  },
+  {
+   "s": "Das ist genau die Sache, die man nicht erzählen kann.",
+   "e": "That is exactly the thing you cannot tell anybody."
+  },
+  {
+   "s": "Am nächsten Tag habe ich drei neue Wörter gehabt.",
+   "e": "The next day I had three new words."
+  },
+  {
+   "s": "So geht das und so ist es immer noch.",
+   "e": "That is how it goes and that is how it still is."
+  }
+ ]
+}

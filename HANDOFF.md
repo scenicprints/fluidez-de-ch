@@ -257,6 +257,12 @@ arrives as an event and is named on the page. **Konjunktiv II did not move**
 and is still phase 5's, along with the full treatment. `NEXT.md` §19 carries
 the reasoning; it is reversible by rewriting nine stories.
 
+**THE COURSE IS WRITTEN, 2026-09-01.** All 192 stories. `p7-18` **Niemand
+wechselt ins Englische** is the ending this file has described since day one,
+and it is written the way §2 asks for it: four people carry on in German, the
+protagonist notices afterwards, and he says nothing about it to anybody.
+`NEXT.md` §23 has the numbers and the three things that are still open.
+
 **Phase 6 landed 2026-08-31.** The Modalpartikeln each get a story, Fasnacht
 runs from `p6-10` to `p6-16` from inside a Guggenmusik, and the phase ends on
 somebody saying you almost sound like one of them. `NEXT.md` §22.

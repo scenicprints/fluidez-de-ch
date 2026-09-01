@@ -1,0 +1,330 @@
+{
+ "id": "p7-15",
+ "title": "Sie lernt alle kennen",
+ "desc": "Introducing somebody to your people",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "mitnehmen",
+  "sehen",
+  "fragen"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe Anna im März zum Essen mitgenommen.",
+   "e": "In March I took Anna along to eat."
+  },
+  {
+   "s": "Zu Nuno, an einem Donnerstag um sieben, wie immer.",
+   "e": "To Nuno's, on a Thursday at seven, as always."
+  },
+  {
+   "s": "Ich habe zwei Wochen überlegt, ob ich sie mitnehmen soll.",
+   "e": "I thought for two weeks about whether to take her along."
+  },
+  {
+   "s": "Das ist eine Sache, die man von aussen nicht sieht.",
+   "e": "That is a thing you do not see from the outside."
+  },
+  {
+   "s": "Wenn man jemanden mitnimmt, gibt man ihn nicht nur den anderen.",
+   "e": "When you take somebody along, you are not only giving them to the others."
+  },
+  {
+   "s": "Man gibt die anderen auch ihm.",
+   "e": "You are giving the others to them as well."
+  },
+  {
+   "s": "Es hat mich vier Jahre gekostet, an diesen Tisch zu kommen.",
+   "e": "It cost me four years to get to that table."
+  },
+  {
+   "s": "Ich habe es in einer Nachricht gemacht, mit acht Wörtern.",
+   "e": "I did it in a message, with eight words."
+  },
+  {
+   "s": "Ich habe geschrieben: Kann ich am Donnerstag jemanden mitbringen?",
+   "e": "I wrote: can I bring somebody on Thursday?"
+  },
+  {
+   "s": "Nuno hat geschrieben: Klar. Wer?",
+   "e": "Nuno wrote: sure. Who?"
+  },
+  {
+   "s": "Ich habe geschrieben: Eine Kollegin aus dem Büro. Sie ist neu hier.",
+   "e": "I wrote: a colleague from the office. She is new here."
+  },
+  {
+   "s": "Er hat geschrieben: Dann bring sie.",
+   "e": "He wrote: then bring her."
+  },
+  {
+   "s": "Er hat nicht gefragt, wie neu, und er hat nicht gefragt, woher.",
+   "e": "He did not ask how new, and he did not ask where from."
+  },
+  {
+   "s": "Für Vorstellen braucht man wenige Sätze und man braucht sie sicher.",
+   "e": "For introducing you need few sentences and you need them confidently."
+  },
+  {
+   "s": "Das ist Anna. Sie arbeitet mit mir.",
+   "e": "This is Anna. She works with me."
+  },
+  {
+   "s": "Kennst du schon den Nuno?",
+   "e": "Do you know Nuno already?"
+  },
+  {
+   "s": "Das ist der Timo, von dem ich erzählt habe.",
+   "e": "This is Timo, the one I told you about."
+  },
+  {
+   "s": "Der letzte ist der beste und er macht zwei Sachen gleichzeitig.",
+   "e": "The last is the best and it does two things at once."
+  },
+  {
+   "s": "Er sagt dem Neuen, dass er den anderen schon kennt, ohne ihn gesehen zu haben.",
+   "e": "It tells the new person that they already know the other one, without having seen them."
+  },
+  {
+   "s": "Und er sagt dem anderen, dass über ihn geredet worden ist, und zwar gut.",
+   "e": "And it tells the other one that they have been talked about, and well at that."
+  },
+  {
+   "s": "Man sagt hier nicht: Das ist meine Freundin Anna.",
+   "e": "Here you do not say: this is my friend Anna."
+  },
+  {
+   "s": "Man sagt, was jemand macht, und der Rest kommt von selber.",
+   "e": "You say what somebody does, and the rest comes by itself."
+  },
+  {
+   "s": "Sofia ist an dem Abend nicht dort gewesen und sie ist es seit fünf Jahren nicht.",
+   "e": "Sofia was not there that evening and she has not been for five years."
+  },
+  {
+   "s": "Nuno kocht immer noch für vier und wir sind meistens zu dritt oder zu viert.",
+   "e": "Nuno still cooks for four and we are mostly three or four."
+  },
+  {
+   "s": "Seine Kinder sind siebzehn und zwanzig und sie kommen ungefähr jeden zweiten Donnerstag.",
+   "e": "His children are seventeen and twenty and they come about every other Thursday."
+  },
+  {
+   "s": "An dem Abend war der Sohn dort und er hat fast nichts gesagt.",
+   "e": "That evening the son was there and he said almost nothing."
+  },
+  {
+   "s": "Nuno hat Anna sofort gemocht und das war zwei Minuten lang unangenehm.",
+   "e": "Nuno liked Anna immediately and that was unpleasant for two minutes."
+  },
+  {
+   "s": "Wir haben angestossen und er hat ihr dabei in die Augen geschaut.",
+   "e": "We raised a toast and he looked her in the eye while doing it."
+  },
+  {
+   "s": "Er hat sie gefragt, wie lange sie hier ist.",
+   "e": "He asked her how long she has been here."
+  },
+  {
+   "s": "Sie hat gesagt: Sechs Monate.",
+   "e": "She said: six months."
+  },
+  {
+   "s": "Er hat gesagt: Achtzehn Jahre.",
+   "e": "He said: eighteen years."
+  },
+  {
+   "s": "Und dann haben sie zwanzig Minuten geredet und ich habe nichts gesagt.",
+   "e": "And then they talked for twenty minutes and I said nothing."
+  },
+  {
+   "s": "Ich habe in diesen zwanzig Minuten etwas gefühlt, das ich nicht erwartet habe.",
+   "e": "In those twenty minutes I felt something I had not expected."
+  },
+  {
+   "s": "Es war Eifersucht und es war sehr klein und es war eindeutig da.",
+   "e": "It was jealousy and it was very small and it was unmistakably there."
+  },
+  {
+   "s": "Nicht wegen Anna.",
+   "e": "Not because of Anna."
+  },
+  {
+   "s": "Wegen dem Gespräch, das ich mit Nuno vor fünf Jahren gehabt habe.",
+   "e": "Because of the conversation I had with Nuno five years ago."
+  },
+  {
+   "s": "Er hat mit ihr in zwanzig Minuten geredet, wofür ich zwei Jahre gebraucht habe.",
+   "e": "He talked with her in twenty minutes about what took me two years."
+  },
+  {
+   "s": "Über das Ankommen, über die ersten Monate, über das Zurückgehen.",
+   "e": "About arriving, about the first months, about going back."
+  },
+  {
+   "s": "Ich habe an dem Abend gemerkt, dass ich das für meines gehalten habe.",
+   "e": "That evening I noticed that I had taken that for mine."
+  },
+  {
+   "s": "Das ist eine kleine hässliche Sache und ich schreibe sie hier auf, weil sie wahr ist.",
+   "e": "That is a small ugly thing and I am writing it down here because it is true."
+  },
+  {
+   "s": "Sie ist nach ungefähr einer Stunde weg gewesen.",
+   "e": "It was gone after about an hour."
+  },
+  {
+   "s": "Sie ist weggegangen, als Nuno etwas gesagt hat, das ich nicht erwartet habe.",
+   "e": "It went away when Nuno said something I had not expected."
+  },
+  {
+   "s": "Er hat zu Anna gesagt: Er hat es dir leichter gemacht, als es bei ihm war.",
+   "e": "He said to Anna: he has made it easier for you than it was for him."
+  },
+  {
+   "s": "Er hat gesagt: Das machen nicht alle.",
+   "e": "He said: not everybody does that."
+  },
+  {
+   "s": "Dann hat er Salat geholt und es war fertig.",
+   "e": "Then he fetched the salad and it was over."
+  },
+  {
+   "s": "Das ist der ganze Mann in zwei Sätzen und in einer Bewegung zum Kühlschrank.",
+   "e": "That is the whole man in two sentences and one movement towards the fridge."
+  },
+  {
+   "s": "Es gibt Leute, die einem etwas wegnehmen, und es gibt Leute, die dazutun.",
+   "e": "There are people who take something away from you, and there are people who add to it."
+  },
+  {
+   "s": "Es hat noch zwei andere Abende gegeben in diesem Frühling.",
+   "e": "There were two other evenings that spring."
+  },
+  {
+   "s": "Beat hat sie an einem Mittwoch zur Probe mitgenommen und sie ist geblieben.",
+   "e": "Beat took her along to a rehearsal on a Wednesday and she stayed."
+  },
+  {
+   "s": "Sie spielt jetzt nichts, sie hilft mit den Kostümen und mit der Kasse.",
+   "e": "She does not play anything now, she helps with the costumes and with the accounts."
+  },
+  {
+   "s": "Sie hat gesagt, dass sie nächstes Jahr ein Instrument übt.",
+   "e": "She said that next year she will practise an instrument."
+  },
+  {
+   "s": "Margrit hat ihre Grösse in ein Heft geschrieben, im Mai.",
+   "e": "In May Margrit wrote her size in a notebook."
+  },
+  {
+   "s": "Ich habe zugeschaut und nichts gesagt und ich habe genau gewusst, was das ist.",
+   "e": "I watched and said nothing and I knew exactly what that was."
+  },
+  {
+   "s": "Und Selina hat sie an einem Sonntag mit nach Kriens genommen.",
+   "e": "And Selina took her along to Kriens one Sunday."
+  },
+  {
+   "s": "Marianne hat sie vierzig Sachen gefragt und Kurt hat zwei Fragen gestellt.",
+   "e": "Marianne asked her forty things and Kurt asked two questions."
+  },
+  {
+   "s": "Ich habe die zweite gehört und ich habe sie sofort erkannt.",
+   "e": "I heard the second one and I recognised it immediately."
+  },
+  {
+   "s": "Er hat gefragt: Und, bleiben Sie?",
+   "e": "He asked: and, are you staying?"
+  },
+  {
+   "s": "Es ist genau die Frage, die er mir vor sechs Jahren gestellt hat.",
+   "e": "It is exactly the question he asked me six years ago."
+  },
+  {
+   "s": "Anna hat gesagt: Ich weiss es noch nicht.",
+   "e": "Anna said: I do not know yet."
+  },
+  {
+   "s": "Kurt hat genickt und nichts weiter gesagt.",
+   "e": "Kurt nodded and said nothing more."
+  },
+  {
+   "s": "Ich habe damals zu lange gebraucht für die Antwort und ich habe es falsch gemacht.",
+   "e": "Back then I took too long for the answer and I got it wrong."
+  },
+  {
+   "s": "Sie hat es beim ersten Mal richtig gemacht, ohne dass es ihr jemand gesagt hat.",
+   "e": "She got it right the first time, without anybody having told her."
+  },
+  {
+   "s": "Auf dem Heimweg hat Selina gesagt: Sie ist schneller als du.",
+   "e": "On the way home Selina said: she is faster than you."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss.",
+   "e": "I said: I know."
+  },
+  {
+   "s": "Sie hat gesagt: Das stört dich.",
+   "e": "She said: that bothers you."
+  },
+  {
+   "s": "Ich habe gesagt: Zwei Minuten am Tag.",
+   "e": "I said: two minutes a day."
+  },
+  {
+   "s": "Sie hat gelacht, weil das eine ehrliche Zahl war.",
+   "e": "She laughed, because that was an honest number."
+  },
+  {
+   "s": "Es gibt eine Sache, die man merkt, wenn man jemanden mitnimmt.",
+   "e": "There is one thing you notice when you take somebody along."
+  },
+  {
+   "s": "Man sieht die eigenen Leute zum ersten Mal von aussen.",
+   "e": "You see your own people from the outside for the first time."
+  },
+  {
+   "s": "Ich habe an dem Donnerstag gesehen, wie laut Nuno lacht.",
+   "e": "That Thursday I saw how loudly Nuno laughs."
+  },
+  {
+   "s": "Ich habe gesehen, dass Timo bei jedem Satz zuerst den Kopf schüttelt.",
+   "e": "I saw that Timo shakes his head first at every sentence."
+  },
+  {
+   "s": "Ich habe gesehen, dass Beat niemanden fragt und alles entscheidet.",
+   "e": "I saw that Beat asks nobody and decides everything."
+  },
+  {
+   "s": "Das habe ich alles gewusst und ich habe es fünf Jahre nicht gesehen.",
+   "e": "I knew all of that and I had not seen it for five years."
+  },
+  {
+   "s": "Man braucht dafür jemanden, der neben einem steht und nichts kennt.",
+   "e": "For that you need somebody standing next to you who knows nothing."
+  },
+  {
+   "s": "Anna hat mich am nächsten Tag im Büro etwas gefragt.",
+   "e": "The next day Anna asked me something in the office."
+  },
+  {
+   "s": "Sie hat gefragt: Sind das deine Freunde?",
+   "e": "She asked: are those your friends?"
+  },
+  {
+   "s": "Ich habe zwei Sekunden gebraucht.",
+   "e": "I needed two seconds."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Zwei Sekunden für ein Wort, das vor drei Jahren noch nicht gestimmt hätte.",
+   "e": "Two seconds for one word that three years ago would not have been true."
+  }
+ ]
+}

@@ -1,0 +1,313 @@
+{
+ "id": "p7-04",
+ "title": "Unser Witz",
+ "desc": "A joke with a history",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "verstehen",
+  "heissen"
+ ],
+ "sn": [
+  {
+   "s": "Timo hat im September vier Wörter gesagt und wir haben zwei Minuten gelacht.",
+   "e": "In September Timo said four words and we laughed for two minutes."
+  },
+  {
+   "s": "Die vier Wörter waren: Wegen dem Eis.",
+   "e": "The four words were: because of the ice."
+  },
+  {
+   "s": "Sie haben in dem Moment mit nichts zu tun gehabt.",
+   "e": "They had nothing to do with anything in that moment."
+  },
+  {
+   "s": "Wir sind an einer Baustelle gestanden, im September, bei zwanzig Grad.",
+   "e": "We were standing at a building site, in September, at twenty degrees."
+  },
+  {
+   "s": "Die Strasse war zu und man hat aussen herum gehen müssen.",
+   "e": "The street was shut and you had to go round the outside."
+  },
+  {
+   "s": "Timo hat auf das Schild geschaut und gesagt: Wegen dem Eis.",
+   "e": "Timo looked at the sign and said: because of the ice."
+  },
+  {
+   "s": "Ein Fremder hätte gar nichts gehört.",
+   "e": "A stranger would have heard nothing at all."
+  },
+  {
+   "s": "Der Satz kommt von einem Abend vor vier Jahren.",
+   "e": "The sentence comes from an evening four years ago."
+  },
+  {
+   "s": "Beat hat mir damals erzählt, dass die Stadt im Winter die Brücke abbaut.",
+   "e": "Back then Beat told me that the town takes the bridge down in winter."
+  },
+  {
+   "s": "Wegen dem Eis, hat er gesagt, und ich habe es vier Minuten geglaubt.",
+   "e": "Because of the ice, he said, and I believed it for four minutes."
+  },
+  {
+   "s": "Ich habe sogar gefragt, ob das nicht teuer ist.",
+   "e": "I even asked whether that was not expensive."
+  },
+  {
+   "s": "Der ganze Tisch hat gelacht und ich bin rot geworden.",
+   "e": "The whole table laughed and I went red."
+  },
+  {
+   "s": "Seither sagt das jemand ungefähr einmal im Monat.",
+   "e": "Since then somebody says it about once a month."
+  },
+  {
+   "s": "Es heisst inzwischen nicht mehr, dass ich dumm war.",
+   "e": "By now it no longer means that I was stupid."
+  },
+  {
+   "s": "Es heisst: irgendetwas ist zu und niemand weiss warum.",
+   "e": "It means: something is shut and nobody knows why."
+  },
+  {
+   "s": "Es heisst auch: wir kennen uns seit vier Jahren.",
+   "e": "It also means: we have known each other for four years."
+  },
+  {
+   "s": "Der Spass ist inzwischen nicht mehr der Witz, sondern die vier Jahre.",
+   "e": "By now the fun is no longer the joke, but the four years."
+  },
+  {
+   "s": "Das Zweite ist die eigentliche Bedeutung und es steht in keinem Wörterbuch.",
+   "e": "The second is the real meaning and it is in no dictionary."
+  },
+  {
+   "s": "Eine Freundschaft misst man hier nicht in Gesprächen.",
+   "e": "You do not measure a friendship here in conversations."
+  },
+  {
+   "s": "Man misst sie in Witzen, die kürzer geworden sind.",
+   "e": "You measure it in jokes that have got shorter."
+  },
+  {
+   "s": "Am Anfang braucht ein Witz eine Geschichte und die Geschichte dauert zwei Minuten.",
+   "e": "At the beginning a joke needs a story and the story lasts two minutes."
+  },
+  {
+   "s": "Nach einem Jahr braucht er einen Satz.",
+   "e": "After a year it needs a sentence."
+  },
+  {
+   "s": "Nach vier Jahren braucht er vier Wörter.",
+   "e": "After four years it needs four words."
+  },
+  {
+   "s": "Nach zwanzig Jahren braucht er ein Wort oder nur einen Blick.",
+   "e": "After twenty years it needs one word or just a look."
+  },
+  {
+   "s": "Ich habe zwei Männer von sechzig gesehen, die einander angeschaut haben und gelacht.",
+   "e": "I have seen two men of sixty look at each other and laugh."
+  },
+  {
+   "s": "Sie haben nichts gesagt, gar nichts.",
+   "e": "They said nothing, nothing at all."
+  },
+  {
+   "s": "Das ist das Ende von dieser Skala und ich bin noch weit davon weg.",
+   "e": "That is the end of that scale and I am still a long way from it."
+  },
+  {
+   "s": "Wir haben inzwischen ungefähr sechs davon.",
+   "e": "By now we have about six of them."
+  },
+  {
+   "s": "Ich habe sie einmal aufgeschrieben, an einem Abend, weil ich neugierig war.",
+   "e": "I wrote them down once, one evening, because I was curious."
+  },
+  {
+   "s": "Wegen dem Eis.",
+   "e": "Because of the ice."
+  },
+  {
+   "s": "Zwei Stunden vierzig heisst zwei Stunden vierzig.",
+   "e": "Two hours forty means two hours forty."
+  },
+  {
+   "s": "Der Dritte von links.",
+   "e": "The third from the left."
+  },
+  {
+   "s": "Auf zwei und auf vier.",
+   "e": "On two and on four."
+  },
+  {
+   "s": "Dafür verstehen mich die Deutschen.",
+   "e": "On the other hand the Germans understand me."
+  },
+  {
+   "s": "Und einer, den ich hier nicht aufschreibe, weil er nur mit Beat funktioniert.",
+   "e": "And one that I am not writing down here, because it only works with Beat."
+  },
+  {
+   "s": "Jeder davon ist die Kurzform von einem ganzen Abend.",
+   "e": "Each one of them is the short form of a whole evening."
+  },
+  {
+   "s": "Bei jedem war ich dabei und bei zweien war ich der Grund.",
+   "e": "I was there for every one of them and for two of them I was the reason."
+  },
+  {
+   "s": "Das ist der Punkt, den ich vorher nicht gesehen habe.",
+   "e": "That is the point I had not seen before."
+  },
+  {
+   "s": "Ich habe fünf Jahre lang gedacht, dass Dazugehören heisst, dass man alles versteht.",
+   "e": "For five years I thought that belonging means understanding everything."
+  },
+  {
+   "s": "Es heisst nicht das.",
+   "e": "It does not mean that."
+  },
+  {
+   "s": "Es heisst, dass man in den Geschichten vorkommt.",
+   "e": "It means that you appear in the stories."
+  },
+  {
+   "s": "Ein Witz über mich ist besser als ein Witz, den ich verstehe.",
+   "e": "A joke about me is better than a joke I understand."
+  },
+  {
+   "s": "Ein Witz, bei dem ich dabei war, ist noch besser.",
+   "e": "A joke I was there for is better still."
+  },
+  {
+   "s": "Es hat eine Sache, die man dabei falsch machen kann, und ich habe sie einmal gemacht.",
+   "e": "There is one thing you can get wrong here and I got it wrong once."
+  },
+  {
+   "s": "Man erklärt ihn nicht.",
+   "e": "You do not explain it."
+  },
+  {
+   "s": "Im Frühling ist jemand Neues am Tisch gewesen, ein Kollege von Fatlum.",
+   "e": "In the spring somebody new was at the table, a colleague of Fatlum's."
+  },
+  {
+   "s": "Timo hat den Satz gesagt und der Mann hat geschaut.",
+   "e": "Timo said the sentence and the man looked at us."
+  },
+  {
+   "s": "Ich habe angefangen zu erklären.",
+   "e": "I started to explain."
+  },
+  {
+   "s": "Nach zwei Sätzen habe ich gemerkt, dass alle warten, bis ich fertig bin.",
+   "e": "After two sentences I noticed that everybody was waiting for me to finish."
+  },
+  {
+   "s": "Nicht böse. Höflich.",
+   "e": "Not annoyed. Politely."
+  },
+  {
+   "s": "Ein erklärter Witz ist kein Witz mehr, und ein erklärter alter Witz ist noch weniger.",
+   "e": "An explained joke is not a joke any more, and an explained old joke is even less."
+  },
+  {
+   "s": "Man sagt in so einem Fall: Das ist eine lange Geschichte.",
+   "e": "In a case like that you say: that is a long story."
+  },
+  {
+   "s": "Vier Wörter, und der Neue weiss, dass es eine gibt und dass sie ihm nicht gehört.",
+   "e": "Four words, and the new person knows that there is one and that it is not theirs."
+  },
+  {
+   "s": "Das ist nicht unfreundlich.",
+   "e": "That is not unfriendly."
+  },
+  {
+   "s": "In einem halben Jahr hat er eigene und dann ist er drin.",
+   "e": "In half a year he will have his own and then he is in."
+  },
+  {
+   "s": "Genau so ist es bei mir gegangen und ich habe es nicht gemerkt.",
+   "e": "That is exactly how it went with me and I did not notice."
+  },
+  {
+   "s": "Ich habe im ersten Jahr am Tisch gesessen und Sätze nicht verstanden.",
+   "e": "In my first year I sat at the table and did not understand sentences."
+  },
+  {
+   "s": "Ich habe gedacht, dass mein Deutsch nicht reicht.",
+   "e": "I thought that my German was not enough."
+  },
+  {
+   "s": "Mein Deutsch hat gereicht.",
+   "e": "My German was enough."
+  },
+  {
+   "s": "Ich war einfach nicht dabei gewesen.",
+   "e": "I simply had not been there."
+  },
+  {
+   "s": "Das ist ein grosser Unterschied und niemand hat ihn mir gesagt.",
+   "e": "That is a big difference and nobody told me."
+  },
+  {
+   "s": "Ich habe es Anna im Herbst gesagt, an ihrem zweiten Abend mit uns.",
+   "e": "I told Anna in the autumn, on her second evening with us."
+  },
+  {
+   "s": "Sie hat gefragt, ob sie sehr viel nicht versteht.",
+   "e": "She asked whether there was a lot she was not understanding."
+  },
+  {
+   "s": "Ich habe gesagt: Die Hälfte davon versteht niemand, der nicht dabei war.",
+   "e": "I said: half of it nobody understands who was not there."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist ein gutes Gefühl.",
+   "e": "She said: that is a good feeling."
+  },
+  {
+   "s": "Sie hat recht gehabt und ich habe vier Jahre gebraucht für die gleiche Erkenntnis.",
+   "e": "She was right and I needed four years for the same realisation."
+  },
+  {
+   "s": "An der Baustelle im September habe ich Timo etwas gefragt.",
+   "e": "At the building site in September I asked Timo something."
+  },
+  {
+   "s": "Ich habe gefragt: Weisst du noch, wie lange ich das geglaubt habe?",
+   "e": "I asked: do you remember how long I believed it?"
+  },
+  {
+   "s": "Er hat gesagt: Vier Minuten.",
+   "e": "He said: four minutes."
+  },
+  {
+   "s": "Er hat es sofort gesagt, ohne zu überlegen.",
+   "e": "He said it immediately, without thinking."
+  },
+  {
+   "s": "Er hat es also auch aufgeschrieben, irgendwo.",
+   "e": "So he had written it down too, somewhere."
+  },
+  {
+   "s": "Nicht in einem Heft. Aber aufgeschrieben.",
+   "e": "Not in a notebook. But written down."
+  },
+  {
+   "s": "Wir sind dann aussen herum gegangen, wegen der Baustelle.",
+   "e": "Then we went round the outside, because of the building site."
+  },
+  {
+   "s": "Es war ein Umweg von ungefähr drei Minuten.",
+   "e": "It was a detour of about three minutes."
+  },
+  {
+   "s": "Wir haben nicht darüber geredet.",
+   "e": "We did not talk about it."
+  }
+ ]
+}

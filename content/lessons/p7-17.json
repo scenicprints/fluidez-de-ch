@@ -1,0 +1,326 @@
+{
+ "id": "p7-17",
+ "title": "Nichts war schwierig",
+ "desc": "A day with no difficulty in it",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "Tag",
+  "Minute",
+  "gehen"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe an einem Mittwoch im Juni nichts Schwieriges gehabt.",
+   "e": "On a Wednesday in June I had nothing difficult."
+  },
+  {
+   "s": "Ich habe es um halb elf am Abend gemerkt, beim Zähneputzen.",
+   "e": "I noticed it at half past ten in the evening, brushing my teeth."
+  },
+  {
+   "s": "Ich schreibe den Tag hier auf, weil nichts darin passiert ist.",
+   "e": "I am writing that day down here, because nothing happened in it."
+  },
+  {
+   "s": "Um zwanzig nach sechs ist der Wecker gegangen.",
+   "e": "At twenty past six the alarm went off."
+  },
+  {
+   "s": "Selina ist zuerst aufgestanden und hat Kaffee gemacht.",
+   "e": "Selina got up first and made coffee."
+  },
+  {
+   "s": "Wir haben acht Minuten geredet, über einen Termin am Samstag.",
+   "e": "We talked for eight minutes, about an appointment on Saturday."
+  },
+  {
+   "s": "Ich habe unten die Zeitung geholt und den Kartonplan angeschaut.",
+   "e": "Downstairs I fetched the paper and looked at the cardboard plan."
+  },
+  {
+   "s": "Karton ist nächste Woche und nicht diese.",
+   "e": "Cardboard is next week and not this one."
+  },
+  {
+   "s": "Im Treppenhaus ist mir die Frau von unten begegnet.",
+   "e": "In the stairwell I met the woman from downstairs."
+  },
+  {
+   "s": "Sie hat einen Blick auf meine Zeitung geworfen und nichts gesagt.",
+   "e": "She cast a glance at my newspaper and said nothing."
+  },
+  {
+   "s": "Wir haben Grüezi gesagt und sie hat etwas über den Regen gesagt.",
+   "e": "We said Grüezi and she said something about the rain."
+  },
+  {
+   "s": "Ich habe geantwortet und wir sind weiter.",
+   "e": "I answered and we went on."
+  },
+  {
+   "s": "Das ganze Gespräch war vier Sekunden lang und es war ein ganzes Gespräch.",
+   "e": "The whole conversation lasted four seconds and it was a whole conversation."
+  },
+  {
+   "s": "Der Zug um sieben Uhr zwölf ist um sieben Uhr zwölf gefahren.",
+   "e": "The train at seven twelve went at seven twelve."
+  },
+  {
+   "s": "Im Büro habe ich am Morgen an einer Sache gearbeitet, die drei Wochen dauert.",
+   "e": "In the office in the morning I worked on something that takes three weeks."
+  },
+  {
+   "s": "Um zehn hat mich jemand von einer anderen Abteilung angerufen.",
+   "e": "At ten somebody from another department called me."
+  },
+  {
+   "s": "Es ist um Zahlen gegangen, die nicht stimmen, und es war kompliziert.",
+   "e": "It was about numbers that are wrong, and it was complicated."
+  },
+  {
+   "s": "Ich habe zwölf Minuten geredet und drei Sachen erklärt.",
+   "e": "I talked for twelve minutes and explained three things."
+  },
+  {
+   "s": "Ich habe zweimal nachgefragt, weil ich etwas nicht verstanden habe.",
+   "e": "I asked twice, because I had not understood something."
+  },
+  {
+   "s": "Beide Male ist es um die Sache gegangen und nicht um die Sprache.",
+   "e": "Both times it was about the matter and not about the language."
+  },
+  {
+   "s": "Das ist der Unterschied, den ich fünf Jahre nicht machen konnte.",
+   "e": "That is the difference I could not make for five years."
+  },
+  {
+   "s": "Am Anfang weiss man nie, ob man den Menschen nicht versteht oder die Sprache.",
+   "e": "At the beginning you never know whether you do not understand the person or the language."
+  },
+  {
+   "s": "Um zwölf haben wir gegessen, zu viert, und Marco hat von seinen Kindern erzählt.",
+   "e": "At twelve we ate, the four of us, and Marco talked about his children."
+  },
+  {
+   "s": "Jemand hat sich über den Bus beklagt und wir haben zwei Minuten mitgemacht.",
+   "e": "Somebody complained about the bus and we joined in for two minutes."
+  },
+  {
+   "s": "Am Nachmittag hat es eine Sitzung gehabt mit neun Leuten.",
+   "e": "In the afternoon there was a meeting with nine people."
+  },
+  {
+   "s": "Ich habe zweimal etwas gesagt und einmal etwas anderes vorgeschlagen.",
+   "e": "I said something twice and once suggested something different."
+  },
+  {
+   "s": "Simon hat gesagt: Gut, dann machen wir das so.",
+   "e": "Simon said: fine, then we will do it that way."
+  },
+  {
+   "s": "Um Viertel nach fünf bin ich gegangen.",
+   "e": "At quarter past five I left."
+  },
+  {
+   "s": "Auf dem Heimweg habe ich eingekauft, weil wir keine Milch mehr gehabt haben.",
+   "e": "On the way home I did some shopping, because we had no milk left."
+  },
+  {
+   "s": "Zu Hause habe ich sie in den Kühlschrank gestellt und die alte weggeworfen.",
+   "e": "At home I put it in the fridge and threw the old one away."
+  },
+  {
+   "s": "An der Kasse hat die Frau gefragt, ob ich einen Sack brauche.",
+   "e": "At the till the woman asked whether I needed a bag."
+  },
+  {
+   "s": "Ich habe gesagt: Nein, merci.",
+   "e": "I said: no, merci."
+  },
+  {
+   "s": "Am Abend war Probe, aber im Juni ist keine, also war keine.",
+   "e": "In the evening there was a rehearsal, but in June there is none, so there was none."
+  },
+  {
+   "s": "Wir haben um sieben gegessen und Selina hat von einer Kollegin erzählt.",
+   "e": "We ate at seven and Selina talked about a colleague."
+  },
+  {
+   "s": "Ich habe gekocht und es hat dreissig Minuten gedauert.",
+   "e": "I cooked and it took thirty minutes."
+  },
+  {
+   "s": "Um acht hat Vreni angerufen, wegen dem Sonntag.",
+   "e": "At eight Vreni called, about Sunday."
+  },
+  {
+   "s": "Wir haben sechs Minuten geredet und dreimal gelacht.",
+   "e": "We talked for six minutes and laughed three times."
+  },
+  {
+   "s": "Um neun habe ich zwei Nachrichten geschrieben, eine an Beat und eine an Anna.",
+   "e": "At nine I wrote two messages, one to Beat and one to Anna."
+  },
+  {
+   "s": "Um halb elf bin ich im Bad gestanden.",
+   "e": "At half past ten I was standing in the bathroom."
+  },
+  {
+   "s": "Und da ist es gekommen.",
+   "e": "And then it came."
+  },
+  {
+   "s": "Ich habe an den Tag zurückgedacht und ich habe nichts gefunden.",
+   "e": "I thought back over the day and I found nothing."
+  },
+  {
+   "s": "Keinen Moment, in dem ich ein Wort gesucht habe.",
+   "e": "Not one moment in which I was looking for a word."
+  },
+  {
+   "s": "Keinen Satz, den ich zweimal habe sagen müssen.",
+   "e": "Not one sentence I had to say twice."
+  },
+  {
+   "s": "Niemanden, der langsamer geredet hat, weil ich dabei war.",
+   "e": "Nobody who talked more slowly because I was there."
+  },
+  {
+   "s": "Ich habe an dem Tag ungefähr sechs Stunden geredet.",
+   "e": "I talked for about six hours that day."
+  },
+  {
+   "s": "Ich habe mit vierzehn Leuten geredet und mit zweien am Telefon.",
+   "e": "I talked to fourteen people and to two on the telephone."
+  },
+  {
+   "s": "Ich habe eine Sitzung mitgemacht, in der es um Geld gegangen ist.",
+   "e": "I took part in a meeting that was about money."
+  },
+  {
+   "s": "Und ich bin am Abend nicht müde gewesen.",
+   "e": "And I was not tired in the evening."
+  },
+  {
+   "s": "Das ist die Messung, die zählt.",
+   "e": "That is the measurement that counts."
+  },
+  {
+   "s": "Im ersten Jahr bin ich jeden Abend um neun am Boden gewesen.",
+   "e": "In the first year I was on the floor every evening at nine."
+  },
+  {
+   "s": "Nicht von der Arbeit.",
+   "e": "Not from the work."
+  },
+  {
+   "s": "Eine Sprache, die man nicht kann, kostet den ganzen Tag Strom.",
+   "e": "A language you cannot speak uses power all day long."
+  },
+  {
+   "s": "Man merkt es nicht, weil man nichts hat, womit man es vergleichen kann.",
+   "e": "You do not notice it, because you have nothing to compare it with."
+  },
+  {
+   "s": "Man denkt, dass man müde ist, weil man arbeitet.",
+   "e": "You think you are tired because you are working."
+  },
+  {
+   "s": "Man ist müde, weil man den ganzen Tag übersetzt.",
+   "e": "You are tired because you are translating all day."
+  },
+  {
+   "s": "Das hört auf und es hört so langsam auf, dass man den Tag nicht findet.",
+   "e": "That stops and it stops so slowly that you cannot find the day."
+  },
+  {
+   "s": "Es gibt keinen Tag, an dem es leicht wird.",
+   "e": "There is no day on which it gets easy."
+  },
+  {
+   "s": "Es gibt nur einen Tag, an dem man merkt, dass nichts schwer war.",
+   "e": "There is only a day on which you notice that nothing was hard."
+  },
+  {
+   "s": "Und man merkt es beim Zähneputzen, um halb elf, an einem Mittwoch im Juni.",
+   "e": "And you notice it brushing your teeth, at half past ten, on a Wednesday in June."
+  },
+  {
+   "s": "Ich bin ins Zimmer und Selina hat gelesen.",
+   "e": "I went into the room and Selina was reading."
+  },
+  {
+   "s": "Ich habe gesagt: Heute war nichts schwierig.",
+   "e": "I said: nothing was difficult today."
+  },
+  {
+   "s": "Sie hat aufgeschaut und gesagt: Wie meinst du?",
+   "e": "She looked up and said: how do you mean?"
+  },
+  {
+   "s": "Ich habe gesagt: Kein einziges Wort.",
+   "e": "I said: not one single word."
+  },
+  {
+   "s": "Sie hat zwei Sekunden nichts gesagt.",
+   "e": "She said nothing for two seconds."
+  },
+  {
+   "s": "Dann hat sie gesagt: Das ist schon lange so.",
+   "e": "Then she said: that has been the case for a long time."
+  },
+  {
+   "s": "Ich habe gefragt: Seit wann?",
+   "e": "I asked: since when?"
+  },
+  {
+   "s": "Sie hat gesagt: Ich weiss es nicht. Ein Jahr? Zwei?",
+   "e": "She said: I do not know. A year? Two?"
+  },
+  {
+   "s": "Sie hat gesagt: Ich habe aufgehört, darauf zu schauen.",
+   "e": "She said: I stopped watching for it."
+  },
+  {
+   "s": "Das ist zum zweiten Mal der gleiche Satz und ich habe es nicht gesagt.",
+   "e": "That is the same sentence for the second time and I did not say so."
+  },
+  {
+   "s": "Sie hat weitergelesen und ich bin noch zwei Minuten dort gestanden.",
+   "e": "She went on reading and I stood there for another two minutes."
+  },
+  {
+   "s": "Ich habe nichts gefühlt.",
+   "e": "I felt nothing."
+  },
+  {
+   "s": "Das ist die ehrlichste Sache an diesem Abend.",
+   "e": "That is the most honest thing about that evening."
+  },
+  {
+   "s": "Ich habe erwartet, dass ich etwas fühle, wenn dieser Tag kommt.",
+   "e": "I had expected to feel something when that day came."
+  },
+  {
+   "s": "Ich habe fünf Jahre lang auf diesen Tag gewartet.",
+   "e": "For five years I waited for that day."
+  },
+  {
+   "s": "Er ist gekommen und er war ein Mittwoch mit Milch und einer Sitzung.",
+   "e": "It came and it was a Wednesday with milk and a meeting."
+  },
+  {
+   "s": "Am nächsten Morgen habe ich es in das Heft geschrieben.",
+   "e": "The next morning I wrote it in the notebook."
+  },
+  {
+   "s": "Ich habe geschrieben: Mittwoch. Nichts war schwierig.",
+   "e": "I wrote: Wednesday. Nothing was difficult."
+  },
+  {
+   "s": "Es sind vier Wörter und sie sind mehr wert als die ersten achtzig Seiten.",
+   "e": "It is four words and they are worth more than the first eighty pages."
+  }
+ ]
+}

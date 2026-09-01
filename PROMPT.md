@@ -6,7 +6,7 @@ create a second copy to go stale.
 
 ---
 
-You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (phases 0 to 6 written, 174 of 192). You're on the German one.
+You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses exist: Nicaraguan Spanish (published, 185 stories) and Swiss Standard German (**finished**, 192 of 192). You're on the German one.
 
 **Read these first, in this order.** They carry every decision and the reasoning, so nothing gets relitigated by somebody arriving cold:
 
@@ -17,15 +17,20 @@ You're picking up **Fluidez**, Kevin Wagner's language-learning app. Two courses
 
 Local clones, all on GitHub under `scenicprints`: `fluidez` (the app), `fluidez-de-ch` (German course), `fluidez-es-ni` (Spanish course), `fluidez-languages` (registry).
 
-**Where it stands.** **Phases 0 to 6 are written and every script is built.** 174 stories, 2,316 dictionary words, 494 verbs, 62 patterns, 51 scenes, 108 Blüemli lines, an emergency phrasebook, 98.5% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
+**Where it stands.** **THE COURSE IS WRITTEN.** All 192 stories, 117,863 running words, 2,420 dictionary words, 530 verbs, 67 patterns, 56 scenes, 117 Blüemli lines, an emergency phrasebook, 98.5% of the page tappable, every gate clean. CI rebuilds the pack on every push. The interface is ENGLISH — the German course ships no `ui` block, which was reversed on Kevin's call and is not up for re-translating. The app carries the mascot, palette, phase ladder and Blüemli per course from the pack.
 
-**Next job: phase 7, Belonging, eighteen stories,** `p7-01` to `p7-18`. The passive, idiom and the long tail. **Anna arrives** and you hand her the notebook, and the course ends at `p7-18` **Niemand wechselt ins Englische**: four people carry on in German and not one of them changes language for you. Nobody announces anything. `HANDOFF.md` §2 says that is the arc's finish line, so do not write a speech.
+**There is no next phase.** Phase 7 landed 2026-09-01 and `p7-18` **Niemand wechselt ins Englische** is the last story: five people at a table on a warm evening and nobody switches to English all night. Nobody announces it and the protagonist tells nobody. `NEXT.md` §23 has the numbers.
 
-**It is the last phase, so the RETURN sweep is the last one too.** Everything phase 6 introduced gets judged the moment phase 7 lands, and there is no phase 8 to carry it. Budget for it and expect it to be the biggest yet.
+**Do not start writing more stories.** The spine is 192 and it is finished. If Kevin wants more, that is a spine decision and it is his, not yours.
 
-**Phase 6 is done (2026-08-31).** halt, eben, doch and mal have a story each; `p6-10` to `p6-16` are Fasnacht from inside Beat's Guggenmusik; the last two are how an opinion is held loosely and Nuno saying *du tönst schon fast*. `NEXT.md` §22 has the numbers and everything it taught, including the two traps: `halt` needs its own entry and collides with halten, and a line exemption in `dialect-allow.json` carries a POSITION that the recycling sweep moves.
+**What is actually open, in his priority order to be confirmed:**
 
-**Three things every phase has now taught, in the same order.** RETURN judges the previous phase's vocabulary the moment the new one lands and takes warm-up cards away: 44, then 28, then 32, then **10**. **Budget the recycling sweep as part of writing the phase**; it falls when the writing carries the last phase forward on purpose, and it will never reach zero. Every sweep then breaks one or two words that relied on being one-scene, so re-run the check after it, every time — phase 5 was the first time it came back clean, which is not a reason to skip it. And adding a word can break one that already resolved, by making a form ambiguous: `ansprechen` cost `spricht` and `ausladen` cost `lädt`, both pinned now. **Read the AMBIGUOUS list, not only the unmapped one.**
+1. **Nobody has fact-checked the Swiss German** and it is now 117,863 words long. Every `NEXT.md` phase section ends with a "known, and worth flagging" list; those are the judgement calls. This has been the biggest risk since 2026-08-24 and it is unchanged.
+2. **Phase 7's own vocabulary has never been through RETURN.** A word is judged once 25 stories exist after it, and there are none after `p7-18`. Anything introduced in the last eighteen stories is taught once and untested by the gate. Structural, not fixable by writing.
+3. **Nothing checks whether a story is good.** The gates check shape, Swissness, recycling and tappability. A read-through by an actual learner is the missing test.
+4. **`aufpassen` and `aufwachen` finished at one use each**, seven phases running. In the dictionary, effectively untaught. Drop them or find them a home.
+
+**Three things every phase has now taught, in the same order.** RETURN judges the previous phase's vocabulary the moment the new one lands and takes warm-up cards away: 44, then 28, then 32, 10, 16 and 11 across the seven phases that had one. **Budget the recycling sweep as part of writing the phase**; it falls when the writing carries the last phase forward on purpose, and it will never reach zero. Every sweep then breaks one or two words that relied on being one-scene, so re-run the check after it, every time — phase 5 was the first time it came back clean, which is not a reason to skip it. There is no eighth sweep: phase 7 has no phase after it. And adding a word can break one that already resolved, by making a form ambiguous: `ansprechen` cost `spricht` and `ausladen` cost `lädt`, both pinned now. **Read the AMBIGUOUS list, not only the unmapped one.**
 
 **The hard rules:**
 

@@ -1,0 +1,328 @@
+{
+ "id": "p7-16",
+ "title": "Das Heft",
+ "desc": "A notebook, handed over",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "Heft",
+  "Seite",
+  "geschrieben",
+  "stehen",
+  "Satz"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe Anna im April mein Heft gegeben.",
+   "e": "In April I gave Anna my notebook."
+  },
+  {
+   "s": "Das erste, von den ersten zwei Jahren, mit dem blauen Umschlag.",
+   "e": "The first one, from the first two years, with the blue cover."
+  },
+  {
+   "s": "Es hat hundertvierzig Seiten und ungefähr die Hälfte davon ist voll.",
+   "e": "It has a hundred and forty pages and about half of them are full."
+  },
+  {
+   "s": "Ich habe es am ersten Abend angefangen, in einer Wohnung ohne Möbel.",
+   "e": "I started it on the first evening, in a flat with no furniture."
+  },
+  {
+   "s": "Auf der ersten Seite stehen drei Wörter.",
+   "e": "On the first page there are three words."
+  },
+  {
+   "s": "Grüezi. Gleis. Koffer.",
+   "e": "Grüezi. Gleis. Koffer."
+  },
+  {
+   "s": "Darunter steht das Datum und sonst nichts.",
+   "e": "Underneath it is the date and nothing else."
+  },
+  {
+   "s": "Ich habe es zwei Wochen vorher aus der Schublade genommen und noch einmal gelesen.",
+   "e": "I took it out of the drawer two weeks beforehand and read it again."
+  },
+  {
+   "s": "Das habe ich seit fünf Jahren nicht gemacht.",
+   "e": "I had not done that for five years."
+  },
+  {
+   "s": "Es ist zu ungefähr einem Drittel falsch.",
+   "e": "About a third of it is wrong."
+  },
+  {
+   "s": "Nicht ein bisschen falsch. Falsch.",
+   "e": "Not a bit wrong. Wrong."
+  },
+  {
+   "s": "Auf Seite elf steht, dass man im Laden guten Tag sagt.",
+   "e": "On page eleven it says that in a shop you say guten Tag."
+  },
+  {
+   "s": "Man sagt Grüezi und guten Tag sagt hier fast niemand.",
+   "e": "You say Grüezi and almost nobody here says guten Tag."
+  },
+  {
+   "s": "Auf Seite neunzehn steht eine Liste mit Wörtern für Abfall und drei davon sind deutsch.",
+   "e": "On page nineteen there is a list of words for rubbish and three of them are German."
+  },
+  {
+   "s": "Das Wort Gebührensack steht dreimal auf der Seite, jedes Mal anders geschrieben.",
+   "e": "The word Gebührensack is on the page three times, spelled differently each time."
+  },
+  {
+   "s": "Ich habe sie in einem Buch gefunden, das nicht für dieses Land geschrieben ist.",
+   "e": "I found them in a book that is not written for this country."
+  },
+  {
+   "s": "Auf Seite dreiundzwanzig steht ein Satz mit einem Wort, das ich nie gehört habe.",
+   "e": "On page twenty-three there is a sentence with a word I have never heard."
+  },
+  {
+   "s": "Auf Seite dreissig steht, dass man am Sonntag nicht waschen darf.",
+   "e": "On page thirty it says that you are not allowed to wash on Sunday."
+  },
+  {
+   "s": "Das stimmt und es steht so dort, als ob es ein Gesetz wäre.",
+   "e": "That is true and it is written as though it were a law."
+  },
+  {
+   "s": "Es ist eine Hausordnung und es ist in jedem Haus anders.",
+   "e": "It is a set of house rules and it is different in every building."
+  },
+  {
+   "s": "Und auf Seite vierzig steht der Satz, der mich am meisten überrascht hat.",
+   "e": "And on page forty is the sentence that surprised me most."
+  },
+  {
+   "s": "Ich habe geschrieben: Die Leute hier sind höflich und nicht freundlich.",
+   "e": "I wrote: the people here are polite and not friendly."
+  },
+  {
+   "s": "Ich habe das nach vier Monaten geschrieben und ich habe es geglaubt.",
+   "e": "I wrote that after four months and I believed it."
+  },
+  {
+   "s": "Es ist der falscheste Satz in dem ganzen Heft.",
+   "e": "It is the most wrong sentence in the whole notebook."
+  },
+  {
+   "s": "Und es ist genau das, was man nach vier Monaten sieht.",
+   "e": "And it is exactly what you see after four months."
+  },
+  {
+   "s": "Ich habe zwei Tage überlegt, ob ich die Seiten herausnehmen soll.",
+   "e": "I thought for two days about whether to take the pages out."
+  },
+  {
+   "s": "Ich habe sie drin gelassen.",
+   "e": "I left them in."
+  },
+  {
+   "s": "Ein Heft mit nur richtigen Sachen ist ein Buch.",
+   "e": "A notebook with only correct things in it is a book."
+  },
+  {
+   "s": "Ein Buch hat sie schon und es hilft ihr nicht.",
+   "e": "She already has a book and it does not help her."
+  },
+  {
+   "s": "Was ihr hilft, ist zu sehen, dass jemand anderes das Gleiche falsch verstanden hat.",
+   "e": "What helps her is seeing that somebody else understood the same thing wrongly."
+  },
+  {
+   "s": "Ich habe auf die letzte volle Seite etwas dazugeschrieben.",
+   "e": "I wrote something in on the last full page."
+  },
+  {
+   "s": "Ich habe geschrieben: Ein Drittel davon ist falsch. Ich weiss nicht welches.",
+   "e": "I wrote: a third of this is wrong. I do not know which third."
+  },
+  {
+   "s": "Das ist der ehrlichste Satz, den ich in fünf Jahren aufgeschrieben habe.",
+   "e": "That is the most honest sentence I have written down in five years."
+  },
+  {
+   "s": "Für so etwas braucht man ein paar einfache Formen und alle sind kurz.",
+   "e": "For something like that you need a few simple forms and they are all short."
+  },
+  {
+   "s": "Das brauchst du.",
+   "e": "You need this."
+  },
+  {
+   "s": "Das hilft dir.",
+   "e": "This will help you."
+  },
+  {
+   "s": "Das kannst du wegwerfen.",
+   "e": "You can throw this away."
+  },
+  {
+   "s": "Schau es dir an, wenn du Zeit hast.",
+   "e": "Have a look at it when you have time."
+  },
+  {
+   "s": "Der letzte ist der wichtigste, weil er keine Aufgabe daraus macht.",
+   "e": "The last is the most important, because it does not turn it into a task."
+  },
+  {
+   "s": "Ein Geschenk, das man lesen muss, ist kein Geschenk.",
+   "e": "A present you have to read is not a present."
+  },
+  {
+   "s": "Ich habe es ihr im Büro gegeben, in der Pause, und dabei über etwas anderes geredet.",
+   "e": "I gave it to her in the office, in the break, while talking about something else."
+  },
+  {
+   "s": "Das ist die Art, wie man hier etwas Grosses macht, und ich habe sie von Marianne.",
+   "e": "That is the way you do something big here, and I got it from Marianne."
+  },
+  {
+   "s": "Anna hat es aufgemacht und die erste Seite angeschaut.",
+   "e": "Anna opened it and looked at the first page."
+  },
+  {
+   "s": "Sie hat drei Wörter gelesen und dann hat sie es zugemacht.",
+   "e": "She read three words and then she shut it."
+  },
+  {
+   "s": "Sie hat gesagt: Danke.",
+   "e": "She said: thank you."
+  },
+  {
+   "s": "Sie hat es in die Tasche getan und wir haben über eine Rechnung geredet.",
+   "e": "She put it in her bag and we talked about an invoice."
+  },
+  {
+   "s": "Das war genau richtig und ich habe es erst am Abend gemerkt.",
+   "e": "That was exactly right and I only noticed it in the evening."
+  },
+  {
+   "s": "Sie hat mir am Wochenende geschrieben.",
+   "e": "She wrote to me at the weekend."
+  },
+  {
+   "s": "Sie meldet sich seither ungefähr zweimal in der Woche.",
+   "e": "Since then she gets in touch about twice a week."
+  },
+  {
+   "s": "Sie hat geschrieben: Seite vierzig.",
+   "e": "She wrote: page forty."
+  },
+  {
+   "s": "Mehr nicht.",
+   "e": "Nothing more."
+  },
+  {
+   "s": "Ich habe zwanzig Minuten gebraucht, bis ich geantwortet habe.",
+   "e": "It took me twenty minutes before I answered."
+  },
+  {
+   "s": "Ich habe geschrieben: Ich weiss. Warte noch zwei Jahre.",
+   "e": "I wrote: I know. Wait another two years."
+  },
+  {
+   "s": "Sie hat geschrieben: Und dann?",
+   "e": "She wrote: and then?"
+  },
+  {
+   "s": "Ich habe geschrieben: Dann schreibst du es um.",
+   "e": "I wrote: then you rewrite it."
+  },
+  {
+   "s": "Ich schreibe immer noch jeden Abend Wörter auf.",
+   "e": "I still write down words every evening."
+  },
+  {
+   "s": "Ich übe nichts mehr und ich schreibe immer noch auf.",
+   "e": "I no longer practise anything and I still write things down."
+  },
+  {
+   "s": "Es ist inzwischen das vierte Heft und es ist erst zu einem Viertel voll.",
+   "e": "By now it is the fourth notebook and it is only a quarter full."
+  },
+  {
+   "s": "Im ersten Jahr habe ich achtzig Seiten gebraucht.",
+   "e": "In the first year I used eighty pages."
+  },
+  {
+   "s": "Im letzten sind es zwölf gewesen.",
+   "e": "In the last one it was twelve."
+  },
+  {
+   "s": "Das ist die genaueste Messung von diesen fünf Jahren.",
+   "e": "That is the most precise measurement of these five years."
+  },
+  {
+   "s": "Es steht nicht drin, was ich kann.",
+   "e": "It does not say what I can do."
+  },
+  {
+   "s": "Es steht drin, wie schnell es weniger wird.",
+   "e": "It says how quickly it is getting less."
+  },
+  {
+   "s": "In den letzten Heften stehen keine Wörter mehr.",
+   "e": "In the last notebooks there are no more words."
+  },
+  {
+   "s": "Es stehen Sätze drin, die ich gehört habe und nicht verstanden.",
+   "e": "There are sentences in them that I heard and did not understand."
+  },
+  {
+   "s": "Nicht die Wörter. Den Satz.",
+   "e": "Not the words. The sentence."
+  },
+  {
+   "s": "Es ist wieder Leben im Haus.",
+   "e": "There is life in the building again."
+  },
+  {
+   "s": "Das ist eine lange Geschichte.",
+   "e": "That is a long story."
+  },
+  {
+   "s": "Es ist gegangen.",
+   "e": "It was all right."
+  },
+  {
+   "s": "Alle drei habe ich verstanden und alle drei habe ich aufgeschrieben.",
+   "e": "I understood all three and I wrote all three down."
+  },
+  {
+   "s": "Bei zweien steht daneben, was sie wirklich heissen.",
+   "e": "Beside two of them is what they really mean."
+  },
+  {
+   "s": "Beim dritten steht nichts, weil ich es immer noch nicht ganz weiss.",
+   "e": "Beside the third there is nothing, because I still do not quite know."
+  },
+  {
+   "s": "Anna hat mich im Mai gefragt, ob sie das auch machen soll.",
+   "e": "In May Anna asked me whether she should do that too."
+  },
+  {
+   "s": "Ich habe gesagt: Ja. Und wirf es nicht weg.",
+   "e": "I said: yes. And do not throw it away."
+  },
+  {
+   "s": "Sie hat gefragt: Warum nicht?",
+   "e": "She asked: why not?"
+  },
+  {
+   "s": "Ich habe gesagt: Weil du es in fünf Jahren jemandem gibst.",
+   "e": "I said: because in five years you will give it to somebody."
+  },
+  {
+   "s": "Sie hat gelacht und gesagt: Das ist ein bisschen viel.",
+   "e": "She laughed and said: that is a bit much."
+  },
+  {
+   "s": "Sie hat recht gehabt und sie schreibt seither jeden Abend auf.",
+   "e": "She was right and since then she writes every evening."
+  }
+ ]
+}

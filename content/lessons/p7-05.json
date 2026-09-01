@@ -1,0 +1,324 @@
+{
+ "id": "p7-05",
+ "title": "Bei den Odermatts",
+ "desc": "The house where you now take your shoes off",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "machen"
+ ],
+ "sn": [
+  {
+   "s": "Ich ziehe bei den Odermatts die Schuhe aus, ohne dass es jemand sagt.",
+   "e": "At the Odermatts' I take my shoes off without anybody saying so."
+  },
+  {
+   "s": "Das mache ich seit ungefähr drei Jahren.",
+   "e": "I have been doing that for about three years."
+  },
+  {
+   "s": "Im ersten Jahr habe ich jedes Mal an der Tür gefragt.",
+   "e": "In the first year I asked at the door every time."
+  },
+  {
+   "s": "Marianne hat jedes Mal gesagt: Das ist nicht nötig.",
+   "e": "Every time Marianne said: that is not necessary."
+  },
+  {
+   "s": "Und alle anderen haben die Schuhe ausgezogen.",
+   "e": "And everybody else took their shoes off."
+  },
+  {
+   "s": "Es hat zwei Jahre gedauert, bis ich verstanden habe, was da passiert.",
+   "e": "It took two years before I understood what was going on."
+  },
+  {
+   "s": "Das ist nicht nötig heisst nicht, dass man es nicht macht.",
+   "e": "That is not necessary does not mean that you do not do it."
+  },
+  {
+   "s": "Es heisst, dass der Gast nicht darum bitten muss.",
+   "e": "It means that the guest does not have to ask."
+  },
+  {
+   "s": "Man macht es und niemand redet darüber.",
+   "e": "You do it and nobody talks about it."
+  },
+  {
+   "s": "Das gilt hier für sehr viele Sachen und es ist die schwerste Regel von allen.",
+   "e": "That goes for a great many things here and it is the hardest rule of all."
+  },
+  {
+   "s": "Das Du ist irgendwann gekommen und ich weiss nicht wann.",
+   "e": "The du came at some point and I do not know when."
+  },
+  {
+   "s": "Marianne hat es im dritten Jahr vorgeschlagen, an einem Sonntag im Herbst.",
+   "e": "Marianne suggested it in the third year, on a Sunday in the autumn."
+  },
+  {
+   "s": "Sie hat gesagt: Wollen wir nicht du sagen? Das ist ja komisch inzwischen.",
+   "e": "She said: shall we not say du? It is odd by now."
+  },
+  {
+   "s": "Bei Kurt ist es anders gegangen und das passt zu ihm.",
+   "e": "With Kurt it went differently and that suits him."
+  },
+  {
+   "s": "Er hat nie etwas vorgeschlagen.",
+   "e": "He never suggested anything."
+  },
+  {
+   "s": "Er hat an einem Tag im Winter angefangen, du zu sagen.",
+   "e": "One day in the winter he started saying du."
+  },
+  {
+   "s": "Mitten in einem Satz über einen Zaun.",
+   "e": "In the middle of a sentence about a fence."
+  },
+  {
+   "s": "Ich habe es erst am Abend gemerkt, im Auto.",
+   "e": "I only noticed it in the evening, in the car."
+  },
+  {
+   "s": "Selina hat gesagt: Ja, das ist mir auch aufgefallen.",
+   "e": "Selina said: yes, I noticed that too."
+  },
+  {
+   "s": "Sie hat gesagt: Er hat sich sicher zwei Monate überlegt, wie er das macht.",
+   "e": "She said: he will certainly have thought for two months about how to do it."
+  },
+  {
+   "s": "Sie hat gesagt: Und dann hat er es einfach gemacht.",
+   "e": "She said: and then he simply did it."
+  },
+  {
+   "s": "Im Oktober hat Kurt mich etwas gefragt.",
+   "e": "In October Kurt asked me something."
+  },
+  {
+   "s": "Wir waren in seiner Werkstatt hinter dem Haus.",
+   "e": "We were in his workshop behind the house."
+  },
+  {
+   "s": "Er ist dort fast jeden Tag und es liegt alles an seinem Platz.",
+   "e": "He is there almost every day and everything is in its place."
+  },
+  {
+   "s": "Er hat etwas repariert und ich habe zugeschaut, was ich oft mache.",
+   "e": "He was repairing something and I was watching, which I often do."
+  },
+  {
+   "s": "Marianne hat drinnen gekocht und wir haben sie durch das Fenster gehört.",
+   "e": "Marianne was cooking inside and we could hear her through the window."
+  },
+  {
+   "s": "Wir reden dort wenig und das ist die beste Zeit mit ihm.",
+   "e": "We talk little there and it is the best time with him."
+  },
+  {
+   "s": "Er hat den Schraubenzieher hingelegt und nicht aufgeschaut.",
+   "e": "He put the screwdriver down and did not look up."
+  },
+  {
+   "s": "Er hat gesagt: Ich überlege, ob ich ein Jahr früher aufhöre.",
+   "e": "He said: I am thinking about stopping a year early."
+  },
+  {
+   "s": "Er ist vierundsechzig und er arbeitet seit siebenundvierzig Jahren.",
+   "e": "He is sixty-four and he has worked for forty-seven years."
+  },
+  {
+   "s": "Ich habe nichts gesagt, weil ich nicht gewusst habe, ob es eine Frage war.",
+   "e": "I said nothing, because I did not know whether it was a question."
+  },
+  {
+   "s": "Nach ungefähr einer halben Minute hat er gesagt: Was meinst du?",
+   "e": "After about half a minute he said: what do you think?"
+  },
+  {
+   "s": "Das sind drei Wörter und sie haben mich vollkommen überrascht.",
+   "e": "That is three words and they surprised me completely."
+  },
+  {
+   "s": "Dieser Mann fragt niemanden etwas.",
+   "e": "That man asks nobody anything."
+  },
+  {
+   "s": "Er hat mir am ersten Sonntag vor sechs Jahren zwei Fragen gestellt.",
+   "e": "On the first Sunday six years ago he asked me two questions."
+  },
+  {
+   "s": "Ich habe sie beide noch im Kopf.",
+   "e": "I still have both of them in my head."
+  },
+  {
+   "s": "Ich habe zuerst gefragt, was Marianne dazu sagt.",
+   "e": "First I asked what Marianne says about it."
+  },
+  {
+   "s": "Er hat gesagt: Die sagt, ich soll aufhören.",
+   "e": "He said: she says I should stop."
+  },
+  {
+   "s": "Ich habe gefragt, was Reto sagt.",
+   "e": "I asked what Reto says."
+  },
+  {
+   "s": "Er hat gesagt: Der sagt, ich soll weitermachen, solange es geht.",
+   "e": "He said: he says I should carry on as long as it works."
+  },
+  {
+   "s": "Dann war es still und ich habe verstanden, warum er mich fragt.",
+   "e": "Then it was quiet and I understood why he was asking me."
+  },
+  {
+   "s": "Er hat zwei Antworten, die er kennt, und beide gehören zur Familie.",
+   "e": "He has two answers that he knows, and both belong to the family."
+  },
+  {
+   "s": "Marianne will ihn zu Hause haben und Reto will nicht, dass sein Vater alt wird.",
+   "e": "Marianne wants him at home and Reto does not want his father to get old."
+  },
+  {
+   "s": "Beide Antworten sind über sie und nicht über ihn.",
+   "e": "Both answers are about them and not about him."
+  },
+  {
+   "s": "Ich bin der einzige, der ihn seit sechs Jahren kennt und nichts von ihm will.",
+   "e": "I am the only one who has known him for six years and wants nothing from him."
+  },
+  {
+   "s": "Ich habe eine Frage gestellt statt einer Antwort.",
+   "e": "I asked a question instead of giving an answer."
+  },
+  {
+   "s": "Ich habe gefragt: Was machst du am ersten Montag?",
+   "e": "I asked: what will you do on the first Monday?"
+  },
+  {
+   "s": "Er hat lange nichts gesagt.",
+   "e": "He said nothing for a long time."
+  },
+  {
+   "s": "Dann hat er gesagt: Das ist die richtige Frage.",
+   "e": "Then he said: that is the right question."
+  },
+  {
+   "s": "Dann hat er gesagt: Ich weiss es nicht.",
+   "e": "Then he said: I do not know."
+  },
+  {
+   "s": "Dann hat er den Schraubenzieher wieder genommen.",
+   "e": "Then he picked the screwdriver up again."
+  },
+  {
+   "s": "Wir haben danach zwanzig Minuten nichts gesagt und es war gut.",
+   "e": "Afterwards we said nothing for twenty minutes and it was good."
+  },
+  {
+   "s": "Ich habe auf dem Heimweg gerechnet, was das war.",
+   "e": "On the way home I worked out what that had been."
+  },
+  {
+   "s": "Es war nicht, dass er meine Meinung gebraucht hat.",
+   "e": "It was not that he needed my opinion."
+  },
+  {
+   "s": "Er hat jemanden gebraucht, der nicht Teil von der Rechnung ist.",
+   "e": "He needed somebody who is not part of the sum."
+  },
+  {
+   "s": "Dafür nimmt man hier keinen Fremden und keinen Freund.",
+   "e": "For that you do not take a stranger here and not a friend."
+  },
+  {
+   "s": "Man nimmt jemanden dazwischen und ich bin seit sechs Jahren dazwischen.",
+   "e": "You take somebody in between and I have been in between for six years."
+  },
+  {
+   "s": "Ich habe das lange für einen Nachteil gehalten.",
+   "e": "For a long time I took that for a disadvantage."
+  },
+  {
+   "s": "An dem Tag in der Werkstatt war es genau das Richtige.",
+   "e": "That day in the workshop it was exactly the right thing."
+  },
+  {
+   "s": "Es hat noch zwei andere Zeichen gegeben und beide sind kleiner.",
+   "e": "There have been two other signs and both are smaller."
+  },
+  {
+   "s": "Ich habe einen Schlüssel für das Haus, seit dem Winter, für den Notfall.",
+   "e": "I have a key to the house, since the winter, for emergencies."
+  },
+  {
+   "s": "Marianne hat ihn mir gegeben und dabei über etwas anderes geredet.",
+   "e": "Marianne gave it to me while talking about something else."
+  },
+  {
+   "s": "Das ist die Art, wie man hier etwas Grosses macht.",
+   "e": "That is the way you do something big here."
+  },
+  {
+   "s": "Man macht es klein und man schaut dabei woandershin.",
+   "e": "You make it small and you look somewhere else while you do it."
+  },
+  {
+   "s": "Und ich hole am Sonntag das Brot, wenn ich komme.",
+   "e": "And I fetch the bread on Sunday when I come."
+  },
+  {
+   "s": "Das hat mir niemand gesagt.",
+   "e": "Nobody told me to."
+  },
+  {
+   "s": "Ich habe es einmal gemacht und dann ist es so geblieben.",
+   "e": "I did it once and then it stayed that way."
+  },
+  {
+   "s": "Am Sonntag darauf hat Marianne gesagt: Bringst du wieder das Brot mit?",
+   "e": "The following Sunday Marianne said: will you bring the bread again?"
+  },
+  {
+   "s": "Damit war es eine Aufgabe und ich habe sie seit zwei Jahren.",
+   "e": "With that it was a job and I have had it for two years."
+  },
+  {
+   "s": "Hedi ist fünfundneunzig und sie wohnt immer noch allein.",
+   "e": "Hedi is ninety-five and she still lives alone."
+  },
+  {
+   "s": "Sie geht nicht mehr jeden Tag einkaufen, sondern jeden zweiten.",
+   "e": "She no longer goes shopping every day, but every other day."
+  },
+  {
+   "s": "Sie hat das genau so erklärt, als ob es eine Entscheidung wäre.",
+   "e": "She explained it exactly like that, as though it were a decision."
+  },
+  {
+   "s": "Es ist eine Entscheidung.",
+   "e": "It is a decision."
+  },
+  {
+   "s": "Ich bin immer noch alle zwei Wochen bei ihr, am Mittwoch um halb drei.",
+   "e": "I am still at her place every other week, on Wednesday at half past two."
+  },
+  {
+   "s": "Sie macht Kuchen und ich bringe nichts mit.",
+   "e": "She makes cake and I bring nothing."
+  },
+  {
+   "s": "Sie erzählt mir immer noch jedes Mal etwas Neues.",
+   "e": "She still tells me something new every time."
+  },
+  {
+   "s": "Nach sechs Jahren weiss ich mehr über diese Familie als Selina.",
+   "e": "After six years I know more about this family than Selina does."
+  },
+  {
+   "s": "Das ist immer noch komisch und wir reden immer noch nicht darüber.",
+   "e": "That is still odd and we still do not talk about it."
+  }
+ ]
+}

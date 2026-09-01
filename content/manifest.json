@@ -1275,6 +1275,132 @@
    "desc": "Somebody says you sound like one of them",
    "phase": 6,
    "path": "lessons/p6-26.json"
+  },
+  {
+   "id": "p7-01",
+   "title": "Jahre später",
+   "desc": "Time, measured backwards",
+   "phase": 7,
+   "path": "lessons/p7-01.json"
+  },
+  {
+   "id": "p7-02",
+   "title": "Ohne nachzudenken",
+   "desc": "Words you use without choosing them",
+   "phase": 7,
+   "path": "lessons/p7-02.json"
+  },
+  {
+   "id": "p7-03",
+   "title": "Wortspiele",
+   "desc": "Jokes that only work in German",
+   "phase": 7,
+   "path": "lessons/p7-03.json"
+  },
+  {
+   "id": "p7-04",
+   "title": "Unser Witz",
+   "desc": "A joke with a history",
+   "phase": 7,
+   "path": "lessons/p7-04.json"
+  },
+  {
+   "id": "p7-05",
+   "title": "Bei den Odermatts",
+   "desc": "The house where you now take your shoes off",
+   "phase": 7,
+   "path": "lessons/p7-05.json"
+  },
+  {
+   "id": "p7-06",
+   "title": "Vreni und du",
+   "desc": "Her sister, every second Sunday",
+   "phase": 7,
+   "path": "lessons/p7-06.json"
+  },
+  {
+   "id": "p7-07",
+   "title": "Eine Hochzeit",
+   "desc": "A day with speeches in it",
+   "phase": 7,
+   "path": "lessons/p7-07.json"
+  },
+  {
+   "id": "p7-08",
+   "title": "Anna",
+   "desc": "Somebody newer than you",
+   "phase": 7,
+   "path": "lessons/p7-08.json"
+  },
+  {
+   "id": "p7-09",
+   "title": "Die Waschküche erklären",
+   "desc": "The rota, explained to a foreigner",
+   "phase": 7,
+   "path": "lessons/p7-09.json"
+  },
+  {
+   "id": "p7-10",
+   "title": "Wohin kommt der Karton",
+   "desc": "Rubbish, explained again",
+   "phase": 7,
+   "path": "lessons/p7-10.json"
+  },
+  {
+   "id": "p7-11",
+   "title": "Warum Grüezi",
+   "desc": "The first word, explained last",
+   "phase": 7,
+   "path": "lessons/p7-11.json"
+  },
+  {
+   "id": "p7-12",
+   "title": "Warum lädt mich niemand ein?",
+   "desc": "The question everybody asks eventually",
+   "phase": 7,
+   "path": "lessons/p7-12.json"
+  },
+  {
+   "id": "p7-13",
+   "title": "Von Frau Amrein erzählen",
+   "desc": "Telling somebody about the dead",
+   "phase": 7,
+   "path": "lessons/p7-13.json"
+  },
+  {
+   "id": "p7-14",
+   "title": "Ins Brockenhaus",
+   "desc": "Furnishing another empty flat",
+   "phase": 7,
+   "path": "lessons/p7-14.json"
+  },
+  {
+   "id": "p7-15",
+   "title": "Sie lernt alle kennen",
+   "desc": "Introducing somebody to your people",
+   "phase": 7,
+   "path": "lessons/p7-15.json"
+  },
+  {
+   "id": "p7-16",
+   "title": "Das Heft",
+   "desc": "A notebook, handed over",
+   "phase": 7,
+   "path": "lessons/p7-16.json"
+  },
+  {
+   "id": "p7-17",
+   "title": "Nichts war schwierig",
+   "desc": "A day with no difficulty in it",
+   "phase": 7,
+   "path": "lessons/p7-17.json"
+  },
+  {
+   "id": "p7-18",
+   "title": "Niemand wechselt ins Englische",
+   "desc": "They stop switching",
+   "phase": 7,
+   "path": "lessons/p7-18.json"
   }
  ],
  "scenarios": [
@@ -1634,6 +1760,41 @@
    "desc": "Disagreeing without it becoming about a person",
    "phase": 6,
    "path": "scenarios/sc51.json"
+  },
+  {
+   "id": "sc52",
+   "title": "Wie komme ich zum Bahnhof",
+   "desc": "Being the one who knows",
+   "phase": 7,
+   "path": "scenarios/sc52.json"
+  },
+  {
+   "id": "sc53",
+   "title": "Wohin kommt der Karton",
+   "desc": "Answering the question that was asked",
+   "phase": 7,
+   "path": "scenarios/sc53.json"
+  },
+  {
+   "id": "sc54",
+   "title": "Es dauert zwei Jahre",
+   "desc": "The question everybody asks in the fourth month",
+   "phase": 7,
+   "path": "scenarios/sc54.json"
+  },
+  {
+   "id": "sc55",
+   "title": "An deiner Stelle",
+   "desc": "Talking somebody out of a lamp",
+   "phase": 7,
+   "path": "scenarios/sc55.json"
+  },
+  {
+   "id": "sc56",
+   "title": "Und? Bleiben Sie?",
+   "desc": "The question you were once asked",
+   "phase": 7,
+   "path": "scenarios/sc56.json"
   }
  ],
  "momo": "bluemli.json"

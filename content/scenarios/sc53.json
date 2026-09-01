@@ -1,0 +1,109 @@
+{
+ "id": "sc53",
+ "title": "Wohin kommt der Karton",
+ "desc": "Answering the question that was asked",
+ "setting": "An office kitchen in September, a colleague three weeks into the country, and forty minutes you could easily take.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Anna",
+   "es": "Weisst du, wohin der Karton kommt?",
+   "en": "Do you know where the cardboard goes?",
+   "options": [
+    {
+     "es": "Gebündelt an die Strasse, am Mittwoch.",
+     "en": "Bundled, out on the street, on Wednesday.",
+     "verdict": "good",
+     "feedback": "Two facts and a day. That is the answer to the question she asked."
+    },
+    {
+     "es": "Oh, das ist eine lange Geschichte.",
+     "en": "Oh, that is a long story.",
+     "verdict": "bad",
+     "feedback": "It is not. It is one sentence, and she has to do it tomorrow."
+    },
+    {
+     "es": "Bei mir war das am Anfang das Schlimmste.",
+     "en": "That was the worst thing for me at the beginning.",
+     "verdict": "ok",
+     "feedback": "True and it is your story. Answer first, tell it later if she asks."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Und der Rest? Da ist so viel.",
+   "en": "And the rest? There is so much of it.",
+   "options": [
+    {
+     "es": "Vier Sachen. Sack, Karton, Glas, Alu.",
+     "en": "Four things. Bag, cardboard, glass, aluminium.",
+     "verdict": "good",
+     "feedback": "Four boxes, four words. The exceptions can wait for the second year."
+    },
+    {
+     "es": "Papier und Karton sind übrigens verschiedene Tage.",
+     "en": "Paper and cardboard are different days, by the way.",
+     "verdict": "ok",
+     "feedback": "True, and it is exception number one before she has the rule."
+    },
+    {
+     "es": "Das lernst du mit der Zeit.",
+     "en": "You will learn that in time.",
+     "verdict": "bad",
+     "feedback": "She asked now, because the bag is in her hall now."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Und wenn ich es falsch mache?",
+   "en": "And what if I do it wrong?",
+   "options": [
+    {
+     "es": "Dann sagt dir jemand etwas.",
+     "en": "Then somebody says something to you.",
+     "verdict": "good",
+     "feedback": "The honest answer, and the next sentence is what makes it bearable."
+    },
+    {
+     "es": "Dann bekommst du eine Busse.",
+     "en": "Then you get a fine.",
+     "verdict": "ok",
+     "feedback": "It happens and it is rare. What actually happens is a neighbour."
+    },
+    {
+     "es": "Nichts, mach dir keine Sorgen.",
+     "en": "Nothing, do not worry.",
+     "verdict": "bad",
+     "feedback": "Something does happen and she will be blindsided by it. She would rather know."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Kann ich dich fragen, wenn ich etwas nicht weiss?",
+   "en": "Can I ask you if I do not know something?",
+   "options": [
+    {
+     "es": "Klar. Jederzeit.",
+     "en": "Of course. Any time.",
+     "verdict": "good",
+     "feedback": "Two words. Anything longer turns a small offer into an obligation for her."
+    },
+    {
+     "es": "Ja, aber frag ruhig auch die Nachbarn.",
+     "en": "Yes, but do ask the neighbours too.",
+     "verdict": "ok",
+     "feedback": "Good advice in four months. Today she is asking whether she is allowed to ask you."
+    },
+    {
+     "es": "Ich schicke dir alles per Mail.",
+     "en": "I will send you everything by email.",
+     "verdict": "bad",
+     "feedback": "She asked for a person, not a document."
+    }
+   ]
+  }
+ ]
+}

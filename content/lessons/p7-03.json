@@ -1,0 +1,336 @@
+{
+ "id": "p7-03",
+ "title": "Wortspiele",
+ "desc": "Jokes that only work in German",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "übersetzen",
+  "Baum",
+  "finden",
+  "können",
+  "müssen"
+ ],
+ "sn": [
+  {
+   "s": "Es gibt in dieser Sprache einen Witz, der die ganze Grammatik braucht.",
+   "e": "There is a joke in this language that needs the whole grammar."
+  },
+  {
+   "s": "Er macht nur Spass, wenn man beide Bedeutungen im Kopf hat.",
+   "e": "It is only fun if you have both meanings in your head."
+  },
+  {
+   "s": "Ich habe ihn im Juni zum ersten Mal selber gemacht.",
+   "e": "In June I made it myself for the first time."
+  },
+  {
+   "s": "Er geht so: Ich umfahre den Baum.",
+   "e": "It goes like this: Ich umfahre den Baum."
+  },
+  {
+   "s": "Und: Ich fahre den Baum um.",
+   "e": "And: Ich fahre den Baum um."
+  },
+  {
+   "s": "Die zwei Sätze haben die gleichen Wörter.",
+   "e": "The two sentences have the same words."
+  },
+  {
+   "s": "Der erste heisst: ich fahre um den Baum herum.",
+   "e": "The first means: I drive around the tree."
+  },
+  {
+   "s": "Der zweite heisst: der Baum liegt nachher am Boden.",
+   "e": "The second means: the tree is lying on the ground afterwards."
+  },
+  {
+   "s": "Es ist der gleiche Wortstamm mit der gleichen Vorsilbe.",
+   "e": "It is the same stem with the same prefix."
+  },
+  {
+   "s": "Der ganze Unterschied ist, ob die Vorsilbe abgeht oder nicht.",
+   "e": "The whole difference is whether the prefix comes off or not."
+  },
+  {
+   "s": "Wenn sie abgeht, ist der Baum kaputt.",
+   "e": "If it comes off, the tree is wrecked."
+  },
+  {
+   "s": "Das ist eine sehr gute Regel und sie ist sehr leicht zu merken.",
+   "e": "That is a very good rule and it is very easy to remember."
+  },
+  {
+   "s": "Es gibt eine zweite, die ich schöner finde, und die passt zu dieser Stadt.",
+   "e": "There is a second one that I find nicer, and it fits this town."
+  },
+  {
+   "s": "Übersetzen mit der Betonung vorne heisst: mit dem Schiff auf die andere Seite bringen.",
+   "e": "Übersetzen with the stress at the front means: to take across by boat."
+  },
+  {
+   "s": "Der Fährmann setzt uns über.",
+   "e": "The ferryman takes us across."
+  },
+  {
+   "s": "Übersetzen mit der Betonung hinten heisst: von einer Sprache in die andere.",
+   "e": "Übersetzen with the stress at the back means: from one language into another."
+  },
+  {
+   "s": "Er übersetzt den Brief.",
+   "e": "He translates the letter."
+  },
+  {
+   "s": "Das gleiche Wort für über den See und für in eine andere Sprache.",
+   "e": "The same word for across the lake and for into another language."
+  },
+  {
+   "s": "Ich finde das gut und ich habe niemanden gefunden, der das auch gut findet.",
+   "e": "I find that good and I have found nobody else who finds it good."
+  },
+  {
+   "s": "Ich habe es Timo erklärt und er hat gesagt: Ja. Und?",
+   "e": "I explained it to Timo and he said: yes. And?"
+  },
+  {
+   "s": "Das ist die normale Reaktion, wenn ein Fremder etwas an deiner Sprache schön findet.",
+   "e": "That is the normal reaction when a foreigner finds something beautiful about your language."
+  },
+  {
+   "s": "Man sieht es selber nicht.",
+   "e": "You do not see it yourself."
+  },
+  {
+   "s": "Ich sehe an meiner eigenen Sprache auch nichts.",
+   "e": "I do not see anything in my own language either."
+  },
+  {
+   "s": "Die Betonung ist der ganze Trick bei diesen Wörtern.",
+   "e": "The stress is the whole trick with these words."
+  },
+  {
+   "s": "Man hört sie und man kann sie nicht schreiben.",
+   "e": "You hear it and you cannot write it."
+  },
+  {
+   "s": "Das ist eines der wenigen Dinge, die man nur durch Hören lernt.",
+   "e": "That is one of the few things you can only learn by listening."
+  },
+  {
+   "s": "Für ein Wortspiel braucht man drei Sachen.",
+   "e": "For a pun you need three things."
+  },
+  {
+   "s": "Man kann sie nicht üben und man kann nur warten, bis sie kommen.",
+   "e": "You cannot practise them and you can only wait until they come."
+  },
+  {
+   "s": "Man muss beide Bedeutungen kennen.",
+   "e": "You have to know both meanings."
+  },
+  {
+   "s": "Man muss wissen, dass der andere sie auch kennt.",
+   "e": "You have to know that the other person knows them too."
+  },
+  {
+   "s": "Und man muss den Moment treffen, in dem es passt.",
+   "e": "And you have to hit the moment where it fits."
+  },
+  {
+   "s": "Das Dritte ist das Schwierigste und es ist bei jedem Witz das Gleiche.",
+   "e": "The third is the hardest and it is the same with every joke."
+  },
+  {
+   "s": "Ich habe im Juni alle drei gehabt und das war Glück.",
+   "e": "In June I had all three and that was luck."
+  },
+  {
+   "s": "Wir waren auf dem Schiff, vier Leute, an einem Samstagnachmittag.",
+   "e": "We were on the boat, four people, on a Saturday afternoon."
+  },
+  {
+   "s": "Fatlum hat von einem Kollegen erzählt, der bei einer Behörde übersetzt.",
+   "e": "Fatlum was talking about a colleague who translates for an authority."
+  },
+  {
+   "s": "Ich habe gesagt: Er setzt über und wir setzen auch über.",
+   "e": "I said: he translates and we are being taken across."
+  },
+  {
+   "s": "Es waren acht Wörter und es hat eine Sekunde gedauert.",
+   "e": "It was eight words and it took one second."
+  },
+  {
+   "s": "Fatlum hat gelacht, Timo hat den Kopf geschüttelt und gelacht.",
+   "e": "Fatlum laughed, Timo shook his head and laughed."
+  },
+  {
+   "s": "Selina hat gesagt: Der war schlecht.",
+   "e": "Selina said: that was a bad one."
+  },
+  {
+   "s": "Das war das beste Kompliment von dem ganzen Sommer.",
+   "e": "That was the best compliment of the whole summer."
+  },
+  {
+   "s": "Ein schlechtes Wortspiel ist hier ein Zeichen und es ist ein besseres als ein gutes.",
+   "e": "A bad pun is a sign here and it is a better one than a good pun."
+  },
+  {
+   "s": "Ein gutes hat man vorbereitet.",
+   "e": "A good one you have prepared."
+  },
+  {
+   "s": "Ein schlechtes ist einem einfach passiert und das geht nur, wenn beide Wörter im Kopf sind.",
+   "e": "A bad one just happened to you and that only works if both words are in your head."
+  },
+  {
+   "s": "Es gibt eine ganze Sorte von Witzen, die es nur mit langen Wörtern gibt.",
+   "e": "There is a whole kind of joke that only exists with long words."
+  },
+  {
+   "s": "Man kann in dieser Sprache Wörter aneinanderhängen, so lange man will.",
+   "e": "In this language you can hang words together for as long as you like."
+  },
+  {
+   "s": "Krankenkasse. Krankenkassenprämie. Krankenkassenprämienrechnung.",
+   "e": "Krankenkasse. Krankenkassenprämie. Krankenkassenprämienrechnung."
+  },
+  {
+   "s": "Jedes davon ist ein richtiges Wort und man kann noch eines dranhängen.",
+   "e": "Each one of those is a real word and you can hang another one on."
+  },
+  {
+   "s": "Der Witz besteht darin, dass man weiterhängt, bis es nicht mehr geht.",
+   "e": "The joke consists in hanging on more until it stops working."
+  },
+  {
+   "s": "Man wirft ein Wort dazu und schaut, ob es noch hält.",
+   "e": "You throw another word on and see whether it still holds."
+  },
+  {
+   "s": "Beat kann das sehr gut und er macht es bei jedem Hock einmal.",
+   "e": "Beat is very good at that and he does it once at every Hock."
+  },
+  {
+   "s": "Am Anfang habe ich diese Wörter für ein Problem gehalten.",
+   "e": "At the beginning I took these words for a problem."
+  },
+  {
+   "s": "Sie sind das Gegenteil von einem Problem.",
+   "e": "They are the opposite of a problem."
+  },
+  {
+   "s": "Man muss sie nicht lernen, man muss sie nur auseinandernehmen.",
+   "e": "You do not have to learn them, you only have to take them apart."
+  },
+  {
+   "s": "Wer Wasch und Küche kennt, versteht die Waschküche, ohne sie je gehört zu haben.",
+   "e": "Whoever knows Wasch and Küche understands the Waschküche without ever having heard it."
+  },
+  {
+   "s": "Das ist der beste Handel in dieser ganzen Sprache.",
+   "e": "That is the best bargain in this whole language."
+  },
+  {
+   "s": "Es gibt eine Sache, die man nicht mitmachen kann, und die muss man akzeptieren.",
+   "e": "There is one thing you cannot join in with, and you have to accept it."
+  },
+  {
+   "s": "Der Dialekt hat seine eigenen Witze und die funktionieren auf Hochdeutsch nicht.",
+   "e": "The dialect has its own jokes and they do not work in standard German."
+  },
+  {
+   "s": "Es gibt ein berühmtes Wort für einen Küchenkasten, das Fremde sagen müssen.",
+   "e": "There is a famous word for a kitchen cupboard that foreigners are made to say."
+  },
+  {
+   "s": "Alle Schweizer finden es lustig und niemand kann es erklären.",
+   "e": "All Swiss people find it funny and nobody can explain it."
+  },
+  {
+   "s": "Ich schreibe es hier nicht auf, weil ich es nicht richtig aufschreiben kann.",
+   "e": "I am not writing it down here, because I cannot write it down properly."
+  },
+  {
+   "s": "Genau das ist der Punkt an dem Wort.",
+   "e": "That is exactly the point of that word."
+  },
+  {
+   "s": "Man hat mich in fünf Jahren viermal gefragt, ob ich es sagen kann.",
+   "e": "In five years I have been asked four times whether I can say it."
+  },
+  {
+   "s": "Beim ersten Mal habe ich es probiert und alle haben gelacht.",
+   "e": "The first time I tried it and everybody laughed."
+  },
+  {
+   "s": "Beim vierten Mal habe ich gesagt: Nein, und du sagst mir dafür etwas in meiner Sprache.",
+   "e": "The fourth time I said: no, and you say something in my language instead."
+  },
+  {
+   "s": "Das hat gut funktioniert und es hat auch das Gespräch verändert.",
+   "e": "That worked well and it also changed the conversation."
+  },
+  {
+   "s": "Der Mann hat es probiert und es war schrecklich und wir haben beide gelacht.",
+   "e": "The man tried it and it was terrible and we both laughed."
+  },
+  {
+   "s": "Danach war es keine Prüfung mehr, sondern ein Spiel mit zwei Seiten.",
+   "e": "After that it was not a test any more, but a game with two sides."
+  },
+  {
+   "s": "Das ist der einzige Trick, den ich für diese Situation habe.",
+   "e": "That is the only trick I have for that situation."
+  },
+  {
+   "s": "Man kann nicht gewinnen und man kann es zu zweit verlieren.",
+   "e": "You cannot win and you can lose it together."
+  },
+  {
+   "s": "Im August habe ich etwas gemerkt, das mich überrascht hat.",
+   "e": "In August I noticed something that surprised me."
+  },
+  {
+   "s": "Ich habe einen Witz auf Deutsch gemacht und ihn dann für meinen Bruder übersetzt.",
+   "e": "I made a joke in German and then translated it for my brother."
+  },
+  {
+   "s": "Er war am Telefon und hat gefragt, warum ich lache.",
+   "e": "He was on the phone and asked why I was laughing."
+  },
+  {
+   "s": "Ich habe es probiert und nach zwei Sätzen aufgehört.",
+   "e": "I tried and stopped after two sentences."
+  },
+  {
+   "s": "Es ist nichts davon übrig geblieben.",
+   "e": "Nothing of it was left."
+  },
+  {
+   "s": "Er hat gesagt: Ja, verstehe.",
+   "e": "He said: yes, I see."
+  },
+  {
+   "s": "Er hat nicht verstanden und er war freundlich.",
+   "e": "He had not understood and he was being kind."
+  },
+  {
+   "s": "Das ist eine kleine Sache und sie ist mir eine Woche nachgegangen.",
+   "e": "That is a small thing and it stayed with me for a week."
+  },
+  {
+   "s": "Es gibt jetzt Sachen in meinem Leben, die ich zu Hause nicht erzählen kann.",
+   "e": "There are now things in my life that I cannot tell at home."
+  },
+  {
+   "s": "Nicht wichtige Sachen. Witze.",
+   "e": "Not important things. Jokes."
+  },
+  {
+   "s": "Und Witze sind das, worüber man mit den Leuten redet, die man am längsten kennt.",
+   "e": "And jokes are what you talk about with the people you have known longest."
+  }
+ ]
+}

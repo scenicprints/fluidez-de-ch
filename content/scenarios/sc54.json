@@ -1,0 +1,109 @@
+{
+ "id": "sc54",
+ "title": "Es dauert zwei Jahre",
+ "desc": "The question everybody asks in the fourth month",
+ "setting": "A Tuesday evening in January, four months in, and a question that has been waiting since November.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Anna",
+   "es": "Warum lädt mich niemand ein?",
+   "en": "Why does nobody invite me?",
+   "options": [
+    {
+     "es": "Es dauert ungefähr zwei Jahre.",
+     "en": "It takes about two years.",
+     "verdict": "good",
+     "feedback": "The truth, with a number. It is the only thing that helps and it does not sound like it."
+    },
+    {
+     "es": "Das kommt schon.",
+     "en": "It will come.",
+     "verdict": "bad",
+     "feedback": "True and empty. She has heard it three times this month."
+    },
+    {
+     "es": "Bei mir hat es auch gedauert.",
+     "en": "It took a while with me too.",
+     "verdict": "ok",
+     "feedback": "Better than most answers, and it stops one sentence short of being useful."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Alle sind freundlich. Aber ich war noch bei niemandem zu Hause.",
+   "en": "Everybody is friendly. But I have not been to anybody's home yet.",
+   "options": [
+    {
+     "es": "Das ist beides wahr. Das ist das Verwirrende.",
+     "en": "Both of those are true. That is what is confusing.",
+     "verdict": "good",
+     "feedback": "Name the contradiction. She has been thinking she is imagining it."
+    },
+    {
+     "es": "Sie sind halt zurückhaltend.",
+     "en": "They are just reserved.",
+     "verdict": "ok",
+     "feedback": "A word that explains nothing and lets everybody off."
+    },
+    {
+     "es": "Du musst dich einfach mehr melden.",
+     "en": "You just have to get in touch more.",
+     "verdict": "bad",
+     "feedback": "It is also true and as the second sentence it lands as: this is your fault."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Zwei Jahre. Im Ernst?",
+   "en": "Two years. Seriously?",
+   "options": [
+    {
+     "es": "Und dann hört es nie mehr auf.",
+     "en": "And then it never stops again.",
+     "verdict": "good",
+     "feedback": "The second half of the sentence, and it is the half that is worth having."
+    },
+    {
+     "es": "Ja. Tut mir leid.",
+     "en": "Yes. I am sorry.",
+     "verdict": "ok",
+     "feedback": "Honest and it leaves her holding two years and nothing else."
+    },
+    {
+     "es": "Vielleicht geht es bei dir schneller.",
+     "en": "Maybe it will be faster for you.",
+     "verdict": "bad",
+     "feedback": "You do not know that, and she will measure herself against it in June."
+    }
+   ]
+  },
+  {
+   "speaker": "Anna",
+   "es": "Und was hast du gemacht?",
+   "en": "And what did you do?",
+   "options": [
+    {
+     "es": "Ich bin in einen Verein.",
+     "en": "I joined a club.",
+     "verdict": "good",
+     "feedback": "The one answer that actually works, and it is a thing she can do on Wednesday."
+    },
+    {
+     "es": "Ich habe gewartet.",
+     "en": "I waited.",
+     "verdict": "ok",
+     "feedback": "Also true, and it is what happened to you rather than what you did."
+    },
+    {
+     "es": "Ich habe viel gearbeitet.",
+     "en": "I worked a lot.",
+     "verdict": "bad",
+     "feedback": "That is how the two years got to be two years."
+    }
+   ]
+  }
+ ]
+}

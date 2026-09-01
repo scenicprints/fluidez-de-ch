@@ -1189,6 +1189,105 @@
     "genau"
    ],
    "min": 1
+  },
+  {
+   "id": "p-plusquam",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Zwei Schritte zurück",
+   "en": "Two steps back",
+   "trigger": [
+    "damals"
+   ],
+   "min": 1
+  },
+  {
+   "id": "p-ohnezu",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Ohne nachzudenken",
+   "en": "Without thinking",
+   "trigger": [
+    "nachdenken"
+   ],
+   "min": 1
+  },
+  {
+   "id": "g-inzwischen",
+   "when": "great",
+   "state": "cheer",
+   "say": "Inzwischen kannst du das",
+   "en": "By now you can do this",
+   "trigger": [
+    "inzwischen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "b-langeher",
+   "when": "back",
+   "state": "happy",
+   "say": "Das ist lange her",
+   "en": "That was a long time ago",
+   "trigger": [
+    "her"
+   ],
+   "min": 1
+  },
+  {
+   "id": "y-fuenfjahre",
+   "when": "poke",
+   "state": "happy",
+   "say": "Fünf Jahre, gäu",
+   "en": "Five years, eh",
+   "trigger": [
+    "Jahr"
+   ],
+   "min": 1
+  },
+  {
+   "id": "k-nichtsschwierig",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Nichts war schwierig",
+   "en": "Nothing was difficult",
+   "trigger": [
+    "schwierig"
+   ],
+   "min": 1
+  },
+  {
+   "id": "o-sagsanders",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Sag es einfach anders",
+   "en": "Just say it another way",
+   "trigger": [
+    "anders"
+   ],
+   "min": 1
+  },
+  {
+   "id": "s-heftzu",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Heft zu",
+   "en": "Notebook shut",
+   "trigger": [
+    "Heft"
+   ],
+   "min": 1
+  },
+  {
+   "id": "w-niemandwechselt",
+   "when": "welcome",
+   "state": "happy",
+   "say": "Ich wechsle nicht",
+   "en": "I am not switching",
+   "trigger": [
+    "wechseln"
+   ],
+   "min": 1
   }
  ]
 }

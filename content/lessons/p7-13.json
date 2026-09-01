@@ -1,0 +1,373 @@
+{
+ "id": "p7-13",
+ "title": "Von Frau Amrein erzählen",
+ "desc": "Telling somebody about the dead",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "erzählen",
+  "lachen"
+ ],
+ "sn": [
+  {
+   "s": "Anna hat im Februar nach ihr gefragt.",
+   "e": "In February Anna asked about her."
+  },
+  {
+   "s": "Wir sind in ihrer Küche gesessen und sie hat den Plan an dem Kühlschrank angeschaut.",
+   "e": "We were sitting in her kitchen and she was looking at the plan on the fridge."
+  },
+  {
+   "s": "Sie hat gefragt: Wer hat dir das alles beigebracht?",
+   "e": "She asked: who taught you all this?"
+  },
+  {
+   "s": "Ich habe eine Stunde und zwanzig Minuten geredet.",
+   "e": "I talked for an hour and twenty minutes."
+  },
+  {
+   "s": "Ich habe seit sechs Jahren nicht so lange am Stück von einem Menschen geredet.",
+   "e": "For six years I have not talked about one person for that long at a stretch."
+  },
+  {
+   "s": "Ich habe zuerst die Sachen erzählt, die man erzählt.",
+   "e": "First I told the things you tell."
+  },
+  {
+   "s": "Sie hat Rosmarie Amrein geheissen und sie ist mit achtundsiebzig gestorben.",
+   "e": "She was called Rosmarie Amrein and she died at seventy-eight."
+  },
+  {
+   "s": "Sie hat vierzig Jahre in der Wohnung neben mir gewohnt.",
+   "e": "She lived in the flat next to mine for forty years."
+  },
+  {
+   "s": "Ihr Mann hat Walter geheissen und er war Elektriker und er ist vor ihr gestorben.",
+   "e": "Her husband was called Walter and he was an electrician and he died before her."
+  },
+  {
+   "s": "Sie hatten keine Kinder und sie hat eine Schwester gehabt.",
+   "e": "They had no children and she had a sister."
+  },
+  {
+   "s": "Das ist ungefähr, was in der Zeitung gestanden ist, und es ist nichts.",
+   "e": "That is roughly what was in the newspaper, and it is nothing."
+  },
+  {
+   "s": "Man kann einen Menschen so nicht beschreiben und ich habe es sofort gemerkt.",
+   "e": "You cannot describe a person like that and I noticed it immediately."
+  },
+  {
+   "s": "Dann habe ich angefangen, die kleinen Sachen zu erzählen.",
+   "e": "Then I started telling the small things."
+  },
+  {
+   "s": "Ich habe von der Tür erzählt.",
+   "e": "I talked about the door."
+  },
+  {
+   "s": "Sie hat die Wohnungstür jeden Morgen einen Spalt aufgemacht.",
+   "e": "She opened the flat door a crack every morning."
+  },
+  {
+   "s": "Sie hat gesagt, dass die Wohnung Luft braucht.",
+   "e": "She said that the flat needs air."
+  },
+  {
+   "s": "Das war nicht der Grund.",
+   "e": "That was not the reason."
+  },
+  {
+   "s": "Durch einen Spalt hört man das Treppenhaus, und sie hat gehört, wer kommt und geht.",
+   "e": "Through a crack you hear the stairwell, and she heard who came and went."
+  },
+  {
+   "s": "Sie hat gewusst, wann ich das Haus verlasse, seit dem zweiten Tag.",
+   "e": "She knew when I left the house, from the second day."
+  },
+  {
+   "s": "Ich habe von der Suppe erzählt.",
+   "e": "I talked about the soup."
+  },
+  {
+   "s": "Sie hat im Spital jeden Abend über die Suppe geschimpft.",
+   "e": "In the hospital she complained about the soup every evening."
+  },
+  {
+   "s": "Sie hat mir einmal einen Blick zugeworfen, als jemand hereingekommen ist.",
+   "e": "Once she threw me a glance when somebody came in."
+  },
+  {
+   "s": "Sie hat mir zweiundfünfzig Jahre Ehe erzählt und dann über die Suppe geschimpft.",
+   "e": "She told me about fifty-two years of marriage and then complained about the soup."
+  },
+  {
+   "s": "Das war jeden Abend der Schluss und ich habe jedes Mal darüber gelacht.",
+   "e": "That was the end every evening and I laughed at it every time."
+  },
+  {
+   "s": "Ich habe von dem Recycling erzählt.",
+   "e": "I talked about the recycling."
+  },
+  {
+   "s": "Sie hat mir in zwei Jahren ungefähr vierzigmal etwas gesagt.",
+   "e": "In two years she told me something about forty times."
+  },
+  {
+   "s": "Über den Karton, über die Zeiten, über den Sack, über die Schuhe im Gang.",
+   "e": "About the cardboard, about the times, about the bag, about the shoes in the hall."
+  },
+  {
+   "s": "Einmal ist sie mit einem Gebührensack in der Hand vor meiner Tür gestanden.",
+   "e": "Once she stood in front of my door with a charged rubbish bag in her hand."
+  },
+  {
+   "s": "Ich habe zwei Jahre gedacht, dass sie mich nicht mag.",
+   "e": "For two years I thought that she did not like me."
+  },
+  {
+   "s": "Anna hat an dieser Stelle gelacht und dann hat sie aufgehört zu lachen.",
+   "e": "At that point Anna laughed and then she stopped laughing."
+  },
+  {
+   "s": "Sie hat gesagt: Bei mir sagt niemand etwas.",
+   "e": "She said: with me nobody says anything."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss. Das ist schlechter.",
+   "e": "I said: I know. That is worse."
+  },
+  {
+   "s": "Ich habe von dem Foto erzählt, weil es in meiner Küche steht.",
+   "e": "I talked about the photo, because it stands in my kitchen."
+  },
+  {
+   "s": "Sie ist darauf vierzig und sie lacht und sie schaut nicht in die Kamera.",
+   "e": "In it she is forty and she is laughing and she is not looking at the camera."
+  },
+  {
+   "s": "Walter hat es gemacht und sie hat gelacht, weil er etwas gesagt hat.",
+   "e": "Walter took it and she was laughing because he had said something."
+  },
+  {
+   "s": "Man sieht nicht, was er gesagt hat, und man sieht es trotzdem.",
+   "e": "You cannot see what he said, and you can see it anyway."
+  },
+  {
+   "s": "Sie hat es mir hinterlassen, in einem Umschlag, mit einem Datum auf der Rückseite.",
+   "e": "She left it to me, in an envelope, with a date on the back."
+  },
+  {
+   "s": "Anna hat gefragt, ob sie es sehen kann.",
+   "e": "Anna asked whether she could see it."
+  },
+  {
+   "s": "Ich habe gesagt: Ja, das nächste Mal.",
+   "e": "I said: yes, next time."
+  },
+  {
+   "s": "Sie ist zwei Wochen später gekommen und ist zwei Minuten davor gestanden.",
+   "e": "She came two weeks later and stood in front of it for two minutes."
+  },
+  {
+   "s": "Sie hat gesagt: Sie sieht aus wie jemand, den man kennen möchte.",
+   "e": "She said: she looks like somebody you would want to know."
+  },
+  {
+   "s": "Das ist genau der Satz, den Selina vor fünf Jahren gesagt hat.",
+   "e": "That is exactly the sentence Selina said five years ago."
+  },
+  {
+   "s": "Zwei Frauen, die sie nie gekannt haben, sagen denselben Satz über ein Foto.",
+   "e": "Two women who never knew her say the same sentence about one photo."
+  },
+  {
+   "s": "Ich habe an dem Abend gemerkt, was Erzählen macht.",
+   "e": "That evening I noticed what telling does."
+  },
+  {
+   "s": "Es ist nicht Erinnerung.",
+   "e": "It is not memory."
+  },
+  {
+   "s": "Erinnerung ist, wenn man allein an jemanden denkt, und das wird jedes Jahr kleiner.",
+   "e": "Memory is when you think about somebody alone, and that gets smaller every year."
+  },
+  {
+   "s": "Erzählen ist etwas anderes.",
+   "e": "Telling is something else."
+  },
+  {
+   "s": "Anna kennt jetzt eine Frau, die vier Jahre tot ist.",
+   "e": "Anna now knows a woman who has been dead for four years."
+  },
+  {
+   "s": "Sie kennt sie nicht gut und sie kennt sie.",
+   "e": "She does not know her well and she knows her."
+  },
+  {
+   "s": "Sie hat mich im März etwas gefragt, das mir zwei Tage nachgegangen ist.",
+   "e": "In March she asked me something that stayed with me for two days."
+  },
+  {
+   "s": "Sie hat gesagt: Hätte sie mich gemocht?",
+   "e": "She said: would she have liked me?"
+  },
+  {
+   "s": "Ich habe gesagt: Sie hätte dir zuerst gesagt, dass der Karton am Mittwoch ist.",
+   "e": "I said: she would first have told you that the cardboard is on Wednesday."
+  },
+  {
+   "s": "Anna hat gesagt: Das hast du auch gemacht.",
+   "e": "Anna said: you did that too."
+  },
+  {
+   "s": "Ich habe zwei Sekunden nichts gesagt.",
+   "e": "For two seconds I said nothing."
+  },
+  {
+   "s": "Dann habe ich gesagt: Ja. Das habe ich von ihr.",
+   "e": "Then I said: yes. I got that from her."
+  },
+  {
+   "s": "Für so eine Geschichte braucht man eine Zeitform und man braucht sie lange.",
+   "e": "For a story like that you need a tense and you need it for a long time."
+  },
+  {
+   "s": "Man erzählt im Perfekt, wie immer, und man wechselt nie.",
+   "e": "You tell it in the perfect, as always, and you never switch."
+  },
+  {
+   "s": "Sie hat gesagt. Sie hat gemacht. Sie ist gekommen.",
+   "e": "She said. She did. She came."
+  },
+  {
+   "s": "Nur bei war und hatte nimmt man die alte Form, und das ist eine Gewohnheit.",
+   "e": "Only with war and hatte do you take the old form, and that is a habit."
+  },
+  {
+   "s": "Sie war achtundsiebzig. Sie hatte keine Kinder.",
+   "e": "She was seventy-eight. She had no children."
+  },
+  {
+   "s": "Für einen Menschen braucht man Adjektive und die sind hier gefährlich.",
+   "e": "For a person you need adjectives and here they are dangerous."
+  },
+  {
+   "s": "Wenn man sagt, dass jemand nett war, hat man nichts gesagt.",
+   "e": "If you say that somebody was nice, you have said nothing."
+  },
+  {
+   "s": "Man beschreibt hier einen Menschen mit dem, was er gemacht hat.",
+   "e": "Here you describe a person by what they did."
+  },
+  {
+   "s": "Nicht: sie war grosszügig.",
+   "e": "Not: she was generous."
+  },
+  {
+   "s": "Sie hat zweimal im Monat für mich gekocht, ohne dass ich gefragt habe.",
+   "e": "She cooked for me twice a month, without my asking."
+  },
+  {
+   "s": "Sondern: sie hat mir jeden Sonntag Kaffee gemacht, zwei Jahre lang.",
+   "e": "But: she made me coffee every Sunday, for two years."
+  },
+  {
+   "s": "Nicht: sie war streng.",
+   "e": "Not: she was strict."
+  },
+  {
+   "s": "Sondern: sie hat mir vierzigmal gesagt, wohin der Karton kommt.",
+   "e": "But: she told me forty times where the cardboard goes."
+  },
+  {
+   "s": "Das ist keine Regel von der Sprache, das ist eine Regel von diesem Ort.",
+   "e": "That is not a rule of the language, that is a rule of this place."
+  },
+  {
+   "s": "Man sagt hier nicht, wie jemand ist.",
+   "e": "Here you do not say what somebody is like."
+  },
+  {
+   "s": "Man sagt, was er gemacht hat, und der andere rechnet es selber aus.",
+   "e": "You say what they did, and the other person works it out themselves."
+  },
+  {
+   "s": "Am Schluss hat Anna gefragt, ob es mir schwerfällt, davon zu reden.",
+   "e": "At the end Anna asked whether it was hard for me to talk about it."
+  },
+  {
+   "s": "Ich habe gesagt: Nein. Nicht mehr.",
+   "e": "I said: no. Not any more."
+  },
+  {
+   "s": "Das war wahr und es war nicht die ganze Wahrheit.",
+   "e": "That was true and it was not the whole truth."
+  },
+  {
+   "s": "Es fällt mir nicht schwer und ich mache es fast nie.",
+   "e": "It is not hard for me and I almost never do it."
+  },
+  {
+   "s": "Ich habe an dem Abend gemerkt, dass ich in vier Jahren nie eine Stunde von ihr geredet habe.",
+   "e": "That evening I noticed that in four years I had never talked about her for an hour."
+  },
+  {
+   "s": "Nicht mit Selina und nicht mit Vreni.",
+   "e": "Not with Selina and not with Vreni."
+  },
+  {
+   "s": "Mit Vreni reden wir zwei Sätze und dann über etwas anderes.",
+   "e": "With Vreni we talk for two sentences and then about something else."
+  },
+  {
+   "s": "Das ist eine Abmachung und es ist auch eine Art von Feigheit.",
+   "e": "That is an arrangement and it is also a kind of cowardice."
+  },
+  {
+   "s": "Ich bin am Sonntag darauf zu Vreni und habe ihr davon erzählt.",
+   "e": "The following Sunday I went to Vreni and told her about it."
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe jemandem eine Stunde lang von deiner Schwester erzählt.",
+   "e": "I said: I talked to somebody about your sister for an hour."
+  },
+  {
+   "s": "Sie hat lange nichts gesagt.",
+   "e": "She said nothing for a long time."
+  },
+  {
+   "s": "Dann hat sie gefragt: Was hast du erzählt?",
+   "e": "Then she asked: what did you say?"
+  },
+  {
+   "s": "Ich habe die Sachen noch einmal gesagt, kürzer.",
+   "e": "I said the things again, more briefly."
+  },
+  {
+   "s": "Die Tür, die Suppe, der Karton, das Foto.",
+   "e": "The door, the soup, the cardboard, the photo."
+  },
+  {
+   "s": "Sie hat zugehört und einmal genickt und einmal gelacht.",
+   "e": "She listened and nodded once and laughed once."
+  },
+  {
+   "s": "Am Schluss hat sie gesagt: Gut.",
+   "e": "At the end she said: good."
+  },
+  {
+   "s": "Sie hat gesagt: Dann kennt sie jetzt noch jemand.",
+   "e": "She said: then somebody else knows her now."
+  },
+  {
+   "s": "Wir haben seither öfter von ihr geredet, ungefähr jedes zweite Mal.",
+   "e": "Since then we have talked about her more often, about every other time."
+  },
+  {
+   "s": "Das ist mit Abstand das Beste, was ich in diesem Winter gemacht habe.",
+   "e": "That is by far the best thing I did that winter."
+  }
+ ]
+}

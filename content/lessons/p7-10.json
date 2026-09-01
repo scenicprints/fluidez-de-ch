@@ -1,0 +1,322 @@
+{
+ "id": "p7-10",
+ "title": "Wohin kommt der Karton",
+ "desc": "Rubbish, explained again",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "Karton",
+  "Sack",
+  "erklären"
+ ],
+ "sn": [
+  {
+   "s": "Anna hat mich im November dreimal das Gleiche gefragt.",
+   "e": "In November Anna asked me the same thing three times."
+  },
+  {
+   "s": "Beim dritten Mal habe ich ihr eine Zeichnung gemacht.",
+   "e": "The third time I made her a drawing."
+  },
+  {
+   "s": "Auf ein Blatt, im Büro, in der Pause, mit vier Kästchen.",
+   "e": "On a sheet of paper, in the office, in the break, with four boxes."
+  },
+  {
+   "s": "Das war das Beste, was ich in dem ganzen Herbst gemacht habe.",
+   "e": "That was the best thing I did in that whole autumn."
+  },
+  {
+   "s": "Das System ist von aussen unmöglich und von innen sehr einfach.",
+   "e": "The system is impossible from the outside and very simple from the inside."
+  },
+  {
+   "s": "Der Abfall ist die erste Sache, an der hier jeder Fremde scheitert.",
+   "e": "The rubbish is the first thing every foreigner here fails at."
+  },
+  {
+   "s": "Das ist genau der Grund, warum es niemand erklären kann.",
+   "e": "That is exactly why nobody can explain it."
+  },
+  {
+   "s": "Wer es kann, hat vergessen, dass er es einmal nicht konnte.",
+   "e": "Whoever can do it has forgotten that they once could not."
+  },
+  {
+   "s": "Die vier Kästchen waren: Sack, Karton, Glas und Alu.",
+   "e": "The four boxes were: bag, cardboard, glass and aluminium."
+  },
+  {
+   "s": "In den Gebührensack kommt, was übrig bleibt.",
+   "e": "In the charged bag goes what is left over."
+  },
+  {
+   "s": "Der Sack kostet und er kostet viel, und das ist Absicht.",
+   "e": "The bag costs money and it costs a lot, and that is on purpose."
+  },
+  {
+   "s": "Alles, was man trennt, ist gratis.",
+   "e": "Everything you separate is free."
+  },
+  {
+   "s": "Das ist die ganze Idee und sie funktioniert.",
+   "e": "That is the whole idea and it works."
+  },
+  {
+   "s": "Karton kommt gebündelt an die Strasse, an bestimmten Tagen.",
+   "e": "Cardboard goes to the street in a bundle, on particular days."
+  },
+  {
+   "s": "Gebündelt heisst: zusammengebunden, mit einer Schnur.",
+   "e": "Bundled means: tied together, with string."
+  },
+  {
+   "s": "Nicht in einem Sack, nicht in einer Kiste, gebündelt.",
+   "e": "Not in a bag, not in a box, bundled."
+  },
+  {
+   "s": "Das ist der Punkt, an dem alle scheitern, und ich bin auch daran gescheitert.",
+   "e": "That is the point where everybody fails, and I failed at it too."
+  },
+  {
+   "s": "Papier und Karton sind zwei verschiedene Sachen und zwei verschiedene Tage.",
+   "e": "Paper and cardboard are two different things and two different days."
+  },
+  {
+   "s": "Eine Zeitung ist Papier. Eine Schachtel ist Karton.",
+   "e": "A newspaper is paper. A box is cardboard."
+  },
+  {
+   "s": "Warum es zwei Tage sind, weiss ich nach fünf Jahren immer noch nicht.",
+   "e": "Why it is two days I still do not know after five years."
+  },
+  {
+   "s": "Glas kommt auf die Sammelstelle und dort ist es nach Farben getrennt.",
+   "e": "Glass goes to the collection point and there it is separated by colour."
+  },
+  {
+   "s": "Grün, braun und weiss, in drei Löcher.",
+   "e": "Green, brown and white, in three holes."
+  },
+  {
+   "s": "Man darf es nicht am Sonntag hinbringen und nicht nach acht am Abend.",
+   "e": "You are not allowed to take it there on Sunday and not after eight in the evening."
+  },
+  {
+   "s": "Wegen dem Lärm, und daran halten sich alle.",
+   "e": "Because of the noise, and everybody sticks to it."
+  },
+  {
+   "s": "Alu und Blech kommen in einen eigenen Behälter, meistens beim Laden.",
+   "e": "Aluminium and tin go in their own container, usually at the shop."
+  },
+  {
+   "s": "Die Flaschen aus Plastik gehen dorthin zurück, wo man sie gekauft hat.",
+   "e": "The plastic bottles go back to where you bought them."
+  },
+  {
+   "s": "Man wirft hier fast nichts einfach weg.",
+   "e": "Here you simply throw almost nothing away."
+  },
+  {
+   "s": "Das habe ich im ersten Jahr nicht geglaubt und es stimmt.",
+   "e": "I did not believe that in my first year and it is true."
+  },
+  {
+   "s": "Anna hat gefragt, warum niemand das aufschreibt.",
+   "e": "Anna asked why nobody writes that down."
+  },
+  {
+   "s": "Es ist aufgeschrieben.",
+   "e": "It is written down."
+  },
+  {
+   "s": "Es kommt jedes Jahr im Dezember ein Plan von der Gemeinde, mit allen Daten.",
+   "e": "Every December a plan comes from the local council, with all the dates."
+  },
+  {
+   "s": "Er hängt bei den meisten Leuten in der Küche.",
+   "e": "It hangs in most people's kitchens."
+  },
+  {
+   "s": "Ich habe ihn im ersten Jahr weggeworfen, weil ich ihn nicht gelesen habe.",
+   "e": "I threw it away in my first year, because I did not read it."
+  },
+  {
+   "s": "Ich habe ihn weggeworfen und zwar in den falschen Sack.",
+   "e": "I threw it away and in the wrong bag at that."
+  },
+  {
+   "s": "Das ist der beste Witz an meinem ersten Jahr und ich habe ihn Anna erzählt.",
+   "e": "That is the best joke about my first year and I told Anna it."
+  },
+  {
+   "s": "Sie hat gelacht und dann hat sie gefragt, ob das ein Problem war.",
+   "e": "She laughed and then she asked whether that had been a problem."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Der Sack ist am Dienstag stehen geblieben.",
+   "e": "The bag stayed there on the Tuesday."
+  },
+  {
+   "s": "Am Abend hat jemand an meiner Tür geklopft.",
+   "e": "In the evening somebody knocked at my door."
+  },
+  {
+   "s": "Nochmal ist das Wort, das man braucht, wenn man etwas wiederholt.",
+   "e": "Nochmal is the word you need when you repeat something."
+  },
+  {
+   "s": "Sag es nochmal. Ich erkläre es nochmal. Ganz von vorne.",
+   "e": "Say it again. I will explain it again. Right from the beginning."
+  },
+  {
+   "s": "Es ist kurz für noch einmal und alle sagen die kurze Form.",
+   "e": "It is short for noch einmal and everybody says the short form."
+  },
+  {
+   "s": "Man braucht es, ohne dass es unangenehm wird, und das ist eine eigene Kunst.",
+   "e": "You need it without it becoming unpleasant, and that is an art of its own."
+  },
+  {
+   "s": "Ganz einfach ist der zweite Satz, den man dafür hat.",
+   "e": "Ganz einfach is the second sentence you have for it."
+  },
+  {
+   "s": "Man sagt: Ganz einfach, schau.",
+   "e": "You say: quite simple, look."
+  },
+  {
+   "s": "Und dann muss es auch wirklich einfach sein, sonst ist der Satz eine Lüge.",
+   "e": "And then it really has to be simple, or the sentence is a lie."
+  },
+  {
+   "s": "Das ist der Fehler, den ich beim zweiten Mal gemacht habe.",
+   "e": "That is the mistake I made the second time."
+  },
+  {
+   "s": "Ich habe gesagt, dass es ganz einfach ist, und dann habe ich vier Ausnahmen erklärt.",
+   "e": "I said that it was quite simple, and then I explained four exceptions."
+  },
+  {
+   "s": "Beim dritten Mal habe ich die Ausnahmen weggelassen.",
+   "e": "The third time I left the exceptions out."
+  },
+  {
+   "s": "Vier Kästchen, vier Wörter, keine Ausnahme.",
+   "e": "Four boxes, four words, no exception."
+  },
+  {
+   "s": "Die Ausnahmen kommen im zweiten Jahr, wenn man sie braucht.",
+   "e": "The exceptions come in the second year, when you need them."
+  },
+  {
+   "s": "Das ist die ganze Sache beim Erklären und ich habe sie im November gelernt.",
+   "e": "That is the whole business of explaining and I learnt it in November."
+  },
+  {
+   "s": "Man erklärt nicht, was wahr ist.",
+   "e": "You do not explain what is true."
+  },
+  {
+   "s": "Man erklärt, was jemand am Donnerstag braucht.",
+   "e": "You explain what somebody needs on Thursday."
+  },
+  {
+   "s": "Der Rest ist für später und der Rest ist meistens für einen selber.",
+   "e": "The rest is for later and the rest is mostly for yourself."
+  },
+  {
+   "s": "Anna hat die Zeichnung an ihren Kühlschrank gehängt.",
+   "e": "Anna hung the drawing on her fridge."
+  },
+  {
+   "s": "Ich habe sie im Januar dort gesehen, als ich etwas vorbeigebracht habe.",
+   "e": "I saw it there in January, when I dropped something off."
+  },
+  {
+   "s": "Sie ist immer noch dort und sie ist inzwischen an zwei Ecken kaputt.",
+   "e": "It is still there and by now it is torn at two corners."
+  },
+  {
+   "s": "Daneben hängt der Plan von der Gemeinde, den sie nicht weggeworfen hat.",
+   "e": "Next to it hangs the plan from the council, which she did not throw away."
+  },
+  {
+   "s": "Sie hat mir im Februar eine Nachricht geschickt, an einem Dienstagabend.",
+   "e": "In February she sent me a message, on a Tuesday evening."
+  },
+  {
+   "s": "Sie hat geschrieben: Karton ist morgen, oder?",
+   "e": "She wrote: cardboard is tomorrow, isn't it?"
+  },
+  {
+   "s": "Ich habe geschrieben: Ja.",
+   "e": "I wrote: yes."
+  },
+  {
+   "s": "Sie hat geschrieben: Ich habe es zuerst selber nachgeschaut.",
+   "e": "She wrote: I looked it up myself first."
+  },
+  {
+   "s": "Das ist der ganze Fortschritt von vier Monaten, in einem Satz.",
+   "e": "That is the whole progress of four months, in one sentence."
+  },
+  {
+   "s": "Sie hat nicht gefragt, weil sie es nicht weiss.",
+   "e": "She did not ask because she does not know."
+  },
+  {
+   "s": "Sie hat gefragt, weil sie sicher sein wollte.",
+   "e": "She asked because she wanted to be sure."
+  },
+  {
+   "s": "Das ist ein anderer Mensch als der im September.",
+   "e": "That is a different person from the one in September."
+  },
+  {
+   "s": "Ich habe an dem Abend etwas gemacht, das ich lange nicht gemacht habe.",
+   "e": "That evening I did something I had not done for a long time."
+  },
+  {
+   "s": "Ich habe in meinem alten Heft nachgeschaut, in den ersten Seiten.",
+   "e": "I looked in my old notebook, in the first pages."
+  },
+  {
+   "s": "Auf der Seite vom neunzehnten Oktober steht ein Wort.",
+   "e": "On the page for the nineteenth of October there is one word."
+  },
+  {
+   "s": "Gebührensack.",
+   "e": "Gebührensack."
+  },
+  {
+   "s": "Darunter steht: teuer, warum?",
+   "e": "Underneath it says: expensive, why?"
+  },
+  {
+   "s": "Das habe ich vor fünf Jahren geschrieben, an dem Abend nach dem Klopfen.",
+   "e": "I wrote that five years ago, on the evening after the knocking."
+  },
+  {
+   "s": "Ich habe die Frage nie beantwortet und ich könnte es jetzt in einem Satz.",
+   "e": "I never answered the question and now I could do it in one sentence."
+  },
+  {
+   "s": "Ich habe die Antwort nicht dazugeschrieben.",
+   "e": "I did not write the answer in."
+  },
+  {
+   "s": "Ich habe das Heft zugemacht und es zurück in die Schublade gelegt.",
+   "e": "I shut the notebook and put it back in the drawer."
+  },
+  {
+   "s": "Zwei Monate später habe ich es Anna gegeben.",
+   "e": "Two months later I gave it to Anna."
+  }
+ ]
+}

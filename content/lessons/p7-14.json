@@ -1,0 +1,342 @@
+{
+ "id": "p7-14",
+ "title": "Ins Brockenhaus",
+ "desc": "Furnishing another empty flat",
+ "ph": 7,
+ "diff": 8,
+ "wu": [
+  "Stock",
+  "Lampe",
+  "kaufen",
+  "Wohnung",
+  "nehmen",
+  "brauchen",
+  "Sache"
+ ],
+ "sn": [
+  {
+   "s": "Wir sind im Oktober ins Brockenhaus, an einem Samstagmorgen.",
+   "e": "In October we went to the second-hand shop, on a Saturday morning."
+  },
+  {
+   "s": "Es ist das gleiche Haus, in dem ich vor fünf Jahren einen Stuhl gekauft habe.",
+   "e": "It is the same building where I bought a chair five years ago."
+  },
+  {
+   "s": "Es ist gleich geblieben, bis auf die Kasse, die jetzt woanders steht.",
+   "e": "It has stayed the same, except for the till, which is now somewhere else."
+  },
+  {
+   "s": "Ein Brockenhaus ist ein Laden für gebrauchte Sachen.",
+   "e": "A Brockenhaus is a shop for second-hand things."
+  },
+  {
+   "s": "Es gehört meistens einer Organisation und die Sachen sind gespendet.",
+   "e": "It usually belongs to an organisation and the things are donated."
+  },
+  {
+   "s": "Es ist kein Flohmarkt und es ist kein Antiquitätenladen.",
+   "e": "It is not a flea market and it is not an antiques shop."
+  },
+  {
+   "s": "Es ist ein Haus mit vier Stöcken voll mit dem, was Leute nicht mehr brauchen.",
+   "e": "It is a building with four floors full of what people no longer need."
+  },
+  {
+   "s": "Hier wirft niemand etwas weg, was noch jemand brauchen kann.",
+   "e": "Here nobody throws away anything somebody else can still use."
+  },
+  {
+   "s": "Alles ist sauber und alles hat einen Preis auf einem kleinen Kleber.",
+   "e": "Everything is clean and everything has a price on a small sticker."
+  },
+  {
+   "s": "Für Rat braucht man eine Form, die hier ständig vorkommt.",
+   "e": "For advice you need a form that comes up constantly here."
+  },
+  {
+   "s": "An deiner Stelle würde ich.",
+   "e": "In your place I would."
+  },
+  {
+   "s": "Das ist der ganze Satz und er ist die höflichste Art, etwas zu empfehlen.",
+   "e": "That is the whole sentence and it is the politest way of recommending something."
+  },
+  {
+   "s": "An deiner Stelle würde ich das nehmen.",
+   "e": "In your place I would take that."
+  },
+  {
+   "s": "An deiner Stelle würde ich noch warten.",
+   "e": "In your place I would wait a bit."
+  },
+  {
+   "s": "Man sagt nicht: Nimm das.",
+   "e": "You do not say: take that."
+  },
+  {
+   "s": "Man sagt nicht: Das ist besser.",
+   "e": "You do not say: that is better."
+  },
+  {
+   "s": "Man stellt sich neben den anderen und schaut mit ihm auf die Sache.",
+   "e": "You stand next to the other person and look at the thing with them."
+  },
+  {
+   "s": "Die Form ist einfach und man kann sie überall brauchen.",
+   "e": "The form is simple and you can use it everywhere."
+  },
+  {
+   "s": "Ich würde. Du würdest. Er würde. Wir würden.",
+   "e": "I would. You would. He would. We would."
+  },
+  {
+   "s": "Dazu kommt das Verb am Ende und das ist alles.",
+   "e": "Then comes the verb at the end and that is all."
+  },
+  {
+   "s": "Man hört sie hier den ganzen Tag und man merkt sie nicht mehr.",
+   "e": "You hear them all day here and you no longer notice them."
+  },
+  {
+   "s": "Ich würde sagen, das reicht.",
+   "e": "I would say that is enough."
+  },
+  {
+   "s": "Ich würde eher warten.",
+   "e": "I would rather wait."
+  },
+  {
+   "s": "Das würde ich nicht machen.",
+   "e": "I would not do that."
+  },
+  {
+   "s": "Der letzte ist eine sehr deutliche Warnung und er tönt nach nichts.",
+   "e": "The last is a very clear warning and it sounds like nothing."
+  },
+  {
+   "s": "Anna hat im zweiten Stock eine Lampe gefunden.",
+   "e": "On the second floor Anna found a lamp."
+  },
+  {
+   "s": "Sie war gross und aus Messing und sie hat fünfundvierzig Franken gekostet.",
+   "e": "It was big and made of brass and it cost forty-five francs."
+  },
+  {
+   "s": "Sie hat sie zehn Minuten angeschaut und dann hat sie gesagt: Die nehme ich.",
+   "e": "She looked at it for ten minutes and then she said: I will take that."
+  },
+  {
+   "s": "Ich habe gesagt: An deiner Stelle würde ich sie nicht nehmen.",
+   "e": "I said: in your place I would not take it."
+  },
+  {
+   "s": "Sie hat gefragt: Warum nicht?",
+   "e": "She asked: why not?"
+  },
+  {
+   "s": "Ich habe drei Gründe gehabt und ich habe alle drei gesagt.",
+   "e": "I had three reasons and I said all three."
+  },
+  {
+   "s": "Sie ist zu gross für ein Zimmer mit einer Decke von zweieinhalb Metern.",
+   "e": "It is too big for a room with a ceiling of two and a half metres."
+  },
+  {
+   "s": "Sie braucht eine Fassung, die man hier nicht mehr kaufen kann.",
+   "e": "It needs a fitting you cannot buy here any more."
+  },
+  {
+   "s": "Und sie ist die erste Lampe, die sie gesehen hat, im zweiten Stock von vier.",
+   "e": "And it is the first lamp she has seen, on the second floor of four."
+  },
+  {
+   "s": "Der dritte Grund ist der eigentliche und er hat mit Lampen nichts zu tun.",
+   "e": "The third reason is the real one and it has nothing to do with lamps."
+  },
+  {
+   "s": "Ich habe vor fünf Jahren in diesem Haus einen Tisch gekauft.",
+   "e": "Five years ago in this building I bought a table."
+  },
+  {
+   "s": "Ich habe ihn im ersten Stock gesehen und sofort genommen.",
+   "e": "I saw it on the first floor and took it immediately."
+  },
+  {
+   "s": "Er war zu klein und er war das erste Möbel in einer leeren Wohnung.",
+   "e": "It was too small and it was the first piece of furniture in an empty flat."
+  },
+  {
+   "s": "Ich habe ihn drei Jahre gehabt und in drei Jahren hundertmal daran gedacht.",
+   "e": "I had it for three years and in three years thought about it a hundred times."
+  },
+  {
+   "s": "Wenn eine Wohnung leer ist, kauft man das Erste, was man sieht.",
+   "e": "When a flat is empty, you buy the first thing you see."
+  },
+  {
+   "s": "Nicht weil es gut ist, sondern weil die Wohnung leer ist.",
+   "e": "Not because it is good, but because the flat is empty."
+  },
+  {
+   "s": "Das habe ich Anna gesagt und sie hat die Lampe stehen lassen.",
+   "e": "I said that to Anna and she left the lamp there."
+  },
+  {
+   "s": "Wir haben noch zwei Stöcke angeschaut und im vierten hat es sieben Lampen gehabt.",
+   "e": "We looked at two more floors and on the fourth there were seven lamps."
+  },
+  {
+   "s": "Sie hat eine für achtzehn Franken genommen.",
+   "e": "She took one for eighteen francs."
+  },
+  {
+   "s": "Sie ist kleiner und sie ist hässlicher und sie passt.",
+   "e": "It is smaller and it is uglier and it fits."
+  },
+  {
+   "s": "Sie hat auf dem Heimweg gesagt: Die grosse war schöner.",
+   "e": "On the way home she said: the big one was nicer."
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat gesagt: Und du hast recht gehabt.",
+   "e": "She said: and you were right."
+  },
+  {
+   "s": "Beides ist wahr und es ist genau die Sache mit dem Brockenhaus.",
+   "e": "Both are true and that is exactly the thing about the second-hand shop."
+  },
+  {
+   "s": "Wir haben an dem Morgen noch anderes gekauft.",
+   "e": "That morning we bought other things too."
+  },
+  {
+   "s": "Zwei Stühle, ein Regal, einen Teppich, vier Teller und eine Pfanne.",
+   "e": "Two chairs, a shelf, a rug, four plates and a pan."
+  },
+  {
+   "s": "Einen Kühlschrank haben wir nicht gefunden und das war das Einzige, was gefehlt hat.",
+   "e": "We did not find a fridge and that was the only thing missing."
+  },
+  {
+   "s": "Zusammen hundertzwanzig Franken.",
+   "e": "Together a hundred and twenty francs."
+  },
+  {
+   "s": "Es hat drei Stunden gedauert und es ist der Tag, an den ich mich erinnere.",
+   "e": "It took three hours and it is the day I remember."
+  },
+  {
+   "s": "Nicht wegen den Sachen.",
+   "e": "Not because of the things."
+  },
+  {
+   "s": "Ich bin im dritten Stock an einem Stuhl vorbei, der genau der gleiche war wie meiner.",
+   "e": "On the third floor I walked past a chair that was exactly the same as mine."
+  },
+  {
+   "s": "Mein erster, der von Frau Amrein, den sie mir in der ersten Woche gegeben hat.",
+   "e": "My first one, the one from Frau Amrein, that she gave me in my first week."
+  },
+  {
+   "s": "Er steht immer noch bei uns in der Küche und er ist immer noch zu niedrig.",
+   "e": "It is still in our kitchen and it is still too low."
+  },
+  {
+   "s": "Ich bin dort ungefähr eine Minute gestanden.",
+   "e": "I stood there for about a minute."
+  },
+  {
+   "s": "Anna hat gefragt, ob ich ihn nehmen will.",
+   "e": "Anna asked whether I wanted to take it."
+  },
+  {
+   "s": "Ich habe gesagt: Nein. Ich habe schon einen.",
+   "e": "I said: no. I already have one."
+  },
+  {
+   "s": "Das war die richtige Antwort und ich habe zwei Tage darüber nachgedacht.",
+   "e": "That was the right answer and I thought about it for two days."
+  },
+  {
+   "s": "Es gibt Sachen, die einem gehören, weil man sie bekommen hat.",
+   "e": "There are things that belong to you because you were given them."
+  },
+  {
+   "s": "Man kann sie nicht kaufen, auch wenn genau die gleiche im Regal steht.",
+   "e": "You cannot buy them, even if exactly the same one is on the shelf."
+  },
+  {
+   "s": "Beim Hinausgehen hat Anna gefragt, wie viel meine erste Wohnung gekostet hat.",
+   "e": "On the way out Anna asked how much my first flat had cost."
+  },
+  {
+   "s": "Ich habe die Zahl gesagt und sie hat gesagt: Das ist billig.",
+   "e": "I said the number and she said: that is cheap."
+  },
+  {
+   "s": "Ich habe gesagt: Das war vor fünf Jahren.",
+   "e": "I said: that was five years ago."
+  },
+  {
+   "s": "Sie hat gesagt: Trotzdem.",
+   "e": "She said: even so."
+  },
+  {
+   "s": "Sie hat recht und ich habe es nicht gemerkt, bis sie es gesagt hat.",
+   "e": "She is right and I did not notice until she said it."
+  },
+  {
+   "s": "Ich habe fünf Jahre lang über die Preise geschimpft, wie alle hier.",
+   "e": "For five years I complained about the prices, like everybody here."
+  },
+  {
+   "s": "Und ich habe vergessen, dass ich sie inzwischen zahle, ohne zu rechnen.",
+   "e": "And I have forgotten that by now I pay them without doing sums."
+  },
+  {
+   "s": "Das ist keine gute Sache und es ist auch keine schlechte.",
+   "e": "That is not a good thing and it is not a bad thing either."
+  },
+  {
+   "s": "Es heisst nur, dass ich hier lebe und nicht mehr besuche.",
+   "e": "It only means that I live here and am no longer visiting."
+  },
+  {
+   "s": "Am Abend haben wir die Lampe montiert, die hässliche.",
+   "e": "In the evening we put up the lamp, the ugly one."
+  },
+  {
+   "s": "Ich habe sie gehalten und Anna hat geschraubt.",
+   "e": "I held it and Anna screwed it in."
+  },
+  {
+   "s": "Sie hat gesagt: Ich hätte nicht gedacht, dass ich das kann.",
+   "e": "She said: I would not have thought that I could do that."
+  },
+  {
+   "s": "Ich habe gesagt: Das habe ich vor fünf Jahren auch nicht gedacht.",
+   "e": "I said: I did not think that five years ago either."
+  },
+  {
+   "s": "Dann ist das Licht angegangen und die Wohnung hat plötzlich anders ausgesehen.",
+   "e": "Then the light came on and the flat suddenly looked different."
+  },
+  {
+   "s": "Das ist die eigentliche Sache an einer Lampe in einer leeren Wohnung.",
+   "e": "That is the real thing about a lamp in an empty flat."
+  },
+  {
+   "s": "Es geht nicht um Licht.",
+   "e": "It is not about light."
+  },
+  {
+   "s": "Es geht darum, dass man etwas gemacht hat, das bleibt.",
+   "e": "It is about having done something that stays."
+  }
+ ]
+}
