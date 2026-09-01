@@ -1,0 +1,353 @@
+{
+ "id": "p6-15",
+ "title": "Drei Tage",
+ "desc": "Sleep is not part of it",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "geschrieben",
+  "Abend"
+ ],
+ "sn": [
+  {
+   "s": "Es sind offiziell sechs Tage und man redet von drei.",
+   "e": "Officially it is six days and people talk about three."
+  },
+  {
+   "s": "Donnerstag, Freitag, Samstag, Sonntag, Montag, Dienstag.",
+   "e": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday."
+  },
+  {
+   "s": "Am Mittwoch ist Schluss und dazwischen ist alles eins.",
+   "e": "On Wednesday it is over and in between it is all one thing."
+  },
+  {
+   "s": "Ich habe am dritten Tag nicht mehr gewusst, welcher Tag es ist.",
+   "e": "On the third day I no longer knew which day it was."
+  },
+  {
+   "s": "Das ist keine Redensart.",
+   "e": "That is not a figure of speech."
+  },
+  {
+   "s": "Ich bin am Samstagnachmittag aufgewacht und habe gedacht, es ist Freitag.",
+   "e": "I woke up on Saturday afternoon and thought it was Friday."
+  },
+  {
+   "s": "Ich habe eine halbe Stunde gebraucht, um es zu korrigieren.",
+   "e": "It took me half an hour to correct it."
+  },
+  {
+   "s": "Ich habe zwei Leute gefragt und beide haben zuerst überlegen müssen.",
+   "e": "I asked two people and both had to think first."
+  },
+  {
+   "s": "Der eine hat gesagt: Warte. War gestern das Monsterkonzert?",
+   "e": "One of them said: wait. Was the Monsterkonzert yesterday?"
+  },
+  {
+   "s": "Ein Tag hat in dieser Woche keinen Anfang und kein Ende.",
+   "e": "A day in that week has no beginning and no end."
+  },
+  {
+   "s": "Man geht um drei nach Hause und um neun wieder hinaus.",
+   "e": "You go home at three and out again at nine."
+  },
+  {
+   "s": "Manchmal geht man gar nicht nach Hause.",
+   "e": "Sometimes you do not go home at all."
+  },
+  {
+   "s": "Am Samstag habe ich in der Wohnung von Beat auf einem Sofa geschlafen.",
+   "e": "On Saturday I slept on a sofa in Beat's flat."
+  },
+  {
+   "s": "Auf dem anderen Sofa hat Erwin geschlafen, der sechzig ist.",
+   "e": "On the other sofa Erwin slept, who is sixty."
+  },
+  {
+   "s": "Auf dem Kasten sind zwei Instrumente gelegen und ein Teller.",
+   "e": "On the cupboard lay two instruments and a plate."
+  },
+  {
+   "s": "Um sieben hat jemand Kaffee gemacht und dann sind wir wieder los.",
+   "e": "At seven somebody made coffee and then we set off again."
+  },
+  {
+   "s": "Niemand hat geduscht und niemand hat davon geredet.",
+   "e": "Nobody had showered and nobody talked about it."
+  },
+  {
+   "s": "Es gibt ein paar Wörter für diesen Zustand und man braucht sie oft.",
+   "e": "There are a few words for that state and you need them often."
+  },
+  {
+   "s": "Müde ist das normale Wort.",
+   "e": "Müde is the normal word."
+  },
+  {
+   "s": "Kaputt ist stärker und man sagt es über sich selber.",
+   "e": "Kaputt is stronger and you say it about yourself."
+  },
+  {
+   "s": "Ich bin kaputt.",
+   "e": "I am wrecked."
+  },
+  {
+   "s": "Es heisst sonst, dass etwas nicht mehr funktioniert.",
+   "e": "It otherwise means that something no longer works."
+  },
+  {
+   "s": "Über einen Menschen gesagt heisst es fast das Gleiche.",
+   "e": "Said about a person it means almost the same."
+  },
+  {
+   "s": "Fertig ist noch stärker und es hat einen Ton von Humor drin.",
+   "e": "Fertig is stronger still and it has a note of humour in it."
+  },
+  {
+   "s": "Ich bin fertig.",
+   "e": "I am done in."
+  },
+  {
+   "s": "Am Montagabend hat es jemand über sich selber gesagt.",
+   "e": "On Monday evening somebody said it about themselves."
+  },
+  {
+   "s": "Und dann hat er weitergespielt, zwei Stunden.",
+   "e": "And then he went on playing, for two hours."
+  },
+  {
+   "s": "Weiter ist das Wort, das die ganze Woche trägt.",
+   "e": "Weiter is the word that carries the whole week."
+  },
+  {
+   "s": "Weitergehen. Weiterspielen. Weitermachen.",
+   "e": "To go on. To play on. To carry on."
+  },
+  {
+   "s": "Man hängt es an fast jedes Verb an.",
+   "e": "You hang it on almost any verb."
+  },
+  {
+   "s": "Es steht am Anfang vom Verb und es kommt am Schluss vom Satz.",
+   "e": "It sits at the front of the verb and it comes at the end of the sentence."
+  },
+  {
+   "s": "Wir spielen jetzt weiter.",
+   "e": "We are carrying on playing now."
+  },
+  {
+   "s": "Es ist auch das, was jemand sagt, wenn nichts mehr geht.",
+   "e": "It is also what somebody says when nothing works any more."
+  },
+  {
+   "s": "Beat hat es am Montag zweimal gesagt und beide Male leise.",
+   "e": "Beat said it twice on Monday and both times quietly."
+  },
+  {
+   "s": "Er hat gesagt: Weiter. Noch eine Gasse.",
+   "e": "He said: on we go. One more lane."
+  },
+  {
+   "s": "Der Körper macht in dieser Woche komische Sachen.",
+   "e": "The body does strange things in that week."
+  },
+  {
+   "s": "Man ist um vier Uhr am Morgen wach und um zwei am Nachmittag nicht.",
+   "e": "You are awake at four in the morning and not at two in the afternoon."
+  },
+  {
+   "s": "Man isst um elf am Abend und dann bis am nächsten Abend nichts.",
+   "e": "You eat at eleven at night and then nothing until the next evening."
+  },
+  {
+   "s": "Man friert nicht, obwohl es Februar ist und man draussen steht.",
+   "e": "You do not get cold, although it is February and you are standing outside."
+  },
+  {
+   "s": "Am dritten Tag tut alles weh und man merkt es nicht.",
+   "e": "On the third day everything hurts and you do not notice."
+  },
+  {
+   "s": "Ich habe am Mittwoch danach zwei Tage lang Kopfweh gehabt.",
+   "e": "On the Wednesday afterwards I had a headache for two days."
+  },
+  {
+   "s": "Selina hat mich am Sonntag einmal am Umzug gesehen.",
+   "e": "Selina saw me once at the parade on Sunday."
+  },
+  {
+   "s": "Sie ist mit ihrer Mutter an der Strasse gestanden.",
+   "e": "She was standing at the roadside with her mother."
+  },
+  {
+   "s": "Sie hat mir gewinkt und ich habe sie nicht erkannt.",
+   "e": "She waved at me and I did not recognise her."
+  },
+  {
+   "s": "Mit einer Maske sieht man ungefähr einen Meter nach links.",
+   "e": "With a mask you can see about a metre to the left."
+  },
+  {
+   "s": "Ich habe eine Grinde aufgehabt und sehr wenig gesehen.",
+   "e": "I had a mask on and could see very little."
+  },
+  {
+   "s": "Sie hat mir am Abend geschrieben: Ich habe dich gesehen.",
+   "e": "In the evening she wrote to me: I saw you."
+  },
+  {
+   "s": "Sie hat geschrieben: Du bist an mir vorbei und hast nichts gemerkt.",
+   "e": "She wrote: you went past me and noticed nothing."
+  },
+  {
+   "s": "Sie hat noch etwas geschrieben, das mir geblieben ist.",
+   "e": "She wrote something else that has stayed with me."
+  },
+  {
+   "s": "Sie hat geschrieben: Meine Mutter hat gefragt, wer du bist.",
+   "e": "She wrote: my mother asked who you are."
+  },
+  {
+   "s": "Sie hat geschrieben: Ich habe gesagt, der Dritte von links.",
+   "e": "She wrote: I said, the third from the left."
+  },
+  {
+   "s": "Marianne hat gesagt: Aha. Der mit der Trommel.",
+   "e": "Marianne said: aha. The one with the drum."
+  },
+  {
+   "s": "Ich habe an dem Abend ungefähr zehn Minuten darüber nachgedacht.",
+   "e": "I thought about that for about ten minutes that evening."
+  },
+  {
+   "s": "Nicht: der Freund von Selina.",
+   "e": "Not: Selina's boyfriend."
+  },
+  {
+   "s": "Nicht: der, der nicht von hier ist.",
+   "e": "Not: the one who is not from here."
+  },
+  {
+   "s": "Der mit der Trommel.",
+   "e": "The one with the drum."
+  },
+  {
+   "s": "Am Dienstag ist die letzte Nacht und die ist die längste.",
+   "e": "Tuesday is the last night and it is the longest."
+  },
+  {
+   "s": "Alle wissen, dass es am Mittwoch fertig ist.",
+   "e": "Everybody knows that on Wednesday it is over."
+  },
+  {
+   "s": "Es hat etwas von einem Abschied und niemand sagt das laut.",
+   "e": "It has something of a farewell about it and nobody says that out loud."
+  },
+  {
+   "s": "Um Mitternacht ist die Stadt noch voll.",
+   "e": "At midnight the town is still full."
+  },
+  {
+   "s": "Um zwei wird es weniger.",
+   "e": "At two it gets less."
+  },
+  {
+   "s": "Um drei stehen in einer Gasse noch vierzig Leute und drei Musiken.",
+   "e": "At three there are still forty people and three bands in one lane."
+  },
+  {
+   "s": "Sie spielen gegeneinander und dann miteinander und dann hört es auf.",
+   "e": "They play against each other and then with each other and then it stops."
+  },
+  {
+   "s": "Ich bin am Dienstag um halb vier heim.",
+   "e": "I got home at half past three on Tuesday."
+  },
+  {
+   "s": "Ich habe die Schuhe im Gang ausgezogen und bin so ins Bett.",
+   "e": "I took my shoes off in the hall and went to bed like that."
+  },
+  {
+   "s": "Selina hat um sieben den Wecker gestellt und ist zur Arbeit.",
+   "e": "Selina set the alarm for seven and went to work."
+  },
+  {
+   "s": "Sie hat nicht gefragt, wann ich gekommen bin.",
+   "e": "She did not ask when I had got in."
+  },
+  {
+   "s": "Sie hat mir einen Zettel hingelegt.",
+   "e": "She left me a note."
+  },
+  {
+   "s": "Darauf ist gestanden: Trink Wasser. Bis am Abend.",
+   "e": "It said: drink water. See you this evening."
+  },
+  {
+   "s": "Ich habe achtzehn Stunden geschlafen.",
+   "e": "I slept for eighteen hours."
+  },
+  {
+   "s": "Nicht am Stück. Fast am Stück.",
+   "e": "Not in one go. Almost in one go."
+  },
+  {
+   "s": "Am Donnerstag bin ich wieder ins Büro.",
+   "e": "On Thursday I went back to the office."
+  },
+  {
+   "s": "Ich bin mit zwölf Minuten Verspätung gekommen und niemand hat etwas gesagt.",
+   "e": "I arrived twelve minutes late and nobody said anything."
+  },
+  {
+   "s": "Marco hat mich angeschaut und nichts gesagt.",
+   "e": "Marco looked at me and said nothing."
+  },
+  {
+   "s": "Um zehn hat er einen Kaffee auf meinen Tisch gestellt.",
+   "e": "At ten he put a coffee on my desk."
+  },
+  {
+   "s": "Um elf noch einen.",
+   "e": "At eleven another one."
+  },
+  {
+   "s": "Um vier hat er gesagt: Bei mir war es früher gleich.",
+   "e": "At four he said: it used to be the same with me."
+  },
+  {
+   "s": "Er hat gesagt: Und dann kommen Kinder.",
+   "e": "He said: and then children come."
+  },
+  {
+   "s": "Das war das erste Mal in drei Jahren, dass er von seinen Kindern geredet hat.",
+   "e": "That was the first time in three years he had talked about his children."
+  },
+  {
+   "s": "Ich habe nicht nachgefragt.",
+   "e": "I did not ask further."
+  },
+  {
+   "s": "Man fragt nicht zuerst.",
+   "e": "You do not ask first."
+  },
+  {
+   "s": "Ich habe gesagt: Wie alt sind sie?",
+   "e": "I said: how old are they?"
+  },
+  {
+   "s": "Er hat gesagt: Vier und sieben.",
+   "e": "He said: four and seven."
+  },
+  {
+   "s": "Dann hat er weitergearbeitet.",
+   "e": "Then he went on working."
+  },
+  {
+   "s": "Drei Jahre und eine Woche ohne Schlaf.",
+   "e": "Three years and one week without sleep."
+  }
+ ]
+}

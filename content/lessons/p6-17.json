@@ -1,0 +1,331 @@
+{
+ "id": "p6-17",
+ "title": "Ironie, aber freundlich",
+ "desc": "Sarcasm that is not unkind",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "merken",
+  "denken",
+  "ander",
+  "gehen"
+ ],
+ "sn": [
+  {
+   "s": "Ich bin im April zu weit gegangen.",
+   "e": "I went too far in April."
+  },
+  {
+   "s": "Nicht sehr weit. Einen Schritt.",
+   "e": "Not very far. One step."
+  },
+  {
+   "s": "Ein Schritt reicht und man merkt es sofort.",
+   "e": "One step is enough and you notice it immediately."
+  },
+  {
+   "s": "Wir waren bei den Odermatts am Sonntag am Tisch.",
+   "e": "We were at the Odermatts' at the table on Sunday."
+  },
+  {
+   "s": "Marianne hat von einer Nachbarin erzählt, die alles besser weiss.",
+   "e": "Marianne was talking about a neighbour who knows everything better."
+  },
+  {
+   "s": "Sie hat es zwanzig Minuten erzählt und alle haben zugehört.",
+   "e": "She told it for twenty minutes and everybody listened."
+  },
+  {
+   "s": "Ich habe gesagt: Da habt ihr ja Glück, dass ihr sie habt.",
+   "e": "I said: lucky you have her, then."
+  },
+  {
+   "s": "Es war ironisch gemeint und es war nicht unfreundlich gemeint.",
+   "e": "It was meant ironically and it was not meant unkindly."
+  },
+  {
+   "s": "Am Tisch ist es eine Sekunde still gewesen.",
+   "e": "At the table it went quiet for a second."
+  },
+  {
+   "s": "Dann hat Kurt gelacht.",
+   "e": "Then Kurt laughed."
+  },
+  {
+   "s": "Dann haben alle weitergeredet.",
+   "e": "Then everybody carried on talking."
+  },
+  {
+   "s": "Auf dem Heimweg hat Selina es mir erklärt.",
+   "e": "On the way home Selina explained it to me."
+  },
+  {
+   "s": "Sie hat gesagt: Das war fast gut.",
+   "e": "She said: that was almost good."
+  },
+  {
+   "s": "Fast gut ist hier eine ganze Note.",
+   "e": "Almost good is a whole grade here."
+  },
+  {
+   "s": "Sie hat gesagt: Das Problem ist nicht, was du gesagt hast.",
+   "e": "She said: the problem is not what you said."
+  },
+  {
+   "s": "Sie hat gesagt: Das Problem ist, über wen.",
+   "e": "She said: the problem is about whom."
+  },
+  {
+   "s": "Die Nachbarin ist nicht am Tisch gewesen.",
+   "e": "The neighbour was not at the table."
+  },
+  {
+   "s": "Ironie über jemanden, der da ist, ist ein Spass.",
+   "e": "Irony about somebody who is there is a joke."
+  },
+  {
+   "s": "Ironie über jemanden, der nicht da ist, ist etwas anderes.",
+   "e": "Irony about somebody who is not there is something else."
+  },
+  {
+   "s": "Das ist die Linie und sie ist nicht dort, wo ich sie gesucht habe.",
+   "e": "That is the line and it is not where I was looking for it."
+  },
+  {
+   "s": "Ich habe die ganze Zeit auf die Härte geschaut.",
+   "e": "The whole time I had been watching the harshness."
+  },
+  {
+   "s": "Ich habe gedacht: Ein bisschen böse geht, sehr böse geht nicht.",
+   "e": "I thought: a little nasty is fine, very nasty is not."
+  },
+  {
+   "s": "Es geht nicht um die Härte.",
+   "e": "It is not about the harshness."
+  },
+  {
+   "s": "Es geht darum, ob der andere antworten kann.",
+   "e": "It is about whether the other person can answer."
+  },
+  {
+   "s": "Wer da ist, kann zurückgeben.",
+   "e": "Whoever is there can give it back."
+  },
+  {
+   "s": "Wer nicht da ist, kann es nicht, und dann ist es nicht mehr lustig.",
+   "e": "Whoever is not there cannot, and then it is not funny any more."
+  },
+  {
+   "s": "Dann ist es Reden über Leute und das machen sie hier ungern.",
+   "e": "Then it is talking about people and they do not like doing that here."
+  },
+  {
+   "s": "Marianne hat zwanzig Minuten über die Nachbarin geredet.",
+   "e": "Marianne talked about the neighbour for twenty minutes."
+  },
+  {
+   "s": "Das ist etwas anderes und ich habe gefragt, warum.",
+   "e": "That is something else and I asked why."
+  },
+  {
+   "s": "Selina hat gesagt: Sie hat erzählt, was passiert ist.",
+   "e": "Selina said: she was telling what happened."
+  },
+  {
+   "s": "Sie hat gesagt: Sie hat nichts über den Menschen gesagt.",
+   "e": "She said: she said nothing about the person."
+  },
+  {
+   "s": "Ich habe zuerst gedacht, dass das ein Unterschied ohne Bedeutung ist.",
+   "e": "At first I thought that was a difference without a meaning."
+  },
+  {
+   "s": "Es ist der ganze Unterschied.",
+   "e": "It is the whole difference."
+  },
+  {
+   "s": "Sie hat gesagt: Sie hat dreimal geklingelt und ich war im Bad.",
+   "e": "She said: she rang three times and I was in the bath."
+  },
+  {
+   "s": "Sie hat nicht gesagt: Sie ist unmöglich.",
+   "e": "She did not say: she is impossible."
+  },
+  {
+   "s": "Das Erste kann jeder nachprüfen.",
+   "e": "The first anybody can check."
+  },
+  {
+   "s": "Das Zweite ist ein Urteil und ein Urteil gehört einem selber.",
+   "e": "The second is a judgement and a judgement belongs to you alone."
+  },
+  {
+   "s": "Man behält es und man gibt es niemandem.",
+   "e": "You keep it and you give it to nobody."
+  },
+  {
+   "s": "Es gibt noch eine zweite Grenze und die ist einfacher.",
+   "e": "There is a second line and it is easier."
+  },
+  {
+   "s": "Ironie geht nach oben und nicht nach unten.",
+   "e": "Irony goes upwards and not downwards."
+  },
+  {
+   "s": "Über den Chef, über die Stadt, über die Preise: immer.",
+   "e": "About the boss, about the town, about the prices: always."
+  },
+  {
+   "s": "Über jemanden, der weniger hat: nie.",
+   "e": "About somebody who has less: never."
+  },
+  {
+   "s": "Das ist überall so und hier wird es genauer beobachtet.",
+   "e": "That is the same everywhere and here it is watched more closely."
+  },
+  {
+   "s": "Die dritte Grenze habe ich selber gefunden und sie hat mich überrascht.",
+   "e": "I found the third line myself and it surprised me."
+  },
+  {
+   "s": "Ironie über das eigene Land ist erlaubt und zwar allen, die hier wohnen.",
+   "e": "Irony about the country itself is allowed, and to everybody who lives here."
+  },
+  {
+   "s": "Ich habe im Mai einen Satz gesagt über die vier Termine im Jahr.",
+   "e": "In May I said a sentence about the four dates in the year."
+  },
+  {
+   "s": "Man kann nur an vier Terminen umziehen und das finde ich verrückt.",
+   "e": "You can only move on four dates and I find that mad."
+  },
+  {
+   "s": "Ich habe gesagt: Ein Land, das Umziehen nur viermal im Jahr erlaubt.",
+   "e": "I said: a country that allows moving house only four times a year."
+  },
+  {
+   "s": "Timo hat gelacht und hat noch etwas dazugesagt.",
+   "e": "Timo laughed and added something."
+  },
+  {
+   "s": "Fatlum hat auch gelacht.",
+   "e": "Fatlum laughed too."
+  },
+  {
+   "s": "Niemand hat es verteidigt.",
+   "e": "Nobody defended it."
+  },
+  {
+   "s": "Das hat mich mehr überrascht als alles andere in dem Monat.",
+   "e": "That surprised me more than anything else that month."
+  },
+  {
+   "s": "Ich habe gedacht, dass ich mir das noch nicht leisten kann.",
+   "e": "I had thought that I could not afford that yet."
+  },
+  {
+   "s": "Selina hat gesagt: Doch. Seit einer Weile.",
+   "e": "Selina said: doch. For a while now."
+  },
+  {
+   "s": "Sie hat nicht gesagt, seit wann.",
+   "e": "She did not say since when."
+  },
+  {
+   "s": "Ich glaube, dass es die Gugge ist.",
+   "e": "I think that it is the band."
+  },
+  {
+   "s": "Wer im Februar um fünf Uhr mit einer Trommel dasteht, darf schimpfen.",
+   "e": "Whoever stands there with a drum at five in the morning in February may complain."
+  },
+  {
+   "s": "Es gibt einen Satz, mit dem man alles zurücknehmen kann.",
+   "e": "There is a sentence with which you can take anything back."
+  },
+  {
+   "s": "Er heisst: Das war nicht so gemeint.",
+   "e": "It is: that was not meant like that."
+  },
+  {
+   "s": "Man sagt nicht leider davor, weil das aus einem Satz eine Rede macht.",
+   "e": "You do not say leider in front of it, because that turns a sentence into a speech."
+  },
+  {
+   "s": "Er funktioniert und man darf ihn ungefähr einmal im Jahr brauchen.",
+   "e": "It works and you may use it about once a year."
+  },
+  {
+   "s": "Wer ihn zweimal braucht, hat ein anderes Problem.",
+   "e": "Whoever needs it twice has a different problem."
+  },
+  {
+   "s": "Es gibt einen besseren und den habe ich von Fatlum.",
+   "e": "There is a better one and I got it from Fatlum."
+  },
+  {
+   "s": "Man sagt gar nichts.",
+   "e": "You say nothing at all."
+  },
+  {
+   "s": "Man merkt, dass es zu weit war, und man wartet zwei Sekunden.",
+   "e": "You notice that it was too far, and you wait two seconds."
+  },
+  {
+   "s": "Dann redet man über etwas anderes, ruhig.",
+   "e": "Then you talk about something else, calmly."
+  },
+  {
+   "s": "Der andere merkt beides und beides zählt.",
+   "e": "The other person notices both and both count."
+  },
+  {
+   "s": "Er merkt, dass es zu weit war, und er merkt, dass du es gemerkt hast.",
+   "e": "They notice that it was too far, and they notice that you noticed."
+  },
+  {
+   "s": "Das Zweite ist das Wichtige.",
+   "e": "The second is the important one."
+  },
+  {
+   "s": "Eine Entschuldigung macht aus einem kleinen Fehler ein Thema.",
+   "e": "An apology turns a small mistake into a subject."
+  },
+  {
+   "s": "Ein Thema ist grösser als der Fehler war.",
+   "e": "A subject is bigger than the mistake was."
+  },
+  {
+   "s": "Am Sonntag darauf war ich wieder bei den Odermatts.",
+   "e": "The following Sunday I was at the Odermatts' again."
+  },
+  {
+   "s": "Marianne hat wieder von der Nachbarin erzählt.",
+   "e": "Marianne again told a story about the neighbour."
+  },
+  {
+   "s": "Diesmal habe ich nichts gesagt.",
+   "e": "This time I said nothing."
+  },
+  {
+   "s": "Kurt hat mich einmal kurz angeschaut.",
+   "e": "Kurt looked at me briefly once."
+  },
+  {
+   "s": "Nur einmal, ungefähr eine halbe Sekunde.",
+   "e": "Only once, for about half a second."
+  },
+  {
+   "s": "Ich bin ziemlich sicher, dass er nichts gedacht hat.",
+   "e": "I am fairly sure that he thought nothing."
+  },
+  {
+   "s": "Ich bin auch ziemlich sicher, dass er etwas gedacht hat.",
+   "e": "I am also fairly sure that he thought something."
+  },
+  {
+   "s": "Bei diesem Mann weiss man es nie und darum mag ich ihn.",
+   "e": "With that man you never know and that is why I like him."
+  }
+ ]
+}

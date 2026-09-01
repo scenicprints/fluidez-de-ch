@@ -1090,6 +1090,105 @@
     "Radio"
    ],
    "min": 1
+  },
+  {
+   "id": "p-halt",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Halt in die Mitte",
+   "en": "Halt goes in the middle",
+   "trigger": [
+    "halt"
+   ],
+   "min": 1
+  },
+  {
+   "id": "p-eben",
+   "when": "pattern",
+   "state": "cheer",
+   "say": "Eben",
+   "en": "Eben",
+   "trigger": [
+    "eben"
+   ],
+   "min": 1
+  },
+  {
+   "id": "o-gehtso",
+   "when": "poor",
+   "state": "wrong",
+   "say": "Geht so",
+   "en": "So-so",
+   "trigger": [
+    "gehen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "y-trommel",
+   "when": "poke",
+   "state": "happy",
+   "say": "Auf zwei und auf vier",
+   "en": "On two and on four",
+   "trigger": [
+    "Trommel"
+   ],
+   "min": 1
+  },
+  {
+   "id": "y-raeppli",
+   "when": "poke",
+   "state": "happy",
+   "say": "Ich habe Räppli im Fell",
+   "en": "I have confetti in my coat",
+   "trigger": [
+    "Räppli"
+   ],
+   "min": 1
+  },
+  {
+   "id": "b-fasnacht",
+   "when": "back",
+   "state": "happy",
+   "say": "Es war laut hier",
+   "en": "It has been loud here",
+   "trigger": [
+    "laut"
+   ],
+   "min": 1
+  },
+  {
+   "id": "k-tiptop",
+   "when": "goal",
+   "state": "cheer",
+   "say": "Tiptop, würde ich sagen",
+   "en": "Tiptop, I would say",
+   "trigger": [
+    "tiptop"
+   ],
+   "min": 1
+  },
+  {
+   "id": "s-uhrfuenf",
+   "when": "sleep",
+   "state": "sleep",
+   "say": "Nicht um fünf aufstehen",
+   "en": "Do not get up at five",
+   "trigger": [
+    "aufstehen"
+   ],
+   "min": 1
+  },
+  {
+   "id": "g-genauso",
+   "when": "great",
+   "state": "cheer",
+   "say": "Genau so",
+   "en": "Exactly like that",
+   "trigger": [
+    "genau"
+   ],
+   "min": 1
   }
  ]
 }

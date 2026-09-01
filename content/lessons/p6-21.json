@@ -1,0 +1,320 @@
+{
+ "id": "p6-21",
+ "title": "Der Röstigraben",
+ "desc": "A country with a line down it",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "Französisch",
+  "Deutsch",
+  "Seite",
+  "ungefähr",
+  "Land"
+ ],
+ "sn": [
+  {
+   "s": "Wir sind im Mai für ein Wochenende nach Fribourg.",
+   "e": "We went to Fribourg for a weekend in May."
+  },
+  {
+   "s": "Es ist eine Stunde und zwanzig Minuten mit dem Zug.",
+   "e": "It is an hour and twenty minutes by train."
+  },
+  {
+   "s": "Der Zug fährt durch flaches Land und dann wieder über Hügel.",
+   "e": "The train goes through flat country and then over hills again."
+  },
+  {
+   "s": "Es sind ungefähr hundert Kilometer und die halbe Strecke ist zweisprachig.",
+   "e": "It is about a hundred kilometres and half the route is bilingual."
+  },
+  {
+   "s": "Ungefähr in der Mitte ändert sich etwas und man merkt es nicht sofort.",
+   "e": "About halfway something changes and you do not notice it straight away."
+  },
+  {
+   "s": "Die Durchsagen kommen plötzlich zuerst auf Französisch.",
+   "e": "The announcements suddenly come in French first."
+  },
+  {
+   "s": "Die Namen der Stationen haben zwei Formen.",
+   "e": "The names of the stations have two forms."
+  },
+  {
+   "s": "Auf den Schildern steht beides und niemand findet das speziell.",
+   "e": "Both are on the signs and nobody finds that special."
+  },
+  {
+   "s": "Der Name dafür ist Röstigraben.",
+   "e": "The name for it is Röstigraben."
+  },
+  {
+   "s": "Ein Graben ist ein tiefer Schnitt im Boden.",
+   "e": "A Graben is a deep cut in the ground."
+  },
+  {
+   "s": "Rösti ist ein Essen aus Kartoffeln, das man auf der deutschen Seite isst.",
+   "e": "Rösti is a food made of potatoes that you eat on the German side."
+  },
+  {
+   "s": "Zusammen heisst es: die Linie zwischen den zwei Teilen vom Land.",
+   "e": "Together it means: the line between the two parts of the country."
+  },
+  {
+   "s": "Es ist ein Witz und es ist auch keiner.",
+   "e": "It is a joke and it is also not one."
+  },
+  {
+   "s": "Das Land hat vier Sprachen und das steht in jedem Buch.",
+   "e": "The country has four languages and that is in every book."
+  },
+  {
+   "s": "Deutsch, Französisch, Italienisch und Rätoromanisch.",
+   "e": "German, French, Italian and Romansh."
+  },
+  {
+   "s": "Die Zahlen sind sehr ungleich.",
+   "e": "The numbers are very unequal."
+  },
+  {
+   "s": "Ungefähr zwei Drittel reden Deutsch.",
+   "e": "About two thirds speak German."
+  },
+  {
+   "s": "Ungefähr ein Fünftel redet Französisch.",
+   "e": "About a fifth speak French."
+  },
+  {
+   "s": "Italienisch ist kleiner und die vierte ist sehr klein.",
+   "e": "Italian is smaller and the fourth is very small."
+  },
+  {
+   "s": "Man hört sie fast nie und sie steht trotzdem auf den Noten.",
+   "e": "You almost never hear it and it is on the banknotes all the same."
+  },
+  {
+   "s": "In Fribourg ist die Grenze mitten in der Stadt.",
+   "e": "In Fribourg the border runs through the middle of the town."
+  },
+  {
+   "s": "Auf der einen Seite von einem Fluss redet man Französisch.",
+   "e": "On one side of a river they speak French."
+  },
+  {
+   "s": "Auf der anderen redet man Deutsch, und zwar einen eigenen Dialekt.",
+   "e": "On the other they speak German, and a dialect of its own at that."
+  },
+  {
+   "s": "Man geht über eine Brücke und die Sprache wechselt.",
+   "e": "You walk over a bridge and the language changes."
+  },
+  {
+   "s": "Das ist keine Übertreibung, das ist einfach so.",
+   "e": "That is not an exaggeration, that is simply how it is."
+  },
+  {
+   "s": "Ich habe an dem Wochenende die Hälfte der Wörter nicht mehr verstanden.",
+   "e": "That weekend I no longer understood half the words."
+  },
+  {
+   "s": "Ich habe drei Jahre Deutsch gelernt und war eine Stunde weg von zu Hause.",
+   "e": "I had learnt German for three years and was an hour away from home."
+  },
+  {
+   "s": "Im Restaurant hat die Frau zuerst Französisch geredet.",
+   "e": "In the restaurant the woman spoke French first."
+  },
+  {
+   "s": "Dann hat sie gesehen, dass wir nichts verstehen.",
+   "e": "Then she saw that we understood nothing."
+  },
+  {
+   "s": "Dann hat sie auf Deutsch gewechselt, ohne dass jemand gefragt hat.",
+   "e": "Then she switched to German, without anybody asking."
+  },
+  {
+   "s": "Sie hat es gemacht wie jemand, der es zwanzigmal am Tag macht.",
+   "e": "She did it like somebody who does it twenty times a day."
+  },
+  {
+   "s": "Selina hat auf der französischen Seite besser geredet als ich.",
+   "e": "Selina spoke better on the French side than I did."
+  },
+  {
+   "s": "Sie hat in der Schule sieben Jahre Französisch gehabt.",
+   "e": "She had seven years of French at school."
+  },
+  {
+   "s": "Das haben hier fast alle und fast alle sagen, dass sie es nicht können.",
+   "e": "Almost everybody here has that and almost everybody says they cannot do it."
+  },
+  {
+   "s": "Sie können es, ungefähr, und sie brauchen es fast nie.",
+   "e": "They can do it, roughly, and they almost never need it."
+  },
+  {
+   "s": "Sie hat gesagt: Ich rede es einmal im Jahr und dann ist es weg.",
+   "e": "She said: I speak it once a year and then it is gone."
+  },
+  {
+   "s": "Es hat trotzdem für ein Essen gereicht.",
+   "e": "It was enough for a meal all the same."
+  },
+  {
+   "s": "Auf der anderen Seite lernen sie in der Schule Deutsch.",
+   "e": "On the other side they learn German at school."
+  },
+  {
+   "s": "Sie lernen Hochdeutsch und dann kommen sie hierher.",
+   "e": "They learn standard German and then they come here."
+  },
+  {
+   "s": "Und hier redet niemand so, wie es im Buch steht.",
+   "e": "And here nobody talks the way it is in the book."
+  },
+  {
+   "s": "Das ist ein echtes Problem und es ist auch ein Witz im Land.",
+   "e": "That is a real problem and it is also a joke in the country."
+  },
+  {
+   "s": "Ich verstehe es besser als die meisten, aus einem komischen Grund.",
+   "e": "I understand it better than most, for an odd reason."
+  },
+  {
+   "s": "Mit mir reden alle Hochdeutsch.",
+   "e": "Everybody speaks standard German with me."
+  },
+  {
+   "s": "Mit einem Romand reden sie auch Hochdeutsch.",
+   "e": "With somebody from the French part they also speak standard German."
+  },
+  {
+   "s": "Wir sind in der gleichen Lage und das habe ich in Fribourg gemerkt.",
+   "e": "We are in the same position and I noticed that in Fribourg."
+  },
+  {
+   "s": "Es gibt ein paar Wörter, die von der französischen Seite gekommen sind.",
+   "e": "There are a few words that have come from the French side."
+  },
+  {
+   "s": "Ich brauche sie jeden Tag und ich habe zwei Jahre nicht gewusst, woher sie sind.",
+   "e": "I use them every day and for two years I did not know where they come from."
+  },
+  {
+   "s": "Merci ist das erste und es ist überall.",
+   "e": "Merci is the first and it is everywhere."
+  },
+  {
+   "s": "Das Billett, das Trottoir, das Velo, das Portemonnaie.",
+   "e": "The ticket, the pavement, the bicycle, the wallet."
+  },
+  {
+   "s": "Der Coiffeur, das Camion, das Couvert, die Glace.",
+   "e": "The hairdresser, the lorry, the envelope, the ice cream."
+  },
+  {
+   "s": "Alle davon sind hier normale Wörter und in Deutschland sind sie es nicht.",
+   "e": "All of them are normal words here and in Germany they are not."
+  },
+  {
+   "s": "Ein Deutscher hört sofort, dass sie nicht seine sind.",
+   "e": "A German immediately hears that they are not his."
+  },
+  {
+   "s": "Für einen Deutschlerner sind sie das erste, was er falsch macht.",
+   "e": "For somebody learning German they are the first thing they get wrong."
+  },
+  {
+   "s": "Ich habe im ersten Monat einen Bürgersteig gesucht.",
+   "e": "In my first month I was looking for a Bürgersteig."
+  },
+  {
+   "s": "Man hat mich verstanden und man hat mich angeschaut.",
+   "e": "I was understood and I was looked at."
+  },
+  {
+   "s": "Die Sache mit dem Graben ist, dass er weniger tief ist, als er tönt.",
+   "e": "The thing about the Graben is that it is less deep than it sounds."
+  },
+  {
+   "s": "Die zwei Seiten leben nebeneinander und sie streiten fast nie.",
+   "e": "The two sides live side by side and they almost never fight."
+  },
+  {
+   "s": "Sie stimmen bei manchen Sachen anders ab und das sieht man am Sonntagabend.",
+   "e": "They vote differently on some things and you see that on a Sunday evening."
+  },
+  {
+   "s": "Die Karte im Fernsehen ist dann in zwei Farben und alle reden darüber.",
+   "e": "The map on television is then in two colours and everybody talks about it."
+  },
+  {
+   "s": "Am Montag ist es wieder vorbei.",
+   "e": "By Monday it is over again."
+  },
+  {
+   "s": "Es ist ein Land, das zusammengeblieben ist, obwohl nichts dafür spricht.",
+   "e": "It is a country that has stayed together, although nothing argues for it."
+  },
+  {
+   "s": "Vier Sprachen, sechsundzwanzig Kantone, Berge dazwischen.",
+   "e": "Four languages, twenty-six cantons, mountains in between."
+  },
+  {
+   "s": "Ich habe Timo gefragt, warum das funktioniert.",
+   "e": "I asked Timo why that works."
+  },
+  {
+   "s": "Er hat lange überlegt, was er selten macht.",
+   "e": "He thought for a long time, which he rarely does."
+  },
+  {
+   "s": "Dann hat er gesagt: Weil sich niemand in den anderen einmischt.",
+   "e": "Then he said: because nobody interferes with the others."
+  },
+  {
+   "s": "Er hat gesagt: Jeder macht bei sich und lässt die anderen.",
+   "e": "He said: everybody does their own thing and leaves the others alone."
+  },
+  {
+   "s": "Ich habe gesagt: Das tönt kalt.",
+   "e": "I said: that sounds cold."
+  },
+  {
+   "s": "Er hat gesagt: Es funktioniert seit sehr langer Zeit.",
+   "e": "He said: it has worked for a very long time."
+  },
+  {
+   "s": "Das ist die längste Antwort, die er mir je gegeben hat.",
+   "e": "That is the longest answer he has ever given me."
+  },
+  {
+   "s": "Auf dem Rückweg im Zug ist die Durchsage wieder gewechselt.",
+   "e": "On the way back on the train the announcement changed again."
+  },
+  {
+   "s": "Zuerst Deutsch, dann Französisch, dann nur noch Deutsch.",
+   "e": "First German, then French, then only German."
+  },
+  {
+   "s": "Selina hat geschlafen und ich habe aus dem Fenster geschaut.",
+   "e": "Selina was asleep and I looked out of the window."
+  },
+  {
+   "s": "Ich habe gedacht, dass ich das Land immer noch nicht kenne.",
+   "e": "I thought that I still do not know the country."
+  },
+  {
+   "s": "Ich kenne eine Stadt und ein Tal und ein Dorf in Nidwalden.",
+   "e": "I know one town and one valley and one village in Nidwalden."
+  },
+  {
+   "s": "Das ist nach drei Jahren erstaunlich wenig.",
+   "e": "After three years that is astonishingly little."
+  },
+  {
+   "s": "Und es ist ungefähr so viel, wie die meisten hier kennen.",
+   "e": "And it is about as much as most people here know."
+  }
+ ]
+}

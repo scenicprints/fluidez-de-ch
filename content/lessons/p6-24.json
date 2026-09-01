@@ -1,0 +1,322 @@
+{
+ "id": "p6-24",
+ "title": "Abstimmen",
+ "desc": "Voting, four times a year",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "abstimmen",
+  "dürfen",
+  "fragen"
+ ],
+ "sn": [
+  {
+   "s": "Viermal im Jahr liegt auf jedem Küchentisch im Land ein Couvert.",
+   "e": "Four times a year there is an envelope on every kitchen table in the country."
+  },
+  {
+   "s": "Das Couvert ist hier das Wort für den Umschlag.",
+   "e": "Couvert is the word here for an envelope."
+  },
+  {
+   "s": "Es kommt aus dem Französischen und alle sagen es so.",
+   "e": "It comes from French and everybody says it that way."
+  },
+  {
+   "s": "Darin sind ein paar Blätter und ein kleines Heft.",
+   "e": "Inside there are a few sheets and a small booklet."
+  },
+  {
+   "s": "Das Heft erklärt, worüber abgestimmt wird, auf ungefähr vierzig Seiten.",
+   "e": "The booklet explains what is being voted on, over about forty pages."
+  },
+  {
+   "s": "Es erklärt beide Seiten, die dafür und die dagegen.",
+   "e": "It explains both sides, the ones for and the ones against."
+  },
+  {
+   "s": "Es ist nüchtern geschrieben und niemand liest alles davon.",
+   "e": "It is written soberly and nobody reads all of it."
+  },
+  {
+   "s": "Abstimmen heisst: über eine Sache entscheiden.",
+   "e": "Abstimmen means: to decide about a thing."
+  },
+  {
+   "s": "Wählen heisst: Leute in ein Amt schicken.",
+   "e": "Wählen means: to send people into an office."
+  },
+  {
+   "s": "Das ist nicht das Gleiche und man verwechselt es leicht.",
+   "e": "That is not the same and it is easy to confuse."
+  },
+  {
+   "s": "Man wählt ein Parlament und man stimmt über eine Vorlage ab.",
+   "e": "You elect a parliament and you vote on a proposal."
+  },
+  {
+   "s": "Über Sachen wird hier viel öfter abgestimmt als über Leute.",
+   "e": "Things are voted on here far more often than people."
+  },
+  {
+   "s": "Eine Initiative ist ein Vorschlag aus dem Volk.",
+   "e": "An initiative is a proposal from the people."
+  },
+  {
+   "s": "Wer hunderttausend Unterschriften sammelt, kommt damit zur Abstimmung.",
+   "e": "Whoever collects a hundred thousand signatures gets to a vote with it."
+  },
+  {
+   "s": "Hunderttausend ist viel und es ist auch nicht sehr viel.",
+   "e": "A hundred thousand is a lot and it is also not very much."
+  },
+  {
+   "s": "Man sieht die Leute mit den Listen vor jedem grösseren Laden.",
+   "e": "You see the people with the lists in front of every larger shop."
+  },
+  {
+   "s": "Sie fragen freundlich und man kann freundlich nein sagen.",
+   "e": "They ask politely and you can politely say no."
+  },
+  {
+   "s": "Ich sage jedes Mal, dass ich nicht darf, und dann nicken sie.",
+   "e": "Every time I say that I am not allowed to, and then they nod."
+  },
+  {
+   "s": "Ich sage: Ich darf leider nicht.",
+   "e": "I say: unfortunately I am not allowed to."
+  },
+  {
+   "s": "Es ist das einzige Nein, das hier nie erklärt werden muss.",
+   "e": "It is the only no here that never has to be explained."
+  },
+  {
+   "s": "Ich darf nicht abstimmen und ich werde noch lange nicht dürfen.",
+   "e": "I am not allowed to vote and I will not be allowed to for a long time."
+  },
+  {
+   "s": "Dafür und dagegen sind die zwei Wörter, die alles tragen.",
+   "e": "Dafür and dagegen are the two words that carry everything."
+  },
+  {
+   "s": "Ich bin dafür.",
+   "e": "I am for it."
+  },
+  {
+   "s": "Ich bin dagegen.",
+   "e": "I am against it."
+  },
+  {
+   "s": "Ich weiss noch nicht.",
+   "e": "I do not know yet."
+  },
+  {
+   "s": "Der dritte Satz ist hier völlig normal und niemand bohrt nach.",
+   "e": "The third sentence is completely normal here and nobody pushes."
+  },
+  {
+   "s": "Am Sonntagabend kommen die Resultate und dann ist es fertig.",
+   "e": "On Sunday evening the results come and then it is over."
+  },
+  {
+   "s": "Am Montag redet niemand mehr darüber, auch wenn es knapp war.",
+   "e": "On Monday nobody talks about it any more, even if it was close."
+  },
+  {
+   "s": "Das ist der Teil, den ich am wenigsten erwartet habe.",
+   "e": "That is the part I expected least."
+  },
+  {
+   "s": "Zu Hause redet man nach einer Wahl monatelang weiter.",
+   "e": "At home people go on talking for months after an election."
+  },
+  {
+   "s": "Hier ist es am Dienstag ein Zustand und kein Thema.",
+   "e": "Here on Tuesday it is a state of affairs and not a subject."
+  },
+  {
+   "s": "Die Beteiligung liegt oft bei ungefähr fünfundvierzig Prozent.",
+   "e": "The turnout is often at about forty-five per cent."
+  },
+  {
+   "s": "Das ist wenig und alle finden es zu wenig und es ändert sich nicht.",
+   "e": "That is low and everybody finds it too low and it does not change."
+  },
+  {
+   "s": "Ich habe Marco gefragt, ob er immer abstimmt.",
+   "e": "I asked Marco whether he always votes."
+  },
+  {
+   "s": "Er hat gesagt: Meistens.",
+   "e": "He said: mostly."
+  },
+  {
+   "s": "Er hat gesagt: Bei manchen Sachen finde ich, dass ich zu wenig weiss.",
+   "e": "He said: with some things I find that I know too little."
+  },
+  {
+   "s": "Er hat gesagt: Dann lasse ich es.",
+   "e": "He said: then I leave it."
+  },
+  {
+   "s": "Er hat das ohne schlechtes Gewissen gesagt und es hat mich überrascht.",
+   "e": "He said that without a bad conscience and it surprised me."
+  },
+  {
+   "s": "Selina macht es anders und sie macht es am Küchentisch, laut.",
+   "e": "Selina does it differently and she does it at the kitchen table, out loud."
+  },
+  {
+   "s": "Sie liest die zwei Seiten im Heft und sie redet dabei mit sich.",
+   "e": "She reads the two pages in the booklet and talks to herself while she does."
+  },
+  {
+   "s": "Dann macht sie ein Kreuz und dann ist es fertig.",
+   "e": "Then she makes a cross and then it is done."
+  },
+  {
+   "s": "Sie hat mich zweimal gefragt, was ich davon halte.",
+   "e": "She has twice asked me what I think about it."
+  },
+  {
+   "s": "Das erste Mal habe ich gesagt, dass ich nichts sagen sollte.",
+   "e": "The first time I said that I should not say anything."
+  },
+  {
+   "s": "Sie hat gesagt: Warum nicht?",
+   "e": "She said: why not?"
+  },
+  {
+   "s": "Ich habe gesagt: Weil ich nicht abstimmen darf.",
+   "e": "I said: because I am not allowed to vote."
+  },
+  {
+   "s": "Sie hat gesagt: Du wohnst hier. Es betrifft dich auch.",
+   "e": "She said: you live here. It concerns you too."
+  },
+  {
+   "s": "Sie hat recht und es ist trotzdem komisch.",
+   "e": "She is right and it is still odd."
+  },
+  {
+   "s": "Ich lebe seit drei Jahren in einem Land, in dem ich nichts entscheiden kann.",
+   "e": "I have lived for three years in a country where I cannot decide anything."
+  },
+  {
+   "s": "Das ist normal für sehr viele Leute hier.",
+   "e": "That is normal for a great many people here."
+  },
+  {
+   "s": "Ungefähr ein Viertel von den Erwachsenen darf nicht abstimmen.",
+   "e": "About a quarter of the adults are not allowed to vote."
+  },
+  {
+   "s": "Ein Viertel ist eine sehr grosse Zahl für ein Land, das über alles abstimmt.",
+   "e": "A quarter is a very large number for a country that votes on everything."
+  },
+  {
+   "s": "Nuno ist achtzehn Jahre hier und darf nicht.",
+   "e": "Nuno has been here eighteen years and is not allowed to."
+  },
+  {
+   "s": "Er redet nie darüber und ich habe ihn einmal gefragt.",
+   "e": "He never talks about it and I asked him once."
+  },
+  {
+   "s": "Er hat gesagt: Meine Kinder dürfen. Das reicht mir.",
+   "e": "He said: my children are allowed to. That is enough for me."
+  },
+  {
+   "s": "Er hat es schnell gesagt und dann über etwas anderes geredet.",
+   "e": "He said it quickly and then talked about something else."
+  },
+  {
+   "s": "Ich glaube nicht, dass es ihm reicht.",
+   "e": "I do not think that it is enough for him."
+  },
+  {
+   "s": "Fatlum darf und er sagt, dass er jedes Mal abstimmt.",
+   "e": "Fatlum is allowed to and he says that he votes every time."
+  },
+  {
+   "s": "Er hat gesagt: Ich habe zwölf Jahre darauf gewartet.",
+   "e": "He said: I waited twelve years for it."
+  },
+  {
+   "s": "Er hat gesagt: Ich lasse keine aus.",
+   "e": "He said: I do not miss a single one."
+  },
+  {
+   "s": "Er hat gesagt: Auch die dummen nicht.",
+   "e": "He said: not even the stupid ones."
+  },
+  {
+   "s": "Es gibt einen Satz, der an diesen Sonntagen oft fällt.",
+   "e": "There is a sentence that is often said on those Sundays."
+  },
+  {
+   "s": "Man sagt: Das Volk hat entschieden.",
+   "e": "People say: the people have decided."
+  },
+  {
+   "s": "Man sagt es auch, wenn man verloren hat, und man sagt es ruhig.",
+   "e": "You say it even when you have lost, and you say it calmly."
+  },
+  {
+   "s": "Das ist die eigentliche Sache an dem ganzen System.",
+   "e": "That is the real thing about the whole system."
+  },
+  {
+   "s": "Es ist nicht, dass alle mitentscheiden.",
+   "e": "It is not that everybody decides."
+  },
+  {
+   "s": "Es ist, dass alle das Resultat annehmen, auch wenn es knapp ist.",
+   "e": "It is that everybody accepts the result, even when it is close."
+  },
+  {
+   "s": "Im Februar ist eine Sache mit einem Prozent Unterschied entschieden worden.",
+   "e": "In February something was decided by one per cent."
+  },
+  {
+   "s": "Am Montag im Büro hat niemand ein Wort darüber gesagt.",
+   "e": "On Monday in the office nobody said a word about it."
+  },
+  {
+   "s": "Ich habe zwei Leute gefragt, wie sie gestimmt haben.",
+   "e": "I asked two people how they had voted."
+  },
+  {
+   "s": "Beide haben es mir gesagt und beide haben nicht gefragt, was ich denke.",
+   "e": "Both told me and neither asked what I think."
+  },
+  {
+   "s": "Das war die höflichste Antwort auf eine Frage, die ich nicht hätte stellen sollen.",
+   "e": "That was the politest answer to a question I should not have asked."
+  },
+  {
+   "s": "Man fragt hier nicht, wie jemand gestimmt hat.",
+   "e": "You do not ask here how somebody voted."
+  },
+  {
+   "s": "Das habe ich erst danach gelernt und niemand hat es mir gesagt.",
+   "e": "I only learnt that afterwards and nobody told me."
+  },
+  {
+   "s": "Selina hat gelacht, als ich es ihr erzählt habe.",
+   "e": "Selina laughed when I told her about it."
+  },
+  {
+   "s": "Sie hat gesagt: Und, haben sie geantwortet?",
+   "e": "She said: and, did they answer?"
+  },
+  {
+   "s": "Ich habe gesagt: Beide.",
+   "e": "I said: both of them."
+  },
+  {
+   "s": "Sie hat gesagt: Dann mögen sie dich.",
+   "e": "She said: then they like you."
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "id": "p6-06",
+ "title": "Sie nehmen dich auf den Arm",
+ "desc": "Being teased on purpose",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "Spass"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe im Oktober vier Minuten lang etwas geglaubt.",
+   "e": "In October I believed something for four minutes."
+  },
+  {
+   "s": "Es war beim Hock, nach der Probe, an einem langen Tisch.",
+   "e": "It was at the Hock, after the rehearsal, at a long table."
+  },
+  {
+   "s": "Beat hat erzählt, dass die Stadt im Winter die Brücke abbaut.",
+   "e": "Beat was saying that the town takes the bridge down in winter."
+  },
+  {
+   "s": "Er hat gesagt: Wegen dem Eis.",
+   "e": "He said: because of the ice."
+  },
+  {
+   "s": "Er hat gesagt: Jedes Jahr im November, Stück für Stück.",
+   "e": "He said: every year in November, piece by piece."
+  },
+  {
+   "s": "Er hat gesagt: Und im März bauen sie sie wieder auf.",
+   "e": "He said: and in March they put it back up."
+  },
+  {
+   "s": "Fatlum hat genickt und weitergegessen.",
+   "e": "Fatlum nodded and went on eating."
+  },
+  {
+   "s": "Ein Mann am anderen Ende hat gesagt: Das dauert drei Wochen.",
+   "e": "A man at the other end said: it takes three weeks."
+  },
+  {
+   "s": "Ich habe gefragt: Und wie kommt man dann über den Fluss?",
+   "e": "I asked: and how do you get across the river then?"
+  },
+  {
+   "s": "Beat hat gesagt: Man geht aussen herum.",
+   "e": "Beat said: you go round the outside."
+  },
+  {
+   "s": "Ich habe gefragt, ob das nicht sehr teuer ist.",
+   "e": "I asked whether that was not very expensive."
+  },
+  {
+   "s": "Da hat der Tisch angefangen zu lachen.",
+   "e": "That was when the table started laughing."
+  },
+  {
+   "s": "Vier Minuten.",
+   "e": "Four minutes."
+  },
+  {
+   "s": "Die Brücke ist aus Holz und sie steht seit sechshundert Jahren.",
+   "e": "The bridge is made of wood and it has stood for six hundred years."
+  },
+  {
+   "s": "Sie wird nicht abgebaut und sie ist noch nie abgebaut worden.",
+   "e": "It is not taken down and it has never been taken down."
+  },
+  {
+   "s": "Jemand nimmt dich auf den Arm.",
+   "e": "Somebody is taking you for a ride."
+  },
+  {
+   "s": "Das ist die Redewendung dafür.",
+   "e": "That is the idiom for it."
+  },
+  {
+   "s": "Sie heisst: jemand macht mit dir einen Spass und du merkst es nicht.",
+   "e": "It means: somebody is having you on and you do not notice."
+  },
+  {
+   "s": "Man sagt auch: jemand verkohlt dich.",
+   "e": "People also say: somebody is pulling your leg."
+  },
+  {
+   "s": "Man sagt am häufigsten: das war doch nur ein Spass.",
+   "e": "The commonest is: that was only a joke."
+  },
+  {
+   "s": "Das Problem ist nicht die Sprache.",
+   "e": "The problem is not the language."
+  },
+  {
+   "s": "Ich habe jedes Wort verstanden.",
+   "e": "I understood every word."
+  },
+  {
+   "s": "Das Problem ist das Gesicht.",
+   "e": "The problem is the face."
+  },
+  {
+   "s": "Es ist keine Maske und es ist trotzdem eine.",
+   "e": "It is not a mask and it is one all the same."
+  },
+  {
+   "s": "Hier macht man beim Spass kein Gesicht.",
+   "e": "Here you make no face when you make a joke."
+  },
+  {
+   "s": "Zu Hause hebt jemand die Augenbrauen oder redet schneller.",
+   "e": "At home somebody raises their eyebrows or talks faster."
+  },
+  {
+   "s": "Hier passiert nichts.",
+   "e": "Here nothing happens."
+  },
+  {
+   "s": "Der Satz kommt in der gleichen Lautstärke wie alles andere.",
+   "e": "The sentence comes at the same volume as everything else."
+  },
+  {
+   "s": "Der Mensch schaut dabei auf sein Glas.",
+   "e": "The person is looking at their glass while they say it."
+  },
+  {
+   "s": "Das ist genau der Punkt an dieser Art von Humor.",
+   "e": "That is exactly the point of this kind of humour."
+  },
+  {
+   "s": "Wenn man es merkt, ist es kaputt.",
+   "e": "If you notice it, it is ruined."
+  },
+  {
+   "s": "Der Spass ist die Zeit dazwischen.",
+   "e": "The joke is the time in between."
+  },
+  {
+   "s": "Die vier Minuten sind der Witz und nicht die Brücke.",
+   "e": "The four minutes are the joke and not the bridge."
+  },
+  {
+   "s": "Ich bin an dem Abend zuerst rot geworden.",
+   "e": "That evening I went red at first."
+  },
+  {
+   "s": "Man fühlt sich für zwei Sekunden sehr dumm.",
+   "e": "You feel very stupid for two seconds."
+  },
+  {
+   "s": "Und in diesen zwei Sekunden entscheidet sich alles.",
+   "e": "And in those two seconds everything is decided."
+  },
+  {
+   "s": "Man kann beleidigt sein.",
+   "e": "You can be offended."
+  },
+  {
+   "s": "Man kann erklären, warum man es geglaubt hat.",
+   "e": "You can explain why you believed it."
+  },
+  {
+   "s": "Beides ist die falsche Antwort.",
+   "e": "Both are the wrong answer."
+  },
+  {
+   "s": "Die richtige ist mitlachen und ein bisschen schimpfen.",
+   "e": "The right one is to laugh along and grumble a little."
+  },
+  {
+   "s": "Ich habe gesagt: Ihr seid furchtbar.",
+   "e": "I said: you are terrible."
+  },
+  {
+   "s": "Das war zufällig richtig.",
+   "e": "That happened to be right."
+  },
+  {
+   "s": "Beat hat mir auf die Schulter geschlagen und Bier bestellt.",
+   "e": "Beat slapped me on the shoulder and ordered beer."
+  },
+  {
+   "s": "Später hat mir Fatlum etwas erklärt, das ich nicht gewusst habe.",
+   "e": "Later Fatlum explained something to me that I had not known."
+  },
+  {
+   "s": "Er hat gesagt: Weisst du, warum sie das machen?",
+   "e": "He said: do you know why they do that?"
+  },
+  {
+   "s": "Er hat gesagt: Sie machen das nicht mit jedem.",
+   "e": "He said: they do not do that with everybody."
+  },
+  {
+   "s": "Er hat gesagt: Mit einem Gast machen sie das nie.",
+   "e": "He said: with a guest they never do that."
+  },
+  {
+   "s": "Das ist die Sache, die man von aussen falsch liest.",
+   "e": "That is the thing you read wrongly from the outside."
+  },
+  {
+   "s": "Es tönt nach Auslachen und es ist das Gegenteil.",
+   "e": "It sounds like being laughed at and it is the opposite."
+  },
+  {
+   "s": "Man nimmt niemanden auf den Arm, den man nicht kennt.",
+   "e": "You do not take somebody for a ride whom you do not know."
+  },
+  {
+   "s": "Man nimmt niemanden auf den Arm, der es nicht aushält.",
+   "e": "You do not take somebody for a ride who cannot take it."
+  },
+  {
+   "s": "Wenn sie es machen, sagen sie: du gehörst dazu.",
+   "e": "When they do it, they are saying: you belong."
+  },
+  {
+   "s": "Sie sagen es nur nicht mit diesen Wörtern.",
+   "e": "They just do not say it with those words."
+  },
+  {
+   "s": "Sie sagen hier fast nichts mit den Wörtern, mit denen man es sagen würde.",
+   "e": "They say almost nothing here with the words you would say it with."
+  },
+  {
+   "s": "Ein Lob geht an jemand anderen und die Person hört zu.",
+   "e": "A compliment goes to somebody else and the person listens in."
+  },
+  {
+   "s": "Ein Willkommen kommt als eine erfundene Brücke.",
+   "e": "A welcome comes as an invented bridge."
+  },
+  {
+   "s": "Ein Es geht mir schlecht kommt als: komm am Samstag um sieben.",
+   "e": "An I am not doing well comes as: come on Saturday at seven."
+  },
+  {
+   "s": "Es hat Regeln dafür und ich habe sie langsam gelernt.",
+   "e": "There are rules for it and I learnt them slowly."
+  },
+  {
+   "s": "Es geht nie um etwas, das man nicht ändern kann.",
+   "e": "It is never about something you cannot change."
+  },
+  {
+   "s": "Niemand macht einen Spass über den Akzent oder den Namen.",
+   "e": "Nobody makes a joke about the accent or the name."
+  },
+  {
+   "s": "Fatlum hat gesagt, dass er das in der Schule anders erlebt hat.",
+   "e": "Fatlum said that he experienced it differently at school."
+  },
+  {
+   "s": "Er hat gesagt: Bei Erwachsenen ist es besser.",
+   "e": "He said: with adults it is better."
+  },
+  {
+   "s": "Er hat gesagt: Meistens.",
+   "e": "He said: mostly."
+  },
+  {
+   "s": "Es geht auch nie um etwas Frisches.",
+   "e": "It is also never about something fresh."
+  },
+  {
+   "s": "Im Februar hat niemand einen Spass mit mir gemacht.",
+   "e": "In February nobody made a joke with me."
+  },
+  {
+   "s": "Nicht einen, in fünf Wochen.",
+   "e": "Not one, in five weeks."
+  },
+  {
+   "s": "Das ist mir erst im Sommer aufgefallen.",
+   "e": "That only occurred to me in the summer."
+  },
+  {
+   "s": "Sie haben gewartet, bis es wieder ging.",
+   "e": "They waited until it was all right again."
+  },
+  {
+   "s": "Und im Juli hat Beat wieder angefangen.",
+   "e": "And in July Beat started again."
+  },
+  {
+   "s": "Das war ein Zeichen und ich habe es sofort verstanden.",
+   "e": "That was a signal and I understood it immediately."
+  },
+  {
+   "s": "Es gibt zwei Sätze, die man kennen sollte.",
+   "e": "There are two sentences you should know."
+  },
+  {
+   "s": "Der erste ist: Jetzt nimmst du mich auf den Arm.",
+   "e": "The first is: now you are having me on."
+  },
+  {
+   "s": "Den sagt man mitten in der Geschichte und dann lachen alle.",
+   "e": "You say that in the middle of the story and then everybody laughs."
+  },
+  {
+   "s": "Der zweite ist: Das glaube ich dir nicht.",
+   "e": "The second is: I do not believe you."
+  },
+  {
+   "s": "Den sagt man freundlich und er ist die beste Verteidigung.",
+   "e": "You say that in a friendly way and it is the best defence."
+  },
+  {
+   "s": "Ich brauche ihn seither ungefähr einmal in der Woche.",
+   "e": "I have used it about once a week since."
+  },
+  {
+   "s": "Ungefähr die Hälfte davon ist falsch und dann war die Geschichte wahr.",
+   "e": "About half of them are wrong and then the story was true."
+  },
+  {
+   "s": "Das ist auch ein Spass, nur umgekehrt.",
+   "e": "That is a joke as well, only the other way round."
+  },
+  {
+   "s": "Timo hat mir im November erzählt, dass in Stans eine Statue steht.",
+   "e": "In November Timo told me that there is a statue in Stans."
+  },
+  {
+   "s": "Von einem Mann, der Speere in seinen eigenen Körper gezogen hat.",
+   "e": "Of a man who pulled spears into his own body."
+  },
+  {
+   "s": "Ich habe gesagt: Das glaube ich dir nicht.",
+   "e": "I said: I do not believe you."
+  },
+  {
+   "s": "Er hat gesagt: Doch.",
+   "e": "He said: doch."
+  },
+  {
+   "s": "Die Statue steht dort und ich habe sie zwei Jahre vorher gesehen.",
+   "e": "The statue is there and I had seen it two years before."
+  },
+  {
+   "s": "Ich habe sie einfach vergessen gehabt.",
+   "e": "I had simply forgotten it."
+  },
+  {
+   "s": "Am Tisch haben alle gelacht und diesmal nicht über die Geschichte.",
+   "e": "At the table everybody laughed and this time not at the story."
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "id": "p6-09",
+ "title": "Reklamieren",
+ "desc": "Complaining as a social form",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "reklamieren",
+  "beklagen",
+  "Zug",
+  "Minute"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe mich im April über vier Minuten beklagt.",
+   "e": "In April I complained about four minutes."
+  },
+  {
+   "s": "Vier Minuten Verspätung, an einem Dienstagmorgen.",
+   "e": "Four minutes' delay, on a Tuesday morning."
+  },
+  {
+   "s": "Ich habe es ernst gemeint und das ist der Punkt.",
+   "e": "I meant it seriously and that is the point."
+  },
+  {
+   "s": "Im ersten Jahr habe ich über zwanzig Minuten gelacht.",
+   "e": "In my first year I laughed at twenty minutes."
+  },
+  {
+   "s": "Zu Hause ist ein Zug mit zwanzig Minuten ein pünktlicher Zug.",
+   "e": "At home a train twenty minutes late is a punctual train."
+  },
+  {
+   "s": "Jetzt stehe ich am Perron und schaue auf die Tafel und ärgere mich.",
+   "e": "Now I stand on the platform and look at the board and get annoyed."
+  },
+  {
+   "s": "Vier Minuten.",
+   "e": "Four minutes."
+  },
+  {
+   "s": "Der Mann neben mir hat auch geschaut.",
+   "e": "The man next to me was looking too."
+  },
+  {
+   "s": "Er hat gesagt: Das ist doch nicht möglich.",
+   "e": "He said: that is simply not possible."
+  },
+  {
+   "s": "Ich habe gesagt: Und am Montag war es auch schon.",
+   "e": "I said: and on Monday it happened too."
+  },
+  {
+   "s": "Er hat gesagt: Eben.",
+   "e": "He said: eben."
+  },
+  {
+   "s": "Wir haben uns nicht gekannt.",
+   "e": "We did not know each other."
+  },
+  {
+   "s": "Wir haben zwei Minuten zusammen geschimpft und dann ist der Zug gekommen.",
+   "e": "We grumbled together for two minutes and then the train came."
+  },
+  {
+   "s": "Im Zug haben wir uns nicht mehr angeschaut.",
+   "e": "In the train we did not look at each other again."
+  },
+  {
+   "s": "Das ist eine ganze soziale Form und niemand nennt sie so.",
+   "e": "That is a whole social form and nobody calls it that."
+  },
+  {
+   "s": "Reklamieren heisst eigentlich: sich offiziell beschweren.",
+   "e": "Reklamieren actually means: to make an official complaint."
+  },
+  {
+   "s": "Man reklamiert eine Rechnung, die falsch ist.",
+   "e": "You complain about a bill that is wrong."
+  },
+  {
+   "s": "Man reklamiert beim Vermieter, wenn die Heizung nicht geht.",
+   "e": "You complain to the landlord when the heating does not work."
+  },
+  {
+   "s": "Es ist ein sachliches Wort für eine sachliche Sache.",
+   "e": "It is a matter-of-fact word for a matter-of-fact thing."
+  },
+  {
+   "s": "Daneben gibt es das andere Reklamieren und das ist ein Gespräch.",
+   "e": "Beside it there is the other complaining and that is a conversation."
+  },
+  {
+   "s": "Es hat drei Themen und immer die gleichen drei.",
+   "e": "It has three subjects and always the same three."
+  },
+  {
+   "s": "Die Züge, die Preise und Zürich.",
+   "e": "The trains, the prices and Zurich."
+  },
+  {
+   "s": "Man kann mit jedem Menschen im Land über diese drei reden.",
+   "e": "You can talk to anybody in the country about those three."
+  },
+  {
+   "s": "Man braucht ihn nicht zu kennen und man muss nicht recht haben.",
+   "e": "You do not need to know them and you do not have to be right."
+  },
+  {
+   "s": "Es hat Regeln und die erste ist die wichtigste.",
+   "e": "It has rules and the first is the most important."
+  },
+  {
+   "s": "Es ist nie ernst.",
+   "e": "It is never serious."
+  },
+  {
+   "s": "Ein Land, in dem die Züge auf die Minute fahren, beklagt sich über Minuten.",
+   "e": "A country where the trains run to the minute complains about minutes."
+  },
+  {
+   "s": "Das ist kein Widerspruch, das ist der ganze Witz.",
+   "e": "That is not a contradiction, that is the whole joke."
+  },
+  {
+   "s": "Alle wissen, dass es gut funktioniert.",
+   "e": "Everybody knows that it works well."
+  },
+  {
+   "s": "Genau darum kann man sich über vier Minuten aufregen.",
+   "e": "That is exactly why you can get worked up about four minutes."
+  },
+  {
+   "s": "Wenn wirklich etwas kaputt wäre, würde niemand darüber reden.",
+   "e": "If something were really broken, nobody would talk about it."
+  },
+  {
+   "s": "Die zweite Regel ist, dass man sich nicht bei jemandem beklagt.",
+   "e": "The second rule is that you do not complain to somebody."
+  },
+  {
+   "s": "Man beklagt sich mit jemandem.",
+   "e": "You complain with somebody."
+  },
+  {
+   "s": "Mit einem Gast beklagt man sich nicht, weil er nichts dazu sagen kann.",
+   "e": "You do not complain with a guest, because they cannot say anything to it."
+  },
+  {
+   "s": "Der andere muss zustimmen und dann sind beide zufrieden.",
+   "e": "The other person has to agree and then both are content."
+  },
+  {
+   "s": "Wer widerspricht, hat das Spiel nicht verstanden.",
+   "e": "Whoever contradicts has not understood the game."
+  },
+  {
+   "s": "Ich habe im ersten Jahr einmal gesagt: Aber es ist doch günstig.",
+   "e": "In my first year I once said: but it is cheap."
+  },
+  {
+   "s": "Am Tisch hat mich jemand angeschaut, wie man ein Kind anschaut.",
+   "e": "At the table somebody looked at me the way you look at a child."
+  },
+  {
+   "s": "Die dritte Regel ist die Länge.",
+   "e": "The third rule is the length."
+  },
+  {
+   "s": "Zwei Minuten, drei Sätze, und dann redet man über etwas anderes.",
+   "e": "Two minutes, three sentences, and then you talk about something else."
+  },
+  {
+   "s": "Wer nach vier Minuten immer noch über den Zug redet, ist unangenehm.",
+   "e": "Whoever is still talking about the train after four minutes is unpleasant."
+  },
+  {
+   "s": "Das Reklamieren ist eine Begrüssung und kein Thema.",
+   "e": "The complaining is a greeting and not a topic."
+  },
+  {
+   "s": "Es ist das hiesige Reden über das Wetter, nur mit mehr Meinung.",
+   "e": "It is the local talking about the weather, only with more opinion."
+  },
+  {
+   "s": "Es gibt Sätze, die immer gehen.",
+   "e": "There are sentences that always work."
+  },
+  {
+   "s": "Das ist doch nicht möglich.",
+   "e": "That is simply not possible."
+  },
+  {
+   "s": "Das kann ja nicht sein.",
+   "e": "That cannot be."
+  },
+  {
+   "s": "Und das bei diesen Preisen.",
+   "e": "And at these prices."
+  },
+  {
+   "s": "Der letzte ist der stärkste und er passt überall.",
+   "e": "The last one is the strongest and it fits everywhere."
+  },
+  {
+   "s": "Man hängt ihn an alles an und alle nicken.",
+   "e": "You hang it on anything and everybody nods."
+  },
+  {
+   "s": "Die Preise sind hier das Thema, das nie fertig wird.",
+   "e": "Prices are the subject here that is never finished."
+  },
+  {
+   "s": "Alle finden alles zu teuer und alle zahlen es.",
+   "e": "Everybody finds everything too expensive and everybody pays it."
+  },
+  {
+   "s": "Das ist nur ein Widerspruch, wenn man das Reklamieren ernst nimmt.",
+   "e": "That is only a contradiction if you take the complaining seriously."
+  },
+  {
+   "s": "Beim echten Reklamieren ist alles anders.",
+   "e": "With real complaining everything is different."
+  },
+  {
+   "s": "Dort ist man ruhig und genau und man hat die Nummer dabei.",
+   "e": "There you are calm and precise and you have the number with you."
+  },
+  {
+   "s": "Ich habe im Februar eine falsche Rechnung bekommen.",
+   "e": "In February I got a wrong bill."
+  },
+  {
+   "s": "Sechsundvierzig Franken für etwas, das ich nicht bestellt habe.",
+   "e": "Forty-six francs for something I had not ordered."
+  },
+  {
+   "s": "Ich habe angerufen und den Satz gesagt, den ich vorher aufgeschrieben habe.",
+   "e": "I called and said the sentence I had written down beforehand."
+  },
+  {
+   "s": "Ich habe gesagt: Ich möchte eine Rechnung reklamieren.",
+   "e": "I said: I would like to query a bill."
+  },
+  {
+   "s": "Die Frau hat gesagt: Haben Sie die Nummer?",
+   "e": "The woman said: do you have the number?"
+  },
+  {
+   "s": "Ich habe sie gehabt.",
+   "e": "I had it."
+  },
+  {
+   "s": "Das war das ganze Gespräch.",
+   "e": "That was the whole conversation."
+  },
+  {
+   "s": "Keine Diskussion, keine Erklärung, kein Ärger.",
+   "e": "No discussion, no explanation, no annoyance."
+  },
+  {
+   "s": "Sie hat gesagt: Wird korrigiert. Sie bekommen eine neue.",
+   "e": "She said: it will be corrected. You will get a new one."
+  },
+  {
+   "s": "Sie hat nicht einmal leider gesagt, weil es nichts zu bedauern gab.",
+   "e": "She did not even say leider, because there was nothing to regret."
+  },
+  {
+   "s": "Die neue ist vier Tage später gekommen und sie war richtig.",
+   "e": "The new one came four days later and it was right."
+  },
+  {
+   "s": "Ich hatte drei Tage Angst vor diesem Anruf gehabt.",
+   "e": "I had been afraid of that call for three days."
+  },
+  {
+   "s": "Das ist mittlerweile eine Gewohnheit von mir und ich kenne sie.",
+   "e": "That has become a habit of mine by now and I know it."
+  },
+  {
+   "s": "Ich habe Angst vor Anrufen, die vier Minuten dauern.",
+   "e": "I am afraid of calls that take four minutes."
+  },
+  {
+   "s": "Es funktioniert hier fast immer so.",
+   "e": "It almost always works like that here."
+  },
+  {
+   "s": "Man hat recht oder man hat nicht recht, und beides ist schnell klar.",
+   "e": "Either you are right or you are not, and both are quickly clear."
+  },
+  {
+   "s": "Niemand muss überzeugt werden.",
+   "e": "Nobody has to be convinced."
+  },
+  {
+   "s": "Das ist der Unterschied zum Reklamieren am Perron.",
+   "e": "That is the difference from the complaining on the platform."
+  },
+  {
+   "s": "Am Perron will man niemanden überzeugen und niemand will etwas ändern.",
+   "e": "On the platform nobody wants to convince anybody and nobody wants to change anything."
+  },
+  {
+   "s": "Man will zwei Minuten lang mit jemandem einverstanden sein.",
+   "e": "You want to agree with somebody for two minutes."
+  },
+  {
+   "s": "Das ist mehr, als es tönt.",
+   "e": "That is more than it sounds."
+  },
+  {
+   "s": "In einem Land, in dem man nicht viel redet, ist das ein Angebot.",
+   "e": "In a country where people do not talk much, that is an offer."
+  },
+  {
+   "s": "Der Mann am Perron hat mich am Donnerstag wieder gesehen.",
+   "e": "The man on the platform saw me again on Thursday."
+  },
+  {
+   "s": "Er hat genickt und auf die Tafel gezeigt.",
+   "e": "He nodded and pointed at the board."
+  },
+  {
+   "s": "Auf der Tafel ist gestanden: plus zwei.",
+   "e": "On the board it said: plus two."
+  },
+  {
+   "s": "Er hat gesagt: Immerhin.",
+   "e": "He said: at least."
+  },
+  {
+   "s": "Ich habe gelacht.",
+   "e": "I laughed."
+  },
+  {
+   "s": "Wir haben uns nie vorgestellt und wir sehen uns jetzt jeden Dienstag.",
+   "e": "We have never introduced ourselves and we now see each other every Tuesday."
+  }
+ ]
+}

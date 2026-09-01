@@ -257,6 +257,10 @@ arrives as an event and is named on the page. **Konjunktiv II did not move**
 and is still phase 5's, along with the full treatment. `NEXT.md` §19 carries
 the reasoning; it is reversible by rewriting nine stories.
 
+**Phase 6 landed 2026-08-31.** The Modalpartikeln each get a story, Fasnacht
+runs from `p6-10` to `p6-16` from inside a Guggenmusik, and the phase ends on
+somebody saying you almost sound like one of them. `NEXT.md` §22.
+
 **Konjunktiv II landed in `p5-06` (2026-08-28)**, in the story where a woman
 who does not ask for anything asks for something. `p5-01` to `p5-05` are clean
 of it and that was checked by scanning rather than by reading. It is taught as

@@ -1,0 +1,347 @@
+{
+ "id": "p6-08",
+ "title": "Trockener Humor",
+ "desc": "Jokes with no signal on them",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "Witz",
+  "laut",
+  "Satz",
+  "lachen"
+ ],
+ "sn": [
+  {
+   "s": "Ruedi Zemp hat im März einen Witz gemacht.",
+   "e": "Ruedi Zemp made a joke in March."
+  },
+  {
+   "s": "Ich habe ihn um sieben Uhr am Abend verstanden.",
+   "e": "I understood it at seven in the evening."
+  },
+  {
+   "s": "Er hat ihn um halb neun am Morgen gemacht.",
+   "e": "He made it at half past eight in the morning."
+  },
+  {
+   "s": "Ich bin die Treppe hinunter und er ist im Hof gestanden.",
+   "e": "I was going down the stairs and he was standing in the courtyard."
+  },
+  {
+   "s": "Es hat den ganzen Monat geregnet, jeden Tag.",
+   "e": "It had rained the whole month, every day."
+  },
+  {
+   "s": "Ich habe gesagt: Guten Morgen. Schon wieder Regen.",
+   "e": "I said: good morning. Rain again."
+  },
+  {
+   "s": "Er hat gesagt: Ja. Aber nur bis am Freitag.",
+   "e": "He said: yes. But only until Friday."
+  },
+  {
+   "s": "Ich habe genickt und bin weiter.",
+   "e": "I nodded and walked on."
+  },
+  {
+   "s": "Ich habe an dem Tag zweimal daran gedacht.",
+   "e": "I thought about it twice that day."
+  },
+  {
+   "s": "Beim ersten Mal habe ich mich gefragt, woher er das weiss.",
+   "e": "The first time I wondered how he knew that."
+  },
+  {
+   "s": "Beim zweiten Mal habe ich gedacht, dass er den Wetterbericht liest.",
+   "e": "The second time I thought he reads the weather report."
+  },
+  {
+   "s": "Am Abend im Zug ist es gekommen.",
+   "e": "In the evening on the train it came."
+  },
+  {
+   "s": "Am Freitag ist der März fertig.",
+   "e": "On the Friday March is over."
+  },
+  {
+   "s": "Es regnet nur bis am Freitag, weil dann April ist.",
+   "e": "It only rains until Friday, because then it is April."
+  },
+  {
+   "s": "Und im April regnet es auch.",
+   "e": "And in April it rains too."
+  },
+  {
+   "s": "Ich habe im Zug allein gelacht.",
+   "e": "I laughed on my own on the train."
+  },
+  {
+   "s": "Elf Stunden später.",
+   "e": "Eleven hours later."
+  },
+  {
+   "s": "Das ist trockener Humor.",
+   "e": "That is dry humour."
+  },
+  {
+   "s": "Trocken heisst hier: es hat kein Zeichen dran.",
+   "e": "Dry here means: it has no sign on it."
+  },
+  {
+   "s": "Kein Lachen, keine Pause, keine andere Stimme.",
+   "e": "No laugh, no pause, no different voice."
+  },
+  {
+   "s": "Der Satz kommt genau wie ein Satz über den Container.",
+   "e": "The sentence comes exactly like a sentence about the container."
+  },
+  {
+   "s": "Zu Hause hat ein Witz eine Verpackung.",
+   "e": "At home a joke has packaging."
+  },
+  {
+   "s": "Jemand sagt: Und dann, jetzt kommt es.",
+   "e": "Somebody says: and then, here it comes."
+  },
+  {
+   "s": "Jemand schaut in die Runde, bevor er den letzten Satz sagt.",
+   "e": "Somebody looks round the table before saying the last sentence."
+  },
+  {
+   "s": "Man weiss, dass ein Witz kommt, und man ist bereit.",
+   "e": "You know that a joke is coming and you are ready."
+  },
+  {
+   "s": "Hier ist die Verpackung weg.",
+   "e": "Here the packaging is gone."
+  },
+  {
+   "s": "Es gibt zwei Gründe dafür und beide sind mir spät gekommen.",
+   "e": "There are two reasons for it and both came to me late."
+  },
+  {
+   "s": "Der erste ist, dass ein Witz mit Verpackung ein bisschen prahlt.",
+   "e": "The first is that a joke with packaging shows off a little."
+  },
+  {
+   "s": "Er sagt: Achtung, ich sage jetzt etwas Lustiges.",
+   "e": "It says: attention, I am about to say something funny."
+  },
+  {
+   "s": "Das ist hier so, wie wenn man das eigene Essen lobt.",
+   "e": "That is like praising your own cooking here."
+  },
+  {
+   "s": "Der zweite Grund ist besser.",
+   "e": "The second reason is better."
+  },
+  {
+   "s": "Ohne Zeichen ist der Witz eine kleine Prüfung.",
+   "e": "Without a sign the joke is a small test."
+  },
+  {
+   "s": "Wer ihn merkt, gehört dazu.",
+   "e": "Whoever notices it belongs."
+  },
+  {
+   "s": "Wer ihn nicht merkt, verliert nichts, weil er nichts gemerkt hat.",
+   "e": "Whoever does not notice loses nothing, because they noticed nothing."
+  },
+  {
+   "s": "Niemand wird blamiert, in keiner Richtung.",
+   "e": "Nobody is embarrassed, in either direction."
+  },
+  {
+   "s": "Das ist sehr freundlich und man muss es zweimal anschauen, um es zu sehen.",
+   "e": "That is very kind and you have to look at it twice to see it."
+  },
+  {
+   "s": "Es gibt trotzdem Zeichen und sie sind sehr klein.",
+   "e": "There are signals all the same and they are very small."
+  },
+  {
+   "s": "Das erste ist eine Pause, die zu kurz ist, um eine Pause zu sein.",
+   "e": "The first is a pause that is too short to be a pause."
+  },
+  {
+   "s": "Das zweite ist, dass der Mensch nach dem Satz nichts mehr sagt.",
+   "e": "The second is that the person says nothing after the sentence."
+  },
+  {
+   "s": "Wer etwas ernst meint, redet weiter oder erklärt.",
+   "e": "Whoever means something seriously carries on or explains."
+  },
+  {
+   "s": "Wer einen Witz gemacht hat, hört auf und schaut irgendwohin.",
+   "e": "Whoever has made a joke stops and looks somewhere."
+  },
+  {
+   "s": "Das dritte ist etwas mit den Augen und ich kann es nicht beschreiben.",
+   "e": "The third is something with the eyes and I cannot describe it."
+  },
+  {
+   "s": "Selina sagt, dass es das gibt.",
+   "e": "Selina says that it exists."
+  },
+  {
+   "s": "Sie sagt, dass ich es in zehn Jahren sehe.",
+   "e": "She says that I will see it in ten years."
+  },
+  {
+   "s": "Das Wichtigste ist, was man nicht macht.",
+   "e": "The most important thing is what you do not do."
+  },
+  {
+   "s": "Man fragt nicht: War das ein Witz?",
+   "e": "You do not ask: was that a joke?"
+  },
+  {
+   "s": "Diese Frage macht die Sache kaputt und alle wissen es.",
+   "e": "That question ruins the thing and everybody knows it."
+  },
+  {
+   "s": "Man muss auch nicht sofort lachen.",
+   "e": "You also do not have to laugh straight away."
+  },
+  {
+   "s": "Ein trockener Witz wird hier oft mit einem Nicken beantwortet.",
+   "e": "A dry joke here is often answered with a nod."
+  },
+  {
+   "s": "Ein Nicken und vielleicht ein kurzes Geräusch.",
+   "e": "A nod and maybe a short noise."
+  },
+  {
+   "s": "Wer laut lacht, hat ihn auch verstanden, aber lauter, als nötig war.",
+   "e": "Whoever laughs loudly has understood it too, but louder than was necessary."
+  },
+  {
+   "s": "Ich lache immer noch zu laut und ich weiss nicht, ob das aufhört.",
+   "e": "I still laugh too loudly and I do not know whether that stops."
+  },
+  {
+   "s": "Herr Bucher hat den besten Satz von allen gemacht.",
+   "e": "Herr Bucher made the best line of all."
+  },
+  {
+   "s": "Das war im Treppenhaus, an einem Tag im Februar.",
+   "e": "That was in the stairwell, on a day in February."
+  },
+  {
+   "s": "Nebenan sind seit April die neuen Nachbarn.",
+   "e": "The new neighbours have been next door since April."
+  },
+  {
+   "s": "Zwei Kinder, sechs und neun, und sie sind laut.",
+   "e": "Two children, six and nine, and they are loud."
+  },
+  {
+   "s": "Nicht schlimm laut. Normal laut.",
+   "e": "Not badly loud. Normally loud."
+  },
+  {
+   "s": "Herr Bucher ist die Treppe heraufgekommen und hat oben stehen bleiben müssen.",
+   "e": "Herr Bucher came up the stairs and had to stop at the top."
+  },
+  {
+   "s": "Er hat gesagt: Es ist wieder Leben im Haus.",
+   "e": "He said: there is life in the building again."
+  },
+  {
+   "s": "Seit der Abdankung im Februar ist er langsamer die Treppe hinauf.",
+   "e": "Since the funeral in February he has been slower up the stairs."
+  },
+  {
+   "s": "Dann hat er nichts mehr gesagt.",
+   "e": "Then he said nothing more."
+  },
+  {
+   "s": "Ich habe zwei Tage gebraucht.",
+   "e": "It took me two days."
+  },
+  {
+   "s": "Es ist wieder Leben im Haus heisst zwei Sachen gleichzeitig.",
+   "e": "There is life in the building again means two things at the same time."
+  },
+  {
+   "s": "Es heisst: die Kinder sind laut und ich beklage mich.",
+   "e": "It means: the children are loud and I am complaining."
+  },
+  {
+   "s": "Und es heisst: seit sie tot ist, war es zu still.",
+   "e": "And it means: since she died it has been too quiet."
+  },
+  {
+   "s": "Ein Satz, sieben Wörter, zwei Dinge, und keines davon gesagt.",
+   "e": "One sentence, seven words, two things, and neither of them said."
+  },
+  {
+   "s": "Ich habe es Selina erzählt und sie hat gesagt: Ja, sicher.",
+   "e": "I told Selina about it and she said: yes, of course."
+  },
+  {
+   "s": "Für sie war das keine Entdeckung.",
+   "e": "For her that was not a discovery."
+  },
+  {
+   "s": "Für mich war es der Tag, an dem ich gemerkt habe, was mir fehlt.",
+   "e": "For me it was the day I noticed what I am missing."
+  },
+  {
+   "s": "Mir fehlt nicht Vokabular.",
+   "e": "What I am missing is not vocabulary."
+  },
+  {
+   "s": "Ich verstehe seit einem Jahr fast alles, was gesagt wird.",
+   "e": "For a year I have understood almost everything that is said."
+  },
+  {
+   "s": "Mir fehlt das, was nicht gesagt wird.",
+   "e": "What I am missing is what is not said."
+  },
+  {
+   "s": "Das ist eine andere Sache und es dauert länger.",
+   "e": "That is a different thing and it takes longer."
+  },
+  {
+   "s": "Ich habe angefangen, mir die Sätze aufzuschreiben, die ich nicht verstehe.",
+   "e": "I started writing down the sentences I do not understand."
+  },
+  {
+   "s": "Nicht die Wörter. Die Sätze.",
+   "e": "Not the words. The sentences."
+  },
+  {
+   "s": "Sätze, bei denen alle nicken und ich nicht.",
+   "e": "Sentences where everybody nods and I do not."
+  },
+  {
+   "s": "Es waren in einem Monat neun.",
+   "e": "In one month there were nine."
+  },
+  {
+   "s": "Bei sechs davon habe ich es später selber gemerkt.",
+   "e": "With six of them I worked it out myself later."
+  },
+  {
+   "s": "Zwei hat mir Selina erklärt.",
+   "e": "Selina explained two of them."
+  },
+  {
+   "s": "Einen habe ich Ruedi Zemp gefragt.",
+   "e": "One I asked Ruedi Zemp about."
+  },
+  {
+   "s": "Er hat mich angeschaut und gesagt: Das war kein Witz.",
+   "e": "He looked at me and said: that was not a joke."
+  },
+  {
+   "s": "Und dann hat er sehr kurz gelacht.",
+   "e": "And then he laughed very briefly."
+  },
+  {
+   "s": "Ich weiss bis heute nicht, welches von beidem gestimmt hat.",
+   "e": "To this day I do not know which of the two was true."
+  }
+ ]
+}

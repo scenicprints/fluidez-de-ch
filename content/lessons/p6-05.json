@@ -1,0 +1,366 @@
+{
+ "id": "p6-05",
+ "title": "Nicht schlecht",
+ "desc": "The highest praise available",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "kochen",
+  "nehmen",
+  "einmal"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe im September für die Odermatts gekocht.",
+   "e": "In September I cooked for the Odermatts."
+  },
+  {
+   "s": "Das war meine Idee und es war eine gute.",
+   "e": "That was my idea and it was a good one."
+  },
+  {
+   "s": "Zwei Jahre lang haben sie mich am Sonntag gefüttert.",
+   "e": "For two years they had fed me on Sundays."
+  },
+  {
+   "s": "Zwei Jahre lang war ich der Gast und einmal nicht.",
+   "e": "For two years I was the guest and once I was not."
+  },
+  {
+   "s": "Einmal umgekehrt ist hier eine Sache, die zählt.",
+   "e": "Once the other way round is a thing that counts here."
+  },
+  {
+   "s": "Ich habe drei Tage geplant und zwei Sachen gekocht, die ich kann.",
+   "e": "I planned for three days and cooked two things I can do."
+  },
+  {
+   "s": "Am Tisch waren fünf Leute.",
+   "e": "There were five people at the table."
+  },
+  {
+   "s": "Eine ganze Familie an einem Tisch, und ich habe gekocht.",
+   "e": "A whole family at one table, and I had cooked."
+  },
+  {
+   "s": "Kurt, Marianne, Selina, Reto und ich.",
+   "e": "Kurt, Marianne, Selina, Reto and me."
+  },
+  {
+   "s": "Kurt hat zuerst nichts gesagt, was normal ist.",
+   "e": "Kurt said nothing at first, which is normal."
+  },
+  {
+   "s": "Marianne hat gefragt, was drin ist, und dann noch fünf Sachen dazu.",
+   "e": "Marianne asked what was in it, and then five more things after that."
+  },
+  {
+   "s": "Reto hat zweimal genommen und nichts gesagt.",
+   "e": "Reto took seconds and said nothing."
+  },
+  {
+   "s": "Nach ungefähr zwanzig Minuten hat Kurt den Kopf gehoben.",
+   "e": "After about twenty minutes Kurt lifted his head."
+  },
+  {
+   "s": "Er hat gesagt: Nicht schlecht.",
+   "e": "He said: not bad."
+  },
+  {
+   "s": "Dann hat er weitergegessen.",
+   "e": "Then he went on eating."
+  },
+  {
+   "s": "Ich bin ein bisschen zusammengefallen.",
+   "e": "I sank a little."
+  },
+  {
+   "s": "Ich habe drei Tage geplant und bekomme nicht schlecht.",
+   "e": "Three days of planning and I get not bad."
+  },
+  {
+   "s": "Selina hat es sofort gesehen.",
+   "e": "Selina saw it immediately."
+  },
+  {
+   "s": "Sie hat mir unter dem Tisch mit dem Knie einen Stoss gegeben.",
+   "e": "She gave me a nudge with her knee under the table."
+  },
+  {
+   "s": "Auf dem Heimweg hat sie es erklärt.",
+   "e": "On the way home she explained it."
+  },
+  {
+   "s": "Sie hat gesagt: Weisst du, was mein Vater zu meiner Mutter sagt?",
+   "e": "She said: do you know what my father says to my mother?"
+  },
+  {
+   "s": "Sie hat gesagt: Nach vierzig Jahren?",
+   "e": "She said: after forty years?"
+  },
+  {
+   "s": "Sie hat gesagt: Nicht schlecht.",
+   "e": "She said: not bad."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist bei ihm die Spitze.",
+   "e": "She said: that is the top of the scale for him."
+  },
+  {
+   "s": "Sie hat gesagt: Darüber kommt nichts mehr.",
+   "e": "She said: there is nothing above it."
+  },
+  {
+   "s": "Es gibt hier eine Skala für Lob und sie ist nach unten verschoben.",
+   "e": "There is a scale for praise here and it is shifted downwards."
+  },
+  {
+   "s": "Man muss sie einmal ganz sehen, dann versteht man alles.",
+   "e": "You have to see the whole of it once and then you understand everything."
+  },
+  {
+   "s": "Geht so heisst: es ist schlecht.",
+   "e": "Geht so means: it is bad."
+  },
+  {
+   "s": "Ganz gut heisst: es ist mittelmässig.",
+   "e": "Ganz gut means: it is mediocre."
+  },
+  {
+   "s": "Das ist die Falle und sie erwischt jeden.",
+   "e": "That is the trap and it catches everybody."
+  },
+  {
+   "s": "Ganz gut tönt wie sehr gut und ist das Gegenteil.",
+   "e": "Ganz gut sounds like very good and is the opposite."
+  },
+  {
+   "s": "Ganz macht das Wort schwächer und nicht stärker.",
+   "e": "Ganz makes the word weaker and not stronger."
+  },
+  {
+   "s": "Gut heisst: es ist gut.",
+   "e": "Gut means: it is good."
+  },
+  {
+   "s": "Nicht schlecht heisst: es ist sehr gut.",
+   "e": "Nicht schlecht means: it is very good."
+  },
+  {
+   "s": "Sehr gut hört man von Erwachsenen fast nie.",
+   "e": "You almost never hear sehr gut from adults."
+  },
+  {
+   "s": "Und wenn es kommt, ist es ein Ereignis.",
+   "e": "And when it comes, it is an event."
+  },
+  {
+   "s": "Es gibt noch eine Stufe darüber und sie hat keine Wörter.",
+   "e": "There is one level above that and it has no words."
+  },
+  {
+   "s": "Jemand isst und sagt gar nichts und nimmt noch einmal.",
+   "e": "Somebody eats and says nothing at all and takes seconds."
+  },
+  {
+   "s": "Reto hat zweimal genommen.",
+   "e": "Reto took seconds."
+  },
+  {
+   "s": "Das habe ich an dem Abend nicht gelesen.",
+   "e": "I did not read that on the evening."
+  },
+  {
+   "s": "Selina hat gesagt: Er nimmt bei meiner Mutter nicht immer zweimal.",
+   "e": "Selina said: he does not always take seconds at my mother's."
+  },
+  {
+   "s": "Die Skala geht in die andere Richtung genauso.",
+   "e": "The scale works exactly the same way in the other direction."
+  },
+  {
+   "s": "Nichts ist hier je eine Katastrophe.",
+   "e": "Nothing here is ever a catastrophe."
+  },
+  {
+   "s": "Etwas ist nicht so gut.",
+   "e": "Something is not so good."
+  },
+  {
+   "s": "Etwas ist eher schwierig.",
+   "e": "Something is rather difficult."
+  },
+  {
+   "s": "Das ist noch nicht optimal.",
+   "e": "That is not yet optimal."
+  },
+  {
+   "s": "Alle drei heissen: das ist falsch, mach es neu.",
+   "e": "All three mean: that is wrong, do it again."
+  },
+  {
+   "s": "Im Büro habe ich zwei Monate gebraucht, um das zu hören.",
+   "e": "In the office I needed two months to hear that."
+  },
+  {
+   "s": "Simon hat einmal gesagt: Da hat es noch Luft.",
+   "e": "Simon once said: there is still some air in it."
+  },
+  {
+   "s": "Ich habe gedacht, dass er zufrieden ist.",
+   "e": "I thought that he was satisfied."
+  },
+  {
+   "s": "Da hat es noch Luft heisst: das ist noch nicht gut genug.",
+   "e": "Da hat es noch Luft means: that is not good enough yet."
+  },
+  {
+   "s": "Marco hat es mir erklärt, weil er gesehen hat, dass ich nichts mache.",
+   "e": "Marco explained it to me, because he saw that I was not doing anything."
+  },
+  {
+   "s": "Er hat gesagt: Wenn jemand hier lobt, hör auf die Wörter dazwischen.",
+   "e": "He said: when somebody praises you here, listen to the words in between."
+  },
+  {
+   "s": "Das Umgekehrte ist genauso wichtig und schwieriger.",
+   "e": "The reverse is just as important and harder."
+  },
+  {
+   "s": "Man darf hier auch nicht zu stark loben.",
+   "e": "You must not praise too strongly here either."
+  },
+  {
+   "s": "Ich habe im ersten Jahr das Essen von Marianne fantastisch genannt.",
+   "e": "In my first year I called Marianne's food fantastic."
+  },
+  {
+   "s": "Der Tisch ist kurz still gewesen.",
+   "e": "The table went briefly quiet."
+  },
+  {
+   "s": "Ich habe gedacht, dass ich etwas Falsches gesagt habe.",
+   "e": "I thought I had said something wrong."
+  },
+  {
+   "s": "Ich habe nichts Falsches gesagt.",
+   "e": "I had not said anything wrong."
+  },
+  {
+   "s": "Ich habe zu viel gesagt und dann ist es nichts mehr wert.",
+   "e": "I had said too much and then it is not worth anything."
+  },
+  {
+   "s": "Wenn alles fantastisch ist, ist nichts fantastisch.",
+   "e": "If everything is fantastic, nothing is fantastic."
+  },
+  {
+   "s": "Ein Wort reicht, wenn es selten kommt.",
+   "e": "One word is enough, if it comes rarely."
+  },
+  {
+   "s": "Ein Lob ist hier eine Währung und die Währung wird knapp gehalten.",
+   "e": "Praise here is a currency and the currency is kept scarce."
+  },
+  {
+   "s": "Man kann sie nicht drucken, sonst ist sie nichts mehr wert.",
+   "e": "You cannot print it, or it is worth nothing."
+  },
+  {
+   "s": "Darum trifft ein nicht schlecht so hart.",
+   "e": "That is why a nicht schlecht lands so hard."
+  },
+  {
+   "s": "Es ist selten und es kostet den anderen etwas.",
+   "e": "It is rare and it costs the other person something."
+  },
+  {
+   "s": "Die dritte Regel ist die schwerste und sie ist eine Regel für einen selber.",
+   "e": "The third rule is the hardest and it is a rule about yourself."
+  },
+  {
+   "s": "Man darf ein Lob nicht annehmen.",
+   "e": "You are not allowed to accept praise."
+  },
+  {
+   "s": "Wenn jemand sagt, dass du gut kochst, sagst du nicht danke.",
+   "e": "If somebody says you cook well, you do not say thank you."
+  },
+  {
+   "s": "Du sagst: Ach was.",
+   "e": "You say: ach was."
+  },
+  {
+   "s": "Du sagst: Es ist nichts Besonderes.",
+   "e": "You say: it is nothing special."
+  },
+  {
+   "s": "Du sagst: Das kann jeder.",
+   "e": "You say: anybody can do that."
+  },
+  {
+   "s": "Du machst es kleiner, und dann macht es der andere wieder grösser.",
+   "e": "You make it smaller, and then the other person makes it bigger again."
+  },
+  {
+   "s": "Das ist ein Tanz und beide Seiten kennen die Schritte.",
+   "e": "It is a dance and both sides know the steps."
+  },
+  {
+   "s": "Wer danke sagt und nichts weiter, hat den Tanz abgebrochen.",
+   "e": "Whoever says thank you and nothing more has broken off the dance."
+  },
+  {
+   "s": "Das ist nicht schlimm und es fällt auf.",
+   "e": "That is not terrible and it is noticed."
+  },
+  {
+   "s": "Ich habe an dem Abend zu Kurt danke gesagt.",
+   "e": "That evening I said thank you to Kurt."
+  },
+  {
+   "s": "Nur danke, weil ich nichts anderes gewusst habe.",
+   "e": "Only thank you, because I did not know anything else."
+  },
+  {
+   "s": "Er hat genickt und weitergegessen.",
+   "e": "He nodded and went on eating."
+  },
+  {
+   "s": "Beim nächsten Mal, im November, habe ich es anders gemacht.",
+   "e": "The next time, in November, I did it differently."
+  },
+  {
+   "s": "Er hat gesagt: Das ist gut geworden.",
+   "e": "He said: that has turned out well."
+  },
+  {
+   "s": "Ich habe gesagt: Es ist ein bisschen zu salzig.",
+   "e": "I said: it is a bit too salty."
+  },
+  {
+   "s": "Er hat gesagt: Nein, das passt.",
+   "e": "He said: no, that is right."
+  },
+  {
+   "s": "Und dann hat er noch etwas gesagt, das er sonst nie sagt.",
+   "e": "And then he said something else, which he otherwise never says."
+  },
+  {
+   "s": "Er hat gesagt: Du kochst besser als der Reto.",
+   "e": "He said: you cook better than Reto."
+  },
+  {
+   "s": "Reto ist am Tisch gesessen.",
+   "e": "Reto was sitting at the table."
+  },
+  {
+   "s": "Reto hat gelacht und noch einmal genommen.",
+   "e": "Reto laughed and took some more."
+  },
+  {
+   "s": "Das war der beste Abend von diesem Jahr.",
+   "e": "That was the best evening of that year."
+  }
+ ]
+}

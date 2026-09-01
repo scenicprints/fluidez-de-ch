@@ -1,0 +1,362 @@
+{
+ "id": "p6-10",
+ "title": "Die Guggenmusik",
+ "desc": "A brass band playing wrong on purpose",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "Probe",
+  "erklären",
+  "Jahr"
+ ],
+ "sn": [
+  {
+   "s": "Ab November ist die Probe jeden Mittwoch.",
+   "e": "From November the rehearsal is every Wednesday."
+  },
+  {
+   "s": "Nicht alle zwei Wochen. Jeden.",
+   "e": "Not every other week. Every one."
+  },
+  {
+   "s": "Von November bis im Februar, ohne Ausnahme.",
+   "e": "From November until February, without exception."
+  },
+  {
+   "s": "Beat hat das im Oktober gesagt und es war keine Frage.",
+   "e": "Beat said that in October and it was not a question."
+  },
+  {
+   "s": "Er hat gesagt: Ab jetzt jeden Mittwoch. Um acht.",
+   "e": "He said: from now on every Wednesday. At eight."
+  },
+  {
+   "s": "Ich bin seit einem Jahr dabei und ich habe es nie verstanden.",
+   "e": "I have been part of it for a year and I never understood it."
+  },
+  {
+   "s": "Eine Guggenmusik ist eine Blasmusik, die absichtlich falsch spielt.",
+   "e": "A Guggenmusik is a brass band that deliberately plays wrong."
+  },
+  {
+   "s": "Das ist der ganze Sinn und es ist kein Witz.",
+   "e": "That is the whole point and it is not a joke."
+  },
+  {
+   "s": "Sie spielen bekannte Lieder, und sie spielen sie schief.",
+   "e": "They play well-known songs, and they play them out of tune."
+  },
+  {
+   "s": "Gesungen wird bei uns nicht, dafür sind die anderen Vereine da.",
+   "e": "There is no singing with us, the other clubs are there for that."
+  },
+  {
+   "s": "Zu laut, zu tief, zu hoch, alles gleichzeitig.",
+   "e": "Too loud, too low, too high, all at once."
+  },
+  {
+   "s": "Das erste Mal habe ich gedacht, dass sie es nicht können.",
+   "e": "The first time I thought that they could not do it."
+  },
+  {
+   "s": "Das zweite Mal habe ich gemerkt, dass sie es genau gleich falsch spielen.",
+   "e": "The second time I noticed that they play it wrong in exactly the same way."
+  },
+  {
+   "s": "Zwanzig Leute, jede Woche, der gleiche falsche Ton an der gleichen Stelle.",
+   "e": "Twenty people, every week, the same wrong note in the same place."
+  },
+  {
+   "s": "Das ist keine Unfähigkeit.",
+   "e": "That is not incompetence."
+  },
+  {
+   "s": "Das ist eine Menge Arbeit für ein Resultat, das schrecklich tönen soll.",
+   "e": "That is a lot of work for a result that is supposed to sound terrible."
+  },
+  {
+   "s": "Die Wörter sind schnell gelernt.",
+   "e": "The words are quickly learnt."
+  },
+  {
+   "s": "Die Probe ist der Abend, an dem geübt wird.",
+   "e": "The Probe is the evening on which you practise."
+  },
+  {
+   "s": "Ein Marsch ist ein Stück, das man im Gehen spielt.",
+   "e": "A Marsch is a piece you play while walking."
+  },
+  {
+   "s": "Wir haben vier Märsche und wir spielen sie das ganze Jahr.",
+   "e": "We have four marches and we play them all year."
+  },
+  {
+   "s": "Ein Instrument ist ein Instrument.",
+   "e": "An Instrument is an instrument."
+  },
+  {
+   "s": "Ich habe eine Trommel, weil Beat sie mir letztes Jahr gegeben hat.",
+   "e": "I have a drum, because Beat gave me one last year."
+  },
+  {
+   "s": "Er hat damals gesagt: Auf zwei und auf vier. Sonst nichts.",
+   "e": "Back then he said: on two and on four. Nothing else."
+  },
+  {
+   "s": "Das war die ganze Ausbildung.",
+   "e": "That was the whole training."
+  },
+  {
+   "s": "Ich spiele seit einem Jahr auf zwei und auf vier.",
+   "e": "For a year I have been playing on two and on four."
+  },
+  {
+   "s": "Im Dezember hat er gesagt, dass ich etwas dazulernen soll.",
+   "e": "In December he said that I should learn something extra."
+  },
+  {
+   "s": "Er hat gesagt: Beim dritten Marsch kommt ein Stück ohne Blech.",
+   "e": "He said: in the third march there is a bit with no brass."
+  },
+  {
+   "s": "Er hat gesagt: Da bist nur du und der Erwin.",
+   "e": "He said: there it is only you and Erwin."
+  },
+  {
+   "s": "Ich habe vier Wochen an sechs Takten geübt.",
+   "e": "I practised six bars for four weeks."
+  },
+  {
+   "s": "Sechs Takte, in der Küche, mit den Händen auf dem Tisch.",
+   "e": "Six bars, in the kitchen, with my hands on the table."
+  },
+  {
+   "s": "Selina hat mich zweimal gebeten, in den Keller zu gehen.",
+   "e": "Selina asked me twice to go down to the cellar."
+  },
+  {
+   "s": "Eine Gugge hat ungefähr zwanzig bis fünfzig Leute.",
+   "e": "A Gugge has about twenty to fifty people."
+  },
+  {
+   "s": "Unsere hat fünfundzwanzig und alle Altersgruppen.",
+   "e": "Ours has twenty-five and all age groups."
+  },
+  {
+   "s": "Der jüngste ist siebzehn und die älteste ist einundsiebzig.",
+   "e": "The youngest is seventeen and the oldest is seventy-one."
+  },
+  {
+   "s": "Sie heisst Margrit und sie spielt seit vierundvierzig Jahren mit.",
+   "e": "She is called Margrit and she has been playing for forty-four years."
+  },
+  {
+   "s": "Sie hat mir im Januar erklärt, warum das Falsche das Richtige ist.",
+   "e": "In January she explained to me why the wrong thing is the right thing."
+  },
+  {
+   "s": "Sie hat gesagt: Es soll nicht schön sein.",
+   "e": "She said: it is not supposed to be beautiful."
+  },
+  {
+   "s": "Sie hat gesagt: Schön kann man zu Hause hören.",
+   "e": "She said: beautiful you can listen to at home."
+  },
+  {
+   "s": "Sie hat gesagt: Das hier soll dich in den Bauch treffen.",
+   "e": "She said: this is supposed to hit you in the stomach."
+  },
+  {
+   "s": "Sie hat recht und man merkt es nur, wenn man daneben steht.",
+   "e": "She is right and you only notice it if you are standing next to it."
+  },
+  {
+   "s": "Fünfundzwanzig Leute, drei Meter von dir weg, in einer engen Gasse.",
+   "e": "Twenty-five people, three metres away, in a narrow lane."
+  },
+  {
+   "s": "Es ist nicht Musik, die man hört.",
+   "e": "It is not music you hear."
+  },
+  {
+   "s": "Es ist Musik, die durch einen hindurchgeht.",
+   "e": "It is music that goes through you."
+  },
+  {
+   "s": "Das Kostüm heisst hier das Sujet und es wird jedes Jahr neu gemacht.",
+   "e": "The costume here is called the Sujet and it is made new every year."
+  },
+  {
+   "s": "Jedes Jahr ein anderes Thema, jedes Jahr fünfundzwanzig gleiche Kostüme.",
+   "e": "Every year a different theme, every year twenty-five identical costumes."
+  },
+  {
+   "s": "Sie werden im Herbst genäht, von Leuten aus der Gugge.",
+   "e": "They are sewn in the autumn, by people from the band."
+  },
+  {
+   "s": "Sie hängen bis im Februar in einem Kasten im Keller.",
+   "e": "They hang in a cupboard in the cellar until February."
+  },
+  {
+   "s": "Die Instrumente sind in Kisten, mit Namen darauf.",
+   "e": "The instruments are in boxes, with names on them."
+  },
+  {
+   "s": "Es kostet jeden ungefähr dreihundert Franken im Jahr.",
+   "e": "It costs each person about three hundred francs a year."
+  },
+  {
+   "s": "Dazu kommt das Instrument, wenn man eines kauft.",
+   "e": "Then there is the instrument, if you buy one."
+  },
+  {
+   "s": "Ich habe gefragt, ob das nicht viel Geld ist für drei Tage.",
+   "e": "I asked whether that was not a lot of money for three days."
+  },
+  {
+   "s": "Beat hat gesagt: Es sind nicht drei Tage.",
+   "e": "Beat said: it is not three days."
+  },
+  {
+   "s": "Er hat gesagt: Es ist das ganze Jahr, und drei Tage davon spielt man.",
+   "e": "He said: it is the whole year, and three days of it you play."
+  },
+  {
+   "s": "Das ist der Satz, der mir das ganze Land erklärt hat.",
+   "e": "That is the sentence that explained the whole country to me."
+  },
+  {
+   "s": "Ich habe zwei Jahre gedacht, dass der Verein für die Sache da ist.",
+   "e": "For two years I thought that the club exists for the thing."
+  },
+  {
+   "s": "Der Turnverein für das Turnen, die Gugge für die Fasnacht.",
+   "e": "The gymnastics club for the gymnastics, the band for the Fasnacht."
+  },
+  {
+   "s": "Es ist umgekehrt.",
+   "e": "It is the other way round."
+  },
+  {
+   "s": "Die Sache ist der Grund, damit man sich jede Woche sieht.",
+   "e": "The thing is the reason to see each other every week."
+  },
+  {
+   "s": "Der Mittwoch ist das Eigentliche.",
+   "e": "The Wednesday is the real thing."
+  },
+  {
+   "s": "Die drei Tage im Februar sind das, was man den Leuten erzählt.",
+   "e": "The three days in February are what you tell people about."
+  },
+  {
+   "s": "Nach der Probe gehen wir hinauf und trinken eins.",
+   "e": "After the rehearsal we go upstairs and have a drink."
+  },
+  {
+   "s": "Die Probe dauert zwei Stunden und der Hock dauert manchmal länger.",
+   "e": "The rehearsal lasts two hours and the Hock sometimes lasts longer."
+  },
+  {
+   "s": "Am Hock im Januar hat mich Margrit etwas gefragt.",
+   "e": "At the Hock in January Margrit asked me something."
+  },
+  {
+   "s": "Sie hat gefragt: Und, spielst du nächstes Jahr auch?",
+   "e": "She asked: and, are you playing next year too?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Sie hat gesagt: Gut. Dann bestellen wir dir ein Kostüm.",
+   "e": "She said: good. Then we will order you a costume."
+  },
+  {
+   "s": "Sie hat es sofort in ein Heft geschrieben.",
+   "e": "She wrote it in a notebook straight away."
+  },
+  {
+   "s": "Das ist hier die Art, wie man aufgenommen wird.",
+   "e": "That is the way you get taken in here."
+  },
+  {
+   "s": "Niemand sagt: Du gehörst jetzt dazu.",
+   "e": "Nobody says: you belong now."
+  },
+  {
+   "s": "Jemand schreibt deine Grösse in ein Heft.",
+   "e": "Somebody writes your size in a notebook."
+  },
+  {
+   "s": "Der Name von unserer Gugge ist ein Wortspiel und ich verstehe es nicht.",
+   "e": "The name of our band is a pun and I do not understand it."
+  },
+  {
+   "s": "Ich habe zweimal gefragt und beide Erklärungen waren im Dialekt.",
+   "e": "I asked twice and both explanations were in dialect."
+  },
+  {
+   "s": "Beim dritten Mal habe ich aufgehört zu fragen.",
+   "e": "The third time I stopped asking."
+  },
+  {
+   "s": "Es gibt in dieser Sprache Sachen, die man nicht erklären kann.",
+   "e": "There are things in this language that cannot be explained."
+  },
+  {
+   "s": "Es gibt auch Sachen, die man nicht erklären will, und das ist etwas anderes.",
+   "e": "There are also things people do not want to explain, and that is something else."
+  },
+  {
+   "s": "Beat hat es beim vierten Mal versucht und dann selber gelacht.",
+   "e": "Beat tried it the fourth time and then laughed himself."
+  },
+  {
+   "s": "Er hat gesagt: Es ist nicht lustig, wenn man es erklärt.",
+   "e": "He said: it is not funny if you explain it."
+  },
+  {
+   "s": "Ich habe gesagt: Eben.",
+   "e": "I said: eben."
+  },
+  {
+   "s": "Er hat mich angeschaut und gesagt: Du wirst langsam gefährlich.",
+   "e": "He looked at me and said: you are slowly getting dangerous."
+  },
+  {
+   "s": "Am letzten Mittwoch vor der Fasnacht war die Probe kurz.",
+   "e": "On the last Wednesday before Fasnacht the rehearsal was short."
+  },
+  {
+   "s": "Wir haben die vier Märsche einmal durchgespielt und dann war Schluss.",
+   "e": "We played the four marches through once and then it was over."
+  },
+  {
+   "s": "Beat hat vorne gestanden und nichts Grosses gesagt.",
+   "e": "Beat stood at the front and said nothing big."
+  },
+  {
+   "s": "Er hat gesagt: Am Donnerstag um vier bei mir.",
+   "e": "He said: on Thursday at four at my place."
+  },
+  {
+   "s": "Er hat gesagt: Nehmt zu essen mit. Es wird ein langer Tag.",
+   "e": "He said: bring something to eat. It will be a long day."
+  },
+  {
+   "s": "Dann hat er gesagt: Und schlaft am Mittwoch.",
+   "e": "Then he said: and sleep on Wednesday."
+  },
+  {
+   "s": "Fünfundzwanzig Leute haben gelacht.",
+   "e": "Twenty-five people laughed."
+  },
+  {
+   "s": "Ich habe zwei Tage später verstanden, warum.",
+   "e": "I understood why two days later."
+  }
+ ]
+}

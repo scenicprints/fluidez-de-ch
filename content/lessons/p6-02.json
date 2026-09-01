@@ -1,0 +1,339 @@
+{
+ "id": "p6-02",
+ "title": "Eben",
+ "desc": "Agreeing with something you already thought",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "eben",
+  "Herr",
+  "genau",
+  "ja"
+ ],
+ "sn": [
+  {
+   "s": "Im Hof stehen an einem Samstagmorgen zwei Männer.",
+   "e": "On a Saturday morning two men are standing in the courtyard."
+  },
+  {
+   "s": "Ruedi Zemp und Herr Bucher.",
+   "e": "Ruedi Zemp and Herr Bucher."
+  },
+  {
+   "s": "Sie stehen dort ungefähr zwanzig Minuten.",
+   "e": "They stand there for about twenty minutes."
+  },
+  {
+   "s": "Ich habe von oben zugehört, weil das Fenster offen war.",
+   "e": "I listened from above, because the window was open."
+  },
+  {
+   "s": "Das ganze Gespräch hatte vielleicht vierzig Wörter.",
+   "e": "The whole conversation had maybe forty words."
+  },
+  {
+   "s": "Sechs davon waren eben.",
+   "e": "Six of them were eben."
+  },
+  {
+   "s": "Herr Bucher hat gesagt: Der Container ist wieder zu klein.",
+   "e": "Herr Bucher said: the container is too small again."
+  },
+  {
+   "s": "Ruedi Zemp hat gesagt: Eben.",
+   "e": "Ruedi Zemp said: eben."
+  },
+  {
+   "s": "Herr Bucher hat gesagt: Seit die neuen oben wohnen.",
+   "e": "Herr Bucher said: since the new ones moved in upstairs."
+  },
+  {
+   "s": "Ruedi Zemp hat gesagt: Eben.",
+   "e": "Ruedi Zemp said: eben."
+  },
+  {
+   "s": "Herr Bucher hat gesagt: Man müsste einen zweiten haben.",
+   "e": "Herr Bucher said: you would need a second one."
+  },
+  {
+   "s": "Ruedi Zemp hat gesagt: Das kostet.",
+   "e": "Ruedi Zemp said: that costs."
+  },
+  {
+   "s": "Herr Bucher hat gesagt: Eben.",
+   "e": "Herr Bucher said: eben."
+  },
+  {
+   "s": "Dann waren beide eine Weile still.",
+   "e": "Then both of them were quiet for a while."
+  },
+  {
+   "s": "Dann hat Ruedi Zemp gesagt: Ich rede mit der Verwaltung.",
+   "e": "Then Ruedi Zemp said: I will talk to the management."
+  },
+  {
+   "s": "Herr Bucher hat gesagt: Eben.",
+   "e": "Herr Bucher said: eben."
+  },
+  {
+   "s": "Damit war es fertig und beide sind gegangen.",
+   "e": "With that it was finished and both of them left."
+  },
+  {
+   "s": "Vierzig Wörter haben für alles gereicht.",
+   "e": "Forty words were enough for everything."
+  },
+  {
+   "s": "Ich bin am Fenster gestanden und habe nicht verstanden, was passiert ist.",
+   "e": "I stood at the window and did not understand what had happened."
+  },
+  {
+   "s": "Es war eine ganze Verhandlung.",
+   "e": "It was an entire negotiation."
+  },
+  {
+   "s": "Ein Problem, ein Grund, eine Lösung, die Kosten und ein Entscheid.",
+   "e": "A problem, a cause, a solution, the cost and a decision."
+  },
+  {
+   "s": "In vierzig Wörtern, und ein Sechstel davon war die gleiche Silbe.",
+   "e": "In forty words, and a sixth of them were the same syllable."
+  },
+  {
+   "s": "Eben heisst: genau, ja, das habe ich auch gedacht.",
+   "e": "Eben means: exactly, yes, that is what I thought too."
+  },
+  {
+   "s": "Es ist Zustimmung ohne Begeisterung.",
+   "e": "It is agreement without enthusiasm."
+  },
+  {
+   "s": "Das ist hier die normale Art zuzustimmen.",
+   "e": "That is the normal way of agreeing here."
+  },
+  {
+   "s": "Man sagt nicht: Ja, das finde ich auch, absolut.",
+   "e": "You do not say: yes, I think so too, absolutely."
+  },
+  {
+   "s": "Man sagt eben und schaut dabei irgendwohin.",
+   "e": "You say eben and look somewhere while you do."
+  },
+  {
+   "s": "Es hat noch eine zweite Bedeutung und sie ist feiner.",
+   "e": "It has a second meaning and it is finer."
+  },
+  {
+   "s": "Eben heisst auch: das ist genau der Punkt.",
+   "e": "Eben also means: that is exactly the point."
+  },
+  {
+   "s": "Jemand sagt etwas, das dein Argument stützt, ohne es zu merken.",
+   "e": "Somebody says something that supports your argument without noticing."
+  },
+  {
+   "s": "Dann sagst du eben.",
+   "e": "Then you say eben."
+  },
+  {
+   "s": "Auf Englisch bräuchte man dafür einen ganzen Satz.",
+   "e": "In English you would need a whole sentence for that."
+  },
+  {
+   "s": "Man müsste sagen: Ja, und genau das habe ich vorhin gesagt.",
+   "e": "You would have to say: yes, and that is exactly what I said before."
+  },
+  {
+   "s": "Und der Satz wäre unhöflich.",
+   "e": "And that sentence would be rude."
+  },
+  {
+   "s": "Eben ist nicht unhöflich, weil es zu kurz ist, um es zu sein.",
+   "e": "Eben is not rude, because it is too short to be."
+  },
+  {
+   "s": "Es gibt eine längere Form davon.",
+   "e": "There is a longer form of it."
+  },
+  {
+   "s": "Eben drum.",
+   "e": "Eben drum."
+  },
+  {
+   "s": "Das heisst: genau deswegen.",
+   "e": "That means: for exactly that reason."
+  },
+  {
+   "s": "Es ist die höflichste Art, jemandem zu sagen, dass er zu langsam ist.",
+   "e": "It is the politest way of telling somebody they are being slow."
+  },
+  {
+   "s": "Marianne sagt es am Tisch, wenn Reto etwas erklärt, das alle wissen.",
+   "e": "Marianne says it at the table when Reto explains something everybody knows."
+  },
+  {
+   "s": "Sie sagt es freundlich und Reto hört sofort auf.",
+   "e": "She says it in a friendly way and Reto stops immediately."
+  },
+  {
+   "s": "Der Unterschied zu halt ist wichtig und ich habe ihn zuerst nicht gehabt.",
+   "e": "The difference from halt is important and at first I did not have it."
+  },
+  {
+   "s": "Halt sagt: da ist nichts zu machen.",
+   "e": "Halt says: there is nothing to be done."
+  },
+  {
+   "s": "Eben sagt: ja, genau, so ist es.",
+   "e": "Eben says: yes, exactly, that is how it is."
+  },
+  {
+   "s": "Halt ist Aufhören.",
+   "e": "Halt is stopping."
+  },
+  {
+   "s": "Eben ist Zustimmen.",
+   "e": "Eben is agreeing."
+  },
+  {
+   "s": "Beide machen ein Thema zu, aber von verschiedenen Seiten.",
+   "e": "Both close a topic, but from different sides."
+  },
+  {
+   "s": "Man kann sie sogar zusammen sagen und das ist dann sehr fertig.",
+   "e": "You can even say them together and then it is very finished."
+  },
+  {
+   "s": "Das ist eben halt so.",
+   "e": "That is eben halt so."
+  },
+  {
+   "s": "Danach sagt niemand mehr etwas.",
+   "e": "Nobody says anything after that."
+  },
+  {
+   "s": "Ich habe es im Büro ausprobiert.",
+   "e": "I tried it in the office."
+  },
+  {
+   "s": "Marco hat über einen Kunden geschimpft, der nie antwortet.",
+   "e": "Marco was complaining about a client who never answers."
+  },
+  {
+   "s": "Ich habe gesagt: Eben.",
+   "e": "I said: eben."
+  },
+  {
+   "s": "Er hat weitergeredet, als ob nichts wäre.",
+   "e": "He carried on talking as if nothing had happened."
+  },
+  {
+   "s": "Das war das Zeichen, dass es richtig war.",
+   "e": "That was the sign that it had been right."
+  },
+  {
+   "s": "Ein falsches Wort merken sie sofort.",
+   "e": "They notice a wrong word immediately."
+  },
+  {
+   "s": "Bei einem richtigen passiert gar nichts.",
+   "e": "With a right one nothing happens at all."
+  },
+  {
+   "s": "Das ist die einzige Prüfung, die es gibt.",
+   "e": "That is the only test there is."
+  },
+  {
+   "s": "Es gibt noch ein drittes Wort in dieser Familie.",
+   "e": "There is a third word in this family."
+  },
+  {
+   "s": "Genau.",
+   "e": "Genau."
+  },
+  {
+   "s": "Genau ist das laute eben.",
+   "e": "Genau is the loud eben."
+  },
+  {
+   "s": "Man sagt es, wenn man wirklich zustimmt und es zeigen will.",
+   "e": "You say it when you really agree and want to show it."
+  },
+  {
+   "s": "Am Telefon sagen die Leute genau, genau, genau.",
+   "e": "On the telephone people say genau, genau, genau."
+  },
+  {
+   "s": "Drei- oder viermal hintereinander, während der andere redet.",
+   "e": "Three or four times in a row, while the other person is talking."
+  },
+  {
+   "s": "Das heisst nicht, dass sie sehr einverstanden sind.",
+   "e": "That does not mean they agree very much."
+  },
+  {
+   "s": "Es heisst: ich höre zu, rede weiter.",
+   "e": "It means: I am listening, carry on."
+  },
+  {
+   "s": "Zu Hause sagt man dafür mhm.",
+   "e": "At home you say mhm for that."
+  },
+  {
+   "s": "Hier sagt man ein Wort, das ja bedeutet.",
+   "e": "Here people say a word that means yes."
+  },
+  {
+   "s": "Am Anfang habe ich das für Zustimmung gehalten.",
+   "e": "At first I took that for agreement."
+  },
+  {
+   "s": "Ich habe zwei Wochen lang gedacht, dass alle mit mir einverstanden sind.",
+   "e": "For two weeks I thought that everybody agreed with me."
+  },
+  {
+   "s": "Dann hat einer nach zwanzig genau am Schluss nein gesagt.",
+   "e": "Then after twenty genaus somebody said no at the end."
+  },
+  {
+   "s": "Das war kein Betrug.",
+   "e": "That was not a trick."
+  },
+  {
+   "s": "Genau während dem Reden heisst nur: ich bin noch da.",
+   "e": "Genau during the talking only means: I am still here."
+  },
+  {
+   "s": "Die Antwort kommt am Schluss und sie kommt einmal.",
+   "e": "The answer comes at the end and it comes once."
+  },
+  {
+   "s": "Am Samstag darauf ist der zweite Container im Hof gestanden.",
+   "e": "The following Saturday the second container was standing in the courtyard."
+  },
+  {
+   "s": "Herr Bucher hat ihn angeschaut, als ich vorbei bin.",
+   "e": "Herr Bucher looked at it as I went past."
+  },
+  {
+   "s": "Er hat gesagt: Jetzt haben wir zwei.",
+   "e": "He said: now we have two."
+  },
+  {
+   "s": "Ich habe gesagt: Eben.",
+   "e": "I said: eben."
+  },
+  {
+   "s": "Er hat genickt und ist hinein.",
+   "e": "He nodded and went in."
+  },
+  {
+   "s": "Ich bin die Treppe hinauf und war den ganzen Tag zufrieden.",
+   "e": "I went up the stairs and was pleased all day."
+  },
+  {
+   "s": "Wegen einer Silbe.",
+   "e": "Because of one syllable."
+  }
+ ]
+}

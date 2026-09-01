@@ -55,6 +55,26 @@
    "pre": "ab",
    "sep": true
   },
+  "abbauen": {
+   "en": "to take down",
+   "pres3": "baut ab",
+   "pres2": "baust ab",
+   "past3": "baute ab",
+   "pp": "abgebaut",
+   "aux": "hat",
+   "pre": "ab",
+   "sep": true
+  },
+  "abbrechen": {
+   "en": "to break off",
+   "pres3": "bricht ab",
+   "pres2": "brichst ab",
+   "past3": "brach ab",
+   "pp": "abgebrochen",
+   "aux": "hat",
+   "pre": "ab",
+   "sep": true
+  },
   "abfahren": {
    "en": "to depart",
    "pres3": "fährt ab",
@@ -152,6 +172,16 @@
    "pre": "ab",
    "sep": true
   },
+  "abwehren": {
+   "en": "to fend off",
+   "pres3": "wehrt ab",
+   "pres2": "wehrst ab",
+   "past3": "wehrte ab",
+   "pp": "abgewehrt",
+   "aux": "hat",
+   "pre": "ab",
+   "sep": true
+  },
   "abziehen": {
    "en": "to deduct",
    "pres3": "zieht ab",
@@ -206,6 +236,16 @@
    "pre": "an",
    "sep": true
   },
+  "angreifen": {
+   "en": "to attack",
+   "pres3": "greift an",
+   "pres2": "greifst an",
+   "past3": "griff an",
+   "pp": "angegriffen",
+   "aux": "hat",
+   "pre": "an",
+   "sep": true
+  },
   "ankommen": {
    "en": "to arrive",
    "pres3": "kommt an",
@@ -236,6 +276,16 @@
    "pp": "angemeldet",
    "aux": "hat",
    "imp": "melde an",
+   "pre": "an",
+   "sep": true
+  },
+  "annehmen": {
+   "en": "to accept",
+   "pres3": "nimmt an",
+   "pres2": "nimmst an",
+   "past3": "nahm an",
+   "pp": "angenommen",
+   "aux": "hat",
    "pre": "an",
    "sep": true
   },
@@ -375,6 +425,16 @@
    "pre": "auf",
    "sep": true
   },
+  "aufhaben": {
+   "en": "to have on",
+   "pres3": "hat auf",
+   "pres2": "hast auf",
+   "past3": "hatte auf",
+   "pp": "aufgehabt",
+   "aux": "hat",
+   "pre": "auf",
+   "sep": true
+  },
   "aufhängen": {
    "en": "to hang up",
    "pres3": "hängt auf",
@@ -419,6 +479,16 @@
    "pre": "auf",
    "sep": true
   },
+  "aufnehmen": {
+   "en": "to take in",
+   "pres3": "nimmt auf",
+   "pres2": "nimmst auf",
+   "past3": "nahm auf",
+   "pp": "aufgenommen",
+   "aux": "hat",
+   "pre": "auf",
+   "sep": true
+  },
   "aufpassen": {
    "en": "to pay attention",
    "pres3": "passt auf",
@@ -427,6 +497,16 @@
    "pp": "aufgepasst",
    "aux": "hat",
    "imp": "pass auf",
+   "pre": "auf",
+   "sep": true
+  },
+  "aufregen": {
+   "en": "to get worked up",
+   "pres3": "regt auf",
+   "pres2": "regst auf",
+   "past3": "regte auf",
+   "pp": "aufgeregt",
+   "aux": "hat",
    "pre": "auf",
    "sep": true
   },
@@ -527,6 +607,36 @@
    "pre": "auf",
    "sep": true
   },
+  "aufzählen": {
+   "en": "to list",
+   "pres3": "zählt auf",
+   "pres2": "zählst auf",
+   "past3": "zählte auf",
+   "pp": "aufgezählt",
+   "aux": "hat",
+   "pre": "auf",
+   "sep": true
+  },
+  "auseinanderhalten": {
+   "en": "to tell apart",
+   "pres3": "hält auseinander",
+   "pres2": "hältst auseinander",
+   "past3": "hielt auseinander",
+   "pp": "auseinandergehalten",
+   "aux": "hat",
+   "pre": "auseinander",
+   "sep": true
+  },
+  "ausfallen": {
+   "en": "to be cancelled",
+   "pres3": "fällt aus",
+   "pres2": "fällst aus",
+   "past3": "fiel aus",
+   "pp": "ausgefallen",
+   "aux": "ist",
+   "pre": "aus",
+   "sep": true
+  },
   "ausfüllen": {
    "en": "to fill in",
    "pres3": "füllt aus",
@@ -598,6 +708,16 @@
    "pres2": "packst aus",
    "past3": "packte aus",
    "pp": "ausgepackt",
+   "aux": "hat",
+   "pre": "aus",
+   "sep": true
+  },
+  "ausprobieren": {
+   "en": "to try out",
+   "pres3": "probiert aus",
+   "pres2": "probierst aus",
+   "past3": "probierte aus",
+   "pp": "ausprobiert",
    "aux": "hat",
    "pre": "aus",
    "sep": true
@@ -776,6 +896,14 @@
    "pre": "be",
    "sep": false
   },
+  "beklagen": {
+   "en": "to complain",
+   "pres3": "beklagt",
+   "pres2": "beklagst",
+   "past3": "beklagte",
+   "pp": "beklagt",
+   "aux": "hat"
+  },
   "bekommen": {
    "en": "to get",
    "pres3": "bekommt",
@@ -837,6 +965,14 @@
    "pres2": "beschreibst",
    "past3": "beschrieb",
    "pp": "beschrieben",
+   "aux": "hat"
+  },
+  "beschweren": {
+   "en": "to complain",
+   "pres3": "beschwert",
+   "pres2": "beschwerst",
+   "past3": "beschwerte",
+   "pp": "beschwert",
    "aux": "hat"
   },
   "beschäftigen": {
@@ -910,6 +1046,14 @@
    "aux": "hat",
    "imp": "beweis"
   },
+  "bewundern": {
+   "en": "to admire",
+   "pres3": "bewundert",
+   "pres2": "bewunderst",
+   "past3": "bewunderte",
+   "pp": "bewundert",
+   "aux": "hat"
+  },
   "bezahlen": {
    "en": "to pay",
    "pres3": "bezahlt",
@@ -938,6 +1082,14 @@
    "pp": "gebeten",
    "aux": "hat",
    "imp": "bitte"
+  },
+  "blamieren": {
+   "en": "to embarrass",
+   "pres3": "blamiert",
+   "pres2": "blamierst",
+   "past3": "blamierte",
+   "pp": "blamiert",
+   "aux": "hat"
   },
   "bleiben": {
    "en": "to stay",
@@ -1052,6 +1204,26 @@
    "pre": "dazu",
    "sep": true
   },
+  "dazulegen": {
+   "en": "to add to it",
+   "pres3": "legt dazu",
+   "pres2": "legst dazu",
+   "past3": "legte dazu",
+   "pp": "dazugelegt",
+   "aux": "hat",
+   "pre": "dazu",
+   "sep": true
+  },
+  "dazulernen": {
+   "en": "to learn extra",
+   "pres3": "lernt dazu",
+   "pres2": "lernst dazu",
+   "past3": "lernte dazu",
+   "pp": "dazugelernt",
+   "aux": "hat",
+   "pre": "dazu",
+   "sep": true
+  },
   "dazustellen": {
    "en": "to put alongside",
    "pres3": "stellt dazu",
@@ -1090,6 +1262,14 @@
    "aux": "hat",
    "imp": "dreh"
   },
+  "drucken": {
+   "en": "to print",
+   "pres3": "druckt",
+   "pres2": "druckst",
+   "past3": "druckte",
+   "pp": "gedruckt",
+   "aux": "hat"
+  },
   "drücken": {
    "en": "to press",
    "pres3": "drückt",
@@ -1107,6 +1287,16 @@
    "pp": "durchgegangen",
    "aux": "ist",
    "imp": "geh durch",
+   "pre": "durch",
+   "sep": true
+  },
+  "durchspielen": {
+   "en": "to play through",
+   "pres3": "spielt durch",
+   "pres2": "spielst durch",
+   "past3": "spielte durch",
+   "pp": "durchgespielt",
+   "aux": "hat",
    "pre": "durch",
    "sep": true
   },
@@ -1159,6 +1349,16 @@
    "pre": "ein",
    "sep": true
   },
+  "einmischen": {
+   "en": "to interfere",
+   "pres3": "mischt ein",
+   "pres2": "mischst ein",
+   "past3": "mischte ein",
+   "pp": "eingemischt",
+   "aux": "hat",
+   "pre": "ein",
+   "sep": true
+  },
   "einräumen": {
    "en": "to put away",
    "pres3": "räumt ein",
@@ -1189,6 +1389,16 @@
    "pp": "eingeschlafen",
    "aux": "ist",
    "imp": "schlaf ein",
+   "pre": "ein",
+   "sep": true
+  },
+  "einschätzen": {
+   "en": "to judge",
+   "pres3": "schätzt ein",
+   "pres2": "schätzt ein",
+   "past3": "schätzte ein",
+   "pp": "eingeschätzt",
+   "aux": "hat",
    "pre": "ein",
    "sep": true
   },
@@ -1432,6 +1642,14 @@
    "aux": "hat",
    "imp": "fehl"
   },
+  "feiern": {
+   "en": "to celebrate",
+   "pres3": "feiert",
+   "pres2": "feierst",
+   "past3": "feierte",
+   "pp": "gefeiert",
+   "aux": "hat"
+  },
   "festhalten": {
    "en": "to hold on",
    "pres3": "hält fest",
@@ -1461,6 +1679,14 @@
    "pp": "geflogen",
    "aux": "ist",
    "imp": "flieg"
+  },
+  "fluchen": {
+   "en": "to swear",
+   "pres3": "flucht",
+   "pres2": "fluchst",
+   "past3": "fluchte",
+   "pp": "geflucht",
+   "aux": "hat"
   },
   "fragen": {
    "en": "to ask",
@@ -1498,6 +1724,14 @@
    "aux": "hat",
    "imp": "frier"
   },
+  "frühstücken": {
+   "en": "to have breakfast",
+   "pres3": "frühstückt",
+   "pres2": "frühstückst",
+   "past3": "frühstückte",
+   "pp": "gefrühstückt",
+   "aux": "hat"
+  },
   "funktionieren": {
    "en": "to work",
    "pres3": "funktioniert",
@@ -1514,6 +1748,14 @@
    "pp": "gefüllt",
    "aux": "hat",
    "imp": "füll"
+  },
+  "füttern": {
+   "en": "to feed",
+   "pres3": "füttert",
+   "pres2": "fütterst",
+   "past3": "fütterte",
+   "pp": "gefüttert",
+   "aux": "hat"
   },
   "geben": {
    "en": "to give",
@@ -1693,6 +1935,26 @@
    "aux": "hat",
    "imp": "hilf"
   },
+  "heraufkommen": {
+   "en": "to come up",
+   "pres3": "kommt herauf",
+   "pres2": "kommst herauf",
+   "past3": "kam herauf",
+   "pp": "heraufgekommen",
+   "aux": "ist",
+   "pre": "herauf",
+   "sep": true
+  },
+  "herauskommen": {
+   "en": "to come out",
+   "pres3": "kommt heraus",
+   "pres2": "kommst heraus",
+   "past3": "kam heraus",
+   "pp": "herausgekommen",
+   "aux": "ist",
+   "pre": "heraus",
+   "sep": true
+  },
   "hereinlassen": {
    "en": "to let in",
    "pres3": "lässt herein",
@@ -1714,6 +1976,14 @@
    "imp": "red herum",
    "pre": "herum",
    "sep": true
+  },
+  "hetzen": {
+   "en": "to rush",
+   "pres3": "hetzt",
+   "pres2": "hetzt",
+   "past3": "hetzte",
+   "pp": "gehetzt",
+   "aux": "hat"
   },
   "heulen": {
    "en": "to cry",
@@ -1743,6 +2013,26 @@
    "pp": "hinaufgelaufen",
    "aux": "ist",
    "imp": "lauf hinauf",
+   "pre": "hinauf",
+   "sep": true
+  },
+  "hinaufschauen": {
+   "en": "to look up",
+   "pres3": "schaut hinauf",
+   "pres2": "schaust hinauf",
+   "past3": "schaute hinauf",
+   "pp": "hinaufgeschaut",
+   "aux": "hat",
+   "pre": "hinauf",
+   "sep": true
+  },
+  "hinauftragen": {
+   "en": "to carry up",
+   "pres3": "trägt hinauf",
+   "pres2": "trägst hinauf",
+   "past3": "trug hinauf",
+   "pp": "hinaufgetragen",
+   "aux": "hat",
    "pre": "hinauf",
    "sep": true
   },
@@ -1788,6 +2078,16 @@
    "aux": "hat",
    "imp": "schau hinaus",
    "pre": "hinaus",
+   "sep": true
+  },
+  "hindurchgehen": {
+   "en": "to go through",
+   "pres3": "geht hindurch",
+   "pres2": "gehst hindurch",
+   "past3": "ging hindurch",
+   "pp": "hindurchgegangen",
+   "aux": "ist",
+   "pre": "hindurch",
    "sep": true
   },
   "hineingehen": {
@@ -1853,6 +2153,16 @@
    "pp": "hingelegt",
    "aux": "hat",
    "imp": "leg hin",
+   "pre": "hin",
+   "sep": true
+  },
+  "hinschauen": {
+   "en": "to look over",
+   "pres3": "schaut hin",
+   "pres2": "schaust hin",
+   "past3": "schaute hin",
+   "pp": "hingeschaut",
+   "aux": "hat",
    "pre": "hin",
    "sep": true
   },
@@ -1965,6 +2275,14 @@
    "aux": "hat",
    "imp": "hör"
   },
+  "jodeln": {
+   "en": "to yodel",
+   "pres3": "jodelt",
+   "pres2": "jodelst",
+   "past3": "jodelte",
+   "pp": "gejodelt",
+   "aux": "hat"
+  },
   "kaufen": {
    "en": "to buy",
    "pres3": "kauft",
@@ -1973,6 +2291,14 @@
    "pp": "gekauft",
    "aux": "hat",
    "imp": "kauf"
+  },
+  "kehren": {
+   "en": "to sweep",
+   "pres3": "kehrt",
+   "pres2": "kehrst",
+   "past3": "kehrte",
+   "pp": "gekehrt",
+   "aux": "hat"
   },
   "kennen": {
    "en": "to know a person or place",
@@ -2021,6 +2347,14 @@
    "aux": "hat",
    "imp": "klapp"
   },
+  "klatschen": {
+   "en": "to clap",
+   "pres3": "klatscht",
+   "pres2": "klatschst",
+   "past3": "klatschte",
+   "pp": "geklatscht",
+   "aux": "hat"
+  },
   "kleben": {
    "en": "to stick",
    "pres3": "klebt",
@@ -2038,6 +2372,14 @@
    "pp": "geklingelt",
    "aux": "hat",
    "imp": "klingle"
+  },
+  "klingen": {
+   "en": "to sound",
+   "pres3": "klingt",
+   "pres2": "klingst",
+   "past3": "klang",
+   "pp": "geklungen",
+   "aux": "hat"
   },
   "klopfen": {
    "en": "to knock",
@@ -2539,6 +2881,16 @@
    "pre": "nach",
    "sep": true
   },
+  "nachprüfen": {
+   "en": "to check",
+   "pres3": "prüft nach",
+   "pres2": "prüfst nach",
+   "past3": "prüfte nach",
+   "pp": "nachgeprüft",
+   "aux": "hat",
+   "pre": "nach",
+   "sep": true
+  },
   "nachrechnen": {
    "en": "to work out",
    "pres3": "rechnet nach",
@@ -2577,6 +2929,14 @@
    "pp": "genickt",
    "aux": "hat",
    "imp": "nick"
+  },
+  "nähen": {
+   "en": "to sew",
+   "pres3": "näht",
+   "pres2": "nähst",
+   "past3": "nähte",
+   "pp": "genäht",
+   "aux": "hat"
   },
   "organisieren": {
    "en": "to organise",
@@ -2630,6 +2990,14 @@
    "pp": "geplant",
    "aux": "hat",
    "imp": "plan"
+  },
+  "prahlen": {
+   "en": "to boast",
+   "pres3": "prahlt",
+   "pres2": "prahlst",
+   "past3": "prahlte",
+   "pp": "geprahlt",
+   "aux": "hat"
   },
   "prüfen": {
    "en": "to assess",
@@ -2693,6 +3061,14 @@
    "pp": "geregelt",
    "aux": "hat",
    "imp": "regle"
+  },
+  "regieren": {
+   "en": "to govern",
+   "pres3": "regiert",
+   "pres2": "regierst",
+   "past3": "regierte",
+   "pp": "regiert",
+   "aux": "hat"
   },
   "reichen": {
    "en": "to be enough",
@@ -3015,6 +3391,14 @@
    "aux": "hat",
    "imp": "schäm"
   },
+  "schütteln": {
+   "en": "to shake",
+   "pres3": "schüttelt",
+   "pres2": "schüttelst",
+   "past3": "schüttelte",
+   "pp": "geschüttelt",
+   "aux": "hat"
+  },
   "schützen": {
    "en": "to protect",
    "pres3": "schützt",
@@ -3132,6 +3516,14 @@
    "aux": "hat",
    "imp": "spül"
   },
+  "spüren": {
+   "en": "to feel",
+   "pres3": "spürt",
+   "pres2": "spürst",
+   "past3": "spürte",
+   "pp": "gespürt",
+   "aux": "hat"
+  },
   "stechen": {
    "en": "to stab",
    "pres3": "sticht",
@@ -3140,6 +3532,14 @@
    "pp": "gestochen",
    "aux": "hat",
    "imp": "stich"
+  },
+  "stecken": {
+   "en": "to be stuck in",
+   "pres3": "steckt",
+   "pres2": "steckst",
+   "past3": "steckte",
+   "pp": "gesteckt",
+   "aux": "hat"
   },
   "stehen": {
    "en": "to stand",
@@ -3231,6 +3631,14 @@
    "aux": "ist",
    "imp": "stürz"
   },
+  "stützen": {
+   "en": "to prop up",
+   "pres3": "stützt",
+   "pres2": "stützt",
+   "past3": "stützte",
+   "pp": "gestützt",
+   "aux": "hat"
+  },
   "suchen": {
    "en": "to look for",
    "pres3": "sucht",
@@ -3294,6 +3702,14 @@
    "aux": "hat",
    "imp": "trag"
   },
+  "trauen": {
+   "en": "to dare",
+   "pres3": "traut",
+   "pres2": "traust",
+   "past3": "traute",
+   "pp": "getraut",
+   "aux": "hat"
+  },
   "trauern": {
    "en": "to grieve",
    "pres3": "trauert",
@@ -3320,6 +3736,15 @@
    "aux": "hat",
    "imp": "trenn"
   },
+  "treten": {
+   "en": "to step",
+   "pres3": "tritt",
+   "pres2": "trittst",
+   "past3": "trat",
+   "pp": "getreten",
+   "aux": "ist",
+   "imp": "tritt"
+  },
   "trinken": {
    "en": "to drink",
    "pres3": "trinkt",
@@ -3337,6 +3762,14 @@
    "pp": "getrocknet",
    "aux": "hat",
    "imp": "trockne"
+  },
+  "träumen": {
+   "en": "to dream",
+   "pres3": "träumt",
+   "pres2": "träumst",
+   "past3": "träumte",
+   "pp": "geträumt",
+   "aux": "hat"
   },
   "tun": {
    "en": "to do",
@@ -3471,6 +3904,16 @@
    "pre": "unter",
    "sep": false
   },
+  "unterstützen": {
+   "en": "to support",
+   "pres3": "unterstützt",
+   "pres2": "unterstützt",
+   "past3": "unterstützte",
+   "pp": "unterstützt",
+   "aux": "hat",
+   "pre": "unter",
+   "sep": false
+  },
   "untersuchen": {
    "en": "to examine",
    "pres3": "untersucht",
@@ -3559,6 +4002,14 @@
    "pre": "ver",
    "sep": false
   },
+  "verkohlen": {
+   "en": "to pull somebody's leg",
+   "pres3": "verkohlt",
+   "pres2": "verkohlst",
+   "past3": "verkohlte",
+   "pp": "verkohlt",
+   "aux": "hat"
+  },
   "verlangen": {
    "en": "to demand",
    "pres3": "verlangt",
@@ -3632,6 +4083,14 @@
    "aux": "hat",
    "imp": "verpass"
   },
+  "verschieben": {
+   "en": "to postpone",
+   "pres3": "verschiebt",
+   "pres2": "verschiebst",
+   "past3": "verschob",
+   "pp": "verschoben",
+   "aux": "hat"
+  },
   "verstecken": {
    "en": "to hide",
    "pres3": "versteckt",
@@ -3678,6 +4137,14 @@
    "pp": "verwechselt",
    "aux": "hat",
    "imp": "verwechsle"
+  },
+  "verzichten": {
+   "en": "to do without",
+   "pres3": "verzichtet",
+   "pres2": "verzichtest",
+   "past3": "verzichtete",
+   "pp": "verzichtet",
+   "aux": "hat"
   },
   "vorbeigehen": {
    "en": "to walk past",
@@ -3799,6 +4266,16 @@
    "aux": "hat",
    "imp": "wechsle"
   },
+  "weglassen": {
+   "en": "to leave out",
+   "pres3": "lässt weg",
+   "pres2": "lässt weg",
+   "past3": "liess weg",
+   "pp": "weggelassen",
+   "aux": "hat",
+   "pre": "weg",
+   "sep": true
+  },
   "weglegen": {
    "en": "to put down",
    "pres3": "legt weg",
@@ -3860,6 +4337,16 @@
    "pp": "weitergearbeitet",
    "aux": "hat",
    "imp": "arbeite weiter",
+   "pre": "weiter",
+   "sep": true
+  },
+  "weiteressen": {
+   "en": "to go on eating",
+   "pres3": "isst weiter",
+   "pres2": "isst weiter",
+   "past3": "ass weiter",
+   "pp": "weitergegessen",
+   "aux": "hat",
    "pre": "weiter",
    "sep": true
   },
@@ -3960,6 +4447,14 @@
    "aux": "hat",
    "imp": "wieg"
   },
+  "winken": {
+   "en": "to wave",
+   "pres3": "winkt",
+   "pres2": "winkst",
+   "past3": "winkte",
+   "pp": "gewinkt",
+   "aux": "hat"
+  },
   "wirken": {
    "en": "to work",
    "pres3": "wirkt",
@@ -4032,6 +4527,14 @@
    "aux": "hat",
    "imp": "zieh"
   },
+  "zucken": {
+   "en": "to twitch",
+   "pres3": "zuckt",
+   "pres2": "zuckst",
+   "past3": "zuckte",
+   "pp": "gezuckt",
+   "aux": "hat"
+  },
   "zuhören": {
    "en": "to listen",
    "pres3": "hört zu",
@@ -4087,6 +4590,16 @@
    "pre": "zurück",
    "sep": true
   },
+  "zurücknehmen": {
+   "en": "to take back",
+   "pres3": "nimmt zurück",
+   "pres2": "nimmst zurück",
+   "past3": "nahm zurück",
+   "pp": "zurückgenommen",
+   "aux": "hat",
+   "pre": "zurück",
+   "sep": true
+  },
   "zurückstellen": {
    "en": "to put back",
    "pres3": "stellt zurück",
@@ -4096,6 +4609,26 @@
    "aux": "hat",
    "imp": "stell zurück",
    "pre": "zurück",
+   "sep": true
+  },
+  "zusammenfallen": {
+   "en": "to collapse",
+   "pres3": "fällt zusammen",
+   "pres2": "fällst zusammen",
+   "past3": "fiel zusammen",
+   "pp": "zusammengefallen",
+   "aux": "ist",
+   "pre": "zusammen",
+   "sep": true
+  },
+  "zusammenhalten": {
+   "en": "to hold together",
+   "pres3": "hält zusammen",
+   "pres2": "hältst zusammen",
+   "past3": "hielt zusammen",
+   "pp": "zusammengehalten",
+   "aux": "hat",
+   "pre": "zusammen",
    "sep": true
   },
   "zusammenziehen": {
@@ -4117,6 +4650,16 @@
    "pp": "zugeschaut",
    "aux": "hat",
    "imp": "schau zu",
+   "pre": "zu",
+   "sep": true
+  },
+  "zustimmen": {
+   "en": "to agree",
+   "pres3": "stimmt zu",
+   "pres2": "stimmst zu",
+   "past3": "stimmte zu",
+   "pp": "zugestimmt",
+   "aux": "hat",
    "pre": "zu",
    "sep": true
   },
@@ -4165,6 +4708,16 @@
    "aux": "hat",
    "imp": "üb"
   },
+  "überhören": {
+   "en": "to miss hearing",
+   "pres3": "überhört",
+   "pres2": "überhörst",
+   "past3": "überhörte",
+   "pp": "überhört",
+   "aux": "hat",
+   "pre": "über",
+   "sep": false
+  },
   "überlegen": {
    "en": "to think over",
    "pres3": "überlegt",
@@ -4185,6 +4738,16 @@
    "pre": "über",
    "sep": false
   },
+  "überschreiten": {
+   "en": "to overstep",
+   "pres3": "überschreitet",
+   "pres2": "überschreitest",
+   "past3": "überschritt",
+   "pp": "überschritten",
+   "aux": "hat",
+   "pre": "über",
+   "sep": false
+  },
   "übersetzen": {
    "en": "to translate",
    "pres3": "übersetzt",
@@ -4194,6 +4757,16 @@
    "aux": "hat",
    "imp": "übersetze"
   },
+  "übertreiben": {
+   "en": "to exaggerate",
+   "pres3": "übertreibt",
+   "pres2": "übertreibst",
+   "past3": "übertrieb",
+   "pp": "übertrieben",
+   "aux": "hat",
+   "pre": "über",
+   "sep": false
+  },
   "überweisen": {
    "en": "to transfer money",
    "pres3": "überweist",
@@ -4202,6 +4775,16 @@
    "pp": "überwiesen",
    "aux": "hat",
    "imp": "überweis",
+   "pre": "über",
+   "sep": false
+  },
+  "überzeugen": {
+   "en": "to convince",
+   "pres3": "überzeugt",
+   "pres2": "überzeugst",
+   "past3": "überzeugte",
+   "pp": "überzeugt",
+   "aux": "hat",
    "pre": "über",
    "sep": false
   }

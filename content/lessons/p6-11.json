@@ -1,0 +1,337 @@
+{
+ "id": "p6-11",
+ "title": "Falsch spielen",
+ "desc": "Being bad at something in public",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "üben",
+  "spielen"
+ ],
+ "sn": [
+  {
+   "s": "Ich kann kein Instrument spielen.",
+   "e": "I cannot play an instrument."
+  },
+  {
+   "s": "Im Sommer üben wir manchmal draussen auf einer Wiese hinter dem Dorf.",
+   "e": "In the summer we sometimes practise outside on a meadow behind the village."
+  },
+  {
+   "s": "Das ist keine Bescheidenheit, das ist eine Tatsache.",
+   "e": "That is not modesty, that is a fact."
+  },
+  {
+   "s": "Ich habe als Kind zwei Jahre etwas gelernt und alles vergessen.",
+   "e": "As a child I learnt something for two years and forgot all of it."
+  },
+  {
+   "s": "Das Instrument von damals ist zu Hause in einer Kiste geblieben.",
+   "e": "The instrument from back then stayed at home in a box."
+  },
+  {
+   "s": "Im Februar bin ich mit einer Trommel durch eine Stadt gelaufen.",
+   "e": "In February I walked through a city with a drum."
+  },
+  {
+   "s": "Vor ungefähr zweihundert Leuten, die an der Strasse gestanden sind.",
+   "e": "In front of about two hundred people standing along the street."
+  },
+  {
+   "s": "Ich habe zweimal falsch gespielt und einmal ganz aufgehört.",
+   "e": "I played wrong twice and once stopped completely."
+  },
+  {
+   "s": "Niemand hat etwas gesagt.",
+   "e": "Nobody said anything."
+  },
+  {
+   "s": "Das ist die Sache, die ich hier am wenigsten erwartet habe.",
+   "e": "That is the thing I expected least here."
+  },
+  {
+   "s": "In einem Land, in dem alles genau ist, darf man schlecht sein.",
+   "e": "In a country where everything is precise, you are allowed to be bad."
+  },
+  {
+   "s": "Es hat ein Wort dafür und das Wort ist wichtig.",
+   "e": "There is a word for it and the word matters."
+  },
+  {
+   "s": "Der Amateur.",
+   "e": "The amateur."
+  },
+  {
+   "s": "Es heisst hier nicht, dass jemand es nicht kann.",
+   "e": "Here it does not mean that somebody cannot do it."
+  },
+  {
+   "s": "Es heisst, dass er es nicht für Geld macht.",
+   "e": "It means that they do not do it for money."
+  },
+  {
+   "s": "Das ganze Land läuft auf Amateuren.",
+   "e": "The whole country runs on amateurs."
+  },
+  {
+   "s": "Die Feuerwehr im Dorf, der Vorstand vom Verein, das Parlament.",
+   "e": "The village fire brigade, the club committee, the parliament."
+  },
+  {
+   "s": "Leute, die etwas neben ihrer Arbeit machen und es ernst nehmen.",
+   "e": "People who do something alongside their job and take it seriously."
+  },
+  {
+   "s": "Ernst nehmen heisst nicht gut sein.",
+   "e": "Taking it seriously does not mean being good."
+  },
+  {
+   "s": "Es heisst hingehen, jede Woche, seit vierundvierzig Jahren.",
+   "e": "It means turning up, every week, for forty-four years."
+  },
+  {
+   "s": "Das ist die Währung, nicht das Talent.",
+   "e": "That is the currency, not the talent."
+  },
+  {
+   "s": "Es gibt trotzdem Regeln und ich habe sie langsam gelernt.",
+   "e": "There are rules all the same and I learnt them slowly."
+  },
+  {
+   "s": "Die erste ist, dass man üben muss.",
+   "e": "The first is that you have to practise."
+  },
+  {
+   "s": "Schlecht sein ist erlaubt und nicht üben ist es nicht.",
+   "e": "Being bad is allowed and not practising is not."
+  },
+  {
+   "s": "Wer zur Probe kommt und die sechs Takte nicht angeschaut hat, ist das Problem.",
+   "e": "Whoever comes to the rehearsal and has not looked at the six bars is the problem."
+  },
+  {
+   "s": "Nicht der, der sie geübt hat und trotzdem nicht kann.",
+   "e": "Not the one who has practised them and still cannot do them."
+  },
+  {
+   "s": "Die zweite Regel ist, dass man nicht über sich selber redet.",
+   "e": "The second rule is that you do not talk about yourself."
+  },
+  {
+   "s": "Ich habe im Dezember zweimal gesagt, dass ich das nicht kann.",
+   "e": "In December I twice said that I could not do it."
+  },
+  {
+   "s": "Beim zweiten Mal hat Margrit den Kopf gehoben.",
+   "e": "The second time Margrit lifted her head."
+  },
+  {
+   "s": "Sie hat gesagt: Ja, das wissen wir.",
+   "e": "She said: yes, we know that."
+  },
+  {
+   "s": "Sie hat es freundlich gesagt und es war eine Korrektur.",
+   "e": "She said it in a friendly way and it was a correction."
+  },
+  {
+   "s": "Wer ständig sagt, dass er schlecht ist, verlangt etwas.",
+   "e": "Whoever keeps saying they are bad is asking for something."
+  },
+  {
+   "s": "Er verlangt, dass jemand sagt, dass es nicht stimmt.",
+   "e": "They are asking somebody to say that it is not true."
+  },
+  {
+   "s": "Das ist hier unangenehm, weil es dem anderen Arbeit gibt.",
+   "e": "That is unpleasant here, because it gives the other person work."
+  },
+  {
+   "s": "Man sagt es einmal, am Anfang, und dann nicht mehr.",
+   "e": "You say it once, at the beginning, and then not again."
+  },
+  {
+   "s": "Ich kann das noch nicht, ich übe.",
+   "e": "I cannot do that yet, I am practising."
+  },
+  {
+   "s": "Das ist der ganze Satz und er reicht für ein Jahr.",
+   "e": "That is the whole sentence and it lasts a year."
+  },
+  {
+   "s": "Noch nicht ist der wichtigste Teil davon.",
+   "e": "Noch nicht is the most important part of it."
+  },
+  {
+   "s": "Ich kann das nicht ist ein Zustand.",
+   "e": "Ich kann das nicht is a state."
+  },
+  {
+   "s": "Ich kann das noch nicht ist ein Weg.",
+   "e": "Ich kann das noch nicht is a path."
+  },
+  {
+   "s": "Die dritte Regel habe ich erst im Februar verstanden.",
+   "e": "I only understood the third rule in February."
+  },
+  {
+   "s": "Man darf nicht besser sein wollen als die Gruppe.",
+   "e": "You must not want to be better than the group."
+  },
+  {
+   "s": "Ein Mann bei uns spielt sehr gut Trompete.",
+   "e": "One man with us plays the trumpet very well."
+  },
+  {
+   "s": "Er hat es gelernt, richtig, mit Lehrer und Prüfungen.",
+   "e": "He learnt it properly, with a teacher and exams."
+  },
+  {
+   "s": "Er spielt bei uns genau so falsch wie alle anderen.",
+   "e": "With us he plays exactly as wrong as everybody else."
+  },
+  {
+   "s": "Ich habe ihn gefragt, ob ihn das nicht stört.",
+   "e": "I asked him whether that did not bother him."
+  },
+  {
+   "s": "Er hat gesagt: Wir spielen nicht schön. Wir spielen zusammen.",
+   "e": "He said: we do not play beautifully. We play together."
+  },
+  {
+   "s": "Dann hat er gesagt: Wenn einer schön spielt, hört man ihn.",
+   "e": "Then he said: if one person plays beautifully, you hear them."
+  },
+  {
+   "s": "Dann hat er gesagt: Und dann ist es keine Gugge mehr.",
+   "e": "Then he said: and then it is not a Gugge any more."
+  },
+  {
+   "s": "Am Umzug bin ich in der dritten Reihe gelaufen.",
+   "e": "In the parade I walked in the third row."
+  },
+  {
+   "s": "Mit einer Maske sieht man den Weg schlecht und die Noten gar nicht.",
+   "e": "With a mask you can hardly see the way and the music not at all."
+  },
+  {
+   "s": "Hinter mir war Margrit und vor mir waren zwei Trompeten.",
+   "e": "Behind me was Margrit and in front of me were two trumpets."
+  },
+  {
+   "s": "Nach ungefähr zwanzig Minuten habe ich das Stück verloren.",
+   "e": "After about twenty minutes I lost the piece."
+  },
+  {
+   "s": "Ich habe nicht mehr gewusst, wo wir sind.",
+   "e": "I no longer knew where we were."
+  },
+  {
+   "s": "Ich habe aufgehört zu spielen und nur noch gelaufen.",
+   "e": "I stopped playing and just walked."
+  },
+  {
+   "s": "Vier Takte lang, vielleicht acht.",
+   "e": "For four bars, maybe eight."
+  },
+  {
+   "s": "Margrit hat von hinten laut auf zwei und auf vier gespielt.",
+   "e": "Margrit played loudly on two and on four from behind."
+  },
+  {
+   "s": "Sehr laut, sehr genau, viel zu laut für ihr Instrument.",
+   "e": "Very loudly, very precisely, far too loud for her instrument."
+  },
+  {
+   "s": "Sie hat es gemacht, bis ich wieder drin war.",
+   "e": "She did it until I was back in."
+  },
+  {
+   "s": "Dann hat sie wieder normal gespielt.",
+   "e": "Then she played normally again."
+  },
+  {
+   "s": "Wir haben danach nie darüber geredet.",
+   "e": "We never talked about it afterwards."
+  },
+  {
+   "s": "Das ist der Moment aus diesem ganzen Winter, den ich behalten habe.",
+   "e": "That is the moment from that whole winter that I have kept."
+  },
+  {
+   "s": "Nicht der Urknall und nicht der Umzug.",
+   "e": "Not the Urknall and not the parade."
+  },
+  {
+   "s": "Eine Frau von einundsiebzig, die vier Takte lang zu laut spielt.",
+   "e": "A woman of seventy-one playing too loudly for four bars."
+  },
+  {
+   "s": "Am Abend hat mich jemand auf der Strasse gefragt, ob ich mitspiele.",
+   "e": "In the evening somebody in the street asked me whether I play."
+  },
+  {
+   "s": "Ein Mann mit einem Kind auf den Schultern.",
+   "e": "A man with a child on his shoulders."
+  },
+  {
+   "s": "Ich habe gesagt: Ja, seit einem Jahr.",
+   "e": "I said: yes, for a year."
+  },
+  {
+   "s": "Er hat gesagt: Und, macht es Spass?",
+   "e": "He said: and, is it fun?"
+  },
+  {
+   "s": "Nicht: seid ihr gut.",
+   "e": "Not: are you good."
+  },
+  {
+   "s": "Diese Frage stellt hier niemand.",
+   "e": "Nobody here asks that question."
+  },
+  {
+   "s": "Ich habe gesagt: Sehr.",
+   "e": "I said: very."
+  },
+  {
+   "s": "Er hat genickt und ist weiter.",
+   "e": "He nodded and went on."
+  },
+  {
+   "s": "Das ganze Gespräch war acht Sekunden lang.",
+   "e": "The whole conversation lasted eight seconds."
+  },
+  {
+   "s": "Ich habe eine Woche später gemerkt, was daran wichtig war.",
+   "e": "A week later I noticed what was important about it."
+  },
+  {
+   "s": "Er hat mit mir geredet, als ob ich dazugehöre.",
+   "e": "He talked to me as though I belonged."
+  },
+  {
+   "s": "Nicht zum Land. Zur Gugge.",
+   "e": "Not to the country. To the band."
+  },
+  {
+   "s": "Ich bin in einem Kostüm gewesen, das er nicht auseinanderhalten kann.",
+   "e": "I was in a costume that he cannot tell apart from the others."
+  },
+  {
+   "s": "Für zwei Stunden war ich einer von fünfundzwanzig.",
+   "e": "For two hours I was one of twenty-five."
+  },
+  {
+   "s": "Das ist die andere Sache, die eine Gugge macht.",
+   "e": "That is the other thing a Gugge does."
+  },
+  {
+   "s": "Sie macht aus fünfundzwanzig Leuten eine Sache mit einem Namen.",
+   "e": "It turns twenty-five people into one thing with a name."
+  },
+  {
+   "s": "Und die Sache hat keinen Akzent.",
+   "e": "And the thing has no accent."
+  }
+ ]
+}

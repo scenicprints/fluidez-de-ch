@@ -1,0 +1,319 @@
+{
+ "id": "p6-20",
+ "title": "Zürich",
+ "desc": "The other city, discussed",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "teuer",
+  "Stadt",
+  "schnell",
+  "gross"
+ ],
+ "sn": [
+  {
+   "s": "Zürich ist fünfundvierzig Minuten weg.",
+   "e": "Zurich is forty-five minutes away."
+  },
+  {
+   "s": "Es sind ungefähr fünfzig Kilometer und man fährt sie nie zu Fuss.",
+   "e": "It is about fifty kilometres and nobody ever walks it."
+  },
+  {
+   "s": "Mit dem schnellen Zug sind es weniger und alle wissen die Zahl.",
+   "e": "With the fast train it is less and everybody knows the number."
+  },
+  {
+   "s": "Es ist die grösste Stadt im Land und hier redet man darüber wie über eine Krankheit.",
+   "e": "It is the biggest city in the country and here people talk about it like an illness."
+  },
+  {
+   "s": "Ich habe es einmal verteidigt und ich habe es nie wieder gemacht.",
+   "e": "I defended it once and I never did it again."
+  },
+  {
+   "s": "Das war im September, am Tisch, mit fünf Leuten.",
+   "e": "That was in September, at the table, with five people."
+  },
+  {
+   "s": "Jemand hat gesagt, dass in Zürich alles teurer ist und alle hetzen.",
+   "e": "Somebody said that in Zurich everything is more expensive and everybody rushes."
+  },
+  {
+   "s": "Ich habe gesagt: Ich finde Zürich eigentlich schön.",
+   "e": "I said: I actually find Zurich rather nice."
+  },
+  {
+   "s": "Der Tisch hat mich angeschaut.",
+   "e": "The table looked at me."
+  },
+  {
+   "s": "Niemand war böse und niemand hat gestritten.",
+   "e": "Nobody was angry and nobody argued."
+  },
+  {
+   "s": "Timo hat gesagt: Ja, für ein Wochenende.",
+   "e": "Timo said: yes, for a weekend."
+  },
+  {
+   "s": "Damit war es fertig und ich habe verloren, ohne dass es einen Streit gab.",
+   "e": "With that it was over and I had lost, without there being an argument."
+  },
+  {
+   "s": "Das ist eine Technik und ich habe zwei Monate gebraucht, um sie zu sehen.",
+   "e": "That is a technique and it took me two months to see it."
+  },
+  {
+   "s": "Man widerspricht nicht.",
+   "e": "You do not contradict."
+  },
+  {
+   "s": "Man stimmt zu und macht die Zustimmung so klein, dass nichts bleibt.",
+   "e": "You agree and make the agreement so small that nothing is left."
+  },
+  {
+   "s": "Ja, für ein Wochenende.",
+   "e": "Yes, for a weekend."
+  },
+  {
+   "s": "Ja, wenn man es mag.",
+   "e": "Yes, if you like that."
+  },
+  {
+   "s": "Ja, das kann man so sehen.",
+   "e": "Yes, you can see it that way."
+  },
+  {
+   "s": "Alle drei heissen nein und keiner davon ist ein Streit.",
+   "e": "All three mean no and none of them is an argument."
+  },
+  {
+   "s": "Was man über Zürich sagt, ist immer das Gleiche.",
+   "e": "What people say about Zurich is always the same."
+  },
+  {
+   "s": "Es ist zu gross, zu teuer, zu schnell und zu wichtig.",
+   "e": "It is too big, too expensive, too fast and too important."
+  },
+  {
+   "s": "Die Leute dort denken, dass sie das Land sind.",
+   "e": "The people there think that they are the country."
+  },
+  {
+   "s": "Der letzte Satz ist der eigentliche und die anderen sind die Verpackung.",
+   "e": "The last sentence is the real one and the others are the packaging."
+  },
+  {
+   "s": "Es geht nicht um die Stadt.",
+   "e": "It is not about the city."
+  },
+  {
+   "s": "Es geht darum, dass ein Ort für alle anderen redet.",
+   "e": "It is about one place talking for all the others."
+  },
+  {
+   "s": "Das ist in jedem Land so und hier hat es einen eigenen Ton.",
+   "e": "That is the case in every country and here it has a tone of its own."
+  },
+  {
+   "s": "Der Ton ist: wir sind kleiner und uns ist das recht.",
+   "e": "The tone is: we are smaller and we are fine with that."
+  },
+  {
+   "s": "Für Vergleiche braucht man ein paar Formen und sie sind einfach.",
+   "e": "For comparisons you need a few forms and they are simple."
+  },
+  {
+   "s": "Gross, grösser, am grössten.",
+   "e": "Big, bigger, biggest."
+  },
+  {
+   "s": "Teuer, teurer, am teuersten.",
+   "e": "Expensive, more expensive, most expensive."
+  },
+  {
+   "s": "Schnell, schneller, am schnellsten.",
+   "e": "Fast, faster, fastest."
+  },
+  {
+   "s": "Man hängt er an und ein paar Wörter bekommen dazu Umlaute.",
+   "e": "You hang er on and a few words also get umlauts."
+  },
+  {
+   "s": "Gross wird grösser und alt wird älter und hoch wird höher.",
+   "e": "Gross becomes grösser and alt becomes älter and hoch becomes höher."
+  },
+  {
+   "s": "Man muss diese wenigen lernen, weil sie die häufigsten sind.",
+   "e": "You have to learn those few, because they are the commonest."
+  },
+  {
+   "s": "Dann kommt als für den Vergleich.",
+   "e": "Then comes als for the comparison."
+  },
+  {
+   "s": "Zürich ist grösser als Luzern.",
+   "e": "Zurich is bigger than Luzern."
+  },
+  {
+   "s": "Hier ist es teurer als in Deutschland.",
+   "e": "Here it is more expensive than in Germany."
+  },
+  {
+   "s": "Und wie für das Gleiche.",
+   "e": "And wie for the same."
+  },
+  {
+   "s": "Kriens ist nicht so teuer wie die Stadt.",
+   "e": "Kriens is not as expensive as the town."
+  },
+  {
+   "s": "Zwei kleine Wörter und man verwechselt sie ein Jahr lang.",
+   "e": "Two small words and you get them mixed up for a year."
+  },
+  {
+   "s": "Für eine Meinung braucht man lieber und am liebsten.",
+   "e": "For a preference you need lieber and am liebsten."
+  },
+  {
+   "s": "Ich bin lieber hier.",
+   "e": "I would rather be here."
+  },
+  {
+   "s": "Ich fahre am liebsten mit dem Zug.",
+   "e": "I like going by train best."
+  },
+  {
+   "s": "Das ist die höfliche Art, eine Stadt schlecht zu machen.",
+   "e": "That is the polite way of running a city down."
+  },
+  {
+   "s": "Man sagt nicht, dass Zürich schlecht ist.",
+   "e": "You do not say that Zurich is bad."
+  },
+  {
+   "s": "Man sagt, dass man lieber hier ist, und das ist unangreifbar.",
+   "e": "You say that you would rather be here, and that cannot be attacked."
+  },
+  {
+   "s": "Ich fahre ungefähr sechsmal im Jahr nach Zürich.",
+   "e": "I go to Zurich about six times a year."
+  },
+  {
+   "s": "Zweimal für die Arbeit und viermal, weil es dort etwas gibt.",
+   "e": "Twice for work and four times because there is something there."
+  },
+  {
+   "s": "Es ist wirklich schneller dort und man merkt es am Bahnhof.",
+   "e": "It really is faster there and you notice it at the station."
+  },
+  {
+   "s": "Zwischen den zwei Städten liegen Hügel und ein See.",
+   "e": "Between the two cities there are hills and a lake."
+  },
+  {
+   "s": "Die Leute gehen anders.",
+   "e": "People walk differently."
+  },
+  {
+   "s": "In Luzern geht man und in Zürich geht man irgendwohin.",
+   "e": "In Luzern you walk and in Zurich you walk somewhere."
+  },
+  {
+   "s": "Bei einer Verspätung schauen dort alle sofort auf das Handy.",
+   "e": "When there is a delay everybody there looks at their phone immediately."
+  },
+  {
+   "s": "Ich merke das seit ungefähr einem Jahr und vorher nicht.",
+   "e": "I have noticed that for about a year and not before."
+  },
+  {
+   "s": "Das ist das eigentlich Interessante an dieser ganzen Sache.",
+   "e": "That is the actually interesting thing about this whole business."
+  },
+  {
+   "s": "Vor drei Jahren war Zürich für mich eine Stadt in der Schweiz.",
+   "e": "Three years ago Zurich was a city in Switzerland for me."
+  },
+  {
+   "s": "Jetzt ist es die andere Stadt.",
+   "e": "Now it is the other city."
+  },
+  {
+   "s": "Ich habe eine Seite und ich habe sie nicht gewählt.",
+   "e": "I have a side and I did not choose it."
+  },
+  {
+   "s": "Man bekommt sie, wenn man irgendwo wohnt und Leute kennt.",
+   "e": "You get it when you live somewhere and know people."
+  },
+  {
+   "s": "Ich habe es im Frühling gemerkt, in einem Zug nach Zürich.",
+   "e": "I noticed it in the spring, on a train to Zurich."
+  },
+  {
+   "s": "Zwei Leute haben hinter mir über Luzern geredet.",
+   "e": "Two people behind me were talking about Luzern."
+  },
+  {
+   "s": "Sie haben gesagt, dass dort nichts läuft und dass alle alt sind.",
+   "e": "They said that nothing happens there and that everybody is old."
+  },
+  {
+   "s": "Sie haben es freundlich gesagt, so wie man über ein Dorf redet.",
+   "e": "They said it in a friendly way, the way you talk about a village."
+  },
+  {
+   "s": "Ich habe mich geärgert und das hat mich überrascht.",
+   "e": "I got annoyed and that surprised me."
+  },
+  {
+   "s": "Ich habe nichts gesagt, weil man das nicht macht.",
+   "e": "I said nothing, because you do not do that."
+  },
+  {
+   "s": "Ich habe zwei Stationen lang einen Satz gebaut, den ich nicht gesagt habe.",
+   "e": "For two stops I built a sentence that I did not say."
+  },
+  {
+   "s": "Das ist die Schweiz in mir und sie ist noch nicht sehr alt.",
+   "e": "That is the Switzerland in me and it is not very old yet."
+  },
+  {
+   "s": "Selina hat gelacht, als ich es ihr erzählt habe.",
+   "e": "Selina laughed when I told her about it."
+  },
+  {
+   "s": "Sie hat gefragt: Und was wäre dein Satz gewesen?",
+   "e": "She asked: and what would your sentence have been?"
+  },
+  {
+   "s": "Ich habe gesagt: Bei uns fährt der letzte Zug um Mitternacht.",
+   "e": "I said: our last train goes at midnight."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist ein sehr schlechtes Argument.",
+   "e": "She said: that is a very bad argument."
+  },
+  {
+   "s": "Sie hat gesagt: Und du hast bei uns gesagt.",
+   "e": "She said: and you said our."
+  },
+  {
+   "s": "Das habe ich nicht gemerkt.",
+   "e": "I had not noticed that."
+  },
+  {
+   "s": "Sie hat es gemerkt und sie hat nichts weiter dazu gesagt.",
+   "e": "She noticed it and she said nothing more about it."
+  },
+  {
+   "s": "Sie sagt nie etwas weiter dazu.",
+   "e": "She never says anything more about it."
+  },
+  {
+   "s": "Sie legt es hin und lässt es liegen und ich finde es drei Tage später.",
+   "e": "She puts it down and leaves it lying and I find it three days later."
+  }
+ ]
+}

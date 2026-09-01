@@ -1,0 +1,333 @@
+{
+ "id": "p6-22",
+ "title": "Der erste August",
+ "desc": "Bonfires on the hills, and bread with a flag in it",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "Fahne",
+  "Feuer"
+ ],
+ "sn": [
+  {
+   "s": "Der erste August ist der Nationalfeiertag.",
+   "e": "The first of August is the national holiday."
+  },
+  {
+   "s": "Er ist der einzige im Jahr und er ist am ersten August, immer.",
+   "e": "It is the only one in the year and it is on the first of August, always."
+  },
+  {
+   "s": "Wenn er auf einen Sonntag fällt, hat man Pech.",
+   "e": "If it falls on a Sunday, you are out of luck."
+  },
+  {
+   "s": "Dann sagt man leider und arbeitet am Montag ganz normal.",
+   "e": "Then you say leider and work quite normally on Monday."
+  },
+  {
+   "s": "Es wird nicht verschoben und niemand redet davon, es zu verschieben.",
+   "e": "It is not moved and nobody talks about moving it."
+  },
+  {
+   "s": "Wir sind mit den Odermatts auf einen Hügel über Kriens.",
+   "e": "We went up a hill above Kriens with the Odermatts."
+  },
+  {
+   "s": "Es sind ungefähr vierzig Minuten zu Fuss und alle gehen zu Fuss.",
+   "e": "It is about forty minutes on foot and everybody walks."
+  },
+  {
+   "s": "Oben ist eine Wiese und dort war eine Beiz mit einem Zelt.",
+   "e": "At the top there is a meadow and there was a pub with a tent."
+  },
+  {
+   "s": "Es waren vielleicht zweihundert Leute da, aus dem Quartier.",
+   "e": "There were maybe two hundred people there, from the neighbourhood."
+  },
+  {
+   "s": "Es hat drei Sachen, die überall gleich sind, und ich kenne jetzt alle drei.",
+   "e": "There are three things that are the same everywhere, and I now know all three."
+  },
+  {
+   "s": "Die erste ist das Feuer.",
+   "e": "The first is the fire."
+  },
+  {
+   "s": "Auf jedem Hügel im Land brennt an dem Abend ein Feuer.",
+   "e": "On every hill in the country a fire burns that evening."
+  },
+  {
+   "s": "Man macht es aus Holz, das man vorher hinaufgetragen hat.",
+   "e": "You make it out of wood you have carried up beforehand."
+  },
+  {
+   "s": "Von oben sieht man die anderen Feuer, auf den anderen Hügeln.",
+   "e": "From up there you see the other fires, on the other hills."
+  },
+  {
+   "s": "Ich habe an dem Abend sieben gezählt.",
+   "e": "That evening I counted seven."
+  },
+  {
+   "s": "Das ist der Teil, den man nicht erwartet, wenn man es liest.",
+   "e": "That is the part you do not expect when you read about it."
+  },
+  {
+   "s": "Es ist nicht ein Feuer, es sind Hunderte, und man sieht sie gleichzeitig.",
+   "e": "It is not one fire, it is hundreds, and you see them at the same time."
+  },
+  {
+   "s": "Die zweite Sache ist das Brot.",
+   "e": "The second thing is the bread."
+  },
+  {
+   "s": "Es gibt an dem Tag ein bestimmtes Brot und darin steckt eine kleine Fahne.",
+   "e": "There is a particular bread on that day and a small flag is stuck in it."
+  },
+  {
+   "s": "Eine Papierfahne an einem Zahnstocher, in jedem Laden, ab Ende Juli.",
+   "e": "A paper flag on a toothpick, in every shop, from the end of July."
+  },
+  {
+   "s": "Es ist ein Weggen mit einer Fahne und es kostet zwei Franken.",
+   "e": "It is a Weggen with a flag and it costs two francs."
+  },
+  {
+   "s": "Es schmeckt genau wie ein Brot ohne Fahne.",
+   "e": "It tastes exactly like a bread without a flag."
+  },
+  {
+   "s": "Alle kaufen es und alle wissen, dass es einfach Brot ist.",
+   "e": "Everybody buys it and everybody knows that it is simply bread."
+  },
+  {
+   "s": "Die dritte Sache ist die Rede.",
+   "e": "The third thing is the speech."
+  },
+  {
+   "s": "Es hält jemand eine Rede und es ist meistens jemand aus der Gemeinde.",
+   "e": "Somebody gives a speech and it is usually somebody from the local council."
+  },
+  {
+   "s": "Sie dauert zehn bis fünfzehn Minuten.",
+   "e": "It lasts ten to fifteen minutes."
+  },
+  {
+   "s": "Man redet über das Land und über die Zeit und über das Zusammenleben.",
+   "e": "They talk about the country and about the times and about living together."
+  },
+  {
+   "s": "Ungefähr die Hälfte der Leute hört zu.",
+   "e": "About half the people listen."
+  },
+  {
+   "s": "Das ist keine Unhöflichkeit, das ist Teil vom Abend.",
+   "e": "That is not rudeness, that is part of the evening."
+  },
+  {
+   "s": "Die Kinder rennen herum und die Erwachsenen reden weiter, leise.",
+   "e": "The children run around and the adults go on talking, quietly."
+  },
+  {
+   "s": "Am Schluss klatschen alle und dann geht es weiter wie vorher.",
+   "e": "At the end everybody claps and then it goes on as before."
+  },
+  {
+   "s": "Manchmal singt jemand etwas und meistens singt niemand.",
+   "e": "Sometimes somebody sings something and mostly nobody sings."
+  },
+  {
+   "s": "Ich habe erwartet, dass es ein lauter Tag ist.",
+   "e": "I had expected it to be a loud day."
+  },
+  {
+   "s": "Ich kenne Nationalfeiertage mit Musik und Fahnen und viel Reden.",
+   "e": "I know national days with music and flags and a lot of talking."
+  },
+  {
+   "s": "Hier ist es ruhig und ungefähr so gross wie ein Dorffest.",
+   "e": "Here it is quiet and about as big as a village fair."
+  },
+  {
+   "s": "Es hat Fahnen, aber es hat immer Fahnen, das ganze Jahr.",
+   "e": "There are flags, but there are always flags, all year round."
+  },
+  {
+   "s": "Sie hängen an Häusern und an Schiffen und niemand denkt daran.",
+   "e": "They hang on houses and on boats and nobody thinks about it."
+  },
+  {
+   "s": "Es gibt Höhenfeuer und Lampions für die Kinder.",
+   "e": "There are hilltop fires and paper lanterns for the children."
+  },
+  {
+   "s": "Es gibt keine grosse Parade und es gibt kein Militär.",
+   "e": "There is no big parade and there is no military."
+  },
+  {
+   "s": "Ich habe gefragt, warum es so klein ist.",
+   "e": "I asked why it is so small."
+  },
+  {
+   "s": "Kurt hat geantwortet, was er selten macht.",
+   "e": "Kurt answered, which he rarely does."
+  },
+  {
+   "s": "Er hat gesagt: Weil es nicht dem Land gehört.",
+   "e": "He said: because it does not belong to the country."
+  },
+  {
+   "s": "Er hat gesagt: Es gehört der Gemeinde.",
+   "e": "He said: it belongs to the local community."
+  },
+  {
+   "s": "Er hat gesagt: Jede macht ihr eigenes Feuer.",
+   "e": "He said: each one makes its own fire."
+  },
+  {
+   "s": "Um das Feuer herum ist jede Familie für sich gestanden.",
+   "e": "Around the fire each family stood on its own."
+  },
+  {
+   "s": "Ich habe zwei Tage gebraucht, um zu sehen, dass das eine Erklärung war.",
+   "e": "It took me two days to see that that was an explanation."
+  },
+  {
+   "s": "Das ganze Land ist so gebaut und dieser Abend zeigt es.",
+   "e": "The whole country is built like that and that evening shows it."
+  },
+  {
+   "s": "Man feiert nicht in der Hauptstadt.",
+   "e": "You do not celebrate in the capital."
+  },
+  {
+   "s": "Man feiert auf zweitausend Hügeln gleichzeitig, jeder für sich.",
+   "e": "You celebrate on two thousand hills at the same time, each for itself."
+  },
+  {
+   "s": "Und wenn man hinaufschaut, sieht man die anderen.",
+   "e": "And when you look up, you see the others."
+  },
+  {
+   "s": "Marianne hat mich um ungefähr zehn Uhr etwas gefragt.",
+   "e": "At about ten o'clock Marianne asked me something."
+  },
+  {
+   "s": "Wir sind am Feuer gestanden und sie hat es freundlich gefragt.",
+   "e": "We were standing by the fire and she asked it in a friendly way."
+  },
+  {
+   "s": "Sie hat gefragt: Und, fühlst du dich schon ein bisschen schweizerisch?",
+   "e": "She asked: and, do you feel a little bit Swiss yet?"
+  },
+  {
+   "s": "Es war nett gemeint und es ist eine sehr grosse Frage.",
+   "e": "It was kindly meant and it is a very big question."
+  },
+  {
+   "s": "Ich habe zuerst nichts gesagt.",
+   "e": "At first I said nothing."
+  },
+  {
+   "s": "Ich habe an das Jahr gedacht.",
+   "e": "I thought about the year."
+  },
+  {
+   "s": "An die Trommel, an den Urknall, an vier Räppli in einer Jacke.",
+   "e": "About the drum, about the Urknall, about four Räppli in a jacket."
+  },
+  {
+   "s": "An eine Frau von einundsiebzig, die vier Takte lang zu laut spielt.",
+   "e": "About a woman of seventy-one playing too loudly for four bars."
+  },
+  {
+   "s": "An einen Satz im Zug, den ich nicht gesagt habe.",
+   "e": "About a sentence on a train that I did not say."
+  },
+  {
+   "s": "Ich habe gesagt: Ich weiss es nicht.",
+   "e": "I said: I do not know."
+  },
+  {
+   "s": "Ich habe gesagt: Ich fühle mich hier zu Hause.",
+   "e": "I said: I feel at home here."
+  },
+  {
+   "s": "Ich habe gesagt: Ob das das Gleiche ist, weiss ich nicht.",
+   "e": "I said: whether that is the same thing I do not know."
+  },
+  {
+   "s": "Marianne hat genickt und ins Feuer geschaut.",
+   "e": "Marianne nodded and looked into the fire."
+  },
+  {
+   "s": "Sie hat gesagt: Das ist eine gute Antwort.",
+   "e": "She said: that is a good answer."
+  },
+  {
+   "s": "Sie hat gesagt: Die meisten hier würden das Gleiche sagen.",
+   "e": "She said: most people here would say the same."
+  },
+  {
+   "s": "Das hat mich mehr überrascht als alles andere an dem Abend.",
+   "e": "That surprised me more than anything else that evening."
+  },
+  {
+   "s": "Ich habe gedacht, dass sie alle sicher sind.",
+   "e": "I had thought that they were all sure."
+  },
+  {
+   "s": "Sie sind nicht sicher.",
+   "e": "They are not sure."
+  },
+  {
+   "s": "Sie reden nur nicht darüber, weil man das nicht macht.",
+   "e": "They just do not talk about it, because you do not do that."
+  },
+  {
+   "s": "Der einzige, der es laut sagen würde, ist Fatlum, und er sagt es nicht.",
+   "e": "The only one who would say it out loud is Fatlum, and he does not say it."
+  },
+  {
+   "s": "Es gibt einen Satz, den man an dem Tag hört, und er ist ehrlich.",
+   "e": "There is a sentence you hear on that day and it is honest."
+  },
+  {
+   "s": "Man sagt: Es könnte schlimmer sein.",
+   "e": "People say: it could be worse."
+  },
+  {
+   "s": "Das ist hier fast Patriotismus.",
+   "e": "That is almost patriotism here."
+  },
+  {
+   "s": "Es steht in keiner Rede und es sagen an dem Abend zwanzig Leute.",
+   "e": "It is in no speech and twenty people say it that evening."
+  },
+  {
+   "s": "Ich bin um Mitternacht mit Selina hinunter.",
+   "e": "I went down with Selina at midnight."
+  },
+  {
+   "s": "Es war warm und man hat auf der anderen Seite noch Feuer gesehen.",
+   "e": "It was warm and you could still see fires on the other side."
+  },
+  {
+   "s": "Unten in der Stadt hat jemand noch Raketen geschossen.",
+   "e": "Down in the town somebody was still setting off rockets."
+  },
+  {
+   "s": "Selina hat gesagt: Die machen das jedes Jahr zu lang.",
+   "e": "Selina said: they do that for too long every year."
+  },
+  {
+   "s": "Ich habe gesagt: Ja, das ist wirklich unmöglich.",
+   "e": "I said: yes, that really is impossible."
+  },
+  {
+   "s": "Sie hat gelacht, weil ich reklamiert habe wie ein Einheimischer.",
+   "e": "She laughed, because I had complained like a local."
+  }
+ ]
+}

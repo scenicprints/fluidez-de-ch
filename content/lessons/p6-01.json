@@ -1,0 +1,380 @@
+{
+ "id": "p6-01",
+ "title": "Halt",
+ "desc": "The word for that is simply how it is",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "halt"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe es im Juli gesagt, ohne es zu merken.",
+   "e": "I said it in July without noticing."
+  },
+  {
+   "s": "Wir sind am Bahnhof gestanden und der Zug ist ausgefallen.",
+   "e": "We were standing at the station and the train was cancelled."
+  },
+  {
+   "s": "Nicht Verspätung. Ausgefallen.",
+   "e": "Not delayed. Cancelled."
+  },
+  {
+   "s": "Timo hat auf die Tafel geschaut und nichts gesagt.",
+   "e": "Timo looked at the board and said nothing."
+  },
+  {
+   "s": "Ich habe gesagt: Dann gehen wir halt später.",
+   "e": "I said: then we will just go later."
+  },
+  {
+   "s": "Timo hat den Kopf gedreht und mich angeschaut.",
+   "e": "Timo turned his head and looked at me."
+  },
+  {
+   "s": "Er hat gesagt: Was hast du gesagt?",
+   "e": "He said: what did you say?"
+  },
+  {
+   "s": "Ich habe gesagt: Dann gehen wir halt später.",
+   "e": "I said: then we will just go later."
+  },
+  {
+   "s": "Er hat gesagt: Genau so.",
+   "e": "He said: exactly like that."
+  },
+  {
+   "s": "Er hat es gesagt, wie man etwas Kleines lobt.",
+   "e": "He said it the way you praise something small."
+  },
+  {
+   "s": "Ich habe zwei Tage gebraucht, um zu verstehen, was passiert ist.",
+   "e": "It took me two days to understand what had happened."
+  },
+  {
+   "s": "Halt ist ein Wort, das nichts bedeutet.",
+   "e": "Halt is a word that means nothing."
+  },
+  {
+   "s": "Man kann es nicht übersetzen und man kann es nicht weglassen.",
+   "e": "You cannot translate it and you cannot leave it out."
+  },
+  {
+   "s": "Es steht mitten im Satz und man merkt es fast nicht.",
+   "e": "It sits in the middle of the sentence and you barely notice it."
+  },
+  {
+   "s": "Es ist das schweizerischste Wort, das es gibt.",
+   "e": "It is the most Swiss word there is."
+  },
+  {
+   "s": "Was es macht, ist einfach.",
+   "e": "What it does is simple."
+  },
+  {
+   "s": "Es sagt: das ist so, und niemand kann es ändern.",
+   "e": "It says: that is how it is, and nobody can change it."
+  },
+  {
+   "s": "Es ist halt so.",
+   "e": "That is just how it is."
+  },
+  {
+   "s": "Das ist halt teuer.",
+   "e": "That is just expensive."
+  },
+  {
+   "s": "Er ist halt so.",
+   "e": "He is just like that."
+  },
+  {
+   "s": "Dann halt nicht.",
+   "e": "Then not, fine."
+  },
+  {
+   "s": "In jedem Satz steckt eine kleine Achsel drin.",
+   "e": "In every one of those sentences there is a small shrug."
+  },
+  {
+   "s": "Man zuckt mit den Achseln, ohne die Achseln zu bewegen.",
+   "e": "You shrug your shoulders without moving your shoulders."
+  },
+  {
+   "s": "Zu Hause hätte ich einen ganzen Satz dafür gebraucht.",
+   "e": "At home I would have needed a whole sentence for that."
+  },
+  {
+   "s": "Ich hätte gesagt: Es ist nicht ideal, aber wir können nichts machen.",
+   "e": "I would have said: it is not ideal, but there is nothing we can do."
+  },
+  {
+   "s": "Hier sind es vier Buchstaben.",
+   "e": "Here it is four letters."
+  },
+  {
+   "s": "Halt macht noch etwas Zweites und das ist wichtiger.",
+   "e": "Halt does a second thing and that is more important."
+  },
+  {
+   "s": "Es macht ein Thema zu.",
+   "e": "It closes a topic."
+  },
+  {
+   "s": "Wenn jemand halt sagt, ist das Reden darüber fertig.",
+   "e": "When somebody says halt, the talking about it is over."
+  },
+  {
+   "s": "Nicht böse und nicht laut.",
+   "e": "Not angrily and not loudly."
+  },
+  {
+   "s": "Es heisst: wir haben es besprochen und es bleibt, wie es ist.",
+   "e": "It means: we have discussed it and it stays as it is."
+  },
+  {
+   "s": "Wer danach weiterredet, hat etwas nicht gehört.",
+   "e": "Whoever goes on talking after it has missed something."
+  },
+  {
+   "s": "Das habe ich zuerst nicht gewusst.",
+   "e": "I did not know that at first."
+  },
+  {
+   "s": "Im Büro hat Simon einmal gesagt: Das ist halt so entschieden worden.",
+   "e": "In the office Simon once said: that is just how it was decided."
+  },
+  {
+   "s": "Ich habe noch zwei Minuten weiter gefragt.",
+   "e": "I went on asking for another two minutes."
+  },
+  {
+   "s": "Er hat höflich geantwortet und es hat nichts gebracht.",
+   "e": "He answered politely and it got nowhere."
+  },
+  {
+   "s": "Das Thema war seit seinem Satz zu und ich habe es nicht gemerkt.",
+   "e": "The subject had been closed since his sentence and I had not noticed."
+  },
+  {
+   "s": "Es gibt einen Satz, in dem alles drin ist.",
+   "e": "There is one sentence that has all of it in it."
+  },
+  {
+   "s": "Es ist, wie es ist.",
+   "e": "It is how it is."
+  },
+  {
+   "s": "Man sagt ihn ruhig und man schaut dabei irgendwohin.",
+   "e": "You say it calmly and you look somewhere while you do."
+  },
+  {
+   "s": "Er ist nicht traurig.",
+   "e": "It is not sad."
+  },
+  {
+   "s": "Er ist auch nicht zufrieden.",
+   "e": "It is not satisfied either."
+  },
+  {
+   "s": "Er ist die Mitte davon und die Mitte ist hier ein eigener Ort.",
+   "e": "It is the middle of the two and the middle is a place of its own here."
+  },
+  {
+   "s": "Rosmarie hat das ständig gesagt.",
+   "e": "Rosmarie said it constantly."
+  },
+  {
+   "s": "Sie hat es über die Miete gesagt und über den Regen.",
+   "e": "She said it about the rent and about the rain."
+  },
+  {
+   "s": "Sie hat es über neun Jahre ohne Walter gesagt.",
+   "e": "She said it about nine years without Walter."
+  },
+  {
+   "s": "Damals habe ich es für Aufgeben gehalten.",
+   "e": "Back then I took it for giving up."
+  },
+  {
+   "s": "Es ist kein Aufgeben.",
+   "e": "It is not giving up."
+  },
+  {
+   "s": "Aufgeben heisst: ich wollte etwas und ich höre auf.",
+   "e": "Giving up means: I wanted something and I stop."
+  },
+  {
+   "s": "Halt heisst: das war nie zu ändern und ich mache trotzdem weiter.",
+   "e": "Halt means: that was never going to change and I am carrying on anyway."
+  },
+  {
+   "s": "Das ist ein Unterschied und er ist gross.",
+   "e": "That is a difference and it is a big one."
+  },
+  {
+   "s": "Ein ganzes Land ist so gebaut.",
+   "e": "A whole country is built that way."
+  },
+  {
+   "s": "Das Wetter ist, wie es ist.",
+   "e": "The weather is how it is."
+  },
+  {
+   "s": "Der Berg steht dort und der Zug fährt um sieben Uhr zwölf.",
+   "e": "The mountain stands there and the train leaves at seven twelve."
+  },
+  {
+   "s": "Man arbeitet mit dem, was da ist, und man beklagt sich kurz.",
+   "e": "You work with what is there, and you complain briefly."
+  },
+  {
+   "s": "Kurz beklagen und dann halt.",
+   "e": "Complain briefly and then halt."
+  },
+  {
+   "s": "Selina hat mir das anders erklärt.",
+   "e": "Selina explained it to me differently."
+  },
+  {
+   "s": "Sie hat gesagt: Halt ist das Gegenteil von Drama.",
+   "e": "She said: halt is the opposite of drama."
+  },
+  {
+   "s": "Sie hat gesagt: Wenn du halt sagst, machst du die Sache klein.",
+   "e": "She said: when you say halt, you make the thing small."
+  },
+  {
+   "s": "Sie hat gesagt: Und meistens ist sie klein.",
+   "e": "She said: and mostly it is small."
+  },
+  {
+   "s": "Dann hat sie gesagt: Bei grossen Sachen sagt man es nicht.",
+   "e": "Then she said: with big things you do not say it."
+  },
+  {
+   "s": "Das ist die Regel, die niemand aufschreibt.",
+   "e": "That is the rule nobody writes down."
+  },
+  {
+   "s": "Bei einem Zug, einer Rechnung, einem Regen: halt.",
+   "e": "For a train, a bill, some rain: halt."
+  },
+  {
+   "s": "Bei einem Tod: nie.",
+   "e": "For a death: never."
+  },
+  {
+   "s": "Wer bei etwas Grossem halt sagt, macht es kleiner, als es ist.",
+   "e": "Whoever says halt about something big makes it smaller than it is."
+  },
+  {
+   "s": "Das merken hier alle sofort.",
+   "e": "Everybody here notices that immediately."
+  },
+  {
+   "s": "Die Stellung im Satz ist einfach und man lernt sie durch Hören.",
+   "e": "The position in the sentence is simple and you learn it by listening."
+  },
+  {
+   "s": "Halt steht nach dem Verb.",
+   "e": "Halt comes after the verb."
+  },
+  {
+   "s": "Das ist halt so.",
+   "e": "That is just how it is."
+  },
+  {
+   "s": "Wir müssen halt warten.",
+   "e": "We will just have to wait."
+  },
+  {
+   "s": "Ich gehe halt zu Fuss.",
+   "e": "I will just walk then."
+  },
+  {
+   "s": "Es steht nie am Anfang und nie am Schluss.",
+   "e": "It never comes at the beginning and never at the end."
+  },
+  {
+   "s": "Es sitzt immer in der Mitte, wo man es überhört.",
+   "e": "It always sits in the middle, where you miss it."
+  },
+  {
+   "s": "Das ist bei allen diesen Wörtern so.",
+   "e": "That is the case with all these words."
+  },
+  {
+   "s": "Sie sind klein und sie stehen in der Mitte und sie tragen den Ton.",
+   "e": "They are small and they sit in the middle and they carry the tone."
+  },
+  {
+   "s": "Ich habe angefangen zu zählen, wie oft ich es höre.",
+   "e": "I started counting how often I heard it."
+  },
+  {
+   "s": "An einem normalen Dienstag im Büro: einunddreissigmal.",
+   "e": "On a normal Tuesday in the office: thirty-one times."
+  },
+  {
+   "s": "Am Abend am Tisch mit vier Leuten: neunzehnmal.",
+   "e": "In the evening at a table with four people: nineteen times."
+  },
+  {
+   "s": "Ich habe zwei Jahre lang keines davon gehört.",
+   "e": "For two years I did not hear a single one of them."
+  },
+  {
+   "s": "Nicht weil sie nicht da waren.",
+   "e": "Not because they were not there."
+  },
+  {
+   "s": "Weil ich zu viel Arbeit mit den grossen Wörtern gehabt habe.",
+   "e": "Because I had too much work to do with the big words."
+  },
+  {
+   "s": "Man hört zuerst die Wörter, die etwas bedeuten.",
+   "e": "First you hear the words that mean something."
+  },
+  {
+   "s": "Die anderen kommen später und die anderen sind die Sprache.",
+   "e": "The others come later and the others are the language."
+  },
+  {
+   "s": "Am Bahnhof ist der nächste Zug um zwanzig nach gekommen.",
+   "e": "At the station the next train came at twenty past."
+  },
+  {
+   "s": "Wir haben zweiundzwanzig Minuten auf dem Perron gestanden.",
+   "e": "We stood on the platform for twenty-two minutes."
+  },
+  {
+   "s": "Timo hat einmal auf die Uhr geschaut und nichts gesagt.",
+   "e": "Timo looked at the clock once and said nothing."
+  },
+  {
+   "s": "Er hat sich nicht beklagt und er war nicht ruhig, weil er nett ist.",
+   "e": "He did not complain and he was not calm out of niceness."
+  },
+  {
+   "s": "Der Zug war weg und daran war nichts zu machen.",
+   "e": "The train was gone and there was nothing to be done about it."
+  },
+  {
+   "s": "Ich habe die zweiundzwanzig Minuten zum ersten Mal nicht schlimm gefunden.",
+   "e": "For the first time I did not find those twenty-two minutes bad."
+  },
+  {
+   "s": "Das ist mir erst im Zug aufgefallen.",
+   "e": "That only occurred to me on the train."
+  },
+  {
+   "s": "Ich habe gedacht: Ich habe halt gewartet.",
+   "e": "I thought: I just waited."
+  },
+  {
+   "s": "Und dann habe ich über mich selber gelacht.",
+   "e": "And then I laughed at myself."
+  }
+ ]
+}

@@ -1,0 +1,341 @@
+{
+ "id": "p6-26",
+ "title": "Du tönst schon fast",
+ "desc": "Somebody says you sound like one of them",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "tönen",
+  "sagen"
+ ],
+ "sn": [
+  {
+   "s": "Nuno hat es im Dezember gesagt, in der Küche vom Restaurant.",
+   "e": "Nuno said it in December, in the restaurant kitchen."
+  },
+  {
+   "s": "Er hat Zwiebeln geschnitten und nicht aufgeschaut.",
+   "e": "He was chopping onions and did not look up."
+  },
+  {
+   "s": "Er hat gesagt: Du tönst schon fast wie einer von hier.",
+   "e": "He said: you already sound almost like one from here."
+  },
+  {
+   "s": "Dann hat er weitergeschnitten.",
+   "e": "Then he went on chopping."
+  },
+  {
+   "s": "Ich bin dort gestanden und habe nichts gesagt.",
+   "e": "I stood there and said nothing."
+  },
+  {
+   "s": "Es sind acht Wörter und ich habe sie den ganzen Abend behalten.",
+   "e": "It is eight words and I kept them the whole evening."
+  },
+  {
+   "s": "Ich habe sie immer noch.",
+   "e": "I still have them."
+  },
+  {
+   "s": "Es ist wichtig, wer es gesagt hat.",
+   "e": "It matters who said it."
+  },
+  {
+   "s": "Ein Schweizer hätte es nie so gesagt.",
+   "e": "A Swiss person would never have said it like that."
+  },
+  {
+   "s": "Ein Schweizer sagt: Dein Deutsch ist gut geworden.",
+   "e": "A Swiss person says: your German has got good."
+  },
+  {
+   "s": "Er sagt es freundlich und er meint es und es heisst etwas anderes.",
+   "e": "They say it kindly and they mean it and it means something else."
+  },
+  {
+   "s": "Es heisst: du bist von aussen und du machst es gut.",
+   "e": "It means: you are from outside and you are doing it well."
+  },
+  {
+   "s": "Nuno hat achtzehn Jahre gebraucht und er tönt immer noch nicht so.",
+   "e": "Nuno needed eighteen years and he still does not sound like that."
+  },
+  {
+   "s": "Er weiss genau, was der Satz kostet.",
+   "e": "He knows exactly what the sentence costs."
+  },
+  {
+   "s": "Darum wiegt er bei ihm mehr.",
+   "e": "That is why it weighs more from him."
+  },
+  {
+   "s": "Das Wort ist tönen und es ist das Schweizer Wort dafür.",
+   "e": "The word is tönen and it is the Swiss word for it."
+  },
+  {
+   "s": "Du tönst müde. Das tönt gut. Er tönt wie sein Vater.",
+   "e": "You sound tired. That sounds good. He sounds like his father."
+  },
+  {
+   "s": "Schon fast heisst: noch nicht ganz und nicht mehr weit.",
+   "e": "Schon fast means: not quite yet and not far off."
+  },
+  {
+   "s": "Es sind die zwei ehrlichsten Wörter in dem Satz.",
+   "e": "They are the two most honest words in the sentence."
+  },
+  {
+   "s": "Ohne sie wäre der Satz zu gross und niemand hätte ihn geglaubt.",
+   "e": "Without them the sentence would be too big and nobody would have believed it."
+  },
+  {
+   "s": "Ich habe zuerst nichts gesagt und das war Glück.",
+   "e": "At first I said nothing and that was luck."
+  },
+  {
+   "s": "Man nimmt ein Lob hier nicht an.",
+   "e": "You do not accept praise here."
+  },
+  {
+   "s": "Man wehrt es ab und der andere legt es noch einmal hin.",
+   "e": "You fend it off and the other person puts it down again."
+  },
+  {
+   "s": "Die Wörter dafür sind kurz und man braucht sie oft.",
+   "e": "The words for it are short and you need them often."
+  },
+  {
+   "s": "Ach was.",
+   "e": "Oh come on."
+  },
+  {
+   "s": "Übertreib nicht.",
+   "e": "Do not exaggerate."
+  },
+  {
+   "s": "Das ist noch weit.",
+   "e": "That is still a long way off."
+  },
+  {
+   "s": "Ich mache immer noch viele Fehler.",
+   "e": "I still make a lot of mistakes."
+  },
+  {
+   "s": "Alle vier sind richtig und alle vier sind das Gleiche.",
+   "e": "All four are correct and all four are the same thing."
+  },
+  {
+   "s": "Man macht sich kleiner, damit der andere nicht zu viel gegeben hat.",
+   "e": "You make yourself smaller so that the other person has not given too much."
+  },
+  {
+   "s": "Es gibt eine Grenze und sie ist da, wo es unehrlich wird.",
+   "e": "There is a limit and it is where it becomes dishonest."
+  },
+  {
+   "s": "Wer sagt, dass er gar nichts kann, sagt dem anderen, dass er blind ist.",
+   "e": "Whoever says that they cannot do anything at all is telling the other person they are blind."
+  },
+  {
+   "s": "Ich habe zu Nuno am Schluss etwas gesagt.",
+   "e": "In the end I said something to Nuno."
+  },
+  {
+   "s": "Ich habe gesagt: Von dir zählt das mehr.",
+   "e": "I said: from you that counts for more."
+  },
+  {
+   "s": "Er hat aufgeschaut und dann hat er gelacht.",
+   "e": "He looked up and then he laughed."
+  },
+  {
+   "s": "Er hat gesagt: Ich weiss.",
+   "e": "He said: I know."
+  },
+  {
+   "s": "Zwei Wörter und wir haben beide gewusst, worüber wir reden.",
+   "e": "Two words and we both knew what we were talking about."
+  },
+  {
+   "s": "Der Satz ist selten und das ist der Grund, warum er zählt.",
+   "e": "The sentence is rare and that is the reason it counts."
+  },
+  {
+   "s": "Ich habe ihn in drei Jahren zweimal gehört.",
+   "e": "I have heard it twice in three years."
+  },
+  {
+   "s": "Das erste Mal von einer Frau im Zug, die es nicht so gemeint hat.",
+   "e": "The first time from a woman on a train, who did not mean it that way."
+  },
+  {
+   "s": "Sie hat gefragt, aus welchem Kanton ich komme.",
+   "e": "She asked which canton I come from."
+  },
+  {
+   "s": "Das war kein Lob, das war ein Missverständnis, und es hat trotzdem gut getan.",
+   "e": "That was not praise, that was a misunderstanding, and it still felt good."
+  },
+  {
+   "s": "Das zweite Mal war Nuno, in einer Küche, über Zwiebeln.",
+   "e": "The second time was Nuno, in a kitchen, over onions."
+  },
+  {
+   "s": "Man sagt es einem nicht zweimal.",
+   "e": "Nobody says it to you twice."
+  },
+  {
+   "s": "Das ist eine Regel, die ich nicht erklären kann und die ich sicher weiss.",
+   "e": "That is a rule I cannot explain and that I know for certain."
+  },
+  {
+   "s": "Wer es einmal gesagt hat, sagt es nie wieder.",
+   "e": "Whoever has said it once never says it again."
+  },
+  {
+   "s": "Es wäre danach kein Satz mehr, sondern eine Gewohnheit.",
+   "e": "Afterwards it would no longer be a sentence, but a habit."
+  },
+  {
+   "s": "Und eine Gewohnheit ist kein Lob.",
+   "e": "And a habit is not praise."
+  },
+  {
+   "s": "Ich habe an dem Abend eine Liste im Kopf gemacht.",
+   "e": "That evening I made a list in my head."
+  },
+  {
+   "s": "Was habe ich in drei Jahren gelernt, das man hören kann.",
+   "e": "What have I learnt in three years that you can hear."
+  },
+  {
+   "s": "Ich sage merci und nicht danke.",
+   "e": "I say merci and not danke."
+  },
+  {
+   "s": "Ich weiss, welcher Hügel welcher ist, wenn ich aus dem Zug schaue.",
+   "e": "I know which hill is which when I look out of the train."
+  },
+  {
+   "s": "Ich sage Velo und Billett und Trottoir, ohne zu überlegen.",
+   "e": "I say Velo and Billett and Trottoir, without thinking."
+  },
+  {
+   "s": "Ich sage halt und eben und mal, ohne sie zu planen.",
+   "e": "I say halt and eben and mal, without planning them."
+  },
+  {
+   "s": "Ich antworte mit doch, wenn jemand etwas Falsches sagt.",
+   "e": "I answer with doch when somebody says something wrong."
+  },
+  {
+   "s": "Ich sage nicht schlecht, wenn ich sehr gut meine.",
+   "e": "I say not bad when I mean very good."
+  },
+  {
+   "s": "Ich stehe fünf Minuten vor der Zeit unten.",
+   "e": "I am downstairs five minutes early."
+  },
+  {
+   "s": "Ich beklage mich über vier Minuten und meine es.",
+   "e": "I complain about four minutes and mean it."
+  },
+  {
+   "s": "Ich sage nein ohne einen Grund und der Himmel fällt nicht.",
+   "e": "I say no without a reason and the sky does not fall."
+  },
+  {
+   "s": "Ich frage nicht zuerst, wenn jemand etwas erzählen will.",
+   "e": "I do not ask first when somebody wants to tell something."
+  },
+  {
+   "s": "Ich warte.",
+   "e": "I wait."
+  },
+  {
+   "s": "Das Letzte ist das, was am längsten gedauert hat.",
+   "e": "The last one is the one that took the longest."
+  },
+  {
+   "s": "Es steht in keinem Buch und niemand kann es einem sagen.",
+   "e": "It is in no book and nobody can tell it to you."
+  },
+  {
+   "s": "Rosmarie hat es mir vor drei Jahren gesagt und ich habe es nicht verstanden.",
+   "e": "Rosmarie told me three years ago and I did not understand it."
+  },
+  {
+   "s": "Sie ist gestorben, bevor ich es verstanden habe, und das ist meistens so.",
+   "e": "She died before I understood it, and that is mostly how it goes."
+  },
+  {
+   "s": "Sie hat gesagt: Sie fragen nicht. Sie warten auf dich.",
+   "e": "She said: they do not ask. They wait for you."
+  },
+  {
+   "s": "Ich habe zwei Jahre gebraucht, um zu merken, dass das umgekehrt auch gilt.",
+   "e": "It took me two years to notice that the reverse is also true."
+  },
+  {
+   "s": "Es gibt eine Sache, die nicht auf der Liste steht.",
+   "e": "There is one thing that is not on the list."
+  },
+  {
+   "s": "Ich träume immer noch nicht auf Deutsch.",
+   "e": "I still do not dream in German."
+  },
+  {
+   "s": "Ich rechne immer noch nicht auf Deutsch.",
+   "e": "I still do not do arithmetic in German."
+  },
+  {
+   "s": "Wenn ich mich schneide, fluche ich in meiner eigenen Sprache.",
+   "e": "When I cut myself, I swear in my own language."
+  },
+  {
+   "s": "Ich glaube nicht, dass sich das ändert, und es stört mich nicht mehr.",
+   "e": "I do not think that changes, and it does not bother me any more."
+  },
+  {
+   "s": "Am Abend habe ich es Selina erzählt.",
+   "e": "In the evening I told Selina about it."
+  },
+  {
+   "s": "Sie hat gefragt: Und, was hast du gesagt?",
+   "e": "She asked: and, what did you say?"
+  },
+  {
+   "s": "Ich habe gesagt: Ich habe gesagt, dass es von ihm mehr zählt.",
+   "e": "I said: I said that it counts for more from him."
+  },
+  {
+   "s": "Sie hat gesagt: Gut.",
+   "e": "She said: good."
+  },
+  {
+   "s": "Dann hat sie gesagt: Und was hättest du vor zwei Jahren gesagt?",
+   "e": "Then she said: and what would you have said two years ago?"
+  },
+  {
+   "s": "Ich habe überlegt.",
+   "e": "I thought about it."
+  },
+  {
+   "s": "Vor zwei Jahren hätte ich danke gesagt und dann drei Sätze zu viel.",
+   "e": "Two years ago I would have said thank you and then three sentences too many."
+  },
+  {
+   "s": "Ich habe gesagt: Danke, aber mein Deutsch ist wirklich noch schlecht.",
+   "e": "I said: thank you, but my German is really still bad."
+  },
+  {
+   "s": "Sie hat gelacht und gesagt: Eben.",
+   "e": "She laughed and said: eben."
+  },
+  {
+   "s": "Und dann hat sie nichts mehr dazu gesagt.",
+   "e": "And then she said nothing more about it."
+  }
+ ]
+}

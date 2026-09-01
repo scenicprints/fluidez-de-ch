@@ -1,0 +1,315 @@
+{
+ "id": "p6-25",
+ "title": "Eine Meinung, locker gehalten",
+ "desc": "Having a view without insisting on it",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "streiten",
+  "falsch",
+  "Tisch",
+  "Sache"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe im Oktober einen Satz flach in einen Tisch gelegt.",
+   "e": "In October I put a sentence flat down onto a table."
+  },
+  {
+   "s": "Wir waren zu sechst und es ist um eine Sache aus der Zeitung gegangen.",
+   "e": "There were six of us and it was about something from the newspaper."
+  },
+  {
+   "s": "Ich habe gesagt: Das ist falsch.",
+   "e": "I said: that is wrong."
+  },
+  {
+   "s": "Drei Wörter, ohne alles.",
+   "e": "Three words, with nothing on them."
+  },
+  {
+   "s": "Man hat gesehen, wie sich der Tisch bewegt.",
+   "e": "You could see the table shift."
+  },
+  {
+   "s": "Niemand hat widersprochen und niemand hat zugestimmt.",
+   "e": "Nobody contradicted and nobody agreed."
+  },
+  {
+   "s": "Zwei Leute haben gleichzeitig etwas Kleines gesagt.",
+   "e": "Two people said something small at the same time."
+  },
+  {
+   "s": "Einer hat gesagt: Ja, man kann es so sehen.",
+   "e": "One said: yes, you can see it that way."
+  },
+  {
+   "s": "Der andere hat gesagt: Es ist halt kompliziert.",
+   "e": "The other said: it is complicated, though."
+  },
+  {
+   "s": "Beide Sätze heissen: mach das kleiner.",
+   "e": "Both sentences mean: make that smaller."
+  },
+  {
+   "s": "Das Problem war nicht die Meinung.",
+   "e": "The problem was not the opinion."
+  },
+  {
+   "s": "Alle am Tisch haben ungefähr das Gleiche gedacht.",
+   "e": "Everybody at the table thought roughly the same."
+  },
+  {
+   "s": "Das Problem war die Form.",
+   "e": "The problem was the form."
+  },
+  {
+   "s": "Eine Meinung wird hier nicht flach hingelegt.",
+   "e": "An opinion is not put down flat here."
+  },
+  {
+   "s": "Man legt sie hin und lässt sie ein bisschen offen.",
+   "e": "You put it down and leave it a little open."
+  },
+  {
+   "s": "Es gibt dafür ein paar feste Anfänge und sie sind alle gleich lang.",
+   "e": "There are a few fixed openings for it and they are all the same length."
+  },
+  {
+   "s": "Ich finde eigentlich.",
+   "e": "I actually find."
+  },
+  {
+   "s": "Mir scheint.",
+   "e": "It seems to me."
+  },
+  {
+   "s": "Ich habe den Eindruck.",
+   "e": "I have the impression."
+  },
+  {
+   "s": "Für mich ist es so, dass.",
+   "e": "For me it is the case that."
+  },
+  {
+   "s": "Alle vier sagen das Gleiche und alle vier sagen: das ist meines.",
+   "e": "All four say the same thing and all four say: this is mine."
+  },
+  {
+   "s": "Sie sagen nicht: das ist so.",
+   "e": "They do not say: that is how it is."
+  },
+  {
+   "s": "Der Unterschied ist klein und er ist die ganze Sache.",
+   "e": "The difference is small and it is the whole thing."
+  },
+  {
+   "s": "Wer sagt, dass etwas so ist, hat es für alle entschieden.",
+   "e": "Whoever says that something is so has decided it for everybody."
+  },
+  {
+   "s": "Wer sagt, dass er es so findet, hat nur für sich geredet.",
+   "e": "Whoever says that they find it so has only spoken for themselves."
+  },
+  {
+   "s": "Und dann können die anderen etwas dazulegen, ohne zu streiten.",
+   "e": "And then the others can add something without arguing."
+  },
+  {
+   "s": "Ich habe zuerst gedacht, dass das Angst ist.",
+   "e": "At first I thought that this was fear."
+  },
+  {
+   "s": "Ich habe gedacht: Sie trauen sich nicht, etwas zu sagen.",
+   "e": "I thought: they do not dare to say anything."
+  },
+  {
+   "s": "Das ist falsch und ich habe ein Jahr gebraucht, um es zu sehen.",
+   "e": "That is wrong and it took me a year to see it."
+  },
+  {
+   "s": "Sie sagen sehr viel und sie sagen es sehr direkt.",
+   "e": "They say a great deal and they say it very directly."
+  },
+  {
+   "s": "Sie sagen es nur nicht als letztes Wort.",
+   "e": "They just do not say it as the last word."
+  },
+  {
+   "s": "Ein Gespräch ist hier kein Wettbewerb, den einer gewinnt.",
+   "e": "A conversation here is not a competition that somebody wins."
+  },
+  {
+   "s": "Es ist ein Tisch, auf den alle etwas legen.",
+   "e": "It is a table on which everybody puts something."
+  },
+  {
+   "s": "Wer am lautesten redet, spielt eine Rolle und das merken alle.",
+   "e": "Whoever talks loudest is playing a part and everybody notices."
+  },
+  {
+   "s": "Am Schluss schaut man, was liegt, und meistens sind alle ungefähr einig.",
+   "e": "At the end you look at what is lying there, and mostly everybody roughly agrees."
+  },
+  {
+   "s": "Das ganze Land wird so regiert und das ist keine Übertreibung.",
+   "e": "The whole country is governed like that and that is not an exaggeration."
+  },
+  {
+   "s": "Es gibt sieben Leute in der Regierung, aus vier Parteien, die sich nicht mögen.",
+   "e": "There are seven people in the government, from four parties, who do not like each other."
+  },
+  {
+   "s": "Sie streiten und dann kommen sie mit einem Entscheid heraus.",
+   "e": "They argue and then they come out with one decision."
+  },
+  {
+   "s": "Danach sagen alle sieben das Gleiche, auch die, die dagegen waren.",
+   "e": "Afterwards all seven say the same thing, including the ones who were against."
+  },
+  {
+   "s": "Von aussen tönt das falsch.",
+   "e": "From the outside that sounds false."
+  },
+  {
+   "s": "Von innen ist es die Regel, ohne die es nicht funktionieren würde.",
+   "e": "From the inside it is the rule without which it would not work."
+  },
+  {
+   "s": "Es hat eine Grenze und die habe ich falsch eingeschätzt.",
+   "e": "It has a limit and I misjudged it."
+  },
+  {
+   "s": "Ich habe gedacht, dass hier niemand streitet.",
+   "e": "I thought that nobody argues here."
+  },
+  {
+   "s": "Man streitet sehr wohl und man streitet über die Sache.",
+   "e": "People do argue and they argue about the matter."
+  },
+  {
+   "s": "Man greift den Menschen nicht an und das ist der ganze Unterschied.",
+   "e": "You do not attack the person and that is the whole difference."
+  },
+  {
+   "s": "Ich habe an einer Versammlung vom Verein zugeschaut.",
+   "e": "I watched at a club meeting."
+  },
+  {
+   "s": "Es ist um sechshundert Franken gegangen und es hat vierzig Minuten gedauert.",
+   "e": "It was about six hundred francs and it lasted forty minutes."
+  },
+  {
+   "s": "Zwei Männer haben sich ganz klar widersprochen.",
+   "e": "Two men contradicted each other quite clearly."
+  },
+  {
+   "s": "Beide haben gesagt: Ich sehe das anders.",
+   "e": "Both said: I see that differently."
+  },
+  {
+   "s": "Beide haben gesagt: Das kann ich nicht unterstützen.",
+   "e": "Both said: I cannot support that."
+  },
+  {
+   "s": "Danach haben sie abgestimmt und einer hat verloren.",
+   "e": "Then they voted and one of them lost."
+  },
+  {
+   "s": "Der, der verloren hat, hat das Protokoll geschrieben.",
+   "e": "The one who lost wrote the minutes."
+  },
+  {
+   "s": "Zwanzig Minuten später sind sie zusammen etwas trinken gegangen.",
+   "e": "Twenty minutes later they went for a drink together."
+  },
+  {
+   "s": "Das ist die Sache, die ich hier am meisten bewundere.",
+   "e": "That is the thing I most admire here."
+  },
+  {
+   "s": "Man kann ganz genau sagen, dass man nicht einverstanden ist.",
+   "e": "You can say quite precisely that you disagree."
+  },
+  {
+   "s": "Und es bleibt trotzdem eine Sache und wird keine Person.",
+   "e": "And it still stays a matter and does not become a person."
+  },
+  {
+   "s": "Es gibt einen Satz, der das ganze Prinzip trägt.",
+   "e": "There is one sentence that carries the whole principle."
+  },
+  {
+   "s": "Ich sehe das anders.",
+   "e": "I see that differently."
+  },
+  {
+   "s": "Vier Wörter, sehr ruhig, und man kann sie überall sagen.",
+   "e": "Four words, very calmly, and you can say them anywhere."
+  },
+  {
+   "s": "Sie greifen niemanden an und sie geben nichts auf.",
+   "e": "They attack nobody and they give up nothing."
+  },
+  {
+   "s": "Ich habe sie im November zum ersten Mal gebraucht.",
+   "e": "I used them for the first time in November."
+  },
+  {
+   "s": "Es ist im Büro um eine Sache gegangen, die ich falsch fand.",
+   "e": "It was about something in the office that I thought was wrong."
+  },
+  {
+   "s": "Ich habe gesagt: Ich sehe das anders.",
+   "e": "I said: I see that differently."
+  },
+  {
+   "s": "Und dann habe ich zwei Sätze gesagt, warum.",
+   "e": "And then I said two sentences about why."
+  },
+  {
+   "s": "Simon hat gesagt: Gut, dann schauen wir das noch einmal an.",
+   "e": "Simon said: fine, then we will look at that again."
+  },
+  {
+   "s": "Wir haben es nicht geändert.",
+   "e": "We did not change it."
+  },
+  {
+   "s": "Und ich bin gehört worden und das ist etwas anderes.",
+   "e": "And I was heard and that is something else."
+  },
+  {
+   "s": "Im Oktober, an dem Tisch mit sechs Leuten, habe ich es dann repariert.",
+   "e": "In October, at that table with six people, I then repaired it."
+  },
+  {
+   "s": "Nicht sofort. Zehn Minuten später.",
+   "e": "Not immediately. Ten minutes later."
+  },
+  {
+   "s": "Ich habe gesagt: Ich finde das eigentlich falsch, aber ich weiss zu wenig.",
+   "e": "I said: I actually find that wrong, but I know too little."
+  },
+  {
+   "s": "Damit ist die Sache wieder auf den Tisch gekommen.",
+   "e": "With that the matter came back onto the table."
+  },
+  {
+   "s": "Drei Leute haben etwas dazugelegt und dann waren wir eine halbe Stunde dran.",
+   "e": "Three people added something and then we were at it for half an hour."
+  },
+  {
+   "s": "Am Schluss hat einer gesagt: Ja, im Grund hast du recht.",
+   "e": "At the end one of them said: yes, basically you are right."
+  },
+  {
+   "s": "Er hat es leise gesagt und niemand hat es gross gemacht.",
+   "e": "He said it quietly and nobody made anything of it."
+  },
+  {
+   "s": "Das ist hier ein Sieg und er tönt nach nichts.",
+   "e": "That is a victory here and it sounds like nothing."
+  }
+ ]
+}

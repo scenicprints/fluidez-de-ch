@@ -1,0 +1,348 @@
+{
+ "id": "p6-03",
+ "title": "Doch",
+ "desc": "Contradicting a negative",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "doch"
+ ],
+ "sn": [
+  {
+   "s": "Es gibt ein Wort, das es auf Englisch nicht gibt.",
+   "e": "There is a word that does not exist in English."
+  },
+  {
+   "s": "Nicht ähnlich und nicht ungefähr.",
+   "e": "Not similar and not approximately."
+  },
+  {
+   "s": "Es gibt es einfach nicht.",
+   "e": "It simply does not exist."
+  },
+  {
+   "s": "Das Wort ist doch.",
+   "e": "The word is doch."
+  },
+  {
+   "s": "Es macht zwei Sachen und die erste ist die wichtigere.",
+   "e": "It does two things and the first is the more important."
+  },
+  {
+   "s": "Jemand sagt etwas Negatives.",
+   "e": "Somebody says something negative."
+  },
+  {
+   "s": "Du bist anderer Meinung.",
+   "e": "You disagree."
+  },
+  {
+   "s": "Auf Englisch musst du dafür einen Satz bauen.",
+   "e": "In English you have to build a sentence for that."
+  },
+  {
+   "s": "Hier sagst du ein Wort.",
+   "e": "Here you say one word."
+  },
+  {
+   "s": "Du hast nicht angerufen. Doch.",
+   "e": "You did not call. Doch."
+  },
+  {
+   "s": "Das stimmt nicht. Doch.",
+   "e": "That is not true. Doch."
+  },
+  {
+   "s": "Du magst kein Fondue. Doch.",
+   "e": "You do not like fondue. Doch."
+  },
+  {
+   "s": "Ja geht dort nicht.",
+   "e": "Ja does not work there."
+  },
+  {
+   "s": "Wenn jemand sagt, dass du nicht angerufen hast, und du sagst ja, dann sagst du ihm recht.",
+   "e": "If somebody says you did not call and you say ja, you are agreeing with them."
+  },
+  {
+   "s": "Das ist der Fehler, den alle machen, und ich habe ihn zwei Jahre gemacht.",
+   "e": "That is the mistake everybody makes, and I made it for two years."
+  },
+  {
+   "s": "Ich habe ja gesagt und dabei nein gemeint.",
+   "e": "I said ja and meant no."
+  },
+  {
+   "s": "Und niemand hat es korrigiert, weil man so etwas nicht korrigiert.",
+   "e": "And nobody corrected it, because you do not correct something like that."
+  },
+  {
+   "s": "Sie haben einfach den Satz noch einmal anders gefragt.",
+   "e": "They simply asked the sentence again a different way."
+  },
+  {
+   "s": "Es ist im Mai passiert, in der neuen Wohnung.",
+   "e": "It happened in May, in the new flat."
+  },
+  {
+   "s": "Selina hat gesagt: Du hast das Fenster nicht zugemacht.",
+   "e": "Selina said: you did not shut the window."
+  },
+  {
+   "s": "Ich habe es zugemacht.",
+   "e": "I had shut it."
+  },
+  {
+   "s": "Ich habe gesagt: Doch.",
+   "e": "I said: doch."
+  },
+  {
+   "s": "Es ist einfach herausgekommen.",
+   "e": "It just came out."
+  },
+  {
+   "s": "Sie hat gesagt: Dann war es der Wind.",
+   "e": "She said: then it was the wind."
+  },
+  {
+   "s": "Das ganze Gespräch war zu Ende.",
+   "e": "The whole conversation was over."
+  },
+  {
+   "s": "Vier Wörter und niemand hat sich erklären müssen.",
+   "e": "Four words and nobody had to explain themselves."
+  },
+  {
+   "s": "Ich bin danach in der Küche gestanden und habe gelacht.",
+   "e": "Afterwards I stood in the kitchen and laughed."
+  },
+  {
+   "s": "Zwei Jahre lang habe ich dafür drei Sätze gebraucht.",
+   "e": "For two years I needed three sentences for that."
+  },
+  {
+   "s": "Ich habe gesagt: Nein, warte, ich glaube schon, ich habe es gemacht.",
+   "e": "I said: no, wait, I think I did, I did do it."
+  },
+  {
+   "s": "Nein am Anfang, obwohl ich das Gegenteil sagen wollte.",
+   "e": "Nein at the beginning, although I wanted to say the opposite."
+  },
+  {
+   "s": "Doch ist die ganze Antwort.",
+   "e": "Doch is the whole answer."
+  },
+  {
+   "s": "Es hat noch eine Stärke dazu.",
+   "e": "It has a strength setting as well."
+  },
+  {
+   "s": "Doch allein ist normal.",
+   "e": "Doch on its own is normal."
+  },
+  {
+   "s": "Doch, doch ist weicher.",
+   "e": "Doch, doch is softer."
+  },
+  {
+   "s": "Es heisst: alles gut, du hast nur etwas nicht gewusst.",
+   "e": "It means: it is fine, you just did not know something."
+  },
+  {
+   "s": "Man sagt es hier ständig, wenn jemand sich unnötig entschuldigt.",
+   "e": "People say it here constantly when somebody apologises unnecessarily."
+  },
+  {
+   "s": "Ich habe gesagt: Entschuldigung, ich bin zu spät.",
+   "e": "I said: sorry, I am late."
+  },
+  {
+   "s": "Beat hat gesagt: Doch, doch. Setz dich.",
+   "e": "Beat said: doch, doch. Sit down."
+  },
+  {
+   "s": "Das war kein Widerspruch.",
+   "e": "That was not a contradiction."
+  },
+  {
+   "s": "Das war: hör auf damit.",
+   "e": "That was: stop that."
+  },
+  {
+   "s": "Die zweite Sache, die doch macht, steht mitten im Satz.",
+   "e": "The second thing doch does sits in the middle of a sentence."
+  },
+  {
+   "s": "Dort ist es kein Widerspruch mehr, sondern ein Ton.",
+   "e": "There it is no longer a contradiction, but a tone."
+  },
+  {
+   "s": "Komm doch mit.",
+   "e": "Do come along."
+  },
+  {
+   "s": "Das habe ich dir doch gesagt.",
+   "e": "But I told you that."
+  },
+  {
+   "s": "Das weisst du doch.",
+   "e": "You know that, though."
+  },
+  {
+   "s": "In der ersten Form ist es freundlich und lädt ein.",
+   "e": "In the first form it is friendly and invites."
+  },
+  {
+   "s": "Komm mit ist eine Anweisung.",
+   "e": "Komm mit is an instruction."
+  },
+  {
+   "s": "Komm doch mit ist eine Einladung.",
+   "e": "Komm doch mit is an invitation."
+  },
+  {
+   "s": "In der zweiten Form ist es gefährlich.",
+   "e": "In the second form it is dangerous."
+  },
+  {
+   "s": "Das habe ich dir doch gesagt heisst: du hast nicht zugehört.",
+   "e": "Das habe ich dir doch gesagt means: you were not listening."
+  },
+  {
+   "s": "Es tönt ruhig und es ist ein Vorwurf.",
+   "e": "It sounds calm and it is a reproach."
+  },
+  {
+   "s": "Selina sagt es nie und ihre Mutter sagt es oft.",
+   "e": "Selina never says it and her mother says it often."
+  },
+  {
+   "s": "Das ist kein Zufall und das habe ich nicht von mir aus gemerkt.",
+   "e": "That is no coincidence and I did not notice it by myself."
+  },
+  {
+   "s": "Selina hat es mir gesagt, als ich es einmal gebraucht habe.",
+   "e": "Selina told me, when I used it once."
+  },
+  {
+   "s": "Sie hat gesagt: Sag das nicht zu mir.",
+   "e": "She said: do not say that to me."
+  },
+  {
+   "s": "Sie hat gesagt: Das sagt meine Mutter zu meinem Vater.",
+   "e": "She said: that is what my mother says to my father."
+  },
+  {
+   "s": "Sie hat gesagt: Seit vierzig Jahren.",
+   "e": "She said: for forty years."
+  },
+  {
+   "s": "Ich habe es seither nicht mehr gesagt.",
+   "e": "I have not said it since."
+  },
+  {
+   "s": "Es gibt noch eine dritte Stelle, an der man es hört.",
+   "e": "There is a third place where you hear it."
+  },
+  {
+   "s": "Am Anfang von einer Frage, die eigentlich keine Frage ist.",
+   "e": "At the start of a question that is not really a question."
+  },
+  {
+   "s": "Du kommst doch am Samstag?",
+   "e": "You are coming on Saturday, aren't you?"
+  },
+  {
+   "s": "Das ist keine Frage, das ist eine Erinnerung.",
+   "e": "That is not a question, that is a reminder."
+  },
+  {
+   "s": "Man antwortet darauf mit ja oder man ist in Schwierigkeiten.",
+   "e": "You answer that with yes or you are in trouble."
+  },
+  {
+   "s": "Ich habe angefangen, doch bewusst zu brauchen.",
+   "e": "I started using doch deliberately."
+  },
+  {
+   "s": "Das ist ein komischer Schritt und ich kann ihn genau beschreiben.",
+   "e": "That is an odd step and I can describe it exactly."
+  },
+  {
+   "s": "Zuerst versteht man ein Wort.",
+   "e": "First you understand a word."
+  },
+  {
+   "s": "Dann hört man es und merkt, dass es dort steht.",
+   "e": "Then you hear it and notice that it is there."
+  },
+  {
+   "s": "Dann kommt es aus einem heraus, ohne dass man es geplant hat.",
+   "e": "Then it comes out of you without your having planned it."
+  },
+  {
+   "s": "Der dritte Schritt ist der einzige, der zählt.",
+   "e": "The third step is the only one that counts."
+  },
+  {
+   "s": "Ein Wort, das man plant, ist noch nicht im Kopf.",
+   "e": "A word you plan is not in your head yet."
+  },
+  {
+   "s": "Es ist in einer Liste, aus der man es holt.",
+   "e": "It is in a list you fetch it from."
+  },
+  {
+   "s": "Das merkt man beim Reden an einer halben Sekunde.",
+   "e": "You notice that in speech in half a second."
+  },
+  {
+   "s": "Die halbe Sekunde ist der ganze Unterschied.",
+   "e": "That half second is the whole difference."
+  },
+  {
+   "s": "Fatlum hat es beim Hock kurz erklärt, ohne dass ich gefragt habe.",
+   "e": "Fatlum explained it briefly at the Hock, without my asking."
+  },
+  {
+   "s": "Er hat gesagt: Du machst es jetzt richtig.",
+   "e": "He said: you do it right now."
+  },
+  {
+   "s": "Er hat gesagt: Vor einem halben Jahr hast du immer ja gesagt.",
+   "e": "He said: half a year ago you always said ja."
+  },
+  {
+   "s": "Ich habe gefragt: Und warum hat es niemand gesagt?",
+   "e": "I asked: and why did nobody say anything?"
+  },
+  {
+   "s": "Er hat mich angeschaut und gelacht.",
+   "e": "He looked at me and laughed."
+  },
+  {
+   "s": "Er hat gesagt: Weil man das nicht sagt.",
+   "e": "He said: because you do not say that."
+  },
+  {
+   "s": "Dann hat er gesagt: Und weil man immer weiss, was gemeint ist.",
+   "e": "Then he said: and because you always know what is meant."
+  },
+  {
+   "s": "Das ist der ganze Punkt an diesen kleinen Wörtern.",
+   "e": "That is the whole point about these small words."
+  },
+  {
+   "s": "Ohne sie versteht dich jeder.",
+   "e": "Without them everybody understands you."
+  },
+  {
+   "s": "Mit ihnen redest du wie jemand, der hier wohnt.",
+   "e": "With them you talk like somebody who lives here."
+  },
+  {
+   "s": "Das eine ist Information und das andere ist etwas anderes.",
+   "e": "The one is information and the other is something else."
+  }
+ ]
+}

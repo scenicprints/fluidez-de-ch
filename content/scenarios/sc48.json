@@ -1,0 +1,109 @@
+{
+ "id": "sc48",
+ "title": "Vier Minuten",
+ "desc": "Believing something ridiculous, in public",
+ "setting": "A long table after a rehearsal, five people, and a story delivered at the volume of a weather report.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Beat",
+   "es": "Im Winter bauen sie die Brücke ab. Wegen dem Eis.",
+   "en": "In winter they take the bridge down. Because of the ice.",
+   "options": [
+    {
+     "es": "Das glaube ich dir nicht.",
+     "en": "I do not believe you.",
+     "verdict": "good",
+     "feedback": "Friendly, short, and the best defence there is. About half the time you will be wrong."
+    },
+    {
+     "es": "Und wie kommt man dann über den Fluss?",
+     "en": "And how do you get across the river then?",
+     "verdict": "ok",
+     "feedback": "You are in. It is not a disaster: the four minutes are the joke and you are giving them to him."
+    },
+    {
+     "es": "Das ist doch Unsinn.",
+     "en": "That is nonsense, surely.",
+     "verdict": "ok",
+     "feedback": "Right, and sharp. Doch in the middle turns it into an accusation."
+    }
+   ]
+  },
+  {
+   "speaker": "Beat",
+   "es": "Doch, doch. Jedes Jahr im November, Stück für Stück.",
+   "en": "Oh yes. Every year in November, piece by piece.",
+   "options": [
+    {
+     "es": "Und im März wieder auf, ja?",
+     "en": "And back up again in March, is it?",
+     "verdict": "good",
+     "feedback": "You have found it and you are playing along instead of announcing it. That is the whole art."
+    },
+    {
+     "es": "Ist das nicht sehr teuer?",
+     "en": "Is that not very expensive?",
+     "verdict": "ok",
+     "feedback": "The question that hands him the table. Everybody will laugh and it will be fine."
+    },
+    {
+     "es": "Ich weiss, dass das nicht stimmt.",
+     "en": "I know that is not true.",
+     "verdict": "bad",
+     "feedback": "Announcing that you spotted it ends the joke and makes it about you."
+    }
+   ]
+  },
+  {
+   "speaker": "Fatlum",
+   "es": "Er macht das mit allen. Beim ersten Mal glauben es alle.",
+   "en": "He does that with everybody. The first time everybody believes it.",
+   "options": [
+    {
+     "es": "Ihr seid furchtbar.",
+     "en": "You are terrible.",
+     "verdict": "good",
+     "feedback": "Grumble and laugh along. That is the answer, and it is over in two seconds."
+    },
+    {
+     "es": "Bei uns macht man solche Witze nicht.",
+     "en": "We do not make jokes like that where I come from.",
+     "verdict": "bad",
+     "feedback": "They only do it to people they have decided about. That sentence turns a welcome into a complaint."
+    },
+    {
+     "es": "Wie lange geht das schon so?",
+     "en": "How long has this been going on?",
+     "verdict": "ok",
+     "feedback": "Fine, and it keeps the spotlight on you for another minute."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Nach drei Jahren tönt er immer noch wie ein Wetterbericht.",
+   "en": "After three years he still sounds like a weather report.",
+   "options": [
+    {
+     "es": "Dafür verstehen mich die Deutschen.",
+     "en": "On the other hand the Germans understand me.",
+     "verdict": "good",
+     "feedback": "Six words, at the person who started it, once. Two seconds of silence and then it lands."
+    },
+    {
+     "es": "Ich rede halt langsam, das ist normal beim Lernen.",
+     "en": "I just talk slowly, that is normal when you are learning.",
+     "verdict": "ok",
+     "feedback": "True, and explaining is the one thing that cannot be funny."
+    },
+    {
+     "es": "Und du tönst wie ein Traktor.",
+     "en": "And you sound like a tractor.",
+     "verdict": "ok",
+     "feedback": "Right shape, wrong aim: it says nothing back about what he actually said."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "id": "p6-13",
+ "title": "Der Urknall",
+ "desc": "Five in the morning on Kapellplatz",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "überall",
+  "Morgen",
+  "Leute"
+ ],
+ "sn": [
+  {
+   "s": "Die Fasnacht fängt hier um fünf Uhr am Morgen an.",
+   "e": "Fasnacht here starts at five in the morning."
+  },
+  {
+   "s": "Nicht am Abend. Am Morgen.",
+   "e": "Not in the evening. In the morning."
+  },
+  {
+   "s": "Am Schmutzigen Donnerstag, im Februar, in der Dunkelheit.",
+   "e": "On Schmutziger Donnerstag, in February, in the dark."
+  },
+  {
+   "s": "Der Moment heisst der Urknall.",
+   "e": "The moment is called the Urknall."
+  },
+  {
+   "s": "Ein Knall ist ein sehr lautes, kurzes Geräusch.",
+   "e": "A Knall is a very loud, short noise."
+  },
+  {
+   "s": "Ur davor macht es zum ersten von allen.",
+   "e": "Ur in front of it makes it the first of all."
+  },
+  {
+   "s": "Es ist der Anfang und alle in dieser Stadt wissen, wann er ist.",
+   "e": "It is the beginning and everybody in this town knows when it is."
+  },
+  {
+   "s": "Wir sind um vier bei Beat gewesen.",
+   "e": "We were at Beat's at four."
+  },
+  {
+   "s": "Fünfundzwanzig Leute in einer Wohnung, in Kostümen, um vier Uhr.",
+   "e": "Twenty-five people in a flat, in costumes, at four in the morning."
+  },
+  {
+   "s": "Es hat Kaffee gehabt und Brot und niemand hat viel geredet.",
+   "e": "There was coffee and bread and nobody talked much."
+  },
+  {
+   "s": "Ich habe eine Stunde vorher nicht geschlafen.",
+   "e": "I had not slept for an hour beforehand."
+  },
+  {
+   "s": "Ich habe um halb vier geduscht, damit ich wach bin.",
+   "e": "I showered at half past three, so that I would be awake."
+  },
+  {
+   "s": "Um halb fünf sind wir hinunter in die Stadt.",
+   "e": "At half past four we went down into the town."
+  },
+  {
+   "s": "Alle haben die Maske in der Hand getragen, weil es noch zu früh war.",
+   "e": "Everybody carried the mask in their hand, because it was still too early."
+  },
+  {
+   "s": "Auf der Strasse waren schon Leute.",
+   "e": "There were already people on the street."
+  },
+  {
+   "s": "Nicht viele. Ein paar, in Gruppen, alle in die gleiche Richtung.",
+   "e": "Not many. A few, in groups, all in the same direction."
+  },
+  {
+   "s": "Um Viertel vor fünf war die Gasse voll.",
+   "e": "At quarter to five the lane was full."
+  },
+  {
+   "s": "Um fünf vor fünf konnte man sich nicht mehr bewegen.",
+   "e": "At five to five you could no longer move."
+  },
+  {
+   "s": "Es war dunkel und kalt und es hat nach Rauch gerochen.",
+   "e": "It was dark and cold and it smelled of smoke."
+  },
+  {
+   "s": "Tausende von Leuten und niemand hat laut geredet.",
+   "e": "Thousands of people and nobody was talking loudly."
+  },
+  {
+   "s": "Das ist der Teil, den man nicht erwartet.",
+   "e": "That is the part you do not expect."
+  },
+  {
+   "s": "Es war fast still, bei tausend Leuten in einer Gasse.",
+   "e": "It was almost quiet, with a thousand people in a lane."
+  },
+  {
+   "s": "Alle haben gewartet und alle haben gewusst, worauf.",
+   "e": "Everybody was waiting and everybody knew what for."
+  },
+  {
+   "s": "Und dann, um fünf, ist alles gleichzeitig losgegangen.",
+   "e": "And then, at five, everything went off at the same time."
+  },
+  {
+   "s": "Ein Knall, so laut, dass man ihn im Bauch spürt.",
+   "e": "A bang so loud that you feel it in your stomach."
+  },
+  {
+   "s": "Und in der gleichen Sekunde alles Licht in der Stadt.",
+   "e": "And in the same second all the light in the town."
+  },
+  {
+   "s": "Und in der gleichen Sekunde zwanzig Guggenmusiken.",
+   "e": "And in the same second twenty Guggenmusiken."
+  },
+  {
+   "s": "Nicht nacheinander. Alle zusammen, aus allen Gassen.",
+   "e": "Not one after another. All together, out of every lane."
+  },
+  {
+   "s": "Es ist keine Musik in diesem Moment.",
+   "e": "It is not music in that moment."
+  },
+  {
+   "s": "Es ist eine Wand aus Geräusch, die von allen Seiten kommt.",
+   "e": "It is a wall of noise that comes from all sides."
+  },
+  {
+   "s": "Ich habe zwei Sekunden lang nichts gedacht.",
+   "e": "For two seconds I thought nothing."
+  },
+  {
+   "s": "Das passiert mir sonst nie.",
+   "e": "That otherwise never happens to me."
+  },
+  {
+   "s": "Um mich herum ist überall etwas passiert.",
+   "e": "All round me something was happening everywhere."
+  },
+  {
+   "s": "Überall heisst: an jedem Ort, an dem man hinschaut.",
+   "e": "Überall means: in every place you look."
+  },
+  {
+   "s": "Überall waren Leute.",
+   "e": "There were people everywhere."
+  },
+  {
+   "s": "Überall war Musik.",
+   "e": "There was music everywhere."
+  },
+  {
+   "s": "Überall sind Räppli geflogen.",
+   "e": "Confetti was flying everywhere."
+  },
+  {
+   "s": "Es sind ein paar Wörter, die man dafür braucht, und sie sind einfach.",
+   "e": "There are a few words you need for this, and they are simple."
+  },
+  {
+   "s": "Plötzlich, überall, tausend, alles gleichzeitig.",
+   "e": "Suddenly, everywhere, a thousand, all at once."
+  },
+  {
+   "s": "Man braucht keine schönen Wörter für so einen Moment.",
+   "e": "You do not need beautiful words for a moment like that."
+  },
+  {
+   "s": "Man braucht Wörter, die schnell gehen.",
+   "e": "You need words that are quick."
+  },
+  {
+   "s": "Wir haben um zehn nach fünf angefangen zu spielen.",
+   "e": "We started playing at ten past five."
+  },
+  {
+   "s": "Ich weiss nicht mehr, welchen Marsch.",
+   "e": "I no longer know which march."
+  },
+  {
+   "s": "Ich weiss noch, dass Beat mir zweimal auf die Schulter geschlagen hat.",
+   "e": "I do remember that Beat slapped me on the shoulder twice."
+  },
+  {
+   "s": "Wir sind bis um acht durch die Stadt gelaufen.",
+   "e": "We walked through the town until eight."
+  },
+  {
+   "s": "Um acht ist es hell geworden und dann ist es komisch.",
+   "e": "At eight it got light and then it is strange."
+  },
+  {
+   "s": "Irgendwo hat eine Gruppe angefangen zu singen und niemand hat gewusst, was.",
+   "e": "Somewhere a group started singing and nobody knew what."
+  },
+  {
+   "s": "Über den Hügeln hinter der Stadt ist es zuerst hell geworden.",
+   "e": "It got light first over the hills behind the town."
+  },
+  {
+   "s": "Bei Tageslicht sieht man, wie viele Leute wirklich da sind.",
+   "e": "In daylight you see how many people are really there."
+  },
+  {
+   "s": "Man sieht die Räppli auf dem Boden, dreissig Zentimeter tief in den Ecken.",
+   "e": "You see the confetti on the ground, thirty centimetres deep in the corners."
+  },
+  {
+   "s": "Man sieht Leute von siebzig in Kostümen, die um fünf schon da waren.",
+   "e": "You see people of seventy in costumes who were there at five."
+  },
+  {
+   "s": "Wir sind um neun in eine Beiz und haben gefrühstückt.",
+   "e": "At nine we went into a pub and had breakfast."
+  },
+  {
+   "s": "Um halb zehn am Morgen, mit Bier auf dem Tisch.",
+   "e": "At half past nine in the morning, with beer on the table."
+  },
+  {
+   "s": "Das ist an drei Tagen im Jahr normal und an allen anderen nicht.",
+   "e": "That is normal on three days of the year and not on any others."
+  },
+  {
+   "s": "Ich habe Selina um zehn eine Nachricht geschickt.",
+   "e": "I sent Selina a message at ten."
+  },
+  {
+   "s": "Ich habe geschrieben: Ich verstehe es jetzt.",
+   "e": "I wrote: I understand it now."
+  },
+  {
+   "s": "Sie hat geschrieben: Sicher. Trink Wasser.",
+   "e": "She wrote: of course. Drink water."
+  },
+  {
+   "s": "Sie ist in Kriens aufgewachsen und geht seit dreissig Jahren hin.",
+   "e": "She grew up in Kriens and has been going for thirty years."
+  },
+  {
+   "s": "Für sie ist es kein Ereignis, sondern ein Datum.",
+   "e": "For her it is not an event, but a date."
+  },
+  {
+   "s": "Das ist der Unterschied zwischen dem ersten Mal und dem dreissigsten.",
+   "e": "That is the difference between the first time and the thirtieth."
+  },
+  {
+   "s": "Und es ist auch der Grund, warum man es niemandem erklären kann.",
+   "e": "And it is also the reason why you cannot explain it to anybody."
+  },
+  {
+   "s": "Ich habe es zwei Wochen später am Telefon versucht.",
+   "e": "I tried it on the phone two weeks later."
+  },
+  {
+   "s": "Meine Mutter hat gefragt, was ich im Februar gemacht habe.",
+   "e": "My mother asked what I had done in February."
+  },
+  {
+   "s": "Ich habe gesagt: Ich war um fünf Uhr am Morgen mit einer Trommel in der Stadt.",
+   "e": "I said: I was in town at five in the morning with a drum."
+  },
+  {
+   "s": "Sie hat gesagt: Warum?",
+   "e": "She said: why?"
+  },
+  {
+   "s": "Ich habe ungefähr drei Minuten geredet.",
+   "e": "I talked for about three minutes."
+  },
+  {
+   "s": "Es hat nicht funktioniert.",
+   "e": "It did not work."
+  },
+  {
+   "s": "Alles, was ich gesagt habe, hat komisch getönt.",
+   "e": "Everything I said sounded odd."
+  },
+  {
+   "s": "Erwachsene Menschen in Kostümen. Absichtlich falsche Musik.",
+   "e": "Grown adults in costumes. Deliberately wrong music."
+  },
+  {
+   "s": "Fünf Uhr am Morgen im Februar, freiwillig.",
+   "e": "Five in the morning in February, voluntarily."
+  },
+  {
+   "s": "Alles davon tönt nach etwas, das man nicht machen sollte.",
+   "e": "All of it sounds like something you should not do."
+  },
+  {
+   "s": "Meine Mutter hat am Schluss gesagt: Hast du wenigstens Freunde dort?",
+   "e": "At the end my mother said: at least do you have friends there?"
+  },
+  {
+   "s": "Ich habe gesagt: Ja.",
+   "e": "I said: yes."
+  },
+  {
+   "s": "Das war die richtige Antwort auf die Frage, die sie gestellt hat.",
+   "e": "That was the right answer to the question she had asked."
+  },
+  {
+   "s": "Es war auch die richtige Antwort auf die andere Frage.",
+   "e": "It was also the right answer to the other question."
+  },
+  {
+   "s": "Ich bin an dem Donnerstag um halb zwölf am Mittag heim.",
+   "e": "I got home that Thursday at half past eleven in the morning."
+  },
+  {
+   "s": "Ich habe drei Stunden geschlafen und bin um vier wieder hinaus.",
+   "e": "I slept for three hours and went out again at four."
+  },
+  {
+   "s": "Das war Tag eins von sechs.",
+   "e": "That was day one of six."
+  }
+ ]
+}

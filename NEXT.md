@@ -1,6 +1,6 @@
 # START HERE — where the German course stands
 
-**Phases 0 to 5 are written. The plan is finished and it is not up for
+**Phases 0 to 6 are written. The plan is finished and it is not up for
 relitigating.** `content/plan/spine.json` holds all 192 stories across 8
 phases, each with the German it teaches, the Switzerland it carries and what
 happens in it. Read `HANDOFF.md` beside this file for every decision and the
@@ -10,7 +10,7 @@ reasoning behind it. This file is the short version and says what to do next.
 |---|---|---|
 | Language | **Swiss Standard German** | code `de-ch`, repo `scenicprints/fluidez-de-ch` |
 | Anchored in | **Luzern** | you land at Zurich Kloten and take the train |
-| Stories planned | **192** | 8 phases, **148 written** (phases 0 to 5 complete) |
+| Stories planned | **192** | 8 phases, **174 written** (phases 0 to 6 complete) |
 | App support | **shipped** | v2.8.38, mascot + palette + English interface + switcher |
 | Stories on people | **62** | phases 4 and 5, a third of the course, both written |
 
@@ -401,6 +401,81 @@ Two smaller ones fixed at the same time:
   scene could push a pattern over its threshold and the pattern would sit
   reading "0 more words to go" and stay locked until a lesson happened to be
   read next. `answerScene` calls `checkPatterns()` now.
+
+## 22. Phase 6 — Sounding Swiss, 26 stories, DONE 2026-08-31
+
+The light phase after the heavy one, and the one that finally teaches the words
+that have been on every page since story one without ever being named.
+
+| | | |
+|---|---|---|
+| Stories | **174** total | 26 new, 18,574 running words |
+| Dictionary | **2,316** | +241 |
+| Verbs | **494** | +64, every form stated |
+| Patterns | **62** | +9 |
+| Scenes | **51** | +6 |
+| Blüemli | **108** lines | +9 |
+| Tappable | **98.6%** whole course | |
+| Warm-ups | 471 words, 0 stories with none | |
+
+**halt, eben, doch and mal** get a story each, then understatement, being
+teased, dry humour, and complaining as a social form. `p6-10` to `p6-16` are
+Fasnacht from inside a Guggenmusik: the weekly rehearsal from November, playing
+badly in public, the mask, the Urknall at five in the morning, confetti in a
+jacket in July, six days that run together, and a town that is clean by nine on
+Ash Wednesday. Then swearing at the local strength, the Germans, Zurich, the
+Röstigraben, the first of August, alphorn and yodelling as clubs with
+committees, voting, and the last two: how an opinion is put down loosely, and
+Nuno saying *du tönst schon fast wie einer von hier*.
+
+**Beat pays off exactly as `p5-18` set him up.** He hands nobody an
+instrument twice; the drum arrived in phase 5 and `p6-10` is the season that
+follows it. Margrit, seventy-one and forty-four years in the band, is the only
+new person of any weight, and she gets the moment the whole phase turns on.
+
+### What the phase taught about writing the next one
+
+- **The particle stories cannot be grammar lessons.** Each one had to arrive
+  through an event — a cancelled train, two men in a courtyard, a shut window,
+  a plate of food — or the story is a table with sentences round it. `p6-02` is
+  the test case: an entire negotiation in forty words, six of them *eben*.
+- **The sweep was 16 cards, up from 10.** Higher than phase 5 because phase 6
+  moves away from the flat and the funeral, so phase 5's own vocabulary aged
+  fast: `Abdankung`, `sterben`, `Kiste`, `Kasten` and `leider` all needed
+  putting back. 50 sentences closed it, and the re-run came back clean.
+- **A word that is hard to bring back is not exempt.** Nobody mentions a
+  funeral service casually. It still has to return or it is taught once and
+  forgotten, and there were four honest places for it: the same church at
+  Aschermittwoch, Herr Bucher on the stairs, and the Jodelklub, who sing at
+  them.
+- **`halt` needed a dictionary entry and it collides with `halten`.** The
+  particle is on nearly every page of this phase; `halt` is also halten's du
+  imperative. The particle wins the exact-spelling lookup, `halte` is pinned
+  back to halten, and both were checked in the reader. Worth knowing before
+  anybody "fixes" it.
+- **A line exemption carries a POSITION and the sweep moves it.** `p6-21`'s
+  Bürgersteig line was exempt at `#52`, and inserting sweep sentences pushed it
+  to `#54`, so the gate fired on content that was already approved. **Fix the
+  number after the sweep, not before**, and re-run.
+
+### Known, and worth flagging
+
+- **`Grinde`, `Räppli`, `Sujet`, `Hock` and `Seich` are Luzern words** written
+  the way the local papers write them. All attested, none verifiable from here.
+  `p6-12` names Basel's `Larve` beside Grinde, and `p6-14` names Konfetti, so
+  the learner has both halves.
+- **`Couvert` is what `p6-24` teaches for the voting envelope**, and phase 5's
+  `p5-14` used `Umschlag`. Both are used in Switzerland; Couvert is the more
+  Swiss and Kuvert was already in the dictionary. Not a contradiction, and not
+  a thing anybody here can settle.
+- **`Weichmacher` for a softening word** is my label rather than a term
+  anybody uses. It is glossed and it is honest, and if it reads as jargon it
+  can go.
+- **The Urknall detail is from the public account of it**, not from having
+  stood there: five o'clock, Schmutziger Donnerstag, in the dark. Same class of
+  risk as everything else in this phase.
+- **`aufpassen` and `aufwachen` have now gone six phases at one use each.**
+  Phase 7 or drop them. Sixth time of writing this line.
 
 ## 21. Phase 5 — Hard Things, 26 stories, DONE 2026-08-28
 

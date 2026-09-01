@@ -1,0 +1,109 @@
+{
+ "id": "sc49",
+ "title": "Und das bei diesen Preisen",
+ "desc": "Two minutes of agreeing with a stranger",
+ "setting": "Platform two at twenty past seven, a board reading plus four, and a man you have never spoken to.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Ein Mann am Perron",
+   "es": "Das ist doch nicht möglich.",
+   "en": "That is simply not possible.",
+   "options": [
+    {
+     "es": "Und am Montag war es auch schon.",
+     "en": "And on Monday it happened too.",
+     "verdict": "good",
+     "feedback": "Agree and add one. That is the whole form and it lasts about two minutes."
+    },
+    {
+     "es": "Es sind ja nur vier Minuten.",
+     "en": "It is only four minutes.",
+     "verdict": "bad",
+     "feedback": "Correct, and it is the one thing that is not allowed. He was not asking to be right."
+    },
+    {
+     "es": "Ja.",
+     "en": "Yes.",
+     "verdict": "ok",
+     "feedback": "Not wrong, and it leaves him holding the conversation on his own."
+    }
+   ]
+  },
+  {
+   "speaker": "Ein Mann am Perron",
+   "es": "Und das bei diesen Preisen.",
+   "en": "And at these prices.",
+   "options": [
+    {
+     "es": "Eben.",
+     "en": "Eben.",
+     "verdict": "good",
+     "feedback": "The strongest thing you can say here and it is one syllable."
+    },
+    {
+     "es": "Dafür fährt fast immer alles pünktlich.",
+     "en": "On the other hand almost everything runs on time.",
+     "verdict": "bad",
+     "feedback": "True, and it is the second correction. He will turn away and be perfectly polite about it."
+    },
+    {
+     "es": "Das kann ja nicht sein.",
+     "en": "That cannot be.",
+     "verdict": "good",
+     "feedback": "The other fixed line. Interchangeable, and it keeps the two minutes going."
+    }
+   ]
+  },
+  {
+   "speaker": "Ein Mann am Perron",
+   "es": "Fahren Sie jeden Tag?",
+   "en": "Do you travel every day?",
+   "options": [
+    {
+     "es": "Jeden Tag um diese Zeit.",
+     "en": "Every day at this time.",
+     "verdict": "good",
+     "feedback": "A fact, small, and it is how a platform acquaintance starts. You will nod at him for years."
+    },
+    {
+     "es": "Ich bin erst seit drei Jahren hier.",
+     "en": "I have only been here three years.",
+     "verdict": "ok",
+     "feedback": "An answer to a question he did not ask. He asked about the train."
+    },
+    {
+     "es": "Warum fragen Sie?",
+     "en": "Why do you ask?",
+     "verdict": "bad",
+     "feedback": "He is making conversation on a platform. That reads as suspicion."
+    }
+   ]
+  },
+  {
+   "speaker": "Ein Mann am Perron",
+   "es": "So. Jetzt kommt er.",
+   "en": "Right. Here it comes.",
+   "options": [
+    {
+     "es": "Immerhin.",
+     "en": "At least.",
+     "verdict": "good",
+     "feedback": "One word, dry, and it ends the two minutes cleanly. He will laugh through his nose."
+    },
+    {
+     "es": "Endlich. Das war wirklich zu viel.",
+     "en": "Finally. That really was too much.",
+     "verdict": "ok",
+     "feedback": "Still going at minute four. The form is over when the train arrives."
+    },
+    {
+     "es": "Schönen Tag noch.",
+     "en": "Have a nice day.",
+     "verdict": "ok",
+     "feedback": "Warm and a bit large for a man you complained with. A nod does it."
+    }
+   ]
+  }
+ ]
+}

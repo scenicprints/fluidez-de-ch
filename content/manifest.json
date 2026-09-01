@@ -1093,6 +1093,188 @@
    "desc": "Not better, lighter",
    "phase": 5,
    "path": "lessons/p5-26.json"
+  },
+  {
+   "id": "p6-01",
+   "title": "Halt",
+   "desc": "The word for that is simply how it is",
+   "phase": 6,
+   "path": "lessons/p6-01.json"
+  },
+  {
+   "id": "p6-02",
+   "title": "Eben",
+   "desc": "Agreeing with something you already thought",
+   "phase": 6,
+   "path": "lessons/p6-02.json"
+  },
+  {
+   "id": "p6-03",
+   "title": "Doch",
+   "desc": "Contradicting a negative",
+   "phase": 6,
+   "path": "lessons/p6-03.json"
+  },
+  {
+   "id": "p6-04",
+   "title": "Mach mal",
+   "desc": "Softening everything",
+   "phase": 6,
+   "path": "lessons/p6-04.json"
+  },
+  {
+   "id": "p6-05",
+   "title": "Nicht schlecht",
+   "desc": "The highest praise available",
+   "phase": 6,
+   "path": "lessons/p6-05.json"
+  },
+  {
+   "id": "p6-06",
+   "title": "Sie nehmen dich auf den Arm",
+   "desc": "Being teased on purpose",
+   "phase": 6,
+   "path": "lessons/p6-06.json"
+  },
+  {
+   "id": "p6-07",
+   "title": "Zurückgeben",
+   "desc": "Teasing back",
+   "phase": 6,
+   "path": "lessons/p6-07.json"
+  },
+  {
+   "id": "p6-08",
+   "title": "Trockener Humor",
+   "desc": "Jokes with no signal on them",
+   "phase": 6,
+   "path": "lessons/p6-08.json"
+  },
+  {
+   "id": "p6-09",
+   "title": "Reklamieren",
+   "desc": "Complaining as a social form",
+   "phase": 6,
+   "path": "lessons/p6-09.json"
+  },
+  {
+   "id": "p6-10",
+   "title": "Die Guggenmusik",
+   "desc": "A brass band playing wrong on purpose",
+   "phase": 6,
+   "path": "lessons/p6-10.json"
+  },
+  {
+   "id": "p6-11",
+   "title": "Falsch spielen",
+   "desc": "Being bad at something in public",
+   "phase": 6,
+   "path": "lessons/p6-11.json"
+  },
+  {
+   "id": "p6-12",
+   "title": "Die Grinde",
+   "desc": "A mask, and what it lets you do",
+   "phase": 6,
+   "path": "lessons/p6-12.json"
+  },
+  {
+   "id": "p6-13",
+   "title": "Der Urknall",
+   "desc": "Five in the morning on Kapellplatz",
+   "phase": 6,
+   "path": "lessons/p6-13.json"
+  },
+  {
+   "id": "p6-14",
+   "title": "Räppli",
+   "desc": "Confetti in everything for a month",
+   "phase": 6,
+   "path": "lessons/p6-14.json"
+  },
+  {
+   "id": "p6-15",
+   "title": "Drei Tage",
+   "desc": "Sleep is not part of it",
+   "phase": 6,
+   "path": "lessons/p6-15.json"
+  },
+  {
+   "id": "p6-16",
+   "title": "Aschermittwoch",
+   "desc": "It stops, completely",
+   "phase": 6,
+   "path": "lessons/p6-16.json"
+  },
+  {
+   "id": "p6-17",
+   "title": "Ironie, aber freundlich",
+   "desc": "Sarcasm that is not unkind",
+   "phase": 6,
+   "path": "lessons/p6-17.json"
+  },
+  {
+   "id": "p6-18",
+   "title": "Fluchen, ein bisschen",
+   "desc": "Swearing, at the local strength",
+   "phase": 6,
+   "path": "lessons/p6-18.json"
+  },
+  {
+   "id": "p6-19",
+   "title": "Die Deutschen",
+   "desc": "The neighbours, discussed",
+   "phase": 6,
+   "path": "lessons/p6-19.json"
+  },
+  {
+   "id": "p6-20",
+   "title": "Zürich",
+   "desc": "The other city, discussed",
+   "phase": 6,
+   "path": "lessons/p6-20.json"
+  },
+  {
+   "id": "p6-21",
+   "title": "Der Röstigraben",
+   "desc": "A country with a line down it",
+   "phase": 6,
+   "path": "lessons/p6-21.json"
+  },
+  {
+   "id": "p6-22",
+   "title": "Der erste August",
+   "desc": "Bonfires on the hills, and bread with a flag in it",
+   "phase": 6,
+   "path": "lessons/p6-22.json"
+  },
+  {
+   "id": "p6-23",
+   "title": "Alphorn und Jodel",
+   "desc": "The sound people abroad think is a joke",
+   "phase": 6,
+   "path": "lessons/p6-23.json"
+  },
+  {
+   "id": "p6-24",
+   "title": "Abstimmen",
+   "desc": "Voting, four times a year",
+   "phase": 6,
+   "path": "lessons/p6-24.json"
+  },
+  {
+   "id": "p6-25",
+   "title": "Eine Meinung, locker gehalten",
+   "desc": "Having a view without insisting on it",
+   "phase": 6,
+   "path": "lessons/p6-25.json"
+  },
+  {
+   "id": "p6-26",
+   "title": "Du tönst schon fast",
+   "desc": "Somebody says you sound like one of them",
+   "phase": 6,
+   "path": "lessons/p6-26.json"
   }
  ],
  "scenarios": [
@@ -1410,6 +1592,48 @@
    "desc": "Saying no to somebody who is allowed to ask",
    "phase": 5,
    "path": "scenarios/sc45.json"
+  },
+  {
+   "id": "sc46",
+   "title": "Dann halt später",
+   "desc": "A cancelled train, and the word that closes it",
+   "phase": 6,
+   "path": "scenarios/sc46.json"
+  },
+  {
+   "id": "sc47",
+   "title": "Nicht schlecht",
+   "desc": "Praise arriving at a size you did not expect",
+   "phase": 6,
+   "path": "scenarios/sc47.json"
+  },
+  {
+   "id": "sc48",
+   "title": "Vier Minuten",
+   "desc": "Believing something ridiculous, in public",
+   "phase": 6,
+   "path": "scenarios/sc48.json"
+  },
+  {
+   "id": "sc49",
+   "title": "Und das bei diesen Preisen",
+   "desc": "Two minutes of agreeing with a stranger",
+   "phase": 6,
+   "path": "scenarios/sc49.json"
+  },
+  {
+   "id": "sc50",
+   "title": "Hinter der Grinde",
+   "desc": "Half an hour with nobody knowing where you are from",
+   "phase": 6,
+   "path": "scenarios/sc50.json"
+  },
+  {
+   "id": "sc51",
+   "title": "Ich sehe das anders",
+   "desc": "Disagreeing without it becoming about a person",
+   "phase": 6,
+   "path": "scenarios/sc51.json"
   }
  ],
  "momo": "bluemli.json"

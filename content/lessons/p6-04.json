@@ -1,0 +1,351 @@
+{
+ "id": "p6-04",
+ "title": "Mach mal",
+ "desc": "Softening everything",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "mal",
+  "eigentlich",
+  "Form",
+  "kurz",
+  "schauen",
+  "können",
+  "Mal",
+  "heissen"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe an einem Mittwoch angefangen mitzuzählen.",
+   "e": "I started counting on a Wednesday."
+  },
+  {
+   "s": "Alles, was jemand an dem Tag von mir wollte, hatte ein mal drin.",
+   "e": "Everything anybody wanted from me that day had a mal in it."
+  },
+  {
+   "s": "Schau mal.",
+   "e": "Have a look."
+  },
+  {
+   "s": "Sag mal.",
+   "e": "Tell me."
+  },
+  {
+   "s": "Warte mal.",
+   "e": "Hang on a moment."
+  },
+  {
+   "s": "Komm mal her.",
+   "e": "Come here a second."
+  },
+  {
+   "s": "Kannst du mal kurz?",
+   "e": "Can you just for a second?"
+  },
+  {
+   "s": "Moment mal.",
+   "e": "Just a moment."
+  },
+  {
+   "s": "Neunzehnmal an einem Tag und kein einziger Befehl.",
+   "e": "Nineteen times in one day and not a single order."
+  },
+  {
+   "s": "Ein Befehl ist ein Satz mit einem Verb am Anfang.",
+   "e": "An order is a sentence with a verb at the beginning."
+  },
+  {
+   "s": "Komm. Warte. Schau. Gib mir das.",
+   "e": "Come. Wait. Look. Give me that."
+  },
+  {
+   "s": "Alle vier sind grammatisch richtig und alle vier sind hier zu hart.",
+   "e": "All four are grammatically correct and all four are too hard here."
+  },
+  {
+   "s": "Man hört sie fast nie.",
+   "e": "You almost never hear them."
+  },
+  {
+   "s": "Man hört sie bei Kindern und bei Hunden und im Militär.",
+   "e": "You hear them with children and with dogs and in the army."
+  },
+  {
+   "s": "Bei Erwachsenen steht ein mal drin.",
+   "e": "With adults there is a mal in it."
+  },
+  {
+   "s": "Mal bedeutet nichts.",
+   "e": "Mal means nothing."
+  },
+  {
+   "s": "Es ist kurz für einmal und es hat mit einmal nichts mehr zu tun.",
+   "e": "It is short for einmal and it has nothing to do with einmal any more."
+  },
+  {
+   "s": "Was es macht, ist die Sache kleiner machen.",
+   "e": "What it does is make the thing smaller."
+  },
+  {
+   "s": "Schau mal heisst: schau, es dauert zwei Sekunden.",
+   "e": "Schau mal means: look, it takes two seconds."
+  },
+  {
+   "s": "Warte mal heisst: warte, nicht lange.",
+   "e": "Warte mal means: wait, not long."
+  },
+  {
+   "s": "Der andere kann dann leichter ja sagen.",
+   "e": "The other person can then say yes more easily."
+  },
+  {
+   "s": "Das ist der ganze Trick und er ist überall der gleiche.",
+   "e": "That is the whole trick and it is the same everywhere."
+  },
+  {
+   "s": "Man macht die Bitte klein, damit sie leicht zu tragen ist.",
+   "e": "You make the request small, so that it is easy to carry."
+  },
+  {
+   "s": "Es gibt eine zweite Stufe darüber.",
+   "e": "There is a second level above it."
+  },
+  {
+   "s": "Man baut die Frage um und nimmt eine Form von könnte.",
+   "e": "You rebuild the question and take a form of könnte."
+  },
+  {
+   "s": "Könntest du mal kurz schauen?",
+   "e": "Could you just have a quick look?"
+  },
+  {
+   "s": "Dort stehen drei Weichmacher in einem Satz.",
+   "e": "There are three softeners in one sentence there."
+  },
+  {
+   "s": "Könntest, mal und kurz.",
+   "e": "Könntest, mal and kurz."
+  },
+  {
+   "s": "Und darunter steht eine ganz normale Bitte.",
+   "e": "And underneath it there is a completely ordinary request."
+  },
+  {
+   "s": "Man kann noch weiter gehen und dann wird es komisch.",
+   "e": "You can go further and then it gets odd."
+  },
+  {
+   "s": "Könntest du vielleicht mal kurz schauen, wenn du Zeit hast?",
+   "e": "Could you maybe just have a quick look, if you have time?"
+  },
+  {
+   "s": "Das sagt hier niemand.",
+   "e": "Nobody says that here."
+  },
+  {
+   "s": "Das tönt nach jemandem, der etwas verstecken will.",
+   "e": "That sounds like somebody who is hiding something."
+  },
+  {
+   "s": "Es gibt eine Grenze und sie ist ungefähr bei zwei Weichmachern.",
+   "e": "There is a limit and it is at about two softeners."
+  },
+  {
+   "s": "Darüber wird aus Höflichkeit Unsicherheit.",
+   "e": "Above that, politeness turns into uncertainty."
+  },
+  {
+   "s": "Und Unsicherheit ist hier keine Höflichkeit, sondern eine Warnung.",
+   "e": "And uncertainty is not politeness here, it is a warning."
+  },
+  {
+   "s": "Kurz ist der zweite Weichmacher und er ist fast so häufig wie mal.",
+   "e": "Kurz is the second softener and it is almost as common as mal."
+  },
+  {
+   "s": "Hast du kurz Zeit?",
+   "e": "Do you have a moment?"
+  },
+  {
+   "s": "Kann ich dich kurz etwas fragen?",
+   "e": "Can I just ask you something?"
+  },
+  {
+   "s": "Ich komme kurz vorbei.",
+   "e": "I will drop by briefly."
+  },
+  {
+   "s": "Kurz ist meistens gelogen und alle wissen es.",
+   "e": "Kurz is usually a lie and everybody knows it."
+  },
+  {
+   "s": "Ich komme kurz vorbei heisst: ich bleibe eine Stunde.",
+   "e": "Ich komme kurz vorbei means: I will stay an hour."
+  },
+  {
+   "s": "Es ist trotzdem nicht unehrlich.",
+   "e": "It is still not dishonest."
+  },
+  {
+   "s": "Es ist eine Form und alle lesen sie gleich.",
+   "e": "It is a form and everybody reads it the same way."
+  },
+  {
+   "s": "Der Unterschied ist wichtig und ich habe lange gebraucht dafür.",
+   "e": "The difference matters and it took me a long time."
+  },
+  {
+   "s": "Eine Ausrede ist unehrlich, weil sie einen Grund erfindet.",
+   "e": "An excuse is dishonest, because it invents a reason."
+  },
+  {
+   "s": "Ein kurz ist eine Form, und eine Form ist etwas anderes.",
+   "e": "A kurz is a form, and a form is something else."
+  },
+  {
+   "s": "Bei einer Form weiss der andere, dass sie eine Form ist.",
+   "e": "With a form the other person knows that it is a form."
+  },
+  {
+   "s": "Es gibt noch ein Wort in dieser Gruppe und das ist eigentlich.",
+   "e": "There is one more word in this group and that is eigentlich."
+  },
+  {
+   "s": "Eigentlich wollte ich fragen.",
+   "e": "I actually wanted to ask."
+  },
+  {
+   "s": "Ich habe eigentlich nur eine Frage.",
+   "e": "I actually only have one question."
+  },
+  {
+   "s": "Eigentlich ist ein Weichmacher und ein Warnzeichen zugleich.",
+   "e": "Eigentlich is a softener and a warning sign at the same time."
+  },
+  {
+   "s": "Wenn jemand einen Satz mit eigentlich anfängt, kommt oft ein Nein.",
+   "e": "When somebody starts a sentence with eigentlich, a no often follows."
+  },
+  {
+   "s": "Eigentlich schon, aber.",
+   "e": "Eigentlich schon, aber."
+  },
+  {
+   "s": "Leider nein ist die kürzeste Form davon und die ehrlichste.",
+   "e": "Leider nein is the shortest form of it and the most honest."
+  },
+  {
+   "s": "Das heisst nein.",
+   "e": "That means no."
+  },
+  {
+   "s": "Es heisst ein freundliches Nein und es heisst trotzdem nein.",
+   "e": "It means a friendly no and it still means no."
+  },
+  {
+   "s": "Das habe ich im Büro gelernt und es hat mich einen Nachmittag gekostet.",
+   "e": "I learnt that in the office and it cost me an afternoon."
+  },
+  {
+   "s": "Ich habe gefragt, ob wir etwas anders machen können.",
+   "e": "I asked whether we could do something differently."
+  },
+  {
+   "s": "Simon hat gesagt: Eigentlich schon.",
+   "e": "Simon said: eigentlich schon."
+  },
+  {
+   "s": "Ich habe angefangen, es zu machen.",
+   "e": "I started doing it."
+  },
+  {
+   "s": "Um vier hat er gefragt, warum ich es gemacht habe.",
+   "e": "At four he asked why I had done it."
+  },
+  {
+   "s": "Er war nicht böse und ich war sehr überrascht.",
+   "e": "He was not angry and I was very surprised."
+  },
+  {
+   "s": "Eigentlich schon heisst: das geht theoretisch und wir machen es nicht.",
+   "e": "Eigentlich schon means: that works in theory and we are not doing it."
+  },
+  {
+   "s": "Es ist ein Nein, das niemanden blamiert.",
+   "e": "It is a no that embarrasses nobody."
+  },
+  {
+   "s": "Ich habe seither dreimal ein eigentlich schon bekommen.",
+   "e": "Since then I have got an eigentlich schon three times."
+  },
+  {
+   "s": "Alle drei Male habe ich nachgefragt.",
+   "e": "All three times I asked again."
+  },
+  {
+   "s": "Ich habe gefragt: Also machen wir es oder nicht?",
+   "e": "I asked: so are we doing it or not?"
+  },
+  {
+   "s": "Das ist direkt und es ist erlaubt, wenn man es einmal fragt.",
+   "e": "That is direct and it is allowed, if you ask it once."
+  },
+  {
+   "s": "Es ist nicht erlaubt, es zweimal zu fragen.",
+   "e": "It is not allowed to ask it twice."
+  },
+  {
+   "s": "Beim zweiten Mal fragt man nicht mehr nach der Sache.",
+   "e": "The second time you are no longer asking about the thing."
+  },
+  {
+   "s": "Beim zweiten Mal fragt man den anderen, ob er ehrlich ist.",
+   "e": "The second time you are asking the other person whether they are honest."
+  },
+  {
+   "s": "Am Abend habe ich Selina davon erzählt.",
+   "e": "In the evening I told Selina about it."
+  },
+  {
+   "s": "Sie hat gelacht und gesagt: Willkommen.",
+   "e": "She laughed and said: welcome."
+  },
+  {
+   "s": "Sie hat gesagt: Wir sagen nie nein.",
+   "e": "She said: we never say no."
+  },
+  {
+   "s": "Ich habe gesagt: Doch. Ihr sagt ständig nein.",
+   "e": "I said: doch. You say no all the time."
+  },
+  {
+   "s": "Sie hat gesagt: Eben. Aber nicht mit dem Wort.",
+   "e": "She said: eben. But not with the word."
+  },
+  {
+   "s": "Dann hat sie mir vier Sätze aufgezählt.",
+   "e": "Then she listed four sentences for me."
+  },
+  {
+   "s": "Eigentlich schon. Das ist schwierig. Da müsste man schauen. Mal sehen.",
+   "e": "Eigentlich schon. That is difficult. You would have to see. We will see."
+  },
+  {
+   "s": "Alle vier heissen nein.",
+   "e": "All four mean no."
+  },
+  {
+   "s": "Ich habe sie aufgeschrieben und in die Küche gehängt.",
+   "e": "I wrote them down and hung them in the kitchen."
+  },
+  {
+   "s": "Sie hängen unter den vierzehn Sätzen für den Arzt.",
+   "e": "They hang under the fourteen sentences for the doctor."
+  },
+  {
+   "s": "Zusammen sind das achtzehn Sätze, die in keinem Kurs stehen.",
+   "e": "Together that is eighteen sentences that are in no course."
+  }
+ ]
+}

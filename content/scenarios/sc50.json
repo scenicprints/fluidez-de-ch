@@ -1,0 +1,109 @@
+{
+ "id": "sc50",
+ "title": "Hinter der Grinde",
+ "desc": "Half an hour with nobody knowing where you are from",
+ "setting": "A pub on Schmutziger Donnerstag at nine in the evening, twenty-five yellow costumes, and a mask you can barely see out of.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Jemand in der Beiz",
+   "es": "In welcher Gugge bist du?",
+   "en": "Which band are you in?",
+   "options": [
+    {
+     "es": "In der da hinten. Die Gelben.",
+     "en": "That one back there. The yellow ones.",
+     "verdict": "good",
+     "feedback": "Point and answer. Behind a mask nobody is asking anything else, and that is the whole point."
+    },
+    {
+     "es": "Ich bin erst seit einem Jahr dabei.",
+     "en": "I have only been in it for a year.",
+     "verdict": "ok",
+     "feedback": "Nobody asked. It is the sentence you have been saying for three years and tonight you do not need it."
+    },
+    {
+     "es": "Ich bin nicht von hier.",
+     "en": "I am not from here.",
+     "verdict": "bad",
+     "feedback": "He could not tell. You just told him, and that is the one thing the mask was doing for you."
+    }
+   ]
+  },
+  {
+   "speaker": "Jemand in der Beiz",
+   "es": "Und? Spielst du etwas?",
+   "en": "And? Do you play something?",
+   "options": [
+    {
+     "es": "Trommel. Auf zwei und auf vier.",
+     "en": "Drum. On two and on four.",
+     "verdict": "good",
+     "feedback": "The joke every single person in this room knows, told flat. He will laugh."
+    },
+    {
+     "es": "Nicht sehr gut.",
+     "en": "Not very well.",
+     "verdict": "ok",
+     "feedback": "Say it once and then stop. Twice is asking somebody to argue with you."
+    },
+    {
+     "es": "Ich habe als Kind Klavier gelernt.",
+     "en": "I learnt the piano as a child.",
+     "verdict": "ok",
+     "feedback": "A CV where a one-word answer goes. It is loud in here and he has a beer."
+    }
+   ]
+  },
+  {
+   "speaker": "Jemand in der Beiz",
+   "es": "Kennst du den Erwin? Der spielt bei euch.",
+   "en": "Do you know Erwin? He plays with you.",
+   "options": [
+    {
+     "es": "Klar. Der mit der grossen Trompete.",
+     "en": "Sure. The one with the big trumpet.",
+     "verdict": "good",
+     "feedback": "Yes, and one detail. That is how a stranger finds out you actually belong there."
+    },
+    {
+     "es": "Nein, den kenne ich nicht.",
+     "en": "No, I do not know him.",
+     "verdict": "ok",
+     "feedback": "Twenty-five people and you have been going a year. He will believe you and wonder."
+    },
+    {
+     "es": "Ich kenne noch nicht alle.",
+     "en": "I do not know everybody yet.",
+     "verdict": "ok",
+     "feedback": "Honest and it is the third sentence tonight that puts you outside the group."
+    }
+   ]
+  },
+  {
+   "speaker": "Jemand in der Beiz",
+   "es": "Nimmst du die Grinde nicht ab? Es ist heiss hier.",
+   "en": "Are you not taking the mask off? It is hot in here.",
+   "options": [
+    {
+     "es": "Nachher. Draussen.",
+     "en": "Later. Outside.",
+     "verdict": "good",
+     "feedback": "Taking it off in a conversation makes the conversation serious. Everybody here knows that rule."
+    },
+    {
+     "es": "Doch, gleich.",
+     "en": "Yes, in a minute.",
+     "verdict": "ok",
+     "feedback": "Fine. Also the end of the half hour where nobody could hear where you are from."
+    },
+    {
+     "es": "Ich sehe damit fast nichts, aber es ist besser so.",
+     "en": "I can hardly see with it, but it is better this way.",
+     "verdict": "ok",
+     "feedback": "True, and it explains something that works better unexplained."
+    }
+   ]
+  }
+ ]
+}

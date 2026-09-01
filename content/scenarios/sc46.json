@@ -1,0 +1,109 @@
+{
+ "id": "sc46",
+ "title": "Dann halt später",
+ "desc": "A cancelled train, and the word that closes it",
+ "setting": "Platform four on a Tuesday morning, a board that says Fällt aus, and twenty-two minutes.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Timo",
+   "es": "Der fällt aus. Der nächste geht um zwanzig nach.",
+   "en": "That one is cancelled. The next goes at twenty past.",
+   "options": [
+    {
+     "es": "Dann gehen wir halt später.",
+     "en": "Then we will just go later.",
+     "verdict": "good",
+     "feedback": "The whole sentence. There is a shrug in the middle of it and it closes the subject."
+    },
+    {
+     "es": "Das ist wirklich schlecht organisiert.",
+     "en": "That is really badly organised.",
+     "verdict": "ok",
+     "feedback": "A complaint is allowed and this one is a bit long and a bit true. Two minutes, then stop."
+    },
+    {
+     "es": "Sollen wir ein Taxi nehmen?",
+     "en": "Shall we take a taxi?",
+     "verdict": "bad",
+     "feedback": "For twenty-two minutes. He will not say anything and he will remember it."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Das ist diese Woche schon das zweite Mal.",
+   "en": "That is the second time this week.",
+   "options": [
+    {
+     "es": "Eben.",
+     "en": "Eben.",
+     "verdict": "good",
+     "feedback": "Agreement, no enthusiasm, and it hands the subject back to him. Exactly the right size."
+    },
+    {
+     "es": "Ja, absolut, das ist wirklich unmöglich.",
+     "en": "Yes, absolutely, that really is impossible.",
+     "verdict": "ok",
+     "feedback": "Three times too much. He was making conversation, not an argument."
+    },
+    {
+     "es": "Bei uns zu Hause wäre das normal.",
+     "en": "At home that would be normal.",
+     "verdict": "bad",
+     "feedback": "Comparing your old country to this one, out loud, over four minutes. It never lands well."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Willst du einen Kaffee holen?",
+   "en": "Do you want to get a coffee?",
+   "options": [
+    {
+     "es": "Ja, gern. Ich gehe mal schauen.",
+     "en": "Yes, gladly. I will go and have a look.",
+     "verdict": "good",
+     "feedback": "Mal, in the middle, doing nothing and softening the whole thing."
+    },
+    {
+     "es": "Nein, danke.",
+     "en": "No, thank you.",
+     "verdict": "ok",
+     "feedback": "Fine, and it leaves him standing on a platform for twenty minutes with nothing."
+    },
+    {
+     "es": "Wir haben doch keine Zeit.",
+     "en": "But we do not have time.",
+     "verdict": "bad",
+     "feedback": "Doch in the middle is a reproach here. You have twenty-two minutes."
+    }
+   ]
+  },
+  {
+   "speaker": "Timo",
+   "es": "Merci. Was hat er gekostet?",
+   "en": "Thanks. What did it cost?",
+   "options": [
+    {
+     "es": "Vier fünfzig.",
+     "en": "Four fifty.",
+     "verdict": "good",
+     "feedback": "The number, exactly. He will send you the difference this evening and mean it."
+    },
+    {
+     "es": "Ist egal.",
+     "en": "It does not matter.",
+     "verdict": "bad",
+     "feedback": "It does. Nobody here wants to carry even a small debt, and refusing to say makes one."
+    },
+    {
+     "es": "Zahlst du das nächste?",
+     "en": "Will you get the next one?",
+     "verdict": "ok",
+     "feedback": "Warm, and it turns four fifty into an arrangement. Just say the number."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc51",
+ "title": "Ich sehe das anders",
+ "desc": "Disagreeing without it becoming about a person",
+ "setting": "A club meeting on a Tuesday, eleven people, six hundred francs and forty minutes.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Ein Mann vom Vorstand",
+   "es": "Also machen wir das so. Sind alle einverstanden?",
+   "en": "So we will do it that way. Is everybody agreed?",
+   "options": [
+    {
+     "es": "Ich sehe das anders.",
+     "en": "I see that differently.",
+     "verdict": "good",
+     "feedback": "Four words, very calm. They attack nobody and give up nothing, and the room will make space."
+    },
+    {
+     "es": "Das ist falsch.",
+     "en": "That is wrong.",
+     "verdict": "bad",
+     "feedback": "Put flat on the table it decides for everybody. Watch what the room does with it."
+    },
+    {
+     "es": "Ich weiss nicht, ob ich das gut finde.",
+     "en": "I do not know whether I think that is good.",
+     "verdict": "ok",
+     "feedback": "Honest and shapeless. Say what you see and let them answer it."
+    }
+   ]
+  },
+  {
+   "speaker": "Ein Mann vom Vorstand",
+   "es": "Und warum?",
+   "en": "And why?",
+   "options": [
+    {
+     "es": "Mir scheint, das kostet uns nächstes Jahr mehr.",
+     "en": "It seems to me that will cost us more next year.",
+     "verdict": "good",
+     "feedback": "An opening that says this is mine, and then a reason with a number in it."
+    },
+    {
+     "es": "Weil es einfach keinen Sinn macht.",
+     "en": "Because it simply makes no sense.",
+     "verdict": "bad",
+     "feedback": "Einfach and no reason. That is the sentence that ends a discussion and wins nothing."
+    },
+    {
+     "es": "Das habe ich vorhin doch gesagt.",
+     "en": "But I said that earlier.",
+     "verdict": "bad",
+     "feedback": "Doch in the middle, at somebody who is chairing. It reads as a complaint about him."
+    }
+   ]
+  },
+  {
+   "speaker": "Margrit",
+   "es": "Da hat er recht. Das haben wir letztes Jahr auch gehabt.",
+   "en": "He is right there. We had that last year too.",
+   "options": [
+    {
+     "es": "Eben.",
+     "en": "Eben.",
+     "verdict": "good",
+     "feedback": "She has just supported you without meaning to. One syllable takes it and moves on."
+    },
+    {
+     "es": "Genau, das meine ich ja.",
+     "en": "Exactly, that is what I mean.",
+     "verdict": "ok",
+     "feedback": "Fine and a bit eager. Ja in there makes it sound like you were waiting."
+    },
+    {
+     "es": "Danke, Margrit.",
+     "en": "Thank you, Margrit.",
+     "verdict": "bad",
+     "feedback": "Thanking somebody for agreeing turns a matter into two sides with members."
+    }
+   ]
+  },
+  {
+   "speaker": "Ein Mann vom Vorstand",
+   "es": "Gut. Dann stimmen wir ab.",
+   "en": "Fine. Then we will vote.",
+   "options": [
+    {
+     "es": "Gut.",
+     "en": "Fine.",
+     "verdict": "good",
+     "feedback": "You will probably lose and it will be over. Whoever loses often writes the minutes."
+    },
+    {
+     "es": "Können wir noch einmal darüber reden?",
+     "en": "Can we talk about it again?",
+     "verdict": "ok",
+     "feedback": "You have said it. A second round is where a matter starts turning into a person."
+    },
+    {
+     "es": "Ich bin dagegen, das ist klar.",
+     "en": "I am against it, that is clear.",
+     "verdict": "ok",
+     "feedback": "They know. Saying it again just before the vote adds nothing."
+    }
+   ]
+  }
+ ]
+}

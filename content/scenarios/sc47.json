@@ -1,0 +1,109 @@
+{
+ "id": "sc47",
+ "title": "Nicht schlecht",
+ "desc": "Praise arriving at a size you did not expect",
+ "setting": "A Sunday table in Kriens, five people, and the first thing you have ever cooked for them.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Kurt",
+   "es": "Nicht schlecht.",
+   "en": "Not bad.",
+   "options": [
+    {
+     "es": "Danke.",
+     "en": "Thank you.",
+     "verdict": "ok",
+     "feedback": "Not wrong. It also stops the exchange one step early, and there was a step left."
+    },
+    {
+     "es": "Es ist ein bisschen zu salzig.",
+     "en": "It is a bit too salty.",
+     "verdict": "good",
+     "feedback": "Make it smaller and let him make it bigger again. That is the dance and he knows the steps."
+    },
+    {
+     "es": "Nur nicht schlecht?",
+     "en": "Only not bad?",
+     "verdict": "bad",
+     "feedback": "That is the top of his scale. Asking for more turns the best thing he says into a disappointment."
+    }
+   ]
+  },
+  {
+   "speaker": "Marianne",
+   "es": "Was ist da alles drin?",
+   "en": "What is in it?",
+   "options": [
+    {
+     "es": "Nichts Besonderes. Zwiebeln, Rahm, Poulet.",
+     "en": "Nothing special. Onions, cream, chicken.",
+     "verdict": "good",
+     "feedback": "The list, and the modesty in front of it. Both are expected and neither is a lie."
+    },
+    {
+     "es": "Ein altes Rezept von meiner Grossmutter.",
+     "en": "An old recipe of my grandmother's.",
+     "verdict": "ok",
+     "feedback": "A story where a list was asked for. She will ask again in a minute."
+    },
+    {
+     "es": "Das verrate ich nicht.",
+     "en": "I am not telling.",
+     "verdict": "bad",
+     "feedback": "A joke that reads as a wall. She asked because she wants to make it."
+    }
+   ]
+  },
+  {
+   "speaker": "Reto",
+   "es": "Kannst du das nochmals machen?",
+   "en": "Can you do that again some time?",
+   "options": [
+    {
+     "es": "Klar. Sag mal Bescheid.",
+     "en": "Sure. Let me know.",
+     "verdict": "good",
+     "feedback": "Yes, and a mal in the middle so it is not a commitment with a date on it."
+    },
+    {
+     "es": "Wenn ihr wollt, mache ich das jeden Sonntag.",
+     "en": "If you like, I will do it every Sunday.",
+     "verdict": "bad",
+     "feedback": "Far too much, and it puts them under an obligation they did not ask for."
+    },
+    {
+     "es": "Es war wirklich nichts.",
+     "en": "It was really nothing.",
+     "verdict": "ok",
+     "feedback": "Modesty is right, and he asked a question. Answer it as well."
+    }
+   ]
+  },
+  {
+   "speaker": "Kurt",
+   "es": "Du kochst besser als der Reto.",
+   "en": "You cook better than Reto.",
+   "options": [
+    {
+     "es": "Das ist keine hohe Latte.",
+     "en": "That is not a high bar.",
+     "verdict": "good",
+     "feedback": "Teasing back, at the person who is in the room, once. Reto will laugh and take more."
+    },
+    {
+     "es": "Danke, das freut mich sehr.",
+     "en": "Thank you, that really pleases me.",
+     "verdict": "ok",
+     "feedback": "Accepting it flat, in front of the person it was measured against."
+    },
+    {
+     "es": "Nein, das stimmt nicht.",
+     "en": "No, that is not true.",
+     "verdict": "ok",
+     "feedback": "Deflection is right and this one contradicts him instead of moving past it."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "id": "p6-14",
+ "title": "Räppli",
+ "desc": "Confetti in everything for a month",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "werfen"
+ ],
+ "sn": [
+  {
+   "s": "Das Wort ist Räppli und es heisst Konfetti.",
+   "e": "The word is Räppli and it means confetti."
+  },
+  {
+   "s": "Es kommt von Rappen, weil die kleinen Papiere wie Münzen aussehen.",
+   "e": "It comes from Rappen, because the little papers look like coins."
+  },
+  {
+   "s": "In Basel sagen sie etwas anderes und darüber gibt es Streit.",
+   "e": "In Basel they say something else and there is an argument about it."
+  },
+  {
+   "s": "Der Streit ist nicht ernst und er hört nie auf.",
+   "e": "The argument is not serious and it never ends."
+  },
+  {
+   "s": "Man kauft sie im Sack, im Laden, kiloweise.",
+   "e": "You buy them by the bag, in the shop, by the kilo."
+  },
+  {
+   "s": "Im Laden stehen sie ab Januar in Kisten neben der Kasse.",
+   "e": "In the shop they stand in boxes next to the till from January."
+  },
+  {
+   "s": "Ein Sack kostet ein paar Franken und man braucht mehrere.",
+   "e": "A bag costs a few francs and you need several."
+  },
+  {
+   "s": "Sie sind bunt und sie sind sehr klein und sie sind überall.",
+   "e": "They are colourful and they are very small and they are everywhere."
+  },
+  {
+   "s": "Überall ist hier keine Übertreibung.",
+   "e": "Everywhere is not an exaggeration here."
+  },
+  {
+   "s": "Am Donnerstagabend sind sie in den Gassen zehn Zentimeter tief.",
+   "e": "On Thursday evening they are ten centimetres deep in the lanes."
+  },
+  {
+   "s": "In den Ecken sind sie höher.",
+   "e": "In the corners they are higher."
+  },
+  {
+   "s": "Man läuft darin wie im Schnee, nur bunt.",
+   "e": "You walk in them like in snow, only colourful."
+  },
+  {
+   "s": "Man hat sie im Haar und im Kragen und in den Schuhen.",
+   "e": "You have them in your hair and in your collar and in your shoes."
+  },
+  {
+   "s": "Man hat sie im Mund, wenn man in einem schlechten Moment lacht.",
+   "e": "You have them in your mouth if you laugh at a bad moment."
+  },
+  {
+   "s": "Am Freitag hatte ich sie im Bett.",
+   "e": "On Friday I had them in the bed."
+  },
+  {
+   "s": "Ich habe geduscht und ich habe sie trotzdem ins Bett gebracht.",
+   "e": "I had showered and I still brought them into the bed."
+  },
+  {
+   "s": "Selina hat am Morgen nichts gesagt.",
+   "e": "In the morning Selina said nothing."
+  },
+  {
+   "s": "Sie hat nur die Decke genommen und sie zum Fenster hinaus geschüttelt.",
+   "e": "She just took the duvet and shook it out of the window."
+  },
+  {
+   "s": "Sie hat das mit einer Bewegung gemacht, die sie seit dreissig Jahren kennt.",
+   "e": "She did it with a movement she has known for thirty years."
+  },
+  {
+   "s": "Man wirft sie den Leuten ins Gesicht und das ist erlaubt.",
+   "e": "You throw them in people's faces and that is allowed."
+  },
+  {
+   "s": "Es ist die einzige Sache im ganzen Land, die man Fremden ins Gesicht wirft.",
+   "e": "It is the only thing in the whole country you throw in strangers' faces."
+  },
+  {
+   "s": "Es gibt trotzdem Regeln, weil es hier immer Regeln gibt.",
+   "e": "There are rules all the same, because there are always rules here."
+  },
+  {
+   "s": "Man wirft nicht mit der ganzen Hand aus einem Meter Abstand.",
+   "e": "You do not throw with a whole handful from a metre away."
+  },
+  {
+   "s": "Man wirft nicht in offene Getränke.",
+   "e": "You do not throw into open drinks."
+  },
+  {
+   "s": "Man hebt sie nicht vom Boden auf und wirft sie noch einmal.",
+   "e": "You do not pick them up off the ground and throw them again."
+  },
+  {
+   "s": "Die dritte Regel ist die wichtigste und ich habe sie sofort gelernt.",
+   "e": "The third rule is the most important and I learnt it immediately."
+  },
+  {
+   "s": "Ein Kind hat es mir erklärt, ungefähr acht Jahre alt.",
+   "e": "A child explained it to me, about eight years old."
+  },
+  {
+   "s": "Es hat gesagt: Die vom Boden sind dreckig. Das macht man nicht.",
+   "e": "It said: the ones off the ground are dirty. You do not do that."
+  },
+  {
+   "s": "Es hat mich angeschaut, als ob ich sehr neu wäre.",
+   "e": "It looked at me as though I were very new."
+  },
+  {
+   "s": "Ich war sehr neu.",
+   "e": "I was very new."
+  },
+  {
+   "s": "Die Stadt ist am Mittwoch danach sauber.",
+   "e": "The town is clean by the Wednesday afterwards."
+  },
+  {
+   "s": "Wirklich sauber, an einem Morgen, überall.",
+   "e": "Really clean, in one morning, everywhere."
+  },
+  {
+   "s": "Das ist eine Sache, die ich immer noch nicht ganz glaube.",
+   "e": "That is a thing I still do not quite believe."
+  },
+  {
+   "s": "Und trotzdem sind sie danach noch monatelang da.",
+   "e": "And all the same they are still there for months afterwards."
+  },
+  {
+   "s": "Nicht auf der Strasse. In den Sachen.",
+   "e": "Not on the street. In things."
+  },
+  {
+   "s": "Im März habe ich sie in der Waschmaschine gefunden.",
+   "e": "In March I found them in the washing machine."
+  },
+  {
+   "s": "Im April in einem Buch, das im Februar auf dem Tisch gelegen ist.",
+   "e": "In April in a book that had been lying on the table in February."
+  },
+  {
+   "s": "Im Mai in einer Schublade, die niemand aufgemacht hat.",
+   "e": "In May in a drawer nobody had opened."
+  },
+  {
+   "s": "Im Juni hinter dem Kasten in der Küche.",
+   "e": "In June behind the cupboard in the kitchen."
+  },
+  {
+   "s": "Im Juli habe ich eine Jacke geholt, weil es kühl war am See.",
+   "e": "In July I fetched a jacket, because it was cool by the lake."
+  },
+  {
+   "s": "In der linken Tasche waren vier Räppli.",
+   "e": "In the left pocket there were four Räppli."
+  },
+  {
+   "s": "Ein blaues, zwei gelbe und ein grünes.",
+   "e": "One blue, two yellow and one green."
+  },
+  {
+   "s": "Ich bin am Ufer gestanden und habe sie in der Hand gehabt.",
+   "e": "I stood on the bank with them in my hand."
+  },
+  {
+   "s": "Es waren fünf Monate seit dem Februar.",
+   "e": "It was five months since February."
+  },
+  {
+   "s": "Ich habe sie nicht weggeworfen.",
+   "e": "I did not throw them away."
+  },
+  {
+   "s": "Ich habe sie zurück in die Tasche getan.",
+   "e": "I put them back in the pocket."
+  },
+  {
+   "s": "Das ist eine dumme Sache und ich habe sie trotzdem gemacht.",
+   "e": "That is a stupid thing and I did it anyway."
+  },
+  {
+   "s": "Sie sind ein paar Wörter wert, die ich vorher nicht gebraucht habe.",
+   "e": "They are worth a few words I had not needed before."
+  },
+  {
+   "s": "Voll heisst hier nicht satt.",
+   "e": "Voll here does not mean full up."
+  },
+  {
+   "s": "Die Gasse ist voll Räppli.",
+   "e": "The lane is full of confetti."
+  },
+  {
+   "s": "Die Taschen sind voll.",
+   "e": "The pockets are full."
+  },
+  {
+   "s": "Alles ist voll.",
+   "e": "Everything is full."
+  },
+  {
+   "s": "Immer noch heisst: es ist noch nicht fertig, obwohl es das sollte.",
+   "e": "Immer noch means: it is still not over, although it should be."
+  },
+  {
+   "s": "Im Juli sind immer noch welche in der Jacke.",
+   "e": "In July there are still some in the jacket."
+  },
+  {
+   "s": "Er redet immer noch davon.",
+   "e": "He is still talking about it."
+  },
+  {
+   "s": "Sie wohnt immer noch dort.",
+   "e": "She still lives there."
+  },
+  {
+   "s": "Es sind zwei kleine Wörter und sie tragen eine ganze Bedeutung.",
+   "e": "They are two small words and they carry a whole meaning."
+  },
+  {
+   "s": "Immer noch hat oft ein bisschen Ärger drin.",
+   "e": "Immer noch often has a little annoyance in it."
+  },
+  {
+   "s": "Manchmal hat es das Gegenteil drin und dann hört man es am Ton.",
+   "e": "Sometimes it has the opposite in it and then you hear it in the tone."
+  },
+  {
+   "s": "Ruedi Zemp hat im April etwas dazu gesagt.",
+   "e": "Ruedi Zemp said something about it in April."
+  },
+  {
+   "s": "Er hat im Hof gekehrt und ich bin vorbei.",
+   "e": "He was sweeping in the courtyard and I went past."
+  },
+  {
+   "s": "Es sind aus einem Container welche gekommen, beim Leeren.",
+   "e": "Some had come out of a container, when it was being emptied."
+  },
+  {
+   "s": "Er hat gesagt: Die findet man bis im Sommer.",
+   "e": "He said: you find those until the summer."
+  },
+  {
+   "s": "Ich habe gesagt: Stört Sie das?",
+   "e": "I said: does that bother you?"
+  },
+  {
+   "s": "Er hat gesagt: Nein.",
+   "e": "He said: no."
+  },
+  {
+   "s": "Dann hat er weitergekehrt und nach zehn Sekunden noch etwas gesagt.",
+   "e": "Then he went on sweeping and after ten seconds said something else."
+  },
+  {
+   "s": "Er hat gesagt: Sonst wäre es ja umsonst gewesen.",
+   "e": "He said: otherwise it would have been for nothing."
+  },
+  {
+   "s": "Das ist der ganze Sinn von einem Fest, in acht Wörtern.",
+   "e": "That is the whole point of a festival, in eight words."
+  },
+  {
+   "s": "Er hat es zu einem Besen gesagt und nicht zu mir.",
+   "e": "He said it to a broom and not to me."
+  },
+  {
+   "s": "So kommen hier die guten Sätze.",
+   "e": "That is how the good sentences come here."
+  },
+  {
+   "s": "Am ersten August habe ich immer noch welche im Auto gefunden.",
+   "e": "On the first of August I still found some in the car."
+  },
+  {
+   "s": "Es ist nicht mein Auto, ich habe es von Beat geliehen.",
+   "e": "It is not my car, I borrowed it from Beat."
+  },
+  {
+   "s": "Ich habe ihm eine Nachricht geschickt mit einem Foto.",
+   "e": "I sent him a message with a photo."
+  },
+  {
+   "s": "Er hat geschrieben: Und? Es sind noch fünf Monate.",
+   "e": "He wrote: and? There are still five months to go."
+  },
+  {
+   "s": "Fünf Monate bis zum nächsten November.",
+   "e": "Five months until the next November."
+  },
+  {
+   "s": "Er hat nicht bis zum Februar gerechnet.",
+   "e": "He did not count to February."
+  },
+  {
+   "s": "Er hat bis zur ersten Probe gerechnet.",
+   "e": "He counted to the first rehearsal."
+  },
+  {
+   "s": "Das ist der Unterschied zwischen jemandem, der zuschaut, und jemandem, der spielt.",
+   "e": "That is the difference between somebody who watches and somebody who plays."
+  },
+  {
+   "s": "Ich habe die vier Räppli aus der Jacke im Winter wieder gefunden.",
+   "e": "I found the four Räppli from the jacket again in the winter."
+  },
+  {
+   "s": "Sie sind immer noch drin.",
+   "e": "They are still in there."
+  },
+  {
+   "s": "Ich nehme sie nicht heraus.",
+   "e": "I do not take them out."
+  },
+  {
+   "s": "Das ist auch eine dumme Sache und sie kostet nichts.",
+   "e": "That is a stupid thing too and it costs nothing."
+  }
+ ]
+}

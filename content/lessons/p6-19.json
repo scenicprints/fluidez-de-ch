@@ -1,0 +1,322 @@
+{
+ "id": "p6-19",
+ "title": "Die Deutschen",
+ "desc": "The neighbours, discussed",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "deutsch",
+  "hören",
+  "reden"
+ ],
+ "sn": [
+  {
+   "s": "Jemand hat im Juni gesagt, dass ich langsam deutsch töne.",
+   "e": "In June somebody said that I am slowly starting to sound German."
+  },
+  {
+   "s": "Es war nicht als Lob gemeint und es war nicht als Beleidigung gemeint.",
+   "e": "It was not meant as praise and it was not meant as an insult."
+  },
+  {
+   "s": "Es war eine Feststellung und ich habe drei Tage daran gedacht.",
+   "e": "It was an observation and I thought about it for three days."
+  },
+  {
+   "s": "Der Grund ist einfach und ich habe ihn selber gemacht.",
+   "e": "The reason is simple and I made it myself."
+  },
+  {
+   "s": "Ich habe im Winter viel deutsches Fernsehen geschaut, zum Üben.",
+   "e": "In the winter I watched a lot of German television, for practice."
+  },
+  {
+   "s": "Es ist die einfachste Art, Deutsch zu hören, und sie hat einen Preis.",
+   "e": "It is the easiest way to hear German, and it has a price."
+  },
+  {
+   "s": "Man lernt Wörter, die hier niemand sagt, und einen Ton, der auffällt.",
+   "e": "You learn words nobody here says, and a tone that stands out."
+  },
+  {
+   "s": "Das Verhältnis zu den Deutschen ist eine eigene Sache.",
+   "e": "The relationship to the Germans is a thing of its own."
+  },
+  {
+   "s": "Es ist nicht Feindschaft und es ist nicht nichts.",
+   "e": "It is not enmity and it is not nothing."
+  },
+  {
+   "s": "Es ist ungefähr das, was ein kleiner Bruder über einen grossen sagt.",
+   "e": "It is roughly what a younger brother says about an older one."
+  },
+  {
+   "s": "Nur ist hier der kleine Bruder reicher und das macht es komplizierter.",
+   "e": "Only here the younger brother is richer and that makes it more complicated."
+  },
+  {
+   "s": "Man hört drei Sachen und immer die gleichen drei.",
+   "e": "You hear three things and always the same three."
+  },
+  {
+   "s": "Die erste ist die Lautstärke.",
+   "e": "The first is the volume."
+  },
+  {
+   "s": "Die zweite ist, dass sie sagen, was sie denken.",
+   "e": "The second is that they say what they think."
+  },
+  {
+   "s": "Die dritte ist, dass sie im Restaurant reklamieren.",
+   "e": "The third is that they complain in restaurants."
+  },
+  {
+   "s": "Alle drei sind der gleiche Satz mit anderen Wörtern.",
+   "e": "All three are the same sentence with different words."
+  },
+  {
+   "s": "Der Satz heisst: sie nehmen sich mehr Platz.",
+   "e": "The sentence is: they take up more room."
+  },
+  {
+   "s": "Und Platz ist hier die Währung, über die niemand redet.",
+   "e": "And room is the currency here that nobody talks about."
+  },
+  {
+   "s": "Das Wort dafür ist typisch und man hört es oft.",
+   "e": "The word for it is typisch and you hear it often."
+  },
+  {
+   "s": "Typisch deutsch.",
+   "e": "Typically German."
+  },
+  {
+   "s": "Typisch Zürich.",
+   "e": "Typically Zurich."
+  },
+  {
+   "s": "Typisch er.",
+   "e": "Typical of him."
+  },
+  {
+   "s": "Es ist nie ein Kompliment und es ist meistens nicht böse.",
+   "e": "It is never a compliment and it is mostly not nasty."
+  },
+  {
+   "s": "Es sagt: das habe ich erwartet.",
+   "e": "It says: I expected that."
+  },
+  {
+   "s": "Man kann es über alles sagen und alle wissen, wie es gemeint ist.",
+   "e": "You can say it about anything and everybody knows how it is meant."
+  },
+  {
+   "s": "Ich habe eine Zeit lang gedacht, dass es um die Sprache geht.",
+   "e": "For a while I thought that it was about the language."
+  },
+  {
+   "s": "Das stimmt nur zum Teil.",
+   "e": "That is only partly true."
+  },
+  {
+   "s": "Ein Deutscher wird hier sofort gehört und zwar am ersten Wort.",
+   "e": "A German is heard here immediately, at the very first word."
+  },
+  {
+   "s": "Es sind nicht die Wörter, es ist der Rhythmus.",
+   "e": "It is not the words, it is the rhythm."
+  },
+  {
+   "s": "Schweizer reden langsamer und lassen die Enden weicher.",
+   "e": "The Swiss talk more slowly and let the endings be softer."
+  },
+  {
+   "s": "Ein Deutscher redet schneller und die Enden sind hart und fertig.",
+   "e": "A German talks faster and the endings are hard and finished."
+  },
+  {
+   "s": "Es tönt sicherer und Sicherheit ist hier verdächtig.",
+   "e": "It sounds more certain and certainty is suspect here."
+  },
+  {
+   "s": "Das ist die eigentliche Sache und sie hat mit Grammatik nichts zu tun.",
+   "e": "That is the real thing and it has nothing to do with grammar."
+  },
+  {
+   "s": "Es gibt hier eine echte Spannung dahinter und sie ist neuer.",
+   "e": "There is a real tension behind it and it is newer."
+  },
+  {
+   "s": "Viele Deutsche arbeiten hier, in den Spitälern und an den Universitäten.",
+   "e": "A lot of Germans work here, in the hospitals and at the universities."
+  },
+  {
+   "s": "Sie verdienen hier mehr als daheim und alle wissen das.",
+   "e": "They earn more here than at home and everybody knows that."
+  },
+  {
+   "s": "Ein Arzt, den ich gehabt habe, war Deutscher.",
+   "e": "A doctor I had was German."
+  },
+  {
+   "s": "Er war gut und er hat schnell geredet.",
+   "e": "He was good and he talked fast."
+  },
+  {
+   "s": "Selina hat gesagt, dass ihre Mutter das nicht mag.",
+   "e": "Selina said that her mother does not like that."
+  },
+  {
+   "s": "Ich habe gefragt, warum.",
+   "e": "I asked why."
+  },
+  {
+   "s": "Sie hat gesagt: Weil sie ihn nicht ganz versteht.",
+   "e": "She said: because she does not quite understand him."
+  },
+  {
+   "s": "Sie hat gesagt: Und weil sie denkt, dass er sie nicht ganz versteht.",
+   "e": "She said: and because she thinks that he does not quite understand her."
+  },
+  {
+   "s": "Beides ist wahr und beides ist eine Sache von Sprache.",
+   "e": "Both are true and both are a matter of language."
+  },
+  {
+   "s": "Marianne redet Dialekt und der Arzt redet Hochdeutsch.",
+   "e": "Marianne speaks dialect and the doctor speaks standard German."
+  },
+  {
+   "s": "Zwei Leute, eine Sprache, und zwischen ihnen ist etwas.",
+   "e": "Two people, one language, and between them there is something."
+  },
+  {
+   "s": "Für mich ist das komisch, weil ich immer Hochdeutsch bekomme.",
+   "e": "For me that is odd, because I always get standard German."
+  },
+  {
+   "s": "Ich habe drei Jahre lang gedacht, dass alle so reden.",
+   "e": "For three years I thought that everybody talks like that."
+  },
+  {
+   "s": "Sie reden so mit mir.",
+   "e": "They talk like that to me."
+  },
+  {
+   "s": "Untereinander reden sie anders und das ist eine andere Sprache.",
+   "e": "Among themselves they talk differently and that is a different language."
+  },
+  {
+   "s": "Der Witz an dem Satz im Juni ist der.",
+   "e": "The joke about that sentence in June is this."
+  },
+  {
+   "s": "Für einen Schweizer tönt mein Deutsch deutsch.",
+   "e": "To a Swiss person my German sounds German."
+  },
+  {
+   "s": "Für einen Deutschen tönt es nach nichts Bestimmtem.",
+   "e": "To a German it sounds like nothing in particular."
+  },
+  {
+   "s": "Ich bin dazwischen und das wird immer so bleiben.",
+   "e": "I am in between and that will always stay that way."
+  },
+  {
+   "s": "Fatlum hat gesagt, dass es ihm gleich geht, nur anders.",
+   "e": "Fatlum said that it is the same for him, only differently."
+  },
+  {
+   "s": "Er redet Dialekt wie Timo, ohne einen einzigen Fehler.",
+   "e": "He speaks dialect like Timo, without a single mistake."
+  },
+  {
+   "s": "Und wenn er den Mund aufmacht, wissen alle, wo er aufgewachsen ist.",
+   "e": "And when he opens his mouth, everybody knows where he grew up."
+  },
+  {
+   "s": "Bei ihm hört man Luzern und die Leute sehen etwas anderes.",
+   "e": "With him you hear Luzern and people see something else."
+  },
+  {
+   "s": "Er hat gesagt: Bei dir ist es umgekehrt und das ist einfacher.",
+   "e": "He said: with you it is the other way round and that is easier."
+  },
+  {
+   "s": "Er hat recht.",
+   "e": "He is right."
+  },
+  {
+   "s": "Man kann eine Stimme ändern und ein Gesicht nicht.",
+   "e": "You can change a voice and not a face."
+  },
+  {
+   "s": "Ich habe im Juli aufgehört, deutsches Fernsehen zu schauen.",
+   "e": "In July I stopped watching German television."
+  },
+  {
+   "s": "Ich habe angefangen, Schweizer Radio zu hören, am Morgen.",
+   "e": "I started listening to Swiss radio, in the morning."
+  },
+  {
+   "s": "Es ist schwieriger und es ist langsamer und es hilft mehr.",
+   "e": "It is harder and it is slower and it helps more."
+  },
+  {
+   "s": "Nach zwei Monaten hat es niemand gesagt.",
+   "e": "After two months nobody said anything."
+  },
+  {
+   "s": "Das ist hier das Zeichen, dass etwas funktioniert.",
+   "e": "That is the sign here that something is working."
+  },
+  {
+   "s": "Es gibt eine Sache, die mir an dem Ganzen nicht gefällt.",
+   "e": "There is one thing about the whole business that I do not like."
+  },
+  {
+   "s": "Man redet hier gern über die Deutschen und über die Zürcher.",
+   "e": "People here like talking about the Germans and about the Zurichers."
+  },
+  {
+   "s": "Es ist harmlos und alle machen es und es kostet niemanden etwas.",
+   "e": "It is harmless and everybody does it and it costs nobody anything."
+  },
+  {
+   "s": "Bei anderen Gruppen ist es nicht harmlos und dann redet man leiser.",
+   "e": "With other groups it is not harmless and then people talk more quietly."
+  },
+  {
+   "s": "Ich habe zweimal gehört, wie jemand am Tisch leiser geworden ist.",
+   "e": "I twice heard somebody at a table get quieter."
+  },
+  {
+   "s": "Beide Male hat jemand anderes das Thema gewechselt.",
+   "e": "Both times somebody else changed the subject."
+  },
+  {
+   "s": "Das ist auch eine Antwort und es ist nicht die stärkste.",
+   "e": "That is an answer too and it is not the strongest one."
+  },
+  {
+   "s": "Beat hat einmal etwas anderes gemacht.",
+   "e": "Beat once did something different."
+  },
+  {
+   "s": "Er hat gesagt: Jetzt ist gut.",
+   "e": "He said: that is enough now."
+  },
+  {
+   "s": "Drei Wörter, sehr ruhig, und das Thema war fertig.",
+   "e": "Three words, very calmly, and the subject was over."
+  },
+  {
+   "s": "Ich habe mir diese drei Wörter aufgeschrieben.",
+   "e": "I wrote those three words down."
+  },
+  {
+   "s": "Ich habe sie noch nie gebraucht und ich habe sie parat.",
+   "e": "I have never yet used them and I have them ready."
+  }
+ ]
+}

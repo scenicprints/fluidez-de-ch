@@ -1,0 +1,318 @@
+{
+ "id": "p6-18",
+ "title": "Fluchen, ein bisschen",
+ "desc": "Swearing, at the local strength",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "fluchen",
+  "Wort",
+  "geben"
+ ],
+ "sn": [
+  {
+   "s": "Ich habe im Mai ein deutsches Wort gesagt und der Tisch ist kühler geworden.",
+   "e": "In May I said a German word and the table got cooler."
+  },
+  {
+   "s": "Nicht kalt. Kühler.",
+   "e": "Not cold. Cooler."
+  },
+  {
+   "s": "Niemand hat etwas gesagt und das ist hier das Zeichen.",
+   "e": "Nobody said anything and here that is the sign."
+  },
+  {
+   "s": "Es war ein Wort, das ich im Fernsehen gehört habe.",
+   "e": "It was a word I had heard on television."
+  },
+  {
+   "s": "Deutsches Fernsehen, deutsche Serie, deutsche Leute.",
+   "e": "German television, a German series, German people."
+  },
+  {
+   "s": "Es war nicht das schlimmste Wort und in Deutschland ist es normal.",
+   "e": "It was not the worst word and in Germany it is normal."
+  },
+  {
+   "s": "Hier ist es zu stark und es ist zu deutsch, und beides zählt.",
+   "e": "Here it is too strong and it is too German, and both count."
+  },
+  {
+   "s": "Fluchen heisst: schlimme Wörter sagen, weil man sich ärgert.",
+   "e": "Fluchen means: to say bad words because you are annoyed."
+  },
+  {
+   "s": "Der Fluch ist das Wort selber.",
+   "e": "The Fluch is the word itself."
+  },
+  {
+   "s": "Man flucht hier auch, natürlich.",
+   "e": "People swear here too, of course."
+  },
+  {
+   "s": "Nur ist die Skala ganz anders und sie fängt viel tiefer an.",
+   "e": "Only the scale is completely different and it starts much lower."
+  },
+  {
+   "s": "Die milden gehen fast überall und man hört sie den ganzen Tag.",
+   "e": "The mild ones work almost everywhere and you hear them all day."
+  },
+  {
+   "s": "Verdammt.",
+   "e": "Damn."
+  },
+  {
+   "s": "Mist.",
+   "e": "Blast."
+  },
+  {
+   "s": "So ein Seich.",
+   "e": "What nonsense."
+  },
+  {
+   "s": "Seich ist ein Wort vom Bauernhof und es heisst ungefähr Unsinn.",
+   "e": "Seich is a word from the farm and it means roughly nonsense."
+  },
+  {
+   "s": "Es ist das nützlichste von allen und es beleidigt niemanden.",
+   "e": "It is the most useful of them all and it insults nobody."
+  },
+  {
+   "s": "Es gibt eine Sache, die man von aussen nicht sieht.",
+   "e": "There is one thing you do not see from the outside."
+  },
+  {
+   "s": "Die Flüche hier kommen fast alle vom Land.",
+   "e": "The swear words here come almost all from the countryside."
+  },
+  {
+   "s": "Tiere, Wetter, Arbeit, Dreck.",
+   "e": "Animals, weather, work, dirt."
+  },
+  {
+   "s": "Man sagt nichts über Körper und nichts über Familien.",
+   "e": "You say nothing about bodies and nothing about families."
+  },
+  {
+   "s": "In anderen Sprachen ist es genau umgekehrt.",
+   "e": "In other languages it is exactly the other way round."
+  },
+  {
+   "s": "Zu Hause sind die stärksten Wörter über Familien.",
+   "e": "At home the strongest words are about families."
+  },
+  {
+   "s": "Wer das hier übersetzt, macht einen sehr grossen Fehler.",
+   "e": "Whoever translates that here makes a very big mistake."
+  },
+  {
+   "s": "Ich habe das zum Glück nie probiert.",
+   "e": "Luckily I never tried that."
+  },
+  {
+   "s": "Es gibt eine zweite Regel und die ist die eigentliche.",
+   "e": "There is a second rule and it is the real one."
+  },
+  {
+   "s": "Es geht nicht um das Wort, es geht um die Lautstärke.",
+   "e": "It is not about the word, it is about the volume."
+  },
+  {
+   "s": "Man kann hier fast alles sagen, wenn man es leise sagt.",
+   "e": "You can say almost anything here, if you say it quietly."
+  },
+  {
+   "s": "Man kann fast nichts sagen, wenn man es laut sagt.",
+   "e": "You can say almost nothing, if you say it loudly."
+  },
+  {
+   "s": "Beat flucht auf der Baustelle und niemand schaut.",
+   "e": "Beat swears on the building site and nobody looks."
+  },
+  {
+   "s": "Er flucht am Tisch nicht, auch nicht leise.",
+   "e": "He does not swear at the table, not even quietly."
+  },
+  {
+   "s": "Es ist kein Wortverbot, es ist eine Frage vom Ort.",
+   "e": "It is not a ban on words, it is a question of place."
+  },
+  {
+   "s": "Das habe ich zwei Jahre gebraucht, um es zu sehen.",
+   "e": "It took me two years to see that."
+  },
+  {
+   "s": "Ich habe nach Listen gesucht: das darf man, das nicht.",
+   "e": "I had been looking for lists: this is allowed, that is not."
+  },
+  {
+   "s": "Es gibt keine Liste.",
+   "e": "There is no list."
+  },
+  {
+   "s": "Es gibt einen Ort und eine Lautstärke und eine Person.",
+   "e": "There is a place and a volume and a person."
+  },
+  {
+   "s": "Die dritte Sache ist die, die mich an dem Abend erwischt hat.",
+   "e": "The third thing is the one that caught me that evening."
+  },
+  {
+   "s": "Ein deutsches Wort ist hier nicht nur ein starkes Wort.",
+   "e": "A German word here is not only a strong word."
+  },
+  {
+   "s": "Es ist ein Wort aus dem Fernsehen und das hört man sofort.",
+   "e": "It is a word from television and that is heard immediately."
+  },
+  {
+   "s": "Es tönt, als ob jemand eine Rolle spielt.",
+   "e": "It sounds as though somebody is playing a part."
+  },
+  {
+   "s": "Und eine Rolle spielen ist hier das Schlimmste von allem.",
+   "e": "And playing a part is the worst thing of all here."
+  },
+  {
+   "s": "Fatlum hat es mir später erklärt, draussen, wie immer.",
+   "e": "Fatlum explained it to me later, outside, as always."
+  },
+  {
+   "s": "Er hat gesagt: Es war nicht das Wort.",
+   "e": "He said: it was not the word."
+  },
+  {
+   "s": "Er hat gesagt: Es hat getönt wie aus einer Serie.",
+   "e": "He said: it sounded like something out of a series."
+  },
+  {
+   "s": "Er hat gesagt: Und du redest sonst nicht so.",
+   "e": "He said: and you do not otherwise talk like that."
+  },
+  {
+   "s": "Das ist die genaueste Erklärung, die ich je bekommen habe.",
+   "e": "That is the most precise explanation I have ever been given."
+  },
+  {
+   "s": "Man merkt hier sofort, wenn ein Wort nicht dem Menschen gehört.",
+   "e": "Here people notice immediately when a word does not belong to the person."
+  },
+  {
+   "s": "Es gibt zwei Flüche, die Schweizer sind, und beide sind mild.",
+   "e": "There are two swear words that are Swiss, and both are mild."
+  },
+  {
+   "s": "Man hört sie überall und man kann sie ohne Risiko brauchen.",
+   "e": "You hear them everywhere and you can use them without risk."
+  },
+  {
+   "s": "Der erste heisst Herrgott und er kommt aus der Kirche.",
+   "e": "The first is Herrgott and it comes from the church."
+  },
+  {
+   "s": "Er ist bei Alten stärker als bei Jungen.",
+   "e": "It is stronger among the old than among the young."
+  },
+  {
+   "s": "Bei Rosmarie wäre er zu viel gewesen.",
+   "e": "With Rosmarie it would have been too much."
+  },
+  {
+   "s": "Bei Beat ist er ein Komma.",
+   "e": "With Beat it is a comma."
+  },
+  {
+   "s": "Der zweite ist einfach Scheisse und es ist überall das gleiche Wort.",
+   "e": "The second is simply Scheisse and it is the same word everywhere."
+  },
+  {
+   "s": "Hier schreibt man es mit ss, weil es hier kein Eszett gibt.",
+   "e": "Here it is written with ss, because there is no eszett here."
+  },
+  {
+   "s": "Das ist keine Regel für dieses Wort, das ist die Regel für alle.",
+   "e": "That is not a rule for this word, that is the rule for all of them."
+  },
+  {
+   "s": "Ich habe im Juni gefragt, ob es ein Wort gibt, das man nie sagt.",
+   "e": "In June I asked whether there is a word you never say."
+  },
+  {
+   "s": "Timo hat überlegt und dann gesagt: Ja, aber nicht wegen dem Fluchen.",
+   "e": "Timo thought and then said: yes, but not because of the swearing."
+  },
+  {
+   "s": "Er hat gesagt: Es gibt Wörter über Ausländer.",
+   "e": "He said: there are words about foreigners."
+  },
+  {
+   "s": "Er hat gesagt: Die sagt man nicht und wer sie sagt, ist unten durch.",
+   "e": "He said: you do not say those and whoever says them is finished."
+  },
+  {
+   "s": "Er hat es sehr direkt gesagt, was er selten macht.",
+   "e": "He said it very directly, which he rarely does."
+  },
+  {
+   "s": "Fatlum ist danebengesessen und hat nichts gesagt.",
+   "e": "Fatlum was sitting next to him and said nothing."
+  },
+  {
+   "s": "Er hat mir zwei Wochen später erzählt, dass er sie trotzdem hört.",
+   "e": "Two weeks later he told me that he hears them all the same."
+  },
+  {
+   "s": "Nicht oft. Zweimal im Jahr, ungefähr.",
+   "e": "Not often. Twice a year, roughly."
+  },
+  {
+   "s": "Er hat gesagt: Und immer von jemandem, der es lustig findet.",
+   "e": "He said: and always from somebody who thinks it is funny."
+  },
+  {
+   "s": "Das ist die einzige Stelle in diesem ganzen Thema, die nicht mild ist.",
+   "e": "That is the only place in this whole subject that is not mild."
+  },
+  {
+   "s": "Ich habe seither auf das Wort verzichtet, das ich im Mai gesagt habe.",
+   "e": "Since then I have done without the word I said in May."
+  },
+  {
+   "s": "Ich habe kein anderes dafür gelernt.",
+   "e": "I have not learnt another one for it."
+  },
+  {
+   "s": "Ich sage jetzt Seich, viel zu oft, und alle lachen darüber.",
+   "e": "I now say Seich, far too often, and everybody laughs about it."
+  },
+  {
+   "s": "Beat hat gesagt: Du sagst das wie ein Bauer von siebzig.",
+   "e": "Beat said: you say that like a farmer of seventy."
+  },
+  {
+   "s": "Er hat es als Spass gesagt.",
+   "e": "He said it as a joke."
+  },
+  {
+   "s": "Ich habe gesagt: Danke.",
+   "e": "I said: thank you."
+  },
+  {
+   "s": "Er hat gesagt: Das war kein Kompliment.",
+   "e": "He said: that was not a compliment."
+  },
+  {
+   "s": "Ich habe gesagt: Doch.",
+   "e": "I said: doch."
+  },
+  {
+   "s": "Am Tisch haben zwei Leute gelacht und Beat hat den Kopf geschüttelt.",
+   "e": "At the table two people laughed and Beat shook his head."
+  },
+  {
+   "s": "Er hat nichts mehr gesagt und das heisst, dass ich gewonnen habe.",
+   "e": "He said nothing more and that means I won."
+  }
+ ]
+}

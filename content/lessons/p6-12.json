@@ -1,0 +1,350 @@
+{
+ "id": "p6-12",
+ "title": "Die Grinde",
+ "desc": "A mask, and what it lets you do",
+ "ph": 6,
+ "diff": 7,
+ "wu": [
+  "Grinde",
+  "sehen",
+  "stehen"
+ ],
+ "sn": [
+  {
+   "s": "Die Maske heisst hier Grinde.",
+   "e": "The mask here is called a Grinde."
+  },
+  {
+   "s": "Das Wort ist Dialekt und es heisst eigentlich Kopf.",
+   "e": "The word is dialect and it actually means head."
+  },
+  {
+   "s": "In Basel sagt man Larve und das ist ein anderes Wort für die gleiche Sache.",
+   "e": "In Basel they say Larve and that is a different word for the same thing."
+  },
+  {
+   "s": "Beide stehen so in der Zeitung, wenn über die Fasnacht geschrieben wird.",
+   "e": "Both appear like that in the paper when Fasnacht is written about."
+  },
+  {
+   "s": "Unsere sind aus einem harten Material und sie sind schwer.",
+   "e": "Ours are made of a hard material and they are heavy."
+  },
+  {
+   "s": "Sie kommen im November aus einer Kiste und im März wieder hinein.",
+   "e": "They come out of a box in November and go back in in March."
+  },
+  {
+   "s": "Sie gehen über den ganzen Kopf und sie haben zwei kleine Löcher.",
+   "e": "They go over the whole head and they have two small holes."
+  },
+  {
+   "s": "Man sieht sehr wenig und man hört fast nichts.",
+   "e": "You see very little and you hear almost nothing."
+  },
+  {
+   "s": "Man wird nach zwei Stunden sehr müde davon.",
+   "e": "You get very tired from it after two hours."
+  },
+  {
+   "s": "Und man kann alles machen.",
+   "e": "And you can do anything."
+  },
+  {
+   "s": "Das ist der Handel und niemand erklärt ihn, weil ihn alle kennen.",
+   "e": "That is the bargain and nobody explains it, because everybody knows it."
+  },
+  {
+   "s": "Sich verkleiden heisst: andere Kleider anziehen und jemand anderes sein.",
+   "e": "Sich verkleiden means: to put on other clothes and be somebody else."
+  },
+  {
+   "s": "Ich verkleide mich.",
+   "e": "I dress up."
+  },
+  {
+   "s": "Wir haben uns verkleidet.",
+   "e": "We dressed up."
+  },
+  {
+   "s": "Das Kostüm ist, was man anzieht.",
+   "e": "The Kostüm is what you put on."
+  },
+  {
+   "s": "Die Grinde ist, was man aufsetzt.",
+   "e": "The Grinde is what you put on your head."
+  },
+  {
+   "s": "Der Unterschied ist grösser, als er tönt.",
+   "e": "The difference is bigger than it sounds."
+  },
+  {
+   "s": "Ein Kostüm sieht man an.",
+   "e": "A costume is something people look at."
+  },
+  {
+   "s": "Hinter einer Grinde ist man weg.",
+   "e": "Behind a Grinde you are gone."
+  },
+  {
+   "s": "Am Donnerstagabend ist mir etwas passiert, das ich nicht erwartet habe.",
+   "e": "On Thursday evening something happened to me that I had not expected."
+  },
+  {
+   "s": "Wir waren in einer Beiz, fünfundzwanzig Leute in Kostümen.",
+   "e": "We were in a pub, twenty-five people in costumes."
+  },
+  {
+   "s": "Ich habe die Grinde aufgehabt und mit fremden Leuten geredet.",
+   "e": "I had the mask on and was talking to strangers."
+  },
+  {
+   "s": "Ich habe eine halbe Stunde geredet, ohne einmal stecken zu bleiben.",
+   "e": "I talked for half an hour without getting stuck once."
+  },
+  {
+   "s": "Kein Nachdenken, keine Pausen, keine Sätze im Kopf zuerst.",
+   "e": "No thinking, no pauses, no sentences in my head first."
+  },
+  {
+   "s": "Ich habe mit drei Leuten geredet, die ich nie gesehen habe.",
+   "e": "I talked to three people I have never seen."
+  },
+  {
+   "s": "Einer hat mich gefragt, in welcher Gugge ich bin.",
+   "e": "One of them asked me which band I am in."
+  },
+  {
+   "s": "Ich habe es gesagt und er hat über den Namen gelacht.",
+   "e": "I said it and he laughed at the name."
+  },
+  {
+   "s": "Ich habe gelacht, als ob ich den Witz verstehe.",
+   "e": "I laughed as if I understood the joke."
+  },
+  {
+   "s": "Danach bin ich hinaus und habe die Grinde abgenommen.",
+   "e": "Afterwards I went outside and took the mask off."
+  },
+  {
+   "s": "Ich bin in der Gasse gestanden und habe gemerkt, was passiert ist.",
+   "e": "I stood in the lane and noticed what had happened."
+  },
+  {
+   "s": "Es hat zwei Gründe und der erste ist einfach.",
+   "e": "There are two reasons and the first is simple."
+  },
+  {
+   "s": "Hinter einer Maske sieht niemand, wie du schaust.",
+   "e": "Behind a mask nobody sees how you are looking."
+  },
+  {
+   "s": "Wenn ich nachdenke, sieht man es mir an.",
+   "e": "When I am thinking, you can see it on me."
+  },
+  {
+   "s": "Ich schaue nach oben links und der andere wartet und merkt es.",
+   "e": "I look up and to the left and the other person waits and notices."
+  },
+  {
+   "s": "Dann werde ich schneller und dann mache ich Fehler.",
+   "e": "Then I get faster and then I make mistakes."
+  },
+  {
+   "s": "Hinter der Grinde ist das weg.",
+   "e": "Behind the Grinde that is gone."
+  },
+  {
+   "s": "Der zweite Grund ist grösser.",
+   "e": "The second reason is bigger."
+  },
+  {
+   "s": "Wenn niemand weiss, wer du bist, kannst du keinen Akzent haben.",
+   "e": "If nobody knows who you are, you cannot have an accent."
+  },
+  {
+   "s": "Der Akzent ist immer noch da.",
+   "e": "The accent is still there."
+  },
+  {
+   "s": "Er gehört nur niemandem mehr.",
+   "e": "It just does not belong to anybody any more."
+  },
+  {
+   "s": "Ich bin drei Jahre lang der mit dem Akzent gewesen.",
+   "e": "For three years I have been the one with the accent."
+  },
+  {
+   "s": "Freundlich, immer freundlich, und immer.",
+   "e": "Kindly, always kindly, and always."
+  },
+  {
+   "s": "An dem Abend war ich einer von fünfundzwanzig in gelben Kostümen.",
+   "e": "That evening I was one of twenty-five in yellow costumes."
+  },
+  {
+   "s": "Der Mann, der über den Namen gelacht hat, hat nicht gewusst, woher ich komme.",
+   "e": "The man who laughed at the name did not know where I come from."
+  },
+  {
+   "s": "Er hat es die ganze halbe Stunde nicht gewusst.",
+   "e": "He did not know it the whole half hour."
+  },
+  {
+   "s": "Das war das erste Mal seit drei Jahren.",
+   "e": "That was the first time in three years."
+  },
+  {
+   "s": "Ich habe es Selina am nächsten Tag erzählt.",
+   "e": "I told Selina about it the next day."
+  },
+  {
+   "s": "Sie hat lange nichts gesagt.",
+   "e": "She said nothing for a long time."
+  },
+  {
+   "s": "Dann hat sie gesagt: Das ist traurig und schön zugleich.",
+   "e": "Then she said: that is sad and lovely at the same time."
+  },
+  {
+   "s": "Ich habe gesagt: Es ist nicht traurig.",
+   "e": "I said: it is not sad."
+  },
+  {
+   "s": "Sie hat gesagt: Doch. Ein bisschen.",
+   "e": "She said: doch. A little."
+  },
+  {
+   "s": "Sie hatte recht und ich habe zwei Tage gebraucht, um es zuzugeben.",
+   "e": "She was right and it took me two days to admit it."
+  },
+  {
+   "s": "Die Fasnacht ist genau dafür gebaut und das ist nicht neu.",
+   "e": "Fasnacht is built for exactly that and that is not new."
+  },
+  {
+   "s": "Drei Tage im Jahr ist alles umgekehrt.",
+   "e": "For three days a year everything is turned round."
+  },
+  {
+   "s": "Man spielt drei Tage lang eine Rolle und alle wissen es.",
+   "e": "For three days you play a part and everybody knows it."
+  },
+  {
+   "s": "Wer nichts sagt, redet.",
+   "e": "Whoever says nothing talks."
+  },
+  {
+   "s": "Wer sich beklagt, ist lustig.",
+   "e": "Whoever complains is funny."
+  },
+  {
+   "s": "Wer sonst um zehn im Bett ist, steht um fünf auf der Strasse.",
+   "e": "Whoever is otherwise in bed at ten is on the street at five."
+  },
+  {
+   "s": "In einem Land, das das ganze Jahr sehr genau ist, ist das nicht ein Fest.",
+   "e": "In a country that is very precise all year, that is not a party."
+  },
+  {
+   "s": "Es ist ein Ventil und es hat ein Datum.",
+   "e": "It is a valve and it has a date."
+  },
+  {
+   "s": "Am Mittwoch danach ist alles wieder genau, auf die Minute.",
+   "e": "On the Wednesday afterwards everything is precise again, to the minute."
+  },
+  {
+   "s": "Es hat auch eine Grenze und die habe ich fast überschritten.",
+   "e": "It has a limit as well and I nearly crossed it."
+  },
+  {
+   "s": "Man darf hinter der Maske vieles sagen.",
+   "e": "Behind the mask you may say a lot."
+  },
+  {
+   "s": "Man darf jemandem die Wahrheit sagen und es gilt nicht.",
+   "e": "You may tell somebody the truth and it does not count."
+  },
+  {
+   "s": "Aber man nimmt die Maske nicht ab, um etwas zu sagen.",
+   "e": "But you do not take the mask off in order to say something."
+  },
+  {
+   "s": "Das habe ich am Samstag fast gemacht.",
+   "e": "I nearly did that on the Saturday."
+  },
+  {
+   "s": "Fatlum ist neben mir gestanden und hat es gesehen.",
+   "e": "Fatlum was standing next to me and saw it."
+  },
+  {
+   "s": "Er hat gesagt: Lass sie auf.",
+   "e": "He said: leave it on."
+  },
+  {
+   "s": "Er hat gesagt: Wenn du sie abnimmst, ist es ernst.",
+   "e": "He said: if you take it off, it is serious."
+  },
+  {
+   "s": "Das war der ganze Unterricht und er hat vier Sekunden gedauert.",
+   "e": "That was the whole lesson and it lasted four seconds."
+  },
+  {
+   "s": "Am Dienstagabend um elf haben wir sie alle abgenommen.",
+   "e": "On Tuesday evening at eleven we all took them off."
+  },
+  {
+   "s": "Alle gleichzeitig, ohne dass jemand etwas gesagt hat.",
+   "e": "Everybody at the same time, without anybody saying anything."
+  },
+  {
+   "s": "Fünfundzwanzig rote Gesichter und alle nass.",
+   "e": "Twenty-five red faces and all of them wet."
+  },
+  {
+   "s": "Zu Hause habe ich zwanzig Minuten geduscht.",
+   "e": "At home I showered for twenty minutes."
+  },
+  {
+   "s": "Wir sind zwanzig Minuten dort gestanden und haben nichts gemacht.",
+   "e": "We stood there for twenty minutes and did nothing."
+  },
+  {
+   "s": "Margrit hat gesagt: So. Bis November.",
+   "e": "Margrit said: right. Until November."
+  },
+  {
+   "s": "Dann ist sie nach Hause.",
+   "e": "Then she went home."
+  },
+  {
+   "s": "Ich habe meine Grinde im Keller.",
+   "e": "I keep my Grinde in the cellar."
+  },
+  {
+   "s": "Sie liegt oben auf dem Kasten, wo sie niemand sieht.",
+   "e": "It lies on top of the cupboard, where nobody sees it."
+  },
+  {
+   "s": "Sie steht dort neben den Skiern, die ich einmal geliehen habe.",
+   "e": "It stands there next to the skis I once borrowed."
+  },
+  {
+   "s": "Im Juli habe ich sie einmal angeschaut.",
+   "e": "In July I looked at it once."
+  },
+  {
+   "s": "Ich habe sie nicht aufgesetzt.",
+   "e": "I did not put it on."
+  },
+  {
+   "s": "Das würde nicht funktionieren, im Juli, im Keller, allein.",
+   "e": "That would not work, in July, in a cellar, alone."
+  },
+  {
+   "s": "Sie funktioniert nur, wenn zweihundert Leute auf der Strasse stehen.",
+   "e": "It only works when two hundred people are standing in the street."
+  }
+ ]
+}
